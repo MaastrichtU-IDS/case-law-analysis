@@ -2,4 +2,9 @@ Cleaning:
 
 - Remove duplicate rows for judgements only
 
+Features:
+- Chamber meaning
+- Country source (multiple countries)
+- Uniqueness of the advocate and judge
+- Lodge date and document date (meaning)
 
