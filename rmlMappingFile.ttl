@@ -64,7 +64,7 @@
     ];
     
     rr:predicateObjectMap [
-    rr:predicate lex-p:ecli ;
+    rr:predicate lex-p:caseLabel ;
  
     rr:objectMap [
       rml:reference "case_label";
