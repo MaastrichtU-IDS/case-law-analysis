@@ -4,10 +4,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 # ### Merging judgements and orders
 
-df_o = pd.read_csv('data/order_metadata.csv', encoding='Latin-1') 
-df_j = pd.read_csv('data/judgement_metadata.csv', encoding='Latin-1') #utf8 expected characters
-df_or = pd.read_csv('data/orders_ruling.csv', encoding='Latin-1') 
-df_jr = pd.read_csv('data/judgements_ruling.csv', encoding='Latin-1') #utf8 expected characters
+df_o = pd.read_csv('data/orders_metadata.csv', encoding='Latin-1') 
+df_j = pd.read_csv('data/judgements_metadata.csv', encoding='Latin-1') #utf8 expected characters
+df_or = pd.read_csv('data/orders_ruling.csv', encoding='utf-8') 
+df_jr = pd.read_csv('data/judgements_ruling.csv', encoding='utf-8') #utf8 expected characters
 
 #--
 df_j = df_j[list(df_o.columns.values)] #order the columns
@@ -101,12 +101,13 @@ df['country-chamber'] = df['country']+'-'+df['chamber']
 # ## Validation of columns in rulings
 df_jr = df_jr[list(df_or.columns.values)] #order the columns
 raw_r = df_jr.append(df_or, ignore_index=True)
+raw_r['c8'] = raw_r['c1']
 
-df_r = get_grouped_df(raw_r, 'c1', 'c2')
-df_r = df_r[['c1','c3','c4','c5','c6','c7']]
-df_r.columns = ['source','ruling_name','ruling_type','ruling_content','case_label','extra']
+df_r = get_grouped_df(raw_r, 'c1', 'c8')
+df_r = df_r[['c1','c2','c3','c4','c5','c6','c7']]
+df_r.columns = ['source','ruling_title','ruling_name','ruling_type','ruling_content','case_label','extra']
 
-df_r = convert_nan(df_r, ['ruling_type','ruling_content','case_label','extra'])
+df_r = convert_nan(df_r, ['ruling_title','ruling_type','ruling_content','case_label','extra'])
 
 #correction 62011CJ0363
 df_r.loc[df_r['source'] == '62011CJ0363', 'ruling_name'] = list(df.loc[df['source'] == '62011CJ0363', 'ruling_name'])[0]
@@ -167,9 +168,9 @@ df_r.loc[df_r['source'] == '61997CJ0254', 'ruling_content'] = value1
 columns = ['source', 'case_label', 'ecli', 'case_type', 'judge', 'advocate', 'country', 'country-chamber','chamber', 'main_subject',
  'lodge_date', 'document_date','year_document', 'month_document', 'year_lodge', 'month_lodge', 'case_time', 'n_countries', 'joined_cases']
 df = df[columns]
-df_r = df_r[['source','ruling_name','ruling_type','ruling_content']]
+df_r = df_r[['source','ruling_title','ruling_name','ruling_type','ruling_content']]
 df = df.merge(df_r, on='source')
 
 #write to file
-df.to_csv('data/cases.csv', header=True, index=False, encoding='utf8')
+df.to_csv('data/cases_metadata.csv', header=True, index=False, encoding='utf8')
 
