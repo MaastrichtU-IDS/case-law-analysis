@@ -20,5 +20,5 @@ def convert_nan(df, columns):
 
 df = convert_nan(merge_3, list(merge_3.columns))
 
-df.to_csv('data/cases.csv', header=True, index=False, encoding='utf8')
+df.to_csv('data/cases_full.csv', header=True, index=False, encoding='utf8')
 
