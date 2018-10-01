@@ -12,48 +12,133 @@
 
 source,target,paragraph,subject,country,case_label,ecli,case_type,judge,advocate,country-chamber,chamber,main_subject,lodge_date,document_date,year_document,month_document,year_lodge,month_lodge,case_time,n_countries,joined_cases,ruling_title,ruling_name,ruling_type,ruling_content
 
+///short after drill query
+source,target,paragraph,case_label,ecli,judge,advocate,country,lodge_date,document_date,year_document,case_time,year_lodge,ruling_name
+
+///select, where country =1, 
+///drill http://localhost:8047/
 
 //Loading table 
-LOAD CSV WITH HEADERS FROM "file:///home/pedrohserrano/cases_test.csv" AS row
+LOAD CSV WITH HEADERS FROM "https://s3.eu-central-1.amazonaws.com/maastrichtuniversity-ids-open/lex2rdf/cases_iicp.csv" AS row
 //Defining vertex
-MERGE (src:Case {
-Celex: row.source,
-Year: toInt(row.year_document),
-Ecli: row.ecli})
+MERGE (src:Case {Celex: row.source, 
+	Ecli: row.ecli, 
+	RulingName: row.ruling_name, 
+	Time: row.case_time, 
+	YearDoc: toInteger(row.year_document),
+	YearLodge: toInteger(row.year_lodge)
+	})
 MERGE (tgt:Case {
 Celex: row.target})
-
-MERGE (j:Judge {
-Name: row.judge})
-
-//MERGE (y:Year {Name: toInt(row.year)})
-
+MERGE (ct:Country {	Name: row.country})
+MERGE (j:Judge {	Name: row.judge})
+MERGE (a:Advocate {	Name: row.advocate})
+MERGE (frag:Fragment {N: row.paragraph})
 //Defining edges 
+MERGE (tgt)<-[:cites]-(src)
+MERGE (frag)<-[:has_fragment]-(tgt)
+MERGE (j)-[:delivers_law]->(src)
+MERGE (src)-[:has_advocate]->(a)
+MERGE (ct)<-[:country_origin]-(src)
 
-(tgt) <- [] - (src)
-MERGE (src)-[:cites {fragment: row.paragraph}]->(tgt)
-
-
-MERGE (src)<-[:Delivered_by]-(j)
-
-ON CREATE SET src.weight = toInt(row.main_subject)
+//ON CREATE SET src.weight = toInt(row.main_subject)
 //MERGE (r)-[:Crime {Orig: toInt(row.Crim_o), Dest: toInt(row.Crim_d)}]-(y)
 
+MATCH p=()-[r:delivers_law]->()-[:cites]-() 
+MATCH q=()<-[r:has_fragment]-()
+RETURN p, q LIMIT 25
 
-
-
-//Loading table 
-LOAD CSV WITH HEADERS FROM "file:///home/pedrohserrano/cases_test.csv" AS row
-MERGE (src:Case {Celex: row.source, Year: toInt(row.year_document), Ecli: row.ecli})
-MERGE (tgt:Case {Celex: row.target})
-MERGE (j:Judge {Name: row.judge}) 
-MERGE (src)-[:cites {fragment: row.paragraph}]->(tgt)
-MERGE (src)-[:Delivered_by]->(j)
-ON CREATE SET src.weight = toInt(row.main_subject)
+MATCH (s)-[:cites]->(t) -[:has_fragment]->(f)
+MATCH (a)<-[:has_advocate]-(s)<-[:delivers_law]-(j) 
+MATCH (c)<-[:country_origin]-(s)
+RETURN s,t,f,a,j,c LIMIT 25
 
 
 
 
+///apache http://localhost:8047
+
+
+///where statement to filter countries or subjects
+ATCH (n)-[k:KNOWS]->(f)
+WHERE k.since < 2000
+RETURN f.name, f.age, f.email
+
+
+
+/// General query
+SELECT 
+columns[0] as `source`
+,columns[1] as `target`
+,columns[2] as `paragraph`
+,columns[5] as `case_label`
+,columns[6] as `ecli`
+,columns[8] as `judge`
+,columns[9] as `advocate`
+,columns[13] as `lodge_date`
+,columns[14] as `document_date`
+,columns[15] as `year_document`
+,columns[19] as `case_time`
+,columns[17] as `year_lodge`
+,columns[23] as `ruling_name`
+FROM dfs.`/Users/pedrohserrano/cases_full.csv` 
+WHERE (columns[20]='1' 
+	AND columns[7]='Judgement' 
+	AND columns[3]='Intellectual; industrial and commercial property' 
+	AND columns[4]='Netherlands'
+	AND columns[12] ='1' 
+	AND columns[15] > 2000)
+ORDER BY `case_time` DESC
+LIMIT 20;
+
+/// Number of cases by subject matters
+SELECT columns[3] as `subject`, COUNT(DISTINCT columns[0]) as `cases`
+FROM dfs.`/Users/pedrohserrano/cases_full.csv` 
+GROUP BY columns[3]
+ORDER BY `cases` desc
+
+/// Number of cases by country-chamber
+SELECT columns[4] as `country`, columns[11] as `chamber`, COUNT(DISTINCT columns[0]) as `cases`
+FROM dfs.`/Users/pedrohserrano/cases_full.csv` 
+WHERE columns[15] > 2000 AND columns[7]='Judgement' 
+GROUP BY columns[4], columns[11]
+ORDER BY `cases` desc
+
+///grouo by time of the cases
+
+
+
+///Approximation of laws (1st with 1598 cases)
+///Intellectual; industrial and commercial property (10 with 704 cases)
+///Competition (Third with 1168 cases)
+
+///All columns
+columns[0] as `source`
+,columns[1] as `target`
+,columns[2] as `paragraph`
+,columns[3] as `subject`
+,columns[4] as `country`
+,columns[5] as `case_label`
+,columns[6] as `ecli`
+,columns[7] as `case_type`
+,columns[8] as `judge`
+,columns[9] as `advocate`
+,columns[10] as `country-chamber`
+,columns[11] as `chamber`
+,columns[12] as `main_subject`
+,columns[13] as `lodge_date`
+,columns[14] as `document_date`
+,columns[15] as `year_document`
+,columns[16] as `month_document`
+,columns[17] as `year_lodge`
+,columns[18] as `month_lodge`
+,columns[19] as `case_time`
+,columns[20] as `n_countries`
+,columns[21] as `joined_cases`
+,columns[22] as `ruling_title`
+,columns[23] as `ruling_name`
+,columns[24] as `ruling_type`
+,columns[25] as `ruling_content`
 
 
 ///////////////Graph decriptive analysis///////////////
