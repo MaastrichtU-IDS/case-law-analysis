@@ -1,0 +1,145 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix  rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix mail: <http://example.com/mail#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix ex: <http://www.example.com/> .
+@prefix lex-o: <http://lex2rdf.org/ontology/> .
+@prefix lex-p: <http://lex2rdf.org/property/> .
+@prefix eup: <http://publications.europa.eu/ontology/cdm#> .
+
+<#CaseMapping>
+    rml:logicalSource [
+	rml:source "/AMaastricht/1Projects/7Lex2RDF/RML-Mapper/RML-Processor/src/test/resources/lex2rdf/cases.csv";
+        rml:referenceFormulation ql:CSV
+    ];
+    rr:subjectMap [
+	 rr:template "http://lex2rdf.org/{source}";
+	 rr:class lex-o:Case 
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:source ;
+ 
+    rr:objectMap [
+      rml:reference "source";
+      rr:datatype eup:identifier_case;
+      ]
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:chamber ;
+ 
+    rr:objectMap [
+      rml:reference "chamber";
+      rr:language "en";
+      ]
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:rulingName ;
+ 
+    rr:objectMap [
+      rml:reference "ruling_name";
+      rr:datatype eup:title;
+      ]
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:rulingType ;
+ 
+    rr:objectMap [
+      rml:reference "ruling_type";
+      rr:datatype eup:type;
+      ]
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate eup:work_summarized_by_summary ;
+ 
+    rr:objectMap [
+      rml:reference "ruling_content";
+      rr:language "en";
+      ]
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:caseLabel ;
+ 
+    rr:objectMap [
+      rml:reference "case_label";
+      rr:language "en";
+      ]
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:ecli ;
+ 
+    rr:objectMap [
+      rml:reference "ecli";
+      rr:datatype eup:case-law_ecli;
+      ]
+    ];  
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:ecli ;
+ 
+    rr:objectMap [
+      rml:reference "ecli";
+      rr:datatype eup:case-law_ecli;
+      ]
+    ];        
+
+    rr:predicateObjectMap [
+    rr:predicate lex-p:lodgeDate;
+ 
+    rr:objectMap [
+      rml:reference "lodge_date";
+      rr:datatype eup:date_creation;
+      ]
+    ]; 
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:documentDate;
+ 
+    rr:objectMap [
+      rml:reference "document_date";
+      rr:datatype eup:date_document;
+      ]
+    ]; 
+    
+    rr:predicateObjectMap [
+    rr:predicate lex-p:country;
+ 
+    rr:objectMap [
+      rml:reference "country";
+      rr:language "en";
+      ]
+    ]; 
+    
+    rr:predicateObjectMap [
+    rr:predicate eup:judge_delivers_case-law ;
+ 
+    rr:objectMap [
+      rml:reference "judge";
+      rr:language "en";
+      ]
+    ];    
+                  
+    rr:predicateObjectMap [
+    rr:predicate eup:advocate-general_delivers_case-law;
+ 
+    rr:objectMap [
+      rml:reference "advocate";
+      rr:language "en";
+      ]
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate eup:subject_of;
+ 
+    rr:objectMap [
+      rml:reference "main_subject";
+      rr:language "en";
+      ]
+    ].
