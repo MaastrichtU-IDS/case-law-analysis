@@ -1,0 +1,110 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+February (
+*) (
+)
+‛Reference for a preliminary ruling — Regulation (EEC) No 2658/— Customs union and Common Customs Tariff — Tariff classification — Combined Nomenclature — Validity — Regulation (EU) No 301/— Headings and — Three-wheeled motor vehicle called ‘Spyder’’
+In Case C‑145/16,
+REQUEST for a preliminary ruling under Article TFEU from the Gerechtshof Amsterdam (Court of Appeal, Amsterdam, Netherlands), made by decision of March 2016, received at the Court on March 2016, in the proceedings
+Aramex Nederland BV
+v
+Inspecteur van de Belastingdienst/Douane,
+THE COURT (Sixth Chamber),
+composed of E. Regan, President of the Chamber, C.G. Fernlund and S. Rodin (Rapporteur), Judges,
+Advocate General: N. Wahl,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Aramex Nederland BV, by W. de Wit and O.R.L. Gemin, adviseurs,
+—
+the Netherlands Government, by M. Bulterman and M. Gijzen, acting as Agents,
+—
+the European Commission, by A. Caeiros and P. Vanden Heede, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns, in essence, the interpretation of headings and of the Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Implementing Regulation (EU) No 927/of October (OJ L 304, p. 1) (‘the CN’).
+The request has been made in proceedings between Aramex Nederland BV (‘Aramex’) and the Inspecteur van de Belastingdienst/Douane (‘the inspector’) concerning the tariff classification of a three-wheeled vehicle called ‘Spyder’ within the CN.
+Legal context
+EU law
+The CN, introduced by Regulation No 2658/87, is based on the Harmonised Commodity Description and Coding System (‘the HS’), which was drawn up by the Customs Cooperation Council, now the World Customs Organisation (WCO), and established by the International Convention on the Harmonised Commodity Description and Coding System, concluded in Brussels on June (‘the International HS Convention’). That convention, with its amending protocol of June 1986, was approved on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1).
+Heading of the CN is structured as follows:
+‘…Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702), including station wagons and racing cars:21— — of a cylinder capacity not exceeding cm3:10— — — new…’— — — used
+Heading of the CN is structured as follows:
+‘…Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars:00— with reciprocating internal combustion piston engine of a cylinder capacity exceeding cm…’
+The Annex to Commission Implementing Regulation (EU) No 301/of April concerning the classification of certain goods in the Combined Nomenclature, adopted pursuant to Article 9(1)(a) of Regulation No 2658/87, classifies in the CN the goods described in the first column of the table included therein under the code indicated in relation to those goods in the second column of that table. As regards subheading 10, that table provides:
+New three-wheeled motor vehicle, rear wheel driven, for the transport of persons, with spark-ignition internal combustion reciprocating piston engine of a cylinder capacity of cm3.
+The front wheels are approximately cm apart. The vehicle does not have a differential.
+The vehicle has a motor car type steering system. It steers using the handlebar with two grips incorporating the controls.
+The vehicle has five forward gears and a reverse gear.
+Classification is determined by General Rules and for the interpretation of the Combined Nomenclature and by the wording of CN codes 8703, and 10.
+Three-wheeled vehicles are classified under heading provided they do not have the character of motor vehicles of heading (see also the HS Explanatory Notes to heading 8711, fifth paragraph).
+Heading includes lightweight three-wheeled vehicles of simpler construction, such as those fitted with a motorcycle engine and wheels, which, by virtue of their mechanical structure, possess the characteristics of conventional motor cars, that is a motor car type steering system (see also the HS Explanatory Notes to heading 8703, second paragraph).
+As the vehicle has a motor car type steering system, a characteristic of conventional motor vehicles covered by heading 8703, classification under heading is excluded.
+The vehicle is therefore to be classified as a new motor vehicle principally designed for the transport of persons under CN code 10.
+The explanatory notes to the HS
+Under Article 6(1) of the International Convention on the Harmonised Commodity Description and Coding System, a committee called the ‘Harmonised System Committee’, composed of representatives of each contracting party, was set up within the Customs Cooperation Council. One of the tasks of the Committee is to propose amendments to that convention and to prepare explanatory notes (‘HS Explanatory Notes’), classification opinions and other advice on the interpretation of the HS.
+The HS Explanatory Note relating to heading is worded as follows:
+‘This heading covers motor vehicles of various types (including amphibious motor vehicles) designed for the transport of persons; it does not, however, cover the motor vehicles of heading 87.02. The vehicles of this heading may have any type of motor (internal combustion piston engine, electric motor, gas turbine, etc.).
+The heading also covers lightweight three-wheeled vehicles such as:
+—
+those fitted with motorcycle engines and wheels, etc., but which, by virtue of their mechanical structure, possess the characteristics of conventional motor cars. That is to say, they are provided with a motor car type steering system or both reverse gear and differential;
+—
+those mounted on a T-shaped chassis, whose two rear wheels are independently driven by separate battery-powered electric motors. These vehicles are normally operated by means of a single central control stick with which the driver can start, accelerate, brake, stop and reverse the vehicle, as well as steer it to the right or to the left by applying a differential torque to the drive wheels or by turning the front wheel.
+…
+The heading also includes:
+…
+(6)
+Four-wheeled motor vehicles with tube chassis, having a motor car type steering system (e.g. a steering system based on the Ackermann principle). …’
+The HS Explanatory Note relating to heading states:
+‘This heading covers a group of two-wheeled motorised vehicles which are essentially designed for carrying persons.
+…
+Three-wheeled vehicles (e.g., the ‘delivery tricycle’ type) are also classified here provided they do not have the character of motor vehicles of heading 87.(see Explanatory Note to heading 87.03).
+…
+The heading excludes:
+…
+Four-wheeled motor vehicles, for the transport of persons, with tube chassis, having a motor car type steering system (e.g., a steering system based on the Ackermann principle) (heading 87.03).’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+On April 2013, following a declaration of release for free circulation of a vehicle called RD Spyder RS-S SMDR EUR (‘the Spyder’) made by Aramex, the Netherlands tax authorities sent that company a tax assessment notice corresponding to the tariff classification of the Spyder under subheading 10. On May 2013, Aramex lodged an objection to that assessment, since it considers that the Spyder should be classified under subheading 00. That objection was rejected on September 2013.
+The action brought by Aramex before the Rechtbank Noord-Holland (District Court, North Holland, Netherlands) against that tax assessment notice was dismissed as unfounded by a judgment of December 2014.
+On January 2015, the applicant brought an appeal against that judgment before the Gerechtshof Amsterdam (Amsterdam Regional Court of Appeal, Netherlands). That court considers that it is not possible to determine unambiguously whether the Spyder, given its objective characteristics and properties, should be classified as a ‘motorcycle’ or as a ‘motor vehicle’.
+The parties to the proceedings before the referring court do not contest the fact that the Spyder was the model for Implementing Regulation No 301/2012, on the basis of which that vehicle was classified under heading 8703. Nevertheless, Aramex considers that that regulation is invalid.
+The referring court notes, in the first place, that the Spyder is equipped with wheels the tyre dimensions of which are common for motor cars but that those tyres are manufactured specially for three-wheeled motorcycles.
+In the second place, the Spyder has a steering geometry which satisfies the Ackermann principle and it otherwise has a steering system that is significantly different from that of a motor car. Instead of a steering wheel, it is fitted with a handlebar like that of a motorcycle, with two handles on which the controls are mounted. Unlike a steering wheel, that handlebar cannot be completely rotated: the maximum deflection to the left and to the right is about degrees, like that of a motorcycle. Moreover, there is no universal joint and no steering box, like in a motor car, by means of which the rotating motion of the steering shaft is converted into a linear movement, whereas the rotating motion of the steering shaft of the Spyder is converted into that movement in a different way, namely by means of a ‘pitman arm’. The similarities with the steering mechanism of a motor car are confined to the presence of a steering shaft, tie rods, wheels and the already mentioned steering geometry which satisfies the Ackermann principle. Nevertheless, the referring court considers that it does not appear explicitly from the wording of the HS Explanatory Note relating to heading that the presence, in a lightweight three-wheeled vehicle, of a steering system based on the Ackermann principle is sufficient to warrant a reference to a motor car type steering system as is the case with respect to four-wheeled vehicles according to the HS Explanatory Note relating to heading 8703, point 6.
+According to the referring court, the characteristics referred to in the two previous paragraphs of the present judgment may be relevant to determine whether the Spyder corresponds to the category of ‘lightweight three-wheeled vehicles’ referred to in the first example of the HS Explanatory Note relating to heading 8703. However, that court acknowledges that those examples are non-limitative.
+The referring court points out that although the first column of the Annex to Implementing Regulation No 301/indicates as a factual characteristic that the Spyder has a motor car type steering system, no elements set out in the third column of that annex allows it to be known whether the European Commission in fact verified it and on the basis of which criteria.
+In view of the above, since it entertains doubts concerning the merits of the classification advocated by the Commission, the referring court decided to stay its proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Is Implementing Regulation No 301/valid?’
+Consideration of the question referred
+It should be observed as a preliminary point that, according to the Court’s settled case-law, in the procedure laid down by Article TFEU, providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. With this in mind, the Court of Justice may, where necessary, have to reformulate the questions referred to it (see, to that effect, judgment of October 2016, M. and S., C‑303/15, EU:C:2016:771, paragraph and the case-law cited).
+By its question, the referring court asks, in essence, whether the CN must be interpreted as meaning that a three-wheeled vehicle, such as that at issue in the main proceedings, fitted with tyres manufactured for three-wheeled motorcycles but similar to those for motor cars, steered using a handlebar and fitted with a steering system based on the Ackermann principle, falls within heading of the CN.
+In that regard, it should be noted that, according to the Court’s settled case-law, the Council of the European Union has conferred upon the Commission, acting in cooperation with the customs experts of the Member States, broad discretion to define the subject matter of tariff headings falling to be considered for the classification of particular goods. However, the Commission’s power to adopt the measures mentioned in Article 9(1)(a), (b), (d) and (e) of Regulation No 2658/87, like drafting additional notes, does not authorise it to alter the subject matter of the tariff headings which have been defined on the basis of the HS established by the International HS Convention whose scope the European Union has undertaken, under Article thereof, not to modify (see, to that effect, judgment of February 2015, Raytek and Fluke Europe, C‑134/13, EU:C:2015:82, paragraph and the case-law cited).
+Moreover, in the interests of legal certainty and ease of verification, the decisive criterion for the classification of goods for customs purposes is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and of the notes to the section or chapter (judgment of December 2016, Lemnis Lighting, C‑600/15, EU:C:2016:937, paragraph and the case-law cited).
+Admittedly, the intended use of a product may also constitute an objective criterion for classification if it is inherent to the product, and that inherent character must be capable of being assessed on the basis of the product’s objective characteristics and properties. However, the intended use of a product is a relevant criterion only where the classification cannot be made on the sole basis of the objective characteristics and properties of the product (judgment of June 2016, MIS, C‑288/15, EU:C:2016:424, paragraph 24).
+Moreover, it should be noted that the HS Explanatory Notes are an important means of ensuring the uniform application of the Common Customs Tariff and, as such, may be regarded as useful aids to its interpretation (judgment of December 2016, Lemnis Lighting, C‑600/15, EU:C:2016:937, paragraph 37).
+For the purposes of assessing whether a three-wheeled vehicle, such as that at issue in the main proceedings, can be classified under heading of the CN, it must first of all be noted that the classification of three-wheeled vehicles in heading is subsidiary to their classification in heading 8703, since, according to the HS Explanatory Note relating to heading 8711, the latter covers those vehicles only on condition that they do not have the characteristics of a motor car coming within heading 8703.
+First, as regards the question whether it is necessary to take into account, for the purposes of the classification of a three-wheeled vehicle in heading 8703, whether or not that vehicle uses motorcycle wheels, it should be noted that the HS Explanatory Note relating to that heading indicates that that heading covers, in particular, lightweight three-wheeled vehicles fitted with a motorcycle engine and wheels and which, by virtue of their mechanical structure, possess the characteristics of motor cars.
+It should be noted, in that regard, that the HS Explanatory Note relating to heading therefore provides examples of three-wheeled vehicles which must be classified in that heading.
+Therefore, even if the vehicles mentioned as examples in that note possess equipment similar to that of motorcycles, in particular the use of motorcycle wheels, the existence of such equipment does not constitute a condition for the classification in heading of three-wheeled vehicles which, by virtue of their mechanical structure, possess the characteristics of motor cars. It follows that the fact that a vehicle does not use motorcycle wheels does not prevent its classification in that heading.
+Secondly, concerning the question whether three-wheeled vehicles equipped with a steering system, whose similarity with the system equipping motor cars is limited to the fact that that system is based on the Ackermann principle, are ‘equipped with a motor car type steering system’, within the meaning of the HS Explanatory Note relating to heading 8703, it should be noted that that note states, in essence, that this heading covers motor vehicles of various types which have certain technical characteristics such as motor car type steering based on the Ackermann principle (see, in that regard, judgment of April 2006, Kawasaki Motors Europe, C‑15/05, EU:C:2006:259, paragraph 43).
+Moreover, although it is true that the first example provided by the HS Explanatory Note relating to heading does not define the concept of ‘motor car type steering system’, that note provides that ‘four-wheeled motor vehicles with tube chassis, having a motor car type steering system (e.g., a steering system based on the Ackermann principle)’, fall within that heading.
+It follows that three-wheeled vehicles equipped with a steering system, whose similarity with the system equipping motor cars is limited to the fact that that system is based on the Ackermann principle, are ‘equipped with a motor car type steering system’, within the meaning of the HS Explanatory Note relating to heading 8703.
+Thirdly, as regards the classification of a three-wheeled vehicle equipped with a handlebar in heading 8703, as set out in Regulation No 301/2012, it should be noted that that characteristic is included neither in the wording of heading nor in the HS Explanatory Note relating to that heading. Therefore, the fact that a three-wheeled vehicle is equipped with a handlebar does not prevent its classification in heading 8703.
+Taking into account that the steering system of a vehicle, such as that at issue in the main proceedings, is provided by means of a handlebar and is based on the Ackermann principle constitutes an objective characteristic thereof, allowing it to be classified under heading 8703, the intended purpose of such a vehicle is not, contrary to what is claimed by Aramex, a relevant criterion for the purposes of its classification.
+As regards the validity of Regulation No 301/2012, it should be noted that the consideration of the question referred for a preliminary ruling has not revealed any factor capable of affecting the validity of that regulation, in so far as it provides for the classification under subheading of a new three-wheeled motor vehicle equipped, in particular, with a motor car type steering system steered by means of a handlebar.
+In the light of all the above considerations, the answer to the question is that the CN must be interpreted as meaning that a three-wheeled vehicle, such as that at issue in the main proceedings, fitted with tyres manufactured for three-wheeled motorcycles but similar to those for motor cars, steered using a handlebar and fitted with a steering system based on the Ackermann principle, falls within heading of the CN.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+The Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Implementing Regulation (EU) No 927/of October 2012, must be interpreted as meaning that a three-wheeled vehicle, such as that at issue in the main proceedings, fitted with tyres manufactured for three-wheeled motorcycles but similar to those for motor cars, steered using a handlebar and fitted with a steering system based on the Ackermann principle, falls within heading of that nomenclature.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+(
+)	The wording of paragraph of this document has been modified after it was first put online.
+Top  
+ 

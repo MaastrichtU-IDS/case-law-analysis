@@ -1,0 +1,166 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+March (
+*)
+‛Reference for a preliminary ruling — Common system of value added tax — Principles of proportionality and fiscal neutrality — Taxation of a supply of immovable property in a procedure for compulsory sale by auction — National legislation requiring the court enforcement officer executing such a sale to calculate and pay VAT on the transaction — Payment of the purchase price to the competent court and need for the VAT to be paid to be transferred by that court to the court enforcement officer — Liability for damages and criminal liability of the court enforcement officer for non-payment of VAT — Difference between the general statutory time-limit for the payment of VAT by a taxable person and the time-limit imposed on the court enforcement officer — Impossibility of deducting the input VAT paid’
+In Case C‑499/13,
+REQUEST for a preliminary ruling under Article TFEU from the Naczelny Sąd Administracyjny (Poland), made by decision of February 2013, received at the Court on September 2013, in the proceedings
+Marian Macikowski
+v
+Dyrektor Izby Skarbowej w Gdańsku,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, S. Rodin, A. Borg Barthet (Rapporteur), E. Levits and F. Biltgen, Judges,
+Advocate General: J. Kokott,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on September 2014,
+after considering the observations submitted on behalf of:
+—
+Mr Macikowski, by M. Kalinowski, radca prawny,
+—
+the Dyrektor Izby Skarbowej w Gdańsku, by T. Tratkiewicz and J. Kaute, acting as Agents,
+—
+the Polish Government, by B. Majczyna and A. Gawłowska, acting as Agents,
+—
+the European Commission, by M. Owsiany-Hornung and L. Lozano Palacios, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2014,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the principles of proportionality and fiscal neutrality and of Articles 9, 193, 199, 206, and of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1; ‘the VAT Directive’).
+The request has been made in proceedings between Mr Macikowski, a court enforcement officer, and the Dyrektor Izby Skarbowej w Gdańsku (Director of the Tax Chamber, Gdańsk) concerning the failure to pay in due time the value added tax (VAT) payable in respect of the sale of immovable property effected through enforcement.
+Legal context
+EU law
+Article 9(1) of the VAT Directive provides:
+‘“Taxable person” shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity.
+Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as “economic activity”. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity.’
+Article of that directive is worded as follows:
+‘VAT shall be payable by any taxable person carrying out a taxable supply of goods or services, except where it is payable by another person in the cases referred to in Articles to and Article 202.’
+Article 199(1)(g) of the directive states:
+‘Member States may provide that the person liable for payment of VAT is the taxable person to whom any of the following supplies are made:
+…
+(g)
+the supply of immovable property sold by a judgment debtor in a compulsory sale procedure.’
+Article of the directive provides:
+‘1.   Where, pursuant to Articles to and Articles and 200, the person liable for payment of VAT is a taxable person who is not established in the Member State in which the VAT is due, Member States may allow that person to appoint a tax representative as the person liable for payment of the VAT.
+Furthermore, where the taxable transaction is carried out by a taxable person who is not established in the Member State in which the VAT is due and no legal instrument exists, with the country in which that taxable person is established or has his seat, relating to mutual assistance similar in scope to that provided for in Directive 76/308/EEC … and Regulation (EC) No 1798/…, Member States may take measures to provide that the person liable for payment of VAT is to be a tax representative appointed by the non-established taxable person.
+However, Member States may not apply the option referred to in the second subparagraph to a non-established taxable person, within the meaning of point (1) of Article 358, who has opted for the special scheme for electronically supplied services.
+2.   The option under the first subparagraph of paragraph shall be subject to the conditions and procedures laid down by each Member State.’
+Article of the directive provides:
+‘In the situations referred to in Articles to and Articles 202, and 204, Member States may provide that a person other than the person liable for payment of VAT is to be held jointly and severally liable for payment of VAT.’
+Article of the directive states:
+‘Any taxable person liable for payment of VAT must pay the net amount of the VAT when submitting the VAT return provided for in Article 250. Member States may, however, set a different date for payment of that amount or may require interim payments to be made.’
+Article 250(1) of the directive is worded as follows:
+‘Every taxable person shall submit a VAT return setting out all the information needed to calculate the tax that has become chargeable and the deductions to be made including, in so far as is necessary for the establishment of the basis of assessment, the total value of the transactions relating to such tax and deductions and the value of any exempt transactions.’
+Article 252(1) of the directive provides:
+‘The VAT return shall be submitted by a deadline to be determined by Member States. That deadline may not be more than two months after the end of each tax period.’
+Article of the directive provides:
+‘Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.
+The option under the first paragraph may not be relied upon in order to impose additional invoicing obligations over and above those laid down in Chapter 3.’
+Polish law
+The VAT Law
+Article 15(6) of the Ustawa o podatku od towarów i usług (Law on the tax on goods and services) of March (Dz. U., No 54, item 535; ‘the VAT Law’) provides:
+‘Public bodies and the organs which serve them shall not be considered taxable persons so far as concerns the performance of tasks which have been entrusted to them in accordance with other legal provisions and for the execution of which they have been established, with the exception of activities carried out under civil law contracts.’
+Article of that law states:
+‘Enforcement bodies as defined in the Law on enforcement proceedings in administrative matters of June … and court enforcement officers carrying out enforcement action within the meaning of the Code of Civil Procedure [(ustawa Kodeks postępowania cywilnego) of November (Dz. U., No 43, item 296), in the version applicable to the facts in the main proceedings (“the Code of Civil Procedure”),] shall be paying agents for tax collected on the supply, effected through enforcement, of goods which are owned by the debtor or in his possession in breach of existing law.’
+The Tax Code
+Article of the Ustawa — Ordynacja podatkowa (Law establishing the Tax Code) of August 1997, in the version applicable to the facts in the main proceedings (Dz. U. 2005, No 8, item 60; ‘the Tax Code’), provides:
+‘A paying agent is a natural person, a legal person or an organisational entity without legal personality who is required under tax law to calculate tax, collect tax from a taxable person and pay it to a tax authority in good time.’
+Article of the Tax Code provides:
+‘1.   A paying agent who fails to fulfil the obligations laid down in Article shall be liable for any uncollected tax or tax which has been collected but not paid.
+…
+3.   A paying agent or payment collector shall be liable in respect of his entire assets for due payments as referred to in paragraphs and 2.
+…
+4.   Where, in the course of tax proceedings, a tax authority establishes a circumstance referred to in paragraphs or 2, it shall give a decision on the tax liability of the paying agent or payment collector determining the amount due by way of tax which has not been collected or collected but not paid.
+…’
+The Code of Civil Procedure
+Article 808(1) of the Law establishing the Code of Civil Procedure states:
+‘Where the amount of money deposited in enforcement proceedings is not subject to immediate release, it must be deposited in the court’s deposit account. …’
+Article 998(1) of the Code of Civil Procedure provides:
+‘After the highest bid has become final and the purchaser has fulfilled the auction conditions or an order has been made fixing the purchase price and the Treasury has paid the amount in full, the court shall make an order awarding ownership.’
+Article 999(1) of that code provides:
+‘A final order awarding ownership shall transfer ownership to the purchaser and be the instrument demonstrating the purchaser’s right of ownership in the cadastral register, together with an entry in the land register and the placing of documents on file. The final order awarding ownership shall also be an enforcement instrument entitling the purchaser to take possession of immovable property.’
+Article 1023(1) of that code provides as follows:
+‘The enforcement body shall draw up a plan to divide among the creditors the amount obtained from the enforcement against the immovable property.’
+Article 1024(1) of that code states:
+‘The plan for dividing the amount shall state:
+(1)
+the amount to be divided;
+(2)
+the claims and rights of the persons participating in the division;
+(3)
+the amount attributable to each of the participants in the division;
+(4)
+the amounts to be paid and the amounts left in the court’s deposit account, with an indication of the reasons justifying the suspension of their payment.
+…’
+Article of that code provides:
+‘Immediately after the amount to be divided has been placed in the court’s deposit account, the court enforcement officer shall draw up a draft plan for dividing the amount obtained from the enforcement and submit it to the court. If necessary, the court shall amend and supplement the plan; otherwise, it shall approve the plan.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mr Macikowski is a court enforcement officer at the Sąd Rejonowy w Chojnicach (District Court, Chojnice).
+At the request of a creditor, he took enforcement action against Royal sp. z o.o. (‘Royal’), which was a taxable person for VAT purposes.
+As part of that procedure Mr Macikowski seized immovable property belonging to Royal.
+The auction of the immovable property at issue was held on February 2007. By order of March 2007, which became final on August 2007, the Sąd Rejonowy w Chojnicach awarded ownership of the immovable property to Mr and Mrs Babinski at the highest bid price of Polish zlotys (PLN). The purchasers paid that price in full into the account of the Sąd Rejonowy w Chojnicach.
+By order of October 2008, Mr Macikowski drew up a draft plan for dividing that sum, in which, inter alia, he identified an amount of PLN 256823,due in respect of VAT to be paid to the Tax Office in Chojnice.
+On January 2009, Mr Macikowski requested the Sąd Rejonowy w Chojnicach to transfer PLN 256823,to his account to enable him, as paying agent, to pay the VAT due on the transfer of ownership by auction of Royal’s immovable property.
+The Sąd Rejonowy w Chojnicach transferred that amount to Mr Macikowski’s account after the plan for division had become final. Mr Macikowski consequently issued an invoice documenting the VAT on the sale of that immovable property on August 2009, and informed the tax authority of the payment of the tax on September 2009.
+Referring inter alia to Article of the VAT Law in conjunction with Articles and 30(1), (3) and (4) of the Tax Code, the Head of the Tax Office in Chojnice ruled that Mr Macikowski was liable, as the paying agent, for VAT of PLN 256823,which had been collected but not paid in time in connection with the sale of Royal’s immovable property. In the view of the Tax Office in Chojnice, since Mr Macikowski was taking enforcement action, he had been required, in November 2007, to issue on behalf of the debtor, Royal, a VAT invoice documenting the sale of that company’s immovable property for a gross amount of PLN 1424201, including tax of PLN 256823,13, and to pay that tax into the account of the competent tax office by December 2007.
+By judgment of October 2011, the Wojewódzki Sąd Administracyjny w Gdańsku (Regional Administrative Court, Gdańsk) dismissed the action brought by Mr Macikowski against the decision of the Dyrektor Izby Skarbowej w Gdańsku of November ruling on the tax liability of the paying agent for the failure to pay in time the VAT on the enforced sale of Royal’s immovable property. In the grounds of appeal that court pointed out that it was bound in this case by the interpretation of the Naczelny Sąd Administracyjny (Supreme Administrative Court), which had not questioned the legal basis of that decision and had accepted that it was possible in law for Mr Macikowski to fulfil his obligations under Article of the VAT Law.
+Mr Macikowski appealed on a point of law against that judgment to the Naczelny Sąd Administracyjny. In the grounds of appeal he claimed that the judgment had made an erroneous interpretation of Article of the VAT Law by not taking account of the provisions of EU law on VAT, namely the provisions of the VAT Directive.
+In those circumstances, considering that the examination of that appeal on a point of law required an interpretation of EU law, the Naczelny Sąd Administracyjny decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+In the light of the system of VAT resulting from the VAT Directive, in particular Articles and 193, in conjunction with Article 199(1)(g), is a provision of national law permissible, such as that in Article of the VAT Law, which introduces exceptions to the general rules on that tax, in particular with regard to the persons required to calculate and collect the tax, by establishing the concept of paying agent, that is to say, a person who is required, on behalf of the taxable person, to calculate the amount of tax, collect it from the taxable person, and pay it to the tax authority in good time?
+2.
+If the answer to the first question is in the affirmative:
+(a)
+In the light of the principle of proportionality, which is a general principle of EU law, is a provision of national law permissible, such as that in Article of the VAT Law, under which, inter alia, tax on the supply of immovable property effected through enforcement in respect of goods owned by the debtor or in his possession in breach of existing law is calculated, collected and paid by a court enforcement officer carrying out an enforcement action who, as paying agent, bears liability in the event of failure to fulfil that obligation?
+(b)
+In the light of Articles 206, and of the VAT Directive and of the principle of neutrality arising therefrom, is a provision of national law permissible, such as that in Article of the VAT Law, under which a paying agent as referred to in that provision is required to calculate, collect and pay, within the tax period of the taxable person, an amount of VAT on a supply, effected through enforcement, of goods owned by that taxable person or in his possession in breach of the law in force, in an amount comprising the product of the proceeds from the sale of the goods, minus VAT, and the applicable rate of that tax, with no reduction of that amount by the amount of input tax from the beginning of the tax period to the date of the collection of that tax from the taxable person?’
+Consideration of the questions referred
+Question By its first question, the referring court asks, in essence, whether Articles 9, and 199(1)(g) of the VAT Directive must be interpreted as precluding a provision of national law, such as that at issue in the main proceedings, which, within the context of a sale of immovable property effected through enforcement, imposes on a person — namely the court enforcement officer who made the sale — obligations to calculate, collect and pay the VAT on the proceeds of that transaction within the prescribed time-limits.
+In order to answer that question, it must be stated, first, that Article 199(1)(g) of the VAT Directive authorises Member States to designate, in the case of the supply of immovable property sold in a compulsory sale procedure, the purchaser of the immovable property as the person liable for payment of VAT, provided that that person is a taxable person, in order to ensure the correct collection of VAT and to prevent evasion.
+Secondly, it follows from Article of the VAT Directive that Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion.
+In that regard, the Court has already had occasion to hold that, given that Articles 90(1) and of the VAT Directive do not, outside the limits laid down therein, specify either the conditions or the obligations which the Member States may impose, those provisions give the Member States a margin of discretion (see judgment in Kraft Foods Polska, C-588/10, EU:C:2012:40, paragraph 23).
+However, the measures which the Member States may adopt under Article of the VAT Directive to ensure the correct collection of the tax and to prevent evasion must not go further than is necessary to attain such objectives and must not undermine the neutrality of VAT (see judgments in Nidera Handelscompagnie, C‑385/09, EU:C:2010:627, paragraph 49, and Klub, C‑153/11, EU:C:2012:163, paragraph 50).
+In the present case, first, it is apparent from the observations of the Polish Government that the intermediary system established by the national legislation at issue in the main proceedings, according to which the court enforcement officer is responsible for the calculation, collection and payment of the VAT on the proceeds of a sale effected through enforcement, seeks to prevent the taxable person, having regard to his financial situation, from infringing his fiscal obligation to pay VAT.
+Therefore, such legislation is capable of falling within Article of the VAT Directive, since the Republic of Poland deems such a measure necessary to ensure the correct collection of VAT.
+Secondly, neither Article nor Article 199(1)(g) of the VAT Directive precludes such legislation.
+Although it is true that those provisions provide, in essence, that the tax may be payable only by a taxable person carrying out a taxable supply of goods or, in certain circumstances, by the purchaser of the immovable property, the function of the court enforcement officer as the intermediary responsible for the collection of that tax does not fall within those provisions.
+Thus, Article of the VAT Law defines the function of the court enforcement officer carrying out a sale through enforcement as that of an intermediary merely ensuring the collection of the amount of the tax and its payment to the tax authority on behalf of the taxable person by whom it is payable, within the prescribed time-limit. In that situation, the court enforcement officer’s obligation is not a fiscal obligation, because that obligation still lies with the taxable person.
+In so doing, first, the court enforcement officer does not infringe any competence or obligation of the taxable person and merely ensures that the amount of the VAT corresponding to a specific transaction is paid to the tax authority.
+Secondly, the legislation at issue in the main proceedings does not provide that the court enforcement officer is jointly and severally liable with that taxable person for the payment of VAT. In addition, he is not a tax representative of the taxable person within the meaning of Article of the VAT Directive.
+It follows from those considerations that Articles 9, and 199(1)(g) of the VAT Directive must be interpreted as not precluding a provision of national law, such as that at issue in the main proceedings, which, within the context of a sale of immovable property effected through enforcement, imposes on a person — namely the court enforcement officer who made the sale — obligations to calculate, collect and pay the VAT on the proceeds of that transaction within the prescribed time-limits.
+Question 2(a)
+By question 2(a), the referring court asks, in essence, whether the principle of proportionality must be interpreted as precluding a provision of national law, such as that at issue in the main proceedings, under which a court enforcement officer must be liable with his entire assets for the amount of VAT due on the proceeds of the sale of immovable property effected through enforcement where he does not discharge his obligation to collect and pay that tax.
+In that regard, it should be noted that, according to settled case-law, in the exercise of the powers conferred on them by European Union directives, Member States must respect the general principles of law that form part of the European Union legal order, which include, in particular, the principles of legal certainty and proportionality (see, to that effect, judgments in Schloßstrasse, C‑396/98, EU:C:2000:303, paragraph 44, and ‘Goed Wonen’, C‑376/02, EU:C:2005:251, paragraph 32).
+With more particular regard to the principle of proportionality, it must be pointed out that, whilst it is legitimate for the measures adopted by the Member States, on the basis of the provisions of the VAT Directive, to seek to preserve the rights of the public exchequer as effectively as possible, such measures must not go further than is necessary for that purpose (see, to that effect, judgments in Molenheide and Others, C‑286/94, C‑340/95, C‑401/and C‑47/96, EU:C:1997:623, paragraph 47, and Federation of Technological Industries and Others, C‑384/04, EU:C:2006:309, paragraph 30).
+In particular, legislation which would hold a court enforcement officer liable for conduct which is not attributable to him personally cannot be considered to be proportionate.
+In that regard, the court enforcement officer should have the legal means to carry out his tasks, without his liability depending on factors over which he has no influence, including actions or omissions attributable to third parties.
+In that context, it should be borne in mind that it is not for the Court, in the context of the judicial cooperation established by Article TFEU, to give a ruling on the interpretation of provisions of national law, or to decide whether the referring court’s interpretation of those provisions is correct. The Court must take account, under the division of jurisdiction between it and the national courts, of the factual and legislative context, as described in the order for reference, in which the questions put to it are set (judgments in Fundación Gala-Salvador Dalí and VEGAP, C‑518/08, EU:C:2010:191, paragraph and the case-law cited, and Logstor ROR Polska, C‑212/10, EU:C:2011:404, paragraph 30).
+Consequently, it is for the referring court to determine whether court enforcement officers have all legal means to discharge, within the time-limits, the obligation to collect and pay the VAT due in respect of the sale of property effected through enforcement, in so far as they fulfil their obligations correctly and in accordance with law.
+The answer to question 2(a) is therefore that the principle of proportionality must be interpreted as not precluding a provision of national law, such as that at issue in the main proceedings, under which a court enforcement officer must be liable with his entire assets for the amount of VAT due on the proceeds of the sale of immovable property effected through enforcement where he does not discharge his obligation to collect and pay that tax, provided that the court enforcement officer concerned actually has all legal means to discharge that obligation, which it is for the referring court to determine.
+Question 2(b)
+By question 2(b), the referring court asks, in essence, whether Articles 206, and of the VAT Directive and the principle of fiscal neutrality must be interpreted as precluding a provision of national law, such as that at issue in the main proceedings, under which the paying agent as referred to in that provision is required to calculate, collect and pay an amount of VAT on a sale of goods effected through enforcement without being able to deduct the amount of VAT paid as input tax by the supplier from the beginning of the tax period to the date of the collection of that tax from the taxable person.
+It should be remembered that, according to settled case-law, the right to deduct provided for in Article et seq. of the VAT Directive is an integral part of the VAT scheme and, in principle, may not be limited. The right to deduct is exercisable immediately in respect of all the taxes charged on transactions relating to inputs (see, inter alia, judgments in Gabalfrisa and Others, C‑110/to C‑147/98, EU:C:2000:145, paragraph 43; Kittel and Recolta Recycling, C‑439/and C‑440/04, EU:C:2006:446, paragraph 47; Mahagében and Dávid, C‑80/and C‑142/11, EU:C:2012:373, paragraph 38; and Gran Via Moineşti, C‑257/11, EU:C:2012:759, paragraph 21).
+In addition, it follows from Articles and of the VAT Directive that the amount of VAT paid to the public exchequer must be a net amount, that is to say an amount which takes account of the deductions to be made, and that all the deductions must be made in relation to the tax period during which they arose.
+In the main proceedings, it is the taxable person who owns the goods auctioned by the court enforcement officer, and not the paying agent, who is required to submit a VAT return taking account of the sale of his goods. It is also the taxable person, and not the paying agent, who has the right to deduct the VAT paid as input tax from the VAT owed on the basis of that transaction. That deduction concerns the tax period during which that transaction took place.
+If the paying agent pays the VAT owed on the basis of that transaction after the submission of the return by the taxable person, such a situation may be justified under the second sentence of Article of the VAT Directive which permits Member States to require interim payments to be made.
+In the case of the mechanism established by Article of the VAT Law, the supplier does not have at his disposal the amount of the VAT due on a transaction effected through enforcement. For that reason, he cannot use that amount in order to deduct the VAT paid as input tax, but he retains the right to deduct. Thus, if the VAT paid as input tax by the taxable person, who owns the goods auctioned, on the basis of transactions effected during the tax period concerned, which he is entitled to deduct, is greater than the VAT due by reason of the sale of those goods, the taxable person may possibly obtain the repayment of an overpayment from the tax authority.
+Therefore it must be held that such a mechanism complies with the provisions of the VAT Directive and that, in particular, it does not contravene Articles and of that directive.
+Consequently, the answer to question 2(b) is that Articles 206, and of the VAT Directive and the principle of fiscal neutrality must be interpreted as not precluding a provision of national law, such as that at issue in the main proceedings, under which the paying agent as referred to in that provision is required to calculate, collect and pay an amount of VAT on a sale of goods effected through enforcement without being able to deduct the amount of VAT paid as input tax from the beginning of the tax period to the date of the collection of that tax from the taxable person.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+1.
+Articles 9, and 199(1)(g) of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as not precluding a provision of national law, such as that at issue in the main proceedings, which, within the context of a sale of immovable property effected through enforcement, imposes on a person — namely the court enforcement officer who made the sale — obligations to calculate, collect and pay the value added tax on the proceeds of that transaction within the prescribed time-limits.
+ 
+2.
+The principle of proportionality must be interpreted as not precluding a provision of national law, such as that at issue in the main proceedings, under which a court enforcement officer must be liable with his entire assets for the amount of value added tax due on the proceeds of the sale of immovable property effected through enforcement where he does not discharge his obligation to collect and pay that tax, provided that the court enforcement officer concerned actually has all legal means to discharge that obligation, which it is for the referring court to determine.
+ 
+3.
+Articles 206, and of Directive 2006/and the principle of fiscal neutrality must be interpreted as not precluding a provision of national law, such as that at issue in the main proceedings, under which the paying agent as referred to in that provision is required to calculate, collect and pay an amount of value added tax on a sale of goods effected through enforcement without being able to deduct the amount of value added tax paid as input tax from the beginning of the tax period to the date of the collection of that tax from the taxable person.
+ 
+[Signatures]
+(
+*)   Language of the case: Polish.
+Top  
+ 

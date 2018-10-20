@@ -1,0 +1,264 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+October (
+*)
+(Appeal — Regulation (EC) No 1907/(REACH) — Article — Substances of very high concern — Identification — Article 2(8)(b) — Exemption — Article 3(15) — Definition of ‘intermediate’ — Acrylamide)
+In Case C‑650/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on December 2015,
+Polyelectrolyte Producers Group GEIE (PPG), established in Brussels (Belgium),
+SNF SAS, established in Andrézieux-Bouthéon (France),
+represented by E. Mullier and R. Cana, avocats, and by D. Abrahams, Barrister,
+appellants,
+the other parties to the proceedings being:
+European Chemicals Agency (ECHA), represented by M. Heikkilä and W. Broere, acting as Agents, and by J. Stuyck and S. Raes, advocaten,
+defendant at first instance,
+Kingdom of the Netherlands, represented by M. Bulterman and B. Koopman, acting as Agents,
+European Commission, represented by K. Talabér-Ritz and by E. Manhaeve, K. Mifsud-Bonnici and D. Kukovec, acting as Agents, with an address for service in Luxembourg,
+interveners at first instance,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund (Rapporteur), J.–C. Bonichot, A. Arabadjiev and E. Regan, Judges,
+Advocate General: E. Sharpston,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on January 2017,
+after hearing the Opinion of the Advocate General at the sitting on July 2017,
+gives the following
+Judgment
+By their appeal, Polyelectrolyte Producers Group GEIE (PPG) and SNF SAS ask the Court to set aside the judgment of the General Court of the European Union of September 2015, PPG and SNF v ECHA (T‑268/RENV, ‘the judgment under appeal’, EU:T:2015:698) by which that Court dismissed their action for annulment of the decision of the European Chemicals Agency (ECHA), of December 2009, identifying acrylamide (EC No 201-173-7) as a substance meeting the criteria laid down in Article of Regulation (EC) No 1907/of the European Parliament and of the Council of December concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC of the European Parliament and of the Council and repealing Council Regulation (EEC) No 793/and Commission Regulation (EC) No 1488/as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, p. 1, and corrigendum OJ L 136, p. 3), as amended by Commission Regulation (EC) No 552/of June (OJ L 164, p. 7) (‘the REACH Regulation’), in accordance with Article of that regulation (‘the decision at issue’).
+Legal background
+Recital of the REACH regulation reads as follows:
+‘For reasons of workability and because of their special nature, specific registration requirements should be laid down for intermediates. Polymers should be exempted from registration and evaluation until those that need to be registered due to the risks posed to human health or the environment can be selected in a practicable and cost-efficient way on the basis of sound technical and valid scientific criteria.’
+Article of that regulation, entitled ‘Application’, provides as follows:
+‘1.   This Regulation shall not apply to:
+...
+(c)
+non-isolated intermediates;
+...
+8.   On-site isolated intermediates and transported isolated intermediates shall be exempted from:
+...
+(b)
+Title VII.
+9.   The provisions of Titles II and VI shall not apply to polymers.’
+Article of that regulation, entitled ‘Definitions’, provides:
+‘For the purposes of this Regulation:
+...
+15.
+intermediate: means a substance that is manufactured for and consumed in or used for chemical processing in order to be transformed into another substance (hereinafter referred to as synthesis):
+(a)
+non-isolated intermediate: means an intermediate that during synthesis is not intentionally removed (except for sampling) from the equipment in which the synthesis takes place. Such equipment includes the reaction vessel, its ancillary equipment, and any equipment through which the substance(s) pass(es) during a continuous flow or batch process as well as the pipework for transfer from one vessel to another for the purpose of the next reaction step, but it excludes tanks or other vessels in which the substance(s) are stored after the manufacture;
+(b)
+on-site isolated intermediate: means an intermediate not meeting the criteria of a non-isolated intermediate and where the manufacture of the intermediate and the synthesis of (an)other substance(s) from that intermediate take place on the same site, operated by one or more legal entities;
+(c)
+transported isolated intermediate: means an intermediate not meeting the criteria of a non-isolated intermediate and transported between or supplied to other sites;
+16.
+site: means a single location, in which, if there is more than one manufacturer of (a) substance(s), certain infrastructure and facilities are shared;
+...’
+Article of the REACH regulation, entitled ‘Registration of on-site isolated intermediates’, is worded as follows:
+‘1.   Any manufacturer of an on-site isolated intermediate in quantities of one tonne or more per year shall submit a registration to the Agency for the on-site isolated intermediate.
+2.   A registration for an on-site isolated intermediate shall include all the following information, to the extent that the manufacturer is able to submit it without any additional testing:
+(a)
+the identity of the manufacturer as specified in Section of Annex VI;
+(b)
+the identity of the intermediate as specified in Sections 2.to 2.3.of Annex VI;
+(c)
+the classification of the intermediate as specified in Section of Annex VI;
+(d)
+any available existing information on physicochemical, human health or environmental properties of the intermediate. Where a full study report is available, a study summary shall be submitted;
+(e)
+a brief general description of the use, as specified in Section 3.of Annex VI;
+(f)
+details of the risk management measures applied.
+...
+3.   Paragraph shall apply only to on-site isolated intermediates if the manufacturer confirms that the substance is only manufactured and used under strictly controlled conditions in that it is rigorously contained by technical means during its whole lifecycle. Control and procedural technologies shall be used to minimise emission and any resulting exposure.
+If these conditions are not fulfilled, the registration shall include the information specified in Article 10.’
+Article of the REACH Regulation, entitled ‘Registration of transported isolated intermediates’, provides as follows:
+‘1.   Any manufacturer or importer of a transported isolated intermediate in quantities of one tonne or more per year shall submit a registration to the Agency for the transported isolated intermediate.
+2.   A registration for a transported isolated intermediate shall include all the following information:
+(a)
+the identity of the manufacturer or importer as specified in Section of Annex VI;
+(b)
+the identity of the intermediate as specified in Sections 2.to 2.3.of Annex VI;
+(c)
+the classification of the intermediate as specified in Section of Annex VI;
+(d)
+any available existing information on physicochemical, human health or environmental properties of the intermediate. Where a full study report is available, a study summary shall be submitted;
+(e)
+a brief general description of the use, as specified in Section 3.of Annex VI;
+(f)
+information on risk management measures applied and recommended to the user in accordance with paragraph 4.
+...
+3.   A registration for a transported isolated intermediate in quantities of more than tonnes per year per manufacturer or importer shall include the information specified in Annex VII in addition to the information required under paragraph 2.
+For the generation of this information, Article shall apply.
+4.   Paragraphs and shall apply only to transported isolated intermediates if the manufacturer or importer confirms himself or states that he has received confirmation from the user that the synthesis of (an)other substance(s) from that intermediate takes place on other sites under the following strictly controlled conditions:
+(a)
+the substance is rigorously contained by technical means during its whole lifecycle including manufacture, purification, cleaning and maintenance of equipment, sampling, analysis, loading and unloading of equipment or vessels, waste disposal or purification and storage;
+(b)
+procedural and control technologies shall be used that minimise emission and any resulting exposure;
+(c)
+only properly trained and authorised personnel handle the substance;
+(d)
+in the case of cleaning and maintenance works, special procedures such as purging and washing are applied before the system is opened and entered;
+(e)
+in cases of accident and where waste is generated, procedural and/or control technologies are used to minimise emissions and the resulting exposure during purification or cleaning and maintenance procedures;
+(f)
+substance-handling procedures are well documented and strictly supervised by the site operator.
+If the conditions listed in the first subparagraph are not fulfilled, the registration shall include the information specified in Article 10.’
+Title VII of the REACH regulation, entitled ‘Authorisation’, includes, inter alia, Articles to of that regulation.
+Article 56(1) of that regulation, entitled ‘General provisions’, provides as follows:
+‘A manufacturer, importer or downstream user shall not place a substance on the market for a use or use it himself if that substance is included in Annex XIV, unless:
+(a)
+the use(s) of that substance on its own or in a mixture or the incorporation of the substance into an article for which the substance is placed on the market or for which he uses the substance himself has been authorised in accordance with Articles to 64; or
+(b)
+the use(s) of that substance on its own or in a mixture or the incorporation of the substance into an article for which the substance is placed on the market or for which he uses the substance himself has been exempted from the authorisation requirement in Annex XIV itself in accordance with Article 58(2); or
+...’
+Article of that regulation, entitled ‘Substances to be included in Annex XIV’, is worded as follows:
+‘The following substances may be included in Annex XIV in accordance with the procedure laid down in Article 58:
+(a)
+substances meeting the criteria for classification as carcinogenic category or in accordance with Directive 67/548/EEC;
+(b)
+substances meeting the criteria for classification as mutagenic category or in accordance with Directive 67/548/EEC;
+(c)
+substances meeting the criteria for classification as toxic for reproduction category or in accordance with Directive 67/548/EEC;
+(d)
+substances which are persistent, bioaccumulative and toxic in accordance with the criteria set out in Annex XIII of this Regulation;
+(e)
+substances which are very persistent and very bioaccumulative in accordance with the criteria set out in Annex XIII of this Regulation;
+(f)
+substances — such as those having endocrine disrupting properties or those having persistent, bioaccumulative and toxic properties or very persistent and very bioaccumulative properties, which do not fulfil the criteria of points (d) or (e) — for which there is scientific evidence of probable serious effects to human health or the environment which give rise to an equivalent level of concern to those of other substances listed in points (a) to (e) and which are identified on a case-by-case basis in accordance with the procedure set out in Article 59.’
+Article of the REACH regulation, entitled ‘Identification of substances referred to in Article 57’, provides as follows:
+‘1.   The procedure set out in paragraphs to of this Article shall apply for the purpose of identifying substances meeting the criteria referred to in Article and establishing a candidate list for eventual inclusion in Annex XIV. ...
+...
+3.   Any Member State may prepare a dossier in accordance with Annex XV for substances which in its opinion meet the criteria set out in Article and forward it to the Agency. ...
+...
+7.   When comments are made or received, the Agency shall refer the dossier to the Member State Committee within days of the end of the 60-day period referred to in paragraph 5.
+8.   If, within days of the referral, the Member State Committee reaches a unanimous agreement on the identification, the Agency shall include the substance in the list referred to in paragraph 1. The Agency may include that substance in its recommendations under Article 58(3).
+9.   If the Member State Committee fails to reach a unanimous agreement, the Commission shall prepare a draft proposal on the identification of the substance within three months of receipt of the opinion of the Member State Committee. A final decision on the identification of the substance shall be taken in accordance with the procedure referred to in Article 133(3).
+10.   The Agency shall publish and update the list referred to in paragraph on its website without delay after a decision on inclusion of a substance has been taken.’
+Articles to of the REACH regulation concern the authorisation procedure.
+Commission Regulation (EU) No 366/of April amending Regulation (EC) No 1907/as regards Annex XVII (Acrylamide) (OJ L 101, p. 12), provides that entry is added to that table:
+‘60. Acrylamide CAS No 79-06-Shall not be placed on the market or used as a substance or constituent of mixtures in a concentration, equal to or greater than 0,1% by weight for grouting applications after November 2012’.
+Background
+It is clear from paragraphs to of the judgment under appeal that, by the decision at issue, ECHA included acrylamide in the list of substances identified with a view to their inclusion in Annex XIV to the REACH regulation, on account of its classification as a category carcinogen and a category mutagen.
+The procedure before the General Court and the judgment under appeal
+On June 2010, PPG and SNF brought an action for annulment of the decision at issue.
+By order of September 2011, PPG and SNF v ECHA (T‑268/10, ECR, EU:T:2011:508), the General Court dismissed the action brought by PPG and SNF as inadmissible.
+By judgment of September 2013, PPG and SNF v ECHA (C‑625/P, EU:C:2013:594), the Court of Justice set aside the order of September 2011, PPG and SNF v ECHA (T‑268/10, EU:T:2011:508), referred the case back to the General Court and reserved the costs.
+The Kingdom of the Netherlands and the Commission lodged their statements in intervention respectively on September and September 2014.
+By the judgment under appeal, the General Court, having rejected an objection of inadmissibility raised by ECHA, dismissed the action brought by PPG and SNF and ordered them to pay the costs.
+Forms of order sought by the parties before the Court of Justice
+PPG and SNF claim that the Court of Justice should:
+–
+set aside the judgment under appeal;
+–
+annul the decision at issue or, in the alternative, refer the case back to the General Court; and
+–
+order ECHA to pay the costs.
+ECHA contends that the Court should dismiss the appeal and order PPG and SNF to pay the costs.
+The Commission requests the Court to dismiss the appeal.
+The appeal
+The first ground of appeal
+Arguments of the parties
+PPG and SNF claim that the General Court erred in law in its interpretation of the definition of ‘intermediate’ in Article 3(15) of the REACH regulation. They submit that the General Court, in paragraphs to and to of the judgment under appeal, added a condition that was not laid down by that provision. That additional condition restricts the definition of ‘intermediate’ exclusively to substances for which the ‘main purpose’ of the chemical process is the manufacture of another substance. That addition has the consequence of excluding from the category of intermediates any substance synthesised for the purposes of achieving a particular function, corresponding to the end use of that substance.
+The General Court’s interpretation led to the rejection of the classification of acrylamide used to obtain polyacrylamide for grouting purposes as an intermediate. The justification for that rejection relates to the fact that, in such a situation, acrylamide is ‘not used with the aim of manufacturing’ polyacrylamide; it rather relates to an ‘end use’ of that monomer.
+PPG and SNF maintain that that interpretation, in addition, led the General Court, in paragraphs to of the judgment under appeal, to refuse to classify as an intermediate the acrylamide used to produce polyacrylamide where that polyacrylamide is subsequently used in the preparation of electrophoresis gels, on the ground that the ultimate objective of that chemical process is not the manufacture of polyacrylamide but the analytical separation of molecules by electrophoresis.
+PPG and SNF submit that the General Court accordingly confused the use of acrylamide for the purposes of producing polyacrylamide with the intended use of the polyacrylamide, namely grouting and electrophoresis applications. The General Court identified the ‘main purpose’ of the transformation of the initial substance as being the ‘end use’ of the synthesised substance.
+In failing to classify a monomer as an intermediate, the General Court implicitly considered that that substance does not cease to exist after polymerisation, contrary to what the Court of Justice held in paragraph of judgment of July 2009, S.P.C.M. and Others (C‑558/07, EU:C:2009:430).
+PPG and SNF claim that the General Court’s interpretation is contrary to the purpose of the REACH Regulation and the ECHA document entitled ‘Guidance on Intermediates’ (document ECHA-2010-G-17-EN). Intermediates are subject to a special regime, for mainly practical reasons set out in recital of that regulation, characterised, on the one hand, by specific registration requirements laid down in Article and of that regulation and, on the other hand, an exemption from Title VII of that regulation.
+The raison d’être of that derogation relates to the fact that exposure to those substances is limited, which, at the same time, also represents a lower level of risk than for other substances.
+ECHA and the Commission contest the arguments of PPG and SNF.
+Findings of the Court
+In order to determine whether the first ground of appeal, alleging an error of law in the interpretation of the definition of ‘intermediate’, in Article 3(15) of the Reach Regulation, is well founded, it must be noted that, in that regulation, the word ‘intermediate’ is used as a noun to identify certain substances which, on account of their use, enjoy a derogation, consisting of a reduction in certain obligations laid down by that regulation.
+In accordance with the definition in Article 3(15) of the REACH Regulation, the word ‘intermediate’ applies to a substance manufactured for and consumed in or used for chemical processing in order to be transformed into another substance, known as ‘synthesis’.
+Furthermore, Article 3(15) of the REACH Regulation divides intermediates into three categories. The first, that of a ‘non-isolated intermediate’, concerns an intermediate that is not intentionally removed from the equipment in which it is synthesised. The REACH Regulation does not apply to that first category, by virtue of Article 2(1)(c) of that regulation. The second category, ‘on-site isolated intermediate’, applies to any intermediate in respect of which the manufacturing and synthesis take place on the same site. The third category, ‘transported isolated intermediate’, concerns any intermediate transported from one site to another. The latter two categories of intermediates are exempted from Title VII of that regulation, by virtue of Article 2(8)(b) of that regulation.
+It follows from those facts that Article 3(15) of the REACH Regulation requires three conditions to be fulfilled for the use of a substance to be capable of being regarded as use of an intermediate. As the Advocate General pointed out in point of her Opinion, the first of those conditions concerns the intended purpose at the time of the manufacture and use of a substance as an intermediate, which consists of transforming that substance into another. The second condition concerns the technical means by which that processing takes place, namely a chemical process known as ‘synthesis’. The third condition restricts the scope of the definition of ‘intermediate’ to uses of a substance which remains confined to a controlled environment, which may be either the equipment within which synthesis takes place, or the site in which the manufacturing and synthesis takes place or to which that substance is transported, ‘site’ being defined in Article 3(16) of the REACH Regulation as a ‘single location’ in which infrastructure and facilities are installed.
+In the present case, as regards the first two conditions referred to in the above paragraph, the General Court held, in paragraph of the judgment under appeal, that ‘it is apparent from the definition of an intermediate, laid down in Article 3(15) of [the REACH] Regulation, that the classification of a substance as an intermediate depends on the intended purpose of its manufacture and use. [A]ccording to that definition, an intermediate is a substance that is manufactured for chemical processing and consumed in or used in that processing in order to be synthesised’. By that assessment, which was reiterated, in essence, in paragraphs and of the judgment under appeal, the General Court correctly interpreted the definition of ‘intermediate’ and, contrary to what PPG and SNF claim, did not err in law in that regard.
+Moreover, the objections directed against paragraphs to of the judgment under appeal relating to the General Court’s assessment concerning the admissibility of the action at first instance, criticise, in essence, the grounds on which the General Court refused to find that acrylamide is exclusively used as an intermediate. In that regard, having found, in paragraph of the judgment under appeal, that 99.9% of acrylamide is used as an intermediate, the General Court considered, for the rest, that the use of that substance in grouting products and for the preparation of electrophoresis gels could not be classified as intermediate use.
+As regards grouting products, the General Court, in essence, considered that, although the use of acrylamide involves the chemical transformation of that substance into polyacrylamide, the main purpose of that process was not to produce acrylamide but to perform a grouting function described in paragraph of the judgment under appeal as consisting, inter alia, of water shut-off, concrete repair and salt damp remediation.
+The General Court also held in paragraph of the judgment under appeal that ‘according to the definition set out in Article 3(15) of [the REACH] Regulation, an intermediate is a substance that is manufactured for chemical processing and consumed in or used in that processing in order to be synthesised. In the present case, it is true that the acrylamide-based grouting agent is used in the manufacture of another substance during which it is itself transformed into that other substance, namely a polymer. However, as ECHA submits, the acrylamide is not used for the purposes of undergoing synthesis, within the meaning of the definition in Article 3(15) of [the REACH] Regulation. It is not used with the aim of manufacturing that other substance, the main purpose of the chemical process being to obtain a sealing function that occurs when the acrylamide grouting agent polymerises. Upon polymerisation, it solidifies into a rigid gel that is waterproof when used in grouting applications. The use of acrylamide as a grouting agent is not an intermediate use, but rather an end use of the substance’.
+However, it should be noted that, since the intended purpose at the time of the manufacture and use of the substance is to transform it into another substance, the first of the three conditions which derive from Article 3(15) of that regulation in order for a substance to be classified as an ‘intermediate’ is satisfied. Article 3(15) of that regulation contains no additional criterion allowing a differentiation to be made according to whether that purpose was primary or secondary in nature or examination of whether or not the chemical process by which one substance is transformed into another is indistinguishable from the end use for which that substance is intended.
+Accordingly, by failing to classify acrylamide, in the context of the process of transformation into polyacrylamide for grouting purposes, as an ‘intermediate’, the General Court, by adding a condition that is not laid down in Article 3(15) of the REACH regulation, misinterpreted that provision.
+However, that error of law does not affect the validity of the judgment under appeal in so far as it relates to grounds included for the sake of completeness. The reasons set out in paragraphs to of the judgment under appeal, which are the subject of the first ground of appeal relating to the admissibility of the action at first instance, follow the finding, not disputed, in paragraph of the judgment under appeal, that the decision at issue may directly affect the legal situation of suppliers of that substance. Those direct effects arise from the obligations to provide information laid down in Article 31(9)(a) of that regulation, while the identification of a substance in accordance with the procedure referred to in Article of the REACH Regulation constitutes new information that may require the suppliers of that substance to update the safety data sheet referred to in Article of that regulation. It follows that the first ground of appeal, in so far as it is directed against paragraphs to of the judgment under appeal, is ineffective.
+In the light of all the above considerations, the first ground of appeal must be rejected as in part unfounded and in part ineffective.
+The second ground of appeal
+Arguments of the parties
+By the second ground of appeal, directed against paragraphs to and of the judgment under appeal, PPG and SNF claim that the General Court failed to adjudicate on their objection alleging infringement of Article 2(8)(b) of the REACH Regulation and, accordingly, failed to fulfil its duty to state reasons. They maintain that the judgment under appeal does not set out the reasons why the exemption laid down in clear language by the provision does not cover Article of that regulation.
+The ECHA and the Commission contend that the reasoning in the judgment under appeal is sufficient.
+Findings of the Court
+It follows from settled case law of the Court of Justice that the obligation to state reasons owed by the General Court requires it to disclose its reasoning clearly and unequivocally, in such a way as to enable the persons concerned to ascertain the reasons for the decision taken and the Court of Justice to exercise its power of review (see, inter alia, judgment of January 2004, Aalborg Portland and Others v Commission, C‑204/P, C‑205/P, C‑211/P, C‑213/P, C‑217/P and C‑219/P, EU:C:2004:6, paragraph 372, and order of June 2017, Universidad Internacional de la Rioja v EUIPO, C‑50/P, not published, EU:C:2017:415, paragraph 12).
+In the present case, having set out, in paragraph of the judgment under appeal, the arguments of PPG and SNF relating to infringement of Article 2(8)(b) of the REACH Regulation, the General Court, in paragraphs to 71, set out the reasons which led it to find that those arguments were not well founded.
+The grounds of the judgment under appeal therefore clearly and unequivocally disclose the General Court’s reasoning in rejecting the first plea in law of the action before it.
+Accordingly, the second ground of appeal must be rejected as unfounded.
+The third ground of appeal
+Arguments of the parties
+By the third ground of appeal, directed against paragraphs to and of the judgment under appeal, PPG and SNF claim that the interpretation of the REACH Regulation adopted by the General Court in refusing to consider that intermediates are exempted from the identification procedure laid down in Article of that regulation is manifestly contrary to the clear wording of Article 2(8)(b) of that regulation. They maintain that that provision refers to the whole of Title VII of that regulation, without exception. If the EU legislature had intended to exclude the identification procedure from the scope of the exemption reserved for intermediates, it would have done so by means of an express provision. Failing any ambiguity in the wording of that provision, no methods of interpretation other than the literal method need be used.
+PPG and SNF submit that, in finding, in paragraph of the judgment under appeal, that, under Article of the REACH Regulation, any intermediate that may be classified as a ‘substance’ may be subject to the identification procedure provided for by that provision, even though Article comes under Title VII of that regulation, the General Court infringed that article. The fact that a substance has the intrinsic properties of very high concern referred to in Article of that regulation does not authorise ECHA to infringe that regulation.
+According to PPG and SNF, the interpretation of Article of the REACH Regulation made by the General Court in paragraph of the judgment under appeal is incorrect. They claim that it is possible to include a substance on the candidate list of substances while specifying that that inclusion is without prejudice to the use of that substance as an intermediate. Since intermediates are not intended to be included in Annex XIV to that regulation, there is no reason to name them in a list drawn up for the purpose of such inclusion.
+PPG and SNF claim that the General Court’s finding, in paragraph of the judgment under appeal, that Article of the REACH Regulation concerns the intrinsic properties of substances is irrelevant for the purposes of the application of Article 2(8)(b) of that regulation.
+ECHA and the Commission contest the arguments of PPG and SNF.
+Findings of the Court
+In order to address the third ground of appeal, it is necessary to bear in mind the context in which the exemption laid down in Article 2(8)(b) of the REACH Regulation applies.
+It is apparent from Article 1(1) of that regulation that its purpose is to ensure a high level of protection of human health and the environment, including the promotion of alternative methods for assessment of hazards of substances, as well as the free circulation of substances on the internal market while enhancing competitiveness and innovation. To that end, that regulation introduces an integrated system for monitoring chemical substances, including registration, evaluation and authorisation, together with possible restrictions on their use (see, inter alia, judgment of March 2017, Polynt v ECHA, C‑323/P, EU:C:2017:207, paragraph 20).
+As is made clear, inter alia, in recitals and of the REACH Regulation, that regulation makes substances ‘of very high concern’ subject to careful attention. Those substances are thus subject to the authorisation regime laid down in Title VII of that regulation. Article of that regulation states that the aim of the authorisation regime is ‘to ensure the good functioning of the internal market while assuring that the risks from substances of very high concern are properly controlled and that these substances are progressively replaced by suitable alternative substances or technologies where these are economically and technically viable’ (see, inter alia, judgment of March 2017, Polynt v ECHA, C‑323/P, EU:C:2017:207, paragraph 21).
+The first stage under that authorisation regime is the procedure for identifying substances of very high concern on the basis of the criteria set out in Article of the REACH Regulation. The second stage is the inclusion of those substances on the list of substances subject to authorisation set out in Annex XIV to that regulation, and the third and final stage concerns the procedure that leads, if appropriate, to the authorisation of a substance of very high concern (see, inter alia, judgment of March 2017, Polynt v ECHA, C‑323/P, EU:C:2017:207, paragraph 22).
+In order to ensure coherence between the authorisation regime laid down in Title VII of that regulation and other EU legal provisions aimed at protecting human health and the environment from risks arising from the use of chemical substances, Article 58(2) of that regulation allows for the exemption of certain uses or categories of uses from the authorisation requirement ‘provided that, on the basis of the existing specific Community legislation imposing minimum requirements relating to the protection of human health or the environment for the use of the substance, the risk is properly controlled’. That exemption mechanism implies an inextricable link between a substance and its uses or categories of uses (judgment of July 2017, VECCO and Others v Commission, C‑651/P, EU:C:2017:543, paragraphs and 37).
+In addition to that special exemption laid down in Article 58(2) of the REACH Regulation, Article 2(8)(b) of that regulation establishes a general exemption, by virtue of which ‘on-site isolated intermediates and transported isolated intermediates shall be exempted from ... Title VII’ of that regulation.
+On a literal interpretation, such as that of PPG and SNF, the latter provision should lead to the conclusion that any substance used as an on-site isolated intermediate or as a transported isolated intermediate is, for that reason, automatically exempted from all the provisions of Title VII of the REACH Regulation. Such a substance accordingly would escape the identification procedure laid down in Article of that regulation, even if, on account of its intrinsic properties, that substance fell under Article of that regulation and should, consequently, be considered to be of very high concern. The authorisation procedure governed by Chapters and of Title VII of that regulation would thus be inapplicable to such a substance.
+Such a literal interpretation is manifestly contrary to the objective of the REACH Regulation to protect health and the environment, as stated in paragraphs and of the present judgment. Furthermore, it is incompatible with the general scheme of that regulation.
+As the Advocate General observed in points to of her Opinion, it is apparent from a combined reading of Article 3(15) of the REACH Regulation, which defines ‘intermediate’, and the provisions of Title VII of that regulation, that the exemption laid down in Article 2(8)(b) of that regulation must be understood as being applicable only to uses of a substance that may be classified as an on-site or transported isolated intermediate. That exception is not, therefore, applicable to the provisions of Title VII which govern substances in accordance with factors other than their uses or categories of use.
+It follows that the exemption laid down in Article 2(8)(b) of the REACH Regulation concerns only the authorisation procedure laid down in Chapters and of Title VII of that regulation. The precise purpose of that procedure is to define, for a given substance of very high concern, the uses and categories of uses which may be authorised, subject to, inter alia, the general exemption laid down in Article 2(8)(b) of that regulation.
+By contrast, that exemption is inapplicable to the provisions of Title VII of the REACH Regulation, which govern substances in accordance with their intrinsic properties. Article 2(8)(b) of that regulation does not preclude a substance from being capable of being identified as being of very high concern on the basis of the criteria laid down in Article of that regulation, even though it is used merely as an on-site or transported isolated intermediate.
+As the Advocate General pointed out in point of her Opinion, it is apparent from the legislative history of the REACH Regulation that the raison d’être for such a relationship between the authorisation procedure and the exemption for substances used as on-site or transported isolated intermediates relates to the fact that, by their nature, those uses do not give rise to concern and may, accordingly, be exempted from the authorisation procedure.
+Accordingly, the General Court did not err in law in finding, in paragraph of the judgment under appeal, that ‘it is apparent from the definition of an intermediate, laid down in Article 3(15) of [the REACH] Regulation, that the classification of a substance as an intermediate depends on the intended purpose of its manufacture and use. As has already been pointed out ..., according to that definition, an intermediate is a substance that is manufactured for chemical processing and consumed in or used in that processing in order to be synthesised. In so far as any substance may, in principle, be manufactured for chemical processing and consumed in or used in that processing in order to be synthesised and, therefore, have the status of an intermediate, the fact that a substance has, in a specific case, the status of an intermediate cannot exempt it from the identification procedure provided for by Article [of that regulation]’.
+That legal ground being sufficient to justify in law rejection of the first plea in law at first instance, the third ground of appeal must be rejected as unfounded.
+The fourth ground of appeal, alleging a manifest error of assessment
+Arguments of the parties
+PPG and SNF complain that the General Court rejected, in paragraphs to of the judgment under appeal, the arguments by which they claimed that ECHA had committed a manifest error of assessment in failing to take into account the information contained in the dossier drawn up in accordance with Annex XV to the REACH Regulation. The General Court considered that the information referred to in Annex XV to that regulation was irrelevant for the purposes of identifying a substance in the context of the procedure under Article of that regulation.
+PPG and SNG claim that that assessment is incorrect. The drawing up of that dossier is the first step in the procedure for the authorisation of a substance and must contain all relevant information in order to determine whether that substance is to be included in the candidate list of substances and in Annex XIV to the REACH Regulation. In addition to the substance’s intrinsic properties, in accordance with Annex XV to that regulation, that dossier must include the uses, exposures, alternative substances and risks.
+In the present case, the evidence available to ECHA shows that acrylamide is used exclusively as an intermediate. According to PPG and SNF, ECHA had a duty to examine that evidence carefully and impartially (judgment of November 1991, Technische Universität München, C‑269/90, EU:C:1991:438, paragraph 14). That evidence showed that the conditions for the application of the exemption laid down in Article 2(8)(b) of the REACH Regulation were satisfied.
+ECHA and the Commission dispute those arguments.
+Findings of the Court
+As held in paragraph of the present judgment, Article 2(8)(b) of the REACH Regulation does not preclude a substance from being capable of being identified as being of very high concern on the basis of the criteria laid down in Article of that regulation, even if it is used only as an on-site or transported isolated intermediate.
+The General Court did not, therefore, err in law in finding, in paragraph of the judgment under appeal that, ‘even if [the dossier drawn up by the Kingdom of the Netherlands pursuant to Annex XV to that regulation] refers only to examples of the use of that substance as an intermediate, that is not relevant for the purposes of identifying acrylamide as a substance of very high concern meeting the criteria referred to in Article [of that regulation], given that that information does not concern the intrinsic properties of acrylamide. ‘
+For the same reason, the grounds set out in paragraphs and of the judgment under appeal are not vitiated by any error of law.
+Accordingly, the fourth ground of appeal must be rejected as unfounded.
+The fifth and sixth grounds of appeal
+Arguments of the parties
+By the fifth ground of appeal, PPG and SNF criticise paragraph of the judgment under appeal in which the General Court rejected their arguments alleging infringement of the principle of proportionality. They maintain that there was a less onerous alternative to the decision at issue, consisting, when including acrylamide on the candidate list of substances, of stating that that identification and inclusion had no impact on the use of that substance as an intermediate.
+By the sixth ground of appeal, PPG and SNF claim that paragraph of the judgment under appeal is vitiated by an infringement of the duty to state reasons.
+ECHA and the Commission dispute those arguments.
+Findings of the Court
+As held in paragraph of the present judgment, the authorisation procedure provided for in Chapters and of Title VII of the REACH Regulation is intended to define, for a given substance of very high concern, the uses and categories of uses that may be authorised, subject to, inter alia, the general exemption laid down in Article 2(8)(b) of that regulation.
+In those circumstances, accompanying the inclusion of a substance in the list of substances for future inclusion in Annex XIV to that regulation with a statement that that listing does not affect the uses exempted under Article 2(8)(b) of that regulation, would serve only to reiterate what is already derived from the REACH Regulation. As the Advocate General observed in paragraph of her Opinion, such a measure would be irrelevant for the purposes of applying the principle of proportionality.
+It follows that, in rejecting the arguments of PPG and SNF in paragraph of the judgment under appeal, on the ground that ‘the legislature introduced specific rules relating to intermediates in Article 2(1)(c) and Article 2(8)(b) of [the REACH Regulation]’, the General Court did not err in law and did fulfil its duty to state reasons.
+The fifth and sixth grounds of appeal must therefore be rejected as unfounded.
+It follows from all the foregoing considerations that the appeal must be dismissed in its entirety.
+Costs
+Under Article 184(2) of the Rules of Procedure of the Court of Justice, where the appeal is unfounded, the Court is to make a decision as to the costs. Under Article 138(1) of those Rules of Procedure, applicable to appeal proceedings by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings.
+Article 140(1) of the Rules of Procedure, which is applicable to appeal proceedings by virtue of Article 184(1) thereof, provides that the Member States and institutions which have intervened in the proceedings are to bear their own costs.
+Since ECHA has applied for costs and PPG and SNF have been unsuccessful, they must be ordered to pay the costs.
+The Kingdom of the Netherlands and the Commission, interveners at first instance, are to bear their own costs.
+ 
+On those grounds, the Court (First Chamber) hereby:
+ 
+1.
+Dismisses the appeal;
+ 
+2.
+Orders Polyelectrolyte Producers Group GEIE (PPG) and SNF SAS to bear their own costs and to pay those incurred by the European Chemicals Agency (ECHA);
+ 
+3.
+Orders the Kingdom of the Netherlands and the European Commission to bear their own costs.
+ 
+Silva de Lapuerta
+Fernlund
+Bonichot
+Arabadjiev
+Regan
+Delivered in open court in Luxembourg on October 2017.
+A. Calot Escobar
+Registrar
+R. Silva de Lapuerta
+President of the First Chamber
+(
+*)	Language of the case: English.
+Top  
+ 

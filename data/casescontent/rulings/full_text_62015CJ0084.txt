@@ -1,0 +1,162 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+March (
+*)
+‛Reference for a preliminary ruling — Regulation (EEC) No 2658/— Customs union and Common Customs Tariff — Tariff classification — Combined Nomenclature — Headings 8517, 8518, 8519, and — Stand-alone device designed to retrieve, receive and stream digital audio files in the form of amplified sound’
+In Case C‑84/15,
+REQUEST for a preliminary ruling under Article TFEU from the Hoge Raad der Nederlanden (Supreme Court of the Netherlands, the Netherlands), made by decision of February 2015, received at the Court on February 2015, in the proceedings
+Sonos Europe BV
+v
+Staatssecretaris van Financiën,
+THE COURT (Tenth Chamber),
+composed of F. Biltgen, President of the Chamber, A. Borg Barthet (Rapporteur) and M. Berger, Judges,
+Advocate General: Y. Bot,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Sonos Europe BV, by N. Ooyevaar and by W. Schipper and H. Ooyevaar, advisers, and by T. Lyons QC, and de J. Wolfs, advocaat,
+—
+the Netherlands Government, by M. Gijzen and M. Bulterman, acting as Agents,
+—
+the European Commission, by A. Caeiros and G. Wils, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of tariff headings 8517, 8518, 8519, and of the Combined Nomenclature listed in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), in the version resulting successively from Commission Regulation (EC) No 1031/of September (OJ L 291, p. 1) and Commission Regulation (EC) No 948/of September (OJ L 287, p. 1, ‘the CN’).
+The request has been made in proceedings between Sonos Europe BV (‘Sonos Europe’) and the Staatssecretaris van Financiën (State Secretary for Finance ‘the customs authorities’) concerning tariff classifications of stand-alone devices, called ‘SONOS Zone Player zps5’, designed to retrieve, receive and stream digital audio files in the form of amplified sound (‘Zoneplayers’).
+Legal context
+The HS
+The Customs Cooperation Council, now the World Customs Organisation (WCO), was established by the international convention creating that council, concluded in Brussels on December 1950. The Harmonised Commodity Description and Coding System (‘the HS’) was drawn up by the WCO and established by the International Convention on the Harmonised Commodity Description and Coding System (‘the HS Convention’) concluded in Brussels on June and approved, with its amending protocol of June 1986, on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1).
+Under Article 3(1) of the HS Convention, each Contracting Party undertakes to ensure that its customs tariff and statistical nomenclatures will be in conformity with the HS, to use all the headings and subheadings of the HS without addition or modification, together with their related codes, and to follow the numerical sequence of that system. Each Contracting Party also undertakes to apply the General Rules for the interpretation of the HS and all the section, chapter and subheading notes of the HS, and not to modify their scope.
+The WCO is to approve, under the conditions laid down in Article of the HS Convention, the Explanatory Notes and Classification Opinions adopted by the HS Committee.
+The Explanatory Notes concerning heading of the HS are worded as follows:
+‘This heading covers apparatus for the transmission or reception of speech or other sounds, images or other data between two points by variation of an electric current or optical wave flowing in a wired network or by electro-magnetic waves in a wireless network. The signal may be analogue or digital. The networks, which may be interconnected, include telephony, telegraphy, radio-telephony, radio- telegraphy, local and wide area networks.
+…
+When separately presented, microphones and receivers (whether or not combined as hand-sets), and loudspeakers are classified in heading 85.while bells and buzzers are classified in heading 85.31.
+Telephone sets may incorporate or have fitted: a memory for storing and recalling telephone numbers; a visual display for showing the number dialled, incoming caller’s number, date and time, and duration of a call; an extra loudspeaker and microphone to enable communication without using the hand-set; devices for automatically answering calls, transmitting a recorded message, recording incoming messages and playing back the recorded message on command; devices for holding a connection on line while communicating with a person on another telephone. Telephone sets incorporating these devices may also have keys or push-buttons which enable their operation, including a switching key which enables the telephone to be operated without removing the hand-set from the cradle. Many of these devices utilise a microprocessor or digital integrated circuits for their operation.’
+Under the HS Explanatory Note concerning heading of the HS:
+‘This heading covers microphones, loudspeakers, headphones, earphones and audio-frequency electric amplifiers of all kinds presented separately, regardless of the particular purpose for which such apparatus may be designed (e.g., telephone microphones, headphones and earphones, and radio receiver loudspeakers).
+The heading also covers electric sound amplifier sets.
+…
+(B) Loudspeakers, whether or not mounted in their enclosures
+The function of loudspeakers is the converse of that of microphones: they reproduce sound by converting electrical variations or oscillations from an amplifier into mechanical vibrations which are communicated to the air.
+They include the following types:
+…
+Matching transformers and amplifiers are sometimes mounted together with loudspeakers. Generally the electrical input signal received by loudspeakers is in analogue form, however, in some cases the input signal is in digital format. Such loudspeakers incorporate digital to analogue converters and amplifiers from which the mechanical vibrations are communicated to the air.
+Loudspeakers may be mounted on frames, chassis or in cabinets of different types (often acoustically designed), or even in articles of furniture. They remain classified in this heading provided the main function of the whole is to act as a loudspeaker. Separately presented frames, chassis, cabinets, etc., also fall in this heading provided they are identifiable as being mainly designed for mounting loudspeakers; articles of furniture of Chapter designed to receive loudspeakers in addition to their normal function remain classified in Chapter 94.
+The heading includes loudspeakers designed for connection to an automatic data processing machine, when presented separately.’
+The HS Explanatory Note concerning heading of the HS provides:
+‘This heading covers apparatus for recording sound, apparatus for reproducing sound and apparatus that is capable of both recording and reproducing sound. Generally, sound is recorded onto or reproduced from an internal storage device or media (e.g., magnetic tape, optical media, semiconductor media or other media of heading 85.23).
+Sound recording apparatus modify a recording medium so that sound reproducing apparatus can subsequently reproduce the original sound-wave (speech, music, etc.). This includes recording based on the receipt of a sound-wave or by other methods, e.g., by recording data sound files, downloaded from an internet page or a compact disc by an automatic data processing machine, onto the internal memory (e.g., flash memory) of a digital audio device (e.g., MPplayer). Devices which record sound as digital code generally are not capable of reproducing sound unless they incorporate a means for converting the recording from digital code to an analogue signal.
+…
+(IV) Other apparatus using magnetic, optical or semiconductor media
+The apparatus of this group may be portable. They may also be equipped with, or designed to be attached to acoustic devices (loudspeakers, earphones, headphones) and an amplifier.
+…
+(C) Apparatus using semiconductor media
+This group includes apparatus which use semiconductor (e.g., solid-state non-volatile) media. Sound is recorded as digital code converted from amplified currents of variable intensity (analogue signal) on the recording medium. Sound is reproduced by reading such medium. The semiconductor media may be permanently installed in the apparatus or may be in the form of removable solid-state non-volatile storage media. Examples include flash memory audio players (e.g., certain MPplayers) which are portable battery operated apparatus consisting essentially of a housing incorporating a flash memory (internal or removable), a microprocessor, an electronic system including an audio-frequency amplifier, an LCD screen and control buttons. The microprocessor is programmed to use MPor similar file formats. The apparatus can be connected to an automatic data processing machine for downloading MPor similar files.’
+The HS Explanatory Note concerning heading of the HS is worded as follows:
+‘This heading covers all electrical appliances and apparatus, not falling in any other heading of this Chapter, nor covered more specifically by a heading of any other Chapter of the Nomenclature, nor excluded by the operation of a Legal Note to Section XVI or to this Chapter. The principal electrical goods covered more specifically by other Chapters are electrical machinery of Chapter and certain instruments and apparatus of Chapter 90.
+The electrical appliances and apparatus of this heading must have individual functions. The introductory provisions of Explanatory Note to heading 84.concerning machines and mechanical appliances having individual functions apply, mutatis mutandis, to the appliances and apparatus of this heading.
+Most of the appliances of this heading consist of an assembly of electrical goods or parts (valves, transformers, capacitors, chokes, resistors, etc.) operating wholly electrically. However, the heading also includes electrical goods incorporating mechanical features provided that such features are subsidiary to the electrical function of the machine or appliance.’
+The CN
+The customs classification of goods imported into the European Union is governed by the CN, which is based on the HS.
+Under Article 12(1) of Regulation No 2658/87, as amended by Council Regulation (EC) No 254/of January (OJ L 28, p. 16), the European Commission is required to adopt each year a regulation reproducing the complete version of the CN and the rates of customs duty, as they result from measures adopted by the Council of the European Union or by the Commission. They shall apply from January of the following year.
+The versions of the NC applicable to the facts at issue in the main proceedings, which occurred during and 2010, are those resulting successively from Regulation No 1031/and Regulation No 948/2009.
+The first part of the CN consists of a number of preliminary provisions. In that part, under Section I, which contains the general rules, part A, entitled ‘General rules for the interpretation of the [CN]’, provides:
+‘Classification of goods in the [CN] shall be governed by the following principles:
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+...
+6.
+For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, mutatis mutandis, to the above rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule, the relative section and chapter notes also apply, unless the context requires otherwise.’
+The second part of the CN, entitled ‘Schedule of Customs Duties’, contains, inter alia, Section XVI, Note thereof provides:
+‘Unless the context otherwise requires, composite machines consisting of two or more machines fitted together to form a whole and other machines designed for the purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that component or as being that machine which performs the principal function.’
+Chapter of the CN, included in Section XVI, has the title ‘Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’. That chapter includes the following tariff headings:
+‘Telephone sets, including telephones for cellular networks or for other wireless networks; Other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, or 8528:
+ 
+Telephone sets, including telephones for cellular networks or for other wireless networks:
+...
+...
+...
+ 
+Other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network):
+- Base stations
+-- Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus
+- Other:
+...
+...
+Microphones and stands therefore; loudspeakers, whether or not mounted in their enclosures; Headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets:
+...
+...
+Sound recording or sound reproducing apparatus:
+Apparatus operated by coins, banknotes, bank cards, tokens or by other means of payment;
+...
+...
+Turntables (record-decks)
+Telephone answering machines
+ 
+Other apparatus:
+- Using magnetic, optical or semiconductor media
+...
+...
+- Other:
+ 
+– — — Sound reproducing apparatus, not incorporating a sound recording device:
+...
+...
+- — — Other
+...
+...
+Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock:
+...
+...
+Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter’
+The dispute in the main proceedings and the question referred
+In the period between December and January 2010, Sonos Europe lodged nine declarations for release into free circulation for Zoneplayers.
+That device consists of a resonance box containing five loudspeakers, each of which features a digital amplifier. The box is equipped with buttons for volume control (‘mute’ and ‘volume’), a connection for headphones, an audio input, two network ports and an electrical mains connection for the device. In addition, the Zoneplayer has a motherboard incorporating inter alia a central processing unit. The software installed in the motherboard includes inter alia the Linux operating system, which can be updated by means of an internet connection.
+To establish such a connection, the Zoneplayer must be connected to a modem or a router by means of an Ethernet cable. Once connected to the internet, the Zoneplayer enables its user to listen, inter alia, to streamed music, with the device reading digital audio files during the process of downloading those files, without them being stored, for that purpose, in the device’s memory. The Zoneplayer also provides the option of listening to broadcasts streamed by radio stations which are present on the internet. For that streaming, the Zoneplayer exchanges raw data with the IT servers storing the digital audio files which the user of the device wishes to listen to.
+More than radio stations, programmes and podcasts are preprogrammed into the Zoneplayer and it does not have the ability to store data.
+By means of a cable, devices such as digital video recorders, personal computers, games consoles or Network Attached Storage (NAS) stations can be connected via the network ports on the rear of the box in order to connect those devices to the internet and/or connect the Zoneplayer to the computers present in a local area network (‘LAN’). The content of digital audio files present on those other terminals may also be broadcast by means of the Zoneplayer’s loudspeakers. In that case, too, those files are not, at the outset, stored on the Zoneplayer, but are streamed by it during the data transfer process between the connected devices.
+Two or more Zoneplayers can transmit and receive digital data between each other wirelessly, together forming a wireless data network (‘the Sonos network’). The software installed in the Zoneplayers makes it possible, within the Sonos network, to send and stream music to each of the Zoneplayers separately. The Sonos network thereby functions independently of any Wi-Fi network; the system generates itself the encryption which it uses to broadcast digital data from one Zoneplayer to another.
+The Zoneplayers were declared by Sonos Europe as coming under CN heading 90, subject to payment of a customs tariff of 2%. In accordance with those declarations, the customs authorities issued Sonos Europe with demands for payment of the appropriate amount.
+Sonos Europe lodged an objection against those requests for payment. In its view, the Zoneplayer must be classified under CN subheading 00, subject to payment of a customs tariff of 0%. The customs authorities rejected that objection, whilst stating, in their decision, that the Zoneplayer came, in principle, under CN subheading 19, with a customs tariff of 4.5%, so that the customs duties set in the contested demands for payment were not set at too high an amount.
+Sonos Europe brought an action against those decisions of the customs authorities before the Rechtbank te Haarlem (District Court, Harlem) which declared that action to be unfounded. Sonos Europe appealed against that judgment to the Gerechtshof Amsterdam (Court of Appeal, Amsterdam).
+The Gerechtshof found that the Zoneplayer, in view of its objective characteristics and properties, could be classified both under CN heading and under CN heading 8519. On the basis of that finding, the Gerechtshof held that it was necessary to determine the tariff classification of the Zoneplayer by having regard to Note to Section XVI of the CN. In the view of the Gerechtshof Amsterdam (Court of Appeal, Amsterdam), the Zoneplayer, viewed from the consumer’s perspective, is intended primarily for reproducing sound and that sound reproduction function is an intrinsic part of the device. It follows, according to the Gerechtshof, that the reproduction of sound is the Zoneplayer’s main function, whereas the network function is secondary. According to the Gerechtshof, the Zoneplayer must, for that reason, on the basis of rules and of the general rules for the interpretation of the CN and by virtue of Note to Section XVI of that nomenclature, be classified under CN subheading 19.
+Sonos Europe appealed on a point of law against that judgment of the Gerechtshof Amsterdam (Court of Appeal, Amsterdam) to the referring court. The referring court expresses doubts as to the tariff classification of the Zoneplayer.
+It considers that, account being taken of the wording of CN headings 8517, and and of the HS Explanatory Notes corresponding to that system, the Zoneplayer has properties and characteristics in common with the machines and devices which must be classified under those tariff headings. Nevertheless, the Zoneplayer is distinguished from devices considered to come under those tariff headings, account being taken in particular of its technological development, since it implements a new and advanced technology. The way the Zoneplayer functions is not therefore described in that way in the CN under any one of its tariff headings.
+In those circumstances, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Should CN headings 8517, 8518, and be interpreted as meaning that a product such as that described in the present judgment (the Zoneplayer), which receives digital information and without storing it (streaming) reproduces it in the form of amplified sound by means of five (integrated) loudspeakers and/or forwards it to other devices in the local area network, is amenable to classification under one or more of those headings and, if so, which heading(s)? Alternatively, should CN heading be interpreted as meaning that a device such as the Zoneplayer ought to be classified under that heading as an electrical machine or apparatus with an individual function?’
+Consideration of the question referred
+As a preliminary point, it should be recalled that, when the Court is requested to give a preliminary ruling on a matter of tariff classification, its task is to provide the national court with guidance on the criteria which will enable the latter to classify the products at issue correctly in the CN, rather than to effect that classification itself, a fortiori since the Court does not necessarily have available to it all the information which is essential in that regard. In any event the national court is in a better position to do so (judgment in Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph 27).
+Therefore, it is for the referring court to classify the goods at issue in the main proceedings in the light of the answers given by the Court to the question referred to it.
+In order to provide a helpful answer to the referring court, it must be stated at the outset that, as is apparent from paragraph of the present judgment, the general rules for the interpretation of the CN provide that the classification of goods is to be determined according to the terms of the headings and any section or chapter notes, the titles of sections, chapters and sub-chapters being provided for ease of reference only.
+Moreover, it is settled case-law that, in the interests of legal certainty and ease of verification, the decisive criterion for the tariff classification of goods is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and in the section or chapter notes (judgment in Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph and the case-law cited).
+As regards the Explanatory Notes to the HS, it should be added that, although they do not have legally binding force, they are an important means of ensuring the uniform application of the Common Customs Tariff and, as such, may be regarded as useful aids to its interpretation (see, to that effect, judgments in Kloosterboer Services, C‑173/08, EU:C:2009:382, paragraph 25, and Agroferm, C‑568/11,EU:C:2013:407, paragraph 28). The same is true of the Explanatory Notes of the CN (see, to that effect, judgments in Develop Dr. Eisbein, C‑35/93, EU:C:1994:252, paragraph 21, and British Sky Broadcasting Group and Pace, C‑288/and C‑289/09, EU:C:2011:248, paragraph 92).
+By its question, the referring court asks, in essence, whether the CN must be interpreted as meaning that a stand-alone device designed to retrieve, receive and stream digital audio files in the form of amplified sound, such as that at issue in the main proceedings, should be classified under tariff heading 8517, 8518, 8519, or of that nomenclature.
+In that regard, it follows from the very wording of CN headings 8517, 8518, 8519, and and the explanatory notes thereto that the function of the goods concerned is decisive for the classification of those goods under one of those headings.
+In fact, those headings provide a specific description of the function fulfilled by the goods which they cover. Accordingly, CN tariff heading relates, inter alia, to ‘apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network’. CN heading covers inter alia ‘loudspeakers, whether or not mounted in their enclosures’. CN heading covers sound recording or sound reproducing apparatus. CN heading includes ‘reception apparatus for radio-broadcasting’. As regards CN heading 8543, it covers ‘electrical machines and apparatus, having individual functions, not specified or included elsewhere in [Chapter of the CN]’.
+In the present case, it is undisputed that, as the Commission notes, the Zoneplayer provides only a single function.
+It is apparent, in fact, from the description given by the referring court, as set out, in essence, in paragraphs to of the present judgment, that the Zoneplayer is designed to retrieve, receive and reproduce in the form of sound, amplified by five loudspeakers included in the device, digital audio files available on the internet. Also, when the Zoneplayer is connected to the local network, digital audio files stored in the memory of devices forming part of that network may be streamed to it. It follows that the Zoneplayer does not itself generate the source of the sound which it broadcasts, that source being a digital audio file stored, as appropriate, on an external server to which the Zoneplayer is connected by the internet or on another device with which the Zoneplayer shares a local network.
+Consequently, the Zoneplayer fulfils solely a sound reproduction function. In that regard, the central unit which processes digital audio files, the various ports which enable a connection to a local network and the internet connection do not constitute distinct functions of the device, but the technical characteristics necessary for it to function. The reception of sound by means of a network communication is a technological innovation in the way data of a sound source is requested, received, converted and reproduced.
+In those circumstances, contrary to what is stated by the Netherlands Government, Note to Section XVI of the CN, which applies to machines and composite machines designed for the purpose of performing two or more complementary or alternative functions, is not relevant to the tariff classification of goods such as the Zoneplayer. In accordance with the Court’s case-law cited in paragraph of the present judgment, the decisive criterion in that regard must be sought in the objective characteristics and properties of the goods at issue.
+In the present case, the function of sound reproduction provided by the Zoneplayer corresponds to the wording of CN heading 8519.
+In addition, the HS Explanatory Notes relating to heading of the HS state that ‘generally’ sound is recorded onto or reproduced from an internal storage device or media, which does not exclude other sources. Accordingly, the mere fact that the source of the sound does not come from an internal storage device does not exclude classification of that product under that heading. Consequently, the sound reproduction function of a device such as the Zoneplayer cannot be called into question on the basis of the fact that the source of the sound which it reproduces is the internet or another device with which it shares a local network or a device to which it is connected by a cable.
+In addition, according to the case-law of the Court, the intended use of a product may constitute an objective criterion for classification if it is inherent to the product, and that inherent character must be capable of being assessed on the basis of the product’s objective characteristics and properties (see judgment in Krings, C‑130/02, EU:C:2004:122, paragraph and the case-law cited).
+In the present case, the Zoneplayer is intended to reproduce sounds, and more particularly, music. According to the Netherlands Government, Sonos Europe presents the Zoneplayer to consumers as being a wireless system intended to reproduce stereo sound of ‘High Fidelity’ (HIFI) quality. It follows that the connection of the device to a network serves only to enable the device to be used as it is intended. In those circumstances, the intended use of a device such as the Zoneplayer confirms its classification under CN heading 8519.
+It follows from those factors, and from the description of the Zoneplayer given by the referring court, as set out, in essence, in paragraphs to of the present judgment, subject to the assessment by that court of all the facts which it has available to it, that in the light of its objective characteristics and properties, as well as its intended purpose, the Zoneplayer’s function is to reproduce sound, such as described in CN heading 8519.
+That finding cannot be called into question by Sonos Europe’s argument that the Zoneplayer should be classified under CN heading 8517.
+In fact, the Zoneplayer has the function of reproducing sound and cannot therefore come under CN heading 8517. As follows from paragraph of the present judgment, the reception of sound by means of a network communication is a technological innovation which solely enables the Zoneplayer to function. Therefore, the fact that the connection to a network is necessary for the reproduction of music does not in any way call into question the classification of that device under CN heading 8519.
+Having regard to all the foregoing considerations, the answer to the question referred is that the CN must be interpreted as meaning that a stand-alone device designed to retrieve, receive and stream digital audio files in the form of amplified sound, such as that at issue in the main proceedings, must, subject to the referring court’s assessment of all of the facts which it has available to it, be classified under tariff heading of that nomenclature.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+The Combined Nomenclature listed in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, in the version resulting, successively, from Commission Regulation (EC) No 1031/of September and Commission Regulation (EC) No 948/of September 2009, must be interpreted as meaning that a stand-alone device designed to retrieve, receive and stream digital audio files in the form of amplified sound, such as that at issue in the main proceedings, must, subject to the referring court’s assessment of all of the facts which it has available to it, be classified under tariff heading of that nomenclature.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  
+ 

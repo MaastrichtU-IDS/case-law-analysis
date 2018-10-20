@@ -1,0 +1,479 @@
+
+Case C-302/J D Wetherspoon plc
+v
+The Commissioners for Her Majesty’s Revenue & Customs
+(Reference for a preliminary ruling from the 
+VAT and Duties Tribunal, London)
+(First and Sixth VAT Directives – Principles of fiscal neutrality and proportionality – Rules on rounding of amounts of VAT – Methods and levels of rounding)
+Summary of the Judgment
+1.        Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Sixth Directive – Provisions
+            on rounding of the amount of the tax
+(Council Directives 67/227, Art. 2, and 77/388, Arts 11A(1)(a), 12(3)(a) and 22(3)(b))
+2.        Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Sixth Directive – Provisions
+            on rounding of the amount of the tax
+(Council Directives 67/227, Art. 2, and 77/388, Arts 11A(1)(a), 12(3)(a) and 22(3)(b))
+3.        Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Sixth Directive – Rounding of
+            the amount of the tax
+(Council Directive 77/388)
+1.        Community law, as it currently stands, contains no specific requirement concerning the method of rounding amounts of value
+         added tax. In the absence of specific Community legislation, it is for Member States to decide on the rules and methods for
+         rounding amounts of value added tax, although those States must, when so deciding, observe the principles underpinning the
+         common system of that tax, particularly the principles of fiscal neutrality and proportionality. In particular, Community
+         law, first, does not preclude the application of a national rule which requires an amount of value added tax to be rounded
+         up whenever the fraction of the smallest unit of currency concerned is at or above 0.50, and, second, does not require that
+         taxable persons be allowed to round down any amount of value added tax which includes a fraction of the smallest unit of national
+         currency.
+      
+(see para. 38, operative part 1)
+2.        In a sale at a price inclusive of value added tax, in the absence of specific Community legislation, each Member State is
+         obliged to determine, within the limits of Community law, in particular in compliance with the principles of fiscal neutrality
+         and proportionality, the level at which the rounding of an amount of value added tax which includes a fraction of the smallest
+         unit of national currency may or must occur. 
+      
+(see para. 51, operative part 2)
+3.        In view of the fact that traders who calculate the price of their sales of goods and services inclusive of value added tax
+         are in a different situation to those effecting that same type of transactions at prices exclusive of value added tax, the
+         former cannot invoke the principle of fiscal neutrality in order to claim the right also to round down, at line level and
+         basket level, the amounts of value added tax due. Where prices are fixed exclusive of value added tax, the rounding occurs
+         before the customer pays the consideration for the supply, the amount of tax collected by the taxable person from his customer
+         and the amount subsequently paid by the taxable person to the State being identical, irrespective of the method of rounding
+         applied. By contrast, where value added tax is included in the price of goods or services, the systematic rounding down at
+         a lower level than the periodic value added tax return would result in the taxable person collecting from his customer the
+         amount of the value added tax actually due whilst systematically paying to the State a lower amount, retaining the difference
+         for his own benefit, which would be contrary to the principle that value added tax is collected by taxable persons at each
+         stage of the production or distribution process on behalf of the tax authorities, to which those taxable persons are required
+         to pay it.
+      
+(see paras 60-61, 64, operative part 3)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+March (*)
+      
+(First and Sixth VAT Directives – Principles of fiscal neutrality and proportionality – Rules on rounding of amounts of VAT – Methods and levels of rounding)
+In Case C‑302/07,
+REFERENCE for a preliminary ruling under Article EC from the VAT and Duties Tribunal, London (United Kingdom), made by
+         decision of June 2007, received at the Court on June 2007, in the proceedings
+      
+J D Wetherspoon plc
+v
+The Commissioners for Her Majesty’s Revenue and Customs,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Chamber, T. von Danwitz (Rapporteur), R. Silva de Lapuerta, E. Juhász and G. Arestis,
+         Judges,
+      
+Advocate General: E. Sharpston,
+Registrar: R. Şereş, Administrator,
+having regard to the written procedure and further to the hearing on October 2008,
+after considering the observations submitted on behalf of:
+–        J D Wetherspoon plc, by M. Angiolini, Barrister, and A. Khan, Solicitor,
+–        the United Kingdom Government, by V. Jackson, acting as Agent, and R. Hill, Barrister,
+–        the Greek Government, by S. Alexandridou, V. Karra, K. Georgiadis and M. Apesos, acting as Agents,
+–        the Netherlands Government, by C. Wissels and M. de Grave, acting as Agents,
+–        the Commission of the European Communities, by M. Afonso and R. Lyal, acting as Agents, 
+after hearing the Opinion of the Advocate General at the sitting on November 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article of First Council Directive 67/227/EEC of
+         April on the harmonisation of legislation of Member States concerning turnover taxes (OJ, English Special Edition 1967,
+         p. 14), as amended by Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States
+         relating to turnover taxes – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1) (‘the First
+         Directive’), along with Articles 11A(1)(a), 12(3)(a) and 22(3)(b) of Sixth Council Directive 77/388/EEC, as amended by Council
+         Directive 2003/92/EC of October (OJ L 260, p. 8) (‘the Sixth Directive’).
+      
+The reference has been made in the context of proceedings between J D Wetherspoon plc (‘Wetherspoon’) and the Commissioners
+         for Her Majesty’s Revenue and Customs (‘HMRC’) concerning the refusal by the latter of an application to allow Wetherspoon
+         to round down the amount due in respect of value added tax (‘VAT’) payable at line level and at basket level.
+      
+ Legal framework 
+ Community legislation 
+Article of the First Directive states:
+      
+‘The principle of the common system of value added tax involves the application to goods and services of a general tax on
+         consumption exactly proportional to the price of the goods and services, whatever the number of transactions which take place
+         in the production and distribution process before the stage at which tax is charged. 
+      
+On each transaction, value added tax, calculated on the price of the goods or services at the rate applicable to such goods
+         or services, shall be chargeable after deduction of the amount of value added tax borne directly by the various cost components.
+         
+      
+The common system of value added tax shall be applied up to and including the retail trade stage.’
+Article 10(2) of the Sixth Directive provides that the chargeable event occurs and the tax becomes chargeable, in principle,
+         when the goods are delivered or the services are performed.
+      
+Article11A(1)(a) of the Sixth Directive provides: 
+      
+‘The taxable amount shall be:
+(a)      in respect of supplies of goods and services other than those referred to in (b), (c) and (d) below, everything which constitutes
+         the consideration which has been or is to be obtained by the supplier from the purchaser, the customer or a third party for
+         such supplies including subsidies directly linked to the price of such supplies’.
+      
+According to Article 12(3)(a) of the Sixth Directive, the standard rate of VAT is to be fixed by each Member State as a percentage
+         of the taxable amount and is to be the same for the supply of goods and for the supply of services. Except where one or two
+         reduced rates apply, that percentage may not be less than 15%.
+      
+Article of the Sixth Directive, in the version resulting from Article 28h thereof (‘Article of the Sixth Directive’),
+         lays down the obligations of persons liable for payment of VAT under the internal system. The first subparagraph of Article 22(3)(a)
+         and the first subparagraph, the tenth indent of the first subparagraph and the fourth subparagraph of Article 22(3)(b) state:
+      
+‘(a)      Every taxable person shall ensure that an invoice is issued, either by himself or by his customer or, in his name and on his
+         behalf, by a third party, in respect of goods or services which he has supplied or rendered to another taxable person or to
+         a non-taxable legal person. ...
+      
+…
+(b)      Without prejudice to the specific arrangements laid down by this Directive, only the following details are required for VAT
+         purposes on invoices issued under the first, second and third subparagraphs of point (a):
+      
+…
+–        the VAT amount payable, except where a specific arrangement is applied for which this Directive excludes such a detail,
+…
+The amounts which appear on the invoice may be expressed in any currency, provided that the amount of tax to be paid is expressed
+         in the national currency of the Member State where the supply of goods or services takes place ...
+      
+…’
+Article 22(4)(a) and (b) and 22(5) of the Sixth Directive provides:
+      
+‘4.      (a)   Every taxable person shall submit a return by a deadline to be determined by Member States. ...
+(b)      The return shall set out all the information needed to calculate the tax that has become chargeable and the deductions to
+         be made including, where appropriate, and in so far as it seems necessary for the establishment of the basis of assessment,
+         the total value of the transactions relative to such tax and deductions and the value of any exempt transactions.
+      
+…
+5.      Every taxable person shall pay the net amount of the value added tax when submitting the regular return. Member States may,
+         however, set a different date for the payment of that amount or may demand an interim payment.’
+      
+During the period to 2006, numerous amendments were made to the Sixth Directive. Of the provisions set out above, only
+         the wording of Article 12(3) was amended. However, that amendment has no bearing on the answers to be given to the questions
+         referred to the Court for a preliminary ruling.
+      
+ National rules
+Regulation of the Value Added Tax Regulations lays down the obligation to provide a VAT invoice when a taxable supply
+         is made to another taxable person.
+      
+According to regulation 16(1), a ‘retailer’ is not required to provide a VAT invoice unless the customer requests one. Where
+         the consideration does not exceed GBP 100, it is possible to issue a ‘simplified VAT invoice’ indicating, inter alia, for
+         each rate of VAT chargeable, the gross amount payable including VAT, and the rate of VAT applicable.
+      
+HMRC published a guide to VAT for taxable persons entitled VAT Notice – The VAT Guide – April (‘VAT Notice 700’). 
+      
+Paragraphs 17.5, 17.5.and 17.of VAT Notice concern rounding of amounts of VAT. They provide:
+      
+‘17.Calculation of VAT on invoices – rounding of amounts
+Note: The concession in this paragraph to round down amounts of VAT is designed for invoice traders and applies only where
+         the VAT charged to customers and the VAT paid to Customs and Excise is the same. As a general rule, the concession to round
+         down is not appropriate to retailers, who should see paragraph 17.6.
+      
+You may round down the total VAT payable on all goods and services shown on a VAT invoice to a whole penny. You can ignore
+         any fraction of a penny.
+      
+17.5.Calculation based on lines of goods or services
+If you wish to work out the VAT separately for a line of goods or services, which are included with other goods or services
+         in the same invoice, you should calculate the separate amounts of VAT either by rounding:
+      
+–        down to the nearest 0.p – for example, 86.p would be rounded down to 86.p; or
+–        to the nearest p or 0.p – for example, 86.p would be rounded up to p.
+Whatever you decide, you must be consistent.
+The final total amount of VAT payable may be rounded down to the nearest whole penny.
+…
+17.Calculation of VAT at retailers
+Most retailers account for VAT using a retail scheme. If that is the way you account for VAT, this paragraph does not affect
+         you.
+      
+Retailers are increasingly using sophisticated till technology to identify the VAT due on each transaction and issue an invoice.
+         If you do not use a retail scheme, but instead calculate VAT at line level or invoice level, you must not round the VAT figure
+         down. However, you may round (up and down) each VAT calculation.’
+      
+VAT Notice does not define ‘invoice traders’.
+      
+Further guidance on rounding is provided in HMRC Manual V1‑24A: Trader’s records, which is a publicly available guide for revenue staff.
+      
+Section 12.of that manual states that, when interpreting Paragraph 17.of VAT Notice 700, ‘it is important to note that
+         it is in the context of rules for invoice traders where the rounding is tax neutral. This is because it will normally impact
+         on both the output tax of the supplier and the input tax of the customer. This means that when an invoice trader calculates
+         the VAT on net values, the amount charged and payable by the customer may be rounded down.’
+      
+Section 12.of Manual V1‑24A: Trader’s records provides:
+      
+‘Sophisticated accounting packages allow retailers the possibility of identifying VAT at line level and/or providing VAT invoices.
+         …
+      
+As a general rule the concession to round down is not appropriate for retailers. This is because the effect of rounding down
+         the VAT charged to final consumers is not to reduce the VAT payable (which is the VAT fraction [multiplied by] the consideration)
+         but only to reduce the tax accounted to HMRC.
+      
+Most retailers continue to account for VAT using a retail scheme. The problem of rounding only arises for retailers whose
+         accounting systems allow them to identify tax at line level and to issue invoices. …
+      
+If a retailer genuinely sets prices on a VAT-exclusive basis – so that the VAT charged to the customer and the VAT accounted
+         to HMRC are the same – the existing rounding concession may be appropriate. In considering such a system, you should examine
+         how prices are actually set. If the retailer genuinely arrives at a tax inclusive selling price by starting with a net value
+         expressed in whole pennies, then the existing concession may be appropriate. …’
+      
+Section 12.of Manual V1‑24A: Trader’s records explains the arithmetical method for rounding and states, in its third subparagraph, that ‘if a trader proposes an alternative
+         rounding method then it should be considered and allowed if it produces an acceptable and reasonable result’.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+Wetherspoon operates a chain of more than pubs throughout the United Kingdom. The majority of its revenue is generated
+         by retail sales of food and beverages to final consumers.
+      
+Wetherspoon displays retail selling prices inclusive of VAT to its customers. It does not issue them with full VAT invoices
+         although, in respect of orders for food or hot beverages, it routinely provides them with till receipts indicating its VAT
+         registration number. For other beverages, including alcoholic ones, it provides a till receipt only if the consumer requests
+         one.
+      
+Until 2004, Wetherspoon calculated the VAT due on each transaction subject to the standard rate of VAT of 17.5% with an individual
+         customer by multiplying the total amount of the sale by 7/47. The result was rounded up or down arithmetically, to the nearest
+         penny.
+      
+Since modernising its electronic point-of-sale till system in August 2004, Wetherspoon has been able to calculate the VAT
+         at ‘line’ level, that is, on each separately identified product where the transaction involves more than one product. In order
+         to do so, Wetherspoon calculates and rounds down the VAT to three decimal places, namely, down to the nearest tenth of a penny,
+         at the product line level. It then aggregates those amounts of VAT and rounds down the total to the nearest whole penny, at
+         the level of the transaction (‘basket level’).
+      
+Between September and January 2005, Wetherspoon negotiated with HMRC with a view to agreeing a bespoke scheme for retailers.
+         However, the scheme proposed by Wetherspoon was never approved by HMRC and Wetherspoon never implemented it.
+      
+By letter of March 2006, HMRC refused to allow Wetherspoon to round down the VAT payable on each transaction. Accordingly,
+         on April 2006, Wetherspoon lodged a notice of appeal against that refusal. On September 2006, it lodged two other actions,
+         on the same grounds, against two assessment notices issued on and August 2006.
+      
+Wetherspoon claims that it is entitled to apply the method of rounding down provided for in Paragraph 17.5.of VAT Notice
+         700. HMRC contend that Wetherspoon should, on the contrary, round arithmetically at either line level or basket level.
+      
+The national tribunal, before which those actions have been brought, states that neither Community law, on the one hand, nor
+         the Value Added Tax Act or the Value Added Tax Regulations 1995, on the other, lay down clear rules concerning the method
+         of rounding to be used where the application of the normal rate of VAT leads to an amount which includes a fraction of the
+         smallest currency unit available, in this case one penny. According to that tribunal, two methods of rounding are possible.
+         It is possible systematically to round down or to round arithmetically, by rounding down fractions of less than 0.penny
+         to the nearest whole penny and by rounding up fractions equal to or greater than 0.to the nearest whole penny.
+      
+The national tribunal also points out that neither the directives nor the United Kingdom legislation specify at what stage
+         or level rounding should take place. Accordingly, where a customer purchases several products at the same time, the VAT invoiced
+         could be rounded for each item separately or, where multiple items of the same product are purchased, for each line of goods.
+         Likewise, rounding could occur at the level of the total transaction with the customer, at the moment of the VAT declaration
+         at the end of the relevant accounting period or, finally, at some other level, such as that of daily gross taking per outlet
+         or for all of the trader’s retail outlets.
+      
+Taking the view that it is not clear whether Community law requires any particular form of rounding and, if so, how the principle
+         of fiscal neutrality is to be applied in that context, the national tribunal decided to stay the proceedings and to refer
+         the following four questions to the Court for a preliminary ruling:
+      
+‘(1)      Is the rounding off of VAT amounts governed solely by national law, or instead governed by Community law? In particular, do
+         the first and second paragraphs of Article of the First Directive and Articles 11A(l)(a) and/or 12(3)(a) and/or Article 22(3)(b)
+         (version as at January 2004) of the Sixth Directive confirm that rounding off is a matter of Community law?
+      
+(2)      In particular:
+(i)      Does Community law prevent the application of a national rule or practice of the national taxing authority which requires
+         rounding up of any given VAT amount whenever the fraction of the smallest unit of currency concerned is at or above 0.(for
+         example, 0.pence is required to be rounded up to the nearest whole pence)?
+      
+(ii)      Does Community law require that the taxpayers be allowed to round down any VAT amount which includes a fraction of the smallest
+         unit of currency available?
+      
+(3)      In a VAT inclusive sale, at which level does Community law require rounding off to be applied for the purpose of calculating
+         the VAT due: at the level of each individual item, each line of goods, each supply (if more than one supply is included in
+         the same basket), each transaction/basket total, or each VAT accounting period or some other level?
+      
+(4)      Is the answer to any of the questions affected by the Community law principles of equal treatment and fiscal neutrality, particularly
+         by reference to the existence, in the United Kingdom, of a concession by the relevant taxing authorities allowing only certain
+         traders to round down the VAT amounts to be accounted for?’
+      
+ The questions referred for a preliminary ruling
+ The first and second questions
+By its first two questions, which it is appropriate to examine together, the national tribunal asks, essentially, whether
+         the rounding of amounts of VAT comes within the scope of national or Community law and, more specifically, whether Community
+         law includes rules on the rounding method, whether precluding arithmetical rounding or requiring Member States to authorise
+         taxable persons systematically to round down, when the application of the standard rate of VAT leads to an amount of VAT which
+         includes a fraction of the smallest unit of national currency.
+      
+In that regard, the Court has already held that the provisions of the First and Sixth Directives contain no explicit rule
+         concerning rounding of amounts of VAT. In particular, the Sixth Directive is silent on that matter (Case C‑484/Koninklijke Ahold [2008] ECR I‑0000, paragraph 24).
+      
+Moreover, it cannot be inferred either from the wording of Articles 11A(1)(a), 22(3)(b), 22(4) and 22(5) of the Sixth Directive
+         or from their objectives that a specific method of rounding has been laid down by Community law (see, to that effect, Koninklijke Ahold, paragraphs to 30).
+      
+Consequently, in the absence of any specific Community legislation, it is for the legal systems of the Member States to determine,
+         within the limits of Community law, the method and rules for rounding of an amount declared by way of VAT (see Koninklijke Ahold, paragraph 31).
+      
+When Member States establish or accept a particular method of rounding, they are obliged to observe the principles governing
+         the common system of VAT, such as those of fiscal neutrality and proportionality. It does not, however, follow from observance
+         of those recognised principles of the Community legal system that the question as to which specific method of rounding should
+         be used is itself within the scope of Community law (Koninklijke Ahold, paragraph 32).
+      
+One of the consequences of the principle of fiscal neutrality is that taxable persons effecting the same or similar economic
+         transactions must not be treated differently with regard to the method of rounding applied when VAT is calculated (see, to
+         that effect, Koninklijke Ahold, paragraph and the case‑law cited). By virtue of the same principle, the amount of VAT to be collected by the tax authority
+         must not be greater than that declared on the invoice and paid by the final consumer to the taxable person (see Case C‑317/Elida Gibbs [1996] ECR I‑5339, paragraph 24, and, to that effect, Koninklijke Ahold, paragraph 36).
+      
+Accordingly, that principle does not entail any requirement that a particular method of rounding be applied, in so far as
+         the method chosen by the Member State concerned ensures that the amount of VAT to be collected by the tax authority corresponds
+         exactly to the amount of VAT paid by the final consumer to the taxable person (see Koninklijke Ahold, paragraph 37).
+      
+With regard to the principle of proportionality, the Court has held that, while observance of that principle requires that
+         any rounded amount should correspond as closely as possible to that arising from application of the rate in force, the fact
+         remains that that requirement must be reconciled with the practical needs of the effective application of the common system
+         of VAT and that, in view of the technical nature of rounding, more than one single method of rounding could satisfy those
+         requirements (see, to that effect, Koninklijke Ahold, paragraphs to 41).
+      
+It follows from the foregoing that Community law, in particular the provisions of the First and Sixth Directives and the principles
+         of fiscal neutrality and proportionality, contains no specific requirement concerning the method of rounding amounts of VAT
+         (see, to that effect, Koninklijke Ahold, paragraph 42).
+      
+Accordingly, the answer to the first and second questions is that Community law, as it currently stands, contains no specific
+         requirement concerning the method of rounding amounts of VAT. In the absence of specific Community legislation, it is for
+         Member States to decide on the rules and methods for rounding amounts of VAT, although those States must, when so deciding,
+         observe the principles underpinning the common system of that tax, particularly the principles of fiscal neutrality and proportionality.
+         In particular, Community law, first, does not preclude the application of a national rule which requires an amount of VAT
+         to be rounded up whenever the fraction of the smallest unit of currency concerned is at or above 0.50, and, second, does not
+         require that taxable persons be allowed to round down any amount of VAT which includes a fraction of the smallest unit of
+         national currency.
+      
+ The third  question
+By this question, the national tribunal asks whether, in a sale at a price inclusive of VAT, Community law requires that rounding
+         for the purpose of calculating the VAT due should occur at a particular level, for example at one of those referred to in
+         paragraph above.
+      
+In the view of the United Kingdom Government, Community law requires rounding of VAT only at the stage at which it requires
+         VAT accounting as a sum of money. Accordingly, the lowest level would be either the invoice issued pursuant to Article 22(3)
+         of the Sixth Directive, or the periodic VAT return. However, Member States retain a certain discretion to authorise rounding
+         at an earlier stage if they consider this to be appropriate.
+      
+The Commission of the European Communities is also of the view that it may be considered necessary to indicate the VAT due
+         in round figures when an invoice is issued in accordance with Article 22(3) of the Sixth Directive. However, in the case of
+         a retail sale at prices inclusive of VAT, it would only be at the stage of the periodic VAT return that the need would arise
+         to express the amount due in round figures.
+      
+Wetherspoon, by contrast, takes the view that rounding practised only at the end of the relevant VAT accounting period would
+         be incompatible with the rules of the First and Sixth Directives and with the principles of fiscal neutrality and legal certainty.
+         As the obligation to declare VAT to the tax authorities for supplies effected arises in respect of each transaction, it would
+         be necessary to identify the exact amount of VAT that the customer is required to pay and which the supplier is required to
+         declare, at the latest, at basket level.
+      
+First, it must be stated that the provisions of the First and Sixth Directives, in particular those set out by the national
+         tribunal, do not include any express rule fixing the level at which the rounding of amounts of VAT including a fraction of
+         the smallest unit of national currency may or must be carried out.
+      
+In particular, Article 11A(1)(a) of the Sixth Directive restricts itself to determining the taxable amount and it refers only
+         to the price of the goods supplied and the services performed as consideration for the price (Koninklijke Ahold, paragraph 26).
+      
+Article 22(3)(b) of the Sixth Directive, it is true, provides that, where an invoice is issued, the amount of tax to be paid
+         must appear on the invoice and be expressed in the national currency of the Member State concerned. However, it does not follow
+         from these requirements that that provision requires the use of whole units of national currency for that information.
+      
+That finding is in no way brought into question by the objectives and context of either of the provisions referred to in the
+         two preceding paragraphs. The purpose of those provisions is to guarantee uniformity of the taxable amount in Member States
+         and to ensure that the internal market functions properly (see Koninklijke Ahold, paragraphs and 29).
+      
+It follows that the inference cannot be drawn from either the wording of those provisions or their objectives that a particular
+         level of rounding has been laid down by Community legislation.
+      
+Accordingly, in the absence of any specific Community rules, it is for the legal systems of the Member States to determine,
+         within the limits established by Community law, the stage at which the rounding of an amount of VAT may or must be carried
+         out.
+      
+As is clear from paragraph above, Member States, when they determine that stage, are obliged to observe the principles
+         of fiscal neutrality and proportionality governing the common system of VAT (see, in that regard, paragraphs to above).
+         However, because of the technical nature of rounding, those principles are not such as to contain requirements from which
+         it can be inferred that only one level of rounding, namely that effected at item level or line level, is capable of satisfying
+         the principles.
+      
+Furthermore, it is necessary to distinguish possible requirements of Community law on rounding from the practical need to
+         round an amount of VAT which includes a fraction of the smallest unit of national currency. With regard to transactions at
+         a price inclusive of VAT, the imperative need to round the amount of VAT to a whole unit of that currency unit does not exist
+         at this stage, as the Advocate General has stated at point of her Opinion. In such a case, it is only at the end of the
+         periodic VAT return that it is absolutely necessary to arrive at an amount which can actually be paid and which, consequently,
+         may not include a fraction of the smallest unit of currency.
+      
+Having regard to all of the foregoing considerations, the answer to the third question is that, in a sale at a price inclusive
+         of VAT, in the absence of specific Community legislation, each Member State is obliged to determine, within the limits of
+         Community law, in particular in compliance with the principles of fiscal neutrality and proportionality, the level at which
+         the rounding of an amount of VAT which includes a fraction of the smallest unit of national currency may or must occur.
+      
+ The fourth question
+By this question, the national tribunal asks, essentially, whether a ‘retailer’ may, in reliance on the Community principles
+         of equal treatment and fiscal neutrality, claim the right to apply the same method of rounding amounts of VAT due as that
+         which national law grants to certain taxable persons, namely ‘invoice traders’, in other words, to round down the amount due
+         in respect of VAT at line level and basket level.
+      
+Wetherspoon is of the view that it is incompatible with the principle of fiscal neutrality to deny retailers the concession
+         granted to invoice traders. Such exclusion, it argues, has the result that supplies of similar goods and services which are
+         in competition with each other are treated differently for VAT purposes. In addition, in the absence of any definition of
+         ‘invoice traders’ in the national rules mentioned above, the distinction in question is arbitrary.
+      
+The United Kingdom Government takes the view, in that regard, that invoice traders do not make similar supplies to those of
+         retailers and are not in competition with them, since retailers operate at a different level of the supply chain. Consequently,
+         the principles of fiscal neutrality and elimination of distortion in competition do not require that those two groups of persons
+         be treated in the same way for VAT purposes.
+      
+According to the Commission, the principle of fiscal neutrality precludes the extension to retailers of a concession by a
+         tax authority authorising certain operators, who normally apply prices exclusive of VAT and do not sell to end consumers,
+         to round down the VAT amount to be declared.
+      
+The Greek Government takes the view that rounding down to the lower figure has no bearing on the final amount collected by
+         the State only if it applies solely to supplies to other taxable persons.
+      
+In that regard, it must be pointed out, as is apparent from paragraph above, that the principle of fiscal neutrality, which
+         is the reflection in the field of VAT of the principle of equal treatment, precludes, inter alia, for taxable persons effecting
+         the same transactions or similar economic transactions, different treatment with regard to the method of rounding applied
+         when VAT is calculated (see to that effect, also, Case C‑162/Ampliscientifica and Amplifin [2008] ECR I‑0000, paragraph 25, and Case C‑132/Commission v Italy [2008] ECR I‑0000, paragraph 39).
+      
+Thus, it is necessary to examine whether the ‘invoice traders’ and ‘retailers’ referred to by the rules at issue in the main
+         proceedings effect the same transactions or similar economic transactions.
+      
+In the present case, it follows from paragraph 17.of VAT Notice and from sections 12.and 12.of the manual V1‑24A: Trader’s records that the term ‘invoice traders’ refers only to taxable persons who effect their supplies of goods and services at prices
+         exclusive of VAT, to which VAT is added at the moment of invoicing.
+      
+Where prices are fixed exclusive of VAT, the rounding occurs before the customer pays the consideration for the supply. The
+         amount of tax collected by the taxable person from his customer and the amount subsequently paid by the taxable person to
+         the State are identical, irrespective of the method of rounding applied.
+      
+By contrast, where VAT is included in the price of goods or services, the systematic rounding down at a lower level than the
+         periodic VAT return would result in the taxable person collecting from his customer the amount of the VAT actually due whilst
+         systematically paying to the State a lower amount, retaining the difference for his own benefit. That result would be contrary
+         to the principle that VAT is collected by taxable persons at each stage of the production or distribution process on behalf
+         of the tax authorities, to which those taxable persons are required to pay it (see Case C‑291/MyTravel [2005] ECR I‑8477, paragraph 30).
+      
+Moreover, the two situations mentioned above differ significantly from the point of view of the practical need to apply the
+         common system of VAT effectively. In respect of prices exclusive of VAT, normally expressed in round figures, the rounding
+         of VAT is indispensable if a total amount resulting from the addition of the price exclusive of VAT and the VAT due is to
+         be obtained, which is capable of being actually paid. However, where the VAT is included in the price of the goods or service,
+         rounding is not necessary in order to be able to pay the total price.
+      
+Therefore, traders effecting their sales of goods or services at prices exclusive of VAT and those calculating the prices
+         of those transactions by including the VAT are in different situations. Accordingly, the latter cannot, in reliance on the
+         principle of fiscal neutrality, claim the right to be treated in the same way as operators applying prices exclusive of VAT
+         with regard to the rounding of the amount due in respect of VAT.
+      
+Consequently, the answer to the fourth question is that, in view of the fact that traders who calculate the price of their
+         sales of goods and services inclusive of VAT are in a different situation to those effecting that same type of transactions
+         at prices exclusive of VAT, the former cannot invoke the principle of fiscal neutrality in order to claim the right also to
+         round down, at line level and basket level, the amounts of VAT due.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national tribunal,
+         the decision on costs is a matter for that tribunal. Costs incurred in submitting observations to the Court, other than the
+         costs of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+1.      Community law, as it currently stands, contains no specific requirement concerning the method of rounding amounts of value
+            added tax. In the absence of specific Community legislation, it is for Member States to decide on the rules and methods for
+            rounding amounts of value added tax, although those States must, when so deciding, observe the principles underpinning the
+            common system of that tax, particularly the principles of fiscal neutrality and proportionality. In particular, Community
+            law, first, does not preclude the application of a national rule which requires an amount of value added tax to be rounded
+            up whenever the fraction of the smallest unit of currency concerned is at or above 0.50, and, second, does not require that
+            taxable persons be allowed to round down any amount of value added tax which includes a fraction of the smallest unit of national
+            currency.
+2.      In a sale at a price inclusive of value added tax, in the absence of specific Community legislation, each Member State is
+            obliged to determine, within the limits of Community law, in particular in compliance with the principles of fiscal neutrality
+            and proportionality, the level at which the rounding of an amount of value added tax which includes a fraction of the smallest
+            unit of national currency may or must occur.
+3.      In view of the fact that traders who calculate the price of their sales of goods and services inclusive of value added tax
+            are in a different situation to those effecting that same type of transactions at prices exclusive of value added tax, the
+            former cannot invoke the principle of fiscal neutrality in order to claim the right also to round down, at line level and
+            basket level, the amounts of value added tax due.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

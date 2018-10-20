@@ -1,0 +1,162 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+June (
+*)
+‛Reference for a preliminary ruling — Taxation — Value added tax — Directive 2006/112/EC — Deduction of input tax — Article 173(1) — Goods or services used to carry out both taxable transactions and exempt transactions (‘mixed use goods and services’) — Determining the amount of the value added tax deduction — Deductible proportion — Article — Deductible proportion calculated by applying an allocation key according to turnover — Article 173(2) — Derogation — Article — Rounding-up rule for the deductible proportion — Articles and — Adjustment of deductions’
+In Case C-186/15,
+REQUEST for a preliminary ruling under Article TFEU from the Finanzgericht Münster (Finance Court, Münster, Germany), made by decision of March 2015, received at the Court on April 2015, in the proceedings
+Kreissparkasse Wiedenbrück
+v
+Finanzamt Wiedenbrück,
+THE COURT (Eighth Chamber),
+composed of D. Šváby, President of the Chamber, J. Malenovský (Rapporteur) and M. Vilaras, Judges,
+Advocate General: Y. Bot,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Kreissparkasse Wiedenbrück, by O. Peters, Steuerberater,
+—
+the German Government, by T. Henze and K. Petersen, acting as Agents,
+—
+the European Commission, by M. Wasmeier and M. Owsiany-Hornung, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 173(2), Article 175(1) and Article of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1).
+The request has been made in proceedings between Kreissparkasse Wiedenbrück (‘the Kreissparkasse’) and Finanzamt Wiedenbrück (Wiedenbrück Tax Office, Germany) concerning the calculation of the right to deduct value added tax (‘VAT’) due or paid upon the acquisition of goods or services used to carry out both transactions in respect of which VAT is deductible and transactions in respect of which VAT is not deductible (‘mixed use goods and services’).
+Legal context
+EU law
+The Sixth Directive
+Under the heading ‘Existence and scope of the right to deduct’, Article 17(5) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1, ‘the Sixth Directive’) provides:
+‘As regards goods and services to be used by a taxable person both for transactions covered by paragraphs and 3, in respect of which value added tax is deductible, and for transactions in respect of which value added tax is not deductible, only such proportion of the value added tax shall be deductible as is attributable to the former transactions.
+This proportion shall be determined, in accordance with Article 19, for all the transactions carried out by the taxable person.
+However, the Member States may:
+(a)
+authorise the taxable person to determine a proportion for each sector of his business, provided that separate accounts are kept for each sector;
+(b)
+require the taxable person to determine a proportion for each sector of his business and to keep separate accounts for each sector;
+(c)
+authorise or compel the taxable person to make the deduction on the basis of the use of all or part of the goods and services;
+(d)
+authorise or compel the taxable person to make the deduction in accordance with the rule laid down in the first subparagraph, in respect of all goods and services used for all transactions referred to therein;
+…’
+Article of the Sixth Directive, headed ‘Calculation of the deductible proportion’, is worded as follows:
+‘The proportion deductible under the first subparagraph of Article 17(5) shall be made up of a fraction having:
+—
+as numerator, the total amount, exclusive of value added tax, of turnover per year attributable to transactions in respect of which value added tax is deductible under Article 17(2) and (3),
+—
+as denominator, the total amount, exclusive of value added tax, of turnover per year attributable to transactions included in the numerator and to transactions in respect of which value added tax is not deductible. The Member States may also include in the denominator the amount of subsidies, other than those specified in Article 11A(1)(a).
+The proportion shall be determined on an annual basis, fixed as a percentage and rounded up to a figure not exceeding the next unit.’
+The Sixth Directive was repealed by Directive 2006/112, which entered into force on January 2007.
+Directive 2006/Recital in the preamble of Directive 2006/states:
+‘To ensure that the provisions are presented in a clear and rational manner, consistent with the principle of better regulation, it is appropriate to recast the structure and the wording of the Directive although this will not, in principle, bring about material changes in the existing legislation. A small number of substantive amendments are however inherent to the recasting exercise and should nevertheless be made. Where such changes are made, these are listed exhaustively in the provisions governing transposition and entry into force.’
+Article of that directive is worded as follows:
+‘1.   In the case of goods or services used by a taxable person both for transactions in respect of which VAT is deductible ... and for transactions in respect of which VAT is not deductible, only such proportion of the VAT as is attributable to the former transactions shall be deductible.
+The deductible proportion shall be determined, in accordance with Articles and 175, for all the transactions carried out by the taxable person.
+2.   Member States may take the following measures:
+(a)
+authorise the taxable person to determine a proportion for each sector of his business, provided that separate accounts are kept for each sector;
+(b)
+require the taxable person to determine a proportion for each sector of his business and to keep separate accounts for each sector;
+(c)
+authorise or compel the taxable person to make the deduction on the basis of the use of all or part of the goods and services;
+(d)
+authorise or require the taxable person to make the deduction in accordance with the rule laid down in the first subparagraph of paragraph 1, in respect of all goods and services used for all transactions referred to therein;
+…’
+Article 174(1) of that directive states:
+‘The deductible proportion shall be made up of a fraction comprising the following amounts:
+(a)
+as numerator, the total amount, exclusive of VAT, of turnover per year attributable to transactions in respect of which VAT is deductible ... ;
+(b)
+as denominator, the total amount, exclusive of VAT, of turnover per year attributable to transactions included in the numerator and to transactions in respect of which VAT is not deductible.
+Member States may include in the denominator the amount of subsidies, other than those directly linked to the price of supplies of goods or services referred to in Article 73.’
+Article 175(1) of Directive 2006/provides:
+‘The deductible proportion shall be determined on an annual basis, fixed as a percentage and rounded up to a figure not exceeding the next whole number.’
+Article of that directive is worded as follows:
+‘The initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled.’
+Article 185(1) of that directive states:
+‘Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained.’
+Article of Directive 2006/provides:
+‘Member States shall lay down the detailed rules for applying Articles and 185.’
+Articles to of that directive, featuring in Chapter 3, headed ‘Transposition and entry into force’, of Section XV.
+Article of that directive reads:
+‘1.   Directive 67/227/EEC and [the Sixth Directive] are repealed, without prejudice to the obligations of the Member States concerning the time-limits, listed in Annex XI, Part B, for the transposition into national law and the implementation of those Directives.
+2.   References to the repealed Directives shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex XII.’
+Article of Directive 2006/provides:
+‘1.   Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 2(3), Article 44, Article 59(1), Article and Annex III, point (18) with effect from January 2008. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+2.   Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field governed by this Directive.’
+Article of that directive states:
+‘This Directive shall enter into force on January 2007.’
+Article of that directive is worded as follows:
+‘This Directive is addressed to the Member States.’
+German law
+Paragraph 15(4) of the Law on Turnover Tax (Umsatzsteuergesetz, ‘the UStG’), headed ‘right to deduct’, provides:
+‘If the trader uses any goods or other services supplied, imported or acquired in the Community only in part to carry out transactions in respect of which there is no right to deduct, the part of the input tax which is economically attributable to those transactions shall not be deductible. The trader may make an appropriate estimate of the non-deductible amounts. Determining the non-deductible part of the tax in accordance with the ratio between the turnover in respect of which VAT is not deductible and the turnover in respect of which VAT is deductible shall be permissible only if no other economic allocation is possible.’
+Paragraph 15a(1) of the UStG is worded as follows:
+‘Should changes in the factors to be taken into account to determine the initial amount to be deducted occur within five years from the time when an asset that has only been used once to carry out transactions is first used, each calendar year corresponding to those changes shall be compensated by an adjustment of the deduction in the amounts of tax attributable to the acquisition or production costs. …’
+The main proceedings and the questions referred for a preliminary ruling
+The Kreissparkasse is a credit institution.
+The Kreissparkasse established that the deductible proportion of the VAT attributable to its acquisition of mixed use goods and services was 13.55% for the year and 13.18% for the year 2010, percentages which it rounded up to 14%. In calculating, for those financial years, the amount of adjustments it needed to make under Article 15a of the UStG because of its waiver of a tax exemption scheme with respect to transactions with its professional clients, the Kreissparkasse also applied deductible proportions which it rounded up to 14%.
+Following a tax inspection carried out in in relation to those financial years, the Kreissparkasse was required, by virtue of two decisions of the Wiedenbrück Tax Office of January 2012, to effect a further tax adjustment on the ground that it had wrongly rounded up the deductible proportions of VAT to the next whole number.
+The Kreissparkasse lodged an objection to those decisions, relying on the provisions of Article 175(1) of Directive 2006/112, according to which, the applicant claims, the deductible proportion must be rounded up to a figure not exceeding the next whole number.
+By decision of June 2012, Wiedenbrück Tax Office dismissed that objection on the ground that, in essence, Article 175(1) of Directive 2006/is only applicable when the Member State concerned has not made use of the option set out in Article 173(2) of that directive to derogate from the calculation method set out in the second subparagraph of Article 173(1) of that directive. According to the Tax Office, the Federal Republic of Germany has made use of that option since, in accordance with the third sentence of Article 15(4) of the UStG, the deductible proportion must be established, as far as possible, according to the so-called method of ‘economic allocation’.
+By proceedings brought before the Finanzgericht Münster (Finance Court, Münster, Germany) on July 2012, the Kreissparkasse contested the Wiedenbrück Tax Office’s decision of June 2012. The referring court states that, in paragraph of the judgment of December in Royal Bank of Scotland (C‑488/07, EU:C:2008:750), the Court held that the rounding-up rule laid down in the second subparagraph of Article 19(1) of the Sixth Directive is not applicable when the goods and services at issue are subject to one of the special sets of rules laid down in the third subparagraph of Article 17(5) of that directive. It is however in doubt as to whether this solution is also valid for Article 175(1) of Directive 2006/112.
+In those circumstances, the Finanzgericht Münster (Finance Court, Münster) decided to stay proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Are the Member States required to apply the rounding-up rule in Article 175(1) of Directive 2006/in cases where the deductible proportion is calculated in accordance with one of the special methods set out in headings (a), (b), (c) or (d) of Article 173(2) of that directive?
+(2)
+Are the Member States required to apply the rounding-up rule in Article 175(1) of Directive 2006/when tax is adjusted in accordance with Article et seq. of that directive, where the deductible proportion within the meaning of Article 175(1) of that directive is calculated in accordance with one of the special methods set out in headings (a), (b), (c) or (d) of Article 173(2) of that directive or in accordance with headings (a), (b), (c) or (d) of the third subparagraph of Article 17(5) of the Sixth Directive?
+(3)
+Are the Member States required to adjust deductions in accordance with Article et seq. of Directive 2006/by applying the rounding-up rule (second question) in such a way as to round the amount subject to adjustment up or down to a whole percentage in favour of the taxable person?’
+Consideration of the questions referred
+The first question
+By the first question, the referring court asks, in essence, whether Article 175(1) of Directive 2006/must be interpreted as meaning that the Member States are not required to apply the rounding-up rule laid down in that provision where the deductible proportion is calculated in accordance with one of the derogating methods set out in Article 173(2) of that directive.
+In this regard, it must be noted that Article 175(1) of that directive states only that ‘the deductible proportion shall be determined on an annual basis, fixed as a percentage and rounded up to a figure not exceeding the next whole number’.
+Consequently, it must be stated that this wording provides no answer to the first question, since that wording does not indicate that there is any possibility of applying the rounding-up rule laid down in that provision when implementing one of the derogating methods set out in Article 173(2) of that directive.
+That being the case, Article 175(1) of Directive 2006/must be interpreted by taking account of the context of that provision and the objectives pursued by that directive (see, to that effect, judgment of April in Marchon Germany, C‑315/14, EU:C:2016:211, paragraph 29).
+As regards the context of that provision, it must be noted that Article 175(1) of Directive 2006/is part of a subset of provisions in Chapter 2, headed ‘Proportional deduction’, in Section X of that directive. The provisions of that chapter lay down the rules on the right to deduct VAT chargeable on the acquisition of mixed use goods and services.
+That subset is built around Article 173(1) of that directive, whose first subparagraph sets out the principle of the partial deduction of VAT chargeable on this type of goods or services. The second subparagraph of that provision states that the deductible proportion to be used is to be determined, for all transactions made by a taxable person, in accordance with Articles and of that directive.
+Thus structured, that subset of provisions can be read as meaning that the rounding-up rule laid down in Article 175(1) of Directive 2006/is capable of being applied in any situation in which mixed use goods or services are at issue.
+However, Article 173(2) of that directive lays down methods of determining the right to deduct that derogate from the provisions of Article 173(1). Therefore, the Court must examine, taking into account the objective pursued by Article 173(2), whether what is stated in the preceding paragraph may be affected by the existence of these derogations.
+In that regard, it is common ground that the reason why Member States have the possibility under Article 173(2) of Directive 2006/to derogate from the method set out in Article 173(1) of that directive of calculating the deductible proportion is to enable them to achieve, with regard to, inter alia, the specific characteristics of the taxable person’s activities, greater accuracy in determining the extent of the right to deduct (see, to that effect, judgment of July in Banco Mais, C‑183/13, EU:C:2014:2056, paragraph and the case-law cited).
+The application, when determining the deductible proportion where one of the possibilities open to Member States under Article 173(2) of Directive 2006/is implemented, of a rule according to which the deductible proportion obtained must be rounded up to a figure not exceeding the next whole number is contrary to such an objective.
+Given that Member States are allowed to take measures to achieve greater accuracy in the determination of the right to deduct, it would be inconsistent if Member States opting for such measures were compelled to employ the rounding-up rule laid down in Article 175(1) of Directive 2006/and if, as a consequence, they were unable either to adopt and apply another more accurate or more appropriate rule, or to exclude any rounding-up of the deductible proportion obtained.
+It follows from the foregoing that, while the rounding-up rule laid down in Article 175(1) of Directive 2006/can be used by a Member State for all calculations of the right to deduct VAT chargeable on the acquisition of mixed use goods or services, including where one of the derogating methods set out in Article 173(2) of that directive is employed, Member States are free not to employ that rule where the right to deduct is calculated in accordance with one of those derogating methods.
+The Court came to a similar conclusion as regards the interpretation of the third subparagraph of Article 17(5) and Article 19(1) of the Sixth Directive by holding, in paragraph of the judgment of December in Royal Bank of Scotland (C‑488/07, EU:C:2008:750), that the Member States are not required to apply the rounding-up rule in Article 19(1) where they employ the methods of calculation set out in headings (a), (b), (c) or (d) of the third subparagraph of Article 17(5) of that directive, but may adopt their own rounding-up rules, provided that they observe the principles underpinning the common system of VAT.
+That case-law remains relevant in so far as, on the one hand, it is apparent from recital of Directive 2006/that the adoption of that directive has not brought about material changes in the existing legislation on the common system of VAT, with the exception of the substantive amendments that are listed exhaustively in the provisions on the transposition and entry into force of that directive, and, on the other, those provisions, which are set out in Articles to of that directive, do not make any reference to the Articles to of that directive that are at issue in this case.
+Consequently, Articles to of Directive 2006/must be given an interpretation similar to that given to the provisions of the Sixth Directive relating to the rules on deducting VAT applicable to the acquisition of mixed use goods and services, which feature in particular in the third subparagraph of Article 17(5) and the second subparagraph of Article 19(1) of the Sixth Directive.
+It follows from all the foregoing that the answer to the first question is that Article 175(1) of Directive 2006/must be interpreted as meaning that the Member States are not required to apply the rounding-up rule laid down in that provision where the deductible proportion is calculated in accordance with one of the derogating methods set out in Article 173(2) of that directive.
+The second question
+By the second question, the referring court asks, in essence, whether Article et seq. of Directive 2006/must be interpreted as meaning that the Member States are required to apply the rounding-up rule laid down in Article 175(1) of that directive, in the event of adjustment, where the deductible proportion has been calculated in accordance with one of the methods set out in Article 173(2) of that directive or in the third subparagraph of Article 17(5) of the Sixth Directive.
+In the first place, it must be noted that, as stated in paragraph of this judgment, the derogating methods laid down in Article 173(2) of Directive 2006/are similar to those laid down in the third subparagraph of Article 17(5) of the Sixth Directive.
+Consequently, in order to answer the second question, no distinction need be made as to whether the deductible proportion is calculated by applying one of the methods set out in Article 173(2) of Directive 2006/or by applying one of the methods set out in the third subparagraph of Article 17(5) of the Sixth Directive.
+In the second place, Article of Directive 2006/provides that the initial deduction is to be adjusted where it is higher or lower than that to which the taxable person was entitled. According to Article 185(1) of that directive, adjustment is, in particular, to be made where some change occurs in the factors used to determine the amount to be deducted.
+Reading those two provisions together indicates that, on the one hand, where an adjustment proves to be necessary because of the change in one of the factors used to determine the amount to be deducted, the amount of that adjustment must be calculated in such a way that the final amount to be deducted corresponds to that to which the taxable person would have been entitled if that change had been initially taken into account. On the other hand, the calculation of that amount entails taking into account the same factors as those initially taken into consideration, with the exception of the factor that has been changed.
+The rounding-up rule laid down in Article 175(1) of Directive 2006/constitutes a factor taken into consideration in order to determine the initial amount to be deducted (see, to that effect, judgment of June in Wolfgang und Wilfried Rey Grundstücksgemeinschaft, C‑332/14, EU:C:2016:417, paragraph 46).
+However, in a situation where the deductible proportion is determined by applying one of the derogating methods set out in Article 173(2) of that directive, it must be noted that, as follows from paragraph of this judgment, the Member States are not required to employ the rounding-up rule to determine the initial amount to be deducted.
+Consequently, only in a situation where the Member States have applied that rule to determine the initial amount to be deducted are they required, in the event of adjustment, to apply the rounding-up rule laid down in Article 175(1) of Directive 2006/112, without prejudice to a situation in which the factor whose change makes that adjustment necessary consists of a new application of the calculation method set out in the second subparagraph of Article 173(1) of that directive or of the rounding-up rule.
+In the light of all the foregoing, the answer to the second question is that Article et seq. of Directive 2006/must be interpreted as meaning that the Member States are required to apply the rounding-up rule laid down in Article 175(1) of that directive in the event of adjustment where, under their national legislation, the deductible proportion has been calculated in accordance with one of the methods set out in Article 173(2) of that directive or in the third subparagraph of Article 17(5) of the Sixth Directive, only where that rule was applied to determine the initial amount of the deduction.
+The third question
+By the third question, the referring court asks, in essence, whether Article 175(1) of Directive 2006/must be interpreted as meaning that Member States are required to adjust, in accordance with Articles to of that directive, the deductions made by applying the rounding-up laid down in Article in such a way as to round the deductible proportion subject to adjustment up or down to a whole percentage in favour of the taxable person.
+It is apparent from the documents before the Court that, in the main proceedings, the deductible proportion was calculated in accordance with one of the derogating methods set out in Article 173(2) of Directive 2006/and that, with respect to that calculation, German law does not require it to be rounded up.
+Further, it is apparent from the order for reference that the change in the factors used to determine the amount to be deducted, which provides the basis for the adjustment at issue in the main proceedings, results from the Kreissparkasse’s waiver of a tax exemption scheme with respect to transactions with its professional clients and not from the decision of the Member State concerned to apply, in the future, the calculation method set out in the second subparagraph of Article 173(1) of that directive or the rounding-up rule in Article 175(1) of Directive 2006/112.
+With regard to the considerations set out in paragraph of this judgment, in a case such as that at issue in the main proceedings, the rounding-up rule in Article 175(1) of Directive 2006/should therefore not be applied in the event of adjustment.
+That being the case, there is no need to answer the third question.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+(1)
+Article 175(1) of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that the Member States are not required to apply the rounding-up rule laid down in that provision where the deductible proportion is calculated in accordance with one of the derogating methods set out in Article 173(2) of that directive.
+ 
+(2)
+Article et seq. of Directive 2006/must be interpreted as meaning that the Member States are required to apply the rounding-up rule laid down in Article 175(1) of that directive in the event of adjustment where, under their national legislation, the deductible proportion has been calculated in accordance with one of the methods set out in Article 173(2) of that directive or in the third subparagraph of Article 17(5) of the Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment, only where that rule was applied to determine the initial amount of the deduction.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

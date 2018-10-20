@@ -1,0 +1,537 @@
+
+Case C-192/TeliaSonera Finland Oyj
+(Reference for a preliminary ruling from the Korkein hallinto-oikeus)
+(Telecommunications sector – Electronic communications – Directive 2002/19/EC – Article 4(1) – Networks and services – Interconnection agreements between telecommunications undertakings – Obligation to negotiate in good faith – Definition of ‘operator of public communications networks’ – Articles and – Powers of the national regulatory authorities – Undertaking without significant market power)
+Summary of the Judgment
+1.        Approximation of laws – Electronic communications networks and services – Access to and interconnection of communications
+            networks and associated facilities –  Directive 2002/(European Parliament and Council Directives 2002/19, Arts 2, 4(1), and 8, and 2002/21, Art. 2)
+2.        Approximation of laws – Electronic communications networks and services – Access to and interconnection of communications
+            networks and associated facilities –  Directive 2002/(European Parliament and Council Directive 2002/19, Arts 4(1), 8(2), and 12(1))
+3.        Approximation of laws – Electronic communications networks and services – Access to and interconnection of communications
+            networks and associated facilities – Directive 2002/(European Parliament and Council Directive 2002/19, Arts 4(1), and 5(1), first subpara. and second subpara., point (a), and
+            (4), and 2002/21, Art. 8)
+1.        Article 4(1) of Directive 2002/on access to, and interconnection of, electronic communications networks and associated
+         facilities read in conjunction with recitals 5, 6, and in its preamble and with Articles and thereof, precludes national
+         legislation which does not restrict the possibility of relying on the obligation to negotiate on the interconnection of networks
+         solely to operators of public communications networks.
+      
+The reciprocity of the interconnection provided for in Article 4(1) of that directive implies that the two parties to the
+         negotiations are public network operators. Therefore, the obligation to negotiate laid down in Article 4(1) concerns only
+         the interconnection of networks, to the exclusion of other forms of network access, and applies only to operators of public
+         communications networks with respect to other operators of public communications networks. 
+      
+It is for the national court, taking into account the definitions given in Article of Directives 2002/and 2002/21, to
+         determine whether, having regard to the status and the nature of the operators concerned they may be classified as operators
+         of public communications networks.
+      
+(see paras 33-34, 47-48, operative part 1)
+2.        A national regulatory authority may take the view that the obligation to negotiate an interconnection, provided for under
+         Article 4(1) of Directive 2002/(on access to and interconnection of electronic communications networks and associated facilities),
+         has been breached where an undertaking which does not have significant market power offers another undertaking interconnection
+         under unilateral conditions which are likely to hinder the emergence of a competitive market at the retail level where those
+         conditions prevent the clients of the other undertaking from benefiting from its services.
+      
+(see para. 55, operative part 2)
+3.        The relevant provisions of Directive 2002/on a common regulatory framework for electronic communications networks and services
+         and of Directive 2002/on access to, and interconnection of, electronic communications networks and associated facilities
+         enable a national regulatory authority to order an undertaking which does not have significant market power but which controls
+         access to end-users to negotiate in good faith with another undertaking either an interconnection of the two networks concerned
+         if the undertaking requesting such access must be classified as an operator of public communications networks, or interoperability
+         of text and multimedia message services if the undertaking which makes the request is not covered by that classification.
+      
+(see paras 61-62, operative part 3)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+November (*)
+      
+(Telecommunications sector – Electronic communications – Directive 2002/19/EC – Article 4(1) – Networks and services – Interconnection agreements between telecommunications undertakings – Obligation to negotiate in good faith – Definition of ‘operator of public communications networks’ – Articles and – Powers of the national regulatory authorities – Undertaking without significant market power)
+In Case C‑192/08,
+REFERENCE for a preliminary ruling under Article EC from the Korkein hallinto-oikeus (Finland), made by decision of May 2008, received at the Court on the same day, in the proceedings
+      
+TeliaSonera Finland Oyj,
+intervening parties:
+iMEZ Ab,
+THE COURT (Second Chamber),
+composed of, J.‑C. Bonichot, President of the Fourth Chamber, acting as President of the Second Chamber, C.W.A. Timmermans,
+         K. Schiemann, P. Kūris (Rapporteur) and L. Bay Larsen, Judges,
+      
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on April 2009,
+after considering the observations submitted on behalf of:
+–        TeliaSonera Finland Oyj, by K. Mattila, oikeustieteen kandidaatti,
+–        iMEZ Ab, by S. Aalto, asianajaja,
+–        the Finnish Government, by A. Guimaraes-Purokoski, acting as Agent,
+–        the Italian Government, by I. Bruni, acting as Agent, and P. Gentili, avvocato dello Stato,
+–        the Lithuanian Government, by I. Jarukaitis, acting as Agent,
+–        the Netherlands Government, by C. Wissels and M. de Mol, acting as Agents,
+–        the Polish Government, by M. Dowgielewicz, acting as Agent,
+–        the Romanian Government, by A. Ciobanu-Dordea, acting as Agent, and E. Gane and L. Nicolae, consilieri,
+–        the Commission of the European Communities, by I. Koskinen and A. Nijenhuis, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2009,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles 4(1), and of Directive 2002/19/EC of the
+         European Parliament and of the Council of March on access to, and interconnection of, electronic communications networks
+         and associated facilities (‘the Access Directive’) (OJ L 108, p. 7). 
+      
+The reference was made in the course of proceedings brought by TeliaSonera Finland Oyj (‘TeliaSonera’), successor in law to
+         Sonera Mobile Networks Oy, against the Viestintävirasto (Finnish Communications Regulatory Authority, ‘the CRA’) and iMEZ
+         Ab (‘iMEZ’) concerning a decision adopted on December by the CRA with respect to TeliaSonera.
+      
+ Legal context
+ Community legislation
+Recitals 5, 6, and in the preamble to the ‘Access’ Directive state:
+      
+‘(5)      In an open and competitive market, there should be no restrictions that prevent undertakings from negotiating access and interconnection
+         arrangements between themselves, in particular on cross-border agreements, subject to the competition rules of the [EC] Treaty.
+         In the context of achieving a more efficient, truly pan-European market, with effective competition, more choice and competitive
+         services to consumers, undertakings which receive requests for access or interconnection should in principle conclude such
+         agreements on a commercial basis, and negotiate in good faith.
+      
+(6)      In markets where there continue to be large differences in negotiating power between undertakings, and where some undertakings
+         rely on infrastructure provided by others for delivery of their services, it is appropriate to establish a framework to ensure
+         that the market functions effectively. National regulatory authorities should have the power to secure, where commercial negotiation
+         fails, adequate access and interconnection and interoperability of services in the interest of end-users. In particular, they
+         may ensure end‑to‑end connectivity by imposing proportionate obligations on undertakings that control access to end-users;
+         …
+      
+…
+(8)      Network operators who control access to their own customers do so on the basis of unique numbers or addresses from a published
+         numbering or addressing range. Other network operators need to be able to deliver traffic to those customers, and so need
+         to be able to interconnect directly or indirectly to each other. The existing rights and obligations to negotiate interconnection
+         should therefore be maintained. …
+      
+…
+(19)      Mandating access to network infrastructure can be justified as a means of increasing competition, but national regulatory
+         authorities need to balance the rights of an infrastructure owner to exploit its infrastructure for its own benefit, and the
+         rights of other service providers to access facilities that are essential for the provision of competing services. Where obligations
+         are imposed on operators that require them to meet reasonable requests for access to and use of networks elements and associated
+         facilities, such requests should only be refused on the basis of objective criteria such as technical feasibility or the need
+         to maintain network integrity. …’
+      
+Under Article 1(1) of the Access Directive:
+      
+‘… this Directive harmonises the way in which Member States regulate access to, and interconnection of, electronic communications
+         networks and associated facilities. The aim is to establish a regulatory framework, in accordance with internal market principles,
+         for the relationships between suppliers of networks and services that will result in sustainable competition, interoperability
+         of electronic communications services and consumer benefits.’
+      
+Article of that directive includes the following definitions:
+      
+‘…
+(a)       “access” means the making available of facilities and/or services, to another undertaking, under defined conditions, on either
+         an exclusive or non-exclusive basis, for the purpose of providing electronic communications services. It covers inter alia:
+         access to network elements and associated facilities, which may involve the connection of equipment, by fixed or non-fixed
+         means (in particular this includes access to the local loop and to facilities and services necessary to provide services over
+         the local loop), access to physical infrastructure including buildings, ducts and masts; access to relevant software systems
+         including operational support systems, access to number translation or systems offering equivalent functionality, access to
+         fixed and mobile networks, in particular for roaming, access to conditional access systems for digital television services;
+         access to virtual network services;
+      
+(b)      “interconnection” means the physical and logical linking of public communications networks used by the same or a different
+         undertaking in order to allow the users of one undertaking to communicate with users of the same or another undertaking, or
+         to access services provided by another undertaking. Services may be provided by the parties involved or other parties who
+         have access to the network. Interconnection is a specific type of access implemented between public network operators;
+      
+(c)      “operator” means an undertaking providing or authorised to provide a public communications network or an associated facility;
+…’
+According to Article 3(1) of the Access Directive:
+      
+‘Member States shall ensure that there are no restrictions which prevent undertakings in the same Member State or in different
+         Member States from negotiating between themselves agreements on technical and commercial arrangements for access and/or interconnection,
+         in accordance with Community law. The undertaking requesting access or interconnection does not need to be authorised to operate
+         in the Member State where access or interconnection is requested, if it is not providing services and does not operate a network
+         in that Member State.’
+      
+Article of the Access Directive, entitled ‘Rights and obligations for undertakings’, is worded as follows:
+      
+‘Operators of public communications networks shall have a right and, when requested by other undertakings so authorised, an
+         obligation to negotiate interconnection with each other for the purpose of providing publicly available electronic communications
+         services, in order to ensure provision and interoperability of services throughout the Community. Operators shall offer access
+         and interconnection to other undertakings on terms and conditions consistent with obligations imposed by the national regulatory
+         authority pursuant to Articles 5, 6, and 8.
+      
+…’
+Article of the Access Directive, entitled ‘Powers and responsibilities of the national regulatory authorities with regard
+         to access and interconnection’, provides:
+      
+‘1.      National regulatory authorities shall, acting in pursuit of the objectives set out in Article of Directive 2002/21/EC [of
+         the European Parliament and of the Council of March on a common regulatory framework for electronic communications
+         networks and services (“the Framework Directive”) (OJ L 108, p. 33)], encourage and where appropriate ensure, in accordance
+         with the provisions of this Directive, adequate access and interconnection, and interoperability of services, exercising their
+         responsibility in a way that promotes efficiency, sustainable competition, and gives the maximum benefit to end-users.
+      
+In particular, without prejudice to measures that may be taken regarding undertakings with significant market power in accordance
+         with Article 8, national regulatory authorities shall be able to impose:
+      
+(a)      to the extent that is necessary to ensure end-to-end connectivity, obligations on undertakings that control access to end-users,
+         including in justified cases the obligation to interconnect their networks where this is not already the case;
+      
+...
+2.      When imposing obligations on an operator to provide access in accordance with Article 12, national regulatory authorities
+         may lay down technical or operational conditions to be met by the provider and/or beneficiaries of such access, in accordance
+         with Community law, where necessary to ensure normal operation of the network. Conditions that refer to implementation of
+         specific technical standards or specifications shall respect Article of Directive 2002/21/EC (“Framework Directive”).
+      
+3.      Obligations and conditions imposed in accordance with paragraphs and shall be objective, transparent, proportionate and
+         non-discriminatory, and shall be implemented in accordance with the procedures referred to in Articles and of Directive
+         2002/21/EC (“Framework Directive”).
+      
+4.      With regard to access and interconnection, Member States shall ensure that the national regulatory authority is empowered
+         to intervene at its own initiative where justified or, in the absence of agreement between undertakings, at the request of
+         either of the parties involved, in order to secure the policy objectives of Article of Directive 2002/21/EC (“Framework
+         Directive”), in accordance with the provisions of this Directive and the procedures referred to in Articles and 7, and
+         of Directive 2002/21/EC (“Framework Directive”).’
+      
+Articles to of the Access Directive define the obligations imposed on operators and the market review procedures.
+      
+In particular, Articles to of that directive define the obligations and the procedures applicable to operators designated
+         as having significant market power.
+      
+Under Article 12, entitled ‘Obligations of access to, and use of, specific network facilities’:
+      
+‘1.       A national regulatory authority may, in accordance with the provisions of Article 8, impose obligations on operators to meet
+         reasonable requests for access to, and use of, specific network elements and associated facilities, inter alia in situations
+         where the national regulatory authority considers that denial of access or unreasonable terms and conditions having a similar
+         effect would hinder the emergence of a sustainable competitive market at the retail level, or would not be in the end-user’s
+         interest.
+      
+Operators may be required inter alia:
+(a)      to give third parties access to specified network elements and/or facilities, including unbundled access to the local loop;
+(b)      to negotiate in good faith with undertakings requesting access;
+…
+(g)      to provide specified services needed to ensure interoperability of end-to-end services to users, including facilities for
+         intelligent network services or roaming on mobile networks;
+      
+…
+i)      to interconnect networks or network facilities.
+National regulatory authorities may attach to those obligations conditions covering fairness, reasonableness and timeliness.
+…’
+Directive 2002/20/EC of the European Parliament and of the Council of March on the authorisation of electronic communications
+         networks and services (‘Authorisation Directive’) (OJ L 108, p. 21), contains in Article 2(2)(a) the following definition:
+      
+‘“general authorisation” means a legal framework established by the Member State ensuring rights for the provision of electronic
+         communications networks or services and laying down sector specific obligations that may apply to all or to specific types
+         of electronic communications networks and services, in accordance with this Directive.’
+      
+Article of that directive, entitled ‘Minimum list of rights derived from the general authorisation’ is worded as follows:
+      
+‘1.      Undertakings [so] authorised pursuant to Article 3, shall have the right to:
+(a)      provide electronic communications networks and services;
+…
+2.      When such undertakings provide electronic communications networks or services to the public the general authorisation shall
+         also give them the right to:
+      
+(a)      negotiate interconnection with and where applicable obtain access to or interconnection from other providers of publicly available
+         communications networks and services covered by a general authorisation anywhere in the Community under the conditions of
+         and in accordance with Directive 2002/19/EC (“Access Directive”);
+      
+…’
+Article of the Authorisation Directive provides:
+      
+‘1.      The general authorisation for the provision of electronic communications networks or services … may be subject only to the
+         conditions listed respectively in part … A … of the Annex. Such conditions shall be objectively justified in relation to the
+         network or service concerned, non-discriminatory, proportionate and transparent.
+      
+2.      Specific obligations which may be imposed on providers of electronic communications networks and services under Articles 5(1),
+         5(2), and of [the Access Directive] … shall be legally separate from the rights and obligations under the general authorisation.
+         …
+      
+…’
+According to Part A of the Annex to the Authorisation Directive, one of the conditions which may be attached to a general
+         authorisation is to ensure the interoperability of services and interconnection of networks in conformity with the Access
+         Directive.
+      
+As to the Framework Directive, Article contains, inter alia, the following definitions:
+      
+‘…
+(c)       “communications service” means a service normally provided for remuneration which consists wholly or mainly in the conveyance
+         of signals on electronic communications networks, including telecommunications services and transmission services in networks
+         used for broadcasting, but exclude services providing, or exercising editorial control over, content transmitted using electronic
+         communications networks and services; it does not include information society services, as defined in Article of Directive
+         98/34/EC [of the European Parliament and of the Council of June laying down a procedure for the provision of information
+         in the field of technical standards and regulations (OJ L 204, p. 37)], which do not consist wholly or mainly in the
+         conveyance of signals on electronic communications networks; 
+      
+(d) “public communications network” means an electronic communications network used wholly or mainly for the provision of
+         publicly available electronic communications services;
+      
+…’ 
+Articles to of the Framework Directive define the tasks which the national regulatory authorities must accomplish in
+         order to secure the objectives of competition, the development of the internal market and the promotion of the interests of
+         the citizens of the European Union. 
+      
+National law
+Paragraph of the Communications Market Law (Viestintämarkkinalaki (393/2003)) of May 2003, entitled ‘Definitions’, provides
+         as follows:
+      
+‘For the purposes of this Law
+…
+(13)      “interconnection” means the physical and functional connection of different communication networks and communications services
+         in order to ensure users can access the communication network and communication services of other telecommunications undertakings;
+      
+…
+(17)      “network operator” means an undertaking that provides a communications network in its ownership or for other reasons in its
+         possession for the purposes of transmitting, distributing or providing messages;
+      
+…
+(19)       “service operator” means an undertaking that transmits messages over a communications network in its possession or obtained
+         for use from a network operator or distributes or provides messages in a mass communications network;
+      
+…
+(21)      “telecommunications operator” means any network operator or any service operator;
+…’
+In accordance with Paragraph of the Communications Market Law, entitled ‘Interconnection obligations of a telecommunications
+         operator’, a telecommunications operator has an obligation to negotiate on interconnection with another telecommunications
+         operator. Under subparagraph thereof, the CRA may, by decision, impose an obligation on an undertaking with significant
+         market power to connect a communications network or communications service to the communications network or communications
+         service of another telecommunications operator. Paragraph 39(3) also authorises the CRA to impose an identical obligation
+         on undertakings which do not have significant market power provided that the telecommunications undertakings concerned control
+         user connections to the communications network and that that obligation is necessary to ensure the interconnection of communications
+         networks.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+It is apparent from the order for reference that, on May 2006, iMEZ requested the CRA, the Finnish national regulatory
+         authority, to take the measures necessary in order to secure the conclusion of an interconnection agreement with TeliaSonera
+         concerning the transmission of text messages (‘SMS messages’) and multimedia messages (‘MMS messages’).
+      
+On May 2006, the CRA referred the case to arbitration, at the end of which it was held that negotiations had failed.
+      
+On August 2006, iMEZ, which is established in Sweden, asked the CRA to compel TeliaSonera to negotiate the interconnection
+         in good faith by offering it a reciprocal agreement on reasonable conditions. In the alternative and if this were not achieved,
+         iMEZ asked the CRA to impose an interconnection obligation on TeliaSonera with respect to SMS and MMS messages and to require
+         it to price the forwarding of those two types of messages on the basis of the costs incurred and in a non-discriminatory manner.
+         In the further alternative, iMEZ asked the CRA for a declaration that the forwarding of SMS and MMS messages to the specific
+         mobile network was the relevant communications market, and that TeliaSonera was an undertaking having significant market power,
+         thus enabling iMEZ to obtain the interconnection.
+      
+By decision of December 2006, the CRA found that TeliaSonera had not fulfilled its obligation to negotiate pursuant to
+         Paragraph of the Communications Market Law and ordered it to negotiate in good faith the interconnection of the SMS and
+         MMS message services with iMEZ. In accordance with that decision, the negotiations were to take account of the objectives
+         which interconnection sought to achieve and to start from the premiss that the proper functioning of SMS and MMS message services
+         between the systems could be ensured on reasonable terms so that users would be able to use messaging services between the
+         undertakings concerned.
+      
+TeliaSonera appealed against that decision to the Korkein hallinto-oikeus (Supreme Administrative Court), arguing that the
+         CRA was not empowered to impose substantive conditions concerning the terms of an agreement to be negotiated with respect
+         to the interconnection of SMS and MMS services. In that appeal, TeliaSonera seeks, first, a declaration that it has complied
+         with the obligation to negotiate laid down in Paragraph of the Communications Market Law and, second, the annulment of
+         the CRA’s decision of December 2006.
+      
+In those circumstances, the Korkein hallinto-oikeus decided to stay the proceedings and to refer the following questions to
+         the Court for a preliminary ruling:
+      
+‘1.       Is Article 4(1) of Directive 2002/19/EC of the … Access Directive, when read in conjunction with recitals 5, and in the
+         preamble to that directive and with Article and Article thereof, to be interpreted as meaning that:
+      
+(a)      national legislation may provide, as in Paragraph 39(1) of the … [Communications Market Law], that any telecommunications
+         operator has an obligation to negotiate on interconnection with another telecommunications operator and, if so, 
+      
+(b)       a national regulatory authority can take the view that the obligation to negotiate has not been complied with where a telecommunications
+         operator which does not have significant market power has offered another undertaking interconnection under conditions which
+         the authority regards as wholly unilateral and likely to hinder the emergence of a competitive market at the retail level,
+         where they have hindered in practice the second undertaking from offering its customers the opportunity to transmit [MMS]
+         messages to end-users subscribed to the telecommunications operator’s network and, if so,
+      
+(c)      the national regulatory authority can in its decision require the aforementioned telecommunications operator, which therefore
+         does not have significant market power, to negotiate in good faith on the interconnection of [SMS] and [MMS] communications
+         services between [the] systems [of the two undertakings concerned] in such a way that, in commercial negotiations, regard
+         must be had to the objectives which interconnection seeks to achieve and negotiations must be based on the premiss that the
+         operation of SMS and MMS services between undertakings’ systems can be made subject to reasonable conditions so that users
+         have the possibility of using telecommunications operators’ communications services?
+      
+2.       Do the nature of [iMEZ’s] network or whether iMEZ … should be regarded as an operator of public electronic communications
+         networks have any bearing on the assessment of the questions set out above?’
+      
+ The questions referred
+ The first part of the first question and the second question
+By the first part of the first question, the national court asks essentially whether Article 4(1) of the Access Directive,
+         read in conjunction with recitals 5, and in its preamble and with Articles and thereof, preclude national legislation,
+         such as that at issue in the main proceedings, which does not limit the possibility of relying on the obligation to negotiate
+         with respect to interconnection solely to operators of public communications networks. By its second question, which it is
+         appropriate to examine at the same time, the national court also asks whether, as a consequence, the status and nature of
+         the network of an undertaking relying on the obligation to negotiate has an effect on the relations with the other undertaking
+         concerned.
+      
+As a preliminary point, it should be stated that, in view of the definitions given in Paragraph of the Communications Market
+         Law, as set out in paragraph of this judgment, the first question referred asks in fact whether the obligation to negotiate
+         provided for in Article 4(1) of the Access Directive may be relied on by service providers in order to ensure the interoperability
+         of communications services.
+      
+It is clear from the wording of Article 4(1) that the obligation to negotiate an interconnection applies to all operators
+         of public communications networks when requested to do so by another authorised undertaking.
+      
+As regards the authorisation, it should be noted that Article 2(2)(a) of the Authorisation Directive defines ‘general authorisation’
+         issued to operators pursuant to Article 3(2) of that directive as ‘a legal framework established by the Member State ensuring
+         rights for the provision of electronic communications networks or services’.
+      
+That authorisation thus also concerns service operators. 
+      
+However, Article 4(2)(a) of the Authorisation Directive states that undertakings authorised to provide electronic communications
+         networks or services to the public have the right to negotiate interconnection with other providers of communications networks
+         or services in accordance with the Access Directive.
+      
+Article 2(b) of the Access Directive defines ‘interconnection’ as ‘the physical and logical linking of public communications
+         networks’, and points out that it ‘is a specific type of access implemented between public network operators’.
+      
+Furthermore, the reciprocity of the interconnection, provided for in Article 4(1) of the Access Directive, implies that the
+         two parties to the negotiations are public network operators.
+      
+Therefore, the obligation to negotiate laid down in Article 4(1) concerns only the interconnection of networks, to the exclusion
+         of other forms of network access (see, to that effect, Case C‑227/Commission v Poland [2008] ECR I‑0000, paragraph 36), and applies only to operators of public communications networks with respect to other operators
+         of public communications networks.
+      
+Consequently, as electronic communications services providers do not fall within the category of ‘operators of public communications
+         networks’, they cannot rely on the obligation to negotiate laid down in Article 4(1) of the Access Directive.
+      
+In any event, it must be held that that obligation to negotiate is independent of whether the undertaking concerned has significant
+         market power, and does not entail the obligation to conclude an interconnection agreement, but merely an obligation to negotiate
+         such an agreement.
+      
+Therefore, it is appropriate to consider whether, as the Netherlands Government submits, Member States may provide by general
+         legislation, such as the Communications Market Law at issue in the main proceedings, for the possibility for telecommunications
+         services providers to rely on the obligation to negotiate that applies to operators of public communications networks. 
+      
+In that connection it should be observed, first of all, that the new regulatory framework implemented in in the telecommunications
+         sector, consisting of the Framework Directive and specific directives, including the Authorisation and Access Directives,
+         aims to establish a harmonised framework for the regulation of electronic communications services, electronic communications
+         networks, associated facilities together with resources and associated services in an environment of effective competition.
+      
+Secondly, both recital in the preamble and Article 3(1) of the Access Directive establish a freedom for undertakings to
+         negotiate and to conclude agreements. That freedom forms part of the objective of the Access Directive, defined in Article 1(1)
+         thereof, namely to establish ‘a regulatory framework … that will result in sustainable competition, interoperability of electronic
+         communications services and consumer benefits’.
+      
+It follows that, as the Romanian Government submits, an obligation to negotiate such as that provided for in Article 4(1)
+         of the Access Directive is an exception and must therefore be interpreted strictly. 
+      
+Thirdly, Articles to of the Access Directive clearly set out the obligations of the Member States as regards the determination
+         of the powers and responsibilities of the national regulatory authorities.
+      
+Therefore, the power of the national legislature is duly defined.
+      
+Fourthly, as the Advocate General notes, in paragraphs et seq. of his Opinion, and contrary to the Netherlands Government’s
+         submissions, Article 6(1) of the Authorisation Directive cannot provide the basis for national legislation such as that at
+         issue in the main proceedings.
+      
+Article 6(1) of the Authorisation Directive provides only for a general authorisation subject to the conditions set out in
+         Part A of the Annex to that directive, which refers in point to the Access Directive. 
+      
+It follows that the Access Directive establishes the framework in which negotiations take place or obligations to be imposed
+         on communications undertakings are determined.
+      
+Having regard to the foregoing, it must be held that the nature of the network of an undertaking relying on the obligation
+         to negotiate, laid down in Article 4(1) of the Access Directive, and the question whether that undertaking is an operator
+         of public communications networks, affect the relationship with the other undertaking concerned in so far as the Member States
+         may not impose that obligation on operators other than operators of public communications networks.
+      
+It is for the national court, taking into account the definitions given in Article of the Access Directive and the Framework
+         Directive, to determine whether, having regard to the status and the nature of the operators concerned in the main proceedings,
+         they may be classified as operators of public communications networks.
+      
+It follows from the foregoing that the answer to the first part of the first question and to the second question is that Article 4(1)
+         of the Access Directive, read in conjunction with recitals 5, 6, and in its preamble and with Articles and thereof,
+         preclude national legislation such as the Communications Market Law, in so far as it does not restrict the possibility of
+         relying on the obligation to negotiate on the interconnection of networks solely to operators of public communications networks.
+         It is for the national court to determine whether, having regard to the status and the nature of the operators concerned in
+         the main proceedings, they may be classified as operators of public communications networks.
+      
+ The second part of the first question
+By the second part of the first question, the national court asks whether a national regulatory authority may take the view
+         that the obligation to negotiate an interconnection, provided for under Article 4(1) of the Access Directive, has been breached
+         where an undertaking which does not have significant market power offers another undertaking interconnection under unilateral
+         conditions which are likely to hinder the emergence of a competitive market at the retail level where those conditions prevent
+         the clients of the other undertaking from benefiting from its services.
+      
+It should be observed, first of all, that the Court has held that the regulatory tasks of a national regulatory authority
+         are set out in Articles to of the Framework Directive. Furthermore, the Court has interpreted Article as placing on
+         the Member States the obligation to ensure that the national regulatory authorities take all reasonable measures aimed at
+         promoting competition in the provision of electronic communications services, ensuring that there is no distortion or restriction
+         of competition in the electronic communications sector and removing remaining obstacles to the provision of those services
+         at European level (Commission v Poland, paragraphs and 63, and the case-law cited).
+      
+Second, recital in the preamble to the Access Directive states that undertakings which receive requests for access or interconnection
+         should, in principle, conclude such agreements on a commercial basis and negotiate in good faith.
+      
+In that connection, Article 5(4) of that directive enables the national regulatory authorities to intervene in the absence
+         of agreement in order to secure the objectives laid down in Article of the Framework Directive.
+      
+Third, as the Advocate General observed in point of his Opinion, in order to give practical effect to Article 4(1) of
+         the Access Directive, which provides for an obligation to negotiate under the conditions set out in paragraphs to of
+         this judgment, it must be accepted that the negotiations are to be carried out in good faith.
+      
+Fourth, contrary to the Finnish Government’s submission, Article 12(1) of the Access Directive cannot serve as a basis for
+         an appraisal such as that referred to by the national court unless the operator to which the interconnection request is addressed
+         has not been designated as having significant power on the market concerned in accordance with Article 8(2) of that directive.
+      
+It is clear from the foregoing that the answer to the second part of the first question referred is that a national regulatory
+         authority may take the view that the obligation to negotiate an interconnection has been breached where an undertaking which
+         does not have significant market power proposes interconnection to another undertaking under unilateral conditions likely
+         to hinder the emergence of a competitive market at the retail level where those conditions prevent the clients of the second
+         undertaking from benefiting from its services.
+      
+ The third part of the first question
+By the third part of its first question, the national court asks essentially whether a national regulatory authority may require
+         an undertaking which does not have significant market power to negotiate in good faith with another undertaking on the interconnection
+         of SMS and MMS message services between the systems of those two undertakings.
+      
+As a preliminary point, it must be stated that the necessary premiss for the answer to that part of the first question is
+         either that Article 4(1) of the Access Directive applies to the case in the main proceedings since the two operators concerned
+         are operators of public communications networks but the obligations imposed by that article have not been complied with by
+         the operator requested to negotiate an interconnection, or that the situation at issue in the main proceedings falls outside
+         the scope of that article since one of the operators concerned cannot be classified as an operator of public communications
+         networks.
+      
+It must be observed, first, that it follows from the wording of the first subparagraph of Article 5(1) of the Access Directive
+         that the national regulatory authorities are responsible for ensuring adequate access and interconnection and also interoperability
+         of services by means which are not exhaustively listed there.
+      
+In that context, in accordance with point (a) of the second subparagraph of Article 5(1), those authorities must be able to
+         impose ‘obligations on undertakings that control access to end-users, including in justified cases the obligation to interconnect
+         their networks’ solely in order to ensure end-to-end connectivity.
+      
+Second, Article 5(4) of the Access Directive also concerns access and interconnection and requires that national regulatory
+         authorities be empowered to intervene, since it provides that those authorities may intervene at their own initiative in order
+         to secure the objectives of Article of the Framework Directive, but without defining or limiting the detailed rules for
+         that intervention.
+      
+Thus it is apparent that the relevant provisions of the Framework Directive and the Access Directive enable a national regulatory
+         authority to take a decision ordering an undertaking which does not have significant market power but which controls access
+         to end-users to negotiate either an interconnection of the two networks concerned if the undertaking requesting such access
+         must be classified as an operator of public communications networks, or interoperability of SMS and MMS message services if
+         the undertaking which makes the request is not covered by that classification.
+      
+It follows from the foregoing that the answer to the third part of the first question referred is that a national regulatory
+         authority may require an undertaking which does not have significant market power but which controls access to end-users to
+         negotiate in good faith with another undertaking for either interconnection of the two networks concerned if the undertaking
+         which requests such access must be classified as an operator of public communications networks, or interoperability of SMS
+         and MMS message services if that undertaking is not covered by that classification.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+1.      Article 4(1) of Directive 2002/19/EC of the European Parliament and of the Council of March on access to, and interconnection
+            of, electronic communications networks and associated facilities (the ‘Access Directive’), read in conjunction with recitals
+            5, 6, and in its preamble and with Articles and thereof, precludes national legislation such as the Communications
+            Market Law (Viestintämarkkinalaki) of May in so far as it does not restrict the possibility of relying on the obligation
+            to negotiate on the interconnection of networks solely to operators of public communications networks. It is for the national
+            court to determine whether, having regard to the status and the nature of the operators concerned in the main proceedings,
+            they may be classified as operators of public communications networks.
+2.      A national regulatory authority may take the view that the obligation to negotiate an interconnection has been breached where
+            an undertaking which does not have significant market power proposes interconnection to another undertaking under unilateral
+            conditions likely to hinder the emergence of a competitive market at the retail level where those conditions prevent the clients
+            of the second undertaking from benefiting from its services.
+3.      A national regulatory authority may require an undertaking which does not have significant market power but which controls
+            access to end-users to negotiate in good faith with another undertaking for either interconnection of the two networks concerned
+            if the undertaking which requests such access must be classified as an operator of public communications networks, or interoperability
+            of SMS and MMS message services if that undertaking is not covered by that classification.
+[Signatures]
+* Language of the case: Finnish.
+      
+Top  
+ 

@@ -1,0 +1,321 @@
+
+Case C‑484/Fiscale eenheid Koninklijke Ahold NV
+v
+Staatssecretaris van Financiën
+(Reference for a preliminary ruling from the Hoge Raad der Nederlanden)
+(Reference for a preliminary ruling – First and Sixth VAT directives – Principles of fiscal neutrality and proportionality – Rules concerning rounding of amounts of VAT – Rounding down per item)
+Summary of the Judgment
+1.        Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Sixth Directive – Provisions
+            on rounding of the amount of the tax
+(Council Directive 77/388, Arts 11A(1)(a) and 22(3)(b))
+2.        Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Sixth Directive – Principles
+            of fiscal neutrality and proportionality 
+(Council Directives 67/227, Art. 2, first para., and 77/388)
+1.        In the absence of specific Community legislation, it is for Member States to decide on the rules and methods of rounding amounts
+         of value added tax, but those States must, when making that decision, observe the principles underpinning the common system
+         of that tax, in particular the principles of fiscal neutrality and proportionality. 
+      
+(see para. 33, operative part 1)
+2.        Community law, as it now stands, which includes the principles of fiscal neutrality and proportionality, contains no specific
+         obligation for Member States to permit taxable persons to round down per item the amount of value added tax.
+      
+Accordingly, the principle of fiscal neutrality does not entail any requirement that a particular method of rounding be applied,
+         in so far as the method chosen by the Member State concerned ensures that the amount of value added tax to be collected by
+         the tax authority corresponds exactly to the amount of that tax declared on the invoice and paid by the final consumer to
+         the taxable person.
+      
+Further, while observance of the principle of proportionality requires, when rounding is necessary, it to be carried out in
+         such a way that the rounded amount corresponds as closely as possible with the amount of value added tax arising from application
+         of the rates in force, the fact remains that such an operation, of its nature, is intended to facilitate calculation and must,
+         therefore, reconcile the requirement of, so far as possible, exact proportion with the practical necessity that the common
+         system of value added tax based on the principle of a return from the taxable person should operate effectively.
+      
+(see paras 37, 39, 43, operative part 2)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+July (*)
+      
+(Reference for a preliminary ruling – First and Sixth VAT directives – Principles of fiscal neutrality and proportionality – Rules concerning rounding of amounts of VAT – Rounding down per item)
+In Case C‑484/06,
+REFERENCE for a preliminary ruling under Article EC by the Hoge Raad der Nederlanden (Netherlands), made by decision of
+         November 2006, received at the Court on November 2006, in the proceedings
+      
+Fiscale eenheid Koninklijke Ahold NV
+v
+Staatssecretaris van Financiën,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of Chamber, G. Arestis, R. Silva de Lapuerta, E. Juhász and T. von Danwitz (Rapporteur),
+         Judges,
+      
+Advocate General: E. Sharpston,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on December 2007,
+after considering the observations submitted on behalf of:
+–        the Fiscale eenheid Koninklijke Ahold NV, by G.C. Bulk, adviseur, and M. Hamer, advocaat,
+–        the Netherlands Government, by H.G. Sevenster and M. de Grave, acting as Agents,
+–        the Greek Government, by O. Patsopoulou, M. Tassopoulou and G. Skiani, acting as Agents, 
+–        the Polish Government, by E. Ośniecka-Tamecka, acting as Agent,
+–        the United Kingdom Government, by V. Jackson, acting as Agent, and by I. Hutton, Barrister,
+–        the Commission of the European Communities, by D. Triantafyllou, A. Weimar and P. van Nuffel, acting as Agents, 
+after hearing the Opinion of the Advocate General at the sitting on January 2008,
+gives the following
+Judgment
+The reference for a preliminary ruling relates to the interpretation of Article 22(3)(b) and (5) and Article 11A of the Sixth
+         Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes
+         – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), as amended by Council Directive 91/680/EEC
+         of December (OJ L 376, p. 1, the ‘Sixth Directive’).
+      
+This reference was made in proceedings brought by the Fiscale eenheid Koninklijke Ahold NV, a fiscal entity to which the company
+         Albert Heijn BV belongs, against the Staatssecretaris van Financiën (Secretary of State for Finance, Netherlands) following
+         the rejection by the Inspecteur van de Belastingdienst (Inspector of Taxes, the ‘Inspector’) of its complaint brought to obtain
+         repayment of a sum of EUR of value added tax (‘VAT’). 
+      
+ Legal context 
+ Community legislation 
+Article of the First Council Directive 67/227/EEC of April on the harmonisation of legislation of Member States
+         concerning turnover taxes (OJ, English Special Edition 1967, p  14, the ‘First Directive’) provides:
+      
+‘The principle of the common system of value added tax involves the application to goods and services of a general tax on
+         consumption exactly proportional to the price of the goods and services, whatever the number of transactions which take place
+         in the production and distribution process before the stage at which tax is charged. 
+      
+On each transaction, value added tax, calculated on the price of the goods or services at the rate applicable to such goods
+         or services, shall be chargeable after deduction of the amount of value added tax borne directly by the various cost components.
+      
+The common system of value added tax shall be applied up to and including the retail trade stage.
+…’
+Article 11A(1)(a) of the Sixth Directive provides: 
+      
+‘The taxable amount shall be:
+(a)      in respect of supplies of goods and services other than those referred to in (b), (c) and (d) below, everything which constitutes
+         the consideration which has been or is to be obtained by the supplier from the purchaser, the customer or a third party for
+         such supplies including subsidies directly linked to the price of such supplies’.
+      
+Article 22(3)(a) and (b), (4)(b) and (5) of the Sixth Directive, state:
+      
+‘3.      (a)   Every taxable person shall issue an invoice, or other document serving as invoice, in respect of goods and services which
+         he has supplied or rendered to another taxable person or to a non-taxable legal person. … A taxable person shall keep a copy
+         of every document issued.
+      
+…
+(b)      The invoice shall state clearly the price exclusive of tax and the corresponding tax at each rate as well as any exemptions.
+…
+4.      (a)   …
+(b)      The return shall set out all the information needed to calculate the tax that has become chargeable and the deductions to
+         be made including, where appropriate, and in so far as it seems necessary for the establishment of the basis of assessment,
+         the total value of the transactions relative to such tax and deductions and the value of any exempt transactions. 
+      
+…
+5.      Every taxable person shall pay the net amount of the value added tax when submitting the regular return. Member States may,
+         however, set a different date for the payment of that amount or may demand an interim payment.’
+      
+Council Directive 2001/115/EC of December amending Directive 77/with a view to simplifying, modernising and harmonising
+         the conditions laid down for invoicing in respect of value added tax (OJ L 15, p. 24), which Member States had to bring
+         into force with effect from January 2004, amended Article 22(3)(b) of the Sixth Directive, entailing, inter alia, inclusion
+         of a 10th indent worded as follows: 
+      
+‘(b) Without prejudice to the specific arrangements laid down by this Directive, only the following details are required for
+         VAT purposes on invoices issued under the first, second and third subparagraphs of point (a): 
+      
+…
+–        the VAT amount payable, except where a specific arrangement is applied for which this Directive excludes such a detail,
+–        …’
+ National legislation
+Article of the Law on turnover tax (Wet op de omzetbelasting) of June (Stb. 1968, No 329), in the version applicable
+         to the dispute in the main proceedings, is worded as follows:
+      
+‘1.      In respect of all goods and services supplied to another trader or to a legal person, other than a trader, the trader shall
+         issue a numbered and dated invoice which shall state clearly and unambiguously:
+      
+...
+i.      The remuneration.
+j.      The amount of the tax payable in respect of the supply of goods or services. No reference may be made to another amount of
+         tax. 
+      
+…’
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+The company Albert Heijn BV, belonging to the Fiscale eenheid Koninklijke Ahold NV, which constitutes a fiscal entity for
+         the levying of the turnover tax, operates supermarkets in which it offers a standard range of foodstuffs or other products.
+      
+At the material time, namely October 2003, the applicant in the main proceedings calculated and declared the VAT in respect
+         of sales in its supermarkets, according to its usual practice, on the basis of the total amount, according to each till receipt
+         (or ‘shopping basket’), paid by a customer buying various articles at the same time. 
+      
+Each of the amounts on those till receipts was rounded arithmetically to the nearest cent (EUR). The operation of arithmetic
+         rounding means that amounts in which the third decimal place is equal to or exceeds five are rounded up to the nearest cent
+         and amounts in which the third decimal place is less than five are rounded down to the nearest cent. This procedure was followed
+         by the applicant in the main proceedings in all its branches.
+      
+However, at two branches during the relevant period the applicant also employed another method, which consisted of calculating
+         the amount of VAT payable, not per till receipt, but separately for each item sold to the customer, by rounding the amount
+         thus calculated per item down to the nearest cent. 
+      
+The applicant in the main proceedings accordingly calculated that, for those two branches during the relevant period, the
+         result of that method of rounding down per item was that it should have paid EUR less than the amount stated on its
+         VAT return and which it in fact paid in accordance with its usual practice of rounding per till receipt.
+      
+The applicant in the main proceedings applied for repayment of the amount of EUR of VAT which, in its opinion, it had
+         wrongly paid for the two branches in question. When that application was rejected, the applicant brought a complaint before
+         the Inspector with the claim that ‘rounding per basket’ was incorrect and that the amount of the tax calculated per item should,
+         when necessary, be rounded down to the nearest amount.
+      
+The Inspector rejected that complaint. The applicant in the main proceedings brought an action seeking annulment of that rejection
+         before the Gerechtshof te Amsterdam (Regional Court of Appeal, Amsterdam). That court dismissed the action as unfounded by
+         judgment of August 2004. The applicant then brought an appeal against that judgment before the Hoge Raad der Nederlanden
+         (Supreme Court of the Netherlands). 
+      
+In the order for reference, the Hoge Raad der Nederlanden states that, in the opinion of the Gerechtshof te Amsterdam, even
+         when the result of using the arithmetic method is a rounding up to the nearest cent, that method is, on balance, more consistent
+         with the principle that the tax must be strictly proportional to the price than a method which prescribes rounding down to
+         the nearest cent. 
+      
+The referring court adds that, in calculating the VAT, it is permissible for each supply of goods or each provision of services
+         to adopt either the procedure of arithmetic rounding of the tax or the method of rounding the total amount of a certain number
+         of supplies or service provisions taken together, namely, in this case, per basket. According to that court, both those methods
+         are laid down, as from July 2004, in Article a of the implementing decree of on turnover tax (Uitvoeringsbesluit
+         omzetbelasting 1968).
+      
+The questions arising from the main proceedings are whether it is a requirement of the First and Sixth Directives that the
+         method of rounding down per item be permitted and, more particularly, whether the provisions of the first and second paragraphs
+         of Article of the First Directive and of Articles 11A(1)(a) and 22(3)(b), first paragraph, in the version applicable before
+         January 2004, and 22(5) of the Sixth Directive are founded on a method which necessitates the amount of VAT being calculated
+         on each transaction, even if various transactions are referred to on one invoice and/or are included in one and the same VAT
+         return.
+      
+In those circumstances, the Hoge Raad der Nederlanden decided to stay proceedings and to refer the following questions to
+         the Court for a preliminary ruling:
+      
+‘(1)      Is the rounding of VAT amounts governed solely by national law, or – particularly in view of the provisions [of Article 22(3)(b),
+         tenth indent, and (5), and Article 11A, of the Sixth Directive] – is it a matter for Community law? 
+      
+(2)      If the latter is the case, does it follow from the aforementioned provisions of the Directives that the Member States are
+         required to permit rounding down per article, even if different supplies are included in one invoice and/or one tax return?’
+      
+ Application for reopening of the oral procedure 
+By application lodged at the Registry of the Court on March 2008, the applicant in the main proceedings applied for the
+         reopening of the oral procedure on the ground that the case may not be dealt with on the basis of an argument which has not
+         been debated between the parties, in so far as the Opinion of the Advocate General is based on a factual misconception.
+      
+It must be borne in mind that the Court may of its own motion, on a proposal from the Advocate General, or at the request
+         of the parties, reopen the oral procedure in accordance with Article of its Rules of Procedure, if it considers that it
+         lacks sufficient information, or that the case must be dealt with on the basis of an argument which has not been debated between
+         the parties (see order in Case C‑17/Emesa Sugar [2000] ECR I‑665, paragraph 18; Case C‑210/Swedish Match [2004] ECR I‑11893, paragraph 25; Case C‑466/Albert Reiss Beteiligungsgesellschaft [2007] ECR I-5357, paragraph 29; and Case C‑491/Danske Svineproducenter [2008] ECR I‑000, paragraph 21). 
+      
+However, in its application to have the oral procedure reopened, the applicant in the main proceedings states that it several
+         times at the hearing drew attention, inter alia, to what were, in its opinion, the correct facts in relation to the effects
+         of rounding. 
+      
+Having heard the Advocate General, the Court considers in this case that it has all the information required to reply to the
+         questions referred and that, accordingly, there is no need to order the reopening of the oral procedure. 
+      
+Consequently, the application for an order reopening the oral procedure must be dismissed. 
+      
+ The questions referred for a preliminary ruling
+ The first question 
+In reply to the first question, the provisions of the First and Sixth Directives contain no explicit rule concerning rounding
+         of amounts of VAT. In particular, the Sixth Directive is silent on that matter.
+      
+It is true that the substantive content both of the provisions of Article 22(3)(b) of the Sixth Directive, both in the version
+         applicable at the material time and in the version amended by Directive 2001/which entered into force on January and which, consequently, is not applicable to the main proceedings, and of the provisions of Article 22(5) is capable of referring
+         by implication to rounded amounts of VAT, as is submitted by the referring court. However, it is common ground that those
+         provisions do not lay down any express rule as to the manner in which rounding must be carried out. 
+      
+The same is true of Article 11A(1)(a) of the Sixth Directive. That provision restricts itself to determining the taxable amount
+         and it refers only to the price of the goods supplied and the services performed as consideration for the price.
+      
+That finding is in no way affected by the requirement that the objectives and context of each of the provisions referred to
+         in the two preceding paragraphs must be taken into account in their interpretation (see, in particular, Case C‑491/British American Tobacco (Investments) and Imperial Tobacco [2002] ECR I‑11453, paragraph and case‑law there cited; Case C‑12/Commission v Spain [2003] ECR I‑459, paragraph 55; and Case C‑437/Securenta [2008] ECR I‑000, paragraph 35). 
+      
+It is clear from the Second Council Directive 67/228/EEC of April on the harmonisation of legislation of Member States
+         concerning turnover taxes – Structure and procedures for application of the common system of value added tax (OJ, English
+         Special Edition 1967, p. 16) that the objective of the turnover tax is to achieve equal conditions of taxation for the same
+         supply, no matter in which Member State it is carried out (Case C‑475/Banca Popolare di Cremona [2006] ECR I‑9373, paragraphs and 23). In that context, the purpose of Article 11A(1)(a) of the Sixth Directive is to
+         guarantee uniformity, in the Member States, of the amount which is to be taxable. 
+      
+The same applies to Article 22(3)(b) of the Sixth Directive, in relation to which it is evident from the fourth recital in
+         the preamble to Directive 2001/that the purpose of the particulars which must appear on invoices is to ensure that the
+         internal market functions properly. Lastly, the objective of Article 22(4) and (5) of the Sixth Directive is to ensure that
+         the tax authority has available to it all the information required in order to calculate and collect the exact amount of tax
+         payable. 
+      
+It follows that it cannot be inferred from either the wording of those provisions or their objectives that a specific method
+         of rounding has been laid down by Community law.
+      
+Consequently, in the absence of any Community legislation, it is for the legal systems of the Member States to determine,
+         within the limits of Community law, the method and rules for rounding of an amount declared by way of VAT. 
+      
+When Member States establish or accept a particular method of rounding, they are obliged to observe the principles governing
+         the common system of VAT, such as those of fiscal neutrality and proportionality. It does not, however, follow from observance
+         of those recognised principles of the Community legal system that the question as to which specific method of rounding should
+         be used is itself within the scope of Community law.
+      
+Having regard to all of the foregoing, the answer to be given to the first question is that, in the absence of specific Community
+         legislation, it is for Member States to decide on the rules and methods of rounding amounts of VAT, those States being bound,
+         when making that decision, to observe the principles underpinning the common system of VAT, in particular those of fiscal
+         neutrality and proportionality.
+      
+ The second question 
+By its second question, the referring court seeks to know whether the directives entail a specific obligation that Member
+         States must permit taxable persons to round down per item the amount of VAT.
+      
+In the light of the answer given to the first question, the Court must, in order to give a useful answer to the referring
+         court in relation to the second question, determine whether Community law, as it emerges from the principles underpinning
+         the common system of VAT, in particular the principles of fiscal neutrality and proportionality, obliges a Member State to
+         permit taxable persons to round down per item the amount of VAT payable to the tax authority. Such an obligation presupposes
+         that there is only one method of rounding, namely that involving rounding down per item the amount of the tax, which is capable
+         of satisfying such requirements.
+      
+One of the consequences of the principle of fiscal neutrality, which is the reflection in the field of VAT of the principle
+         of equal treatment, is that taxable persons must not be treated differently, with regard to the method of rounding applied
+         when VAT is calculated, in respect of similar services which are in competition with each other (see, to that effect, Joined
+         Cases C‑443/and C‑444/Solleveld and van den Hout-van Eijnsbergen [2006] ECR I‑3617, paragraph and case‑law there cited). By virtue of the same principle, the amount of VAT to be collected
+         by the tax authority must correspond exactly to the amount of VAT declared on the invoice and paid by the final consumer to
+         the taxable person (see, to that effect, Case C‑317/Elida Gibbs [1996] ECR I‑5339, paragraph 24).
+      
+Accordingly, that principle does not entail any requirement that a particular method of rounding be applied, in so far as
+         the method chosen by the Member State concerned ensures that the amount of VAT to be collected by the tax authority corresponds
+         exactly to the amount of VAT declared on the invoice and paid by the final consumer to the taxable person.
+      
+As regards the principle of proportionality, it is clear from the first paragraph of Article of the First Directive that
+         VAT is a general tax on consumption exactly proportional to the price of goods and services (see, in particular, Banca Popolare di Cremona, paragraph 21, and Joined Cases C‑283/and C‑312/KÖGÁZ and Others [2007] ECR I‑8463, paragraph 29). 
+      
+While observance of that principle requires, when rounding is necessary, it to be carried out in such a way that the rounded
+         amount corresponds as closely as possible with the amount of VAT arising from application of the rates in force, the fact
+         remains that such an operation, of its nature, is intended to facilitate calculation and must, therefore, reconcile the requirement
+         of, so far as possible, exact proportion with the practical necessity that the common system of VAT based on the principle
+         of a return from the taxable person should operate effectively. 
+      
+In any event, it is unnecessary for the Court to rule on whether the rounding down per item method is capable of satisfying
+         the requirements of the principle of proportionality within the meaning of the first paragraph of Article of the First Directive,
+         since it is clear from, inter alia, the illustrative calculations provided in the observations submitted to the Court and
+         outlined by the Advocate General in point of her Opinion, that there are methods of calculation which can satisfy those
+         requirements.
+      
+Consequently, because of the technical nature of rounding, it is also the case that the principle of proportionality does
+         not contain requirements from which it can be inferred that only one method of rounding, namely that involving rounding down
+         per item the amount of VAT, is able to satisfy the principle of proportionality.
+      
+It follows from the foregoing that Community law, in particular the provisions of the First and Sixth Directives and the principles
+         of fiscal neutrality and proportionality, contains no specific obligation for Member States to permit taxable persons to round
+         down per item the amount of VAT.
+      
+Consequently, the answer to the second question must be that Community law, as it now stands, entails no specific obligation
+         for Member States to permit taxable persons to round down per item the amount of VAT.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+1.      In the absence of specific Community legislation, it is for Member States to decide on the rules and methods of rounding amounts
+            of value added tax, but those States must, when making that decision, observe the principles underpinning the common system
+            of that tax, in particular the principles of fiscal neutrality and proportionality. 
+2.      Community law, as it now stands, entails no specific obligation for Member States to permit taxable persons to round down
+            per item the amount of value added tax.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 

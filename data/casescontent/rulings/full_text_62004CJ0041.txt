@@ -1,0 +1,337 @@
+
+Case C-41/Levob Verzekeringen BV and OV Bank NV
+v
+Staatssecretaris van Financiën
+(Reference for a preliminary ruling from the Hoge Raad der Nederlanden)
+(Sixth VAT Directive — Articles 2, 5, and — Transfer of software recorded on a carrier — Subsequent customisation of the software to the purchaser’s specific requirements — Single taxable supply — Supply of services — Place of supply)
+Opinion of Advocate General Kokott delivered on May Judgment of the Court (First Chamber), October Summary of the Judgment
+1.     Tax provisions — Harmonisation of laws — Turnover taxes — Common system of value added tax — Supply of services — Transactions
+            comprising a number of elements — Transaction to be considered as a single supply — Criteria — Supply of standard software
+            recorded on a carrier and subsequent customisation of that software to the consumer’s specific requirements
+(Council Directive 77/388, Art. 2(1))
+2.     Tax provisions — Harmonisation of laws — Turnover taxes — Common system of value added tax — Supply of services — Meaning
+            — Supply of standard software recorded on a carrier and subsequent customisation of that software to the consumer’s specific
+            requirements — Included — Conditions
+(Council Directive 77/388, Art. 6(1))
+3.     Tax provisions — Harmonisation of laws — Turnover taxes — Common system of value added tax — Supply of services — Determination
+            of the place of taxable supply — Services of advisers, engineers, consultants, lawyers, accountants and other similar services
+            — Meaning — Customisation of computer software to the customer’s specific requirements — Included
+(Council Directive 77/388, Art. 9(2)(e), third indent)
+1.     Article 2(1) of Sixth Council Directive 77/on the harmonisation of the laws of the Member States relating to turnover
+         taxes must be interpreted as meaning that where two or more elements or acts supplied by a taxable person to a customer, being
+         a typical consumer, are so closely linked that they form objectively, from an economic point of view, a whole transaction,
+         which it would be artificial to split, all those elements or acts constitute a single supply for purposes of the application
+         of VAT. This is true of a transaction by which a taxable person supplies to a consumer standard software previously developed,
+         put on the market and recorded on a carrier and subsequently customises that software to that purchaser’s specific requirements,
+         even where separate prices are paid.
+      
+(see para. 30, operative part 1-2)
+2.     Article 6(1) of Sixth Directive 77/on the harmonisation of the laws of the Member States relating to turnover taxes must
+         be interpreted as meaning that a single supply such as the supply of standard software and its subsequent customisation to
+         the specific requirements of the customer is to be classified as a ‘supply of services’ where it is apparent that the customisation
+         is neither minor nor ancillary but, on the contrary, predominates; such is the case in particular where in the light of factors
+         such as its extent, cost or duration the customisation is of decisive importance in enabling the purchaser to use the customised
+         software.
+      
+(see paras 28-30, operative part 3)
+3.     Article 9(2)(e), third indent, of Sixth Directive 77/on the harmonisation of the laws of the Member States relating to
+         turnover taxes, which determines the place of taxable supply for services of advisers, engineers, consultants, lawyers, accountants
+         and other similar services, including data processing and data supply, must be interpreted as meaning that it applies to a
+         single supply of services such as the supply of standard software and its subsequent customisation to the specific requirements
+         of the customer performed for a taxable person established in the Community but not in the same country as the supplier.
+      
+That provision does not refer to professions, such as those of lawyers, consultants, accountants or engineers, but to the
+         services supplied by those professionals and similar services. The Community legislature has used the professions mentioned
+         in that provision as a means of defining the categories of services to which it refers. In that regard, computer science,
+         including programming and the development of software, forms a significant part of the training given to future engineers
+         and it may often constitute one of the various specialisations available to them during that training. A service such as the
+         customisation of computer software to the specific requirements of a consumer is therefore likely to be carried out either
+         by engineers or by other persons trained to carry out such tasks. It follows that such a service is covered either by the
+         services carried out by engineers or by those which are similar to the activity of an engineer.
+      
+(see paras 37-41, operative part 4)
+  
+JUDGMENT OF THE COURT (First Chamber)
+October (*)
+      
+(Sixth VAT Directive – Articles 2, 5, and – Transfer of software recorded on a carrier – Subsequent customisation of the software to the purchaser’s specific requirements – Single taxable supply – Supply of services – Place of supply)
+In Case C‑41/04,
+REFERENCE for a preliminary ruling under Article EC from the Hoge Raad der Nederlanden (Netherlands), made by decision
+         of January 2004, received at the Court on February 2004, in the proceedings
+      
+Levob Verzekeringen BV,
+OV Bank NV
+v
+Staatssecretaris van Financiën,
+THE COURT (First Chamber),
+composed of P. Jann, President of the Chamber, K. Schiemann (Rapporteur), N. Colneric, J.N. Cunha Rodrigues and E. Levits,
+         Judges,
+      
+Advocate General: J. Kokott,
+Registrar: K. Sztranc, Administrator,
+having regard to the written procedure and further to the hearing on February 2005,
+after considering the observations submitted on behalf of:
+–       Levob Verzekeringen BV and OV Bank NV, by J. van Dongen, advocaat, G.C. Bulk, adviseur, and W. Nieuwenhuizen, belastingadviseur,
+–       the Netherlands Government, by H. Sevenster, J. van Bakel and M. de Grave, acting as Agents,
+–       the Commission of the European Communities, by L. Ström van Lier and A. Weimar, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2005,
+gives the following
+Judgment
+The reference for a preliminary ruling concerns the interpretation of Articles 2(1), 5(1), 6(1) and of Sixth Council Directive
+         77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system
+         of value added tax: uniform basis of assessment (OJ L 145, p. 1; ‘the Sixth Directive’).
+      
+The reference was made in the course of proceedings between the tax entity Levob Verzekeringen BV and OV Bank NV (‘Levob’)
+         and the Staatssecretaris van Financïen (Secretary of State for Finance) concerning payment of value added tax (‘VAT’) on various
+         transactions, including the acquisition of software, its subsequent customisation to Levob’s requirements, its installation
+         and training of Levob’s staff in its use.
+      
+ Legal context
+Article of the Sixth Directive provides:
+‘The following shall be subject to [VAT]:
+1.      the supply of goods or services effected for consideration within the territory of the country by a taxable person acting
+         as such;
+      
+2.      the importation of goods.’
+Under Article 5(1) of the Sixth Directive, ‘“[s]upply of goods” shall mean the transfer of the right to dispose of tangible
+         property as owner’. 
+      
+According to Article 6(1) of that directive:
+‘“Supply of services” shall mean any transaction which does not constitute a supply of goods within the meaning of Article
+         5.
+      
+…’
+Article of the Sixth Directive states:
+‘1. The place where a service is supplied shall be deemed to be the place where the supplier has established his business
+         or has a fixed establishment from which the service is supplied ...
+      
+2. However: 
+…
+(e)      the place where the following services are supplied when performed for customers established outside the Community or for
+         taxable persons established in the Community but not in the same country as the supplier, shall be the place where the customer
+         has established his business or has a fixed establishment to which the service is supplied or, in the absence of such a place,
+         the place where he has his permanent address or usually resides: 
+      
+–      …
+–      …
+–      services of consultants, engineers, consultancy bureaux, lawyers, accountants and other similar services, as well as data
+         processing and the supplying of information,
+      
+…’
+ The main proceedings and the questions referred for a preliminary ruling
+Levob, established in Amersfoort (Netherlands), operates an insurance business.  On October 1997, it entered into a contract
+         (‘the contract’) with Financial Data Planning Corporation (‘FDP’), a company established in the United States.
+      
+Under the contract, FDP undertook to provide Levob with a computer programme which it markets to insurance companies in the
+         United States (‘the basic software’).  A non-transferable licence of unlimited duration was granted to Levob on that software
+         in consideration of a fee of USD 000, USD of which was payable upon signature of the contract and the balance
+         by monthly instalments of USD 000.  The amount of the fee was to be invoiced separately from the other amounts payable
+         under the contract.  The contract also specified that the licence would start in the United States, Levob acting as importer
+         of the product into the Netherlands.
+      
+The national court points out in that regard that the data carriers with the basic software were indeed handed over by FDP
+         to Levob in the United States and that they were subsequently taken into the Netherlands by Levob employees.
+      
+The contract further stipulated that FDP would customise the basic software in order to enable Levob to use it in the management
+         of the insurance contracts which it sells.  It was essentially a question of transposing the programme into Dutch and modifying
+         it as required by the fact that, in the Netherlands, agents are involved in such insurance contracts.  The price of that customisation,
+         on the basis of the definitive specifications to be determined by the parties during performance of the contract, was to be
+         no less than USD and no more than USD 000.
+      
+In addition, FDP undertook to install the basic software and customise it on Levob’s computer system and to give five days’
+         training to Levob’s staff, for two payments of USD 500.  Finally, the contract also stipulated that the customised software
+         would be subject to a general acceptance test between the parties.
+      
+The customisation of the basic software, its installation and the agreed training took place between and 1999.
+Levob did not state the amounts paid for the basic software in its VAT declarations.  On January 2000, it asked the tax
+         authorities to issue notices of assessment a posteriori with regard to the amounts paid in respect of the customisation of
+         that software, its installation and the training given by FDP.
+      
+Taking the view that the service supplied by FDP consisted in a single supply relating to the customised software, those authorities
+         issued notices of assessment in respect of all the payments made by Levob under the contract.
+      
+Since the action brought by Levob before the Gerechtshof te Amsterdam was dismissed by a judgment of December 2001, Levob
+         brought an appeal in cassation against that judgment before the referring court.  In support of its appeal Levob complains,
+         inter alia, that the Gerechtshof te Amsterdam found that the supply of the basic software and its customisation constituted
+         a single taxable transaction and that, furthermore, it classified that transaction as a ‘supply of services’.  According to
+         Levob, the supply of the basic software constitutes a supply of goods.
+      
+It was in those circumstances that the Hoge Raad der Nederlanden decided to stay the proceedings and to refer to the Court
+         the following questions for a preliminary ruling:
+      
+‘1(a) Are Article 2(1) and Article 5(1) of the Sixth Directive, in conjunction with Article 6(1) thereof, to be interpreted as meaning
+         that the acquisition of software, such as that in the present case and on terms such as those at issue in this dispute – whereby
+         separate payment is stipulated in respect of the basic software, recorded on a carrier, developed and put on the market by
+         the supplier, on the one hand, and the subsequent customisation thereof to meet the purchaser’s requirements, on the other
+         – must be regarded as a single supply?
+      
+(b)       If the answer to the above question is in the affirmative, are these provisions to be interpreted as meaning that this supply
+         must be regarded as a service (of which the supply of the goods, namely the carriers, forms part)?
+      
+(c)       If the answer to that question is in the affirmative, is Article of the Sixth Directive (in the version in force until May 2002) to be interpreted as meaning that this service is supplied at the place referred to in Article 9(1)?
+      
+(d)       If the answer to the previous question is in the negative, which part of Article 9(2) of the Sixth Directive is applicable?
+2(a)  If the answer to Question 1a is in the negative, are the provisions referred to therein to be interpreted as meaning that
+         the provision of non-customised software on the carriers must be regarded as a supply of tangible property for which the agreed
+         separate price constitutes the consideration for the purposes of Article 11A(1)(a) of the Sixth Directive?
+      
+(b)       If the answer to this question is in the negative, is Article of the Sixth Directive to be interpreted as meaning that the
+         service is supplied at the place referred to in Article 9(1) or at one of the places referred to in Article 9(2)?
+      
+(c)       Does the same apply to the service consisting in the customisation of software as applies to the provision of the basic software?’
+         
+      
+ The questions
+ Question 1(a) and (b)
+By Question 1(a) and (b), which should be dealt with together, the national court seeks to ascertain whether, for the purposes
+         of collecting VAT, the provision of standard software developed, put on the market and recorded on a carrier by the supplier
+         and the subsequent customisation thereof by the supplier to the purchaser’s requirements, in consideration of the payment
+         of separate prices, in circumstances such as those at issue in the main proceedings, are to be regarded as two distinct supplies
+         or as one single supply and, in the latter case, whether that single supply is to be classified as a supply of services.
+      
+As a preliminary point, it must be borne in mind that the question of the extent of a transaction is of particular importance,
+         for VAT purposes, both for identifying the place where the taxable transactions take place and for applying the rate of tax
+         or, where appropriate, the exemption provisions in the Sixth Directive (Case C‑349/CPP [1999] ECR I‑973, paragraph 27).
+      
+According to the Court’s case-law, where a transaction comprises a bundle of features and acts, regard must be had to all
+         the circumstances in which the transaction in question takes place in order to determine, firstly, if there were two or more
+         distinct supplies or one single supply and, secondly, whether, in the latter case, that single supply is to be regarded as
+         a supply of services (see, to that effect, Case C‑231/Faaborg‑Gelting Linien [1996] ECR I‑2395, paragraphs to 14, and CPP, paragraphs and 29).
+      
+Taking into account, firstly, that it follows from Article 2(1) of the Sixth Directive that every transaction must normally
+         be regarded as distinct and independent and, secondly, that a transaction which comprises a single supply from an economic
+         point of view should not be artificially split, so as not to distort the functioning of the VAT system, the essential features
+         of the transaction must in the first place be ascertained in order to determine whether the taxable person is making to the
+         customer, being a typical consumer, several distinct principal supplies or a single supply (see, by analogy, CPP, paragraph 29).
+      
+In that regard, the Court has held that there is a single supply in particular in cases where one or more elements are to
+         be regarded as constituting the principal supply, whilst one or more elements are to be regarded, by contrast, as ancillary
+         supplies which share the tax treatment of the principal supply (CPP, cited above, paragraph 30, and Case C‑34/Primback [2001] ECR I‑3833, paragraph 45).
+      
+The same is true where two or more elements or acts supplied by the taxable person to the customer, being a typical consumer,
+         are so closely linked that they form, objectively, a single, indivisible economic supply, which it would be artificial to
+         split.
+      
+In the context of the cooperation required by Article EC, it is indeed for the national courts to determine whether such
+         is the situation in a particular case and to make all definitive findings of fact in that regard.  Nevertheless, it is for
+         the Court to provide the national courts with all the guidance as to the interpretation of Community law which may be of assistance
+         in adjudicating on the case pending before them.
+      
+With regard to the dispute in the main proceedings, it is apparent, as held by the Gerechtshof te Amsterdam whose decision
+         was the subject of the appeal in cassation pending before the referring court, that the economic purpose of a transaction
+         such as that which took place between FDP and Levob is the supply, by a taxable person to a consumer, of functional software
+         specifically customised to that consumer’s requirements.  In that regard, and as the Netherlands Government has correctly
+         pointed out, it is not possible, without entering the realms of the artificial, to take the view that such a consumer has
+         purchased, from the same supplier, first, pre-existing software which, as it stood, was nevertheless of no use for the purposes
+         of its economic activity, and only subsequently the customisation, which alone made that software useful to it.
+      
+The fact, highlighted in the question, that separate prices were contractually stipulated for the supply of the basic software,
+         on the one hand, and for its customisation, on the other, is not of itself decisive.  Such a fact cannot affect the objective
+         close link which has just been shown with regard to that supply and that customisation nor the fact that they form part of
+         a single economic transaction (see, to that effect, CPP, paragraph 31).
+      
+It follows that Article of the Sixth Directive must be interpreted as meaning that such supply and such subsequent customisation
+         of software are, in principle, to be regarded as forming a single supply for VAT purposes.
+      
+Secondly, with regard to the question whether such a single complex supply is to be classified as a supply of services, it
+         is vital to identify the predominant elements of that supply (see, inter alia, Faaborg‑Gelting Linien, paragraph 14).
+      
+Apart from the importance of the customisation of the basic software to make it useful for the professional activities of
+         the purchaser, the extent, duration and cost of that customisation are also relevant elements in that regard.
+      
+On the basis of these different criteria, the Gerechtshof te Amsterdam correctly concluded that there was a single supply
+         of services within the meaning of Article 6(1) of the Sixth Directive, since those criteria in fact lead to the conclusion
+         that, far from being minor or ancillary, such customisation predominates because of its decisive importance in enabling the
+         purchaser to use the software customised to its specific requirements which it is purchasing.  
+      
+Having regard to all these elements, the answer to Question 1(a) and (b) must be that:
+–       Article 2(1) of the Sixth Directive must be interpreted as meaning that where two or more elements or acts supplied by a taxable
+         person to a customer, being a typical consumer, are so closely linked that they form objectively, from an economic point of
+         view, a whole transaction, which it would be artificial to split, all those elements or acts constitute a single supply for
+         purposes of the application of VAT;
+      
+–       this is true of a transaction by which a taxable person supplies to a consumer standard software previously developed, put
+         on the market and recorded on a carrier and subsequently customises that software to that purchaser’s specific requirements,
+         even where separate prices are paid;
+      
+–       Article 6(1) of the Sixth Directive must be interpreted as meaning that such a single supply is to be classified as a ‘supply
+         of services’ where it is apparent that the customisation in question is neither minor nor ancillary but, on the contrary,
+         predominates; such is the case in particular where in the light of factors such as its extent, cost or duration the customisation
+         is of decisive importance in enabling the purchaser to use the customised software.
+      
+ Question 1(c) and (d)
+By Question 1(c) and (d), the national court asks in what place a single supply of services such as that referred to in the
+         answer to Question 1(a) and (b) is deemed to take place.
+      
+In that regard, Article of the Sixth Directive contains rules for determining the place where services are deemed to be
+         supplied for tax purposes.  Whereas Article 9(1) lays down a general rule on the matter, Article 9(2) sets out a number of
+         specific instances of places where certain services are deemed to be supplied.  The object of those provisions is to avoid,
+         first, conflicts of jurisdiction which may result in double taxation, and, secondly, non-taxation (see inter alia Case C‑452/RAL (Channel Islands) and Others [2005] ECR I‑0000, paragraph and case‑law cited).
+      
+In respect of the relationship between the first two paragraphs of Article of the Sixth Directive, the Court has already
+         held that Article 9(1) in no way takes precedence over Article 9(2).  In every situation, the question which arises is whether
+         it is covered by one of the instances mentioned in Article 9(2); if not, it falls within the scope of Article 9(1) (RAL (Channel Islands) and Others, paragraph and case-law cited).
+      
+To that extent, the argument that Article 9(2)(e) of the Sixth Directive should, as an exception to a rule, be narrowly construed
+         must be rejected (Case C­108/SPI [2001] ECR I‑2361, paragraph 17).
+      
+It must therefore be ascertained whether a transaction such as that at issue in the main proceedings comes under Article 9(2)
+         of the Sixth Directive.
+      
+In that regard, the national court is uncertain whether it is appropriate to apply Article 9(2)(e), third indent, of that
+         directive which determines the place where supplies are deemed to take place for tax purposes in respect of ‘services of consultants,
+         engineers, consultancy bureaux, lawyers, accountants and other similar services, as well as data processing and the supplying
+         of information’.  That court is uncertain, in particular, whether the transaction in question in the main proceedings ought
+         not to be classified as ‘data processing and the supplying of information’ within the meaning of that provision.  In their
+         observations lodged before the Court, both the Netherlands Government and the Commission of the European Communities agree
+         with that interpretation. 
+      
+It is apparent from the Court’s case-law that Article 9(2)(e), third indent, of the Sixth Directive does not refer to professions,
+         such as those of lawyers, consultants, accountants or engineers, but to the services supplied by those professionals and similar
+         services.  The Community legislature has used the professions mentioned in that provision as a means of defining the categories
+         of services to which it refers (Case C­‑145/von Hoffmann [1997] ECR I‑4857, paragraph 15).
+      
+In that regard, it is appropriate to note that computer science, including programming and the development of software, forms
+         a significant part of the training given to future engineers and that it may often constitute one of the various specialisations
+         available to them during that training.
+      
+A service such as the customisation of computer software to the specific requirements of a consumer is therefore likely to
+         be carried out either by engineers or by other persons trained to carry out such tasks.
+      
+It follows that such a service is covered either by the services carried out by engineers or by those which are similar to
+         the activity of an engineer.
+      
+In the light of the foregoing, the answer to Question 1(c) and (d) must be that Article 9(2)(e), third indent, of the Sixth
+         Directive must be interpreted as meaning that it applies to a single supply of services such as that referred to in the answer
+         to Question 1(a) and (b) performed for a taxable person established in the Community but not in the same country as the supplier.
+      
+ Question The second question was referred only in case Question 1(a) should be answered in the negative.  In the light of the affirmative
+         answer given to that question, there is no need to consider the second question.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court.  Costs incurred in submitting observations to the Court, other than the
+         costs of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+1.      Article 2(1) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating
+            to turnover taxes – Common system of value added tax: uniform basis of assessment must be interpreted as meaning that where
+            two or more elements or acts supplied by a taxable person to a customer, being a typical consumer, are so closely linked that
+            they form objectively, from an economic point of view, a whole transaction, which it would be artificial to split, all those
+            elements or acts constitute a single supply for purposes of the application of VAT;
+2.      This is true of a transaction by which a taxable person supplies to a consumer standard software previously developed, put
+            on the market and recorded on a carrier and subsequently customises that software to that purchaser’s specific requirements,
+            even where separate prices are paid; 
+3.      Article 6(1) of Sixth Directive 77/must be interpreted as meaning that a single supply such as that referred to in paragraph
+            of this operative part is to be classified as a ‘supply of services’ where it is apparent that the customisation in question
+            is neither minor nor ancillary but, on the contrary, predominates; such is the case in particular where in the light of factors
+            such as its extent, cost or duration the customisation is of decisive importance in enabling the purchaser to use the customised
+            software; 
+4.      Article 9(2)(e), third indent, of Sixth Directive 77/must be interpreted as meaning that it applies to a single supply
+            of services such as that referred to in paragraph of this operative part performed for a taxable person established in the
+            Community but not in the same country as the supplier.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 

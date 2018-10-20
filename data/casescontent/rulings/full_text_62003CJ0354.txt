@@ -1,0 +1,455 @@
+
+Joined Cases C-354/03, C-355/and C-484/Optigen Ltd, Fulcrum Electronics Ltd
+and
+Bond House Systems Ltd 
+v
+Commissioners of Customs & Excise
+(Reference for a preliminary ruling from the High Court of Justice of England and Wales, Chancery Division)
+(Sixth VAT Directive – Article 2(1), Article 4(1) and (2) and Article 5(1) – Deduction of input tax – Economic activity – Taxable person acting as such – Supply of goods – Transaction forming part of a chain of supply involving a defaulting trader or a trader using an unauthorised VAT number
+         – Carousel fraud)
+      
+Summary of the Judgment
+Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Supplies of goods or services
+            effected by a taxable person acting as such 
+(Council Directive 77/388, Arts 2(1), and 5(1))
+Transactions in which a taxable person established in a Member State buys goods from companies established in that Member
+         State and sells them to purchasers established in another Member State, and which are not themselves vitiated by value added
+         tax fraud, constitute supplies of goods or services effected by a taxable person acting as such and an economic activity within
+         the meaning of Articles 2(1), and 5(1) of Sixth Directive 77/on the harmonisation of the laws of the Member States relating
+         to turnover taxes where they fulfil the objective criteria on which the definitions of those terms are based, regardless of
+         the intention of a trader other than the taxable person concerned involved in the same chain of supply and/or the possible
+         fraudulent nature of another transaction in the chain, prior or subsequent to the transaction carried out by that taxable
+         person, of which that taxable person had no knowledge and no means of knowledge. The right to deduct input value added tax
+         of a taxable person who carries out such transactions cannot be affected by the fact that in the chain of supply of which
+         those transactions form part another prior or subsequent transaction is vitiated by value added tax fraud, without that taxable
+         person knowing or having any means of knowing. 
+      
+(see paras 51-52, 55, operative part)
+  
+JUDGMENT OF THE COURT (Third Chamber)
+January (*)
+      
+(Sixth VAT Directive – Article 2(1), Article 4(1) and (2) and Article 5(1) – Deduction of input tax – Economic activity – Taxable person acting as such – Supply of goods – Transaction forming part of a chain of supply involving a defaulting trader or a trader using an unauthorised VAT number
+         – Carousel fraud)
+      
+In Joined Cases C-354/03, C-355/and C-484/03,
+REFERENCES for a preliminary ruling under Article EC from the High Court of Justice of England and Wales, Chancery Division
+         (United Kingdom), made by decisions of July (C-354/and C-355/03) and October (C-484/03), received at the
+         Court on August and November respectively, in the proceedings
+      
+Optigen Ltd (C-354/03),
+      
+Fulcrum Electronics Ltd (C-355/03),
+      
+Bond House Systems Ltd (C-484/03)
+      
+v
+Commissioners of Customs & Excise,
+THE COURT (Third Chamber),
+composed of A. Rosas, President of the Chamber,  J. Malenovský, J.-P. Puissochet, S. von Bahr (Rapporteur) and U. Lõhmus,
+         Judges,
+      
+Advocate General: M. Poiares Maduro,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on December 2004,
+after considering the observations submitted on behalf of:
+–        Optigen Ltd, by T. Beazley QC and J. Herberg, Barrister,
+–        Fulcrum Electronics Ltd, by R. Englehart QC and A. Lewis, Barrister,
+–        Bond House Systems Ltd, by K.P.E. Lasok QC and M. Patchett-Joyce, Barrister,
+–        the United Kingdom Government, by C. Jackson (C‑354/03, C‑355/and C-484/03) and K. Manji (C-484/03), acting as Agents,
+         and by R. Anderson QC and I. Hutton, Barrister,
+      
+–        the Czech Government, by T. Boček, acting as Agent (C‑354/03, C-355/and C-484/03),
+–        the Danish Government, by J. Molde and A. Rahbøl Jacobsen, acting as Agents, and by P. Biering, advokat (C‑484/03),
+–        the Council of the European Union, by A.-M. Colaert and J. Monteiro, acting as Agents (C-354/and C-355/03),
+–        the Commission of the European Communities, by R. Lyal, acting as Agent (C-354/03, C-355/and C-484/03),
+after hearing the Opinion of the Advocate General at the sitting on February 2005,
+gives the following
+Judgment
+The references for a preliminary ruling concern the interpretation of  First Council Directive 67/227/EEC of April on the harmonisation of legislation of Member States concerning turnover taxes (OJ, English Special Edition 1967, p. 14),
+         as amended by Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating
+         to turnover taxes –Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1, ‘the First Directive’),
+         and the interpretation of Sixth Directive 77/388, as amended by Council Directive 95/7/EC of April (OJ L 102,
+         p. 18, ‘the Sixth Directive’).
+      
+The references were made in the course of three sets of proceedings brought by Optigen Ltd (‘Optigen’), Fulcrum Electronics
+         Ltd, in liquidation, (‘Fulcrum’) and Bond House Systems Ltd (‘Bond House’) against the Commissioners of Customs & Excise (‘the
+         Commissioners’) concerning the rejection by the Commissioners of the claims for reimbursement of value added tax (‘VAT’) paid
+         on the purchase in the United Kingdom of CPUs which were subsequently exported to another Member State.
+      
+ Legal context
+Article of the First Directive is worded as follows:
+      
+‘The principle of the common system of value added tax involves the application to goods and services of a general tax on
+         consumption exactly proportional to the price of the goods and services, whatever the number of transactions which take place
+         in the production and distribution process before the stage at which tax is charged.
+      
+On each transaction, value added tax, calculated on the price of the goods or services at the rate applicable to such goods
+         or services, shall be chargeable after deduction of the amount of value added tax borne directly by the various cost components.
+      
+The common system of value added tax shall be applied up to and including the retail trade stage.’
+Under Article 2(1) of the Sixth Directive, a supply of goods or services effected for consideration by a taxable person acting
+         as such is subject to VAT.
+      
+Under Article 4(1) of the Sixth Directive, ‘taxable person’ means any person who independently carries out any economic activity
+         specified in Article 4(2). The term ‘economic activities’ is defined in Article 4(2) as comprising all activities of producers,
+         traders and persons supplying services, including the exploitation of tangible or intangible property for the purpose of obtaining
+         income therefrom on a continuing basis.
+      
+Under Article 5(1) of that directive, ‘“[s]upply of goods” shall mean the transfer of the right to dispose of tangible property
+         as owner’.
+      
+Article 17(1) to (3) of the Sixth Directive provides:
+      
+‘1.      The right to deduct shall arise at the time when the deductible tax becomes chargeable.
+2.      In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be entitled
+         to deduct from the tax which he is liable to pay:    
+      
+(a)      value added tax due or paid in respect of goods or services supplied or to be supplied to him by another taxable person;
+(b)      value added tax due or paid in respect of imported goods;  
+…
+3.      Member States shall also grant to every taxable person the right to a deduction or refund of the value added tax referred
+         to in paragraph in so far as the goods and services are used for the purposes of:   
+      
+(a)      transactions relating to the economic activities as referred to in Article 4(2) carried out in another country, which would
+         be eligible for deduction of tax if they had occurred in the territory of the country;
+      
+…’.
+ The main proceedings
+According to the orders for reference, at the material time Optigen, Fulcrum and Bond House essentially carried on the business
+         of buying CPUs from companies established in the United Kingdom and selling them to purchasers established in another Member
+         State. 
+      
+Optigen claimed a net balance of refundable VAT in excess of GBP million in its VAT return in respect of June 2002. By decisions
+         of and October 2002, the Commissioners declined to allow an amount of just over GBP million of that claim. Similarly,
+         by a decision of October 2002, the Commissioners disallowed the refund of just over GBP million in respect of July of
+         that year.
+      
+Fulcrum claimed a net balance of input VAT of nearly GBP 7.million in its VAT return in respect of June 2002. By a decision
+         of November 2002, the Commissioners disallowed nearly GBP million of the sum claimed. Similarly, in respect of July they disallowed about GBP 1.million out of a total claim of nearly GBP million. In addition, in February the Commissioners
+         issued an assessment against Fulcrum for nearly GBP for input VAT which they claimed to have wrongly refunded to them
+         in respect of May 2002.
+      
+Bond House claimed a refund of approximately GBP 16.million for input VAT paid in its VAT return in respect of May 2002.
+         That claim was refused by the Commissioners. In September 2002, the Commissioners informed the company that they accepted
+         that, of the total sum claimed, just over GBP 2.million was allowable. 
+      
+According to the orders for reference, the transactions in question formed part of a chain of supply which, without the applicants
+         in the main proceedings being aware of it, involved a defaulting trader, that is to say, a trader who incurs liability to
+         VAT but goes missing without discharging that liability with the tax authorities, or a trader using a ‘hijacked’ VAT number,
+         that is to say, a trader using a VAT number belonging to someone else, and thus, according to the Commissioners, constituted
+         a carousel fraud.
+      
+According to the orders for reference in Cases C‑354/and C‑355/03, and, according to the Commissioners in Case C‑484/03,
+         a carousel fraud generally operates as follows:
+      
+–        A company (A) in one European Union Member State sells taxable goods to a company (B) in another Member State.
+–        Company B, which is the defaulting trader or the trader using the hijacked VAT number, sells the goods at a discount to another
+         company (C), a buffer company, in the other Member State. Further sales can thereby be made at a profit. Company B incurs
+         liability to VAT on the purchase of the goods, but, having used the goods for taxable transactions, it is also entitled to
+         deduct that VAT as input VAT. On the other hand, it incurs liability for the output VAT it has charged to company C, but goes
+         missing before discharging that liability to the tax authorities. 
+      
+–        In turn, company C sells the goods to another buffer company (D) in the other Member State, paying the tax authorities the
+         output VAT charged after having deducted the input VAT paid, and so on until a company in the other Member State exports the
+         goods to another Member State. Exports are exempt from VAT, but the exporting company is entitled to claim a refund of the
+         input VAT paid on the purchase of the goods. When the purchaser in the last Member State is company A, there is a true carousel
+         fraud.
+      
+–        The process can be repeated.
+In Cases C-354/and C-355/03, the referring court states that the Commissioners based their decisions on the contention
+         that, first, as regards the purchases in question in the main proceedings, Optigen and Fulcrum received no supplies used or
+         to be used for VAT purposes, so that the amounts of VAT purportedly paid in respect of those purchases were not input tax
+         within the meaning of the Value Added Tax Act 1994. Further, for the purposes of VAT, the relevant sales were not supplies
+         made in the course of a business and do not therefore give any entitlement to a refund. Finally, the purchases and the sales,
+         judged objectively, were devoid of economic substance and were not part of any economic activity. Accordingly, the purchases
+         were not supplies used or to be used for the purposes of any economic activity and the sales were not supplies made in the
+         course of an economic activity for the purposes of VAT.
+      
+Optigen and Fulcrum appealed against the decisions of the Commissioners to the VAT and Duties Tribunal, London, which joined
+         the two cases.
+      
+By decision of May 2003, the VAT and Duties Tribunal, London, dismissed the appeal brought by those companies, concluding
+         that the Commissioners had legitimately maintained that the transactions in question fall outside the scope of VAT. It found
+         that a trader does not have a right to a refund of input VAT paid on goods which it then sold to companies outside the United
+         Kingdom, when there is a defaulting trader or a trader using a hijacked VAT number in the chain of supply, even though the
+         trader claiming the refund was in no way involved in or had no knowledge of the failure of the other trader to fulfil its
+         obligations or the hijacking of the VAT number, and the chains of supply which included the purchases and sales of the trader
+         were part of a carousel fraud operated by third parties without its knowledge.
+      
+Optigen and Fulcrum lodged appeals before the High Court of Justice of England and Wales, Chancery Division, against the decision
+         of the VAT and Duties Tribunal, London.
+      
+According to the order for reference in Case C-484/03, the Commissioners claim that the fact that the chains of supply at
+         issue in the main proceedings had a fraudulent objective means that all the transactions which make it up, including those
+         of Bond House, were devoid of economic substance. Accordingly, as the illegal transactions did not fall within the scope of
+         VAT, the amounts which Bond House paid as input VAT to its suppliers under the guise of VAT were not VAT, and therefore did
+         not give that company an entitlement to a refund of those amounts. 
+      
+Bond House lodged an appeal before the VAT and Duties Tribunal, Manchester, in August 2002.
+      
+By judgment of April 2003, amended by addendum of May 2003, the VAT and Duties Tribunal, Manchester, held that of
+         the purchases in question could not be regarded as economic activities within the meaning of the Sixth Directive and were
+         therefore outside the scope of VAT. It found that those purchases formed part of a series of transactions having a fraudulent
+         objective. Even though Bond House did not know of that objective and was innocent of any wrongdoing, those operations were
+         devoid of economic substance and had to be evaluated according to objective criteria. It was therefore immaterial that the
+         applicant in the main proceedings did not commit a breach. Finally, Bond House could not rely on the principle of the protection
+         of legitimate expectations in support of its claim for a refund of the input VAT it had paid, and the Commissioners, in depriving
+         Bond House of that refund, did not offend against the principles of proportionality or of legal certainty, and did not breach
+         the applicant’s human rights.
+      
+Bond House lodged an appeal against that judgment before the High Court of Justice of England and Wales, Chancery Division.
+      
+ The questions referred for a preliminary ruling and the procedure before the Court
+In Cases C-354/and C-355/03, the national court points out that the facts are assumed facts. It indicates that the following
+         facts are relevant:
+      
+–        There was a carousel fraud.
+–        Optigen and Fulcrum were innocent parties who were not involved in and had no knowledge of or reason to have knowledge of
+         that fraud other than as ordinary buyers from a trader and ordinary sellers to a company in another Member State.
+      
+–        Optigen and Fulcrum had no dealings with the defaulting trader or the trader using a hijacked VAT number.
+–        The nine purchases by Fulcrum in respect of which the VAT refund was disallowed would have looked no different to Fulcrum
+         from any other of the purchases it made during the relevant three-month period.
+      
+–        At the time when Optigen and Fulcrum purchased the goods and paid input VAT, the ‘carousel’ was incomplete and a defaulting
+         trader had not yet gone ‘missing’, so that at that time either of those events might not in fact occur.  
+      
+In Case C-484/03, the national court states that Bond House challenges a limited number of facts or conclusions of the VAT
+         and Duties Tribunal, Manchester. The following facts are among those which are unchallenged:
+      
+–        Bond House was well regarded by the Commissioners and was not suspected of any VAT fraud.
+–        Bond House did not know of the existence of the fraud alleged by the Commissioners and did not act recklessly.
+–        Bond House did not deal with any of the traders alleged by the Commissioners to have acted fraudulently.
+–        All the transactions effected by Bond House and the transactions that took place before and after Bond House had bought and
+         sold the goods were genuine: the goods and the payments for them changed hands on every occasion.
+      
+–        The transactions that the VAT and Duties Tribunal, Manchester, found to be devoid of economic substance were no different
+         from other transactions in which Bond House engaged whose economic substance was not disputed, as there was no evidence that
+         they formed part of a carousel fraud
+      
+Bond House essentially submits that, as the purchases and supplies in question actually took place, it cannot be asserted
+         that they did not amount to ‘supplies’ or ‘economic activities’ for the purposes of VAT merely because, elsewhere in the chain
+         of supply and without the knowledge of Bond House, a fraudster had charged VAT to a customer and not accounted for that VAT
+         to the Commissioners. Further, there is no reason to believe that transactions taking place before or after the fraudster
+         had carried out the fraud and involving persons who had no knowledge of the fraud or the fraudster formed a part of the fraud
+         or of the fraudster’s plan. The decision of the VAT and Duties Tribunal, Manchester, is inconsistent with the common system
+         of VAT. As a means of combating fraud, it is disproportionate and capable of having a deterrent effect on legitimate trade,
+         contrary to Article EC. It is also inconsistent with the principle of legal certainty because taxable persons can no longer
+         even issue invoices bearing VAT or complete their VAT returns with any degree of certainty.
+      
+The Commissioners essentially contend that transactions which form part of a carousel fraud are not economic activities within
+         the meaning of the Sixth Directive. The transactions at issue were therefore devoid of economic substance and were outside
+         the scope of that directive. Those transactions were not part of any ‘economic activity’, nor were they ‘supplies’ to or by
+         Bond House. The decision not to reimburse Bond House the VAT in question involves no breach of the principles of proportionality,
+         legal certainty or respect for human rights.
+      
+It is in those circumstances that the High Court of Justice of England and Wales, Chancery Division, decided to stay the proceedings
+         and refer the following questions to the Court for a preliminary ruling:
+      
+In Cases C-354/and C-355/03:
+‘1.      Under the common system of VAT, and in the light of [the First Directive] and [the Sixth Directive], is the entitlement of
+         a trader to credit for a payment in respect of VAT under a transaction to be judged by reference to:
+      
+(a)      only the particular transaction to which the trader was a party including the trader’s purposes in entering into it, or
+(b)      the totality of transactions, including subsequent transactions, making up a circular chain of supply of which the particular
+         transaction forms part including the purposes of other participants in the chain of which the trader has no knowledge and/or
+         means of knowledge, and/or
+      
+(c)      the fraudulent acts and intention, whether arising prior or subsequent to the particular transaction, of other participants
+         in the circular chain of whose involvement the trader is unaware and of whose acts and intentions the trader has no knowledge
+         and/or means of knowledge, or
+      
+(d)      some other, and if so what, criteria?
+2.      Does the exclusion from the VAT regime of transactions entered into by an innocent party, but which form links in a carousel
+         fraud by others, infringe the general principles of proportionality, equal treatment or legal certainty?’
+      
+In Case C-484/03:
+‘1.      Having regard to the general principles of EC law (in particular, the principles of proportionality and legal certainty) and
+         to Article [EC]:
+      
+(a)      in the relevant circumstances, was the appellant a “taxable person acting as such” within Article 2(1) of the Sixth Directive
+         when, in the transactions, it acquired the CPUs from the UK vendors and sold them to the non-UK purchasers?
+      
+(b)      in the relevant circumstances, was the appellant carrying on an “economic activity” within Article of the Sixth Directive
+         when, in the transactions, it acquired the CPUs from the UK vendors and sold them to the non-UK purchasers?
+      
+(c)      in the relevant circumstances, was the acquisition by the appellant, in the transactions, of the CPUs from the UK vendors
+         a “supply of goods” to the appellant within Article 5(1) of the Sixth Directive?
+      
+(d)      in the relevant circumstances, was the sale by the appellant, in the transactions, of the CPUs to the non-UK purchasers
+         a “supply of goods” by the appellant within Article 5(1) of the Sixth Directive?
+      
+2.      Do the answers to Question 1(a) to (d) above give rise to any breach of the general principles of Community law (in particular,
+         the principles of proportionality and legal certainty)?’
+      
+By order of the President of the Court of September 2003, Cases C-354/and C-355/were joined for the purposes of the
+         written procedure, the oral procedure and the judgment.
+      
+Subsequently, by order of the President of the Court of June 2004, those cases were joined with Case C-484/for the purposes
+         of the oral procedure and the judgment. 
+      
+ The first questions
+By the first question in both cases, the referring court seeks essentially to know whether, first, transactions such as those
+         at issue in the main proceedings, which are not themselves vitiated by VAT fraud, but which form part of a chain of supply
+         in which another prior or subsequent transaction is vitiated by such fraud, without the trader engaged in the first transactions
+         knowing or having any means of knowing, constitute supplies of goods or services effected by a taxable person acting as such
+         and an economic activity within the meaning of Articles 2(1), and 5(1) of the Sixth Directive and, second, whether, in such
+         circumstances, the right of that trader to deduct input VAT may be limited.
+      
+ Observations submitted to the Court
+Optigen and Fulcrum take the view that under the common system of VAT, and in the light of the First and Sixth Directives,
+         the entitlement of a trader to credit for a payment in respect of VAT under a transaction is to be judged by reference to
+         the particular transaction to which the trader was a party, including the trader’s purposes in entering into it, and not by
+         reference to prior or subsequent transactions of which the trader has no knowledge or means of knowledge, nor by reference
+         to the fraudulent acts and intentions of other traders of whose involvement the trader is unaware and of whose acts and intentions
+         the trader has no knowledge or means of knowledge.
+      
+In the view of Bond House, the answer to the first question referred in Case C-484/should be in the affirmative.
+      
+The United Kingdom Government maintains that under the common system of VAT, and in the light of the First and Sixth Directives,
+         the entitlement of a trader to credit for a payment in respect of VAT under a transaction is to be judged by reference to
+         the totality of transactions, including subsequent transactions, making up a circular chain of supply of which the particular
+         transaction forms part, taking account of the purposes of other participants in the chain of which the trader has no knowledge
+         and/or means of knowledge, and the fraudulent acts and intention, whether arising before or after the particular transaction,
+         of other participants in the circular chain of whose involvement the trader has no knowledge and/or means of knowledge.  All
+         transactions within a circular chain of supply the only purpose of which is to perpetrate a fraud on the VAT system are, therefore,
+         wholly outside the scope of the Sixth Directive, and the fact that some of those transactions involved an innocent trader
+         is incapable of bringing them within the scope of the directive.
+      
+The Czech Government submits that where the objective pursued by transactions such as those at issue in the main proceedings
+         is unlawful, such transactions cannot be considered to be economic activities within the meaning of the Sixth Directive.
+      
+The Danish Government is of the opinion, first, that it is for the party wishing to deduct VAT for a transaction involving
+         a ‘supply of goods’ to prove that the right to dispose of the goods as owner was actually transferred to that party and, second,
+         that transactions carried out in a closed circuit do not come within the scope of application of VAT as the taxable person,
+         in becoming involved in such a circuit, does not act as a taxable person.
+      
+The Commission of the European Communities contends that under the common system of VAT, and in the light of the First and
+         Sixth Directives, the entitlement of a trader to credit for a payment in respect of VAT under a transaction should be judged
+         by reference to the particular transaction to which the trader was a party. Transactions of which he has no knowledge and
+         the fraudulent acts or intentions of other persons in the chain of supply of whose involvement he is unaware do not affect
+         his entitlement. It follows that the exclusion from the VAT regime of a transaction which is to be regarded as a taxable supply
+         is contrary to the Sixth Directive
+      
+ Findings of the Court
+It is to be remembered first of all that the Sixth Directive establishes a common system of VAT based, inter alia, on a uniform
+         definition of taxable transactions (Case C-305/MKG-Kraftfahrzeuge-Factoring  [2003] ECR I-6729, paragraph 38).
+      
+In that regard, the Sixth Directive assigns a very wide scope to VAT by mentioning, in Article 2, which concerns taxable transactions,
+         in addition to importation of goods, supplies of goods and services effected for consideration within the territory of the
+         country by a taxable person acting as such.
+      
+As regards, first, the term ‘supply of goods’, Article 5(1) of the Sixth Directive provides that the transfer of the right
+         to dispose of tangible property as owner is to constitute such a supply. 
+      
+According to the case-law of the Court, the term covers any transfer of tangible property by one party which empowers the
+         other party actually to dispose of it as if he were the owner of the property  (see, inter alia, Case C-320/Shipping and Forwarding Enterprise Safe [1990] ECR I-285, paragraph 7, and Case C‑25/HE [2005] ECR I-3123, paragraph 64).
+      
+Then, according to Article 4(1) of the Sixth Directive any person who independently carries out in any place any economic
+         activity is considered to be a taxable person, whatever the purpose or results of that activity. 
+      
+The term ‘economic activities’ is defined in Article 4(2) of the Sixth Directive as covering ‘all’ activities of producers,
+         traders and persons supplying services and, according to the case-law, it comprises all stages of production, distribution
+         and the provision of services (see, inter alia, Case C-186/Van Tiem [1990] ECR I-4363, paragraph 17, and MKG-Kraftfahrzeuge-Factoring, cited above, paragraph 42).
+      
+Finally, as regards the expression ‘taxable person acting as such’, according to the case-law, a taxable person acts in that
+         capacity where he carries out transactions in the course of his taxable activity (see, to that effect, Case C-291/Armbrecht [1995] ECR I-2775, paragraph 17, and Case C-77/EDM [2004] ECR I-4295, paragraph 66).
+      
+As the Court held in paragraph of its judgment in Case C-260/Commission  v Greece [2000] ECR I-6537, an analysis of the definitions  of taxable person and economic activities shows that the scope of the term
+         economic activities is very wide, and that the term is objective in character, in the sense that the activity is considered
+         per se and without regard to its purpose or results (see also Case 235/Commission v Netherlands [1987] ECR 1471, paragraph 8, and, to that effect, inter alia Case 268/Rompelman [1985] ECR 655, paragraph 19, and Case C‑497/Zita Modes [2003] ECR I-14393, paragraph 38).
+      
+In fact, that analysis and that of the definitions of ‘supply of goods’ and ‘taxable person acting as such’ show that those
+         terms, which define taxable transactions under the Sixth Directive, are all objective in nature and apply without regard to
+         the purpose or results of the transactions concerned.
+      
+As the Court held in paragraph of its judgment in Case C-4/BLP Group [1995] ECR I-983, an obligation on the tax authorities to carry out inquiries to determine the intention of the taxable person
+         would be contrary to the objectives of the common system of VAT of ensuring legal certainty and facilitating application of
+         VAT by having regard, save in exceptional cases, to the objective character of the transaction in question.
+      
+An obligation on the tax authorities to take account, in order to determine whether a given transaction constitutes a supply
+         by a taxable person acting as such and an economic activity, of the intention of a trader other than the taxable person concerned
+         involved in the same chain of supply and/or the possible fraudulent nature of another transaction in the chain, prior or subsequent
+         to the transaction carried out by that taxable person, of which that taxable person had no knowledge and no means of knowledge,
+         would a fortiori be contrary to those objectives.
+      
+As the Advocate General observed in point of his Opinion, each transaction must therefore be regarded on its own merits
+         and the character of a particular transaction in the chain cannot be altered by earlier or subsequent events.
+      
+As regards the case-law relied on by the United Kingdom Government according to which a taxable person acquires that status
+         definitively only if he made the declaration of intention to begin the envisaged economic activities in good faith (see, inter
+         alia, Case C-400/Breitsohl [2000] ECR I-4321, paragraph 39, and Joined Cases C-110/to C-147/Gabalfrisa and Others [2000] ECR I-1577, paragraph 46), suffice it to observe that, as the Advocate General pointed out in point of his Opinion,
+         that case-law concerns  the intention to commence and thus engage in economic activities and not the intended purpose of the
+         economic activities themselves.
+      
+As regards the argument of the United Kingdom Government derived from the case-law of the Court to the effect that unlawful
+         transactions fall outside the scope of VAT, it must be observed, first, that that case-law concerns products which by their
+         very nature and because of their special characteristics may not be marketed or incorporated into economic channels. Second,
+         it is settled case-law that the principle of fiscal neutrality prevents there being any general distinction as between lawful
+         and unlawful transactions. Consequently, the mere fact that conduct amounts to an offence is not sufficient to justify exemption
+         from VAT. That exemption applies only in specific situations where, owing to the special characteristics of certain products
+         or certain services, any competition between a lawful economic sector and an unlawful sector is precluded (see, inter alia,
+         Case C-158/Coffeeshop ‘Siberië’ [1999] ECR I-3971, paragraphs and 21, and Case C-455/Salumets and Others [2000] ECR I-4993, paragraph 19).
+      
+It is common ground that this is not the case with the CPUs at issue in the main proceedings.
+      
+It follows that transactions such as those at issue in the main proceedings, which are not themselves vitiated by VAT fraud,
+         constitute supplies of goods or services effected by a taxable person acting as such and an economic activity within the meaning
+         of Articles 2(1), and 5(1) of the Sixth Directive,  where they fulfil the objective criteria on which the definitions of
+         those terms are based, regardless of the intention of a trader other than the taxable person concerned involved in the same
+         chain of supply and/or the possible fraudulent nature of another transaction in the chain, prior or subsequent to the transaction
+         carried out by that taxable person, of which that taxable person had no knowledge and no means of knowledge.
+      
+Nor can the right to deduct input VAT of a taxable person who carries out such transactions be affected by the fact that in
+         the chain of supply of which those transactions form part another prior or subsequent transaction is vitiated by VAT fraud,
+         without that taxable person knowing or having any means of knowing.
+      
+As the Court has repeatedly held, the right to deduct provided for in Article et seq. of the Sixth Directive is an integral
+         part of the VAT scheme and in principle may not be limited. It must be exercised immediately in respect of all the taxes charged
+         on transactions relating to inputs (see, in particular, Case C-62/BP Supergas v Greek State [1995] ECR I-1883, paragraph 18, and  Gabalfrisa and Others, cited above, paragraph 43).
+      
+The question whether the VAT on the earlier or later sale of the goods concerned to the end-user has or has not been paid
+         to the public purse is irrelevant to the right of the taxable person to deduct input VAT (see, to that effect, the order of
+         the Court in Case C-395/Transport Service [2004] ECR I-1991, paragraph 26). The Court has consistently held that, according to the fundamental principle which underlies
+         the common system of VAT, and which follows from Article of the First and Sixth Directives, VAT applies to each transaction
+         by way of production or distribution after deduction of the VAT directly borne by the various cost components (see, inter
+         alia, Case C-98/Midland Bank [2000] ECR I-4177, paragraph 29, and Zita Modes, cited above, paragraph 37).
+      
+Therefore, the answer to the first question referred for a preliminary ruling in each case should be that transactions such
+         as those at issue in the main proceedings, which are not themselves vitiated by VAT fraud, constitute supplies of goods or
+         services effected by a taxable person acting as such and an economic activity within the meaning of Articles 2(1), and 5(1)
+         of the Sixth Directive,  where they fulfil the objective criteria on which the definitions of those terms are based, regardless
+         of the intention of a trader other than the taxable person concerned involved in the same chain of supply and/or the possible
+         fraudulent nature of another transaction in the chain, prior or subsequent to the transaction carried out by that taxable
+         person, of which that taxable person had no knowledge and no means of knowledge. The right to deduct input VAT of a taxable
+         person who carries out such transactions cannot be affected by the fact that in the chain of supply of which those transactions
+         form part another prior or subsequent transaction is vitiated by VAT fraud, without that taxable person knowing or having
+         any means of knowing.
+      
+ The second questions
+In the light of the answer given to the first question in each case, there is no need to answer the second question in each
+         case.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+Transactions such as those at issue in the main proceedings, which are not themselves vitiated by value added tax fraud, constitute
+            supplies of goods or services effected by a taxable person acting as such and an economic activity within the meaning of Articles
+            2(1), and 5(1) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States
+            relating to turnover taxes – Common system of value added tax: uniform basis of assessment, as amended by Council Directive
+            95/7/EC of April 1995, where they fulfil the objective criteria on which the definitions of those terms are based, regardless
+            of the intention of a trader other than the taxable person concerned involved in the same chain of supply and/or the possible
+            fraudulent nature of another transaction in the chain, prior or subsequent to the transaction carried out by that taxable
+            person, of which that taxable person had no knowledge and no means of knowledge. The right to deduct input value added tax
+            of a taxable person who carries out such transactions cannot be affected by the fact that in the chain of supply of which
+            those transactions form part another prior or subsequent transaction is vitiated by value added tax fraud, without that taxable
+            person knowing or having any means of knowing. 
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

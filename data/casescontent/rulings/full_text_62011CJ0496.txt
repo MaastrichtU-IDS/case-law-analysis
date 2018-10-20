@@ -1,0 +1,164 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+September (
+*)
+‛VAT — Sixth Directive — Articles 17(2) and — Deductions — VAT due or paid for services acquired by a holding company — Services having a direct, immediate and unequivocal relationship with taxable output transactions’
+In Case C-496/11,
+REFERENCE for a preliminary ruling under Article TFEU from the Tribunal Central Administrativo Sul (Portugal), made by decision of September 2011, received at the Court on September 2011, in the proceedings
+Portugal Telecom SGPS SA
+v
+Fazenda Pública,
+intervener
+Ministério Público,
+THE COURT (Sixth Chamber),
+composed of U. Lõhmus, President of the Chamber, A. Ó Caoimh and C.G. Fernlund (Rapporteur), Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Portugal Telecom SGPS SA, by A. Gonçalves Ferreira, advogado,
+—
+the Portuguese Government, by L. Inez Fernandes, acting as Agent,
+—
+the European Commission, by L. Lozano Palacios and P. Guerra e Andrade, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 17(2) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1) (‘the Sixth Directive’).
+The reference has been made in proceedings between Portugal Telecom SGPS SA (‘Portugal Telecom’) and the Fazenda Pública concerning the method to be used for determining the amount of value added tax (‘VAT’) to be deducted for which Portugal Telecom was liable.
+Legal context
+European Union legislation
+Article of the Sixth Directive is worded as follows:
+‘The following shall be subject to [VAT]:
+1.
+the supply of goods or services effected for consideration within the territory of the country by a taxable person acting as such;
+2.
+the importation of goods.’
+Article of the Sixth Directive states:
+‘1.   “Taxable person” shall mean any person who independently carries out in any place any economic activity specified in paragraph 2, whatever the purpose or results of that activity.
+2.   The economic activities referred to in paragraph shall comprise all activities of producers, traders and persons supplying services including mining and agricultural activities and activities of the professions. The exploitation of tangible or intangible property for the purpose of obtaining income therefrom on a continuing basis shall also be considered an economic activity.’
+Article of the Sixth Directive determines the taxable value as follows:
+‘A. Within the territory of the country
+1.
+The taxable amount shall be:
+(a)
+in respect of supplies of goods and services other than those referred to in (b), (c) and (d) below, everything which constitutes the consideration which has been or is to be obtained by the supplier from the purchaser, the customer or a third party for such supplies including subsidies directly linked to the price of such supplies;
+…’
+Article of the Sixth Directive lays down the rules on the origin and scope of the right to deduct and provides in particular:
+‘1.   The right to deduct shall arise at the time when the deductible tax becomes chargeable.
+2.   In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be entitled to deduct from the tax which he is liable to pay:
+(a)
+[VAT] due or paid within the territory of the country in respect of goods or services supplied or to be supplied to him by another taxable person;
+…
+5.   As regards goods and services to be used by a taxable person both for transactions covered by paragraphs and 3, in respect of which [VAT] is deductible, and for transactions in respect of which [VAT] is not deductible, only such proportion of the [VAT] shall be deductible as is attributable to the former transactions.
+This proportion shall be determined, in accordance with Article 19, for all the transactions carried out by the taxable person.
+However, Member States may:
+(a)
+authorise the taxable person to determine a proportion for each sector of his business, provided that separate accounts are kept for each sector;
+(b)
+compel the taxable person to determine a proportion for each sector of his business and to keep separate accounts for each sector;
+(c)
+authorise or compel the taxable person to make the deduction on the basis of the use of all or part of the goods and services;
+(d)
+authorise or compel the taxable person to make the deduction in accordance with the rule laid down in the first subparagraph, in respect of all goods and services used for all transactions referred to therein;
+(e)
+provide that where the [VAT] which is not deductible by the taxable person is insignificant it shall be treated as nil.
+…’
+Article of the Sixth Directive, which sets out the rules applicable to the calculation of the deductible proportion, states as follows:
+‘1.   The proportion deductible under the first subparagraph of Article 17(5) shall be made up of a fraction having:
+—
+as numerator, the total amount, exclusive of [VAT], of turnover per year attributable to transactions in respect of which [VAT] is deductible under Article 17(2) and (3);
+—
+as denominator, the total amount, exclusive of [VAT], of turnover per year attributable to transactions included in the numerator and to transactions in respect of which [VAT] is not deductible. The Member States may also include in the denominator the amount of subsidies, other than those specified in Article 11A(1)(a).
+The proportion shall be determined on an annual basis, fixed as a percentage and rounded up to a figure not exceeding the next unit.
+…
+3.   The provisional proportion for a year shall be that calculated on the basis of the preceding year’s transactions. In the absence of any such transactions to refer to, or where they were insignificant in amount, the deductible proportion shall be estimated provisionally, under the supervision of the tax authorities, by the taxable person on the basis of his own forecasts. However, Member States may retain their current rules.
+Deductions made on the basis of such provisional proportions shall be adjusted when the final proportion is fixed during the following year.’
+Portuguese legislation
+The Code on Value Added Tax
+Article of the Code on Value Added Tax (Código do imposto sobre o valor acrescentado; ‘CIVA’) lays down the taxable amount of VAT. Articles and of that code lay down the cases of non-taxation.
+Article of the CIVA provides that the following are exempt from tax:
+‘…
+28.   The following banking and financial transactions:
+…
+(f)
+Transactions and services, including negotiation, but excluding mere safekeeping, administration or management, relating to shares, other interests in companies or associations, debentures and other securities, excluding documents establishing title to goods;
+…’
+Article of the CIVA, in the version in force in the financial year concerned (2000), provided:
+‘1.   Where the taxable person, in the course of his business, makes supplies of goods or services some of which do not give rise to the right to deduct, input tax shall be deductible only in direct proportion to the annual amount of the transactions which give rise to the right to deduct.
+2.   Notwithstanding the provisions of the previous paragraph, the taxable person may make the deduction in accordance with the actual use of all or part of the goods and services used, provided that prior notice is given to the Directorate-General for Direct and Indirect Taxes, without prejudice to the possibility for the latter to impose special conditions on it or to terminate that procedure in the event of significant distortions in the taxation.
+3.   The tax authority may require the taxpayer to proceed in accordance with the provisions of the preceding paragraph:
+(a)
+where the taxable person carries out separate economic activities;
+(b)
+where the application of the procedure referred to in paragraph l results in significant distortion in the taxation.
+4.   The specific proportion of deduction referred to in paragraph shall be made up of a fraction having, as numerator, the amount, exclusive of VAT, of turnover per year attributable to the supply of goods and provision of services in respect of which VAT is deductible under Articles and 20(1) and, as denominator, the amount, exclusive of VAT, of turnover per year of all the transactions carried out by the taxable person, including exempt transactions and those outside the scope of the tax, particularly grants not subject to VAT which are not subsidies for plant or equipment.
+5.   However, the computation referred to in the preceding paragraph does not include supplies of fixed assets which have been used in the business or real estate and financial transactions that are incidental to the taxable person’s business.
+6.   The proportion of the deduction provisionally calculated, on the basis of the amount of the transactions carried out the previous year, shall be corrected in accordance with the values for the year to which it relates, which involves the corresponding adjustment of the deductions made, which is to appear in the declaration of the final period of the relevant year.
+7.   Taxable persons who start or substantially change a business may deduct tax on the basis of a provisional pro rata estimate, which must be mentioned in the declarations referred to in Articles and 31.
+8.   In order to determine the proportion of the deduction, the quotient is rounded up to the nearest hundredth.
+9.   For the application of this Article, the Minister for Finance and the Budget may, for certain activities, regard as non-existent the transactions giving rise to the deduction or those which do not confer that right, in so far as they are a negligible part of the total turnover and that the procedure provided for in paragraphs and is impractical.’
+National legislation on holding companies
+The sociedades gestoras de participações sociais (‘SGPS’) are holding companies regulated in Portugal by Decree-Law No 495/of December (Diário da República I, Series A, No 301, of December 1988), amended by Decree-Law No 318/of December (Diário da República I, Series A, No 296, of December 1994; ‘Decree-Law No 495/88’).
+Article of Decree-Law No 495/provides:
+‘1.   … the sole business purpose of SGPS is to manage the shares of other undertakings, as an indirect means of pursuing economic activities.
+2.   For the purposes of this Decree-Law, the shareholding in a company is regarded as an indirect means of pursuing economic activities when it is not occasional and concerns at least 10% of the minimum share capital, with voting rights, either directly or through other companies in which SGPS occupy a dominant position.
+…’
+In accordance with Article 4(1) of Decree-Law No 495/88, SGPS are authorised to provide technical administrative and management services to all or certain undertakings in which they have a shareholding of at least 10% of the capital, with voting rights, or exceptionally to undertakings in which they have a shareholding of less than 10% with voting rights or with which they have concluded a subordination agreement.
+Article 4(2) of Decree-Law No 495/states that supplies of services are to be the subject of a written contract, in which the corresponding remuneration is to be specified which must not exceed the market value.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Portugal Telecom is an SGPS. It provides technical administrative and management services to companies in which it has a shareholding.
+In the course of its business, Portugal Telecom acquired, under the VAT regime, certain services from consultants. It invoiced its subsidiaries for those services at the same price as that for which it had acquired them, plus VAT.
+In the financial year, Portugal Telecom deducted all the VAT paid by it from the VAT passed on, taking the view that the taxed transactions, namely the technical administration and management services, were in fact covered by the use of the corresponding services acquired.
+Following a check carried out by the tax administration, the latter took the view that Portugal Telecom could not deduct all the VAT on the input services, but that it should use the pro rata method of deduction. Accordingly, it issued Portugal Telecom with a notice of assessment setting the deductible percentage of input tax at approximately 25%.
+Portugal Telecom brought an action challenging that notice of assessment before the Tribunal Administrativo e Fiscal de Lisboa (Administrative and Tax Court, Lisbon). In substance, that court dismissed the action holding that the fundamental aim of SGPS is to perform exempt transactions. Since, in addition to those transactions, it is possible to allow, as an ancillary activity, the supply of technical administrative and management services for all or some companies in which they have a shareholding, and which are subject to VAT, that court considered that the supplies of technical administrative and management services are indissociable from the management of shareholdings. Consequently, it held that the method to use in order to determine the amount of VAT to be deducted is the pro rata method.
+Portugal Telecom brought an appeal against the decision at first instance before the Tribunal Central Administrativo Sul (Administrative Court of Appeal, South). In support of its appeal, it submitted that the legal reasoning in the decision at first instance infringed both national law on VAT and Article 17(2)(a) of the Sixth Directive.
+In so far as the taxable transactions made by Portugal Telecom in connection with its shareholdings are, it claims, supplies of services having a direct and immediate link with the services acquired with a view to their supply, that company takes the view that it may deduct all the tax paid when the acquisitions were made using the method of deduction based on actual use.
+In those circumstances, the Tribunal Central Administrativo Sul decided to stay its proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article 17(2) of the Sixth Directive … to be interpreted as precluding the Portuguese tax authorities from requiring the appellant, a holding company, to use the pro rata deduction method for all the VAT incurred in its inputs, on the basis of the fact that the main corporate purpose of that company is the management of shareholdings of other companies, even when such inputs (acquired services) have a direct, immediate and unequivocal link with taxable transactions – supplies of services – which are carried out downstream in the context of the complementary activity of supplying legally permitted, technical management services?
+(2)
+May a body that has the status of a holding company and is subject to VAT on the acquisition of goods and services that are thereupon wholly transmitted to companies in which it has a holding, with payment of the VAT, when that institution combines the main activity it carries out (management of shareholdings) with an accessory activity (supply of technical administration and management services), deduct all the tax incurred in respect of those acquisitions by applying the method of deduction based on actual use set out in Article 17(2) of the Sixth Directive?’
+Consideration of the questions referred
+Admissibility
+As a preliminary point, the Portuguese Government raises the inadmissibility of the reference for a preliminary ruling.
+It argues that the referring court has not identified precisely the rule of national law concerned in the case in the main proceedings. That court merely mentions Articles and of the CIVA, whereas there are different versions of the first of those provisions and the second governs a large number of issues relating to VAT deductions. Furthermore, the order for reference does not contain any precise statement regarding the national legislation on holding companies.
+Although the Court can, in the framework of the judicial cooperation provided for by Article TFEU, provide the national court, on the basis of the material in the file, with such an interpretation as the Court may consider useful for assessing the effects of the provisions of European Union law, no passage in the order for reference sets out, even briefly, a precise statement of the provisions of national law in question in the main proceedings.
+Therefore, according to the Portuguese Government, the insufficiencies noted in the order for reference do not enable the Court to give a useful answer.
+In that connection, the information that must be provided to the Court in an order for reference serves to enable the Court to provide answers which will be of use to the national court. For that purpose, it is necessary that the national court should define the factual and legislative context of the questions which it is asking or, at the very least, explain the factual circumstances on which those questions are based (see, to that effect, Case C-450/Schröder [2011] ECR I-2497, paragraph 18, and Case C-25/Varzim Sol [2012] ECR, paragraph 30).
+In the present case, the order for reference explains that, as regards the deduction of input VAT by the appellant in the main proceedings, the tax authorities impose the pro rata method laid down in Article 23(1) of the CIVA, whereas the appellant in the main proceedings submits that it may use the method provided for in Article 17(2) of the Sixth Directive.
+That information is sufficient with regard to the case-law set out in paragraph of this judgment. It follows that the reference for a preliminary ruling is admissible.
+Substance
+By its questions, which it is appropriate to examine together, the referring court asks essentially whether Article 17(2) and (5) of the Sixth Directive must be interpreted as meaning that a holding company such as that at issue in the main proceedings which, in addition to its main activity of holding all or part of the shares in subsidiary companies, acquires goods and services which it then invoices to those companies is authorised to deduct the amount of input tax paid by applying the method provided for in Article 17(2) of the Sixth Directive or whether it may be required by the national tax authorities to use one of the methods provided for in Article 17(5) thereof.
+In that connection, it must be recalled, first of all, that it is apparent from settled case-law that a holding company whose sole purpose is to acquire holdings in other undertakings and which does not involve itself directly or indirectly in the management of those undertakings does not have the status of taxable person within the meaning of Article of the Sixth Directive and therefore has no right to deduct tax under Article of the Sixth Directive, without prejudice to its rights as a shareholder (see Case C-60/Polysar Investments Netherlands [1991] ECR I-3111, paragraph 17; Case C-142/Floridienne and Berginvest [2000] ECR I-9567, paragraph 17; and Case C-16/Cibo Participations [2001] ECR I-6663, paragraph 18).
+The mere acquisition and the mere holding of shares are not to be regarded as economic activities within the meaning of the Sixth Directive, conferring on the holder the status of taxable person. A mere financial holding in other undertakings does not amount to the exploitation of property for the purpose of obtaining income therefrom on a continuing basis because any dividend yielded by that holding is merely the result of ownership of the property (see Case C-333/Sofitam [1993] ECR I-3513, paragraph 12; Case C-80/Harnas & Helm [1997] ECR I-745, paragraph 15; and Cibo Participations, paragraph 19).
+The position is otherwise where the holding in another company is accompanied by direct or indirect involvement in the management of the company in which the holding has been acquired, without prejudice to the rights held by the holding company as shareholder (Polysar Investments Netherlands, paragraph 14; Floridienne and Berginvest, paragraph 18; Cibo Participations, paragraph 20; and Case C-29/SKF [2009] ECR I-10413, paragraph 30).
+The involvement of a holding company in the management of companies in which it has acquired a shareholding constitutes an economic activity within the meaning of Article 4(2) of the Sixth Directive where it entails carrying out transactions which are subject to VAT by virtue of Article of that directive, such as the supply by a holding company to its subsidiaries of administrative, financial, commercial and technical services (Cibo Participations, paragraph 22).
+Second, it should also be noted that the right to deduct provided for in Article et seq. of the Sixth Directive is an integral part of the VAT scheme and in principle may not be limited. The right to deduct is exercisable immediately in respect of all the taxes charged on transactions relating to inputs (see, in particular, Case C-62/BP Soupergaz [1995] ECR I-1883, paragraph 18; Joined Cases C-110/to C-147/Gabalfrisa and Others [2000] ECR I-1577, paragraph 43; Case C-437/Securenta [2008] ECR I-1597, paragraph 24; and Case C-102/SALIX Grundstücks-Vermietungsgesellschaft [2009] ECR I-4629, paragraph 70). Any limitation of the right to deduct VAT affects the level of the tax burden and must be applied in a similar manner in all the Member States. Consequently, derogations are permitted only in the cases expressly provided for in the Sixth Directive (Case C-97/Lennartz [1991] ECR I-3795, paragraph 27, and BP Soupergaz, paragraph 18).
+For VAT to be deductible, the input transactions must have a direct and immediate link with the output transactions giving rise to a right of deduction. Thus, the right to deduct VAT charged on the acquisition of input goods or services presupposes that the expenditure incurred in acquiring them was a component of the cost of the output transactions that gave rise to the right to deduct (see Cibo Participations, paragraph 31; Case C-465/Kretztechnik [2005] ECR I-4357, paragraph 35; Case C-435/Investrand [2007] ECR I-1315, paragraph 23; Securenta, paragraph 27; and SKF, paragraph 57).
+However, a taxable person also has a right to deduct even where there is no direct and immediate link between a particular input transaction and an output transaction or transactions giving rise to the right to deduct, where the costs of the services in question are part of his general costs and are, as such, components of the price of the goods or services which he supplies. Such costs do have a direct and immediate link with the taxable person’s economic activity as a whole (see, in particular, Kretztechnik, paragraph 36; Investrand, paragraph 24; and SKF, paragraph 58).
+As regards the regime applicable to the right to deduct, in order to give rise to the right to deduct under Article 17(2) of the Sixth Directive, the goods or services acquired must have a direct and immediate link with the output transactions in respect of which VAT is deductible. The ultimate aim pursued by the taxable person is irrelevant in this respect (see Case C-98/Midland Bank [2000] ECR I-4177, paragraph 20; Case C-408/Abbey National [2001] ECR I-1361, paragraph 25; and Cibo Participations, paragraph 28).
+Furthermore, Article 17(5) of the Sixth Directive lays down the rules applicable to the right to deduct VAT where the VAT relates to input transactions used by the taxable person ‘both for transactions covered by paragraphs and 3, in respect of which [VAT] is deductible, and for transactions in respect of which [VAT] is not deductible’, limiting the right of deduction to that proportion of the VAT which is attributable to the former transactions. It follows from that provision that, where a taxable person uses goods and services in order to carry out both transactions in respect of which VAT is deductible and transactions in respect of which it is not, he may deduct only that proportion of the VAT which is attributable to the former (Cibo Participations, paragraphs and 34).
+It follows from that case-law, first, that the deduction system provided for in Article 17(5) of the Sixth Directive only covers cases in which the goods and services are used by a taxable person to carry out both economic transactions which give rise to a right to deduct and those which do not, that is to say, goods and services for mixed use and, second, that Member States may use one of the methods of deduction referred to in the third subparagraph of Article 17(5) only for those goods and services.
+On the other hand, the goods and services which are used by the taxable person solely to carry out economic transactions giving rise to a right to deduct do not fall within the scope of Article 17(5) of the Sixth Directive, but are covered, as regards the deduction system, by Article 17(2) thereof.
+Finally, the Court has held that the rules in Article 17(5) of the Sixth Directive concern the input tax chargeable on expenses relating exclusively to economic transactions and that the determination of the methods and criteria for apportioning input VAT between economic and non-economic activities within the meaning of the Sixth Directive is in the discretion of the Member States which, when exercising that discretion, must have regard to the aims and broad logic of the directive and, on that basis, provide for a method of calculation which objectively reflects the part of the input expenditure actually to be attributed, respectively, to those two types of activity (Securenta, paragraphs and 39).
+Portugal Telecom submits that the national tax authorities maintain that, having regard to their character as ancillary to the main activity, the supplies of technical administration and management services are indissociable from the management of shares. Therefore, the services acquired by SGPS and provided to their subsidiaries are regarded as mixed transactions for the purposes of the right to deduct VAT and those authorities impose the pro rata method of deduction.
+If the position of the tax authorities is indeed as described in the previous paragraph, which is for the referring court to ascertain, it should be observed that the deduction system is meant to relieve the trader entirely of the burden of the VAT payable or paid in the course of all his economic activities. The common system of VAT consequently ensures complete neutrality of taxation of all economic activities, whatever their purpose or results, provided that they are themselves subject in principle to VAT (see Midland Bank, paragraph 19; Abbey National, paragraph 24; Cibo Participations, paragraph 27; Kretztechnik, paragraph 34; and Investrand, paragraph 22).
+If the input services were to be regarded, overall, as having a direct and immediate link with the output economic transactions giving rise to a right to deduction, the taxable person concerned would be entitled, pursuant to Article 17(2) of the Sixth Directive, to deduct all the VAT chargeable on the relevant input services acquired. That right to deduct cannot be limited simply because, on account of the purpose or general activity of those companies, the national legislation treats the taxed transactions as ancillary to their main activity.
+When those services are used in order to perform both transactions in respect of which VAT is deductible and transactions in respect of which VAT is not deductible, the deduction is allowed only for the part of the VAT which is proportionate to the amount attributable to the former transactions and Member States are authorised to provide for one of the methods of determining the right to deduction set out in Article 17(5) of the Sixth Directive.
+Finally, where the services are used both for economic and non-economic activities, Article 17(5) of the Sixth Directive is not applicable and the methods of deduction and apportionment are defined by the Member States, in accordance with the criteria set out in paragraph of this judgment.
+It is for the referring court to determine whether the services at issue in the main proceedings have, overall, a direct and immediate link with the output economic transactions giving rise to the right to deduct or whether those services are used by the taxable person in order to perform both economic transactions giving rise to a right to deduct and economic transactions not giving rise to that right or if those services are used by the taxable person, both for economic transactions and non-economic transactions.
+It follows from all the foregoing considerations that the answer to the questions referred is that Article 17(2) and (5) of the Sixth Directive must be interpreted as meaning that a holding company such as that at issue in the main proceedings which, in addition to its main activity of managing shares in companies in which it holds all or part of the share capital, acquires goods and services which it subsequently invoices to those companies is authorised to deduct the amount of input VAT provided that the input services acquired have a direct and immediate link with the output economic transactions giving rise to a right to deduct. Where those goods and services are used by the holding company in order to perform both economic transactions giving rise to a right to deduct and economic transactions which do not, the deduction is allowed only in respect of the part of the VAT which is proportional to the amount relating to the former transactions and the national tax authorities are authorised to provide for one of the methods for determining the right to deduct in Article 17(5). Where those goods and services are used both for economic and non-economic activities, Article 17(5) of the Sixth Directive is not applicable and the methods of deduction and apportionment are to be defined by the Member States which, in exercising that power, must take account of the purpose and general scheme of the Sixth Directive and, on that basis, lay down a method of calculation which objectively reflects the input expenditure actually attributed to each of those two activities.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Article 17(2) and (5) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment must be interpreted as meaning that a holding company such as that at issue in the main proceedings which, in addition to its main activity of managing shares in companies in which it holds all or part of the share capital, acquires goods and services which it subsequently invoices to those companies is authorised to deduct the amount of input VAT provided that the input services acquired have a direct and immediate link with the output economic transactions giving rise to a right to deduct. Where those goods and services are used by the holding company in order to perform both economic transactions giving rise to a right to deduct and economic transactions which do not, the deduction is allowed only in respect of the part of the VAT which is proportional to the amount relating to the former transactions and the national tax authorities are authorised to provide for one of the methods for determining the right to deduct in Article 17(5). Where those goods and services are used both for economic and non-economic activities, Article 17(5) of the Sixth Directive is not applicable and the methods of deduction and apportionment are to be defined by the Member States which, in exercising that power, must take account of the purpose and general scheme of the Sixth Directive and, on that basis, lay down a method of calculation which objectively reflects the input expenditure actually attributed to each of those two activities.
+ 
+[Signatures]
+(
+*)   Language of the case: Portuguese.
+Top  
+ 

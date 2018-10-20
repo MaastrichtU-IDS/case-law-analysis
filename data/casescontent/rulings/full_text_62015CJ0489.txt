@@ -1,0 +1,358 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Rail transport — Directive 2001/14/EC — Infrastructure charges — Pricing — National regulatory body monitoring the conformity of those infrastructure charges with that directive — Contract for use of infrastructure concluded between a railway infrastructure manager and a railway undertaking — Principle of non-discrimination — Reimbursement of the charges without intervention by that body and outside the claims procedures involving it — National legislation enabling the civil courts to set a fair amount in the case of unfair charges)
+In Case C‑489/15,
+REQUEST for a preliminary ruling under Article TFEU from the Landgericht Berlin (Regional Court, Berlin, Germany), made by decision of September 2015, received at the Court on September 2015, in the proceedings
+CTL Logistics GmbH
+v
+DB Netz AG,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger (Rapporteur) and F. Biltgen, Judges,
+Advocate General: P. Mengozzi,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on July 2016,
+after considering the observations submitted on behalf of:
+–
+CTL Logistics GmbH, by K.-P. Langenkamp, Rechtsanwalt,
+–
+DB Netz AG, by M. Kaufmann and T. Schmitt, Rechtsanwälte,
+–
+the German Government, by T. Henze and J. Möller, acting as Agents,
+–
+the European Commission, by W. Mölls and J. Hottiaux, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles 4(1) and (5), 6(1), 8(1) and 30(1) to (3), (5) and (6) of Directive 2001/14/EC of the European Parliament and of the Council of February on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure (OJ L 75, p. 29), as amended by Directive 2004/49/EC of the European Parliament and of the Council of April (OJ L 220, p. 16) (‘Directive 2001/14’).
+The request has been made in proceedings between CTL Logistics GmbH and DB Netz AG concerning the reimbursement of cancellation and modification charges in connection with the use of the rail infrastructure managed by DB Netz.
+Legal context
+European Union law
+Recitals 5, 7, 11, 12, 16, 20, to 35, and of Directive 2001/set out the directive’s objectives as regards the charges for use of infrastructure as follows:
+‘(5)
+To ensure transparency and non-discriminatory access to rail infrastructure for all railway undertakings all the necessary information required to use access rights are to be published in a network statement.
+…
+(7)
+Encouraging optimal use of the railway infrastructure will lead to a reduction in the cost of transport to society.
+…
+(11)
+The charging and capacity-allocation schemes should permit equal and non-discriminatory access for all undertakings and should attempt, as far as possible, to meet the needs of all users and traffic types in a fair and non-discriminatory manner.
+(12)
+Within the framework set out by Member States charging and capacity-allocation schemes should encourage railway infrastructure managers to optimise use of their infrastructure.
+…
+(16)
+Charging and capacity allocation schemes should allow for fair competition in the provision of railway services.
+…
+(20)
+It is desirable to grant some degree of flexibility to infrastructure managers to enable a more efficient use to be made of the infrastructure network.
+…
+(32)
+It is important to minimise the distortions of competition which may arise, either between railway infrastructures or between transport modes, from significant differences in charging principles.
+…
+(34)
+Investment in railway infrastructure is desirable and infrastructure charging schemes should provide incentives for infrastructure managers to make appropriate investments where they are economically attractive.
+(35)
+Any charging scheme will send economic signals to users. It is important that those signals to railway undertakings should be consistent and lead them to make rational decisions.
+…
+(40)
+A railway infrastructure is a natural monopoly. It is therefore necessary to provide infrastructure managers with incentives to reduce costs and manage their infrastructure efficiently.
+…
+(46)
+The efficient management and fair and non-discriminatory use of rail infrastructure require the establishment of a regulatory body that oversees the application of these Community rules and acts as an appeal body, notwithstanding the possibility of judicial review.’
+Article 1(1) of Directive 2001/provides:
+‘This directive concerns the principles and procedures to be applied with regard to the determination and charging of railway infrastructure charges and the allocation of railway infrastructure capacity.
+Member States shall ensure that charging and capacity-allocation schemes for railway infrastructure follow the principles set down in this directive and thus allow the infrastructure manager to market and make optimum effective use of the available infrastructure capacity.’
+Article of that directive, entitled ‘Network statement’, provides:
+‘1.   The infrastructure manager shall, after consultation with the interested parties, develop and publish a network statement obtainable against payment of a duty which may not exceed the cost of publishing that statement.
+2.   The network statement shall set out the nature of the infrastructure which is available to railway undertakings. It shall contain information setting out the conditions for access to the relevant railway infrastructure. The content of the network statement is laid down in Annex I.
+3.   The network statement shall be kept up to date and amended as necessary.
+4.   The network statement shall be published no less than four months in advance of the deadline for requests for infrastructure capacity.’
+Chapter II of that directive, which comprises Articles to thereof, concerns ‘Infrastructure charges’.
+Article of the directive, entitled ‘Establishing, determining and collecting charges’, provides in paragraphs (1), (4) and (5):
+‘1.   Member States shall establish a charging framework while respecting the management independence laid down in Article of [Council Directive 91/440/EEC of July on the development of the Community’s railways (OJ L 237, p. 25)].
+Subject to the said condition of management independence, Member States shall also establish specific charging rules or delegate such powers to the infrastructure manager. The determination of the charge for the use of infrastructure and the collection of this charge shall be performed by the infrastructure manager.
+…
+4.   Except where specific arrangements are made under Article 8(2), infrastructure managers shall ensure that the charging scheme in use is based on the same principles over the whole of their network.
+5.   Infrastructure managers shall ensure that the application of the charging scheme results in equivalent and non-discriminatory charges for different railway undertakings that perform services of equivalent nature in a similar part of the market and that the charges actually applied comply with the rules laid down in the network statement.’
+Articles to of Directive 2001/establish the charges that may be levied and how they are to be calculated.
+Article of Directive 1999/31, entitled ‘Principles of charging’, provides in paragraphs (3) and (5) thereof:
+‘3.   Without prejudice to paragraphs or or to Article 8, the charges for the minimum access package and track access to service facilities shall be set at the cost that is directly incurred as a result of operating the train service.
+4.   The infrastructure charge may include a charge which reflects the scarcity of capacity of the identifiable segment of the infrastructure during periods of congestion.
+5.   The infrastructure charge may be modified to take account of the cost of the environmental effects caused by the operation of the train. Such a modification shall be differentiated according to the magnitude of the effect caused.
+Charging of environmental costs which results in an increase in the overall revenue accruing to the infrastructure manager shall however be allowed only if such charging is applied at a comparable level to competing modes of transport.
+In the absence of any comparable level of charging of environmental costs in other competing modes of transport, such modification shall not result in any overall change in revenue to the infrastructure manager. If a comparable level of charging of environmental costs has been introduced for rail and competing modes of transport and that generates additional revenue, it shall be for Member States to decide how the revenue shall be used.’
+Article of that directive, entitled ‘Exceptions to charging principles’, provides in paragraphs (1) and (2):
+‘1.   In order to obtain full recovery of the costs incurred by the infrastructure manager a Member State may, if the market can bear this, levy mark-ups on the basis of efficient, transparent and non-discriminatory principles, while guaranteeing optimum competitiveness in particular of international rail freight. The charging system shall respect the productivity increases achieved by railway undertakings.
+The level of charges must not, however, exclude the use of infrastructure by market segments which can pay at least the cost that is directly incurred as a result of operating the railway service, plus a rate of return which the market can bear.
+2.   For specific investment projects, in the future, or that have been completed not more than years before the entry into force of this Directive, the infrastructure manager may set or continue to set higher charges on the basis of the long-term costs of such projects if they increase efficiency and/or cost-effectiveness and could not otherwise be or have been undertaken. Such a charging arrangement may also incorporate agreements on the sharing of the risk associated with new investments.’
+Article 9(5) of the directive provides:
+‘Similar discount schemes shall apply for similar services.’
+Article of Directive 2001/14, entitled ‘Reservation charges’, reads as follows:
+‘Infrastructure managers may levy an appropriate charge for capacity that is requested but not used. This charge shall provide incentives for efficient use of capacity.
+The infrastructure manager shall always be able to inform any interested party of the infrastructure capacity which has been allocated to user railway undertakings.’
+Article of Directive 2001/14, entitled ‘Regulatory body’, which forms part of Chapter IV, entitled ‘General measures’, provides:
+‘1.   Without prejudice to Article 21(6), Member States shall establish a regulatory body. This body, which can be the Ministry responsible for transport matters or any other body, shall be independent in its organisation, funding decisions, legal structure and decision-making from any infrastructure manager, charging body, allocation body or applicant. The body shall function according to the principles outlined in this Article whereby appeal and regulatory functions may be attributed to separate bodies.
+2.   An applicant shall have a right to appeal to the regulatory body if it believes that it has been unfairly treated, discriminated against or is in any other way aggrieved, and in particular against decisions adopted by the infrastructure manager or where appropriate the railway undertaking concerning:
+(a)
+the network statement;
+(b)
+criteria contained within it;
+(c)
+the allocation process and its result;
+(d)
+the charging scheme;
+(e)
+[the] level or structure of infrastructure fees which it is, or may be, required to pay;
+…
+3.   The regulatory body shall ensure that charges set by the infrastructure manager comply with Chapter II and are non-discriminatory. Negotiations between applicants and an infrastructure manager concerning the level of infrastructure charges shall only be permitted if these are carried out under the supervision of the regulatory body. The regulatory body shall intervene if negotiations are likely to contravene the requirements of this directive.
+4.   The regulatory body shall have the power to request relevant information from the infrastructure manager, applicants and any third party involved within the Member State concerned, which must be supplied without undue delay.
+5.   The regulatory body shall be required to decide on any complaints and take action to remedy the situation within a maximum period of two months from receipt of all information.
+Notwithstanding paragraph (6), a decision of the regulatory body shall be binding on all parties covered by that decision.
+In the event of an appeal against a refusal to grant infrastructure capacity, or against the terms of an offer of capacity, the regulatory body shall either confirm that no modification of the infrastructure manager’s decision is required, or it shall require modification of that decision in accordance with directions specified by the regulatory body.
+6.   Member States shall take the measures necessary to ensure that decisions taken by the regulatory body are subject to judicial review.’
+In accordance with Annex I to Directive 2001/14, to which Article 3(2) thereof refers, the network statement is to include, inter alia, the following information:
+‘…
+2.   A section on charging principles and tariffs. This shall contain appropriate details of the charging scheme as well as sufficient information on charges that apply to the services listed in Annex II which are provided by only one supplier. It shall detail the methodology, rules and, where applicable, scales used for the application of Article 7(4) and (5) and Articles and 9. It shall contain information on changes in charges already decided upon or foreseen.
+…’
+German law
+The Allgemeines Eisenbahngesetz
+Paragraph 14(4) to (6) of the Allgemeines Eisenbahngesetz (General Railways Law) of December (BGBl. 1993, I, P. 2378), in the version resulting from the Law of July (BGBl. 2009, I, p. 2542; ‘the AEG’), provides:
+‘(4)   Railway managers must set their charges in accordance with an order adopted under points and of Paragraph 26(1) in such a way as to offset the costs they incur in order to provide statutory services within the meaning of the first sentence of Paragraph 26(1), plus a rate of return which the market can bear. In that context, they may set and recover mark-ups directly connected with the operation of the railway and may draw a distinction between long-distance rail passenger transport services, short-distance rail passenger transport services and freight transport services, as well as between market segments within each of those types of service, and they shall ensure that services, in particular in the field of international rail freight transport, are competitive. However, in the case referred to in the second sentence above, the charges for any market segment shall not exceed the rail transport costs directly incurred plus a profit margin at the market rate. Under Paragraph 26(1)(6) and (7),
+1.
+exceptions to the calculation methods for the charges under the first sentence may be accepted if the obligation to cover the costs is met in addition, or
+2.
+the supervisory body may, by general provisions adopted in agreement with the Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Federal Regulatory Agency for Electricity, Gas, Telecommunications, Post and Railways), the regulatory body, exempt all railway managers from compliance with the requirements of the first sentence.
+(5)   The railway infrastructure management undertakings shall set their charges for access to the installations, including the services appertaining thereto, in such a way as not to cause wrongful interference with the competitiveness of the holders of access permits. Wrongful interference shall be found in particular where:
+1.
+the manager claims charges which inappropriately exceed the costs incurred for the supply of the services referred to in the first sentence, or
+2.
+some holders of access permits are favoured over other holders of access permits without justification.
+(6)   The details of access, in particular as regards the time and duration of use, as well as charges to be paid and other conditions of use including provisions concerning operational safety, are to be agreed between persons having access rights and railway infrastructure undertakings in accordance with the regulations referred to in subparagraph 1.’
+Paragraph 14b(1) of the AEG, in the version in force at the date of the facts material to the main proceedings, provides:
+‘The regulatory body is required to ensure compliance with the provisions of the railway legislation governing access to the railway infrastructure, in particular as regards:
+1.
+the setting of the working timetable, in particular as regards the decisions on the allocation of train paths in the working timetable, including the statutory services;
+2.
+the other decisions concerning the allocation of train paths, including the statutory services;
+3.
+access to service facilities, including the related services;
+4.
+the conditions of use, the charging principles and the amount of the charge.’
+Paragraph 14c of the AEG, in the version in force at the date of the facts material to the main proceedings, provides:
+‘(1)   The regulatory body may, in the exercise of its tasks vis-à-vis public undertakings which are railway infrastructure managers, adopt the measures necessary to end infringements found or to prevent future infringements of the provisions of the railway legislation concerning access to the railway infrastructures.
+(2)   Access permit holders, public undertakings which are railway infrastructure managers and persons acting on their behalf shall be required, in order to enable the regulatory body and its agents to carry out their task, to allow them:
+1.
+to enter the premises and operating installations during normal opening and service hours, and
+2.
+to consult the books, commercial documents, databases and other documents and to make them available on an appropriate data carrier.
+(3)   Access permit holders, public undertakings which are railway infrastructure managers and persons acting on their behalf shall undertake, in order to enable the regulatory body and its agents to carry out their task, to:
+1.
+provide them with the necessary information;
+2.
+communicate the necessary elements to them;
+3.
+give them any assistance necessary.
+That shall apply in particular as regards pending or closed negotiations concerning the amount of charges for use of the infrastructures and other charges. They shall provide truthful information in good faith. Persons required to communicate information may refuse to divulge information which would expose them, or would expose the persons referred to in Paragraph 383(1)(1) to (3) of the Code of Civil Procedure, to a risk of criminal proceedings or proceedings for infringement.
+(4)   The regulatory body may execute its decision under this Law in accordance with the provisions governing the execution of administrative measures. The penalty shall be fixed at a maximum amount of EUR 500000.’
+Paragraph 14d of the AEG, in the version in force at the date of the facts material to the main proceedings, states:
+‘(1)   Public undertakings which are railway infrastructure managers shall inform the regulatory body regarding:
+1.
+any proposed decision concerning the allocation of train paths in the working timetable, including the statutory services, where applications must be rejected;
+2.
+any proposed decision concerning the allocation of train paths, including the statutory services, other than the drafting of the working timetable, where applications must be rejected;
+3.
+any proposed decision concerning the access to service facilities, including the related services, where applications must be rejected;
+4.
+any proposed decision concerning the conclusion of a framework agreement;
+5.
+any proposed decision to request an access permit holder to propose a tariff higher than the tariff which should be applied on the basis of the conditions of use of the railway network;
+6.
+any proposed redrafting of or amendment to the conditions of use of the rail network or conditions of use of the service facilities, including the charging principles and at the amount of the charge.
+The decisions proposed under points to of the first sentence must be reasoned. In addition, railway managers must establish that their pricing complies with the provisions of Paragraph 14(4).’
+Paragraph 14e of the AEG, in the version in force at the date of the facts material to the main proceedings, states:
+‘(1)   After receipt of a notice under Paragraph 14d, the regulatory body may object …:
+1.
+to a draft decision under Paragraph 14d, first sentence, points 1, 3, and 5, within working days,
+2.
+to a draft decision under Paragraph 14d, first sentence, point 2, within one working day,
+3.
+to a draft decision under Paragraph 14d, first sentence, point 4, within four weeks,
+4.
+to a proposed redrafting or amendment under Paragraph 14d, first sentence, point 6, within four weeks,
+in so far as the proposed decisions infringe the provisions of the railway legislation concerning access to the railway infrastructure.
+(2)   Before expiry of the time limit fixed:
+1.
+in subparagraph 1, points to 3, the proposed decision cannot validly be communicated to the access permit holders;
+2.
+in subparagraph 1, point 4, the conditions of use of the rail network or conditions of use of the service facilities, including the charging principles and the amount of the charge cannot enter into force.
+(3)   If the regulatory body exercises its right of rejection:
+1.
+in the situation referred to in subparagraph 1, points to 3, a decision which complies with the instructions of the regulatory body must be adopted;
+2.
+in the situation referred to in subparagraph 1, point 4, that shall prevent the entry into application of the conditions of use of the rail network or service facilities, including the charging principles and the charges.
+(4)   The regulatory body may wholly or in part dispense with the notice provided for in Paragraph 14d. It may restrict that dispensation to certain public undertakings which are railway infrastructure managers. That shall apply in particular where there is no risk of a distortion of competition.’
+Paragraph 14f of the AEG provides:
+‘(1)   The regulatory body may check of its own motion:
+1.
+the conditions of use of the rail network and the conditions of use of the service facilities,
+2.
+the provisions concerning the amount or structure of the charges for use and other charges of the railway infrastructure management undertakings.
+The regulatory body may, in future,
+1.
+require the railway infrastructure management undertakings to amend, in accordance with its indications, the conditions referred to in the first sentence, point 1, or the pricing rules referred to in the first sentence, point 2, or
+2.
+annul the conditions referred to in the first sentence, point 1, or the pricing rules referred to in the first sentence, point 2, or
+In so far as those conditions infringe the provisions of the railway legislation concerning access to the railway infrastructure.
+(2)   In the absence of agreement on access, under Paragraph 14(6), or a framework agreement, under Paragraph 14a, the decisions of the railway infrastructure undertaking may be checked by the regulatory body on request or of its own motion. Applications in that regard may be made by the holders of access permits whose right of access to railway infrastructure may be affected. The applications must be made within the time limit within which a proposal for the conclusion of an agreement may be accepted in accordance with the first sentence. The check may involve, inter alia:
+1.
+the conditions of use of the rail network and the conditions of use of the service facilities,
+2.
+the allocation process and its result;
+3.
+the amount and structure of the charges for use and other charges.
+The regulatory body shall request the parties to submit all useful information within a reasonable time which may not exceed two weeks. The regulatory body shall give its ruling within two months of the expiry of that two-week time limit.
+(3)   If, in the situation referred to in subparagraph 2, the decision of a railway infrastructure undertaking affects the candidate’s right of access to the railway infrastructure,
+1.
+the regulatory body shall require the railway infrastructure undertaking to amend its decision, or
+2.
+the regulatory body shall itself lay down the contract terms, rule on the validity of the contract and declare contracts which do not comply with the terms in question invalid.’
+The Eisenbahninfrastruktur-Benutzungsverordnung
+Paragraph of the Eisenbahninfrastruktur-Benutzungsverordnung (Regulation on the use of the railway infrastructure) of June (BGBl. 2005, I, p. 1566), in the version amended on June (BGBl. 2009, I, p. 1235; ‘the EIBV’), provides:
+‘(1)   The rail network operator shall be required to set the conditions for use (conditions for use of the rail network) applicable to the supply of the services referred to in Annex 1, point 1, and:
+1.
+to publish them in the Official Journal, or
+2.
+to publish them on the internet and state in the Official Journal the address at which they may be consulted.
+At the request of the holders of access permits, the rail network manager shall send them, at their expense, the conditions of use of the rail network.
+(2)   The conditions of use of the rail network must contain at least the statements referred to in Annex and in the other provisions of this regulation, and the general conditions of use of train paths. The tariff table shall not form part of the conditions of use of the rail network.
+…
+(5)   The conditions of use of the rail network must be published at least four months before expiry of the time limit set in point of Paragraph 8(1) for the submission of applications for train path allocations in the working timetable. The conditions of use of the rail network shall enter into force before expiry of the time limit set in point of Paragraph 8(1) for the submission of applications.
+(6)   The conditions of use of the rail network shall apply equally to all applicants. They shall be binding upon all stakeholders and shall be without prejudice to the general conditions which they contain. ...’
+Paragraph of the EIBV states:
+‘(1)   The railway manager must structure the charges for its mandatory services so that, through a performance scheme, they encourage rail transport undertakings and rail network operators to minimise disruption and improve the performance of the rail network. The principles of pricing according to performance shall apply to the entire rail network of the rail network operator.
+(2)   The charge for use may include a charge to take account of the effects on the environment of railway operation and it is appropriate to draw a distinction in that context according to the effects produced on the environment. That shall not have the consequence of changing the overall profit of the rail network operator.
+(3)   The charge for use may include a charge which reflects the scarcity of capacity of a specific section of the infrastructure during periods of congestion.
+(4)   If the transport service entails additional costs compared with other transport services, those costs may be taken into account only with regard to that transport service.
+(5)   In order to prevent large and disproportionate variations, the charges referred to in subparagraphs and and the charges in respect of the statutory services may be extended over appropriate periods.
+(6)   If there is no contrary provision in this regulation, the charges must be calculated in the same way for each holder of an access permit. The charges must be reduced if the rail networks, switch and safety systems or the related tube supply installations of some sections are not in a condition complying with the provisions of the contract.
+(7)   The charges received by the operator of the rail network must be published or communicated in accordance with Paragraph 4(1) one month before the start of the time limit referred to in point of Paragraph 8(1). They shall apply for the entirety of the new working timetable period.’
+The Civil Code
+Paragraph of the Bürgerliches Gesetzbuch (Civil Code; ‘the BGB’), entitled ‘Specification of performance by one party’, provides, in subparagraphs and 3:
+‘(1)   Where performance is to be specified by one of the parties to the contract, then in case of doubt it is to be assumed that the specification is to be made at the reasonably exercised discretion of the party making it.
+…
+(3)   Where the specification is to be made at the reasonably exercised discretion of a party, the specification made is binding on the other party only if it is equitable. If it is not equitable, the determination shall be effected by judgment ...’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+CTL Logistics is a private railway transport undertaking which uses the railway infrastructure manages by DB Netz, an authorised public undertaking.
+DB Netz makes the use of its own railway infrastructure available to its customers in exchange for payment on the basis of ‘infrastructure usage agreements’. Those contracts are standard contracts which govern the principles concerning the contractual relation existing between the railway transport undertakings and DB Netz and which constitute the basis of the individual infrastructure usage agreements, concluded in respect of the use of the train paths. The terms of those standard contracts are included in each individual contract.
+Under such infrastructure usage agreements, use of the DB Netz railway network was made subject to the payment by CTL Logistics of train path prices calculated on the basis of the price list in force. The train path price lists, also known as the ‘train path pricing system’ (‘TPS’), are fixed by DB Netz in advance for given periods of time, without the involvement of the rail transport undertakings.
+The parties are in dispute over certain cancellation and modification charges which DB Netz unilaterally included in the TPS and which applied whenever CTL Logistics sought to modify or cancel a previously booked train path. Between and 2011, CTL Logistics paid the amounts due under the TPS, then, however, decided to demand their reimbursement.
+To that end, CTL Logistics, without first contacting the regulatory body, brought an action before the Landgericht Berlin (Regional Court, Berlin, Germany).
+According to that company, the cancellation and modification charges at issue were set unilaterally and unreasonably by DB Netz. By application of Paragraph of the BGB, the setting of those duties by DB Netz is without effect and it is for the courts to set a charge the amount of which will be assessed at their reasonably exercised discretion. In the company’s view, the amounts paid in excess of that charge have no basis in law and must be recovered.
+The referring court confirms that, in accordance with the case-law of the courts of appeal and the Bundesgerichtshof (Federal Court of Justice, Germany), the civil courts are in effect authorised, in cases such as that of the main proceedings, to examine the defendant’s TPS in the light of its fairness and to adopt, if necessary, their own decisions by making an assessment at their reasonably exercised discretion. In accordance with that case-law, neither the AEG nor the EIBV precludes a review, under civil law, on the basis of Paragraph of the BGB, given that the determination of the charge for the use of railway infrastructure allows for some flexibility related to private autonomy, despite the reviews carried out by the regulatory body.
+Furthermore, according to that court, for procedural reasons, a concomitant application of Paragraph of the BGB and the German railway legislation is necessary. The action brought under Paragraph of the BGB of necessity entails a review of the amount of the charge set by the railway infrastructure manager undertaking and, if necessary, a reduction in it to the ceiling found after an equitable assessment, with ex tunc effect.
+However, the referring court is of the view that a review of its equity, made by virtue of Paragraph of the BGB, with a concomitant application of the requirements of Directive 2001/14, is not possible. In its view, application of Paragraph assumes de facto a regulatory function, which is not compatible with the principle of reference to a single regulatory body pursuant to the first sentence of Article 30(1) of that directive and which does not take sufficient account of the principles set out in that directive concerning the calculation of the charges for the use of the infrastructure.
+In those circumstances, the Landgericht Berlin (Regional Court, Berlin) decided to stay its proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Are the provisions of EU law, in particular Article 30(1) (first sentence), (2), (3), (5) (first subparagraph), and (6) of [Directive 2001/14], to be interpreted as precluding claims for repayment of charges for the use of railway infrastructure agreed or specified in a framework contract between an infrastructure manager and an applicant, insofar as such claims are not made in accordance with the procedures provided for before the national regulatory body and the corresponding judicial proceedings in which decisions of that regulatory body were reviewed?
+(2)
+Are the provisions of EU law, in particular Article 30(1) (first sentence), (2), (3), (5) (first subparagraph), and (6) of [Directive 2001/14], to be interpreted as precluding claims for repayment of charges for the use of railway infrastructure agreed or specified in a framework contract between an infrastructure manager and an applicant if the disputed charges have not previously been submitted to the national regulatory body for review?
+(3)
+Is it compatible with the requirements of EU law, which requires an infrastructure manager to comply with general requirements for determining charges, such as covering costs (Article 6(1) of [Directive 2001/14]) or taking into account market sustainability criteria (Article 8(1) of [Directive 2001/14]), for there to be a review in the civil courts of the equitable nature of charges for the use of railway infrastructure on the basis of a national civil law provision which permits the courts to review the fairness of performance unilaterally specified by one of the parties and, where appropriate, to specify performance themselves in the exercise of their own discretion?
+(4)
+If question is answered in the affirmative: in exercising its discretion, must the civil court apply the criteria in [Directive 2001/14] as regards the determination of charges for the use of railway infrastructure, and, if so, which ones?
+(5)
+Is the assessment by the civil courts of the fairness of charges on the basis of the national provision referred to in question compatible with EU law in so far as the civil courts set charges which depart from the general charging principles and the amounts of the charges of a railway manager, notwithstanding the fact that that railway manager is obliged by EU law to treat all persons entitled to access equally and in a non-discriminatory manner (Article 4(5) of [Directive 2001/14])?
+(6)
+Is the review by the civil courts of the equitable nature of charges imposed by an infrastructure manager compatible with EU law taking into account the fact that EU law assumes that it is the regulatory body that is competent to determine differences of opinion between an infrastructure manager and a person entitled to access as regards charges for the use of railway infrastructure, or the amount or structure of such charges, which the person entitled to access is or would be obliged to pay (third subparagraph of Article 30(5) of [Directive 2001/14]), and the fact that the potentially large number of disputes before different civil courts means that the regulatory body would not be able to ensure the uniform application of railway regulatory law (Article 30(3) of [Directive 2001/14])?
+(7)
+Is it compatible with EU law, in particular Article 4(1) of [Directive 2001/14], for national provisions to require that all charges for the use of railway infrastructure imposed by infrastructure managers be calculated solely on the basis of direct costs?’
+Consideration of the questions referred
+The first, second, fifth and sixth questions
+By its first, second, fifth and sixth questions, which it is appropriate to consider together, the referring court asks, in essence, whether the provisions of Directive 2001/14, in particular Article 4(5) and Article 30(1), (3), (5) and (6) thereof, must be interpreted as meaning that they preclude the application of national legislation, such as that at issue in the main proceedings, which provides for a review of the equity of charges for the use of railway infrastructure, on a case-by-case basis, by the ordinary courts and the possibility, if necessary, of amending the amount of those charges, independently of the monitoring carried out by the regulatory body provided for in Article of that directive.
+As a preliminary point, in order to answer that question, it is appropriate to recall the objectives pursued by Directive 2001/and the principles and material and formal requirements which it lays down as regards the charges for the use of railway infrastructure.
+Objectives pursued by Directive 2001/The objectives pursued by Directive 2001/include, in particular, that of ensuring non-discriminatory access to the infrastructure, as is set out, inter alia, in recitals and of that directive (see, to that effect, judgments of February 2013, Commission v Hungary, C‑473/10, EU:C:2013:113, paragraph 47, and of April 2013, Commission v France, C‑625/10, EU:C:2013:243, paragraph 49).
+In addition, Directive 2001/pursues the objective of ensuring fair competition. Recital of that directive states, in that regard, that charging and capacity allocation schemes should allow for fair competition in the provision of railway services.
+The charging system introduced by Directive 2001/as a management tool also serves to ensure pursuit of another objective, namely that of the independence of the infrastructure manager (see, to that effect, judgments of February 2013, Commission v Spain, C‑483/10, EU:C:2013:114, paragraph 44, and of February 2013, Commission v Germany, C‑556/10, EU:C:2013:116, paragraph 82).
+Furthermore, by virtue of recital of that directive, in order to achieve the objective of ensuring efficient use of the railway infrastructure, it is appropriate that those systems encourage railway infrastructure managers to optimise use of their infrastructure within the framework set out by Member States (see to that effect, judgment of February 2013, Commission v Germany, C‑556/10, EU:C:2013:116, paragraph 82).
+In order to achieve that objective, the infrastructure managers must be granted some degree of flexibility, as mentioned in recital of Directive 2001/(see, to that effect, judgments of February 2013, Commission v Spain, C‑483/10, EU:C:2013:114, paragraph 44, and of February 2013, Commission v Germany, C‑556/10, EU:C:2013:116, paragraph 82).
+Similarly, recital of that directive states that investment in railway infrastructure is desirable and infrastructure charging schemes should provide incentives for infrastructure managers to make appropriate investments where they are economically attractive. There can be no incentive for managers to invest in infrastructure unless the charging scheme affords them a certain degree of flexibility (judgment of February 2013, Commission v Spain, C‑483/10, EU:C:2013:114, paragraph 45).
+Finally, since the railway infrastructure is a monopoly, recital of that directive states that it is, therefore, necessary to provide infrastructure managers with incentives to reduce costs and manage their infrastructure efficiently.
+The efficient management and fair and non-discriminatory use of railway infrastructure require, according to recital to that directive, the establishment of a regulatory body that oversees the application of these EU law rules and acts as an appeal body, notwithstanding the possibility of judicial review.
+The material principles set out in Directive 2001/In accordance with the second subparagraph of Article 1(1) of Directive 2001/14, to allow the railway infrastructure manager to market and make optimum effective use of it, Member States are to ensure that charging and capacity-allocation schemes for railway infrastructure follow the principles set out in that directive.
+In that regard, since the prerequisite for creating fair competition in the sector of the supply of railway services is equal treatment of railway undertakings, the infrastructure manager must ensure, by virtue of Article 4(5) of that directive, that the application of the charging scheme is applied in such a way that different railway undertakings which perform services of an equivalent nature in a similar part of the market are subject to equivalent and non-discriminatory charges and that the charges actually applied comply with the rules laid down in the rail network statement.
+It must be borne in mind that that provision implements the principle stated in recital of that directive, that the charging and capacity-allocation schemes must permit equal and non-discriminatory access for all undertakings and attempt, as far as possible, to meet the needs of all users and traffic types in a fair and non-discriminatory manner.
+That principle, which follows from recital and Article 9(5) of that directive providing that similar reduction schemes apply to similar services, accordingly constitutes the central criterion for the determination and recovery of the charge for use of the infrastructure.
+In order to guarantee the objective thus pursued and for the sake of transparency, Article of Directive 2001/14, which repeats the content of recital thereof, requires the infrastructure manager to draw up and publish a network statement indicating, in particular, in accordance with Annex I to Directive 2001/14, the charging principles and levels.
+Also in the context of the determination and collection of the charges for use of the railway infrastructure, the second subparagraph of Article 4(1) of Directive 2001/provides that the determination and collection of the charge for use of the railway infrastructure are tasks to be performed by the infrastructure managers, who are required to ensure the application of uniform principles, as provided for particularly in Article 4(4) and (5) of that directive (see, to that effect, judgments of February 2013, Commission v Germany, C‑556/10, EU:C:2013:116, paragraph 84, and of October 2013, Commission v Italy, C‑369/11, EU:C:2013:636, paragraph 41).
+Accordingly, the infrastructure managers, who are required to set and collect the charges in a non-discriminatory manner, must not only apply the rail network conditions of use in an equal manner to all users of that network, but must also ensure that the charges actually received meet those conditions.
+The principle of non-discrimination established by Directive 2001/14, set out above, is the corollary of the discretion conferred by that directive for the determination and collection of the charges for the use of the railway infrastructure. In addition to the discretion conferred on the Member States to transpose and apply the provisions of Article et seq. of Directive 2001/14, the second subparagraph of Article 4(1) thereof provides, in that regard, that the calculation of the charge is to be made by the infrastructure manager, who has its own power of discretion as a result.
+In that context, in accordance with Article of Directive 2001/14, where the manager, who is not required to levy cancellation charges, has nonetheless decided to levy those charges, the charges are to provide incentives for efficient use of capacity, provided that they are appropriate and set in accordance with the principle set out in the second subparagraph of Article 1(1) of that directive.
+The wording of recital of Directive 2001/is along the same lines, stating that encouraging optimal use of the railway infrastructure will lead to a reduction in the cost of transport to society.
+Finally, it is appropriate to note that, in accordance with recital of that directive, a charging scheme sends economic signals to users and that it is important that those signals be coherent and encourage the users to make rational decisions. It follows therefrom that those incentives can have the desired effect only if it is actually possible for the infrastructure manager to adapt its commercial conduct to the market conditions. Consequently, Directive 2001/grants a certain discretion to the infrastructure manager so that it may achieve the objectives pursued by that directive. Those objectives are taken into account by the uniform determination and review of all types of charges, in particular the fees received in respect of the capacities requested but not used.
+The procedural principles set out in Directive 2001/With regard to the regulatory body, recital of Directive 2001/states that the efficient management and fair and non-discriminatory use of rail infrastructure require the establishment of a regulatory body that oversees the application of these European Union rules and acts as an appeal body, notwithstanding the possibility of judicial review.
+Accordingly, in accordance with Article 30(1) of that directive, the Member States are required to establish such a body, to which, by virtue of Article 30(2) thereof, an applicant has a right of appeal if it believes that it has been ‘unfairly treated, discriminated against or is in any other way aggrieved’. The appeal brought in that regard concerns, inter alia, in accordance with that provision, decisions adopted by the infrastructure manager concerning the charging scheme or the level or structure of infrastructure fees which the applicant is, or may be, required to pay, the regulatory body being required, by virtue of Article 30(5) of Directive 2001/14, to decide on any complaints and take action to remedy the situation within a maximum period of two months.
+It follows therefrom that, apart from assessing the charges applicable in a particular case, that body is required to ensure that all the charges, inasmuch as they form the charging system, comply with the provisions of that directive.
+The centralised monitoring carried out by the regulatory body, which ensures the non-discriminatory nature of the charges, consequently corresponds to the principle that those charges are set centrally by the manager, in compliance with the principle of non-discrimination.
+That is the perspective of which the provisions concerning the effect of the decisions adopted by the regulatory body and the scope of its reviews form part.
+To that effect, by virtue of the first sentence of Article 30(3) of Directive 2001/14, the regulatory body is to ensure that charges set by the infrastructure manager comply with Chapter II of that directive and are non-discriminatory. Furthermore, the second sentence of Article 30(3) of that directive provides that negotiations between applicants and an infrastructure manager concerning the level of infrastructure charges are permitted only if these are carried out under the supervision of the regulatory body, which is to intervene if negotiations are likely to contravene the requirements of that directive.
+By virtue of the second subparagraph of Article 30(5) of Directive 2001/14, decisions of the regulatory body is to be binding on all parties covered by those decisions, which thus have erga omnes effect.
+In accordance with Article 30(6) of Directive 2001/14, those decisions must be subject to judicial review.
+It is in the light of those principles that the first, second, fifth and sixth questions referred by the referring court, as reformulated in paragraph of this judgment, must be answered.
+The provisions of Paragraph of the BGB, as interpreted by the referring court
+As regards Paragraph of the BGB, it is apparent from the request for a preliminary ruling that that provision of the German civil law provides that, where a legal provision or contractual requirement grants a party, such as an infrastructure manager, the right unilaterally to determine the service contractually due, that right must, however, be exercised, where there is doubt, in an equitable manner. The fairness thereof may be checked by the civil courts, which, when they find that a determination of the service is unfair, are to substitute an discretionary equitable judicial decision. The objective of Paragraph of the BGB is, accordingly, to correct, in specific cases, any services which are excessive or disproportionate in comparison to the object of the contract.
+The referring court notes, in addition, that, in accordance with the case-law of the German civil courts, the terms of DB Netz’s contracts for use of the infrastructure referring to the train path charging system provided, firstly, for a contractual right to determine the service and, secondly, that the statutory obligation to draw up lists of charges is the expression of a right established by law to determine the service. Those courts deduced therefrom that they had jurisdiction to review the charges, under Paragraph 315(3) of the BGB, and to adopt, if necessary, their own decisions, after an assessment made at their reasonably exercised discretion.
+According to the referring court, the German courts interpret the German railway legislation, namely the provisions of the AEG and EIBV, which transposes Directive 2001/14, as meaning that it does not preclude a review in the light of the civil law, on the basis of Paragraph of the BGB. Such a review is not precluded since, by virtue of the principle of private autonomy, the infrastructure manager has discretion in the determination of the charge for the use of railway infrastructure, despite the review of the regulatory body.
+According to that court, procedural reasons also justify the concomitant application of Paragraph of the BGB and the German railway legislation. A claim under that Paragraph for a fair charge to be set by a court can be made by a rail transport undertaking without any particular conditions. Such an action would necessarily entail a review of the charge set by the infrastructure manager and, if necessary, a reduction in its amount after an assessment of its fairness, with ex tunc effect, while such an effect would be uncertain as regards decisions taken by the regulatory body.
+Finally, according to that case-law, Paragraph of the BGB may be applied even where the charges are set in the form of a general tariff, given that the legal relationship between the railway infrastructure manager undertaking and the rail transport undertaking is governed, for the purpose of civil law, by Paragraph 14(6) of the AEG.
+Findings of the Court
+As a preliminary point, it must be borne in mind that it is clear from the file before the Court that the review as to equity, carried out by the civil courts by virtue of Paragraph 315(3) of the BGB, constitutes a general instrument of civil law, and more exactly of contract law, without any specific relation to the review of the charges received by the infrastructure managers laid down in Directive 2001/14. Consequently, that provision seeks to establish a fair relationship in each individual case.
+It must be noted, firstly, that the assessment of fairness in each particular case runs counter to the principle of non-discrimination enshrined in Article 4(5) and recital of Directive 2001/14, as set out in paragraphs to of this judgment.
+It is apparent, in that regard, that the case-law of the German civil courts is based on the principle that Paragraph of the BGB has an ‘autonomous scope’ parallel to that of the legislation concerning railways and that, consequently, it is appropriate to ascertain whether, in its discretion conferred by the national legislation as regards price-setting, the infrastructure manager has also taken into consideration, in an appropriate manner, the interests of the applicant rail transport undertaking, which go beyond non-discriminatory observance of the conditions of access to the network.
+It is sufficient to note, in that regard, that that case-law leads to the application of material criteria of assessment as regards equivalence of services, which are not provided for in the relevant provisions of Directive 2001/14.
+Those criteria, applied in the review of equity carried out by the civil court by virtue of Paragraph of the BGB, thus jeopardise the achievement of the objectives pursued by Directive 2001/14, since there are no unified criteria recognised by that case-law for the object of the contract and the interest of the parties to the dispute, as they are applied on a case-by-case basis.
+By insisting exclusively on the economic rationality of the individual contract, the application of Paragraph of the BGB disregards the fact that only if the charges are set on the basis of uniform criteria can it be ensured that the charging policy is applied in the same way to all the railway undertakings.
+The assessment of fairness of a contract, carried out by virtue of Paragraph of the BGB, on the one hand, and the railway legislation flowing from Directive 2001/14, on the other, relate to different considerations which, if applied to a single contract, can lead to contradictory results.
+Accordingly, the application of the principle of equity by the German courts is contrary to the principles set out in Directive 2001/14, in particular the principle of equal treatment of the rail transport undertakings.
+Secondly, it must be borne in mind that, under Article 4(1) of Directive 2001/14, the Member States are to establish a charging framework. They may also establish specific charging rules, while respecting the management independence of the infrastructure manager. Under that provision, it is for the infrastructure manager to determine the charge for the use of the infrastructure and also to collect it (see, inter alia, judgments of February 2013, Commission v Spain, C‑483/10, EU:C:2013:114, paragraph 39, and of October 2013, Commission v Italy, C‑369/11, EU:C:2013:636, paragraph 41).
+Thus that provision establishes a division of powers between Member States and the infrastructure manager with regard to charging schemes. It is for the Member States to draw up a framework for levying charges, whilst the determination of the charge and collection fall, in principle, to the infrastructure manager (judgments of February 2013, Commission v Spain, C‑483/10,EU:C:2013:114, paragraph 41; of July 2013, Commission v Czech Republic, C‑545/10, EU:C:2013:509, point 34; and of October 2013, Commission v Italy, C‑369/11, EU:C:2013:636, paragraph 42).
+In order to ensure that the objective of management independence of the infrastructure manager is attained, the latter must, within the charging framework established by the Member States, be given a certain latitude in determining the amount of the charges so as to enable it to use that flexibility as a management tool (judgments of February 2013, Commission v Spain, C‑483/10, EU:C:2013:114, paragraphs and 49, and of July 2013, Commission v Czech Republic, C‑545/10, EU:C:2013:509, point 35).
+Thus, recital of Directive 2001/states that charging and capacity-allocation schemes should encourage railway infrastructure managers to optimise use of their infrastructure within the framework established by the Member States (judgment of February 2013, Commission v Spain, C‑483/10, EU:C:2013:114, paragraph 44).
+Although it is true that those managers may in principle calculate the amount of the charge, using a charging system applying to all the railway undertakings, they could not achieve such optimal use by means of the charging system if they run the risk, at any time, of a civil court determining, in equity, under Paragraph of the BGB, the charge applicable to a single railway undertaking which is party to the proceedings, the determination of that charge by that court thus restricting the infrastructure manager’s discretion to an extent incompatible with the objectives pursued by Directive 2001/(see, to that effect, judgment of October 2013, Commission v Italy, C‑369/11, EU:C:2013:636, paragraph 43).
+It must be pointed out, in that context, that, in accordance with what is laid down in Article 8(2) of that directive, in order to encourage the infrastructure manager to achieve optimal use of its infrastructure, that manager must be in a position to set or to continue to set higher charges on the basis of the long-term costs of certain investment projects (judgment of February 2013, Commission v Germany, C‑556/10, EU:C:2013:116, paragraph 83).
+Thus, it must be concluded that a review of the charges based on the principle of equity and the adoption, if necessary, of a decision based on an assessment at the reasonably exercised discretion of those courts, in accordance with Paragraph 315(3) of the BGB run counter to the objectives pursued in Article 4(1) of Directive 2001/14.
+Thirdly, it must be noted that the application of material assessment criteria on the basis of Paragraph of the BGB would either be incompatible with the assessment criteria provided for, in particular, in Articles 4, and of Directive 2001/14, or would lead the civil courts, if those requirements did comply with those laid down in the directive, to apply the provisions of the railway legislation directly and, in consequence, encroach on the powers of the regulatory body.
+In that regard, it must be noted that the monitoring carried out by the regulatory body, which is required to ensure that the charges are non-discriminatory, corresponds to the principle of the determination of the charges for use of the railway infrastructure by the railway infrastructure manager, which is required to comply with the principle of non-discrimination.
+Thus, when the national civil courts, hearing disputes concerning charges for the use of the railway infrastructure, apply, as part of their review in equity provided for in Paragraph of the BGB, the provisions of the sectoral legislation resulting from the AEG and the EIBV to assess the calculation methods and amount of the charges, the railway legislation flowing from Directive 2001/is not solely subject to the assessment of the competent regulatory body, then to the ex post verification carried out by the courts hearing actions against the decisions of that body, but is also applied and stipulated by any competent national civil court seised, in disregard of the exclusive jurisdiction conferred on the regulatory body by Article of Directive 2001/14.
+In consequence, various decisions of independent civil courts, possibly not harmonised by the case-law of the higher courts, would take the place of the unity of the review carried out by the competent body, subject, if appropriate, to a later review carried out by the courts hearing the actions brought against that body’s decisions, which here are the administrative courts, as is also provided for in Article of Directive 2001/14. The result is a juxtaposition of two non-coordinated routes to decisions, which is in clear contradiction of the objective pursued in Article of Directive 2001/14.
+Fourthly, the referring court points, rightly, to the practically insurmountable difficulty represented by a rapid integration, in a non-discriminatory system, of the various individual judicial decisions given by the civil courts, even though the regulatory body would strive to react following those decisions.
+In the first place, the result thereof, at least until the intervention of a supreme court, is discrimination, depending on whether or not the railway undertakings have seised a civil court and on the tenor of the decision given by that court, in clear breach of the principle of non-discrimination enshrined in Article 4(5) of Directive 2001/14.
+In the second place, it is apparent from the file before the Court that a review as to equity carried out on the basis of Paragraph of the BGB would entail, in order to avoid any discrimination between railway undertakings, the actual adjustment of a charge by the infrastructure manager or by the regulatory body and the application thereof to all the other railway undertakings as a consequence of a decision of a civil court which modified that charge at the request of a single undertaking.
+No obligation of that sort flows from the provisions of Directive 2001/concerning the regulatory body.
+Furthermore, the argument that that method would enable a solution to be found guaranteeing non-discriminatory treatment of the railway undertakings rests on the hypothesis that the regulatory body should merely react to individual decisions already given by the civil courts on the basis of Paragraph of the BGB. Such a hypothesis is manifestly contrary to the task conferred on the regulatory body, as set out in Article 30(2) and (5) of Directive 2001/14.
+Finally, that hypothesis undermines the independence of the railway infrastructure managers, since they would be obliged, in reaction to decisions of the civil courts, to accept ‘fair’ lump-sum charges resulting from the examination of individual cases, in contradiction of the task conferred on those infrastructure managers under Directive 2001/14.
+In that context, it must be noted, fifthly, that the fact that the decisions taken by the regulatory body are binding on all parties concerned, as follows from the second subparagraph of Article 30(5) of Directive 2001/would not be upheld. It follows from that provision that the decisions of the regulatory body, if necessary subject to review by the courts, have legal effects for all parties involved in the railway sector, whether they are transport undertakings or infrastructure managers. It would run counter to that principle for judgments delivered by the civil courts, if necessary on the basis of criteria set by the legislation concerning the calculation of charges, to have effects only on the parties to the disputes brought before those courts.
+Thus, the holder of an access permit which brings an action against the infrastructure manager in order to obtain reimbursements of that part of the amount of the charge regarded as unfair would of necessity gain an advantage over its competitors which have not brought such an action. The civil court seised, unlike the regulatory body, is unable to extend the dispute to other contracts for use of the infrastructure or to deliver a judgment which would apply to the entire sector concerned.
+That situation would call into question not only the principle, flowing from the legislation concerning the access to railway infrastructure, that the effect of the decisions adopted is binding on all the parties concerned and would of necessity lead to unequal treatment of the holders of access permits, which Directive 2001/seeks precisely to avoid, but would also undermine the objective of ensuring fair competition in the sector of the supply of railway services.
+Accordingly, the reimbursement of charges by application of the provisions of civil law can be envisaged only if, in accordance with the provisions of national law, the illegality of the charge in the light of the legislation concerning access to the railway infrastructure has first been found by the regulatory body or by a court which has reviewed that body’s decision and in so far as that application for reimbursement may be challenged before the national civil courts rather than by appeal provided for in that legislation.
+Sixthly, it is apparent from the file before the Court that an amicable settlement, in the context of civil proceedings and, in consequence, proceedings brought on the basis of Paragraph of the BGB is not excluded. The premiss that Paragraph of the BGB retains an ‘autonomous scope’, parallel to the legislation concerning access to the railway infrastructure, implies that negotiations with a view to an amicable settlement may take place without the participation of the regulatory body, which is not party to such proceedings.
+That exclusion of the regulatory body contradicts the wording and purpose of the second and third sentences of Article 30(3) of Directive 2001/which provides, on the one hand, that the negotiations between applicants and an infrastructure manager concerning the level of infrastructure charges are permitted only if these are carried out under the supervision of the regulatory body and, on the other, that the regulatory body is to intervene if negotiations are likely to contravene the requirements of that directive.
+Seventhly, the application of Paragraph of the BGB made by the German courts does not appear reconcilable with the objective pursued by Directive 2001/14, namely to encourage the managers to make optimal use of their infrastructure, in particular by virtue of the first subparagraph of Article of that directive, which provides that it is possible for infrastructure managers to receive an amount in respect of railway capacities requested but not used. The reasoning on which the application of Paragraph of the BGB rests, according to which it has ‘autonomous scope’ parallel to the scope of the legislation concerning the access to the railway infrastructure, should lead to the conclusion that the specific objectives referred to in the provisions of that legislation are not taken into consideration.
+Even if application of Paragraph of the BGB allowed the specific objectives pursued by Directive 2001/to be taken into consideration, there would be a clear risk that the reduction on a case-by-case basis of the charges would give rise to discrepancies as regards the incentive effect achieved and that railway transport undertakings would be encouraged to obtain, by civil actions, advantages from which other undertakings in a similar situation do not benefit.
+That encouragement is also likely to undermine the interest in contributing to the optimal use of the infrastructure by means of an appropriate measure of organisation or the earliest possible cancellation of a request for reservation of capacity, which contradicts the objective pursued by the first subparagraph of Article of Directive 2001/14.
+It follows from all the foregoing considerations that the provisions of Directive 2001/14, in particular Article 4(5) and Article 30(1), (3), (5) and (6) thereof, must be interpreted as meaning that they preclude the application of national legislation, such as that at issue in the main proceedings, which provides for a review of the equity of charges for the use of railway infrastructure, on a case-by-case basis, by the ordinary courts and the possibility, if necessary, of amending the amount of those charges, independently of the monitoring carried out by the regulatory body provided for in Article of that directive.
+The third, fourth and seventh questions
+The third, fourth and seventh questions are asked only in the event that the first, second, fifth and sixth questions are answered in the affirmative.
+Given that the answer to the first, second, fifth and sixth questions is in the negative, there is no need to answer the third, fourth and seventh questions.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+The provisions of Directive 2001/14/EC of the European Parliament and of the Council of February on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure, as amended by Directive 2004/49/EC of the European Parliament and of the Council of April 2004, in particular Article 4(5) and Article 30(1), (3), (5) and (6) of that directive, as amended, must be interpreted as meaning that they preclude the application of national legislation, such as that at issue in the main proceedings, which provides for a review of the equity of charges for the use of railway infrastructure, on a case-by-case basis, by the ordinary courts and the possibility, if necessary, of amending the amount of those charges, independently of the monitoring carried out by the regulatory body provided for in Article of Directive 2001/14, as amended by Directive 2004/49.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

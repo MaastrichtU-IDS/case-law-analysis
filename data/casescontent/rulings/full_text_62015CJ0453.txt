@@ -1,0 +1,99 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+December (
+*)
+‛Reference for a preliminary ruling — Taxation — VAT — Directive 2006/112/EC — Article — Place where services are supplied — Concept of ‘similar rights’ — Transfer of greenhouse gas emission allowances’
+In Case C‑453/15,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Federal Court of Justice, Germany), made by decision of July 2015, received at the Court on August 2015, in the criminal proceedings against
+A,
+B,
+intervener:
+Generalbundesanwalt beim Bundesgerichtshof,
+THE COURT (Second Chamber),
+composed of M. Ilešič, President of the Chamber, A. Prechal, A. Rosas, C. Toader and E. Jarašiūnas (Rapporteur), Judges,
+Advocate General: M. Wathelet,
+Registrar: M. Aleksejev, Administrator,
+having regard to the written procedure and further to the hearing on July 2016,
+after considering the observations submitted on behalf of:
+—
+A, by M. Wulf and M. Langrock, Rechtsanwälte,
+—
+B, by A. Norouzi and O. Sahan, Rechtsanwälte,
+—
+the Generalbundesanwalt beim Bundesgerichtshof, P. Frank, in person, and by S. Heine, acting as Agent,
+—
+the German Government, by T. Henze and K. Petersen, acting as Agents,
+—
+the Greek Government, by E. Tsaousi and A. Dimitrakopoulou, acting as Agents,
+—
+the European Commission, by M. Wasmeier and M. Owsiany-Hornung, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 56(1)(a) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1, ‘the VAT Directive’).
+The request has been made in criminal proceedings against A and B for being accessories to tax evasion.
+Legal context
+EU law
+Article of the VAT Directive, which is in Section 1, ‘General rule’, of Chapter on the place of supply of services, provides:
+‘The place of supply of services shall be deemed to be the place where the supplier has established his business or has a fixed establishment from which the service is supplied, or, in the absence of such a place of business or fixed establishment, the place where he has his permanent address or usually resides.’
+Article 56(1) of the VAT Directive, which is part of Subsection 5, ‘Supply of miscellaneous services’, of Section 2, containing particular provisions, of Chapter 3, provides:
+‘The place of supply of the following services to customers established outside the Community, or to taxable persons established in the Community but not in the same country as the supplier, shall be the place where the customer has established his business or has a fixed establishment for which the service is supplied, or, in the absence of such a place, the place where he has his permanent address or usually resides:
+(a)
+transfers and assignments of copyrights, patents, licences, trade marks and similar rights;
+…’
+Article of Directive 2003/87/EC of the European Parliament and of the Council of October establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, p. 32) contains inter alia the following definition:
+‘For the purposes of this Directive the following definitions shall apply:
+(a)
+“allowance” means an allowance to emit one tonne of carbon dioxide equivalent during a specified period, which shall be valid only for the purposes of meeting the requirements of this Directive and shall be transferable in accordance with the provisions of this Directive;
+…’
+Article of Directive 2003/provides:
+‘1.   Member States shall provide for the establishment and maintenance of a registry in order to ensure the accurate accounting of the issue, holding, transfer and cancellation of allowances. Member States may maintain their registries in a consolidated system, together with one or more other Member States.
+2.   Any person may hold allowances. The registry shall be accessible to the public and shall contain separate accounts to record the allowances held by each person to whom and from whom allowances are issued or transferred.
+…’
+German law
+In accordance with Paragraph 3a of the Umsatzsteuergesetz (Law on turnover tax, ‘the UStG’), entitled ‘Place of other supplies’, in the version applicable to the dispute in the main proceedings:
+‘1.   Subject to Paragraphs 3b and 3f, the other supplies are effected in the place from which the trader carries on his business. If the supply is effected from a fixed establishment, the location of the establishment shall constitute the place of supply.
+…
+3.   Where the customer to whom one of the other supplies mentioned in subparagraph is made is a trader, by way of derogation from subparagraph 1, the other supply shall be deemed to be made to the place where the customer carries on his business. If, however, the other supply is made at the fixed establishment of a trader, the location of the fixed establishment shall be decisive. Where the customer to whom one of the other supplies mentioned in subparagraph is made is not a trader and is resident or established in the territory of a third country, the other supply shall be deemed to be made at his place of residence or establishment.
+4.   For the purposes of subparagraph 3, “other services” shall mean:
+(1)
+the assignment, transfer and administration of patents, copyrights, trade mark rights and similar rights;
+…’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+A and B, who work for a tax advice firm, were convicted by the Landgericht Hamburg (Regional Court, Hamburg, Germany) and fined for being accessories to tax evasion in a case concerning a value added tax (VAT) evasion scheme run by another defendant, G, from April to March 2010, which was aimed at evading VAT on trading in greenhouse gas emission allowances.
+Several companies were involved in the tax evasion scheme. Company E, which was resident in Germany and controlled in practice by G, acquired greenhouse gas emission allowances abroad, exempt from VAT, and resold them to Company I, which was resident in Luxembourg and also controlled by G. Company I issued invoices in the form of credit notes to Company E showing the VAT applicable in Germany, and sold the allowances on to Company C, which was resident in Germany, the credit notes issued in that connection also mentioning the VAT applicable in Germany.
+In its provisional VAT returns for the second, third and fourth quarters of 2009, Company E declared the turnover from the sale of the allowances to Company I, claiming an input VAT deduction on the basis of false invoices from fictitious domestic suppliers. For January and March it did not submit provisional returns. It thereby evaded payment of a total of EUR 11484179.12. Company I declared the supplies to Company C for the periods April to July 2009, September to January and March as transactions subject to VAT, and incorrectly deducted as input tax the VAT shown in the credit notes issued to Company E, thereby evading payment of EUR 10667491.10.
+From the end of May 2009, A and B provided tax advice to Company I and were instructed by G to produce a short report on that company’s VAT position. In that report it was stated that Company I could invoice VAT applicable in Germany and deduct it as input tax only if it had a place of business in Germany carrying out the relevant transactions, and that the invoices issued before the establishment of a place of business in Germany should be corrected.
+On the basis of a backdated contract for the lease of office space in Germany from April 2009, A and B, who had no knowledge of the part played by Company I in the tax evasion scheme, completed corrected provisional VAT returns for Company I for April and May 2009, which they sent to the German tax authorities on August 2009. In those returns they showed the VAT mentioned in the credit notes issued to Company E as input tax, amounting to EUR 147519.for April and EUR 1146788.for May 2009, even though they considered it ‘highly probable’ that company I did not have a place of business in Germany.
+The referring court, the Bundesgerichtshof (Federal Court of Justice, Germany), hearing appeals on a point of law brought against the judgment of the Landgericht Hamburg (Regional Court, Hamburg) by A and B and by the State Prosecutor’s Office, states that whether A and B are guilty of being accessories to tax evasion under German criminal law depends on whether they intentionally submitted incorrect provisional VAT returns to the tax authorities in which input tax on the basis of the credit notes for supplies by Company E was wrongly deducted. Since A and B did not have any knowledge of the involvement of companies E and I in the VAT evasion scheme run by G, that would be the case, continues the referring court, only if input tax could not be deducted on the basis of the credit notes issued to Company E because the credit notes could not mention VAT. That was the case, however, it says, as regards the invoices issued to Company I, which was resident in Luxembourg, only if the place of the supply consisting in the transfer of allowances was not in Germany. However, for Company E to mention VAT in an invoice to Company I was unlawful only if, pursuant to Article 56(1)(a) of the VAT Directive, the place of supply was not at the supplier’s, Company E, but at the customer’s, Company I, so that the supply was not taxable in Germany.
+The referring court observes that that latter condition is satisfied if in the place of supply of transfers of greenhouse gas emission allowances was, in accordance with Paragraph 3a(4) of the UStG, in the version applicable to the main proceedings, which transposes Article 56(1)(a) of the VAT Directive into German law, the place where the customer had established his business or had a fixed establishment, which means that it must be determined whether trading in such allowances is a ‘similar right’ within the meaning of those provisions.
+The referring court considers that the interpretation of the concept of ‘similar rights’ within the meaning of Article 56(1)(a) of the VAT Directive is not so obvious that there is no room left for reasonable doubt. It is, however, inclined to think that those allowances are ‘similar’ within the meaning of that provision, the term ‘similar’ meaning ‘corresponding in certain characteristics’ or ‘comparable’, in so far as the rights mentioned in that provision are characterised by the fact that the legislature grants the holder an absolute right, gives him exclusive authority to use and exploit it, and excludes others from doing so. Emission allowances are thus comparable to intellectual property rights.
+In those circumstances, the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Is Article 56(1)(a) of [the VAT Directive] to be interpreted as meaning that an allowance under Article 3(a) of [Directive 2003/87] which confers a right to emit one tonne of carbon dioxide equivalent during a specified period is a “similar right” within the meaning of [Article 56(1)(a) of the VAT Directive]?’
+Consideration of the question referred
+By its question the referring court essentially asks whether Article 56(1)(a) of the VAT Directive must be interpreted as meaning that the ‘similar rights’ mentioned in that provision include the greenhouse gas emission allowances defined in Article 3(a) of Directive 2003/87.
+It should be noted, as a preliminary point, that Article of the VAT Directive contains a general rule for determining the place where services are supplied for tax purposes, while Article et seq. of the directive provide a number of specific instances of such places. As follows from settled case-law of the Court on the essentially identical provisions of Article of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), Article of the VAT Directive does not take precedence over Article et seq. of the directive. In every situation, the question which arises is whether that situation corresponds to one of the cases mentioned in Article et seq. of the directive. If not, it falls within the scope of Article of the directive (see, to that effect, inter alia, judgments of September 1996, Dudda, C‑327/94, EU:C:1996:355, paragraphs and 21, and November 2008, Kollektivavtalsstiftelsen TRR Trygghetsrådet, C‑291/07, EU:C:2008:609, paragraphs and 25).
+It follows that Article 56(1)(a) of the VAT Directive is not to be regarded as an exception to a general rule, which must be narrowly construed (see, to that effect, judgments of October 2005, Levob Verzekeringen and OV Bank, C‑41/04, EU:C:2005:649, paragraph 34, and September 2006, Heger, C‑166/05, EU:C:2006:533, paragraph 17).
+In the light of those considerations, it must be examined whether the transfer of greenhouse gas emission allowances corresponds to one of the cases mentioned in Article 56(1)(a) of the VAT Directive, namely ‘transfers and assignments of copyrights, patents, licences, trade marks and similar rights’.
+It must be stated that such a correspondence does not appear clearly from the wording of Article 56(1)(a) of the VAT Directive, since the rights expressly mentioned there relate to the sphere of intellectual property, whereas the allowances defined in Article 3(a) of Directive 2003/87, which constitute authorisation by the State or the public authorities to emit greenhouse gases during a specified period, do not belong to that sphere.
+It must, however, be noted, first, that, as the Advocate General observes in point of his Opinion, there are similarities between greenhouse gas emission allowances and all or some of those rights. Thus, in particular, those allowances and rights are immaterial, they confer an exclusive right on the holder, and they may be transferred to a third party by means of a transfer or assignment, as the case may be, enabling the third party to use them for the purposes of an economic activity. Moreover, just as some of those rights are subject to registration, the holding and the transfer of those allowances are, pursuant to Article of Directive 2003/87, entered in a register.
+Secondly, the purpose of Article 56(1)(a) of the VAT Directive must also be taken into account in assessing the correspondence between the cases mentioned in that provision and greenhouse gas emission allowances.
+It should be recalled here that the purpose of the provisions of the VAT Directive determining the place where supplies of services are taxed is to avoid, first, conflicts of jurisdiction which may result in double taxation, and, secondly, non-taxation (see, to that effect, judgments of November 2008, Kollektivavtalsstiftelsen TRR Trygghetsrådet, C‑291/07, EU:C:2008:609, paragraph 24, and December 2015, WebMindLicenses, C‑419/14, EU:C:2015:832, paragraph 41).
+The Court has previously held, with respect to Article of Sixth Directive 77/388, that the underlying logic of the provisions concerning the place where a service is supplied requires that goods and services are taxed as far as possible at the place of consumption (judgment of September 2009, RCI Europe, C‑37/08, EU:C:2009:507, paragraph 39).
+The inclusion of greenhouse gas emission allowances in the ‘similar rights’ mentioned in Article 56(1)(a) of the VAT Directive corresponds to that purpose and that logic.
+First, the transfer of allowances has to be entered in the register provided for in Article of Directive 2003/87, the identity of the transferee, the place where he has established his business or has a fixed establishment for which the transfer is effected, or the place where he has his permanent address or usually resides, and consequently also the country of destination of the transfer can be determined easily and with great certainty.
+Secondly, since the allowances transferred must in principle be used at the place where the transferee carries on his business, determining that place as the place where the service consisting in a transfer of allowances is supplied for tax purposes allows the supply to be taxed under the VAT rules of the Member State in which the allowances are used.
+In addition, it should be observed that, as the Advocate General states in point of his Opinion, that was the solution chosen by the great majority of Member States before, first, the transposition of Council Directive 2008/8/EC of February amending the VAT Directive as regards the place of supply of services (OJ L 44, p. 11), which from January 2010, for supplies of services to taxable persons, laid down the general rule that the place of supply is the place where the recipient is established, and, secondly, the transposition of Council Directive 2010/23/EU of March amending the VAT Directive as regards an optional and temporary application of the reverse charge mechanism in relation to supplies of certain services susceptible to fraud (OJ L 72, p. 1), which inserted Article 199a in the VAT Directive, under which the Member States may provide that the person liable for payment of VAT is the taxable person to whom a transfer of greenhouse gas emission allowances within the meaning of Article of Directive 2003/is made.
+In the light of all the foregoing considerations, the answer to the referring court’s question is that Article 56(1)(a) of the VAT Directive must be interpreted as meaning that the ‘similar rights’ mentioned in that provision include the greenhouse gas emission allowances defined in Article 3(a) of Directive 2003/87.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article 56(1)(a) of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that the ‘similar rights’ mentioned in that provision include the greenhouse gas emission allowances defined in Article 3(a) of Directive 2003/87/EC of the European Parliament and of the Council of October establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

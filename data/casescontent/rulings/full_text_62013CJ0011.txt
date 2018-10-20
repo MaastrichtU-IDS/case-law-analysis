@@ -1,0 +1,167 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+June (
+*)
+‛Reference for a preliminary ruling — Patent law — Plant protection products — Supplementary protection certificate — Regulation (EC) No 1610/— Articles and — Terms ‘product’ and ‘active substances’ — Safener’
+In Case C‑11/13,
+REQUEST for a preliminary ruling under Article TFEU from the Bundespatentgericht (Germany), made by decision of December 2012, received at the Court on January 2013, in the proceedings
+Bayer CropScience AG
+v
+Deutsches Patent- und Markenamt,
+THE COURT (Third Chamber),
+composed of M. Ilešič, President of the Chamber, C.G. Fernlund (Rapporteur), A. Ó Caoimh, C. Toader and E. Jarašiūnas, Judges,
+Advocate General: N. Jääskinen,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on November 2013,
+after considering the observations submitted on behalf of:
+—
+Bayer CropScience AG, by D. von Renesse, Patentanwältin,
+—
+the Polish Government, by B. Majczyna, acting as Agent,
+—
+the European Commission, by P. Ondrůšek and F.W. Bulst, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on February 2014,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles and of Regulation (EC) No 1610/of the European Parliament and of the Council of July concerning the creation of a supplementary protection certificate for plant protection products (OJ L 198, p. 30).
+The request has been made in proceedings between Bayer CropScience AG (‘Bayer’) and the Deutsches Patent- und Markenamt (German Patent and Trade Mark Office) concerning the validity of a decision of March by which that office refused to grant a supplementary protection certificate to Bayer.
+Legal context
+Directive 91/Council Directive 91/414/EEC of July concerning the placing of plant protection products on the market (OJ L 230, p. 1), as amended by Commission Directive 2006/136/EC of December (OJ L 349, p. 42) (‘Directive 91/414’), established uniform rules on the conditions and procedures for authorisation to place plant protection products on the market (‘MA’) and for their review and withdrawal. Its objective was not only to harmonise the rules relating to the conditions and procedures for approval of those products, but also to ensure a high level of protection of human and animal health and also of the environment from the threats and risks posed by unrestricted use of those products. The directive also aimed to eliminate barriers to the free movement of those products.
+According to Article 3(1) of Directive 91/414, plant protection products could not be placed on the market and used in a Member State unless the competent authorities of that State had authorised the product in accordance with that directive.
+Article of that directive provided:
+‘1.   Member States shall ensure that a plant protection product is not authorised unless:
+(a)
+its active substances are listed in Annex I and any conditions laid down therein are fulfilled, and, with regard to the following points (b), (c), (d) and (e), pursuant to the uniform principles provided for in Annex VI, unless:
+(b)
+it is established, in the light of current scientific and technical knowledge and shown from appraisal of the dossier provided for in Annex III, that when used in accordance with Article 3(3), and having regard to all normal conditions under which it may be used, and to the consequences of its use:
+(i)
+it is sufficiently effective;
+(ii)
+it has no unacceptable effect on plants or plant products;
+(iii)
+it does not cause unnecessary suffering and pain to vertebrates to be controlled;
+(iv)
+it has no harmful effect on human or animal health, directly or indirectly (e.g. through drinking water, food or feed) or on groundwater;
+(v)
+it has no unacceptable influence on the environment, having particular regard to the following considerations:
+—
+its fate and distribution in the environment, particularly contamination of water including drinking water and groundwater,
+—
+its impact on non-target species;
+(c)
+the nature and quantity of its active substances and, where appropriate, any toxicologically or ecotoxicologically significant impurities and co-formulants can be determined by appropriate methods, harmonised according to the procedure provided in Article 21, or, if not, agreed by the authorities responsible for the authorisation;
+(d)
+its residues, resulting from authorised uses, and which are of toxicological or environmental significance, can be determined by appropriate methods in general use;
+(e)
+its physical and chemical properties have been determined and deemed acceptable for the purposes of the appropriate use and storage of the product;
+(f)
+where appropriate, the [maximum residue levels (MRLs)] for the agricultural products affected by the use referred to in the authorisation have been set or modified in accordance with Regulation (EC) No 396/[of the European Parliament and of the Council of February on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Directive 91/(OJ L 70, p. 1)].
+2.   The authorisation must stipulate the requirements relating to the placing on the market and use of the product or at least those aimed at ensuring compliance with the provisions of paragraph 1(b).
+3.   Member States shall ensure that compliance with the requirements set out in paragraph 1(b) to (f) is established by official or officially recognised tests and analyses carried out under agricultural, plant health and environmental conditions relevant to use of the plant protection product in question and representative of these prevailing where the product is intended to be used, within the territory of the Member State concerned.
+4.   Without prejudice to paragraphs and 6, authorisations shall be granted for a fixed period of up to years only, determined by the Member States; they may be renewed after verification that the conditions imposed in paragraph are still satisfied. Renewal may be granted for the period necessary to the competent authorities of the Member States, for such verification, where an application for renewal has been made.
+...’
+Regulation No 1610/It is apparent from recitals and in the preamble to Regulation No 1610/that, before it was adopted, the duration of the effective protection under a patent was considered insufficient to cover the investment put into plant protection research and to generate the resources needed to maintain a high level of research, thereby penalising the competitiveness of the sector. That regulation is designed to overcome that insufficiency by establishing a supplementary protection certificate for plant protection products.
+Recitals and in the preamble to that regulation are worded as follows:
+‘(11)
+Whereas the duration of the protection granted by the certificate should be such as to provide adequate, effective protection; whereas, for this purpose, the holder of both a patent and a certificate should be able to enjoy an overall maximum of fifteen years of exclusivity from the time the plant protection product in question first obtains [an MA] in the Community;
+...
+(16)
+Whereas only action at Community level will enable the objective, which consists in ensuring adequate protection for innovation in the field of plant protection, while guaranteeing the proper functioning of the internal market for plant protection products, to be attained effectively’.
+Article of Regulation No 1610/states:
+‘For the purposes of this Regulation, the following definitions shall apply:
+1.
+“plant protection products”: active substances and preparations containing one or more active substances, put up in the form in which they are supplied to the user, intended to:
+(a)
+protect plants or plant products against all harmful organisms or prevent the action of such organisms, in so far as such substances or preparations are not otherwise defined below;
+(b)
+influence the life processes of plants, other than as a nutrient (e.g. plant growth regulators);
+(c)
+preserve plant products, in so far as such substances or products are not subject to special Council or Commission provisions on preservatives;
+(d)
+destroy undesirable plants; or
+(e)
+destroy parts of plants, check or prevent undesirable growth of plants;
+2.
+“substances”: chemical elements and their compounds, as they occur naturally or by manufacture, including any impurity inevitably resulting from the manufacturing process;
+3.
+“active substances”: substances or micro-organisms including viruses, having general or specific action:
+(a)
+against harmful organisms; or
+(b)
+on plants, parts of plants or plant products;
+4.
+“preparations”: mixtures or solutions composed of two or more substances, of which at least one is an active substance, intended for use as plant protection products;
+5.
+“plants”: live plants and live parts of plants, including fresh fruit and seeds;
+6.
+“plant products”: products in the unprocessed state or having undergone only simple preparation such as milling, drying or pressing, derived from plants, but excluding plants themselves as defined in point 5;
+7.
+“harmful organisms”: pests of plants or plant products belonging to the animal or plant kingdom, and also viruses, bacteria and mycoplasmas and other pathogens;
+8.
+“product”: the active substance as defined in point or combination of active substances of a plant protection product;
+9.
+“basic patent”: a patent which protects a product as defined in point as such, a preparation as defined in point 4, a process to obtain a product or an application of a product, and which is designated by its holder for the purpose of the procedure for grant of a certificate;
+10.
+“certificate”: the supplementary protection certificate.’
+Article of Regulation No 1610/96, entitled ‘Scope’, provides:
+‘Any product protected by a patent in the territory of a Member State and subject, prior to being placed on the market as a plant protection product, to an administrative authorisation procedure as laid down in Article of Directive [91/414], or pursuant to an equivalent provision of national law if it is a plant protection product in respect of which the application for authorisation was lodged before Directive [91/414] was implemented by the Member State concerned, may, under the terms and conditions provided for in this Regulation, be the subject of a certificate.’
+Article of that regulation, entitled ‘Conditions for obtaining a certificate’, provides in paragraph thereof:
+‘A certificate shall be granted if, in the Member State in which the application referred to in Article is submitted, at the date of that application:
+(a)
+the product is protected by a basic patent in force;
+(b)
+a valid [MA for the product] as a plant protection product has been granted in accordance with Article of Directive [91/414] or an equivalent provision of national law;
+(c)
+the product has not already been the subject of a certificate;
+(d)
+the authorisation referred to in (b) is the first [MA for the product] as a plant protection product.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Bayer is the owner of a European patent issued with effect for Germany and titled ‘substituted isoxazolines, process for producing them, agents containing them and their use as safeners’. That patent covers Isoxadifen, a safener.
+On July 2003, Bayer filed an application with the Deutsches Patent- und Markenamt for a supplementary protection certificate for Isoxadifen and the salts and esters thereof. That application was based on the provisional MA, granted on March by the German authorities, in accordance with Article 8(1) of Directive 91/414, in respect of a plant protection product to be used as a herbicide, marketed under the name ‘MaisTer’. That product is composed of Foramsulfuron, Isoxadifen and Iodosulfuron.
+In support of its application, Bayer designated as the first MA issued in the European Union that issued by the Italian authorities, on April 2001, in respect of a plant protection product marketed under the name ‘Ricestar’, composed of Fenoxaprop-P-ethyl and Isoxadifen-ethyl.
+By decision of March 2007, the Deutsches Patent- und Markenamt refused that application, putting forward, in essence, three grounds. First, the MA granted on March was a provisional MA; secondly, the application for a supplementary protection certificate was directed at a single active substance, whereas that MA covered a combination of active substances; and, thirdly, it was impossible to rely on the MA issued on April since that MA had been for a different combination of active substances than that covered by the MA granted on March 2003.
+Bayer brought an action against that decision, which is the subject of the main proceedings. The referring court notes that, since the adoption of that decision, the Court has delivered several judgments relevant to the case in the main proceedings. According to that court, in Hogan Lovells International (C‑229/09, EU:C:2010:673), the Court held that a supplementary protection certificate may be issued on the basis of a provisional MA. That court adds that, in Medeva (C‑322/10, EU:C:2011:773) and Georgetown University and Others (C‑422/10, EU:C:2011:776), the Court interpreted Regulation (EC) No 469/of the European Parliament and of the Council of May concerning the supplementary protection certificate for medicinal products (OJ L 152, p. 1) as meaning that an application for a supplementary protection certificate in respect of a single active ingredient cannot be rejected on the ground that that is not the only active ingredient of which the medicinal product at issue is composed.
+Having regard to those factors, the referring court takes the view that it is now possible to grant a supplementary protection certificate on the basis of the provisional MA granted on March and to calculate the duration of the supplementary protection certificate taking into consideration the MA issued by the Italian authorities on April for Ricestar, even though the composition of that product is not identical to that of MaisTer.
+The referring court nevertheless has doubts as to whether it is possible to issue a supplementary protection certificate for a safener. It points out that Article of Regulation No 1610/allows the grant of such a certificate for any product protected by a patent and subject, as a plant protection product, to an MA, in accordance with Article of Directive 91/414. It states that the term ‘plant protection products’ is defined in Article 1(1)(a) of Regulation No 1610/by reference to the active substances which those products contain and whose effect is to protect plants against harmful organisms. According to the referring court, safeners do not have this effect, but are intended to prevent the harmful effects of a herbicidal active substance, in order to increase its effectiveness.
+Having regard to the fact that safeners have at the most an indirect effect on plants or harmful organisms, the referring court raises the issue of whether it is possible to consider that type of substance to be covered by the term ‘active substances’ within the meaning of Regulation No 1610/96.
+So far as concerns the wording of Article of that regulation, that court is of the opinion that a safener can be considered to be an active substance having regard to its effects on the target organisms. However, it draws attention to several sources of tension with the existing case-law should that interpretation be followed.
+Thus, in Massachusetts Institute of Technology (C‑431/04, EU:C:2006:291) the Court held, concerning medicinal products for human use, that an excipient, that is to say a substance which does not have any therapeutic effect on its own, is not covered by the term ‘active ingredient’ in Council Regulation (EEC) No 1768/of June concerning the creation of a supplementary protection certificate for medicinal products (OJ L 182, p. 1). That judgment of the Court could, according to the referring court, lead to the term ‘active substances’ being limited to substances which have a direct plant protection effect of their own. Nevertheless, that court takes the view that the means of action of a safener is not necessarily comparable to that of an excipient in a medicinal product and it points out that a safener is sometimes essential for the use of an active substance.
+Furthermore, the referring court observes, by reference to Söll (C‑420/10, EU:C:2012:111), that the Court has already held that the term ‘biocidal products’ also covers products that act only indirectly on the target harmful organisms, so long as they contain one or more active substances necessary to the process giving rise to the action sought.
+Moreover, that court draws attention to the fact that the entry into force of Regulation (EC) No 1107/of the European Parliament and of the Council of October concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/(OJ L 309, p. 1) could contribute to the clarification of the terms ‘product’ and ‘active substances’. Those terms, as they are used in Regulation No 1610/96, have been reproduced from Directive 91/414. That directive was repealed and replaced by Regulation No 1107/2009. The regulation now distinguishes between the concepts of active substances, safeners, synergists, co-formulants and adjuvants. Article 2(3)(a) of Regulation No 1107/thus defines safeners as ‘substances or preparations which are added to a plant protection product to eliminate or reduce phytotoxic effects of the plant protection product on certain plants’.
+The referring court states that Regulation No 1610/was not amended after the adoption of Regulation No 1107/2009. However, on account of the link between those two regulations, the term ‘active substances’ should be defined in the same way for the purposes of each of them. Consequently, a supplementary protection certificate cannot be granted for a safener.
+In addition, since 2005, on the Commission’s initiative, the Federal Republic of Germany has abandoned its practice of declaring and listing safeners according to the same rules as those relating to active substances. Consequently, the referring court states that it may be impossible in practice for the owner of a patent for a safener, who wishes to obtain a supplementary protection certificate but does not have an MA for a plant protection product, to identify whether a third party has such an MA. According to that court, that may suggest that it was not intended that safeners should be treated in the same way as active substances.
+The referring court nevertheless observes that this approach is difficult to reconcile with the fact that, under Regulation No 1107/2009, the substantive conditions for approval of a safener are very largely the same as those required for the approval of an active substance. There is a ‘link of functional equivalence’ between the two procedures concerned within the meaning of Hogan Lovells International (EU:C:2010:673). Therefore, the procedure for obtaining an MA for a safener could last as long as that for an active substance. Having regard to the purpose of Regulation No 1610/96, that could justify the grant of a supplementary protection certificate.
+In the present case, the referring court points out that Isoxadifen was examined in connection with a procedure for a provisional MA for a product containing two other active substances. The duration of that procedure reduced the effective duration of the protection provided by the patent. Consequently, granting a supplementary protection certificate covering that substance might be justified. However, according to that court, such an interpretation could conflict with the case-law stemming from BASF (C‑258/99, EU:C:2001:261, paragraph 31), in which the Court held that the MA is not among the criteria used by Regulation No 1610/to define the term ‘product’.
+In those circumstances, the Federal Patent Court (Bundespatentgericht) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Are the terms “product” in Article 3(1) and Article 1.and “active substances” in Article 1.of [Regulation No 1610/96] to be interpreted as covering a safener?’
+The question referred for a preliminary ruling
+In order to answer the question asked by the national court, by which that court seeks to establish whether Regulation No 1610/allows a supplementary protection certificate to be granted in respect of a patent for a safener, it must be observed that no express provision of that regulation either specifically authorises or excludes such a possibility.
+Article of Regulation No 1610/provides that ‘[a]ny product protected by a patent in the territory of a Member State and subject, prior to being placed on the market as a plant protection product, to an administrative authorisation procedure as laid down in Article of Directive [91/414], or pursuant to an equivalent provision of national law if it is a plant protection product in respect of which the application for authorisation was lodged before Directive [91/414] was implemented by the Member State concerned, may, under the terms and conditions provided for in this Regulation, be the subject of a certificate’.
+The term ‘product’ is defined in Article 1.of Regulation No 1610/as being ‘the active substance … or combination of active substances of a plant protection product’.
+As regards ‘active substances’, they are themselves defined in Article 1.of that regulation as ‘substances or micro-organisms including viruses, having general or specific action … against harmful organisms … or … on plants, parts of plants or plant products’.
+The term ‘active substances’ is used in Article 1.of that regulation to define the term ‘plant protection products’. That provision refers to the uses for which the active substances included in the composition of plant protection products are intended. Under that provision, those uses may be to ‘protect plants or plant products against all harmful organisms or prevent the action of such organisms, … [to] influence the life processes of plants, other than as a nutrient (e.g. plant growth regulators), …[to] preserve plant products, …[to] destroy undesirable plants, or [to] destroy parts of plants, [to] check or [to] prevent undesirable growth of plants’.
+It follows from the above that the term ‘active substances’, for the purposes of the application of Regulation No 1610/96, relates to substances which have a toxic, phytotoxic or plant protection action of their own. In this regard, since Regulation No 1610/makes no distinction according to whether that action is direct or indirect, there is no need to restrict the term ‘active substances’ to those whose action may be characterised as direct (see by analogy, so far as concerns pharmaceutical products, Chemische Fabrik Kreussler, C‑308/11, EU:C:2012:548, paragraph 36, and, as regards biocidal products, Söll, EU:C:2012:111, paragraph 31).
+Conversely, a substance with no such toxic, phytotoxic or plant protection action cannot be considered to be an ‘active substance’ within the meaning of Regulation No 1610/and, consequently, cannot give rise to the issue of a supplementary protection certificate. That interpretation corresponds to that applied in respect of medicinal products, the Court already having had the opportunity to hold that a substance with no pharmaceutical effects of its own, such as an excipient or an adjuvant, does not constitute an active ingredient and, consequently, cannot give rise to the grant of a supplementary protection certificate (Massachusetts Institute of Technology, EU:C:2006:291, paragraph 25, and order in Glaxosmithkline Biologicals and Glaxosmithkline Biologicals, Niederlassung der Smithkline Beecham Pharma, C‑210/13, EU:C:2013:762, paragraph 35).
+The answer to the question whether a safener is an active substance, within the meaning of Article 1.of Regulation No 1610/96, therefore depends on whether that substance has a toxic, phytotoxic or plant protection action of its own. If that is the case, it falls within the concept of a ‘product’, within the meaning of Article 1.of that regulation and may therefore, provided the conditions set out in Article of Regulation No 1610/are observed, give rise to the issue of a supplementary protection certificate.
+It is apparent from the explanations provided by the referring court and the observations submitted by Bayer and the Commission that safeners contained in the composition of plant protection products are intended to reduce the toxic effects of those products on certain plants. Safeners may thereby increase the effectiveness of a plant protection product by improving its selectivity and by limiting its toxic or ecotoxic effects. In this connection, Article of Regulation No 1107/2009, which was not applicable at the date of the facts in the main proceedings, defines safeners as ‘substances or preparations which are added to a plant protection product to eliminate or reduce phytotoxic effects of the plant protection product on certain plants’.
+It is for the national court before which the case in the main proceedings has been brought to ascertain, in the light of all the relevant factual and scientific evidence, whether the substance at issue in the main proceedings can, on account of its action as a safener, be classified as an ‘active substance’ within the meaning of Article 1.of Regulation No 1610/96.
+However, it must be observed that, although that classification is a necessary condition for the issuance of a supplementary protection certificate, it is not sufficient in that respect: the four cumulative conditions listed in Article 3(1) of Regulation No 1610/must be fulfilled. That provision states, essentially, that a supplementary protection certificate cannot be issued unless, at the date of the application, the product is protected by a basic patent in force and has not already been the subject of a certificate. It is also necessary for that product to have obtained a valid MA ‘in accordance with Article of Directive [91/414] or an equivalent provision of national law’, that MA being, lastly, the first authorisation of the product as a plant protection product (see, to that effect, Hogan Lovells International, EU:C:2010:673, paragraph 51).
+In this connection, Regulation No 1610/seeks to limit the erosion of the effective protection accorded to patented inventions in the area of plant protection by reason, in particular, of the time required to obtain an MA. The supplementary protection certificate is designed to re-establish a sufficient period of effective protection of the patent by permitting the holder to enjoy an additional period of exclusivity on the expiry of the basic patent which is intended to compensate, at least in part, for the delay to the commercial exploitation of his invention by reason of the time which has elapsed between the date on which the application for the patent was filed and the date on which the first MA in the European Union was granted (Hogan Lovells International, EU:C:2010:673, paragraphs and 50).
+In circumstances such as those at issue in the main proceedings, it is therefore for the national court before which the dispute has been brought to ascertain whether, as provided in Article of Regulation No 1610/96, the product containing the safener at issue in its composition has, on the territory of the Member State concerned, a valid MA as a plant protection product ‘in accordance with Article of Directive [91/414] or an equivalent provision of national law’. That latter condition must be read in the light of Article of that regulation, from which it is apparent that the equivalent provision of national law concerned relates to the situation of plant protection products ‘in respect of which the application for authorisation was lodged before Directive [91/414] was implemented by [the Member State concerned]’.
+The referring court, the Polish Government and the Commission have all observed that, under Regulation No 91/414, safeners were not treated in the same way as active substances and, consequently, were not subject to the procedure for registration in Annex I to that directive. According to the Commission, safeners, in the context of the application of Directive 91/414, were regarded at the most merely as ‘co-formulants’.
+However, as the Advocate General noted in point of his Opinion, while Directive 91/is not without importance for the application of Regulation No 1610/96, the grant of a supplementary protection certificate is still regulated autonomously by that regulation. Thus, although no safener was included in Annex I to Directive 91/as an active substance, that fact does not lead to the definitive conclusion that the commercial exploitation of a patent for a safener has not been delayed on account of the time required to obtain an MA ‘in accordance with Article of Directive [91/414] or an equivalent provision of national law’ within the meaning of Article of Regulation No 1610/96.
+The procedure for an MA referred to in Article of Directive 91/requires the submission of the dossier provided for in Annex III to that directive and intended to demonstrate, in particular, the effectiveness and the effects of a plant protection product. That dossier must include, in particular, data concerning the co-formulants referred to in point 1.4.of Part A of Annex III, among which safeners are included. Therefore, it is possible that the submission of a dossier in accordance with the requirements set in Annex III with a view to obtaining an MA for a plant protection product containing a safener has delayed the commercial exploitation of a patent for that safener.
+In that regard, the referring court stated specifically that Isoxadifen was examined in connection with a procedure for a provisional MA for a product containing two other active substances and that the duration of that procedure reduced the effective duration of protection provided by the patent. Those matters, should they be established by the national court before which the case in the main proceedings has been brought, which alone has jurisdiction in this respect, may enable that court to consider the condition set out in Article of Regulation No 1610/and relating to the existence of a valid MA obtained in accordance with Article of Directive 91/to be fulfilled.
+It follows from all the foregoing considerations that the answer to the question referred is that the term ‘product’ in Article 1.and Article 3(1) of Regulation No 1610/96, and the term ‘active substances’ in Article 1.of that regulation, must be interpreted as meaning that those terms may cover a substance intended to be used as a safener, where that substance has a toxic, phytotoxic or plant protection action of its own.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+The term ‘product’ in Article 1.and Article 3(1) of Regulation (EC) No 1610/of the European Parliament and of the Council of July concerning the creation of a supplementary protection certificate for plant protection products, and the term ‘active substances’ in Article 1.of that regulation, must be interpreted as meaning that those terms may cover a substance intended to be used as a safener, where that substance has a toxic, phytotoxic or plant protection action of its own.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

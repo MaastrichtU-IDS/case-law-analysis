@@ -1,0 +1,392 @@
+
+ORDER OF THE COURT (Seventh Chamber)
+September (*)
+      
+(Appeal – Public service contracts – Call for tenders – Analysis, development, maintenance and support of telematic systems for the monitoring of products subject to excise duty
+         – Rejection of the tender – Failure to state reasons for that rejection)
+      
+In Case C‑289/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on June 2010,
+Evropaïki Dynamiki – Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE, established in Athens (Greece), represented by N. Korogiannakis, dikigoros,
+      
+appellant,
+the other party to the proceedings being:
+European Commission, represented by M. Wilderspin, acting as Agent, with an address for service in Luxembourg,
+      
+defendant at first instance,
+THE COURT (Seventh Chamber),
+composed of D. Šváby, President of the Chamber, E. Juhász (Rapporteur) and J. Malenovský, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: A. Calot Escobar,
+after hearing the Advocate General,
+makes the following
+Order
+By its appeal, Evropaïki Dynamiki – Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE (‘Evropaïki Dynamiki’)
+         seeks to have set aside the judgment of the General Court of the European Union of March in Case T‑50/Evropaïki Dynamiki v Commission [2010] ECR II‑(‘the judgment under appeal’), in which the General Court dismissed its application for annulment of the
+         Commission’s decision of November to reject the tender submitted by the consortium which it had formed with another
+         company in the context of a call for tenders for the supply of IT services concerning the specification, development, maintenance
+         and support of telematic systems to control the movements of products subject to excise duty within the European Community
+         under the excise-duty suspension arrangement and to award the contract to another tenderer (‘the contested decision’).
+      
+So far as concerns the legal background to the case, the facts giving rise to the dispute and the procedure before the General
+         Court, it is appropriate to refer to paragraphs to of the judgment under appeal.
+      
+ Forms of order sought
+By its appeal, Evropaïki Dynamiki requests the Court to set aside the judgment under appeal and the contested decision and
+         to order the European Commission to pay the costs, including those incurred at first instance.
+      
+The Commission requests the Court to dismiss the appeal and to order Evropaïki Dynamiki to pay the costs.
+      
+ The appeal
+Under Article of its Rules of Procedure, where the appeal is, in whole or in part, clearly inadmissible or clearly unfounded,
+         the Court may at any time, acting on a report from the Judge-Rapporteur and after hearing the Advocate General, by reasoned
+         order dismiss the appeal in whole or in part.
+      
+The appeal consists of four grounds of appeal, alleging, firstly, a misapplication of Article 89(1) of Council Regulation
+         (EC, Euratom) No 1605/of June on the Financial Regulation applicable to the general budget of the European Communities
+         (OJ L 248, p. 1; the ‘Financial Regulation’), and infringement of the principles of equal treatment, non-discrimination,
+         transparency and free competition; secondly, the error in law made by the General Court by reason of its rejection of the
+         plea alleging that the contested decision was insufficiently reasoned; thirdly, breach of Article of the Financial Regulation
+         and of Article 17(1) of Council Directive 92/50/EEC of June relating to the coordination of procedures for the award
+         of public service contracts (OJ L 209, p. 1); and, fourthly, a manifest error of assessment vitiating the judgment under
+         appeal.
+      
+ The first ground of appeal: misinterpretation of Article 89(1) of the Financial Regulation and infringement of the principles
+            of equal treatment, non-discrimination, transparency and free competition
+First, it should be noted that the first ground of appeal does not specifically relate to the principles of equal treatment,
+         non-discrimination, transparency and free competition, but is based on Article 89(1) of the Financial Regulation, which provides
+         that all public contracts financed in whole or in part by the EU budget must comply with those principles.
+      
+It should also be noted that the arguments put forward in support of this ground of appeal centre on the communication, first,
+         of the exact specifications of the computerised system for monitoring the movement of excisable goods (‘EMCS’), enabling the
+         Member States to obtain real-time information on those movements and to carry out the requisite checks, and, second, of the
+         source-code for the new computerised transit system (‘NCTS’), as well as technical information relating to the EMCS.
+      
+It is appropriate, therefore, to examine the two parts of the first ground of appeal in turn.
+      
+ The first part of the first ground of appeal, concerning the specifications for the EMCS
+–       Arguments of the parties
+By this first part of the first ground of appeal, Evropaïki Dynamiki submits that the General Court erred in law in rejecting
+         its plea alleging breach of the Financial Regulation by the Commission, in so far as the latter refused to provide it with
+         the detailed specifications for the EMCS. The appellant maintains that the General Court erred, at paragraphs to of
+         the judgment under appeal, in accepting that the specifications for the EMCS did not exist or were embryonic. Evropaïki Dynamiki
+         claims that the time which had elapsed since the date of the award of the EMCS contract was long enough to allow the contractors
+         for the contracts already awarded to acquire critical information in this field.
+      
+The Commission contends, principally, that the first part of the first ground of appeal is inadmissible and, alternatively,
+         that it is unfounded.
+      
+–       Findings of the Court
+It is necessary to note that the General Court stated, at paragraph of the judgment under appeal, that the contractor for
+         the earlier contract at issue had begun to work on the specifications for the EMCS in June and that it had finished in
+         April 2005, whereas the call for tenders for the contract forming the subject of the action brought by Evropaïki Dynamiki
+         (‘the contract at issue’) was published in July 2004, with a deadline for the submission of tenders set at August 2004.
+         In the light of the fact that only three months elapsed between the start of that work and the deadline for the submission
+         of tenders for the contract at issue, the General Court took the view, at paragraph of the judgment under appeal, that,
+         during the call for tenders procedure, no tenderer could have had more information than Evropaïki Dynamiki regarding the specifications
+         for the EMCS, since those specifications did not exist, or were at an embryonic stage.
+      
+Furthermore, the General Court pointed out at paragraph of the judgment under appeal that, even if the contractor for the
+         earlier contract had managed to draw up specifications capable of being used for the formulation of tenders for the contract
+         at issue, that was not decisive since its offer was not successful. In the same paragraph, the General Court also pointed
+         out that there was no basis for claiming that the contractor for the earlier contract had given the benefit of privileged
+         access to those specifications to any tenderer.
+      
+At paragraph of the judgment under appeal, the General Court concluded that Evropaïki Dynamiki had not shown that certain
+         tenderers had more information than it had with regard to the specifications for the EMCS and that, therefore, there had been
+         no unequal treatment of tenderers.
+      
+In this respect, it is appropriate to point out, firstly, that the arguments raised in support of that first part of the first
+         ground of appeal are limited to disputing the factual assessments of the General Court and the conclusion which it drew from
+         those assessments.
+      
+Secondly, Evropaïki Dynamiki does not allege that the General Court distorted those facts.
+      
+The appraisal of the relevant facts and the evidence does not, however, save where the facts or evidence have been distorted,
+         constitute a point of law which is subject, as such, to review by the Court of Justice on appeal.
+      
+Under the second subparagraph of Article 256(1) TFEU and the first paragraph of Article of the Statute of the Court of
+         Justice of the European Union, an appeal lies on points of law only. The General Court thus has exclusive jurisdiction to
+         find and appraise the relevant facts and to assess the evidence (see, to that effect, judgment in Case C‑214/P Rossi v OHIM [2006] ECR I‑7057, paragraph 26; orders of June in Case C-448/P Royal Appliance International v OHIM, paragraph 77, and of December in Case C-156/P Goncharov v OHIM, paragraph 38).
+      
+In those circumstances, the first part of the first ground of appeal is clearly inadmissible.
+      
+ The second part of the first ground of appeal, concerning the NCTS
+–       Arguments of the parties
+By this second part of the first ground of appeal, Evropaïki Dynamiki claims that the General Court erred in law in rejecting
+         its plea alleging breach of the Financial Regulation by the Commission, inasmuch as the Commission had refused to make available
+         to it the NCTS source-code as well as technical information concerning the EMCS.
+      
+Evropaïki Dynamiki maintains that the General Court erred, at paragraphs to of the judgment under appeal, in holding
+         that it was not necessary for the tenderers to have access to the NCTS source-code. It takes issue with the assessment, made
+         at paragraph 82, according to which the NCTS and the EMCS are different and maintains that that assessment contradicts paragraphs
+         and of the same judgment, according to which that code could be re-used.
+      
+According to Evropaïki Dynamiki, the General Court erred at paragraphs to of the judgment under appeal by not accepting
+         that the tenderers were required to re-use the NCTS source-code in order to reduce the cost of the project as much as possible.
+         Evropaïki Dynamiki maintains that the General Court was wrong to find, at paragraph of that judgment, that the information
+         contained in that code was not necessary or useful for the formulation of tenders relating to the contract at issue and that
+         the Commission could communicate only part of the documentation relating to it without thereby giving an advantage to the
+         successful tenderer. Evropaïki Dynamiki submits that the description of work package No 7.of the contract at issue bears
+         out its view.
+      
+Evropaïki Dynamiki claims that the General Court, at paragraph of the judgment under appeal, wrongly confirmed the Commission’s
+         position, according to which the concept of ‘components of the NCTS’ covers, in addition to the NCTS design and technical
+         documentation and source-code, other aspects of the NCTS, such as methodology, quality assurance procedures and test procedures.
+      
+According to Evropaïki Dynamiki, the General Court also erred, at paragraphs to of the judgment under appeal, in finding
+         that Evropaïki Dynamiki had not demonstrated the impact, as regards the production of the tender and determination of the
+         price, of a lack of knowledge of the NCTS source-code and the technical documentation and design relating thereto. Evropaïki
+         Dynamiki claims that the Commission obliged the tenderers to make clear estimations requiring a detailed knowledge of that
+         code and that documentation.
+      
+Furthermore, Evropaïki Dynamiki criticises the General Court for not establishing the similarity between the case which gave
+         rise to the judgment in Case T‑345/Evropaïki Dynamiki v Commission [2008] ECR II‑and the case at present under appeal.
+      
+The Commission contends, primarily, that the second part of the first ground of appeal is inadmissible and, alternatively,
+         that it is unfounded.
+      
+–       Findings of the Court
+Firstly, so far as concerns the first limb of the second part of the first ground of appeal, relating to paragraphs to
+         of the judgment under appeal, it must be noted that, in the light of the case-law cited at paragraph of the present
+         order, it is clearly inadmissible, given that those paragraphs contain only findings of fact and that no distortion of the
+         facts is alleged in regard to them.
+      
+Secondly, as regards the second limb of that second part of the first ground of appeal, challenging the assessment at paragraph
+         of the judgment under appeal, and the alleged contradiction between that paragraph and paragraphs and of that judgment,
+         it must be noted, first, that, given that no distortion of the facts is alleged in regard to such an assessment made by the
+         General Court, that assessment cannot be subject to review by the Court of Justice in the present appeal.
+      
+Furthermore, the appellant has not established any contradiction between paragraph of the judgment under appeal, according
+         to which there are differences between the NCTS and the EMCS, and paragraphs and of that judgment, which indicate a
+         possible re-use of the NCTS for the purposes of the EMCS. The fact that the NCTS is capable of being re-used for the EMCS
+         does not exclude the possibility that there may be differences between them.
+      
+Consequently, the second limb of that second part of the first ground of appeal is in part clearly inadmissible and in part
+         clearly unfounded.
+      
+As regards the third limb of the second part of the first ground of appeal, challenging paragraphs to of the judgment
+         under appeal, it is necessary to note that an appeal must indicate precisely the contested elements of that judgment which
+         the appellant seeks to have set aside and also the legal arguments specifically advanced in support of the appeal. That requirement
+         is not satisfied by an appeal which, without even including an argument specifically identifying the error of law allegedly
+         vitiating the judgment under appeal, confines itself to reproducing the pleas in law and arguments previously submitted to
+         the General Court. Such an appeal amounts in reality to no more than a request for re‑examination of the application submitted
+         to the General Court, which the Court of Justice does not have jurisdiction to undertake (see, inter alia, judgments in Case
+         C‑352/P Bergaderm and Goupil v Commission [2000] ECR I‑5291, paragraphs and 35, and in Case C‑248/P France v Monsanto and Commission [2002] ECR I‑1, paragraph 68; and order of May in Case C‑99/P Smanor and Others v Commission, paragraph 15).
+      
+It is, however, clear that, by that third limb of the second part of the first ground of appeal, Evropaïki Dynamiki is, in
+         essence, asking the Court of Justice to rule again on certain aspects of the dispute, on the basis of arguments already set
+         out before the General Court, without invoking any error of law vitiating the assessments made by the General Court at paragraphs
+         to of the judgment under appeal.
+      
+It is for that reason clearly inadmissible.
+      
+As regards the fourth limb of the second part of the first ground of appeal, challenging paragraphs to of the judgment
+         under appeal, this is, in the light of the case-law cited at paragraph of this order, also clearly inadmissible.
+      
+That limb does not contain any legal arguments capable of calling into question either the conclusion arrived at by the General
+         Court, at paragraphs and of the judgment under appeal, that Evropaïki Dynamiki had not shown how access to the NCTS
+         source-code could have been useful for the purpose of pricing its tenders, or the reasoning, at paragraphs and of that
+         judgment, in support of that conclusion.
+      
+Finally, as regards the fifth limb of the second part of the first ground of appeal, challenging the finding made at paragraph
+         of the judgment under appeal, as regards the case giving rise to the judgment of the General Court in Case T‑345/Evropaïki Dynamiki v Commission, a case in which non-communication of the NCTS source-code had been a factor which led the General Court to annul the Commission’s
+         decision excluding the appellant’s tender, it must be noted that, at paragraph of the judgment at present under appeal,
+         the General Court drew a distinction with regard to the facts of that earlier case on the ground that, in it, the call for
+         tenders had concerned availability and development of the existing system Cordis, whereas, in the present case, the facts
+         concerned a call for tenders in respect of the development of a new system.
+      
+Evropaïki Dynamiki disputes that factual assessment by the General Court, but merely claims that those cases are equivalent,
+         without setting out reasons for its disagreement on this point.
+      
+This limb of the second part of the first ground of appeal is, therefore, in the light of the case-law cited at paragraph
+         of the present order, clearly inadmissible.
+      
+In those circumstances, the second part of the first ground of appeal is in part clearly inadmissible and in part clearly
+         unfounded.
+      
+Consequently, the first ground of appeal raised by Evropaïki Dynamiki must be rejected.
+      
+ The second ground of appeal, challenging the General Court’s rejection of the plea alleging that the contested decision was
+            insufficiently reasoned
+–       Arguments of the parties
+Evropaïki Dynamiki submits that the General Court erred, at paragraphs to of the judgment under appeal, in finding
+         that the Commission had supplied sufficient information to make it possible for that company to assert its rights and to enable
+         the General Court to exercise its judicial review of the contested decision. Evropaïki Dynamiki maintains, first, that the
+         Commission failed to provide the information which it had asked for concerning the reasons for the rejection of its tender
+         as well as the relative advantages of the successful tender and, second, that it should have received a copy of the report
+         of the evaluation committee which the contracting authority had set up for the purpose of awarding the contract at issue (‘the
+         evaluation committee’), in accordance with paragraph of the General Court’s judgment of September in Case T-59/Evropaïki Dynamiki v Commission.
+      
+The Commission takes the view that the judgment under appeal is not vitiated by any error in this regard. 
+      
+–       Findings of the Court
+Firstly, so far as concerns the allegation that the information and details requested from the Commission by Evropaïki Dynamiki
+         were communicated to the latter in a manner which was insufficient to enable it to identify the reasons why its tender had
+         been rejected, it should be pointed out that, although the contracting authority is obliged to transmit to a tenderer all
+         the relevant factors on which it based its decision, it is not for that tenderer to dictate the form and content of that transmission.
+      
+In this respect, it must be stated that the General Court acted correctly in law in taking the view, at paragraph of the
+         judgment under appeal, that, by communicating, first, the essential grounds for the rejection of Evropaïki Dynamiki’s tender,
+         and, subsequently, the sufficiently detailed extract from the evaluation committee’s report, the Commission had provided,
+         to the requisite legal standard, the reasons why the tender submitted by the consortium to which that company belonged had
+         been rejected.
+      
+In that regard, that second ground of appeal does not contain any argument capable of calling into question that assessment
+         of the General Court.
+      
+Secondly, as regards the judgment of the General Court in Case T‑59/in Evropaïki Dynamiki v Commission, to which Evropaïki Dynamiki refers in this ground of appeal, it must be stated that it does not follow from paragraphs to of that judgment that the transmission of a copy of the evaluation committee’s report to those tenderers which have
+         requested it is a prerequisite for accepting that the contracting authority has fulfilled its obligation to state the reasons
+         for its decision rejecting the tender.
+      
+That judgment cannot therefore reinforce the second ground raised by Evropaïki Dynamiki in support of its appeal and, consequently,
+         that ground of appeal must be rejected as being clearly unfounded.
+      
+ The third ground of appeal: breach of Article of the Financial Regulation and of Article 17(1) of Directive 92/–       Arguments of the parties
+Evropaïki Dynamiki claims that the General Court, at paragraphs to of the judgment under appeal, erred in taking the
+         view that Evropaïki Dynamiki had not demonstrated that the award criteria were vague and subjective, given that, in light
+         of the uncertainty as to the scope of the work and the degree of potential re-use of the NCTS, no tenderer could reasonably
+         have produced its tender. Evropaïki Dynamiki considers that the use of criteria that are not well specified in a call for
+         tenders and the contract notice constitutes a breach of Article 97(1) of the Financial Regulation and of Article 17(1) of
+         Directive 92/and that such criteria cannot be used when the tenders are being evaluated by the contracting authorities.
+      
+The Commission contends that this ground is inadmissible and, in any event, wholly unfounded.
+      
+–       Findings of the Court
+In the first place, it must be noted that the General Court found, at paragraph of the judgment under appeal, that, pursuant
+         to Article of the Financial Regulation, from the date of entry into force of that regulation, namely January 2003, the
+         directives relating to the coordination of procedures for the award of public supply, service and works contracts did not
+         apply to public contracts awarded by the European Union institutions on their own behalf except as regards questions concerning
+         the thresholds which determine publication arrangements, the choice of procedures and corresponding time-limits. The General
+         Court thus examined the second plea concerning the criteria for the award of the contract at issue relied on by Evropaïki
+         Dynamiki in support of its action before that Court solely in the light of the provisions of the Financial Regulation and
+         the rules for its implementation.
+      
+It is, however, common ground that the third ground relied on by Evropaïki Dynamiki in support of its appeal does not contain
+         any argument designed to show that Directive 92/is applicable in the present case.
+      
+Secondly, it must be noted that, at paragraphs to of the judgment under appeal, the General Court found, on the one
+         hand, that the contract award criteria, which had, in any event, to be aimed at identifying the offer which was economically
+         the most advantageous, did not necessarily have to be quantitative, and, on the other hand, that those criteria appeared both
+         in the contract notice at issue and in the specifications annexed to the invitation to tender and therefore fulfilled the
+         condition of publicity laid down in Article 97(1) of the Financial Regulation.
+      
+In that respect, as regards the breach of Article of the Financial Regulation alleged by Evropaïki Dynamiki, it must be
+         stated that the latter has not raised any argument in support of its third ground of appeal which is capable of casting doubt
+         either on the General Court’s interpretation of that article or on the General Court’s assessment that the contract award
+         criteria at issue complied with the requirements of that article.
+      
+Thirdly, it must be stated that, at paragraphs to of the judgment under appeal, the General Court pointed out that
+         Evropaïki Dynamiki had not put forward any evidence to support its claims that the award criteria for the contract at issue
+         were vague and subjective, in the sense that they were unjustified and irrelevant in the light of that contract. The General
+         Court also noted that, even if those criteria were not quantitative, that fact alone could not be taken to mean that the contracting
+         authority had not applied them objectively and uniformly.
+      
+Evropaïki Dynamiki does not, however, raise any argument in support of its third ground of appeal which is capable of bringing
+         into question the General Court’s assessment that no evidence had been submitted by Evropaïki Dynamiki either in support of
+         the allegedly vague and subjective nature of the award criteria for the contract at issue or in support of an alleged misapplication
+         of those criteria.
+      
+In those circumstances, that ground of appeal must be considered to be clearly inadmissible.
+      
+ The fourth ground of appeal: manifest error of assessment
+–       Arguments of the parties
+By the first part of its fourth ground of appeal, Evropaïki Dynamiki claims that, at paragraphs to of the judgment
+         under appeal, the General Court erred in taking the view that the comment of the evaluation committee was well founded. It
+         disputes the findings made by the General Court concerning the Gantt diagrams and maintains that the error relating to the
+         first award criterion for the contract at issue was so grave that it also had a serious impact on the second to fourth criteria.
+      
+By the second part of the fourth ground of appeal, Evropaïki Dynamiki submits that, at paragraphs to of the judgment
+         under appeal, the General Court erred in finding that Evropaïki Dynamiki could not offer the Cocomo (‘Constructive Cost Model’)
+         methodology. In its view, although the Cosmic FFP (‘Common Software Measurement International Consortium-FFP’) methodology
+         is valid when a new project is being started up from zero, when a contractor re-uses the design and technical documentation
+         and source-code of an existing IT application, namely NCTS, in order to develop a new application, namely EMCS, then only
+         the Cocomo methodology is appropriate.
+      
+By the third part of the fourth ground of appeal, Evropaïki Dynamiki claims that, at paragraphs to of the judgment
+         under appeal, the General Court erred in finding that Evropaïki Dynamiki had failed to show that the evaluation committee
+         had made an error of assessment. Evropaïki Dynamiki claims that the evaluation committee, wrongly, pointed to an inconsistency
+         in the tender, where it found that, although that tender referred to RUP (‘Rational Unified Process’) as ‘the’ methodology
+         to follow, it did not, however, refer to the holding of a licence for the IBM-Rational software, which was required in order
+         to use that method, which maintained uncertainty as to the cost of the use of that software. Evropaïki Dynamiki stresses in
+         this regard that the tender specifications did not require references to software, that it is self-evident in its business
+         that it has licences for the tools used by it and that it is its responsibility to pay the costs relating to them.
+      
+By the fourth part of the fourth ground of appeal, Evropaïki Dynamiki claims that, at paragraph of the judgment under
+         appeal, there is a contradiction in the reasoning of that paragraph. In that respect, Evropaïki Dynamiki claims that, given
+         that the General Court acknowledged that the tender specifications did not require tenderers to have customs and excise experience,
+         it is for that reason difficult to understand why the fact that Evropaïki Dynamiki referred to such experience in the tender,
+         without, however, proving that it had it, should have been regarded as a negative point and have led to lower evaluation marks
+         than those of other tenderers.
+      
+The Commission takes the view, primarily, that this ground of appeal is inadmissible. It claims, alternatively, that it is
+         ineffective and, in any event, unfounded.
+      
+–       Findings of the Court
+So far as concerns the first and third parts of this ground of appeal, it must be noted that these criticise certain of the
+         evaluation committee’s comments and are limited to taking issue with the General Court for not upholding those points of criticism.
+      
+Those parts of the ground of appeal do not attempt to demonstrate the existence of errors of law allegedly vitiating the judgment
+         under appeal, but seek, by reproducing the arguments relied on in the proceedings at first instance, to secure a re-examination
+         of the application submitted to the General Court, something which falls outside the jurisdiction of the Court of Justice
+         (see, to that effect, judgments in Case C‑76/P Eurocoton and Others v Council [2003] ECR I‑10091, paragraphs and 47, and in Case C‑280/P Deutsche Telekom v Commission [2010] ECR I‑0000, paragraph 24).
+      
+Therefore, those parts must be rejected as being clearly inadmissible.
+      
+With regard to the second part of the fourth ground of appeal, it is necessary to bear in mind, first, that the General Court
+         found that, although the tender specifications for the contract at issue had required use of the Cosmic-FFP system to provide
+         estimates, Evropaïki Dynamiki’s tender referred to the Cocomo method and to the Calico (‘Computer-Assisted Language Instruction
+         Consortium’) and Costar tools, which are software evaluation tools based on that method.
+      
+Next, it must be noted that the General Court held, at paragraph of the judgment under appeal, that the evaluation committee
+         had criticised Evropaïki Dynamiki’s tender for not specifying the tools that were to be used within the framework of the Cosmic-FFP
+         system.
+      
+Finally, it must be borne in mind that the General Court noted that Evropaïki Dynamiki did not contest those factual elements
+         and also did not claim that those elements were of such a nature as to mean that the assessment of the tender carried out
+         by the evaluation committee was incorrect.
+      
+Given that Evropaïki Dynamiki did not dispute the abovementioned facts before the General Court, Evropaïki Dynamiki cannot
+         now complain, in its appeal, that the General Court confirmed those facts and drew an unambiguous conclusion.
+      
+Furthermore, as the Commission maintains, a tenderer cannot impose on a contracting authority the use of a particular IT system.
+      
+It follows that the second part of the fourth ground of appeal is clearly inadmissible.
+      
+The fourth part of that ground of appeal is based on a misreading of paragraphs and of the judgment under appeal.
+      
+In those paragraphs, the General Court found that, although the tender specifications in question did not require tenderers
+         to have customs and excise experience, Evropaïki Dynamiki’s tender referred to such experience. The General Court also noted
+         that that experience had not been demonstrated in that tender or during the proceedings at first instance. In those circumstances,
+         the General Court held that the evaluation committee’s comment, in so far as it was based on those statements and pointed
+         out that those matters were inconsistent, was such as to help to clarify matters for the contracting authority and was not
+         incorrect.
+      
+Firstly, however, no argument has been put forward, in support of this fourth part of the fourth ground of appeal, that is
+         capable of showing that the General Court erred in the assessment of the evaluation committee’s comment. Furthermore, Evropaïki
+         Dynamiki does not claim that that assessment was based on facts which were distorted by the General Court.
+      
+Secondly, even if that comment were inaccurate, it cannot in any way be inferred from that inaccuracy that the General Court
+         committed a manifest error of assessment.
+      
+The fourth part of the fourth ground of appeal is thus clearly inadmissible.
+      
+Consequently, the fourth ground of appeal put forward by Evropaïki Dynamiki must be rejected as being clearly inadmissible.
+      
+In those circumstances, since none of the grounds put forward by Evropaïki Dynamiki in support of its appeal can be upheld,
+         that appeal must be dismissed as being in part clearly inadmissible and in part clearly unfounded. 
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, which is applicable to the procedure on appeal pursuant to Article of those
+         Rules, the unsuccessful party is to be ordered to pay the costs if they have been asked for in the successful party’s pleadings.
+         Since the Commission has applied for costs to be awarded against Evropaïki Dynamiki and the latter has been unsuccessful,
+         Evropaïki Dynamiki must be ordered to pay the costs.
+      
+On those grounds, the Court (Seventh Chamber) hereby orders:
+1.      The appeal is dismissed.
+2.      Evropaïki Dynamiki – Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE shall pay the costs.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

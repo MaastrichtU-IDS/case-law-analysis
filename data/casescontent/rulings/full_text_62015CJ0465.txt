@@ -1,0 +1,114 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Taxation — Taxation of energy products and electricity — Directive 2003/96/EC — Scope — Article 2(4)(b) — Electricity used principally for the purposes of chemical reduction — Concept)
+In Case C‑465/15,
+REQUEST for a preliminary ruling under Article TFEU from the Finanzgericht Düsseldorf (Finance Court, Düsseldorf, Germany), made by decision of August 2015, received at the Court on September 2015, in the proceedings
+Hüttenwerke Krupp Mannesmann GmbH
+v
+Hauptzollamt Duisburg,
+THE COURT (Ninth Chamber),
+composed of E. Juhász, President of the Chamber, C. Vajda (Rapporteur) and K. Jürimäe, Judges,
+Advocate General: M. Bobek,
+Registrar: X. Lopez Bancalari, Administrator,
+having regard to the written procedure and further to the hearing on November 2016,
+after considering the observations submitted on behalf of:
+–
+Hüttenwerke Krupp Mannesmann GmbH, by K. Möhlenkamp, Rechtsanwältin, and C. Palme,
+–
+Hauptzollamt Duisburg, by H. Tulowitzki and P. Germelmann, acting as Agents,
+–
+the United Kingdom Government, by M. Holt and D. Robertson, acting as Agents, and by M. Gray, Barrister,
+–
+the European Commission, by F. Tomat and M. Wasmeier, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on January 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the third indent of Article 2(4)(b) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, p. 51).
+The request has been made in proceedings between Hüttenwerke Krupp Mannesmann GmbH (‘Hüttenwerke Krupp’) and Hauptzollamt Duisburg (Principal Customs Office, Duisbourg, Germany, ‘the Principal Customs Office’) concerning the rejection of the tax exemption sought by Hüttenwerke Krupp for the electricity used in its operation in November for the operation of a turbo blower.
+Legal context
+EU law
+Recitals 2, 7, 11, and of Directive 2003/state:
+‘(2)
+The absence of Community provisions imposing a minimum rate of taxation on electricity and energy products other than mineral oils may adversely affect the proper functioning of the internal market.
+(3)
+The proper functioning of the internal market and the achievement of the objectives of other Community policies require minimum levels of taxation to be laid down at Community level for most energy products, including electricity, natural gas and coal.
+(4)
+Appreciable differences in the national levels of energy taxation applied by Member States could prove detrimental to the proper functioning of the internal market.
+(5)
+The establishment of appropriate Community minimum levels of taxation may enable existing differences in the national levels of taxation to be reduced.
+(6)
+In accordance with Article of the [EC] Treaty, environmental protection requirements must be integrated into the definition and implementation of other Community policies.
+(7)
+As a party to the United Nations Framework Convention on Climate Change, the Community has ratified the Kyoto Protocol. The taxation of energy products and, where appropriate, electricity is one of the instruments available for achieving the Kyoto Protocol objectives.
+…
+(11)
+Fiscal arrangements made in connection with the implementation of this Community framework for the taxation of energy products and electricity are a matter for each Member State to decide. In this regard, Member States might decide not to increase the overall tax burden if they consider that the implementation of such a principle of tax neutrality could contribute to the restructuring and the modernisation of their tax systems by encouraging behaviour conducive to greater protection of the environment and increased labour use.
+(12)
+Energy prices are key elements of Community energy, transport and environment policies.
+…
+(22)
+Energy products should essentially be subject to a Community framework when used as heating fuel or motor fuel. To that extent, it is in the nature and the logic of the tax system to exclude from the scope of the framework dual uses and non-fuel uses of energy products as well as mineralogical processes. Electricity used in similar ways should be treated on an equal footing.’
+Article of Directive 2003/requires Member States to impose taxation on energy products and electricity in accordance with that directive.
+Article 2(1) of that directive defines energy products, drawing up a list of products falling within the Combined Nomenclature codes set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1). Article 2(2) of that directive states that it also applies to electricity falling within code of that nomenclature.
+Article 2(4) of that directive states:
+‘This Directive shall not apply to:
+…
+(b)
+the following uses of energy products and electricity:
+–
+energy products used for purposes other than as motor fuels or as heating fuels,
+–
+dual use of energy products
+An energy product has a dual use when it is used both as heating fuel and for purposes other than as motor fuel and heating fuel. The use of energy products for chemical reduction and in electrolytic and metallurgical processes shall be regarded as dual use,
+–
+electricity used principally for the purposes of chemical reduction and in electrolytic and metallurgical processes,
+…’
+German law
+Under Paragraph 9a(1) of the Stromsteuergesetz (Electricity Tax Law, ‘the StromStG’), in the version applicable to the facts of the main proceedings:
+‘A rebate, refund or compensation of the tax charged on electricity shall be granted on application if it is certified that the electricity was taxed and used by a manufacturing undertaking
+…
+4.
+for chemical reduction reactions,
+…’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Hüttenwerke Krupp operates a steel plant. It produces high-temperature pig iron in blast furnaces by a chemical reduction process using iron ore and coke.
+The plant includes turbo blowers operated by electric motors, by means of which the ambient air is compressed and conveyed into hot blast stoves. The compressed air, which is then heated, is subsequently forced by other blowers into a blast furnace where a chemical reduction occurs in which the iron ore is gradually transformed into iron by the addition of carbon monoxide at high temperature. Injecting hot compressed air is necessary to trigger and maintain the chemical reduction in the blast furnace.
+On April Hüttenwerke Krupp applied to the Principal Customs Office for relief, under Article 9a of the StromStG, in respect of 20585.MWh of electricity used during the month of November for the operation of the turbo blower. By decision of June 2013, the Principal Customs Office refused that request. It also dismissed the administrative complaint lodged by Hüttenwerke Krupp against that decision.
+Hüttenwerke Krupp brought an action against that decision before the national court.
+It submits that the concept of ‘electricity used principally for the purposes of chemical reduction’ referred to in the third indent of Article 2(4)(b) of Directive 2003/extends to all electricity consumption which is used for processes of chemical reduction, as confirmed by the word ‘for’ used in the wording of that provision. In its view, that concept includes the whole process of carrying out the chemical reduction, without any distinction being made between the various stages of the process. The production and channelling of compressed air also forms part of the chemical reduction process, without which that process would be impossible.
+However, the Principal Customs Office maintains that the electricity must be used directly for processes of chemical reduction and not in auxiliary or ancillary installations for other stages in the production process, even when those installations are indispensable for the production of pig iron. The electricity used in a turbo blower which, it contends, operates upstream of the actual chemical reduction process cannot be considered as being used directly for that process.
+The referring court states that the solution of the dispute pending before it depends on the interpretation to be given under Article 9a(1) of the StromStG, in the version applicable to the facts of the main proceedings, implementing the third indent of Article 2(4)(b) of Directive 2003/96.
+For its part, that court considers that the use of compressed and heated ambient air in a blast furnace is an indispensable component of the process of a blast furnace and therefore of a chemical reduction process which should not therefore be considered to be an ‘upstream, already completed process’. It adds that hot compressed air is produced for the sole purpose of supplying a blast furnace with an element absolutely necessary for chemical reduction.
+In those circumstances, the Finanzgericht Düsseldorf (Finance Court, Düsseldorf) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Is the third indent of Article 2(4)(b) of [Council Directive 2003/96] to be interpreted, with respect to the blast furnace process for the production of pig iron, as meaning that electricity for the propulsion of the turbo blower is to be regarded as electricity which is used principally for the purposes of chemical reduction?’
+Consideration of the question referred
+By its question, the referring court asks, essentially, whether the third indent of Article 2(4)(b) of Directive 2003/must be interpreted as meaning that the electricity used for the operation of turbo blowers intended to compress the air subsequently used in a blast furnace in the process of producing pig iron by chemical reduction of iron ore is ‘electricity used principally for the purposes of chemical reduction’ within the meaning of that provision.
+That question raises, in fact, the issue of the degree of the connection which must exist between the electricity and the chemical reduction in order to be able to consider that the electricity is used ‘principally for the purposes of chemical reduction’ within the meaning of the third indent of Article 2(4)(b) of Directive 2003/96.
+In that regard, it should be noted that Article 2(4)(b) of Directive 2003/excludes from the scope of that directive a series of energy and electricity products used for the purposes referred to therein. Accordingly, energy products and electricity falling within that provision are not subject to taxation in accordance with that directive.
+The ‘electricity used principally for the purposes of chemical reduction’ referred to in the third indent of Article 2(4)(b) of that Directive is thus excluded from the scope of Directive 2003/96.
+The ordinary meaning of the words ‘electricity used … for chemical reduction’ in the various language versions of the third indent of Article 2(4)(b) suggests that a remote connection between a use of the electricity and the chemical reduction is insufficient to make that use fall within the scope of that provision, just as the use of electricity which is not required to complete the chemical reduction is insufficient for that purpose.
+However, the wording of Directive 2003/does not, in itself, make it possible to determine whether there is a sufficiently close connection between electricity used for a purpose such as that at issue in the main proceedings and chemical reduction, within the meaning of that disposition.
+It is therefore necessary to consider not only the terms of the third indent of Article 2(4)(b) of Directive 2003/96, but also the context in which it occurs and the objectives pursued by the rules of which it forms part (see, inter alia, judgment of September 2014, Holger Forstmann Transporte, C‑152/13, EU:C:2014:2184, paragraph 26).
+In that regard, it should be pointed out that, under the second indent of Article 2(4)(b) of that directive, that directive does not apply to dual use energy products. It should be added that a definition of dual use energy products is referred to in that provision, which states that an energy product has a dual use when it is used both as heating fuel and for purposes other than as motor fuel and heating fuel. The use of energy products, in particular for chemical reduction, is considered a dual use.
+Article 2(4)(b) of Directive 2003/must be read in the light of recital thereof, which states that energy products should essentially be subject to a Community framework when used as heating fuel or motor fuel. It is also apparent from that recital that it is in the nature and logic of the tax system to exclude from the scope of that framework, inter alia, dual use of energy products, and that the electricity used in similar ways should be treated on an equal footing.
+As the Commission stated in its observations, it is because of the interchangeability of energy products and electricity that the legislature of the European Union chose to reserve a treatment similar to those products, for the purpose of defining the scope of application of Directive 2003/and, therefore, for the purposes of their taxation in accordance with that directive. Determining the material scope of that directive in such a way makes it possible to lay down minimum overall levels of taxation at EU level both for energy products and electricity and is ultimately aimed at achieving the twofold objective pursued by that directive, as set out in recitals to 6, 7, and thereof, namely, first, to ensure the proper functioning of the internal market in the energy sector and, secondly, to encourage environmental policy objectives.
+Having regard to the considerations set out in paragraphs and of the present judgment, it should be noted that an interpretation of the concept of ‘electricity used principally for the purposes of chemical reduction’, referred to in the third indent of Article 2(4)(b) of Directive 2003/96, which would be broader than that reserved for the concept of ‘energy products [used] for chemical reduction’, within the meaning of the second indent of that provision, would have the effect of undermining the similar treatment intended by the EU legislature between energy products and electricity used in the same way for the purpose of defining the scope of that directive.
+Such an interpretation would have the effect of excluding electricity from the taxation laid down in Directive 2003/96, to the detriment of an energy product used in the same way, which, for its part, would be subject to taxation in accordance with that directive. In view of the interchangeability of energy products and electricity, that interpretation would have the effect of favouring the use of electricity to the detriment of energy products, which would ultimately be contrary to the dual objective pursued by Directive 2003/96, referred to in paragraph of the present judgment.
+In the present case, it should also be pointed out that it is not apparent from the decision to refer that, in the plant at issue in the main proceedings, the electricity used to operate the turbo blower is used in any manner other than to operate the electric motors needed to compress the ambient air. The observations of Hüttenwerke Krupp are also based on the premiss that the electricity used in the main proceedings is used to operate the turbo blower as the driving force. Furthermore, Hüttenwerke Krupp confirmed at the hearing, in reply to a question from the Court, that it was in the hot blast stoves that the compressed air from the turbo blower was subsequently heated before being forced into the blast furnace.
+If, however, the turbo blower had operated not with electricity, but rather by using an energy product such as diesel, the latter would not fall within the concept of ‘dual use’ energy product within the meaning of the first sentence of the second indent of Article 2(4)(b) of Directive 2003/96, allowing it to benefit from exclusion from the scope of that directive, since the use of the energy product concerned would only serve to produce a driving force, which would therefore correspond to use as a fuel.
+Thus, for the reasons set out in paragraphs to of the present judgment, the third indent of that provision cannot be interpreted as excluding from the scope of that directive electricity used for the same purposes as an energy product, without undermining the similar treatment intended by the EU legislature between energy products and electricity for the purpose of defining the scope of Directive 2003/96.
+In the light of all the foregoing considerations, the answer to the question referred is that the third indent of Article 2(4)(b) of Directive 2003/must be interpreted as meaning that the electricity used for the operation of turbo blowers intended to compress the air subsequently used in a blast furnace in the process of producing pig iron by chemical reduction of iron ore is not ‘electricity used principally for the purposes of chemical reduction’ within the meaning of that provision.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+The third indent of Article 2(4)(b) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity must be interpreted as meaning that the electricity used for the operation of turbo blowers intended to compress the air subsequently used in a blast furnace in the process of producing pig iron by chemical reduction of iron ore is not ‘electricity used principally for the purposes of chemical reduction’ within the meaning of that provision.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

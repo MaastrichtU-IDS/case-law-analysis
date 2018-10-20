@@ -1,0 +1,119 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+October (
+*)
+(Reference for a preliminary ruling — Sixth VAT Directive — Directive 2006/112/EC — Works of construction — French overseas departments — Provisions rendered applicable by national law — Transactions consisting in sale and installation on buildings — Classification as a single transaction — Lack of jurisdiction)
+In Case C‑303/16,
+REQUEST for a preliminary ruling under Article TFEU from the Conseil d’État (Council of State, France), made by decision of May 2016, received at the Court on May 2016, in the proceedings
+Solar Electric Martinique
+v
+Ministre des Finances et des Comptes publics,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits (Rapporteur), A. Borg Barthet, M. Berger and F. Biltgen, Judges,
+Advocate General: P. Mengozzi,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on February 2017,
+after considering the observations submitted on behalf of:
+–
+Solar Electric Martinique, by F. Fabiani and F. Joly, avocats,
+–
+the French Government, by S. Ghiandoni and D. Colas, acting as Agents,
+–
+the European Commission, by N. Gossement and L. Lozano Palacios, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 5(5) and Article 6(1) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), as amended by Council Directive 95/7/EC of April (OJ L 102, p. 18) (‘the Sixth Directive’), and of Article 14(3) and Article 24(1) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1, ‘the VAT Directive’), which replaced the Sixth Directive with effect from January 2007.
+The request has been made in the context of proceedings between Solar Electric Martinique and the ministre des Finances et des Comptes publics (Minister of Finance and Public Accounts, France) in respect of the additional value added tax (VAT) assessments to which that company was subject for the period from January to December 2007.
+Legal context
+EU law
+Article of the Sixth Directive, headed ‘Territorial application’, provides:
+‘(1)   For the purposes of this Directive:
+–
+“territory of a Member State” shall mean the territory of the country as defined in respect of each Member State in paragraphs and 3,
+…
+(3)   The following territories of individual Member States shall be excluded from the territory of the country:
+…
+The following territories of individual Member States shall also be excluded from the territory of the country:
+…
+–
+French Republic:
+the overseas departments,
+…’
+Article of the Sixth Directive, headed ‘Supply of goods’, provides:
+‘1.   “Supply of goods” shall mean the transfer of the right to dispose of tangible property as owner.
+…
+5.   Member States may consider the handing over of certain works of construction to be supplies within the meaning of paragraph 1.
+…’
+Article 6(1) of the Sixth Directive, that article being headed ‘Supply of services’, provides:
+‘1.   “Supply of services” shall mean any transaction which does not constitute a supply of goods within the meaning of Article 5.
+Such transactions may include inter alia:
+–
+assignments of intangible property whether or not it is the subject of a document establishing title,
+–
+obligations to refrain from an act or to tolerate an act or situation,
+–
+the performances of services in pursuance of an order made by or in the name of a public authority or in pursuance of the law.’
+Under Article 6(1)(c) of the VAT Directive, that directive is not to apply to the French overseas departments.
+Article 14(3) of the VAT Directive reproduced the wording of Article 5(5) of the Sixth Directive.
+Under Article 24(1) of the VAT Directive, ‘supply of services’ is to mean any transaction which does not constitute a supply of goods.
+French law
+According to Article 256(IV)(1) of the code général des impôts (the General Tax Code; ‘the CGI’), in the version applicable to the taxes at issue in the main proceedings, ‘works of construction shall be regarded as supplies of services subject to [VAT]’.
+Article of that code provides:
+‘1.   The taxable amount shall be:
+…
+f.
+For works of construction, the value of the contracts, bills or invoices;
+…’
+Article 268a of that code provides:
+‘Where a person concurrently carries out transactions that fall under more than one of the categories provided for in the articles of this Chapter, the turnover shall be determined by applying to each group of transactions the rules laid down in those articles.’
+Article of the CGI is worded as follows:
+‘1.   The following shall be exempt from [VAT]:
+…
+(5)
+in the departments of Guadeloupe, Martinique and Réunion:
+(a)
+imports of … goods, the list of which is determined by joint ministerial orders of the ministre de l’Économie et des Finances (the Minister for Economic Affairs and Finance) and the ministre … chargé des départements d’outre-mer (Minister … with responsibility for the overseas departments);
+(b)
+sales … of locally manufactured goods similar to those the import of which into the abovementioned departments is exempt under the above provisions;
+…’
+Paragraph I of Article 50k of Annex IV to that code states that the goods which may be imported into the departments of Guadeloupe, Martinique and Réunion under a VAT exemption include ‘photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels’.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Solar Electric Martinique, which is engaged, inter alia, in the sale and installation of solar power materials in the department of Martinique, levied VAT on installations of photovoltaic panels and solar water heaters on the rooftops of residential buildings only in respect of the cost of installation.
+Following an audit of the period from January to December 2007, the tax authority found that those transactions could be characterised as works of construction and, therefore, that the cost of the materials supplied was to be included. The tax authority subsequently adjusted the basis of assessment for those transactions.
+On September 2010, Solar Electric Martinique brought an action before the tribunal administratif de Fort-de-France (Administrative Court, Fort-de-France, France), seeking cancellation of the additional VAT assessments to which it was subject following that adjustment.
+Following the dismissal of its application by a judgment of June 2012, Solar Electric Martinique brought an appeal before the cour administrative d’appel de Bordeaux (Bordeaux Administrative Court of Appeal, France) which, by a judgment of July 2014, dismissed the appeal of which it had been seised.
+Solar Electric Martinique brought an appeal on a point of law before the Conseil d’État (Council of State, France), claiming, in particular, that the Bordeaux Administrative Court of Appeal had erred in law in considering that the installation of photovoltaic panels and solar water heaters which it had carried out constituted works of construction, when such materials could be fitted without causing serious damage to the building concerned, and such works were not normally carried out in conjunction with the construction of buildings.
+The national court explains that the sale and installation of the materials mentioned in Article of the CGI and in paragraph I of Article 50k of Annex IV to the CGI are subject to VAT only in respect of the cost of installation, excluding the cost of the acquisition of the materials, except where the installation may be characterised as a supply of works of construction, in which case it is subject to VAT on the total amount charged to the customer.
+The national court observes that, while Article of the CGI applies only in the overseas departments, that is to say, outside the territorial scope of the Sixth Directive, the provisions of Article of the CGI on works of construction also apply in metropolitan France and transpose into French law Article 5(5) and Article 6(1) of the Sixth Directive, the provisions of which were re-enacted in Article 14(3) and Article 24(1) of the VAT Directive.
+According to the national court, it is necessary to seek a uniform application of the provisions of those directives within the European Union. Therefore, although the dispute which it must resolve relates to transactions carried out outside the territorial scope of those directives, the question that arises is whether the sale and installation of photovoltaic panels and solar water heaters on buildings or with a view to supplying buildings with electricity or hot water constitute a single transaction that can be characterised as works of construction within the meaning of those directives.
+In those circumstances, the Conseil d’État (Council of State) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Do the sale and installation of photovoltaic panels and solar water heaters on buildings, or with a view to supplying electricity or hot water to buildings, constitute a single transaction that may be characterised as works of construction for the purposes of Article 5(5) and Article 6(1) of [the Sixth Directive], now Article 14(3) and Article 24(1) of [the VAT Directive]?’
+The jurisdiction of the Court
+It is apparent from the order for reference that the facts in the main proceedings are located entirely in the department of Martinique, which is one of the overseas departments of the French Republic.
+Under Article 3(3) of the Sixth Directive and Article 6(1)(c) of the VAT Directive, those departments are expressly excluded from the scope of those directives.
+In that regard, it should be borne in mind that the Court has repeatedly held that it has jurisdiction to give preliminary rulings on questions concerning provisions of EU law in situations where the facts of the cases being considered by the national courts were outside the scope of EU law but where those provisions of EU law had been rendered applicable by domestic law due to a reference made by that law to the content of those provisions (see, to that effect, judgments of December 2011, Cicala, C‑482/10, EU:C:2011:868, paragraph and the case-law cited, and of October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraph 45).
+Where, in regulating situations outside the scope of the EU measure concerned, national legislation seeks to adopt the same solutions as those adopted in that measure, it is clearly in the interest of the European Union that, in order to forestall future differences of interpretation, provisions taken from that measure should be interpreted uniformly (see, to that effect, judgments of July 2011, Agafiţei and Others, C‑310/10, EU:C:2011:467, paragraph and the case-law cited, and of October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraph 46).
+Thus, an interpretation, by the Court, of provisions of EU law in situations outside its scope is justified where those provisions have been made applicable to such situations by national law directly and unconditionally, in order to ensure that those internal situations and situations governed by EU law are treated in the same way (see, to that effect, judgment of December 2011, Cicala, C‑482/10, EU:C:2012:868, paragraph and the case-law cited).
+In the present case, the referring court asks whether the sale and installation of photovoltaic panels and solar water heaters on buildings or with a view to supplying electricity or hot water to buildings constitute a single transaction that may be characterised as works of construction, within the meaning of the Sixth Directive and the VAT Directive, explaining that Article of the CGI ensures that the relevant provisions of those directives are transposed into national law and that those concepts have the same scope with regard to the overseas departments — territories which are expressly excluded from the scope of those directives.
+An EU interest in the uniform interpretation of the concepts of ‘works of construction’ and ‘single transaction that may be characterised as works of construction’, in order to forestall future differences in interpretation, is indeed conceivable.
+However, as the Advocate General stated in points to of his Opinion, in the first place, the relevant provisions of the Sixth Directive and of the VAT Directive cannot be regarded as having been transposed by Article of the CGI.
+Whereas Article 5(5) of the Sixth Directive and Article 14(3) of the VAT Directive establish the right of Member States to regard the handing over of certain works of construction as a supply of goods, Article of the CGI provides, on the contrary, that works of construction are to be regarded as supplies of services.
+In the second place, Articles and of the CGI cannot constitute, for the purposes of the case-law recalled in paragraph of this judgment, a direct and unconditional reference to the relevant provisions of the directives.
+First, the choice made in Article of the CGI only allows it to be inferred a contrario that works of construction, like all transactions that do not constitute supplies of goods, fall within the scope of Article 6(1) of the Sixth Directive and Article 24(1) of the VAT Directive.
+Second, Article of the CGI, which establishes an exemption system, derogating from the rules applicable on metropolitan French territory, for goods supplied in territories expressly excluded from the scope of the Sixth Directive and of the VAT Directive, cannot be regarded as referring directly and unconditionally to the provisions of those directives.
+The request for a preliminary ruling has been, moreover, made specifically because, as regards the overseas departments to which the Sixth Directive and the VAT Directive do not apply, there are special provisions which provide for the exemption of the sale of photovoltaic panels and solar water heaters.
+Therefore, with regard to the solutions for situations that are outside the scope of the EU measures concerned, the national legislation at issue in the main proceedings is not consistent with the solutions adopted by the Sixth Directive and the VAT Directive, in so far as it establishes an exemption which is not provided for in those directives. It cannot therefore be held that the provisions of those directives were rendered directly and unconditionally applicable by national law to situations outside the scope of those directives.
+In those circumstances, the Court has no jurisdiction to answer the question referred by the Conseil d’État (Council of State).
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+The Court of Justice of the European Union does not have jurisdiction to answer the question referred by the Conseil d’État (Council of State, France) by decision of May 2016.
+ 
+[Signatures]
+(
+*)	Language of the case: French.
+Top  
+ 

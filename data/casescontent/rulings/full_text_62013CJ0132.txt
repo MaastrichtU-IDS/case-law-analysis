@@ -1,0 +1,87 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+March (
+*)
+‛Request for a preliminary ruling — Approximation of laws — Directive 2006/95/EC — Definition of ‘electrical equipment’ — CE conformity marking — Housing for multipole electrical connectors’
+In Case C‑132/13,
+REQUEST for a preliminary ruling under Article TFEU from the Landgericht Köln (Germany), made by decision of March 2013, received at the Court on March 2013, in the proceedings
+Zentrale zur Bekämpfung unlauteren Wettbewerbs eV Frankfurt am Main
+v
+ILME GmbH,
+THE COURT (Sixth Chamber),
+composed of A. Borg Barthet, President of the Chamber, E. Levits (Rapporteur) and M. Berger, Judges,
+Advocate General: E. Sharpston,
+Registrar: A. Impellizzeri, Administrator,
+having regard to the written procedure and further to the hearing on January 2014,
+after considering the observations submitted on behalf of:
+—
+Zentrale zur Bekämpfung unlauteren Wettbewerbs, by H.-J. Ruhl and M. Bohner, Rechtsanwälte,
+—
+ILME GmbH, by U. Blumenröder, Rechtsanwalt,
+—
+the European Commission, by M. Noll-Ehlers and G. Zavvos, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of certain provisions of Directive 2006/95/EC of the European Parliament and of the Council of December on the harmonisation of the laws of Member States relating to electrical equipment designed for use within certain voltage limits (OJ L 374, p. 10).
+The request has been made in proceedings between Zentrale zur Bekämpfung unlauteren Wettbewerbs eV Frankfurt am Main (Centre for Protection Against Unfair Competition, Frankfurt am Main, ‘the Zentrale’) and ILME GmbH concerning affixation of the CE marking on the housing of multipole electrical connectors for industrial purposes.
+Legal context
+Directive 2006/According to Article of Directive 2006/95, the words ‘electrical equipment’ mean any equipment designed for use with a voltage rating of between and volts for alternating current and between and volts for direct current.
+Article 2(1) of Directive 2004/provides:
+‘The Member States shall take all appropriate measures to ensure that electrical equipment may be placed on the market only if, having been constructed in accordance with good engineering practice in safety matters in force in the [European Union], it does not endanger the safety of persons, domestic animals or property when properly installed and maintained and used in applications for which it was made.’
+Article 8(1) of the directive provides:
+‘Before being placed on the market, the electrical equipment must have affixed to it the CE marking provided for in Article attesting to its conformity to the provisions of this Directive, including the conformity assessment procedure described in Annex IV.’
+Article 10(1) of the directive reads as follows:
+‘The CE conformity marking referred to in Annex III shall be affixed by the manufacturer or his authorised representative established within the [European Union] to the electrical equipment or, failing that, to the packaging, the introduction sheet or the guarantee certificate so as to be visible, easily legible and indelible.’
+Annex II to Directive 2006/excludes from its scope certain materials and certain specific electrical phenomena.
+Annex III to that directive describes the CE conformity marking which must be affixed and the elements to be included in the EC Declaration of Conformity.
+Annex IV to that directive lays down the requirements relating to the procedures for the internal production control of electrical equipment.
+Regulation (EC) No 765/Under Article 30(3) and (4) of Regulation (EC) No 765/of the European Parliament and of the Council of July setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Council Regulation (EEC) No 339/(OJ L 218, p. 30):
+‘3.   By affixing or having affixed the CE marking, the manufacturer indicates that he takes responsibility for the conformity of the product with all applicable requirements set out in the relevant Community harmonisation legislation providing for its affixing.
+4.   The CE marking shall be the only marking which attests the conformity of the product with the applicable requirements of the relevant Community harmonisation legislation providing for its affixing.’
+The Guidelines for the application of Directive 2006/In August 2007, the European Commission drafted the Guidelines for the application of Directive 2006/(‘the Guidelines’).
+Footnote of the Guidelines states:
+‘The term “electrical equipment” is not defined in the Directive. Therefore it is to be interpreted according to the internationally recognised meaning of this term. The definition of electric equipment in the “International Electro[tech]nical Vocabulary” of the International Electrotechnical Commission (IEC) is: “[an] item used for such purposes as generation, conversion, transmission, distribution or utilisation of electrical energy, such as machines, transformers, switchgear and control gear, measuring instruments, protective devices, wiring material, current-using equipment”.’
+Point of the Guidelines provides that the basic components of electrical equipment can also fall within the scope of Directive 2006/to the extent that their safety may already be assessed, in accordance with that directive, prior to incorporation into the electrical equipment, as long as they themselves also constitute ‘electrical equipment’ for the purposes of that directive.
+Point states that the safety of certain kinds of electrical devices intended to be incorporated as basic components into other electrical appliances depends to a large extent on the way in which those devices are incorporated into the finished product. According to footnote in the Guidelines, active components such as integrated circuits, transistors, diodes, rectifiers, triacs, GTOs, IGTBs, opto-semi-conductors, passive components such as capacitors, inductance, resistors, filters; electromechanical components such as connectors, devices for mechanical protection which are part of equipment, relays with terminals for printed circuit boards, micro switches fall into the category of electrical devices.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+ILME GmbH markets in Germany multipole electrical connectors manufactured in Italy by ILME SpA.
+The components for the connectors are chosen by the client in accordance with his needs. Once the various components have been delivered they are assembled by the client himself.
+The housing for the connectors bears the CE marking as provided for in Annex III to Directive 2006/95. However, the EC Declaration of Conformity related to that marking does not concern the connectors contained in the housing, but the housing itself.
+The Zentrale takes the view that affixing the CE marking is not justified in so far as it relates only to the housing and, therefore, does not offer any guarantee as to the safety of the assembled connectors. That marking is likely to mislead consumers and, therefore, in the circumstances of the case in the main proceedings, constitute an infringement of national rules prohibiting unfair competition.
+Since all electrical equipment must bear the CE marking pursuant to national legislation which transposes Directive 2006/95, the question arises as to whether the housing at issue constitutes such equipment.
+The Landgericht Köln (Regional Court, Cologne), in proceedings for a restraining injunction brought by the Zentrale, taking the view that the outcome of the dispute in the main proceedings depends on the interpretation of that directive, decided to stay its proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Are Articles 1, and of, and Annexes II to IV to, Directive [2006/95] to be interpreted in such a way that housing as a component of multipole connectors for industrial purposes does not require to have a “CE” marking affixed to it?’
+Consideration of the question referred
+By its question, the referring court asks essentially whether Article of Directive 2006/must be interpreted as meaning that housing for multipole connectors for industrial purposes, such as those at issue in the main proceedings, falls within the definition of ‘electrical equipment’ for the purposes of that provision, and must, therefore, bear the CE marking.
+As a preliminary point, it must be observed that the CE marking is to be affixed only to products to which its affixing is provided for by the relevant specific harmonisation legislation of the European Union, and is not to be affixed to any other product. Any other position would have the effect of giving rise to a likelihood of confusion as to the meaning of that marking (Case C-185/Latchways and Eurosafe Solutions [2010] ECR I-9989, paragraph 63).
+In that connection, pursuant to Article 8(1) of Directive 2006/95, electrical equipment must have affixed to it the CE marking.
+However, it must be stated that ‘electrical equipment’ is not defined by that directive. On one hand, Article thereof sets out the voltage limits within which that equipment is intended to be used. On the other hand, Annex II thereto lists the types of electrical equipment and the specific phenomena outside the scope of Directive 2006/95.
+The Commission, in footnote of the Guidelines, infers from the lack of definition that ‘electrical equipment’ must be interpreted according to the internationally recognised meaning of the term.
+In that footnote, reference is made, in particular, to the definition in the International Electrotechnical Vocabulary of IEC, according to which electrical equipment is: ‘[an] item used for such purposes as generation, conversion, transmission, distribution or utilisation of electrical energy’.
+In the present case, it is apparent from the order for reference that the housing at issue in the main proceedings is a component of multipole connectors for industrial purposes, as it constitutes the external shell. In that connection, the housing fulfils one main function, namely to ensure the physical and electrical isolation of the various cables from each other and with the exterior by grounding.
+Having regard to those characteristics, it must be held that the housing at issue in the main proceedings falls within the definition of ‘electrical equipment’ for the purposes of Directive 2006/95, since, far from having purely aesthetic and protective functions, it ensures a safe grounding of electrical components and thereby contributes to the transmission of electrical energy.
+Therefore, if the housing complies with the safety standards laid down by that directive, the CE marking must be affixed to it.
+However, the referring court describes the housing as a component of electrical appliances which are multipole connectors for industrial purposes.
+The Zentrale takes the view that, as components, the conformity of the housing at issue with the safety requirements cannot be verified before the complete assembly of the multipole connectors.
+In that connection, it must be observed that, according to Article 30(3) and (4) of Regulation No 765/2008, by affixing the CE marking, which is the only marking which attests to the conformity of the product with the applicable requirements of the relevant European Union harmonisation legislation, the manufacturer indicates that he takes responsibility for the conformity of the product.
+Article 2(1) of Directive 2006/states, essentially, that only electrical equipment which does not endanger the safety of persons or property may be placed on the market.
+Therefore, the CE marking cannot be affixed to a component which constitutes electrical equipment where its safety depends essentially on the manner in which it is incorporated into the final electrical appliance. In such circumstances, first, since the quality of that component does not enable the safety of the electrical appliance into which it is incorporated to be prejudged, the affixation of the CE marking on that component would be likely to mislead the user of that appliance. Second, incorporation might alter the conformity of that component with the safety requirements which had been previously established and that of the electrical appliance into which the component at issue has been incorporated.
+In that connection, it must be stated first of all, that, if electrical equipment, as a component to be incorporated into an electrical appliance, has individual characteristics which may be subject to an examination relating to safety requirements, the affixation of the CE marking is justified.
+In the case in the main proceedings, it is for the referring court to verify, having regard in particular to the fact that the housing at issue in the main proceedings allows the cables to be isolated from one another and the connectors to be isolated from the exterior by a grounding mechanism, whether the housing may be the subject of an effective examination, as it is and regardless of its incorporation into other electrical equipment with respect to safety requirements.
+Furthermore, as regards the likelihood that the marking of the housing may mislead users, it is apparent from the order for reference that the connectors at issue in the main proceedings are delivered in separate pieces, so that it is for the user himself to assemble them. Therefore, the marking on the housing cannot be understood as relating to the whole connector.
+Second, it must be recalled that, under Article of Directive 2006/95, the conformity of electrical equipment with safety requirements is to be determined on the basis that it has been properly installed and maintained and used in applications for which it was made.
+Provided that, first, the housing at issue in the main proceedings complies with the safety requirements for which it has been examined and, second, the fact that it has been properly incorporated and used in the multipole connector for which it was made cannot mean that it ceases to comply with those requirements, its use as a component in an electrical appliance cannot have the effect of calling into question its classification as ‘electrical equipment’.
+It follows from all of the foregoing that the answer to the question referred by the national court is that Article of Directive 2006/must be interpreted as meaning that housing for multipole connectors for industrial use such as that at issue in the main proceedings, falls within the definition of ‘electrical equipment’ for the purpose of that provision and must, therefore, bear the CE marking in so far as it is properly incorporated and is used for the purpose for which it was made does not mean that it ceases to comply with the relevant safety requirements for which it has been examined.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Article of Directive 2006/95/EC of the European Parliament and of the Council of December on the harmonisation of the laws of Member States relating to electrical equipment designed for use within certain voltage limits must be interpreted as meaning that housing for multipole connectors for industrial use, such as those at issue in the main proceedings, is covered by the definition of ‘electrical equipment’ for the purposes of that provision and must, therefore, bear the CE marking as long as its proper incorporation and use for the purpose for which it was made does not mean that it ceases to comply with the relevant safety requirements for which it has been examined.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

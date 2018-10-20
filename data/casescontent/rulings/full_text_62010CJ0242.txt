@@ -1,0 +1,629 @@
+
+Case C-242/Enel Produzione SpA
+v
+Autorità per l'energia elettrica e il gas
+(Reference for a preliminary ruling from the 
+Tribunale amministrativo regionale per la Lombardia)
+(Directive 2003/54/EC – Internal market in electricity – Electricity generating installations essential to the operation of the electricity system – Obligation to submit tenders on the national electricity exchange market in accordance with the limits and criteria laid
+         down by the electricity transmission and distribution system operator – Dispatching and balancing service – Public service obligations)
+      
+Summary of the Judgment
+Approximation of laws – Directives concerning approximation of laws – Common rules for the internal market in electricity
+            – Directive 2003/(European Parliament and Council Directive 2003/54, Art. 3(2) and 11(2) and (6))
+Directive 2003/concerning common rules for the internal market in electricity and repealing Directive 96/and, in particular,
+         Article 3(2) and Article 11(2) and (6) of that directive must be interpreted as not precluding national legislation which,
+         for the purposes of reducing the price of electricity in the interests of the end consumer and of ensuring the security of
+         the electricity system, imposes on operators which own installations or groups of installations which are considered, on the
+         basis of the criteria laid down by the national regulatory authority, to be essential in order to meet the requirements of
+         the demand for electricity of dispatching services, the obligation to submit bids on the national electricity markets in accordance
+         with conditions pre-determined by that authority, provided that that legislation does not go beyond what is necessary in order
+         to attain the objective which it pursues. It is for the referring court to ascertain whether that condition is met.
+      
+(see para. 89, operative part)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+December *(1)
+      
+(Directive 2003/54/EC – Internal market in electricity – Electricity generating installations essential to the operation of the electricity system – Obligation to submit tenders on the national electricity exchange market in accordance with the limits and criteria laid
+         down by the electricity transmission and distribution system operator – Dispatching and balancing service – Public service obligations)
+      
+In Case C‑242/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Tribunale amministrativo regionale per la Lombardia (Italy),
+         made by decision of January 2010, received at the Court on May 2010, in the proceedings
+      
+Enel Produzione SpA
+v
+Autorità per l’energia elettrica e il gas,
+intervener:
+Terna rete elettrica nazionale SpA,
+THE COURT (Second Chamber),
+composed of J.N. Cunha Rodrigues, President of the Chamber, U. Lõhmus, A. Rosas, A. Ó Caoimh and A. Arabadjiev (Rapporteur),
+         Judges,
+      
+Advocate General: P. Cruz Villalón,
+Registrar: A. Impellizzeri, Administrator,
+having regard to the written procedure and further to the hearing on May 2011,
+after considering the observations submitted on behalf of:
+–        Enel Produzione SpA, by G. Greco and M. Muscardini, avvocati,
+–        Terna rete elettrica nazionale SpA, by A. Clarizia, P. Ziotti, P. Clarizia and G. Guida, avvocati,
+–        the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,
+–        the Austrian Government, by E. Riedl, acting as Agent,
+–        the European Commission, by C. Zadra and O. Beynet, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2011,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles EC, EC, EC and EC, and Article
+         11(2) and (6) and Article of Directive 2003/54/EC of the European Parliament and of the Council of June concerning
+         common rules for the internal market in electricity and repealing Directive 96/92/EC (OJ L 176, p. 37).
+      
+The reference has been made in proceedings between Enel Produzione SpA (‘Enel’) and the Autorità per l’energia elettrica e
+         il gas (the Regulatory Authority for Electricity and Gas; ‘the AEEG’) concerning Italian legislation under which electricity
+         generating companies with installations essential to the operation of the electricity system are required, when submitting
+         tenders to supply electricity, to comply with the rules laid down by the electricity transmission and distribution system
+         operator (‘the system operator’).
+      
+ Legal context
+ European Union (‘EU’) law
+Directive 2003/forms part of the ‘second energy package’ adopted by the EU legislature with a view to the progressive liberalisation
+         of an internal market in electricity and gas. As stated in Article thereof, Directive 2003/‘establishes common rules
+         for the generation, transmission, distribution and supply of electricity. It lays down the rules relating to the organisation
+         and functioning of the electricity sector, access to the market, the criteria and procedures applicable to calls for tenders
+         and the granting of authorisations and the operation of systems’.
+      
+In Chapter II of Directive 2003/54, entitled ‘General rules for the organisation of the sector’, paragraph of Article 3,
+         which is entitled ‘Public service obligations and customer protection’, provides:
+      
+‘Having full regard to the relevant provisions of the Treaty, in particular Article thereof, Member States may impose on
+         undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate
+         to security, including security of supply, regularity, quality and price of supplies and environmental protection, including
+         energy efficiency and climate protection. Such obligations shall be clearly defined, transparent, non‑discriminatory, verifiable
+         and shall guarantee equality of access for [EU] electricity companies to national consumers. …’
+      
+Article of Directive 2003/54, concerning the tasks of transmission system operators, provides:
+      
+‘Each transmission system operator shall be responsible for: 
+(a)       ensuring the long-term ability of the system to meet reasonable demands for the transmission of electricity;
+(b)       contributing to security of supply through adequate transmission capacity and system reliability;
+…’
+Paragraphs and of Article of the directive, which is entitled ‘Dispatching and balancing’, provide:
+      
+‘2. The dispatching of generating installations and the use of interconnectors shall be determined on the basis of criteria
+         which may be approved by the Member State and which must be objective, published and applied in a non-discriminatory manner
+         which ensures the proper functioning of the internal market in electricity. They shall take into account the economic precedence
+         of electricity from available generating installations of interconnector transfers and the technical constraints on the system.
+      
+...
+6.      Transmission system operators shall procure the energy they use to cover energy losses and reserve capacity in their system
+         according to transparent, non‑discriminatory and market-based procedures, whenever they have this function.’
+      
+In Chapter V of Directive 2003/54, entitled ‘Distribution system operation’, Article provides with regard to the tasks
+         of distribution system operators that:
+      
+‘1.       The distribution system operator shall maintain a secure, reliable and efficient electricity distribution system in its area
+         with due regard for the environment.
+      
+2.       In any event, it must not discriminate between system users or classes of system users, particularly in favour of its related
+         undertakings.
+      
+…
+6.       Where distribution system operators are responsible for balancing the electricity distribution system, rules adopted by them
+         for that purpose shall be objective, transparent and non-discriminatory, including rules for the charging of system users
+         of their networks for energy imbalance. Terms and conditions, including rules and tariffs, for the provision of such services
+         by system operators shall be established in accordance with Article 23(2) in a non discriminatory and cost-reflective way
+         and shall be published.
+      
+…’
+In Chapter VII of Directive 2003/54, entitled ‘Organisation of access to the system’, paragraph of Article 23, which concerns
+         the regulatory authorities, provides: 
+      
+‘Member States shall designate one or more competent bodies with the function of regulatory authorities. These authorities
+         shall be wholly independent from the interests of the electricity industry. They shall, through the application of this Article,
+         at least be responsible for ensuring non-discrimination, effective competition and the efficient functioning of the market,
+         monitoring in particular:
+      
+…
+(b)       any mechanisms to deal with congested capacity within the national electricity system;
+…
+(g)       the extent to which transmission and distribution system operators fulfil their tasks in accordance with Articles and 14;
+…’
+Article of Directive 2003/54, entitled ‘Safeguard measures’, provides that, in the event of a sudden crisis in the energy
+         market and where the physical safety or security of persons, apparatus or installations or system integrity is threatened,
+         a Member State may temporarily take the necessary safeguard measures and must notify those measures to the European Commission
+         without delay.
+      
+ National law
+Legislative Decree No of March (GURI No of March 1999; ‘the Bersani Decree’) implemented Directive 96/92/EC
+         of the European Parliament and of the Council of December concerning common rules for the internal market in electricity
+         (OJ L 27, p. 20).
+      
+Article 2(10) of the Bersani Decree defines ‘dispatching’ as ‘the activity of issuing instructions for the coordinated use
+         and operation of generating installations, the transmission system and auxiliary services’. As emerges from the documents
+         submitted to the Court, dispatching is the operation whereby, depending on demand, the system operator ‘dispatches’ generating
+         installations in its area which have enough spare capacity, so as to ensure at all times that, within the network, the supply
+         of electricity matches demand and to guarantee continuity in the provision of electricity.
+      
+On December 2003, in accordance with Articles 3(3) and of the Bersani Decree, the AEEG adopted Decision No 168/(Ordinary
+         Supplement to GURI No of January 2004) in order to deal with the power over the local market exerted by some generating
+         installations which are essential for the purposes of meeting the demand for electricity in conditions of adequate security.
+         That decision lays down the operating conditions of the electricity dispatching service and the supply of corresponding energy
+         resources.
+      
+As provided for under the Decree of the Minister for Productivity of December (Ordinary Supplement to GURI No of December 2003), the Italian electricity market has been organised into three separate markets: (i) the day‑ahead market,
+         trading in bids for the sale and purchase of electricity for each relevant period of the next day; (ii) the infra-day market,
+         trading in bids for the sale and purchase of electricity in order to adjust input and off-take programmes on the day-ahead
+         market; and (iii) the dispatching services market, subdivided into the ex ante dispatching services market and the balancing
+         market.
+      
+Decision No 111/06, adopted by the AEEG on June (Ordinary Supplement to GURI No of July 2006; ‘Decision No 111/06’),
+         amended Decision No 168/(cited in paragraph above) so as to give the main system operator – Terna Rete Elettrica Nazionale
+         SpA (‘Terna’) – an instrument for identifying the resources needed for the dispatching service in the form of the rules governing
+         installations essential to the operation and security of the electricity system (‘the rules governing essential installations’).
+         The provisions relating to those rules were set out in Title of Part III of Annex A to Decision No 111/and, in particular,
+         in Articles 63, and of that annex.
+      
+Decree-Law No of November 2008, as converted into law and amended by Law No of January (Ordinary Supplement
+         to GURI No of January 2009), concerning urgent measures to support families, work, employment and business, and to restructure
+         the National Strategic Framework to combat the crisis (Ordinary Supplement to GURI No of November 2008; ‘Decree-Law
+         No 185’) broadly reproduced the rules governing essential installations. Article 3(10) of Decree-Law No sets out the principles
+         with which the legislation on the electricity market must be consistent ‘in view of the exceptional international economic
+         crisis and its effects on prices on the market in raw materials, in order to guarantee lower costs for families and undertakings
+         and reduce the price of electricity’.
+      
+With regard, in particular, to the dispatching services market, Article 3(10)(d) of Decree-Law No provides that its management
+         ‘shall be entrusted to the operator of the transmission and dispatching service in order to make it possible for the resources
+         needed to ensure the security of the electricity system to be selected on the basis of the various services provided by each
+         resource to the system, by means of an evaluation which is transparent and, in economic terms, efficient. Dispatching services
+         shall be provided through the purchase of the necessary resources by the authorised operators. On the dispatching services
+         market, the price of energy shall be determined by reference to the various prices which each authorised user bids on a binding
+         basis and which are accepted by the dispatching services operator, preference being given to bids offering the lowest prices
+         until all requirements are met in full …’.
+      
+Article 3(11) of Decree-Law No provides in substance that, in order to guarantee lower costs for families and businesses
+         and to reduce the price of electricity:
+      
+‘The [AEEG] shall ensure that its decisions, including those relating to electricity dispatching, are consistent with the
+         following principles and criteria: 
+      
+(a)      entities which have at their individual disposal installations or groups of installations essential for the purposes of meeting
+         dispatching service requirements, as identified on the basis of the criteria laid down by the [AEEG] in accordance with the
+         principles set out in this point, shall be required to submit tenders on the markets under the conditions laid down by the
+         [AEEG], which shall implement specific mechanisms designed to minimise the costs for the electricity system and to secure
+         fair remuneration for producers: in particular, installations shall be regarded as essential for the purpose of meeting dispatching
+         service requirements, solely during periods in which the conditions set out below are satisfied, where they are technically
+         and structurally vital for resolving network congestion or for maintaining adequate security levels for the national electricity
+         system for significant periods of time;
+      
+(b)       measures shall be adopted in order to improve the efficiency of the dispatching services market, to encourage reduction of
+         the cost of providing those services, to enter into contracts for resources and to stabilise the consideration to be paid
+         by the end customers.’
+      
+On April 2009, the AEEG adopted, pursuant to Decree-Law No 185, Decision No ARG/elt 52/(Ordinary Supplement to GURI
+         No of June 2009; ‘Decision No 52/09’), Article of which amends Articles 63, and of Annex A to Decision No 111/06.
+         By Decision No 52/09, the AEEG introduced new rules governing dispatching, applicable to installations essential to the operation
+         and security of the electricity system.
+      
+Under Article 63(9) of Annex A to Decision No 111/06, as amended by Decision No 52/09, the system operator must draw up and
+         publish annually a list of the installations and groups of installations regarded as essential to the operation and security
+         of the electricity system. Those installations are subject to the tendering requirements and payment arrangements laid down
+         in Articles to of Annex A to Decision No 111/06, as amended by Decision No 52/09.
+      
+Under the arrangements laid down in Article of Annex A to Decision No 111/06, as amended by Decision No 52/(‘the ordinary
+         regime’), the owner of an essential installation is required to submit – in respect of the volume for which the installation
+         concerned is considered to be essential, and throughout the period in which it is so regarded – bids subject to the following
+         restrictions:
+      
+–        on the day-ahead market and on the infra-day market, sale bids must be made at a zero-equivalent price and purchase bids must
+         be made without any indication of price; and
+      
+–        on the dispatching services market, bids must be equal to the price of electricity sold on the day-ahead market.
+As is apparent from the documents submitted to the Court, with regard to volumes and times that are not considered to be essential,
+         the producer has the option of bidding at a price that is freely determined.
+      
+In Annex A to Decision No 111/06, Decision No 52/also inserted Article bis, which makes it possible for the owner of
+         essential installations to choose for its own installations, on a contractual basis, a different bidding arrangement from
+         that provided for in Articles to of Annex A to Decision No 111/06, as amended by Decision No 52/09, with the consequence
+         that none of the generating installations which it owns will be placed on the list of essential installations for the calendar
+         year to which the contract relates.
+      
+The dispute in the main proceedings and the question referred for a preliminary ruling
+In its capacity as a company which produces electricity and owns installations considered to be essential, Enel brought an
+         action before the referring court for annulment of Decision No 52/09, claiming, inter alia, that it was incompatible with
+         Directive 2003/and, in particular, with Article 11(2) and (6) of that directive.
+      
+Enel argues that, under the arrangements introduced by the contested legislation, the process of making available the volume
+         of energy needed to enable the system operator to operate the dispatching services is not governed by free interplay between
+         supply and demand and is based on instructions issued to the undertakings which own essential installations, or groups of
+         essential installations, to make available specified volumes of energy on all of the markets making up the power exchange
+         – namely, the day-ahead market, the infra-day market and the dispatching services market – at a price not determined by the
+         producer as part of its commercial strategy but imposed by the AEEG, by reference to the average exchange price determined
+         on the day-ahead market and the infra-day market, on the basis of prices unconnected with the results on the specific reference
+         market, the dispatching services market.
+      
+According to Enel, this is contrary to the objectives and individual provisions of Directive 2003/54, which provides, for
+         the purposes of standardising the laws of the various Member States, that the production and supply of electricity is to take
+         place in the competitive context of the free market and not according to an interventionist model. It claims that the rules
+         laid down in Decision No 52/are also contrary to Article 11(2) and (6) of Directive 2003/54, which provide, respectively,
+         that dispatching services must take into account the economic precedence of electricity from generating installations by selecting
+         available bids on the basis of economic merit and that system operators are to procure the energy they use to cover energy
+         losses and maintain capacity in their system in accordance with transparent, non-discriminatory and market-based procedures.
+      
+The referring court is uncertain whether the national legislation at issue is compatible with the Treaty rules on freedom
+         of establishment, freedom to provide services and the free movement of goods and capital. Imposition of the obligation to
+         enter into contracts constitutes substantive interference in the freedom of contract normally enjoyed by economic operators,
+         for whom it is likely to involve additional costs, requiring them to re-think their business policy. Freedom of establishment
+         is also hindered by the fact that the sale price of energy is pre‑determined.
+      
+The referring court has doubts as to whether the measures provided for under the national legislation at issue can be justified
+         on the basis of the derogations granted by Article 86(2) EC and by Article 3(2) of Directive 2003/54, since it is not certain
+         that they can constitute public service obligations.
+      
+The referring court also doubts whether those measures are proportionate. They are not intended to ensure that competitiveness
+         prevails on the dispatching services market in order to curtail the power of operators which hold pivotal positions; rather,
+         in order to curtail that power, they restrict the role of the dispatching services market in favour of an administrative system
+         of energy supply run by the system operator. Moreover, it has not been demonstrated that the market power of such operators
+         could not be curtailed by means of measures consistent with the option of liberalising the market.
+      
+The referring court states, lastly, that the measures at issue are likely to constitute a permanent derogation from the internal
+         market in energy. Also, such measures do not constitute ‘safeguard measures’ for the purposes of Article of Directive 2003/54.
+      
+In those circumstances, the Tribunale amministrativo regionale per la Lombardia decided to stay the proceedings and to refer
+         the following question to the Court of Justice for a preliminary ruling:
+      
+‘Do Articles [EC], [EC], [EC] and [EC] and Article 11(2) and (6) and Article of Directive 2003/preclude
+         national legislation which, without the … Commission having been notified of it, requires on a permanent basis certain electricity
+         producers which are, in certain circumstances, essential for the purpose of meeting the requirements of the demand for dispatching
+         services, to submit bids on the energy exchange markets according to programmes determined by the system operator in accordance
+         with external rules, and which prevents producers from freely determining the remuneration for such bids by linking the remuneration
+         to criteria which have not been pre-determined in accordance with transparent, non-discriminatory and market-based procedures?’
+         
+      
+ Consideration of the question referred
+ Preliminary considerations
+By its question, the referring court asks the Court to rule on the interpretation of Article EC, relating to the free movement
+         of capital.
+      
+In that regard, it should be noted that the Court has no jurisdiction to give a preliminary ruling on a question submitted
+         by a national court where it does not have before it the factual or legal material necessary to give a useful answer to the
+         questions submitted to it (see, to that effect, Joined Cases C‑94/and C‑202/Cipolla and Others [2006] ECR I‑11421, paragraph 25, and Case C‑380/Centro Europa [2008] ECR I‑349, paragraph 53). The order for reference must set out the precise reasons why the national court was unsure
+         as to the interpretation of EU law and why it considered it necessary to refer questions to the Court for a preliminary ruling.
+         Against that background, it is essential that the national court provide at the very least some explanation of the reasons
+         for the choice of the provisions of EU law which it requires to be interpreted and of the link it establishes between those
+         provisions and the national legislation applicable to the dispute before it (Centro Europa 7, paragraph and the case-law cited).
+      
+The referring court does not, however, provide any explanation regarding the link which it establishes between, on the one
+         hand, the Treaty provisions on the free movement of capital and, on the other hand, the dispute in the main proceedings or
+         the subject-matter of that dispute. Consequently, it must be held that, in so far as it relates to the Treaty provisions on
+         the free movement of capital, the question is inadmissible.
+      
+As regards the Treaty provisions on the free movement of goods, the freedom to provide services and freedom of establishment,
+         which were referred to by the national court, it should be noted that Directive 2003/was adopted on the basis, inter alia,
+         of Article 47(2) EC and Article EC, which relate to those freedoms. Also, the dispute in the main proceedings originates
+         in an action contesting the national legislation relating to the dispatching service. That service is precisely the subject-matter
+         of Article of Directive 2003/54. For the purposes of the dispute in the main proceedings, that directive implements within
+         the electricity sector the fundamental freedoms laid down in the Treaty, including the free movement of goods, freedom to
+         provide services and freedom of establishment, and thereby contributes to guaranteeing those freedoms. Accordingly, it is
+         in the light of Directive 2003/that it is necessary to examine whether there are any obstacles to those freedoms. 
+      
+As regards Article of Directive 2003/54, which is referred to by the national court, it should be pointed out that that
+         provision concerns the safeguard measures which a Member State is authorised to take in order to address exceptional risks
+         to the system. It should also be pointed out, however, that even though Decree-Law No was adopted ‘in view of the exceptional
+         international economic crisis and its effects on raw material prices’, it is not apparent from the documents submitted to
+         the Court that that law was adopted in a situation of sudden crisis in the energy market or where the physical safety or security
+         of persons, apparatus or installations or system integrity was threatened, as envisaged by Article 24. In those circumstances,
+         it must be held that Article of Directive 2003/is not relevant for the purposes of answering the question referred for
+         a preliminary ruling.
+      
+It should moreover be noted that, in so far as the national court has doubts as to whether the measures in question can constitute
+         public service obligations, it is necessary also to take into account Article 3(2) of Directive 2003/54, under which Member
+         States may impose such obligations on undertakings operating in the electricity sector.
+      
+In the light of those factors, and in order to provide the national court with an answer which may be of use to it in determining
+         the outcome of the dispute in the main proceedings, the question referred should be understood as seeking to ascertain whether
+         Directive 2003/and, in particular, Article 3(2) and Article 11(2) and (6) of that directive, must be interpreted as precluding
+         national legislation, such as that at issue in the main proceedings, which imposes on operators which own installations or
+         groups of installations considered, on the basis of the criteria laid down by the national regulatory authority, to be essential
+         in order to meet the dispatching services’ need for electricity, the obligation to submit bids on the national electricity
+         markets, in accordance with conditions predetermined by that authority.
+      
+The conditions under which the Member States may intervene
+Public service obligations
+Article 3(2) of Directive 2003/provides that, having full regard to Article EC, Member States may impose on undertakings
+         operating in the electricity sector, in the general economic interest, public service obligations which may relate to security,
+         including security of supply, regularity, quality and price of supplies.
+      
+It should be noted that Member States are required, under Article 3(9) of Directive 2003/54, to inform the Commission of all
+         measures adopted to fulfil public service obligations, including consumer protection, and of their possible effect on national
+         and international competition, whether or not such measures require a derogation from that directive, and to inform the Commission
+         every two years of any changes to such measures (see, to that effect, Case C‑265/Federutility and Others [2010] ECR I‑3377, paragraph 23) and that notification of those measures makes it possible to check whether a Member State
+         sought to impose a public service obligation. However, the absence of notification is not sufficient in itself to demonstrate
+         that the legislation at issue does not constitute a public service obligation.
+      
+Article 86(2) EC provides, first, that undertakings entrusted with the operation of services of general economic interest
+         are to be subject to the rules on competition in so far as the application of such rules does not obstruct the performance,
+         in law or in fact, of the particular tasks assigned to them, and, secondly, that the development of trade must not be affected
+         to such an extent as would be contrary to the interests of the European Union.
+      
+As the Court has stated, that provision is designed to reconcile the Member States’ interest in using certain undertakings
+         as an instrument of economic or social policy with the European Union’s interest in ensuring compliance with the rules on
+         competition and preservation of the unity of the common market (see, to that effect, Case C‑67/Albany [1999] ECR I‑5751, paragraph and the case-law cited).
+      
+Thus it follows from the very wording of Article EC that the public service obligations which Article 3(2) of Directive
+         2003/allows to be imposed on undertakings must be consistent with the principle of proportionality and that, accordingly,
+         those obligations may compromise the freedom to determine the price for the supply of electricity only in so far as is necessary
+         to achieve the objective in the general economic interest which they pursue (Federutility and Others, paragraph 33).
+      
+EU legislation on the electricity market and dispatching services
+In the context of the progressive liberalisation of the electricity market, the regulatory authorities designated by the Member
+         States were given specific responsibilities. Under Article 23(1)(b) and (g) of Directive 2003/54, regulatory authorities such
+         as the AEEG are responsible for ensuring non-discrimination, effective competition and the efficient functioning of the market,
+         in particular in respect of any mechanisms to deal with congested capacity within the national electricity system and the
+         extent to which transmission and distribution system operators fulfil their tasks in accordance with Articles and of
+         that directive. 
+      
+Under Article 9(a) and (b) of Directive 2003/54, the system operator is to be responsible for ensuring the long-term ability
+         of the system to meet reasonable demands for the transmission of electricity and for contributing to security of supply through
+         adequate transmission capacity and system reliability. Under Article 14(1), (2) and (6) of that directive, that operator is
+         to maintain a secure, reliable and efficient system in its area whilst not discriminating between system users.
+      
+As regards dispatching services in particular, it should be noted that, under Articles and of Directive 2003/54, the
+         system operator is responsible for managing electricity flows on the system in order to ensure that it is secure, reliable
+         and efficient. The directive thus makes the system operator responsible for dispatching the generating installations in its
+         area.
+      
+Article 11(2) of Directive 2003/provides that the dispatching of generating installations is to be determined on the basis
+         of criteria which may be approved by the Member State concerned and which must be objective, published and applied in a non-discriminatory
+         manner. Those criteria must take into account the economic precedence of electricity from available generating installations
+         and the technical constraints on the system. Article 11(6) provides in essence that the system operator is to procure the
+         energy it uses in accordance with transparent, non-discriminatory and market-based procedures.
+      
+Article 3(2) and Article 11(2) and (6) of Directive 2003/allow the Member State concerned to impose, through the regulatory
+         authorities and system operators, public service obligations on undertakings owning generating installations necessary in
+         order to meet dispatching service requirements, provided that the conditions laid down in those provisions are met.
+      
+Legislation providing for such intervention must pursue an objective in the general economic interest and be consistent with
+         the principle of proportionality. Such obligations must also be clearly defined, transparent, non-discriminatory and verifiable,
+         and must guarantee those undertakings equality of access to national consumers. In any event, such installations must be dispatched
+         in accordance with criteria which are objective, published and applied in a non-discriminatory manner and which take into
+         account the economic precedence of electricity from such installations and the technical constraints on the system.
+      
+It is for the national court to assess, in the context of the dispute in the main proceedings, whether those requirements
+         are fulfilled. It is for the Court, however, to give it all the necessary guidance for that purpose, in the light of the law
+         of the European Union.
+      
+General economic interest
+It should be borne in mind that Member States are entitled, while complying with the law of the European Union, to define
+         the scope and the organisation of their services in the general economic interest. In particular, they may take account of
+         objectives pertaining to their national policy (see, to that effect, Albany, paragraph 104, and Federutility and Others, paragraph 29).
+      
+As is apparent from Article of the Bersani Decree, the electricity dispatching service is a public service designed to ensure
+         that, within the national transmission system, the supply of electricity matches demand, thereby guaranteeing security and
+         continuity in the energy supply.
+      
+As regards the question whether an undertaking such as Terna has been entrusted with the operation of services of general
+         interest, it should be borne in mind that, as emerges from the order for reference, Terna has been given responsibility for
+         the dispatching service, through the grant of a concession governed by public law.
+      
+As regards, in particular, the rules governing essential installations, these were adopted, as stated in Article 3(10) of
+         Decree-Law No 185, in order to guarantee lower costs for families and businesses and to reduce the price of electricity.
+      
+The obligations referred to in the preceding paragraph address concerns for the security of the system and for consumer protection,
+         acknowledged in Article 3(2) of Directive 2003/54. It must therefore be held in principle that the rules governing essential
+         installations pursue a general economic interest objective.
+      
+ Consistency with the principle of proportionality
+Although – as is apparent from paragraph above – Article 3(2) of Directive 2003/54, read in conjunction with Article EC, allows obligations to be imposed on undertakings responsible for operating a public service as regards, inter alia, setting
+         prices for the supply of electricity, national legislation imposing such obligations must be appropriate for securing the
+         objective which it pursues and must not go beyond what is necessary in order to attain it, so as to be consistent with the
+         principle of proportionality.
+      
+It is necessary, therefore, to examine whether legislation such as that at issue in the main proceedings is appropriate for
+         securing the objectives stated, namely, security of the system and consumer protection.
+      
+It emerges from the documents submitted to the Court that the national legislation concerned applies solely to operators owning
+         essential installations, that is to say, it applies solely in cases where there is only one generating unit which, owing to
+         its technical features and the speed with which it can vary its power output, is capable of supplying the resources needed
+         to meet the dispatching requirements. On a market such as the electricity market, where demand is inflexible and the product
+         concerned cannot be stored, such an installation is vital for resolving network congestion and/or maintaining adequate levels
+         of security for the system. This vital or essential feature means that an operator owning such an installation occupies a
+         strategic and impregnable position. 
+      
+The Italian Republic has stated in that regard – and has not been contradicted on this point – that that situation has caused
+         an unjustified increase in costs and in the final price of electricity, an increase which does not reflect a genuine increase
+         in costs and is likely to affect the security of supplies.
+      
+In that regard, it is not inconceivable that an excessive increase in the price of sale bids owing to the existence of such
+         strategic and impregnable positions, might be reflected in the electricity price paid by end consumers and undertakings.
+      
+In those circumstances, it may be held that application of the rules governing essential installations, in the case of producers
+         which are considered to occupy a strategic and indisputable position on the market, is appropriate for ensuring the security
+         of the system and consumer protection.
+      
+As regards the rules governing essential installations, as amended by Decision No 52/09, the documents submitted to the Court
+         disclose that Decree-Law No and Decision No 52/were adopted after it was established that the system then in force
+         was not efficient, because of the small number of power stations regarded as essential, and also because only individual installations
+         were considered to be ‘essential’ and not the undertakings which owned them, so that ‘the situation could arise in which making
+         an individual installation subject to the mandatory rules was not enough to prevent the market being dominated by certain
+         operators which, since they owned other installations that were, as a whole, vital for the purpose of meeting dispatching
+         requirements, could, in any event, unilaterally determine the selling price for the marginal amount of electricity needed
+         under certain network operating conditions.’ 
+      
+Accordingly, since, under Article 63(2)(a) of Annex A to Decision No 111/06, as amended by Decision No 52/09, Terna regards
+         as essential any installation without which it would be impossible to ensure the security of the system and since, under Article
+         63(3)(a) and (b), these are generating installations which are strictly necessary and vital in order to meet dispatching service
+         requirements, legislation such as the rules governing essential installations is appropriate for securing the security of
+         the system and consumer protection.
+      
+It is necessary none the less to determine whether that form of intervention does not go beyond what is necessary in order
+         to secure the general economic interest objectives pursued. 
+      
+Enel maintains in that regard – and has not been contradicted on this point – that the effect of Decision No 52/was to
+         make a high level of Enel’s generating capacity subject to the rules governing essential installations, a level which rose
+         from MW to over MW. It is for the national court to verify the validity of that assertion.
+      
+It is necessary to examine, in that context, the main features of the rules governing essential installations, as amended
+         by Decision No 52/09.
+      
+Article 63(9)(b) of Annex A to Decision No 111/06, as amended by Decision No 52/09, provides that Terna is to be responsible
+         for determining the number of hours and the capacity of the installations and/or groups of installations categorised as essential.
+         Terna therefore records the units and installations only during the time periods and in respect of the volumes for which the
+         generating installation is regarded as essential for the security of the system. As regards volumes which are not considered
+         to be essential, under the ordinary regime the producer may offer on the market the volume it wishes at the price of its choosing.
+      
+Moreover, under Article 64(3) and (4) of Annex A to Decision No 111/06, as amended by Decision No 52/09, when determining
+         the limits and criteria relating to the dispatching services market, Terna must take into account the results obtained on
+         the day-ahead market and on the infra-day market. With regard more specifically to the price of sale bids or purchase bids
+         accepted on the dispatching services market, Article 64(7) of Annex A to Decision No 111/06, as amended by Decision No 52/09,
+         provides that it is to be equivalent to the sale price of electricity on the day-ahead market in the area where the generating
+         installation is located. As a consequence, although it is true that that energy will not be paid for at the price which the
+         user of the dispatching service might have bid and obtained on those markets, since bids submitted on the day-ahead and infra-day
+         markets must be ‘zero equivalent’, it will be paid for at the average market price for the same area.
+      
+In those circumstances, it should be pointed out that – contrary to the assertions made by Enel – the energy made available
+         on the dispatching services market does not appear to be paid for by reference to prices wholly unconnected with the results
+         on the specific reference market. Since Article 64(7) of Decision No 111/06, as amended by Decision No 52/09, provides that
+         that energy will be paid for at the average market price in the area where the generating installation is located, it must
+         be concluded that – as is provided, moreover, under Article 3(11) of Decree-Law No – that regime appears to be such that
+         it secures fair remuneration for operators owning such installations.
+      
+Moreover, Article 64(8) of Annex A to Decision No 111/06, as amended by Decision No 52/09, provides that if that average price
+         is lower than the installation’s variable costs, Terna is to pay the operator owning the essential installation the difference,
+         where it is a positive amount, between the variable cost attributed to the generating units of that installation and the sale
+         price of the electricity on the day-ahead market. It can be seen from the documents submitted to the Court that such a mechanism
+         is designed to guarantee to the user of the dispatching service that the payment made to the essential installations available
+         on the markets is not lower than the variable costs of the installation itself.
+      
+Moreover, there is a measure of flexibility in the rules governing essential installations and they appear to offer operators
+         owning essential installations alternatives designed to reduce the impact upon them of the application of those rules.
+      
+Article 63(5) of Annex A to Decision No 111/06, as amended by Decision No 52/09, allows the user of the dispatching service
+         to choose which minimum group of generating installations, out of those pre-selected by Terna, will be subject to the rules
+         governing essential installations.
+      
+Article 63(11) of Annex A to Decision No 111/06, as amended by Decision No 52/09, allows the user of the dispatching service
+         to ask the AEEG for application of the ‘cost recovery rules’, which make it possible to obtain a special payment, determined
+         by the AEEG, equivalent to the difference between the eligible production costs incurred by the essential installation and
+         its income in the period during which it is on the list of essential installations. Provision is made, instead, for the installation
+         concerned to be subject to the ordinary regime in respect of the periods and the generating capacity declared essential but
+         also to additional restrictions on non-essential or ‘free’ amounts and periods laid down in Article of Annex A to Decision
+         No 111/06, as amended by Decision No 52/09.
+      
+With regard to the installations entered on the list referred to in Article 63(1) of Annex A to Decision No 111/06, as amended
+         by Decision No 52/09, which are not covered by the cost recovery rules, Article 64(9) of that decision, as amended, provides
+         that the user of the dispatching service may propose to Terna, within the time-limits and in accordance with a procedure which
+         they have agreed together in advance, that one or more generating units should be replaced by other generating units owned
+         by the user of the dispatching service.
+      
+Moreover, the owners of essential installations have the option of a derogation from the legislation applicable to essential
+         installations by entering into the contractual arrangement provided for in Article bis of Annex A to Decision No 111/06,
+         as amended by Decision No 52/09, which allows them to conclude with Terna one of the two different types of contract provided
+         for thereunder. Those contracts are approved by the AEEG prior to being concluded with the owners concerned. Under the terms
+         of those contracts, a user of the dispatching service who is the owner of essential installations undertakes to make available
+         to Terna, on the dispatching services market, specified volumes of generating capacity by offering them for sale and purchase
+         at prices pre-determined by the AEEG, in return for payment of a premium by Terna. It should be pointed out, moreover, that
+         Enel opted for that alternative arrangement.
+      
+As regards the duration of the intervention provided for under the legislation at issue in the main proceedings, it must be
+         limited to the length of time that is strictly necessary for attaining the objectives which it pursues. In that regard, it
+         must be held that, since the list of essential installations is annually reviewed and updated, it would appear that installations
+         are not kept on it for more than a limited period. In any event, an installation should be kept on that list only whilst the
+         installation is categorised as essential, that is to say, so long as no other installation is in a position to offer, competitively,
+         the resources needed to meet the dispatching requirements in a specified area.
+      
+In that regard, it should be noted that one of the objectives of Decree-Law No is to improve the transmission system and
+         that Article 3(11)(b) of that law provides that the AEEG must also adopt other types of measure in order to improve the efficiency
+         of the dispatching services market, to encourage the reduction of the cost of supplying those services, to enter into contracts
+         for resources and to stabilise the consideration to be paid by the end customers.
+      
+It should be added that the Italian Republic has stated that the rules governing essential installations are not intended
+         to be permanent and that they may be abandoned when the medium- and long-term structural measures relating to the system –
+         which are already in existence in the most critical areas, such as Sicily and Sardinia, or for which provision has been made
+         by the national legislature – have improved the efficiency of the operation of dispatching services by reducing the concentration
+         of the power of those installations over the local market.
+      
+Lastly, it should be noted that, as is apparent from Article 63(2)(b) of Annex A to Decision No 111/06, as amended by Decision
+         No 52/09, the rules governing essential installations have permitted the inclusion, not only of installations which are vital
+         in specific cases in order to meet the requirements of one of the dispatching services, but also of some installations which
+         are vital in order to meet the requirements of dispatching services as a whole.
+      
+Moreover, as the Advocate General stated in point of his Opinion, the last‑mentioned installations may be essential from
+         an economic point of view because they give their owners a paramount position in the market, which enables them to control
+         electricity prices, including prices paid for dispatching services.
+      
+In those circumstances, the national legislation at issue in the main proceedings does not appear go beyond what is necessary
+         to attain the objectives which it pursues. It is for the referring court, however, to determine whether that is the case.
+      
+ Compliance with the other conditions laid down in Article 3(2) and Article 11(2) and (6) of Directive 2003/As was stated in paragraph above, it is also necessary to ascertain whether the public service obligations in respect of
+         dispatching services which are incumbent on Terna and on operators owning essential installations are objective, clearly defined,
+         transparent, published and verifiable.
+      
+In that regard, it should be observed that Decision No 111/06, as amended by Decision No 52/09, and Article 3(11) of Decree-Law
+         No and the Code on transmission, dispatching, development and security of the system (Codice di trasmissione, dispacciamento,
+         sviluppo e sicurezza della rete) (‘the Network Code’) lay down the conditions and criteria on the basis of which Terna categorises
+         an installation or a group of installations as essential. Article of Annex A to Decision No 111/06, as amended by Decision
+         No 52/09, provides also that Terna must draw up and publish annually a list of such installations. As is apparent from the
+         documents before the Court, comments are made on those criteria in the technical report explaining the content of Decision
+         No 52/and the criteria are set out in detail in Chapter of the Network Code.
+      
+In particular, Article 63(9) requires Terna to send to the AEEG and to dispatching service users, in respect of essential
+         installations which they own: (i) a report stating the reasons why generating installations in the group have been included
+         on the list; (ii) the times of year and circumstances in which Terna predicts that each of those installations will prove
+         vital for the security of the system, specifying which installations are concerned; (iii) the main operating parameters laid
+         down and the periods in question in the following calendar year, during which those parameters should be shown to be correct
+         on the basis of Terna’s predictions; and (iv) an estimate of the probable use of the generating installations, and of all
+         the other installations belonging to a group, during the periods in which they might prove vital for ensuring the secure operation
+         of the electricity system, calculated separately, so far as is possible, for each of the parameters envisaged.
+      
+On the basis of that information, the user of the dispatching service must inform Terna, at least hours before the time-limit
+         expires for submitting bids on the day-ahead market, which of the units belonging to the installations essential for the purpose
+         of resolving network congestion will be used to carry out the dispatching obligations.
+      
+Moreover, the obligations incumbent upon users of the dispatching service are set out in Article 63(7) and Article 64(1) to
+         (10) of Annex A to Decision No 111/06, as amended by Decision No 52/09, which lays down the conditions under which bids may
+         be submitted.
+      
+The rules governing essential installations are not discriminatory as Enel alleges. In fact, those rules apply without distinction
+         to all operators who, over a given period, own one or more installations which, on the basis of objective technical criteria,
+         may prove essential in order to meet dispatching service requirements for electricity.
+      
+As regards the requirement that electricity must be dispatched in accordance with the criterion of the economic precedence
+         of the electricity, it is not apparent from the documents before the Court that the sale bids submitted on the day-ahead market
+         and on the infra-day market are not selected by Terna in ‘merit order’, beginning with the lowest bid and continuing in ascending
+         order.
+      
+Lastly, as regards the requirement that the legislation at issue in the main proceedings must be verifiable, it should be
+         noted that Decision No 52/is an administrative decision and, as such, it would appear possible to challenge it in court,
+         as Terna stated in answer to a question raised at the hearing. It should be pointed out in that regard that it was an action
+         against that decision which gave rise to the dispute in the main proceedings.
+      
+It follows from the foregoing that the answer to the question referred is that Directive 2003/and, in particular, Article
+         3(2) and Article 11(2) and (6) of that directive must be interpreted as not precluding national legislation, such as that
+         at issue in the main proceedings, which, for the purposes of reducing the price of electricity in the interests of the end
+         consumer and of ensuring the security of the electricity system, imposes on operators which own installations or groups of
+         installations which are considered, on the basis of the criteria laid down by the national regulatory authority, to be essential
+         in order to meet the requirements of the demand for electricity of dispatching services, the obligation to submit bids on
+         the national electricity markets in accordance with conditions pre-determined by that authority, provided that that legislation
+         does not go beyond what is necessary in order to attain the objective which it pursues. It is for the national court to ascertain
+         whether that condition is met in the case before it.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+Directive 2003/54/EC of the European Parliament and of the Council of June concerning common rules for the internal
+            market in electricity and repealing Directive 96/92/EC and, in particular, Article 3(2) and Article 11(2) and (6) of that
+            directive must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which,
+            for the purposes of reducing the price of electricity in the interests of the end consumer and of ensuring the security of
+            the electricity system, imposes on operators which own installations or groups of installations which are considered, on the
+            basis of the criteria laid down by the national regulatory authority, to be essential in order to meet the requirements of
+            the demand for electricity of dispatching services, the obligation to submit bids on the national electricity markets in accordance
+            with conditions pre-determined by that authority, provided that that legislation does not go beyond what is necessary in order
+            to attain the objective which it pursues. It is for the national court to ascertain whether that condition is met in the case
+            before it. 
+[Signatures]
+Language of the case: Italian.
+      
+Top  
+ 

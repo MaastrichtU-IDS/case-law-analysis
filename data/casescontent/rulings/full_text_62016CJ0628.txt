@@ -1,0 +1,127 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+February (
+*)
+(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Successive supplies relating to the same goods — Place of the second supply — Information provided by the first supplier — VAT identification number — Right to deduct — Legitimate expectation on the part of the taxable person regarding the existence of the conditions giving rise to the right to deduct)
+In Case C‑628/16,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesfinanzgericht (Federal Finance Court, Austria), made by decision of November 2016, received at the Court on December 2016, in the proceedings
+Kreuzmayr GmbH
+v
+Finanzamt Linz,
+THE COURT (Ninth Chamber),
+composed of E. Juhász, acting as President of the Chamber, K. Jürimäe (Rapporteur) and C. Lycourgos, Judges,
+Advocate General: M. Wathelet,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Kreuzmayr GmbH, by J. Hochleitner, Rechtsanwalt,
+–
+the Austrian Government, by G. Eberhard, acting as Agent,
+–
+the European Commission, by L. Lozano Palacios and M. Wasmeier, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+The present request for a preliminary ruling concerns the interpretation of the first paragraph of Article and Article 168(a) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1) (‘the VAT Directive’).
+The request has been made in the context of proceedings between Kreuzmayr GmbH and the Finanzamt Linz (Linz Tax Office, Austria), concerning the right to deduct input value added tax (VAT) for transactions carried out in 2008.
+Legal context
+EU law
+Under the first paragraph of Article of the VAT Directive:
+‘Where goods are dispatched or transported by the supplier, or by the customer, or by a third person, the place of supply shall be deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer begins.’
+Article 138(1) of that directive provides:
+‘Member States shall exempt the supply of goods dispatched or transported to a destination outside their respective territory but within the [European Union], by or on behalf of the vendor or the person acquiring the goods, for another taxable person, or for a non-taxable legal person acting as such in a Member State other than that in which dispatch or transport of the goods began.’
+Under Article of that directive:
+‘A right of deduction shall arise at the time the deductible tax becomes chargeable.’
+Article 168(a) of the VAT Directive provides:
+‘In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:
+the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person’.
+Austrian law
+Paragraph 3(7) of the Umsatzsteuergesetz (Law on turnover tax), in the version in force on the date of the facts in the main proceedings (‘the UStG 1994’), provides:
+‘The place of supply of goods is the place where the goods are located at the time when the power to dispose of them is procured.’
+Under the first sentence of Paragraph 3(8) of the UStG 1994:
+‘If there is a supply of goods which are transported or dispatched by the supplier or the customer, the place of supply of the goods shall be treated as being the place where the transport or dispatch to the customer or a third person on his behalf begins.’
+Point of Paragraph 12(1) of the UStG provides:
+‘The trader may deduct as amounts of input VAT the tax shown separately by other traders in an invoice to him for supplies or other services carried out within Austria for his business.
+…
+Where the supply or other service was carried out for a trader who knew or must have known that the transaction in question related to VAT evasion or other financial crimes relating to VAT, the right to deduct input tax shall lapse. This shall also apply, in particular, where such a financial crime concerns an upstream or downstream transaction.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+BP Marketing GmbH, established and identified for VAT purposes in Germany, sold petroleum products to BIDI Ltd, identified for VAT purposes in Austria. After being paid in advance, BP Marketing provided BIDI with collection numbers and collection permits for the petroleum products in question. BIDI undertook towards BP Marketing that it would deal with the transport of those products from Germany to Austria.
+Without informing BP Marketing, BIDI resold those goods to Kreuzmayr and provided it with the collection numbers and collection permits received from BP Marketing, agreeing that Kreuzmayr would arrange for or carry out the transport of the petroleum products from Germany to Austria. Kreuzmayr did in fact have the goods in question collected by its employees or by haulage contractors who had been entrusted with the task. Those transactions took place between April and October 2007.
+BP Marketing regarded its supplies to BIDI as constituting exempt intra-Community supplies. BIDI submitted invoices to Kreuzmayr which included Austrian VAT, which the latter paid. Kreuzmayr then used the goods in question for its taxed transactions and deducted the corresponding input VAT for 2008.
+During civil proceedings between BP Marketing and BIDI, the former learned that the latter had entrusted Kreuzmayr with the transport of the goods in question. BP Marketing communicated that information to the German tax authorities, which subsequently requested payment by that undertaking of the VAT applicable to the supply of the goods in question.
+In Austria, the Linz Tax Office initially allowed the deduction of the input VAT in favour of Kreuzmayr. However, in the course of a tax audit, it emerged that BIDI had neither declared nor paid over the invoiced amounts of VAT, without having informed Kreuzmayr of that fact. BIDI justified its course of action by claiming that the supplies to Kreuzmayr had been invoiced in Germany, that they were therefore exempt, and that they were consequently not taxable in Austria.
+Following that audit, BIDI sent amended invoices to Kreuzmayr without VAT. However, BIDI did not repay the amounts wrongly received to Kreuzmayr, according to it simply by reason of a mistake. BIDI having become insolvent, Kreuzmayr never recovered the amounts of VAT which it had paid.
+On the basis of the amended invoices showing that the supplies in question were exempt intra-Community transactions, the Linz Tax Office took the view that Kreuzmayr had no right to deduct the input VAT. It therefore cancelled Kreuzmayr’s input VAT deduction, claiming that the place of the supplies which had taken place between BIDI and Kreuzmayr was not located in Austria. Kreuzmayr thereupon brought an action against that decision.
+By decision of February 2013, the Unabhängiger Finanzsenat (Independent Tax Tribunal, Austria) upheld Kreuzmayr’s action against the cancellation of the input VAT deduction.
+The Linz Tax Office lodged an appeal against that decision before the Verwaltungsgerichthof (Supreme Administrative Court, Austria), which, by a ruling of June 2016, set aside that decision. That court found that the mere fact that BP Marketing, in good faith, had incorrectly classified its supplies to BIDI as ‘intra-Community supplies’ could not have the result that Kreuzmayr was entitled to deduct input VAT relating to the invoices concerning the supplies in question.
+The Verwaltungsgerichthof (Supreme Administrative Court) also took the view that the finding of the Unabhängiger Finanzsenat (Independent Tax Tribunal) that Kreuzmayr could enjoy a right to deduct input VAT was incorrect. That court held that the protection of legitimate expectations cannot stem from the exemption from tax of the first supplies which, objectively viewed, are not intra-Community supplies.
+The decision of the Unabhängiger Finanzsenat (Independent Tax Tribunal) of February having been set aside, the Bundesfinanzgericht (Federal Finance Court, Austria), which replaced that court, now finds itself seised of the case following the judgment of the Verwaltungsgerichthof (Supreme Administrative Court).
+In those circumstances the Bundesfinanzgericht (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+In circumstances such as those at issue in the main proceedings,
+–
+in which a taxable person Xhas at its disposal goods stored in Member State A and has sold those goods to a taxable person X2, and Xhas expressed to Xits intention to transport the goods to Member State B, and Xhas presented to Xits VAT identification number issued by Member State B,
+–
+and Xhas sold those goods on to a taxable person Xand Xhas agreed with Xthat Xwill arrange or carry out the transport of the goods from Member State A to Member State B and Xhas arranged or carried out the transport of the goods from Member State A to Member State B and Xwas already entitled to dispose of the goods as owner in Member State A,
+–
+and Xhas not, however, informed Xthat he has already sold on the goods before they leave Member State A,
+–
+and Xalso could not know that Xwould not be arranging or carrying out the transport of the goods from Member State A to Member State B,
+is EU law to be interpreted as meaning that the place of supply from Xto Xis determined in accordance with the first paragraph of Article of the VAT Directive and that the supply from Xto Xis thus the intra-Community (the so-called “active”) supply?
+(2)
+If Question must be answered in the negative, is EU law then to be interpreted as meaning that Xmay nevertheless deduct as input VAT an amount of VAT of Member State B invoiced to it by X2, provided that Xuses the goods purchased for purposes of its transactions taxed in Member State B and no wrongful exercise of the right of deduction of input VAT can be imputed to X3?
+(3)
+If Question must be answered in the affirmative and Xsubsequently learns that Xhas arranged the transport and was already entitled to dispose of the goods as owner in Member State A, is EU law then to be interpreted as meaning that the supply from Xto Xretrospectively loses its status as the intra-Community supply (that it is thus to be viewed retrospectively as a so-called “passive” supply?’
+Consideration of the questions referred
+The first question
+Admissibility
+The Austrian Government challenges the admissibility of the first question on the ground that it is hypothetical inasmuch as it concerns the supply which took place between BP Marketing and BIDI, which is not the subject matter of the main proceedings.
+It should be noted that, according to settled case-law, questions on the interpretation of EU law referred by a national court, in the factual and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of June 2017, Santogal M‑Comércio e Reparação de Automóveis, C‑26/16, EU:C:2017:453, paragraph and the case-law cited).
+In the present case, it is true that the first question, having regard to its wording, relates to the supplies which took place between BP Marketing and BIDI.
+However, it is clear from the order for reference that the referring court’s first question is based on the premiss that, in the case of two successive supplies giving rise to only one intra-Community transport, the first paragraph of Article of the VAT Directive can apply only to the supply which gave rise to the intra-Community transport. It is therefore possible to infer that the applicability of that provision to the first supply would mean that that provision is not applicable to the second supply. Conversely, if that provision were not applicable to the first supply, it would be applicable to the second supply.
+Accordingly, that question is not entirely unconnected to the dispute in the main proceedings and must therefore be regarded as admissible.
+Substance
+By its first question, the referring court seeks, in essence, to ascertain whether, in circumstances such as those in the main proceedings, the first paragraph of Article of the VAT Directive must be interpreted as meaning that it applies to the first supply or the second supply of two successive supplies of the same goods which gave rise to only one intra-Community transport.
+The first paragraph of Article of the VAT Directive provides that, where goods are dispatched or transported by the supplier, or by the customer, or by a third person, the place of supply is to be deemed to be the place where the goods are located at the time when dispatch or transport of the goods to the customer begins.
+It follows therefore from the wording of that provision that it is applicable only to the supplies of goods to which a transport or dispatch is ascribed.
+First of all, it is clear from settled case-law that, where two successive supplies of the same goods, effected for consideration between taxable persons acting as such, give rise to a single intra-Community transport of those goods, that transport can be ascribed to only one of the two supplies (see, to that effect, judgments of December 2010, Euro Tyre Holding, C‑430/09, EU:C:2010:786, paragraph and the case-law cited, and of July 2017, Toridas, C‑386/16, EU:C:2017:599, paragraph 34).
+It follows that, in such a situation, the first paragraph of Article of the VAT Directive is applicable only to the supply to which the intra-Community transport is ascribed.
+The case-law of the Court goes on to specify that, in order to determine which of the two supplies the intra-Community transport should be ascribed to, it is necessary to undertake an overall assessment of all the specific circumstances of the case. In that assessment, it is necessary to determine, in particular, when the second transfer of the right to dispose of the goods as owner, to the person finally acquiring the goods, has taken place (see, to that effect, judgment of July 2017, Toridas, C‑386/16, EU:C:2017:599, paragraphs and and the case-law cited).
+In a situation where the second transfer of the right to dispose of the goods as owner took place before the intra-Community transport occurs, the intra-Community transport cannot be ascribed to the first supply to the first person acquiring the goods (judgment of July 2017, Toridas, C‑386/16, EU:C:2017:599, paragraph and the case-law cited).
+Finally, it should be added that, in order to determine whether a supply may be classified as an ‘intra-Community supply’, account must be taken of the purchaser’s intentions at the time of the acquisition of the goods in question, provided that they are supported by objective evidence (see, to that effect, judgment of December 2010, Euro Tyre Holding, C‑430/09, EU:C:2010:786, paragraph and the case-law cited).
+In the present case, it is clear from the order for reference that Kreuzmayr was the owner of the goods before the intra-Community transport took place. It follows that, in circumstances such as those at issue in the main proceedings, the intra-Community transport must be ascribed to the supply which took place between the intermediary operator and the person ultimately acquiring the goods, and that the first paragraph of Article of the VAT Directive is applicable only to the second supply.
+In addition, it appears, in the light of the order for reference, that BIDI and Kreuzmayr were aware of the fact that the right to dispose of the goods as owner had been transferred to Kreuzmayr in Germany before the intra-Community transport. In such circumstances, the place of the second supply in a chain of transactions such as that at issue in the main proceedings cannot be determined without taking account of the relevant objective evidence of which the intermediary operator and the person finally acquiring the goods are aware and cannot depend solely on the classification made by the first supplier for the first supply on the sole basis of the information which had been incorrectly provided to it by the intermediary operator.
+That finding cannot be undermined by the fact that, as in the main proceedings, the first supplier had not been informed that the goods would be resold by the intermediary operator to the person ultimately acquiring the goods before any intra-Community transport and that the intermediary operator presented itself to the first supplier with a VAT identification number issued by the Member State of destination of the intra-Community transport by the first supplier.
+In the light of the foregoing considerations, the answer to the first question is that, in circumstances such as those in the main proceedings, the first paragraph of Article of the VAT Directive must be interpreted as meaning that it applies to the second of two successive supplies of the same goods which gave rise to only one intra-Community transport.
+The second question
+By its second question, the referring court asks, in essence, whether, in a situation where the second supply in a chain of two successive supplies involving a single intra-Community transport is an intra-Community supply, the principle of the protection of legitimate expectations must be interpreted as meaning that the person ultimately acquiring the goods, who wrongly claimed a right to deduct input VAT, may nonetheless deduct, as input VAT, the VAT paid on the basis of the invoices provided by the intermediary operator incorrectly classifying its supply as an ‘internal supply’.
+It should be recalled that intra-Community supplies of goods are exempt, subject to the conditions laid down in Article 138(1) of the VAT Directive (see, to that effect, judgment of February 2017, Euro Tyre, C‑21/16, EU:C:2017:106, paragraph and the case-law cited).
+It should also be pointed out that the right to deduct provided for in Article et seq. of the VAT Directive is an integral part of the VAT scheme and in principle may not be limited. That deduction system is intended to relieve the trader entirely of the burden of the VAT payable or paid in the course of all his economic activities (see, to that effect, judgment of September 2016, Senatex, C‑518/14, EU:C:2016:691, paragraph and the case-law cited).
+Accordingly, the common system of VAT ensures that all economic activities, whatever their purpose or results, provided that they are themselves subject to VAT, are taxed in a wholly neutral way (see, to that effect, judgment of April 2017, Farkas, C‑564/15, EU:C:2017:302, paragraph and the case-law cited).
+The right to deduct VAT can be exercised only in respect of taxes actually due and cannot be extended to overpaid input VAT (see, by analogy, judgment of June 2017, Compass Contract Services, C‑38/16, EU:C:2017:454, paragraphs and 36). It follows that the exercise of that right does not extend to VAT which is due exclusively because it features on an invoice (see, to that effect, judgments of December 1989, Genius, C‑342/87, EU:C:1989:635, paragraph 19, and of November 2003, Karageorgou and Others, C‑78/to C‑80/02, EU:C:2003:604, paragraph 51).
+Accordingly, if the second supply in a chain of two successive supplies involving a single intra-Community transport is an intra-Community supply, the person ultimately acquiring the goods cannot deduct, from the VAT which he is liable to pay, the amount of VAT wrongly paid for goods which were supplied to him in the context of an exempted intra-Community supply on the sole basis of the incorrect invoice provided by the supplier.
+It is, however, clear from the order for reference that the referring court also seeks to determine whether an operator, such as Kreuzmayr, may nonetheless, under the principle of the protection of legitimate expectations, rely solely on the elements contained in the invoice provided by its supplier, indicating that the supply is an internal supply, in order to claim a right to deduct VAT.
+In that regard, it must be noted that the right to rely on the principle of the protection of legitimate expectations extends to any person in a situation in which an administrative authority has caused that person to entertain expectations which are justified by precise assurances provided to him (judgment of July 2015, Salomie and Oltean, C‑183/14, EU:C:2015:454, paragraph and the case-law cited).
+It follows that, in circumstances such as those at issue in the main proceedings, an operator cannot rely on the principle of the protection of legitimate expectations against his supplier in order to claim a right to deduct input VAT.
+An operator in the situation of Kreuzmayr in the case in the main proceedings may, by contrast, request the repayment of the tax unduly paid to the operator which produced an incorrect invoice, in accordance with national law (see, to that effect, judgment of April 2017, Farkas, C‑564/15, EU:C:2017:302, paragraph and the case-law cited).
+In the light of all the foregoing considerations, the answer to the second question is that, where the second supply in a chain of two successive supplies involving a single intra-Community transport is an intra-Community supply, the principle of the protection of legitimate expectations must be interpreted as meaning that the person ultimately acquiring the goods, who wrongly claimed a right to deduct input VAT, may not deduct, as input VAT, the VAT paid to the supplier solely on the basis of the invoices provided by the intermediary operator which incorrectly classified its supply.
+The third question
+By its third question, the referring court seeks to ascertain whether, if the answer to the first question is in the negative, the classification of transactions, such as those at issue in the main proceedings, may be modified retrospectively once the first supplier becomes aware of the factual circumstances relating to the transport and the second supply.
+In the light of the answer to the first question, there is no need to answer the third question.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+1.
+In circumstances such as those in the main proceedings, the first paragraph of Article of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that it applies to the second of two successive supplies of the same goods which gave rise to only one intra-Community transport.
+ 
+2.
+Where the second supply in a chain of two successive supplies involving a single intra-Community transport is an intra-Community supply, the principle of the protection of legitimate expectations must be interpreted as meaning that the person ultimately acquiring the goods, who wrongly claimed a right to deduct input value added tax, may not deduct, as input value added tax, the value added tax paid to the supplier solely on the basis of the invoices provided by the intermediary operator which incorrectly classified its supply.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

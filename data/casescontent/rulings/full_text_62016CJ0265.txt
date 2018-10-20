@@ -1,0 +1,137 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Approximation of laws — Copyright and related rights — Directive 2001/29/EC — Article 5(2)(b) — Private copying exception — Article 3(1) — Communication to the public — Specific technical means — Provision of a cloud computing service for the remote video recording of copies of works protected by copyright, without the consent of the author concerned — Active involvement of the service provider in the recording)
+In Case C‑265/16,
+REQUEST for a preliminary ruling under Article TFEU from the Tribunale di Torino (District Court, Turin, Italy), made by decision of May 2016, received at the Court on May 2016, in the proceedings
+VCAST Limited
+v
+RTI SpA,
+THE COURT (Third Chamber),
+composed of L. Bay Larsen, President of the Chamber, J. Malenovský (Rapporteur), M. Safjan, D. Šváby and M. Vilaras, Judges,
+Advocate General: M. Szpunar,
+Registrar: R. Schiano, Administrator,
+having regard to the written procedure and further to the hearing on March 2017,
+after considering the observations submitted on behalf of:
+–
+VCAST Limited, by E. Belisario, F.G. Tita, M. Ciurcina and G. Scorza, avvocati,
+–
+RTI SpA, by S. Previti, G. Rossi, V. Colarocco, F. Lepri, and A. La Rosa, avvocati,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by G. Galluzzo and R. Guizzi, avvocati dello Stato,
+–
+the French Government, by D. Colas and D. Segoin, acting as Agents,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and T. Rendas, acting as Agents,
+–
+the European Commission, by L. Malferrari and J. Samnadda, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167, p. 10), in particular of Article 5(2)(b) thereof, of Directive 2000/31/EC of the European Parliament and of the Council of June on rental right and lending right and on certain rights related to copyright in the field of intellectual property (OJ L 178, p. 1) and of the FEU Treaty.
+The request has been made in proceedings between VCAST Limited and RTI SpA concerning the lawfulness of the making available to VCAST’s customers of a cloud video recording system for television programmes broadcast, inter alia, by RTI.
+Legal context
+EU law
+Directive 2000/Article 3(2) of Directive 2000/reads as follows:
+‘Member States may not, for reasons falling within the coordinated field, restrict the freedom to provide information society services from another Member State.’
+Article 3(3) of Directive 2000/provides that, inter alia, Article 3(2) of that directive does not apply to the fields referred to the annex to that directive, that annex concerning, inter alia, copyright and related rights.
+Directive 2001/According to recital of Directive 2001/29:
+‘The Treaty provides for the establishment of an internal market and the institution of a system ensuring that competition in the internal market is not distorted. Harmonisation of the laws of the Member States on copyright and related rights contributes to the achievement of these objectives.’
+Recital of that directive states:
+‘This Directive should harmonise further the author’s right of communication to the public. This right should be understood in a broad sense covering all communication to the public not present at the place where the communication originates. This right should cover any such transmission or retransmission of a work to the public by wire or wireless means, including broadcasting. This right should not cover any other acts.’
+Article of that directive provides:
+‘Member States shall provide for the exclusive right to authorise or prohibit direct or indirect, temporary or permanent reproduction by any means and in any form, in whole or in part:
+(a)
+for authors, of their works;
+(b)
+for performers, of fixations of their performances;
+(c)
+for phonogram producers, of their phonograms;
+(d)
+for the producers of the first fixations of films, in respect of the original and copies of their films;
+(e)
+for broadcasting organisations, of fixations of their broadcasts, whether these broadcasts are transmitted by wire or over the air, including by cable or satellite.’
+Article 3(1) of Directive 2001/reads as follows:
+‘Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.’
+Article 5(2)(b) of that directive provides:
+‘Member States may provide for exceptions or limitations to the reproduction right provided for in Article in the following cases:
+…
+(b)
+in respect of reproductions on any medium made by a natural person for private use and for ends that are neither directly nor indirectly commercial, on condition that the rightholders receive fair compensation which takes account of the application or non-application of technological measures referred to in Article to the work or subject-matter concerned’.
+According to Article 5(5) of that directive:
+‘The exceptions and limitations provided for in paragraphs 1, 2, and shall only be applied in certain special cases which do not conflict with a normal exploitation of the work or other subject-matter and do not unreasonably prejudice the legitimate interests of the rightholder.’
+Italian law
+Article 5(2)(b) of Directive 2001/was transposed into Italian law in Article sexies of Legge n. — Protezione del diritto d’autore e di altri diritti connessi al suo esercizio (Law No on the protection of copyright and other rights relating to its exercise) of April in the version in force on the date of the facts at issue in the main proceedings (‘the Law on copyright’). That Article sexies, which is contained in Section II of that law, entitled ‘Private reproduction for personal use’, provides:
+‘1.   The private reproduction of phonograms and videograms on any media made by natural persons for personal use only shall be permitted, provided that it is not for profit or ends that are directly or indirectly commercial, in compliance with the technical measures referred to in Article quater.
+2.   The reproduction referred to in paragraph may not be carried out by a third party. The provision of services for the reproduction of phonograms and videograms by a natural person for personal use shall constitute a reproduction activity covered by the provisions in Articles 13, 72, bis, and 80.
+…’
+Article septies of the Law on copyright provides:
+‘1.   The authors and producers of phonograms, and the original producers of audiovisual works, the performers and producers of videograms, and their successors in title, shall be entitled to compensation for the private copying of phonograms and videograms referred to in Article sexies. In respect of devices designed solely for the analogue or digital recording of phonograms or videograms, that compensation shall consist of a percentage of the price paid by the final purchaser to the retailer which, in respect of multipurpose devices, shall be calculated on the basis of the price of a device with characteristics equivalent to those of the internal component designed to record or, where that is not possible, of a fixed amount for each device. In respect of audio and video recording media, such as analogue media, digital media and internal or removable memory designed for recording phonograms or videograms, the compensation shall consist of a sum corresponding to the recording capacity provided by those media. In respect of remote video recording systems, the compensation referred to in this paragraph shall be due from the person who provides the service and correspond to the remuneration obtained for providing that service.
+2.   The compensation referred to in paragraph shall be set, in accordance with Community law and having regard, in any event, to the reproduction rights, by a decree of the Minister for Cultural Heritage and Activities to be adopted by December 2009, after consultation with the committee referred to in Article and the trade associations which represent the majority of the manufacturers of the devices and media and media referred to in paragraph 1. In setting the compensation, account shall be taken of the application or non-application of the technological measures referred to in Article quater and the different effect of digital copying in comparison with analogue copying. The decree shall be updated every three years.
+…’
+Article quater of the Law on copyright on provides:
+‘1.   Rightholders of any copyright or of any related right as well as of the right under paragraph of Article bis may apply to protected works or objects effective technological protection measures, including any technology, device or component that, in the normal course of its operation, is designed to prevent or restrict acts which are not authorised by the rightholders.
+2.   Technological protection measures shall be deemed effective where the use of the protected work or object is controlled by the rightholders through the application of an access control or protection process, such as encryption, scrambling or other transformation of the work or the protected work, or if that use is limited by a copy control mechanism which achieves the objective of protection.
+3.   The present article shall not affect the application of the provisions concerning computer programs referred to in Title 1, Chapter IV, Part VI.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+VCAST is a company incorporated under UK law which makes available to its customers via the Internet a video recording system, in storage space within the cloud, for terrestrial programmes of Italian television organisations, among which are those of RTI.
+It is apparent from the order for reference that, in practice, the user selects a programme on the VCAST website, which includes all the programming from the television channels covered by the service provided by that company. The user can specify either a certain programme or a time slot. The system operated by VCAST then picks up the television signal using its own antennas and records the time slot for the selected programme in the cloud data storage space indicated by the user. That storage space is purchased by the user from another provider.
+VCAST brought proceedings against RTI before the specialised chamber for company law of the Tribunale di Torino (District Court, Turin, Italy), seeking a declaration of the lawfulness of its activity.
+In the course of proceedings, by an order for reference of October 2015, that court upheld in part the application for interim measures submitted by RTI and prohibited VCAST, in essence, from pursuing its activity.
+Taking the view that the resolution of the case in the main proceedings depended in part on the interpretation of EU law, in particular on Article 5(2)(b) of Directive 2001/29, the Tribunale di Torino (District Court, Turin) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Are national rules prohibiting a commercial undertaking from providing private individuals with so-called cloud computing services for the remote video recording of private copies of works protected by copyright, by means of that commercial undertaking’s active involvement in the recording, without the rightholder’s consent, compatible with EU law, in particular with Article 5(2)(b) of Directive 2001/(as well as Directive 2000/and the founding Treaty)?
+(2)
+Are national rules which allow a commercial undertaking to provide private individuals with so-called cloud computing services for the remote video recording of private copies of works protected by copyright, even where the active involvement of that commercial undertaking in the recording is entailed, and even without the rightholder’s consent, against a flat-rate compensation in favour of the rightholder, in essence subjecting the services to a compulsory licensing system, compatible with EU law, in particular with Article 5(2)(b) of Directive 2001/(as well as Directive 2000/and the founding Treaty)?’
+Consideration of the questions referred
+Preliminary observations
+It is apparent from the request for a preliminary ruling that the referring court has adopted an interim order containing provisional measures prohibiting VCAST’s activity.
+Nevertheless, that court has referred two questions to the Court in relation to that activity, with two opposing premisses, on the one hand, that national legislation prohibits that activity, and on the other that the activity is authorised.
+It may thus be inferred from those considerations that it is not established that the legislation at issue in the main proceedings does in fact prohibit such an activity.
+In those circumstances, and in order to provide the referring court with a useful answer, the Court will answer the two questions together, operating on the assumption that national legislation authorises the carrying out of an activity such as that at issue in the main proceedings.
+It should be pointed out, moreover, that the referring court is asking the Court about the conformity with EU law of the national provision at issue in the main proceedings by referring, not only to Directive 2001/29, in particular Article 5(2)(b) thereof, but also to Directive 2000/and the ‘founding Treaty’.
+In that regard, as the Advocate General observed in point of his Opinion, the provision of Directive 2000/which could possibly be applicable in this case is Article 3(2) thereof, which prohibits Member States from restricting the freedom to provide information society services from another Member State. However, according to Article 3(3) of that directive, restrictions stemming from the protection of copyright and neighbouring rights are in particular excluded from the scope of that prohibition.
+It follows that the provisions of Directive 2000/are not applicable in a case such as that at issue in the main proceedings, which concerns copyright and its exceptions.
+With regard to the questions asked in so far as they concern the ‘Treaty’, it must be recalled that, according to the settled case-law of the Court, where a matter is regulated in a harmonised manner at EU level, any national measure relating thereto must be assessed in the light of the provisions of that harmonising measure (see, inter alia, judgments of December 2001, DaimlerChrysler, C‑324/99, EU:C:2001:682, paragraph 32; of January 2008, Roby Profumi, C‑257/06, EU:C:2008:35, paragraph 14, and of October 2009, HSBC Holdings and Vidacos Nominees, C‑569/07, EU:C:2009:594, paragraph 26).
+It should be noted that one of the objectives pursued by Directive 2001/consists, as is apparent from the recital thereof, in harmonising the laws of the Member States on copyright and related rights, so as to contribute to the achievement of the objective of establishing an internal market.
+Thus, it is not necessary to rule on the questions asked with regard to the FEU Treaty.
+In those circumstances, it must be considered that, by its questions, the referring court asks, in essence, whether Directive 2001/29, in particular Article 5(2)(b) thereof, precludes national legislation which permits a commercial undertaking to provide private individuals with a cloud service for the remote recording of private copies of works protected by copyright, by means of a computer system, by actively involving itself in the recording, without the rightholder’s consent.
+The Court’s reply
+Under Article 5(2)(b) of Directive 2001/29, Member States may provide for exceptions or limitations to the reproduction right in respect of reproductions on any medium made by a natural person for private use and for ends that are neither directly nor indirectly commercial.
+Moreover, Article 5(5) of that directive states that the exceptions and limitations provided for, inter alia, in Article 5(2) of that directive will only be applied in certain special cases which do not conflict with a normal exploitation of the work or other subject matter and do not unreasonably prejudice the legitimate interests of the rightholder.
+Concerning Article 5(2)(b) of Directive 2001/29, it must be pointed out that, according to the settled case-law of the Court, the provisions of a directive which derogate from a general principle established by that directive must be interpreted strictly (judgment of April 2014, ACI Adam and Others, C‑435/12, EU:C:2014:254, paragraph and the case-law cited). It follows that Article 5(2)(b) must be given such an interpretation.
+The Court has also held that copying by natural persons acting in a private capacity must be regarded as an act likely to cause harm to the rightholder concerned, where it is done without seeking prior authorisation from that rightholder (see, to that effect, judgment of October 2010, Padawan, C‑467/08, EU:C:2010:620, paragraphs to 46).
+In addition, the Court has held that, while Article 5(2)(b) of Directive 2001/must be understood as meaning that the private copying exception prohibits the rightholder from relying on his exclusive right to authorise or prohibit reproductions with regard to persons who make private copies of his works, that provision must not be understood as requiring, beyond that express limitation, the copyright holder to tolerate infringements of his rights which may accompany the making of private copies (see, to that effect, judgment of April 2014, ACI Adam and Others, C‑435/12, EU:C:2014:254, paragraph 31).
+Last, it follows from the case-law that, in order to rely on Article 5(2)(b), it is not necessary that the natural persons concerned possess reproduction equipment, devices or media. They may also have copying services provided by a third party, which is the factual precondition for those natural persons to obtain private copies (see, to that effect, judgment of October 2010, Padawan, C‑467/08, EU:C:2010:620, paragraph 48).
+The question whether a service such as that at issue in the main proceedings, the relevant elements of which are set out in paragraphs and of the present judgment, is covered by Article 5(2)(b) of Directive 2001/should be considered in the light of the case-law cited above.
+In that regard, it should be pointed out that the provider of that service does not merely organise the reproduction, but also provides access to the programmes of certain television channels that can be recorded remotely, with a view to reproducing them. Thus, it is the individual customers who choose which programmes are to be recorded.
+In that regard, the service at issue in the main proceedings has a dual functionality, consisting in ensuring both the reproduction and the making available of the works and subject matter concerned.
+However, although the private copy exception means that the rightholder must abstain from exercising his exclusive right to authorise or prohibit private copies made by natural persons under the conditions provided for in Article 5(2)(b) of Directive 2001/29, the requirement for a strict interpretation of that exception implies that that rightholder is not deprived of his right to prohibit or authorise access to the works or the subject matter of which those same natural persons wish to make private copies.
+It follows from Article of Directive 2001/that any communication to the public, including the making available of a protected work or subject matter, requires the rightholder’s consent, given that, as is apparent from recital of that directive, the right of communication of works to the public should be understood in a broad sense covering any transmission or retransmission of a work to the public by wire or wireless means, including broadcasting.
+In that respect, the Court has already held that the concept of ‘communication to the public’ includes two cumulative criteria, namely an ‘act of communication’ of a work and the communication of that work to a ‘public’ (judgment of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 37).
+That said, it must be stated, first, that the concept of an ‘act of communication’ refers to any transmission of the protected works, irrespective of the technical means or process used (judgment of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 38).
+Moreover, every transmission or retransmission of a work which uses a specific technical means must, as a rule, be individually authorised by the author of the work in question (judgment of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 39).
+Second, in order to fall within the concept of ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29, it is also necessary, as noted in paragraph of the present judgment, that the protected works actually be communicated to a ‘public’ (judgment of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 40).
+In that connection, it follows from the Court’s case-law that the term ‘public’ refers to an indeterminate number of potential recipients and implies, moreover, a fairly large number of persons (judgment of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 41).
+In the present case, the service provider at issue in the main proceedings records programmes broadcast and makes them available to its customers via the Internet.
+In the first place, it is evident that the sum of the persons targeted by that provider constitutes a ‘public’ within the meaning of the case-law cited in paragraph of the present judgment.
+In the second place, the original transmission made by the broadcasting organisation, on the one hand, and that made by the service provider at issue in the main proceedings, on the other, are made under specific technical conditions, using a different means of transmission for the protected works, and each is intended for its public (see, to that effect, judgment of March 2013, ITV Broadcasting and Others, C‑607/11, EU:C:2013:147, paragraph 39).
+The transmissions referred to thus constitute communications to different publics, and each of them must therefore receive the consent of the rightholders concerned.
+In those circumstances, it is no longer necessary to examine whether the publics targeted by those communications are identical or whether the public targeted by the service provider at issue in the main proceedings constitutes a new public (see, to that effect, judgment of March 2013, ITV Broadcasting and Others, C‑607/11, EU:C:2013:147, paragraph 39).
+It follows that, without the rightholder’s consent, the making of copies of works by means of a service such as that at issue in the main proceedings could undermine the rights of that rightholder.
+Accordingly, such a remote recording service cannot fall within the scope of Article 5(2)(b) of Directive 2001/29.
+In those circumstances, there is no longer any need to verify whether the conditions imposed by Article 5(5) of that directive have been complied with.
+In view of all the foregoing considerations, the answer to the questions asked is that Directive 2001/29, in particular Article 5(2)(b) thereof, precludes national legislation which permits a commercial undertaking to provide private individuals with a cloud service for the remote recording of private copies of works protected by copyright, by means of a computer system, by actively involving itself in the recording, without the rightholder’s consent.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society, in particular Article 5(2)(b) thereof, must be interpreted as precluding national legislation which permits a commercial undertaking to provide private individuals with a cloud service for the remote recording of private copies of works protected by copyright, by means of a computer system, by actively involving itself in the recording, without the rightholder’s consent.
+ 
+[Signatures]
+(
+*)	Language of the case: Italian.
+Top  
+ 

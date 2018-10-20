@@ -1,0 +1,158 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+May (
+*)
+‛Reference for a preliminary ruling — Tariff classification — Common Customs Tariff — Combined Nomenclature — Section XVI, note — Headings 8422, 8456, 8473, 8501, 8504, 8543, and — Concepts of ‘parts’ and ‘articles’ — Parts and accessories (motors, power supplies, lasers, generators, cables and heat sealers) intended for programming systems — No precedence of heading over other headings of Chapters or 85’
+In Case C‑297/13,
+REQUEST for a preliminary ruling under Article TFEU from the Finanzgericht München (Germany), made by decision of April 2013, received at the Court on May 2013, in the proceedings
+Data I/O GmbH
+v
+Hauptzollamt München,
+THE COURT (Fourth Chamber),
+composed of L. Bay Larsen, President of the Chamber, K. Lenaerts, Vice-President of the Court, acting as a Judge of the Fourth Chamber, M. Safjan, J. Malenovský and K. Jürimäe (Rapporteur), Judges,
+Advocate General: M. Wathelet,
+Registrar: M. Aleksejev, Administrator,
+having regard to the written procedure and further to the hearing on March 2014,
+after considering the observations submitted on behalf of:
+—
+Data I/O GmbH, by A. Linscheid, Rechtsanwältin,
+—
+the Hauptzollamt München, by C. Erhart-Parzefall, acting as Agent,
+—
+the European Commission, by F. Erlbacher and B.-R. Killmann, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of note 2(a) to Section XVI of the Combined Nomenclature (‘the CN’) in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 2031/of August (OJ L 279, p. 1), Commission Regulation (EC) No 1832/of August (OJ L 290, p. 1), Commission Regulation (EC) No 1789/of September (OJ L 281, p. 1) and Commission Regulation (EC) No 1810/of September (OJ L 327, p. 1).
+The request has been made in proceedings between Data I/O GmbH (‘Data I/O’) and the Hauptzollamt München (Munich customs authority; ‘the HZA’) concerning the tariff classification of motors, power supplies, lasers, generators, cables and heat sealers used in automated programming systems.
+Legal context
+The CN
+The CN is based on the international Harmonised Commodity Description and Coding System (‘the HS’) drawn up by the Customs Cooperation Council, now the World Customs Organisation (WCO), adopted by the International Convention concluded in Brussels on June and approved on behalf of the European Economic Community by Council Decision 87/369/EEC (OJ L 198, p. 1). The CN reproduces the headings and subheadings of the HS.
+Under Article 12(1) of Regulation No 2658/87, as amended by Council Regulation (EC) No 254/of January (OJ L 28, p. 16), the European Commission is required to adopt each year a regulation reproducing the complete version of the CN and the rates of customs duty, as they result from measures adopted by the Council of the European Union or by the Commission. That regulation is applicable from January of the following calendar year.
+The versions of the CN applicable to the facts of the main proceedings are those resulting from Regulations Nos 2031/2001, 1832/2002, 1789/and 1810/2004. The relevant provisions set out below have identical wording in those different versions.
+The ‘General rules for the interpretation of the CN’ are set out in Part One, Section I, Heading A, thereof. They provide:
+‘Classification of goods in the [CN] shall be governed by the following principles:
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+…
+3.
+When, by application of rule 2(b) or for any other reason, goods are prima facie classifiable under two or more headings, classification shall be effected as follows:
+(a)
+the heading which provides the most specific description shall be preferred to headings providing a more general description. However, when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part only of the items in a set put up for retail sale, those headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description of the goods;
+(b)
+mixtures, composite goods consisting of different materials or made up of different components, and goods put up in sets for retail sale, which cannot be classified by reference to 3(a), shall be classified as if they consisted of the material or component which gives them their essential character, in so far as this criterion is applicable.
+…’
+The second part of the CN contains Section XVI, entitled ‘Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’.
+Note to that section of the CN reads as follows:
+‘[P]arts of machines (not being parts of the articles of heading 8484, 8544, 8545, or 8547) are to be classified according to the following rules’:
+(a)
+Parts which are goods included in any of the headings of Chapter or (other than headings 8409, 8431, 8448, 8466, 8473, 8485, 8503, 8522, 8529, and 8548) are in all cases to be classified in their respective headings.
+(b)
+Other parts, if suitable for use solely or principally with a particular kind of machine, or with a number of machines of the same heading (including a machine of heading or 8543) are to be classified with the machines of that kind or in heading 8409, 8431, 8448, 8466, 8473, 8503, 8522, or as appropriate. However, parts which are equally suitable for use principally with the goods of headings and to are to be classified in heading 8517.
+…’
+Chapter of the CN is in Section XVI thereof. It is entitled ‘Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof’.
+Heading of the CN, which forms part of that chapter, concerns ‘Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages’.
+Heading of the CN, in that chapter, is entitled ‘Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electrodischarge, electrochemical, electron beam, ionic-beam or plasma arc processes’.
+Heading of the CN is in the same chapter and relates to ‘Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included’.
+Heading of Chapter of the CN is entitled ‘Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings to 8472’.
+Section XVI of the CN also includes Chapter 85, entitled ‘Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’.
+That chapter of the CN includes, inter alia, the following headings:‘8501Electric motors and generators (excluding generating sets)…8504Electrical transformers, static converters (for example, rectifiers) and inductors…8543Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter…
+Insulated (including enamelled or anodised) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors
+…’
+At the date of the facts in the main proceedings, the goods coming under heading of the CN and those under thereof, as parts of machines covered by heading of the CN, were exempt from customs duties, while goods coming under headings 8422, 8456, 8501, 8504, and of the CN were subject to customs duties at a variable rate, depending on the sub-heading concerned.
+The Explanatory Notes to the HS
+The WCO approves, under the conditions laid down in Article of the International Convention on the Harmonised Commodity Description and Coding System, the Explanatory Notes and Classification Opinions adopted by the HS Committee. The version of those notes applicable to the facts in the main proceedings is that adopted during 2002.
+In that version, the Explanatory Notes to the HS concerning general rule 3(a) state, inter alia, in point IV(a), that ‘A description by name is more specific than a description by class’.
+The Explanatory Notes concerning note to Section XVI of the HS, in the General content of the section, are worded as follows:
+‘(II) Parts
+In general, parts which are suitable for use solely or principally with particular machines or apparatus (including those of heading or heading 8543), or with a group of machines or apparatus falling in the same heading, are classified in the same heading as those machines or apparatus subject, of course, to the exclusions mentioned in Part (I) above. …
+…
+The above rules do not apply to parts which in themselves constitute an article covered by a heading of this Section (other than headings and 8548); these are in all cases classified in their own appropriate heading even if specially designed to work as part of a specific machine. …’
+The explanatory notes concerning heading of the HS read as follows:
+‘(A) General content of the Chapter
+Subject to the provisions of the General Explanatory Note to Section XVI, this Chapter covers all machinery and mechanical appliances, and parts thereof, not more specifically covered by Chapter 85, and not being:
+…
+(C) Parts
+As regards parts in general, see the General Explanatory Note to Section XVI.
+Separately presented electrical parts generally fall in one or other of the headings of Chapter 85, for example: electric motors (heading 8501) …’
+The Explanatory Notes concerning heading of the HS state:
+‘Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), this heading covers parts and accessories suitable for use solely or principally with the machines of headings to 8472.’
+The Explanatory Notes concerning heading of the HS provide:
+‘(A) Scope and structure of the chapter
+This Chapter covers all electrical machinery and equipment, other than:
+(a)
+Machinery and apparatus of a kind covered by Chapter 84, which remains classified there even if electric …
+…
+(C) Parts
+As regards parts in general, see the General Explanatory Note to Section XVI.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Between and 2005, Data I/O imported various models of the above motors, power supplies, lasers, cables, heat sealers and generators used in automated programming systems (together ‘the goods at issue’) to Germany from the USA.
+Automated programming systems are used in the programming of memory components, microcontrollers and logic devices. Programming is carried out by transferring data from a file or another master component to the component to be programmed by means of signal conversion. During programming, the motors move the system components to be programmed. The power supplies supply the necessary constant power to the programming system. The lasers are used to mark and inscribe the components. The generators produce a vacuum within the programming system that is necessary to move components within the system during programming. The cables connect the electronics within the programming system. Finally, the heat sealers are used to seal and pack the programmed components.
+The goods imported were declared as coming under heading of the CN. They were released for free circulation without customs duties being levied.
+Following a post-release control, the HZA, taking the view that the motors, power supplies, lasers, cables, heat sealers and generators ought to be classified under headings 8501, 8504, 8456, 8543, and of the CN respectively, acted to recover a posteriori the import duties resulting from that classification.
+In that context, Data I/O brought an action before the referring court. In support of its action, it argues that the goods at issue must be classified under heading of the CN as parts of a machine which comes, in its view, under heading of the CN.
+In the view of the HZA, however, in accordance with note 2(a) to Section XVI of the CN, an article covered by a heading in Chapter or Chapter of the CN should be classified under that heading even if classification under heading of the CN is possible.
+The referring court is of the opinion that the motors, power supplies, lasers, cables, heat sealers and generators constitute parts of Data I/O’s automated programming systems and ought to be classified under headings 8501, 8504, 8456, 8543, and of the CN respectively.
+None the less, that court asks, having regard to the judgment in Case C‑370/Data I/O
+EU:C:2010:284, whether that classification is correct in the light of note 2(a) to Section XVI of the CN. That court notes that the Court of Justice held, in paragraph of that judgment, that an adapter such as that used in Data I/O’s programming systems could be classified under heading of the CN only if it was not covered by headings and thereof. A precedence thus appears to have been established in that heading of the CN takes priority over heading of the CN, or even a systematic precedence of heading over the other headings of Chapters and of the CN. However, the referring court, noting that, in that decision, the Court did not give an interpretation of note 2(a) to Section XVI of the CN concerning the tariff classification of parts of machines, doubts whether such parts of machines are to be given precedence by classification under heading of the CN. By reference to the Explanatory Notes to the HS concerning note to Sections XVI, Chapters and and heading of that system, the referring court is of the view that heading of the CN, as regards the classification of parts of machines, does not take precedence over the other headings of Chapters and of the CN.
+In those circumstances the Finanzgericht München decided to stay the proceedings before it and to refer the following question to the Court for a preliminary ruling:
+‘Is note 2(a) to Section XVI to be interpreted as meaning that goods that fulfil the conditions both for classification as a part within the meaning of heading of the Combined Nomenclature (CN) and for classification as individual goods under another heading of Chapter of the CN or a heading of Chapter of the CN are to be classified under the other heading because heading of the CN does not take precedence over the other headings of Chapter and the headings of Chapter of the CN?’
+Consideration of the question referred
+By its question referred for a preliminary ruling, the referring court asks, in essence, whether note 2(a) to Section XVI of the CN is to be interpreted as meaning that goods which may be classified under heading of the CN, as parts of a machine under heading thereof, and under one of headings 8422, 8456, 8501, 8504, and thereof, as individual goods, are to be classified under heading or under one of the other headings.
+It must be borne in mind that the Explanatory Notes drawn up by the Commission as regards the CN and by the World Customs Organisation as regards the HS may be an important aid to the interpretation of the scope of the various tariff headings but do not have legally binding force (see Case C‑423/Delphi Deutschland
+EU:C:2011:315, paragraph 24).
+With a view to giving a useful answer to the referring court, it is necessary to state, first of all, that note to Section XVI of the CN applies only to the tariff classification of ‘parts of machines’ (see, to that effect, Case 57/Senelco
+EU:C:1986:94, paragraph 12).
+In that regard, it must be noted that the CN, in the versions applicable to the main proceedings, does not define the notions of ‘parts’ within the meaning of note to Section XVI thereof. None the less, it is clear from the case-law of the Court concerning heading of the CN and note 2(b) to Section XVI thereof that the notion of ‘parts’ implies a whole for the operation of which the part is essential (Case C‑339/Peacock
+EU:C:2000:573, paragraph 21; Case C‑183/Ruma
+EU:C:2007:110, paragraph 31; and Case C‑336/Rohm & Haas Electronic Materials CMP Europe and Others
+EU:C:2012:500, paragraph 34). It follows from the case-law that, in order to be able to classify an article as a ‘part’, it is not sufficient to show that, without that article, the machine is not able to function properly. It remains necessary to establish that the mechanical or electrical functioning of the machine in question is dependent upon that article (see, to that effect, Case C‑276/Turbon International
+EU:C:2002:88, paragraph 30, and Rohm & Haas Electronic Materials CMP Europe and Others
+EU:C:2012:500, paragraph 35).
+Nevertheless, it should be recalled that, when the Court is requested to give a preliminary ruling on a matter of tariff classification, its task is to provide the national court with guidance on the criteria the implementation of which will enable the latter to classify the products at issue correctly in the CN, rather than to effect that classification itself, a fortiori since the Court does not necessarily have available to it all the information which is essential in that regard. In any event, the national court is in a better position to do so (Case C‑12/Lecson Elektromobile
+EU:C:2010:823, paragraph and the case-law cited).
+It is therefore for the referring court to consider whether power supplies, cables, motors, generators, lasers and heat sealers constitute ‘parts’ of machines within the meaning of note to Section XVI of the CN. If it should conclude that those elements do constitute such ‘parts’ of machines, it must classify them in accordance with that note.
+In that regard, it must be borne in mind that, according to note 2(a) to Section XVI of the CN, ‘parts which are goods included in any of the headings of Chapter or (other than headings 8409, 8431, 8448, 8466, 8473, 8485, 8503, 8522, 8529, and 8548) are in all cases to be classified in their respective headings’.
+That classification rule applies where the parts of machines in question are goods which, because of their own characteristics, are covered by a specific tariff heading of Chapters and (see, to that effect, Case 60/Fuss
+EU:C:1977:213, paragraph 5).
+Pursuant to that classification rule, parts of machines are classified according to their own characteristics, as individual goods, under the specific heading which covers those articles.
+As regards the motors, power supplies, lasers, cables, generators and heat sealers at issue in the main proceedings, these are, according to the information provided by the referring court, goods covered by headings 8501, 8504, 8456, 8543, and of the CN respectively. Accordingly, they could be classified, by virtue of note 2(a) to Section XVI of the CN, under those headings. However, the referring court notes also that each of those goods could be classified under heading of the CN, as part of a machine coming under heading of the CN.
+In those circumstances, it must be ascertained whether those goods must, pursuant to note 2(a) to Section XVI of the CN, be classified under headings 8422, 8456, 8501, 8504, and or under heading of the CN. Since the latter heading is mentioned in the parenthesis in that note and that in note 2(b) to that section, it is necessary, with a view to determining the relationships between those headings, to assess, firstly, the meaning of that parenthesis and, secondly, the interaction between note 2(a) and note 2(b) to Section XVI of the CN.
+Firstly, with regard to the meaning of the parenthesis in note 2(a) to Section XVI of the CN, it must be pointed out that that note reflects the content of General Rule 3(a) to the CN under which, where goods come under two separate headings, they must be classified under the more specific heading. It must be stated that, in accordance with the Explanatory Notes to the HS concerning that general rule, ‘a description by name is more specific than a description by class’.
+Heading of the CN, in so far as it concerns parts and accessories suitable for use solely or principally with machines of headings to of the CN, is, like the other headings referred to in the parenthesis in noted 2(a) to Section XVI of the CN, a generic heading.
+It follows that parts of machines which are suitable for classification as individual goods under the headings which covers those articles cannot be classified under the headings referred to in the parenthesis in note 2(a) to Section XVI of the CN, in this case under heading of the CN.
+Secondly, with regard to the interaction between note 2(a) and note 2(b) to Section XVI of the CN, it must be pointed out that, although note 2(a) to Section XVI of the CN lays down, as stated in paragraph of this judgment, a classification rule based on the particular characteristics of parts of machines, note 2(b) to Section XVI of the CN lays down a classification rule based on their intended use, where parts are ‘suitable for use solely or principally with a particular kind of machine, or with a number of machines of the same heading’. Under that rule, ‘other parts are to be classified with the machines of that kind or in heading 8409, 8431, 8448, 8466, 8473, 8503, 8522, or as appropriate’.
+It is apparent from the wording of note 2(b) to Section XVI of the CN that, firstly, it applies only to parts of machines which are not suitable for classification under note 2(a) since they do not constitute individual goods coming, as such, under specific headings of Chapter or Chapter of the CN. That interpretation is clear from a number of language versions of note 2(b) to Section XVI of the CN, such as the versions in English and German, according to which that note concerns the classification of ‘other parts’ or ‘andere Teile’.
+Secondly, note 2(b) to Section XVI of the CN, which lays down a classification rule based on the intended use of the parts of a machine in question, expressly permits the classification of such parts under heading of the CN.
+Accordingly, classification under heading of the CN is possible only where there is no tariff heading enabling the parts in question to be classified as individual goods. Heading of the CN must, in consequence, be regarded as a residual heading and, accordingly, subsidiary as regards the headings enabling classification of parts of a machine as individual goods.
+Moreover, that conclusion is confirmed by the Explanatory Notes to the HS concerning note to Section XVI of that system, according to which, although parts of machines which are suitable for use solely or principally with particular machines or apparatus are, in principle, classified in the same heading as those machines or apparatus, ‘parts which in themselves constitute an article covered by a heading of Chapters or [of the HS] are in all cases classified in their own appropriate heading even if specially designed to work as part of a specific machine’.
+Accordingly, it must be concluded that, contrary to the assertions of Data I/O, note 2(a) to Section XVI of the CN does not provide, as a matter of precedence, for the classification of parts of a machine under heading of the CN rather than under another heading in Chapters and of the CN. On the contrary, it is apparent from note 2(a) and (b) to Section XVI of the CN that the classification of parts of a machine under heading is subsidiary to classification of the parts as goods, pursuant to part (a) of that note.
+Nor is such classification by precedence under heading of the CN apparent from the first paragraph of Part (A) of the Explanatory Notes to the HS concerning Chapter of that system, according to which Chapter ‘covers all electrical machinery and equipment, other than … machinery and apparatus of a kind covered by Chapter 84, which remains classified there even if electric’.
+It does indeed follow from those Explanatory Notes that where a machine or apparatus can be covered by a heading in Chapter and by a heading in Chapter of the CN, its tariff classification must be under the first of those headings. In addition, in paragraphs and of the judgment in Data I/O
+EU:C:2010:284, the Court deduced from the first paragraph of Part (A) of the Explanatory Notes to Chapter of that system that a part of a machine, such as the adapter used by Data I/O in the programming machines at issue in that case, could be classified under heading of the CN only if it is not covered by headings and thereof.
+Nevertheless, it must be noted that the rule laid down in the first paragraph of Part (A) of the Explanatory Notes to the HS concerning Chapter of that system does not apply to the tariff classification of parts of machines within the meaning of note to Section XVI of the CN.
+On the one hand, according to the first paragraph of Part (A) of the Explanatory Notes to the HS concerning Chapter of that system, according to which Chapter covers all electrical machinery and equipment and the parts of those machines and apparatus, other than, in particular, ‘machinery and apparatus of a kind covered by Chapter 84’. Parts of machines are not covered by that exception. On the other, with regard precisely to parts of machines, Part (C) of those Explanatory Notes makes reference to the General Explanatory Note to Section XVI, which contains, inter alia, note referred to above.
+Accordingly, the first paragraph of Part (A) of the Explanatory Notes to the HS concerning Chapter of that system cannot be regarded as derogating from the classification rules for parts of a machine, as set out in note to Section XVI of the CN, nor as laying down any precedence in classification for parts of machines under heading of the CN over the headings in Chapter thereof.
+In addition, nor can such precedence in classification of parts of machines under heading rather than under the other headings in Chapters and of the CN be deduced from the other judgments referred to by Data I/O and in the context of which the Court allegedly made a tariff classification by precedence under heading of the CN.
+Firstly, as regards the judgment in Peacock
+EU:C:2000:573, it must be stated that, in paragraph thereof, the Court noted that the goods at issue in that case, namely network cards for installation in computers, did not constitute ‘parts’ of a machine. Accordingly, it cannot be deduced from the fact that the Court merely considered the possibility of classification of those goods under heading or under heading of the CN, without considering heading thereof, that a part of a machine must be classified, by precedence, under heading of the CN rather than under one of the other headings in Chapter of the CN.
+Next, as regards the judgment in Case C‑250/Turbon International
+EU:C:2006:681, it suffices to note that, firstly, the case which gave rise to that judgment did not raise any question of classification of a part of a machine within the meaning of note to Section XVI of the CN. Secondly, and in any event, it is clear from paragraph of the judgment in Turbon International
+EU:C:2002:that the ink-cartridge at issue in those two cases cannot be regarded as a ‘part’ within the meaning of heading of the CN.
+Finally, as regards the judgment in Case C‑173/Kloosterboer Services
+EU:C:2009:382, it must be noted that, in the context of that judgment, the Court applied General Rule 3(b) of the NC concerning the classification of goods composed of different materials, coming under different sub-headings of the CN. Under that rule, in carrying out the tariff classification of goods it is necessary to identify, from among the materials of which they are composed, the one which gives them their essential character (Kloosterboer Services
+EU:C:2009:382, paragraph 31). It is for the purposes of the application of that general rule that, in the latter judgment, the Court considered successively tariff headings and of the CN. It cannot be deduced from that examination that the Court intended to recognise any precedence of heading of the NC over the other headings in Chapter 84, or those in Chapter 85, thereof with a view to tariff classification under note to Section XVI of the CN.
+Accordingly, as regards the goods in question, and subject to the assessment which it is for the referring court to make in that regard, since they may be classified under both heading as parts of a machine under heading thereof and as goods under one of headings 8422, 8456, 8501, 8504, and thereof, those goods must be classified as individual goods under one of the latter headings, according to their respective characteristics.
+Having regard to all the foregoing considerations, the answer to the question referred is that note 2(a) to Section XVI of the CN must be interpreted as meaning that goods which may be classified under heading of the CN, as parts of a machine under heading thereof, and under one of headings 8422, 8456, 8501, 8504, and thereof, as individual goods, are to be classified as individual goods under one of the latter headings, according to their individual characteristics.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Note 2(a) to Section XVI of the Combined Nomenclature in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EC) No 2031/of August 2001, Commission Regulation (EC) No 1832/of August 2002, Commission Regulation (EC) No 1789/of September and Commission Regulation (EC) No 1810/of September 2004, must be interpreted as meaning that goods which may be classified under heading of the Combined Nomenclature, as parts of a machine under heading thereof, and under one of headings 8422, 8456, 8501, 8504, and thereof, as individual goods, are to be classified as individual goods under one of the latter headings, according to their individual characteristics.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

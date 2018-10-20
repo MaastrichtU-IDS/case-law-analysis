@@ -1,0 +1,110 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+December (
+*)
+‛Taxation — VAT — Second Directive 67/228/EEC — Article 8(a) — Sixth Directive 77/388/EEC — Supply of goods — Basis of assessment — Commission paid by a mail order company to its agent — Purchases by third-party customers — Price reduction after the chargeable event — Direct effect’
+In Case C-310/11,
+REFERENCE for a preliminary ruling under Article TFEU from the First-tier Tribunal (Tax Chamber) (United Kingdom), made by decision of May 2011, received at the Court on June 2011, in the proceedings
+Grattan plc
+v
+The Commissioners for Her Majesty’s Revenue & Customs,
+THE COURT (Second Chamber),
+composed of A. Rosas, acting for the President of the Second Chamber, U. Lõhmus, A. Ó Caoimh, A. Arabadjiev (Rapporteur) and C.G. Fernlund, Judges,
+Advocate General: J. Kokott,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on July 2012,
+after considering the observations submitted on behalf of:
+—
+Grattan plc, by H. Stone, Solicitor, P. Lasok QC and R. Haynes, Barrister,
+—
+the United Kingdom Government, by C. Murrell, E. Jenkinson and L. Seeboruth, acting as Agents,
+—
+the European Commission, by R. Lyal and C. Soulay, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2012,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 8(a) of, and point of Annex A to, Second Council Directive 67/228/EEC of April on the harmonisation of legislation of Member States concerning turnover taxes – Structure and procedures for application of the common system of value added tax (OJ, English Special Edition 1967, p. 16; ‘the Second Directive’).
+The reference has been made in proceedings between Grattan plc (‘Grattan’) and the Commissioners for Her Majesty’s Revenue & Customs (‘the Commissioners’) concerning the repayment of amounts of value added tax (‘VAT’) corresponding to the commission paid to persons described as ‘agents’ in respect of goods ordered through them in the period from to 1977.
+Legal context
+European Union law
+Article of the Second Directive provided:
+‘1.   “Supply of goods” means the transfer of the right to dispose of tangible property as owner.
+2.   The following shall also be considered as supply within the meaning of paragraph 1:
+…
+(c)
+the transfer of goods pursuant to a contract under which commission is payable on purchase or sale;
+…
+5.   The chargeable event shall occur at the moment when delivery is effected. …’
+Point of Annex A to the Second Directive stated that ‘[t]he “chargeable event” means the event giving rise to the tax’.
+Article 8(a) of the Second Directive provided as follows:
+‘The basis of assessment shall be:
+(a)
+in the case of supply of goods and of the provision of services, everything which makes up the consideration for the supply of the goods or the provision of services, including all expenses and taxes except the [VAT] itself’.
+The expression ‘consideration’ was defined in point of Annex A to the Second Directive as meaning:
+‘… everything received in return for the supply of goods or the provision of services, including incidental expenses (packing, transport, insurance, etc.) that is to say not only the cash amounts charged, but also, for example, the value of the goods received in exchange …’
+Article 11A of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1; ‘the Sixth Directive’), which replaced the Second Directive from 1978, provided, so far as is relevant, as follows:
+‘1.   The taxable amount shall be:
+(a)
+in respect of supplies of goods and services other than those referred to in (b), (c) and (d) below, everything which constitutes the consideration which has been or is to be obtained by the supplier from the purchaser, the customer or a third party for such supplies including subsidies directly linked to the price of such supplies;
+…
+3.   The taxable amount shall not include:
+(a)
+price reductions by way of discount for early payment;
+(b)
+price discounts and rebates allowed to the customer and accounted for at the time of the supply;
+…’
+Article 11C(1) of the Sixth Directive provided:
+‘In the case of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the Member States.
+However, in the case of total or partial non-payment, Member States may derogate from this rule.’
+United Kingdom law
+At the material time the relevant provision of national law was section 10(2) of the Finance Act 1972, which provided as follows:
+‘If the supply is for a consideration in money its value shall be taken to be such amount as, with the addition of the tax chargeable, is equal to the consideration.’
+The First-tier Tribunal (Tax Chamber) observes that the national legislation contained no provision providing for retrospective reductions in the value of supplies by reason of price reductions or discounts which occurred only after the supply had taken place.
+The Member States were required to ‘modify their present [VAT] system’ in accordance with the provisions of the Sixth Directive by January 1978.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Grattan is the representative member of a VAT group composed of companies which, during the period at issue in the main proceedings, were mail order retailers (‘the companies’). The companies used the services of agents who earned commission, inter alia in relation to purchases made by third parties (‘third party purchases’) to whom the agents would send company catalogues and who were the final consumers (‘the sub-customers’). The agent would place the sub-customers’ orders by telephoning the call-centre of the company concerned or by sending off an order form. Typically, the goods ordered would be delivered to the agent for onward distribution to the sub-customers. Payment for the goods would be collected by the agent from the sub-customers and periodically remitted to the mail order company.
+The agents received commission of 10% on the amounts which they remitted to the company concerned, both in relation to their own purchases of goods from the mail order catalogue and in relation to third party purchases. The commission would be credited to an account in the company’s books and the agents could then obtain it in various ways:
+—
+they could claim it as a cheque payment;
+—
+they could apply the credit against the balance of their account so as to reduce their outstanding debt to the company for goods that they had bought from it;
+—
+they could apply the credit as full or part payment for the purchase of further goods.
+When taken as a cheque payment or as credit against the agent’s outstanding balance the commission was referred to as being taken ‘in cash’. When used for the purchase of further goods, the commission was referred to as taken ‘in goods’. The dispute in the proceedings before the referring tribunal concerns only situations in which the commission was taken ‘in cash’.
+The companies accounted for VAT on the full catalogue price of the goods, including the amount of the commission paid to the agents. Grattan claimed repayment from the Commissioners of the amounts paid by way of VAT corresponding to the commission on the ground that the commission constituted a discount reducing the consideration for, or taxable amount of, supplies of goods by the companies to the agents. The Commissioners repaid the VAT relating to the commission with the exception of commission taken in cash in respect of third-party-purchase transactions in the period from up to January 1978.
+Before the referring tribunal, Grattan contended that the commission for third party purchases taken in cash was a discount on the price paid by the agent for the goods which the agent purchased from the relevant company (when the commission was received at the time of supply) or a rebate (when it was received after the supply). Therefore, in its submission, the consideration, or taxable amount, had to be reduced. This followed from Article 11C(1) of the Sixth Directive and, prior to 1978, from Article 8(a) of, and paragraph of Annex A to, the Second Directive and, in any event, from the principle of fiscal neutrality which existed before 1978.
+The Commissioners submitted that the Second Directive did not require the Member States to put in place measures providing for a retrospective reduction of the basis of assessment after the supply had taken place, as provided for by Article 11C(1) of the Sixth Directive. Furthermore, Article 8(a) of the Second Directive was not sufficiently precise to have direct effect. The Commissioners considered that there were relevant distinctions between commission for third party purchases and commission for agents’ own purchases of goods from the mail order catalogue.
+In those circumstances, the First-tier Tribunal (Tax Chamber) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘In relation to the period before January 1978, does a taxable person have a directly effective right under Article 8(a) of the [Second Directive], and/or the principles of fiscal neutrality and of equal treatment, to treat the basis of assessment of a supply of goods as retrospectively reduced where, after the time of that supply of goods, the recipient of the supply received a credit from the supplier which the recipient then elected either to take as a payment of money, or as a credit against amounts owed to the supplier in respect of supplies of goods to the recipient that had already taken place?’
+Consideration of the question referred
+By its question, the referring tribunal asks, in essence, whether Article 8(a) of the Second Directive must be interpreted as conferring upon a taxable person the right to treat the basis of assessment of a supply of goods as retrospectively reduced where, after the time of that supply of goods, an agent received a credit from the supplier which the agent elected to take either as a payment of money or as a credit against amounts owed to the supplier in respect of supplies of goods that had already taken place.
+In order to answer this question it should be recalled that Article 8(a) of the Second Directive provided that the basis of assessment was to be, ‘in the case of supply of goods and of the provision of services, everything which makes up the consideration for the supply of the goods or the provision of services, including all expenses and taxes except the [VAT] itself’.
+The expression ‘consideration’ used in Article 8(a) of that directive was defined in point of Annex A as covering ‘everything received in return for the supply of goods or the provision of services, including incidental expenses (packing, transport, insurance, etc.) that is to say not only the cash amounts charged, but also, for example, the value of the goods received in exchange’.
+The expression ‘consideration’ is part of a provision of European Union law which does not refer to the law of the Member States for the determining of its meaning and its scope. It follows that the interpretation, in general terms, of the expression may not be left to the discretion of each Member State. Such consideration is a subjective value since the basis of assessment for the provision of services is the consideration actually received and not a value assessed according to objective criteria (Case 154/Coöperatieve Aardappelenbewaarplaats [1981] ECR 445, paragraphs and 13).
+In order to determine whether Article 8(a) of the Second Directive obliged the Member States to permit the consideration to be altered and, therefore, the basis of assessment to be regularised after the chargeable event had taken place, the provisions of that directive concerning the calculation, declaration and payment of VAT should also be examined. Determination of the basis of assessment requires consideration and a chargeable event.
+It is to be noted in this regard that Article 5(5) of the Second Directive provided that ‘[t]he chargeable event shall occur at the moment when delivery is effected’. The term ‘chargeable event’ used in that provision was defined in point of Annex A to the directive as meaning ‘the event giving rise to the tax’.
+No provision of the Second Directive provided for occurrence of the chargeable event to be set at a subsequent time, or its deferral in another manner. Nor did the directive provide for the alteration of a tax debt that has arisen.
+Accordingly, as the Advocate General has observed in point of her Opinion, pursuant in particular to Article 5(5) of the Second Directive a taxable person’s tax debt arose in an amount derived from the basis of assessment, a basis which was to be determined at the time of delivery.
+Therefore, neither Article 8(a) nor any other article of the Second Directive could be interpreted as meaning that regularisation of the basis of assessment, or of the output tax, after delivery – which is when the chargeable event took place – had to be permitted.
+As regards, next, the principle of fiscal neutrality, it is to be noted that this principle, which constitutes a fundamental principle of the common system of VAT, is the reflection in the field of VAT of the principle of equal treatment (see, to this effect, Case C-309/Marks & Spencer [2008] ECR I-2283, paragraph 47). One of the consequences of this principle is that taxable persons must not be treated differently in respect of similar supplies which are in competition with each other (see, to this effect, Joined Cases C-443/and C-444/Solleveld and van den Hout-van Eijnsbergen [2006] ECR I-3617, paragraph and the case-law cited).
+The principle of fiscal neutrality is not a rule of primary law which enables on its own the basis of assessment within the meaning of Article 8(a) of the Second Directive to be determined (see, to this effect, Case C-174/Zimmerman [2012] ECR, paragraph and the case-law cited). Nor can it make up for the fact that the Second Directive does not include any provision comparable to Article 11C(1) of the Sixth Directive.
+Under the same principle in its other sense, the amount of VAT to be collected by the tax authority must correspond exactly to the amount of VAT declared on the invoice and paid by the final consumer to the taxable person (Case C-484/Koninklijke Ahold [2008] ECR I-5097, paragraph and the case-law cited).
+It is clear from the documents submitted to the Court that, in the main proceedings, sub-customers, as the final consumers of the goods, had to pay the catalogue price for the goods which they purchased and did not receive any commission from the company. The commission was in fact required to be paid back to the agent and not to the sub-customer. In those circumstances, and by virtue of the principles recalled in the preceding paragraph, it must be held that the consideration for the supply corresponded to the full unreduced catalogue price and that the basis of assessment was therefore that price.
+The Court should also examine Grattan’s argument that any attempt to distinguish the position before and after January is misconceived because that distinction fails to take into account the continuity of the VAT system.
+In that regard, as the Advocate General has stated in points and of her Opinion, the degree of harmonisation under the Second and Sixth Directives is not comparable. In particular, the principle of the common system of VAT, introduced by First Council Directive 67/227/EEC of April on the harmonisation of legislation of Member States concerning turnover taxes (OJ, English Special Edition 1967, p. 14), did not yet include definitive rules in various respects, and in particular included no determination of a uniform basis of assessment.
+As the Court observed in Case 15/Schul Douane Expediteur [1982] ECR 1409, at paragraph 12, the Sixth Directive harmonised the concepts of chargeable event and chargeability of tax, and also the taxable amount.
+It is in that context that the European Union legislature adopted Article 11C(1) of the Sixth Directive, which requires the Member States to determine the conditions under which the taxable amount will be reduced retrospectively. In principle, that provision requires the Member States to reduce the taxable amount whenever, after a transaction has been concluded, part or all of the consideration has not been received by the taxable person (see Case C-330/Goldsmiths [1997] ECR I-3801, paragraphs to 18, and Case C-86/Freemans [2001] ECR I-4167, paragraph 33).
+As follows from paragraphs to of the present judgment, there was no equivalent provision in the Second Directive. Furthermore, the fact that the Council of the European Union adopted Article 11C(1) of the Sixth Directive in addition to Article 11A thereof bears out the interpretation that Article 11C was not inherent in Article 11A of the Sixth Directive or its predecessor, Article 8(a) of the Second Directive.
+Having regard to all the foregoing considerations, the answer to the question referred is that Article 8(a) of the Second Directive must be interpreted as not conferring upon a taxable person the right to treat the basis of assessment of a supply of goods as retrospectively reduced where, after the time of that supply of goods, an agent received a credit from the supplier which the agent elected to take either as a payment of money or as a credit against amounts owed to the supplier in respect of supplies of goods that had already taken place.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring tribunal, the decision on costs is a matter for that tribunal. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article 8(a) of Second Council Directive 67/228/EEC of April on the harmonisation of legislation of Member States concerning turnover taxes – Structure and procedures for application of the common system of value added tax must be interpreted as not conferring upon a taxable person the right to treat the basis of assessment of a supply of goods as retrospectively reduced where, after the time of that supply of goods, an agent received a credit from the supplier which the agent elected to take either as a payment of money or as a credit against amounts owed to the supplier in respect of supplies of goods that had already taken place.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

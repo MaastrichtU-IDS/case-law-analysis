@@ -1,0 +1,432 @@
+
+Case C-242/Swiss Re Germany Holding GmbH
+v
+Finanzamt München für Körperschaften
+(Reference for a preliminary ruling from the Bundesfinanzhof)
+(Sixth VAT Directive – Articles 9(2)(e), fifth indent, and 13B(a), (c) and (d)(2) and (3) – Insurance and reinsurance transactions – Concept – Transfer of a portfolio of life reinsurance contracts, for consideration, to a person established in a third country – Determination of the place of that transfer – Exemptions)
+Summary of the Judgment
+1.        Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Supply of services – Definition
+(Council Directive 77/388, Art. 6)
+2.        Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Supply of services – Determination
+            of the place of supply for tax purposes – Banking, financial and insurance operations, including those involving reinsurance
+            
+(Council Directive 77/388, Art. 9(2)(e), fifth indent, 13B(a), and 13B(d), paras and 3)
+3.        Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Exemptions provided for in the
+            Sixth Directive
+(Council Directive 77/388, Art. 13B(c))
+1.        A transfer for consideration, by a company established in one Member State, to an insurance company established in a third
+         State, of a portfolio of life reinsurance contracts, with the consequence that the transferee company assumes, with the consent
+         of the insured persons, all the rights and obligations resulting from those contracts, constitutes a supply of services within
+         the meaning of Article of Directive 77/on the harmonisation of the laws of the Member States relating to turnover taxes.
+         Life reinsurance contracts cannot be regarded as tangible property within the meaning of Article 5(1) of the Sixth Directive.
+         Consequently, a transaction which consists of the transfer of such contracts cannot be considered as a supply of goods within
+         the meaning of the latter provision.
+      
+(see paras 25, 28)
+2.        A transfer for consideration, by a company established in one Member State, to an insurance company established in a third
+         State, of a portfolio of life reinsurance contracts, with the consequence that the transferee company assumes, with the consent
+         of the insured persons, all the rights and obligations resulting from those contracts, does not constitute either a transaction
+         falling under Article 9(2)(e), fifth indent, and Article 13B(a) of Sixth Directive 77/on the harmonisation of the laws
+         of the Member States relating to turnover taxes, or a transaction falling under a combination of Article 13B(d)(2) and (3)
+         of that directive.
+      
+Such a transfer for consideration of a portfolio of life reinsurance contracts which consisted of the payment by the acquiring
+         company of a price in return for acquiring those contracts is not, by its nature, a banking transaction. It also lacks the
+         characteristics of an insurance transaction, namely, that the insurer undertakes, in return for prior payment of a premium,
+         to provide the insured, in the event of materialisation of the risk covered, with the service agreed when the contract was
+         concluded, nor is it a reinsurance transaction, by which an insurer concludes a contract in which it undertakes to assume,
+         in return for payment of a premium and within the confines of that contract, the debts resulting, for another insurer, from
+         its undertakings in the insurance contracts which it concluded with its own policyholders.
+      
+In addition, a transfer of a portfolio of life reinsurance contracts does not constitute, by its nature, a financial transaction
+         within the meaning of Article 13B(d) of the Sixth Directive. It involves, furthermore, a single service which cannot be artificially
+         split into two services comprising a dealing within the meaning of Article 13B(d)(2) of the Sixth Directive and a transaction
+         concerning debts within the meaning of Article 13B(d)(3) thereof.
+      
+In the context of such a transfer, the fact that it is not the transferee but the transferor who pays the consideration by
+         the fixing of a negative value, for the acquisition of some of the contracts transferred, does not affect the foregoing.
+      
+(see paras 30, 34, 37-38, 48, 52-53, 59, operative part 1-2)
+3.        Article 13B(c) of Sixth Directive 77/on the harmonisation of the laws of the Member States relating to turnover taxes
+         must be interpreted as meaning that it does not apply to a transfer for consideration of a portfolio of life reinsurance contracts,
+         since such a transfer cannot be regarded as a supply of goods within the meaning of Article 5(1) of the Sixth Directive but
+         must be regarded as a supply of services under Article of the directive. Also, even supposing that such a transaction could
+         be regarded as a supply of goods within the meaning of the Sixth Directive, that transaction cannot benefit from the exemption
+         provided for in Article 13B(c) of that directive, since the exemption of that transaction would be incompatible with the objective
+         of that provision, which is to avoid double taxation contrary to the principle of fiscal neutrality inherent in the common
+         system of value added tax.
+      
+(see paras 61, 63, operative part 3)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+October (*)
+      
+(Sixth VAT Directive – Articles 9(2)(e), fifth indent, and 13B(a), (c) and (d)(2) and (3) – Insurance and reinsurance transactions – Concept – Transfer of a portfolio of life reinsurance contracts, for consideration, to a person established in a third country – Determination of the place of that transfer – Exemptions)
+In Case C‑242/08,
+REFERENCE for a preliminary ruling under Article EC from the Bundesfinanzhof (Germany), made by decision of April 2008,
+         received at the Court on June 2008, in the proceedings
+      
+Swiss Re Germany Holding GmbH
+v
+Finanzamt München für Körperschaften,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Third Chamber, acting as President of the Fourth Chamber, R. Silva de Lapuerta (Rapporteur),
+         E. Juhász, J. Malenovský and T. von Danwitz, Judges,
+      
+Advocate General: P. Mengozzi,
+Registrar: R. Grass,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–        Swiss Re Germany Holding GmbH, by K. von Brocke, Rechtsanwalt, and S. Trapp, Steuerberater,
+–        the Finanzamt München für Körperschaften, by Ms. Schmid, acting as Agent,
+–        the German Government, by M. Lumma and B. Klein, acting as Agents,
+–        the Greek Government, by S. Spyropoulos and by S. Trekli and V. Karra, acting as Agents,
+–        the United Kingdom Government, by L. Seeboruth, acting as Agent,
+–        the Commission of the European Communities, by D. Triantafyllou, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on May 2009,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles 9(2)(e), fifth indent, and 13B(a)(c) and (d)(2)
+         and (3), of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating
+         to turnover taxes – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1; ‘the Sixth Directive’).
+      
+The reference was made in proceedings between Swiss Re Germany Holding GmbH (‘Swiss’) and the Finanzamt München für Körperschaften
+         (Tax Office for Corporate Bodies, Munich) (Germany) concerning the question of imposition of value added tax (‘VAT’) on the
+         transfer of a portfolio of life reinsurance contracts.
+      
+ Legal framework
+ Community legislation
+Article 5(1) and (2) of the Sixth Directive provide:
+      
+‘(1)      “Supply of goods” shall mean the transfer of the right to dispose of tangible property as owner.
+(2)      Electric current, gas, heat, refrigeration and the like shall be considered tangible property.’
+Under Article 6(1) of the Sixth Directive:
+      
+‘(1)      “Supply of services” shall mean any transaction which does not constitute a supply of goods within the meaning of Article
+         5.
+      
+Such transactions may include inter alia:
+–        assignments of intangible property whether or not it is the subject of a document establishing title:
+…’
+Article 9(1) and (2)(e), fifth indent, of the Sixth Directive are worded as follows:
+      
+‘(1)      The place where a service is supplied shall be deemed to be the place where the supplier has established his business or has
+         a fixed establishment from which the service is supplied or, in the absence of such a place of business or fixed establishment,
+         the place where he has his permanent address or usually resides.
+      
+2.      However:
+…
+(e)      the place where the following services are supplied when performed for customers established outside the Community or for
+         taxable persons established in the Community but not in the same country as the supplier, shall be the place where the customer
+         has established his business or has a fixed establishment to which the service is supplied or, in the absence of such a place,
+         the place where he has his permanent address or usually resides: 
+      
+…
+–        banking, financial and insurance transactions, including reinsurance, with the exception of the hire of safes,
+         …’
+Article 13B of the Sixth Directive provides:
+      
+‘Without prejudice to other Community provisions, Member States shall exempt the following under conditions which they shall
+         lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any
+         possible evasion, avoidance or abuse:
+      
+(a)      insurance and reinsurance transactions, including related services performed by insurance brokers and insurance agents;
+…
+(c)      supplies of goods used wholly for an activity exempted under this Article or under Article 28(3)(b) when these goods have
+         not given rise to the right to deduction, or of goods on the acquisition or production of which, by virtue of Article 17(6),
+         value added tax did not become deductible;
+      
+(d)      the following transactions:
+…
+(2)      the negotiation of or any dealings in credit guarantees or any other security for money and the management of credit guarantees
+         by the person who is granting the credit;
+      
+(3)      transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other
+         negotiable instruments, but excluding debt collection and factoring;
+      
+…’.
+ National legislation
+According to the national court, the provisions of national law applicable to the main proceedings are as follows.
+      
+Paragraph 3a of the Law relating to Turnover Tax (Umsatzsteuergesetz 1999, BGBl. I, p. 1270; ‘the UStG’), in the
+         version applicable to the main proceedings, provides:
+      
+‘1.      A supply of services is effected in the place where the trader carries on his business, subject to Paragraphs 3b and 3f …
+3.      Where the customer to whom one of the other services mentioned in subparagraph is supplied is an undertaking, by way of
+         exception to subparagraph the service is deemed to be supplied in the place where the customer carries on his business.
+         ... 
+      
+4.      For the purposes of subparagraph 3, “other services” shall mean:
+…
+6a other services of the kinds mentioned in Paragraph 4(8)(a) to (g) and 4(10) …’
+Under Paragraph 4(8)(c) and (g) of the UStG, transactions concerning debts, cheques and other negotiable instruments and the
+         negotiation of those transactions, but excluding debt collection and factoring, on the one hand, and the assumption of obligations,
+         guarantees and other securities and the negotiation of those transactions, on the other hand, are exempt.
+      
+Under Paragraph 4(10)(a) of the UStG, services effected by reason of an insurance relationship within the meaning of the Law
+         on insurance premium tax (Versicherungsteuergesetz) are also exempt.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+Swiss is the parent company of a limited company (‘the transferor company’) which, as an insurance company, specialises in
+         life reinsurance work.
+      
+By a portfolio sale agreement signed on and January 2002, the transferor company sold to the insurance company S (‘company
+         S’), established in Switzerland, a portfolio consisting of life reinsurance contracts.
+      
+Under that agreement, company S was obliged to obtain the consent of the insured parties in order to accede to those contracts
+         and to assume all the rights and obligations arising from them.
+      
+Under the same contract, a negative value was fixed for the transfer of of those contracts, thus reducing the total
+         cost of acquiring all of them.
+      
+The life reinsurance contracts transferred concerned exclusively undertakings established in Member States other than Germany
+         or in third States.
+      
+Taking the view that VAT was chargeable on the transfer in question, on the basis that it was a supply of goods, the Finanzamt
+         München für Körperschaften issued a VAT prepayment notice and rejected the appeal lodged against that notice.
+      
+Swiss then appealed to the Finanzgericht München (Finance Court, Munich) (Germany).
+      
+That appeal also having been rejected, Swiss appealed on a point of law to the Bundesfinanzhof (Federal Finance Court) (Germany)
+         on the ground that the services based on that transfer were exempt from VAT.
+      
+The referring court takes the view that, under the national legislation, the transaction at issue in the main proceedings
+         constitutes a supply of services carried out in Germany which is taxable in that Member State.
+      
+However, that court has doubts as to whether that interpretation of the national legislation is compatible with the provisions
+         of the Sixth Directive.
+      
+In those circumstances, the Bundesfinanzhof decided to stay the proceedings and to refer the following questions to the Court
+         for a preliminary ruling:
+      
+‘(1)      Must the fifth indent of Article 9(2)(e), Article 13B(a) and Article 13B(d)(2) and (3) of the Sixth Directive … be interpreted
+         as meaning that, where in consideration for payment of the sales price by the purchaser a transfer of a life reinsurance contract
+         is effected, on the basis of which, with the consent of the policyholder, the contract’s purchaser takes over the exempted
+         reinsurance activities of the previous insurer and in place of the previous insurer supplies to the policyholder tax-exempt
+         reinsurance services, such transfer must be regarded:
+      
+(a)      as an insurance or banking transaction within the meaning of the fifth indent of Article 9(2)(e) of the Sixth Directive …;
+(b)      as a reinsurance transaction in accordance with Article 13B(a) of the Sixth Directive … or
+(c)      as a transaction which in substance consists of the tax-exempt assumption of an obligation and an exempt transaction concerning
+         debts in accordance with Article 13B(d)(2) and (3) of the Sixth Council Directive …?
+      
+(2)      Is the answer to Question any different where payment in respect of the transfer is made not by the purchaser but [by] the
+         previous insurer?
+      
+(3)      If alternatives (a), (b) and (c) of Question are all answered in the negative, must Article 13B(c) of the Sixth Directive
+         … be interpreted as meaning that the transfer of life reinsurance contracts in return for consideration constitutes a supply
+         of goods, and in the application of Article 13B(c) of the Sixth Council Directive … no distinction is to be drawn depending
+         on whether the place in which the exempted activities are carried out lies in the Member State in which the goods are supplied
+         or in a different Member State?’
+      
+ The questions referred for a preliminary ruling
+ First question
+By its first question, the referring court asks, essentially, whether a transfer for consideration, by a company established
+         in one Member State, to an insurance company established in a third State, of a portfolio of life reinsurance contracts, with
+         the consequence that the transferee company assumes, with the consent of the insured persons, all the rights and obligations
+         resulting from those contracts, constitutes a transaction falling under Article 9(2)(e), fifth indent, of the Sixth Directive,
+         under Article 13B(a) of that directive or under a combination of Article 13B(d)(2) and (3).
+      
+First, it should be established whether the transaction at issue in the main proceedings constitutes a ‘supply of goods’ within
+         the meaning of Article of the Sixth Directive or ‘a supply of services’ within the meaning of Article of that directive.
+      
+Under Article 5(1), a ‘“supply of goods” means the transfer of the right to dispose of tangible property as owner’.
+      
+In that regard, it suffices to hold that life reinsurance contracts cannot be regarded as tangible property within the meaning
+         of that provision and that, consequently, a transaction such as that at issue in the main proceedings, which consists of the
+         transfer of such contracts, cannot be considered as a supply of goods within the meaning of that provision.
+      
+Under Article 6(1)(1) of the Sixth Directive, a supply of services is any transaction which does not constitute a supply of
+         goods within the meaning of Article of the directive.
+      
+In that context, it must be pointed out that the first indent of the second subparagraph of Article 6(1) provides that that
+         transaction may include inter alia assignments of intangible property whether or not it is the subject of a document establishing
+         title.
+      
+It follows that a transfer for consideration of a portfolio of life reassurance contracts such as that at issue in the main
+         proceedings constitutes a supply of services within the meaning of Article of the Sixth Directive.
+      
+Second, it should be examined whether such a transfer may be regarded as an insurance or banking transaction within the meaning
+         of Article 9(2)(e), fifth indent, of the Sixth Directive, or as an insurance or reinsurance transaction within the meaning
+         of Article 13B(a) of that directive.
+      
+In that regard it suffices, first, to hold that a transfer of a portfolio of reinsurance contracts is not, by its nature,
+         a banking transaction.
+      
+Second, it should be pointed out that the sound functioning and uniform interpretation of the common system of VAT require
+         that the concepts of ‘insurance transactions’ and ‘reinsurance’ in Articles 9(2)(e), fifth indent, and 13B(a) of the Sixth
+         Directive are not defined differently depending on whether they are used in one of those provisions or the other.
+      
+The services referred to in the fifth indent of Article 9(2)(e) of the Sixth Directive are Community concepts which must be
+         interpreted uniformly in order to avoid instances of double taxation or non-taxation which may result from different interpretations
+         (see, to that effect, Case C-68/Commission v France [1993] ECR I‑5881, paragraph 14).
+      
+It is also settled case‑law that the exemptions referred to in Article of the Sixth Directive constitute independent concepts
+         of Community law whose purpose is to avoid divergences in the application of the VAT system as between one Member State and
+         another and which must be placed in the general context of the common system of VAT (see Case C-240/Skandia [2001] ECR I-1951, paragraph 23, and Case C-472/Arthur Andersen [2005] ECR I‑1719, paragraph 25).
+      
+In that context, it must be recalled that, according to the case-law of the Court, the expression ‘insurance transactions’
+         means, as generally understood, that the insurer undertakes, in return for prior payment of a premium, to provide the insured,
+         in the event of materialisation of the risk covered, with the service agreed when the contract was concluded (see Case C-349/CPP [1999] ECR I‑973, paragraph 17; Skandia, paragraph 37; and Case C-8/Taksatorringen [2003] ECR I‑13711, paragraph 39).
+      
+In that regard, the Court explained that, while it is common ground that the expression ‘insurance transactions’ in Article
+         13B(a) of the Sixth Directive covers in any event cases where the transaction in question is carried out by the actual insurer
+         who undertook to cover the risk insured against, such an expression does not cover solely transactions carried out by the
+         insurers themselves but is broad enough in principle to include the provision of insurance cover by a taxable person who is
+         not himself an insurer but, in the context of a block policy, procures such cover for his customers by making use of the supplies
+         of an insurer who assumes the risk insured (see CPP, paragraph 22; Skandia, paragraph 38; and Taksatorringen, paragraph 40).
+      
+However, the Court has also held that, in accordance with the definition of insurance transaction set out in paragraph of the present judgment, it is apparent that the identity of the person supplied with the service is relevant for the purposes
+         of the definition of the type of services covered by Article 13B(a) of the Sixth Directive and that such a transaction necessarily
+         implies the existence of a contractual relationship between the provider of the insurance service and the person whose risks
+         are covered by the insurance, that is to say, the insured party (see Skandia, paragraph 41, and Taksatorringen, paragraph 41).
+      
+In the case in the main proceedings, the transfer for consideration of a portfolio of life reinsurance contracts which took
+         place between the transferor company and company S, and which consisted of the payment by S of a price in return for acquiring
+         those contracts, lacks the characteristics of an insurance transaction as set out in paragraph of the present judgment.
+      
+Nor is that transfer a reinsurance transaction, by which an insurer concludes a contract in which it undertakes to assume,
+         in return for payment of a premium and within the confines of that contract, the debts resulting, for another insurer, from
+         its undertakings in the insurance contracts which it concluded with its own policyholders.
+      
+In contrast to such a reinsurance transaction, that transfer takes the form of the assumption by company S of all the rights
+         and obligations of the transferor company under the reinsurance contracts transferred, the transferor company no longer having
+         any legal relationship with the reinsured persons following that assumption.
+      
+In addition, the transaction at issue in the main proceedings must be distinguished, first, from the contractual reinsurance
+         relationship between the transferor company and the reinsured persons, which precedes it, and second, from the contractual
+         reinsurance relationship between company S and those reinsured persons, resulting from their consent to the abovementioned
+         assumption of rights and obligations, which post-dates it.
+      
+It follows that the abovementioned transaction, which falls between those two contractual reinsurance relationships, cannot
+         be considered as an insurance or reinsurance transaction within the meaning of Article 9(2)(e), fifth indent, or Article 13B(a),
+         of the Sixth Directive.
+      
+Finally, it should be determined whether a transfer for consideration of a portfolio of life reinsurance contracts such as
+         that at issue in the main proceedings can be regarded as a transaction involving, first, ‘a dealing’ within the meaning of
+         Article 13B(d)(2) of the Sixth Directive and, second, as a transaction concerning debts within the meaning of Article 13B(d),
+         point 3.
+      
+In that regard, it should be noted that the terms used to specify the exemptions provided for by Article of the Sixth Directive
+         are to be interpreted strictly, since they constitute exceptions to the general principle that VAT is to be levied on all
+         services supplied for consideration by a taxable person (see Taksatorringen, paragraph 36; Arthur Andersen, paragraph 24; and the order of May in Joined Cases C-231/and C-232/Tiercé Ladbroke and Derby, paragraph 15).
+      
+In that context, it should also be noted that the transactions exempted under Article 13B(d)(2) and (3) of the Sixth Directive
+         are defined in terms of the nature of the services provided and not in terms of the person supplying or receiving the service
+         (see, to that effect, Case C-2/SDC [1997] ECR I-3017, paragraph 32; Case C-169/Abbey National [2006] ECR I-4027, paragraph 66; and Case C-453/Ludwig [2007] ECR I‑5083, paragraph 25).
+      
+Moreover, the Court’s case-law makes clear that, in order to be regarded as exempt transactions for the purposes of Article
+         13B(d) of the Sixth Directive, the services provided must, viewed broadly, form a distinct whole, fulfilling in effect the
+         specific, essential functions of a service described in that provision (see SDC, paragraph 66; Case C-235/CSCFinancial Services [2001] ECR I-10237, paragraph 25; Abbey National, paragraph 70; and Ludwig, paragraph 27).
+      
+In that regard, the Court has also held that, although the transactions referred to in that provision do not necessarily have
+         to be carried out by banks or other financial institutions, they relate, nevertheless, as a whole, to the sphere of financial
+         transactions (see Case C-455/Velvet & Steel Immobilien [2007] ECR I‑3225, paragraph 22, and the order in Tiercé Ladbroke and Derby, paragraph 17).
+      
+Thus, a transaction which is not, by its nature, a financial transaction within the meaning of Article 13B(d) of the Sixth
+         Directive does not come within the scope of that provision (see, to that effect, Velvet & Steel Immobilien, paragraph 23).
+      
+The transaction at issue in the main proceedings, that is to say, a transfer of a portfolio of life reinsurance contracts,
+         does not constitute, by its nature, a financial transaction within the meaning of Article 13B(d) of the Sixth Directive.
+      
+That interpretation is confirmed by the purpose of the exemptions provided for in that provision, which is, inter alia, to
+         avoid an increase in the cost of consumer credit (see Velvet & Steel Immobilien, paragraph 24, and the order in Tiercé Ladbroke and Derby, paragraph 24). Since the carrying out of the transaction at issue in the main proceedings is unrelated to such a purpose,
+         that transaction cannot benefit from such exemptions.
+      
+It follows that that transaction does not fall within the scope of that provision.
+      
+Furthermore, with regard to the exemption of the abovementioned transaction on the basis that it could be considered as a
+         combination of dealing within the meaning of Article 13B(d)(2) of the Sixth Directive and a transaction concerning debts within
+         the meaning of Article 13B(d)(3), it should be noted that, according to the case-law of the Court, every supply of a service
+         must normally be regarded as distinct and independent and that a supply which comprises a single service from an economic
+         point of view should not be artificially split, so as not to distort the functioning of the VAT system (see CPP, paragraph 29, and Ludwig, paragraph 17).
+      
+Thus, it must be held that the transaction at issue in the main proceedings, which consists of the transfer for consideration
+         of a portfolio of life reinsurance contracts, constitutes a single service and cannot be artificially split into two services
+         comprising a dealing within the meaning of Article 13B(d)(2) of the Sixth Directive and a transaction concerning debts within
+         the meaning of Article 13B(d)(3) thereof. 
+      
+Taking all of the foregoing considerations into account, the answer to the first question referred is that a transfer for
+         consideration, by a company established in one Member State, to an insurance company established in a third State of a portfolio
+         of life reinsurance contracts, with the consequence that the transferee company assumes, with the consent of the insured persons,
+         all the rights and obligations resulting from those contracts, does not constitute either a transaction falling under Article
+         9(2)(e), fifth indent, and Article 13B(a) of the Sixth Directive, or a transaction falling under a combination of Article
+         13B(d)(2) and (3) thereof.
+      
+ Second question
+By its second question, the referring court asks, essentially, whether, in the context of a transfer for consideration of
+         a portfolio of life reinsurance contracts such as that at issue in the main proceedings, the fact that it is not the transferee
+         but the transferor who pays the consideration for the acquisition of of those contracts affects the answer to the first
+         question.
+      
+That question results from the fact that, in the case in the main proceedings, a negative value was fixed for the acquisition
+         by company S of of the life reinsurance contracts transferred to that company by the transferor company.
+      
+In that regard, it suffices to hold that, as the referring court itself points out, the transaction at issue in the main proceedings
+         constitutes one overall service which gave rise to an overall price for the acquisition of all life reinsurance contracts
+         at issue. 
+      
+Consequently, a distinction should not be made between the transfer of of those contracts and that of the remaining contracts
+         making up the total number.
+      
+In addition, just like the transfer of the life reinsurance contracts at issue in the main proceedings considered as a
+         whole, the transfer of of those contracts cannot, for the reasons explained in paragraphs to of the present judgment,
+         be regarded either as a transaction falling within Article 9(2)(e), fifth indent, or Article 13B(a), of the Sixth Directive,
+         or as a transaction falling under a combination of Article 13B(d)(2) and (3).
+      
+Therefore, the answer to the second question referred is that, in the context of a transfer for consideration of a portfolio
+         of life reinsurance contracts, the fact that it is not the transferee but the transferor who pays the consideration, in
+         the present case the fixing of a negative value, for the acquisition of of those contracts does not affect the answer to
+         the first question.
+      
+ Third question
+By its third question, the referring court asks, essentially, whether Article 13B(c) of the Sixth Directive must be interpreted
+         as meaning that it applies to a transfer for consideration of a portfolio of life reinsurance contracts such as that at issue
+         in the main proceedings and whether, if it does apply, a distinction must be made depending on whether the place in which
+         the exempted activities are effected lies in the Member State in which the goods are supplied or in a different Member State?
+      
+In that regard, it suffices to recall that a transfer for consideration of a portfolio of life reinsurance contracts such
+         as that at issue in the main proceedings cannot be regarded as a supply of goods within the meaning of Article 5(1) of the
+         Sixth Directive, but constitutes a supply of services under Article of the directive.
+      
+Moreover, with regard to the position regarding the transfer of the client base adopted by the Council and the Commission
+         when the Sixth Directive was approved, to which the Bundesfinanzhof refers in its order for reference, it should be recalled
+         that declarations formulated in the course of preparatory work leading to the adoption of a directive cannot be used for the
+         purpose of interpreting that directive where no reference is made to the content of the declarations in the wording of the
+         provision in question, and that they therefore have no legal significance (see Case C-375/Epson Europe [2000] ECR I‑4243, paragraph 26).
+      
+Also, even supposing that the transaction at issue in the main proceedings could be regarded as a supply of goods within the
+         meaning of the Sixth Directive, that transaction cannot benefit from the exemption provided for in Article 13B(c) of that
+         directive, since the exemption of that transaction would be incompatible with the objective of that provision, which is to
+         avoid double taxation contrary to the principle of fiscal neutrality inherent in the common system of value added tax (Case
+         C-45/Commission v Italy [1997] ECR I‑3605, paragraph 15, and the order in Joined Cases C-18/and C-155/Salus and Villa Maria Beatrice Hospital [2006] ECR I‑6199, paragraph 29).
+      
+Consequently, Article 13B(c) of the Sixth Directive is not applicable to such a transaction.
+      
+In those circumstances, the answer to the third question referred is that Article 13B(c) of the Sixth Directive must be interpreted
+         as meaning that it does not apply to a transfer for consideration of a portfolio of life reinsurance contracts such as that
+         at issue in the main proceedings.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+1.      A transfer for consideration, by a company established in one Member State, to an insurance company established in a third
+            State, of a portfolio of life reinsurance contracts, with the consequence that the transferee company assumes, with the consent
+            of the insured persons, all the rights and obligations resulting from those contracts, does not constitute either a transaction
+            falling under Article 9(2)(e), fifth indent, and Article 13B(a) of Sixth Council Directive 77/388/EEC of May on the
+            harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis
+            of assessment, or a transaction falling under a combination of Article 13B(d)(2) and (3) thereof. 
+2.      In the context of a transfer for consideration of a portfolio of life reinsurance contracts, the fact that it is not the
+            transferee but the transferor who pays the consideration, in the present case the fixing of a negative value, for the acquisition
+            of of those contracts, does not affect the answer to the first question.
+3.      Article 13B(c) of Sixth Directive 77/388/EC must be interpreted as meaning that it does not apply to a transfer for consideration
+            of a portfolio of life reinsurance contracts such as that at issue in the main proceedings.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

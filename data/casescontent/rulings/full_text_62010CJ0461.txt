@@ -1,0 +1,262 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+April (
+*)
+‛Copyright and related rights — Processing of data by internet — Infringement of an exclusive right — Audio books made available via an FTP server via internet by an IP address supplied by an internet service provider — Injunction issued against the internet service provider ordering it to provide the name and address of the user of the IP address’
+In Case C-461/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Högsta domstolen (Sweden), made by decision of August 2010, received at the Court on September 2010, in the proceedings
+Bonnier Audio AB,
+Earbooks AB,
+Norstedts Förlagsgrupp AB,
+Piratförlaget AB,
+Storyside AB
+v
+Perfect Communication Sweden AB,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, J. Malenovský, (Rapporteur), R. Silva de Lapuerta, E. Juhász and D. Šváby, Judges,
+Advocate General: N. Jääskinen,
+Registrar: K. Sztranc-Sławiczek, Administrator,
+having regard to the written procedure and further to the hearing on June 2011,
+after considering the observations submitted on behalf of:
+—
+Bonnier Audio AB, Earbooks AB, Norstedts Förlagsgrupp AB, Piratförlaget AB and Storyside AB, by P. Danowsky and O. Roos, advokater,
+—
+Perfect Communication Sweden AB, by P. Helle and M. Moström, advokater,
+—
+the Swedish Government, by A. Falk and C. Meyer-Seitz, acting as Agents,
+—
+the Czech Government, by M. Smolek and K. Havlíčková, acting as Agents,
+—
+the Italian Government, by G. Palmieri and C. Colelli, acting as Agents, and by S. Fiorentino, avvocato dello Stato,
+—
+the Latvian Government, by M. Borkoveca and K. Krasovska, acting as Agents,
+—
+the European Commission, by R. Troosters and K. Simonsson, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2011,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles to and of Directive 2006/24/EC of the European Parliament and of the Council of March on the retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communications networks and amending Directive 2002/58/EC (OJ L 105, p. 54), and of Article of Directive 2004/48/EC of the European Parliament and of the Council of April on the enforcement of intellectual property rights (OJ L 157, p. 45, and corrigendum OJ L 195, p. 16).
+The reference has been made in proceedings between (i) Bonnier Audio AB, Earbooks AB, Norstedts Förlagsgrupp AB, Piratförlaget AB and Storyside AB (‘the applicants in the main proceedings’) and (ii) Perfect Communications Sweden AB (‘ePhone’) concerning the latter’s opposition to an injunction obtained by the applicants in the main proceedings ordering the disclosure of data.
+Legal context
+European Union law
+Provisions concerning the protection of intellectual property
+Article of Directive 2004/reads as follows:
+‘1.   Member States shall ensure that, in the context of proceedings concerning an infringement of an intellectual property right and in response to a justified and proportionate request of the claimant, the competent judicial authorities may order that information on the origin and distribution networks of the goods or services which infringe an intellectual property right be provided by the infringer and/or any other person who:
+(a)
+was found in possession of the infringing goods on a commercial scale;
+(b)
+was found to be using the infringing services on a commercial scale;
+(c)
+was found to be providing on a commercial scale services used in infringing activities;
+or
+(d)
+was indicated by the person referred to in point (a), (b) or (c) as being involved in the production, manufacture or distribution of the goods or the provision of the services.
+2.   The information referred to in paragraph shall, as appropriate, comprise:
+(a)
+the names and addresses of the producers, manufacturers, distributors, suppliers and other previous holders of the goods or services, as well as the intended wholesalers and retailers;
+(b)
+information on the quantities produced, manufactured, delivered, received or ordered, as well as the price obtained for the goods or services in question.
+3.   Paragraphs and shall apply without prejudice to other statutory provisions which:
+(a)
+grant the rightholder rights to receive fuller information;
+(b)
+govern the use in civil or criminal proceedings of the information communicated pursuant to this article;
+(c)
+govern responsibility for misuse of the right of information; or
+(d)
+afford an opportunity for refusing to provide information which would force the person referred to in paragraph to admit to his/her own participation or that of his/her close relatives in an infringement of an intellectual property right;
+or
+(e)
+govern the protection of confidentiality of information sources or the processing of personal data.’
+Provisions concerning the protection of personal data
+– Directive 95/46/EC
+Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31) lays down rules relating to the processing of personal data in order to protect the rights of individuals in that respect, while ensuring the free movement of those data in the European Union.
+Article 2(a) and (b) of Directive 95/states:
+‘For the purposes of this Directive:
+(a)
+“personal data” shall mean any information relating to an identified or identifiable natural person (“data subject”); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
+(b)
+“processing of personal data” (“processing”) shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.’
+Article of that directive, entitled ‘Exemptions and restrictions’, provides in paragraph 1:
+‘Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles 6(1), 10, 11(1), and when such a restriction constitutes a necessary measures to safeguard:
+(a)
+national security;
+(b)
+defence;
+(c)
+public security;
+(d)
+the prevention, investigation, detection and prosecution of criminal offences, or of breaches of ethics for regulated professions;
+(e)
+an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and taxation matters;
+(f)
+a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (c), (d) and (e);
+(g)
+the protection of the data subject or of the rights and freedoms of others.’
+– Directive 2002/58/EC
+Under Article of Directive 2002/58/EC of the European Parliament and of the Council of July concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, p. 37):
+‘Save as otherwise provided, the definitions in Directive 95/46/EC and in Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework Directive) [(OJ L 108, p. 33)] shall apply.
+The following definitions shall also apply:
+…
+(b)
+“traffic data” means any data processed for the purpose of the conveyance of a communication on an electronic communications network or for the billing thereof;
+…
+(d)
+“communication” means any information exchanged or conveyed between a finite number of parties by means of a publicly available electronic communications service. This does not include any information conveyed as part of a broadcasting service to the public over an electronic communications network except to the extent that the information can be related to the identifiable subscriber or user receiving the information;
+…’
+Article 5(1) of Directive 2002/provides:
+‘Member States shall ensure the confidentiality of communications and the related traffic data by means of a public communications network and publicly available electronic communications services, through national legislation. In particular, they shall prohibit listening, tapping, storage or other kinds of interception or surveillance of communications and the related traffic data by persons other than users, without the consent of the users concerned, except when legally authorised to do so in accordance with Article 15(1). This paragraph shall not prevent technical storage which is necessary for the conveyance of a communication without prejudice to the principle of confidentiality.’
+Article of Directive 2002/provides:
+‘1.   Traffic data relating to subscribers and users processed and stored by the provider of a public communications network or publicly available electronic communications service must be erased or made anonymous when it is no longer needed for the purpose of the transmission of a communication without prejudice to paragraphs 2, and of this article and Article 15(1).
+2.   Traffic data necessary for the purposes of subscriber billing and interconnection payments may be processed. Such processing is permissible only up to the end of the period during which the bill may lawfully be challenged or payment pursued.
+3.   For the purpose of marketing electronic communications services or for the provision of value added services, the provider of a publicly available electronic communications service may process the data referred to in paragraph to the extent and for the duration necessary for such services or marketing, if the subscriber or user to whom the data relate has given his/her consent. Users or subscribers shall be given the possibility to withdraw their consent for the processing of traffic data at any time.
+…
+5.   Processing of traffic data, in accordance with paragraphs 1, 2, and 4, must be restricted to persons acting under the authority of providers of the public communications networks and publicly available electronic communications services handling billing or traffic management, customer enquiries, fraud detection, marketing electronic communications services or providing a value added service, and must be restricted to what is necessary for the purposes of such activities.
+6.   Paragraphs 1, 2, and shall apply without prejudice to the possibility for competent bodies to be informed of traffic data in conformity with applicable legislation with a view to settling disputes, in particular interconnection or billing disputes.’
+Under Article 15(1) of that directive:
+‘Member States may adopt legislative measures to restrict the scope of the rights and obligations provided for in Article 5, Article 6, Article 8(1), (2), (3) and (4), and Article of this Directive when such restriction constitutes a necessary, appropriate and proportionate measure within a democratic society to safeguard national security (i.e. State security), defence, public security, and the prevention, investigation, detection and prosecution of criminal offences or of unauthorised use of the electronic communication system, as referred to in Article 13(1) of Directive 95/46/EC. To this end, Member States may, inter alia, adopt legislative measures providing for the retention of data for a limited period justified on the grounds laid down in this paragraph. All the measures referred to in this paragraph shall be in accordance with the general principles of Community law, including those referred to in Article 6(1) and (2) of the Treaty on European Union.’
+– Directive 2006/In accordance with recital in the preamble to Directive 2006/24:
+‘Article 15(1) of Directive 2002/58/EC continues to apply to data, including data relating to unsuccessful call attempts, the retention of which is not specifically required under this Directive and which therefore fall outside the scope thereof, and to retention for purposes, including judicial purposes, other than those covered by this Directive.’
+Article 1(1) of Directive 2006/states:
+‘This Directive aims to harmonise Member States’ provisions concerning the obligations of the providers of publicly available electronic communications services or of public communications networks with respect to the retention of certain data which are generated or processed by them, in order to ensure that the data are available for the purpose of the investigation, detection and prosecution of serious crime, as defined by each Member State in its national law.’
+Article 3(1) of that directive provides:
+‘By way of derogation from Articles 5, and of Directive 2002/58/EC, Member States shall adopt measures to ensure that the data specified in Article of this Directive are retained in accordance with the provisions thereof, to the extent that those data are generated or processed by providers of publicly available electronic communications services or of a public communications network within their jurisdiction in the process of supplying the communications services concerned.’
+Article of that directive states:
+‘Member States shall adopt measures to ensure that data retained in accordance with this Directive are provided only to the competent national authorities in specific cases and in accordance with national law. The procedures to be followed and the conditions to be fulfilled in order to gain access to retained data in accordance with necessity and proportionality requirements shall be defined by each Member State in its national law, subject to the relevant provisions of European Union law or public international law, and in particular the [European Convention on Human Rights and Fundamental Freedoms, signed in Rome on November 1950,] as interpreted by the European Court of Human Rights.’
+Article of Directive 2006/states:
+‘1.   Member States shall ensure that the following categories of data are retained under this Directive:
+(a)
+data necessary to trace and identify the source of a communication:
+(1)
+concerning fixed network telephony and mobile telephony:
+(i)
+the calling telephone number;
+(ii)
+the name and address of the subscriber or registered user;
+(2)
+concerning Internet access, Internet e-mail and Internet telephony:
+(i)
+the user ID(s) allocated;
+(ii)
+the user ID and telephone number allocated to any communication entering the public telephone network;
+(iii)
+the name and address of the subscriber or registered user to whom an Internet Protocol (IP) address, user ID or telephone number was allocated at the time of the communication;
+(b)
+data necessary to identify the destination of a communication:
+…
+(c)
+data necessary to identify the date, time and duration of a communication:
+…
+(d)
+data necessary to identify the type of communication:
+…
+(e)
+data necessary to identify users’ communication equipment or what purports to be their equipment:
+…
+(f)
+data necessary to identify the location of mobile communication equipment:
+…
+2.   No data revealing the content of the communication may be retained pursuant to this Directive.’
+Article of that directive, concerning the periods of retention, provides:
+‘Member States shall ensure that the categories of data specified in Article are retained for periods of not less than six months and not more than two years from the date of the communication.’
+Article of that directive reads as follows:
+‘The following paragraph shall be inserted in Article of Directive 2002/58/EC:
+“1a.   Paragraph shall not apply to data specifically required by [Directive 2006/24] to be retained for the purposes referred to in Article 1(1) of that Directive.”’
+National law
+Copyright
+The provisions of Directive 2004/were transposed into Swedish law by the insertion of new provisions into Law 1960:on copyright in literary and artistic works (lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk) by Law (2009:109) amending Law 1960:(lagen (2009:109) om ändring i lagen (1960:729)) of February (‘the Law on copyright’). Those new provisions entered into force on April 2009.
+Paragraph 53c of the Law on copyright provides:
+‘If the applicant shows clear evidence that someone has committed an infringement referred to in Paragraph 53, the court may order one or more of the persons referred to in the second paragraph below, on penalty of a fine, to provide the applicant with information on the origin and distribution network of the goods or services affected by the infringement (order for disclosure of information). Such an order may be made at the request of an author or a successor in title of an author or a person who, on the basis of a licence, is entitled to exploit the work. It may be made only if the information can be regarded as facilitating the investigation into an infringement concerning the goods or services.
+The obligation to disclose information applies to any person who
+(1)
+has carried out or contributed to the infringement,
+(2)
+has, on a commercial scale, exploited the goods affected by the infringement,
+(3)
+has, on a commercial scale, exploited a service affected by the infringement,
+(4)
+has, on a commercial scale, provided an electronic communications service or another service used in the infringement, or
+(5)
+has been identified by a person referred to in points (2) to (4) as participating in the production or distribution of goods or the supply of services affected by the infringement.
+Information on the origin or distribution network of goods or services may include, inter alia
+(1)
+the name and address of producers, distributors, suppliers and others who have held the goods or supplied the services,
+(2)
+the names and addresses of intended wholesalers and retailers, and
+(3)
+information concerning the quantities produced, supplied, received or ordered and the price fixed for the goods or services.
+The provisions in the first to third subparagraphs above also apply to attempts or preparations made to commit infringements referred to in Paragraph 53.’
+Paragraph 53d of that Law provides:
+‘An order for disclosure of information may be made only if the reasons for the measure outweigh the nuisance or other harm which the measure entails for the person affected by it or for some other conflicting interest.
+The obligation to disclose information under Paragraph 53c does not cover information disclosure of which would reveal that the person disclosing that information or persons close to him within the meaning of Chapter 36, Paragraph 3, of the Code of Judicial Procedure (rättegångsbalken) has committed a criminal act.
+There are provisions in the Law (1998:204) on personal data (personuppgiftslagen (1998:204)) which restrict the manner in which personal data received may be handled.’
+Protection of personal data
+Directive 2002/was transposed into Swedish law in particular by Law (2003:389) on electronic communications (lagen (2003:389) om elektronisk kommunikation).
+Under the first sentence of Paragraph of that Law, a person who, in connection with the provision of an electronic communications network or an electronic communications service, has acquired or been given access to, inter alia, data on subscriptions may not without authorisation disseminate or exploit the data which he has acquired or to which he has been given access.
+The national court notes in that regard that the obligation of confidentiality to which internet service providers in particular are subject has been conceived to prohibit only unauthorised disclosure or use of certain data. However, that obligation of confidentiality is relative, since other provisions require that information to be disclosed, which means that such disclosure is not unauthorised. According to the Högsta domstolen, the right to information provided for in Paragraph 53c of the Law on copyright, which also applies to internet service providers, was deemed not to require the implementation of specific legislative changes in order to enable the new provisions relating to disclosure of personal data to take precedence over the obligation of confidentiality. The obligation of confidentiality is therefore overridden by the court’s decision on an order for disclosure of information.
+Directive 2006/has not been transposed into Swedish law within the time-limit prescribed.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+The applicants in the main proceedings are publishing companies which hold, inter alia, exclusive rights to the reproduction, publishing and distribution to the public of works in the form of audio books.
+They claim that their exclusive rights have been infringed by the public distribution of these works, without their consent, by means of an FTP (‘file transfer protocol’) server which allows file sharing and data transfer between computers connected to the internet.
+The internet service provider through which the alleged illegal file exchange took place is ePhone.
+The applicants in the main proceedings applied to Solna tingsrätten (Solna District Court) for an order for the disclosure of data for the purpose of communicating the name and address of the person using the IP address from which it is assumed that the files in question were sent during the period between 03:and 05:on April 2009.
+The service provider, ePhone, challenged this application, arguing in particular that the injunction sought is contrary to Directive 2006/24.
+At first instance, Solna tingsrätten granted the application for an order for the disclosure of the data in question.
+ePhone brought an appeal before Svea hovrätten (Stockholm Court of Appeal), seeking dismissal of the application for the order for the disclosure. It also requested a referral to the Court of Justice seeking clarification of whether Directive 2006/precludes the disclosure to persons other than the authorities referred to in the directive of information relating to a subscriber to whom an IP address has been allocated.
+Svea hovrätten held that there is no provision in Directive 2006/which precludes a party to a civil dispute from being ordered to disclose subscriber data to someone other than a public authority. It also dismissed the application for a referral to the Court of Justice.
+Svea hovrätten also found that the audio book publishers had not adduced clear evidence that there was an infringement of an intellectual property right. It therefore decided to set aside the order for disclosure of data granted by Solna tingsrätten. The applicants in the main proceedings then appealed to the Högsta domstolen.
+The Högsta domstolen is of the opinion that, notwithstanding the judgment in Case C-275/Promusicae [2008] ECR I-and the order in Case C-557/LSG-Gesellschaft zur Wahrnehmung von Leistungsschutzrechten [2009] ECR I-1227, doubts remain as to whether European Union law precludes the application of Article 53c of the Swedish Law on copyright, in so far as neither that judgment nor that order makes reference to Directive 2006/24.
+In those circumstances, the Högsta domstolen decided to stay the proceedings and refer to the following questions to the Court for a preliminary ruling:
+‘1.
+Does [Directive 2006/24], and in particular Articles [to] and thereof, preclude the application of a national provision which is based on Article of [Directive 2004/48] and which permits an internet service provider in civil proceedings, in order to identify a particular subscriber, to be ordered to give a copyright holder or its representative information on the subscriber to whom the internet service provider provided a specific IP address, which address, it is claimed, was used in the infringement? The question is based on the assumption that the applicant has adduced clear evidence of the infringement of a particular copyright and that the measure is proportionate.
+2.
+Is the answer to Question affected by the fact that the Member State has not implemented [Directive 2006/24] despite the fact that the period prescribed for implementation has expired?’
+Consideration of the questions referred
+By its two questions, which it is appropriate to consider together, the national court asks, in essence, whether Directive 2006/is to be interpreted as precluding the application of a national provision based on Article of [Directive 2004/48] which, in order to identify a particular subscriber, permits an internet service provider in civil proceedings to be ordered to give a copyright holder or its representative information on the subscriber to whom the internet service provider provided an IP address which was allegedly used in the infringement, and whether the fact that the Member State concerned has not yet transposed Directive 2006/24, despite the period for doing so having expired, affects the answer to that question.
+As a preliminary point, it must be noted, firstly, that the Court is starting from the premiss that the data at issue in the main proceedings have been retained in accordance with national legislation, in compliance with the conditions laid down in Article 15(1) of Directive 2002/58, a matter which it is for the national court to ascertain.
+Secondly, Directive 2006/24, according to Article 1(1) thereof, aims to harmonise Member States’ provisions concerning the obligations of the providers of publicly available electronic communications services or of public communications networks with respect to the retention of certain data which are generated or processed by them, in order to ensure that the data are available for the purpose of the investigation, detection and prosecution of serious crime, as defined by each Member State in its national law.
+Furthermore, as follows from Article of Directive 2006/24, the data retained in accordance with that directive are to be provided only to the competent national authorities in specific cases and in accordance with the national law concerned.
+Thus, Directive 2006/deals exclusively with the handling and retention of data generated or processed by the providers of publicly available electronic communications services or public communications networks for the purpose of the investigation, detection and prosecution of serious crime and their communication to the competent national authorities.
+The material scope of Directive 2006/thus stated is confirmed by Article thereof which states that, if such data were retained specifically for the purposes of Article 1(1) of the directive, Article 15(1) of Directive 2002/does not apply to those data.
+However, as is apparent from recital in the preamble to Directive 2006/24, Article 15(1) of Directive 2002/58/EC continues to apply to data retained for purposes, including judicial purposes, other than those referred to expressly in Article 1(1) of Directive 2006/24.
+Thus, it follows from a combined reading of Article and recital of Directive 2006/that that directive constitutes a special and restricted set of rules, derogating from and replacing Directive 2002/general in scope and, in particular, Article 15(1) thereof.
+With regard to the main proceedings, it must be noted that the legislation at issue pursues an objective different from that pursued by Directive 2006/24. It concerns the communication of data, in civil proceedings, in order to obtain a declaration that there has been an infringement of intellectual property rights.
+That legislation does not, therefore, fall within the material scope of Directive 2006/24.
+Accordingly, it is irrelevant to the main proceedings that the Member State concerned has not yet transposed Directive 2006/24, despite the period for doing so having expired.
+None the less, in order to provide a satisfactory answer to the national court which has referred a question to it, the Court of Justice may also deem it necessary to consider provisions of European Union law to which the national court has not referred in its question (see, inter alia, Case C-107/Teckal [1999] ECR I-8121, paragraph 39, and Case C-2/Abraham and Others [2008] ECR I-1197, paragraph 24).
+It must be noted that the facts in the main proceedings lend themselves to such rules of European Union law being taken into consideration.
+The reference made by the national court, in its first question, to compliance with the requirement for clear evidence of an infringement of a copyright and to the proportionate nature of the injunction which would be issued under the transposing law at issue in the main proceedings and, as follows from paragraph of the present judgment, to the judgment in Promusicae, suggests that the national court is also doubtful as to whether the provisions in question of that transposing law are likely to ensure a fair balance between the various applicable fundamental rights, as required by that judgment, which interpreted and applied various provisions of Directives 2002/and 2004/48.
+Thus, the answer to such an implied question may be relevant to the resolution of the case in the main proceedings.
+In order to give a useful answer, firstly, it is necessary to bear in mind that the applicants in the main proceedings seek the communication of the name and address of an internet subscriber or user using the IP address from which it is presumed that an unlawful exchange of files containing protected works took place, in order to identify that person.
+It must be held that the communication sought by the applicants in the main proceedings constitutes the processing of personal data within the meaning of the first paragraph of Article of Directive 2002/58, read in conjunction with Article 2(b) of Directive 95/46. That communication therefore falls within the scope of Directive 2002/(see, to that effect, Promusicae, paragraph 45).
+It must also be noted that, in the main proceedings, the communication of those data is required in civil proceedings for the benefit of a copyright holder or his successor in title, that is to say, a private person, and not for the benefit of a competent national authority.
+In that regard, it must be stated at the outset that an application for communication of personal data in order to ensure effective protection of copyright falls, by its very object, within the scope of Directive 2004/(see, to that effect, Promusicae, paragraph 58).
+The Court has already held that Article 8(3) of Directive 2004/48, read in conjunction with Article 15(1) of Directive 2002/58, does not preclude Member States from imposing an obligation to disclose to private persons personal data in order to enable them to bring civil proceedings for copyright infringements, but nor does it require those Member States to lay down such an obligation (see Promusicae, paragraphs and 55, and order in LSG-Gesellschaft zur Wahrnehmung von Leistungsschutzrechten, paragraph 29).
+However, the Court pointed out that, when transposing, inter alia, Directives 2002/and 2004/into national law, it is for the Member States to ensure that they rely on an interpretation of those directives which allows a fair balance to be struck between the various fundamental rights protected by the European Union legal order. Furthermore, when implementing the measures transposing those directives, the authorities and courts of Member States must not only interpret their national law in a manner consistent with them, but must also make sure that they do not rely on an interpretation of them which would conflict with those fundamental rights or with the other general principles of European Union law, such as the principle of proportionality (see, to that effect, Promusicae, paragraph 68, and order in LSG-Gesellschaft zur Wahrnehmung von Leistungsschutzrechten, paragraph 28).
+In the present case, the Member State concerned has decided to make use of the possibility available to it, as described in paragraph of this judgment, to lay down an obligation to communicate personal data to private persons in civil proceedings.
+It must be noted that the national legislation in question requires, inter alia, that, for an order for disclosure of the data in question to be made, there be clear evidence of an infringement of an intellectual property right, that the information can be regarded as facilitating the investigation into an infringement of copyright or impairment of such a right and that the reasons for the measure outweigh the nuisance or other harm which the measure may entail for the person affected by it or for some other conflicting interest.
+Thus, that legislation enables the national court seised of an application for an order for disclosure of personal data, made by a person who is entitled to act, to weigh the conflicting interests involved, on the basis of the facts of each case and taking due account of the requirements of the principle of proportionality.
+In those circumstances, such legislation must be regarded as likely, in principle, to ensure a fair balance between the protection of intellectual property rights enjoyed by copyright holders and the protection of personal data enjoyed by internet subscribers or users.
+Having regard to the foregoing, the answer to the questions referred is that:
+—
+Directive 2006/must be interpreted as not precluding the application of national legislation based on Article of Directive 2004/which, in order to identify an internet subscriber or user, permits an internet service provider in civil proceedings to be ordered to give a copyright holder or its representative information on the subscriber to whom the internet service provider provided an IP address which was allegedly used in an infringement, since that legislation does not fall within the material scope of Directive 2006/24;
+—
+it is irrelevant to the main proceedings that the Member State concerned has not yet transposed Directive 2006/24, despite the period for doing so having expired;
+—
+Directives 2002/and 2004/must be interpreted as not precluding national legislation such as that at issue in the main proceedings insofar as that legislation enables the national court seised of an application for an order for disclosure of personal data, made by a person who is entitled to act, to weigh the conflicting interests involved, on the basis of the facts of each case and taking due account of the requirements of the principle of proportionality.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Directive 2006/24/EC of the European Parliament and of the Council of March on the retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communications networks and amending Directive 2002/58/EC must be interpreted as not precluding the application of national legislation based on Article of Directive 2004/48/EC of the European Parliament and of the Council of April on the enforcement of intellectual property rights which, in order to identify an internet subscriber or user, permits an internet service provider in civil proceedings to be ordered to give a copyright holder or its representative information on the subscriber to whom the internet service provider provided an IP address which was allegedly used in an infringement, since that legislation does not fall within the material scope of Directive 2006/24.
+ 
+It is irrelevant to the main proceedings that the Member State concerned has not yet transposed Directive 2006/24, despite the period for doing so having expired.
+ 
+Directives 2002/58/EC of the European Parliament and of the Council of July concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) and 2004/must be interpreted as not precluding national legislation such as that at issue in the main proceedings insofar as that legislation enables the national court seised of an application for an order for disclosure of personal data, made by a person who is entitled to act, to weigh the conflicting interests involved, on the basis of the facts of each case and taking due account of the requirements of the principle of proportionality.
+ 
+[Signatures]
+(
+*)   Language of the case: Swedish.
+Top  
+ 

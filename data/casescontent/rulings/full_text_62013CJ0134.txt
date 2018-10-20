@@ -1,0 +1,166 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+February (
+*)
+‛Reference for a preliminary ruling — Common Customs Tariff — Tariff classification — Combined Nomenclature — Infrared thermal imagers’
+In Case C‑134/13,
+REQUEST for a preliminary ruling under Article TFEU from the First-tier Tribunal (Tax Chamber) (United Kingdom), made by decision of March 2013, received at the Court on March 2013, in the proceedings
+Raytek GmbH,
+Fluke Europe BV
+v
+Commissioners for Her Majesty’s Revenue and Customs,
+THE COURT (Fifth Chamber),
+composed of T. von Danwitz, President of the Chamber, C. Vajda, A. Rosas, E. Juhász and D. Šváby (Rapporteur), Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: L. Carrasco Marco, Administrator,
+having regard to the written procedure and further to the hearing on November 2014,
+after considering the observations submitted on behalf of:
+—
+Raytek GmbH and Fluke Europe BV, by I. Humby, consultant, and V. Sloane, Barrister,
+—
+the United Kingdom Government, by J. Beeko, acting as Agent, assisted by R. Hill, Barrister,
+—
+the European Commission, by B.-R. Killmann and L. Flynn, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the validity of Commission Regulation (EU) No 314/of March concerning the classification of certain goods in the Combined Nomenclature (OJ L 86, p. 57).
+This request has been made in the context of appeals by Raytek GmbH and Fluke Europe BV (‘Raytek’ and ‘Fluke’ respectively) against decisions of the Commissioners for Her Majesty’s Revenue and Customs (‘the Commissioners’) concerning the tariff classification of infrared thermal imagers.
+Legal context
+International law
+The International Convention on the Harmonised Commodity Description and Coding System (‘the HS’), concluded in Brussels on June 1983, and the Protocol of Amendment thereto of June (‘the HS convention’) were approved on behalf of the Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1).
+Under Article 3(1) of the HS Convention, each Contracting Party undertakes to ensure that its customs tariff and statistical nomenclatures will be in conformity with the HS, to use all the headings and subheadings of the HS without addition or modification, together with their related codes, and to follow the numerical sequence of that system. The same provision provides that each Contracting Party also undertakes to apply the general rules for the interpretation of the HS (‘the general rules of the HS’) and all the section, chapter and subheading notes of the HS, and not to modify the scope of the sections, chapters, headings and subheadings.
+The Customs Cooperation Council, now the World Customs Organisation (‘WCO’), established by the Convention concluded at Brussels on December providing for the establishment of that Council, is to approve, under the conditions laid down in Article of the HS Convention, the Explanatory Notes adopted by the HS Committee, a body whose organisation is governed by Article of the HS convention (‘the HS Explanatory Notes’).
+Pursuant to the explanatory note relating to the general rule for the interpretation of the HS 3:
+‘...
+Rule 3(a)
+...
+(IV)
+It is not practicable to lay down hard and fast rules by which to determine whether one heading more specifically describes the goods than another, but in general it may be said that:
+(a)
+A description by name is more specific than a description by class (e.g., shavers and hair clippers, with self-contained electric motor, are classified in heading 85.and not in heading 84.as tools for working in the hand with self-contained electric motor or in heading 85.as electro-mechanical domestic appliances with self-contained electric motor).
+(b)
+If the goods answer to a description which more clearly identifies them, that description is more specific than one where identification is less complete.
+Examples of the latter category of goods are:
+(1)
+Tufted textile carpets, identifiable for use in motor cars, which are to be classified not as accessories of motor cars in heading 87.but in heading 57.03, where they are more specifically described as carpets.
+(2)
+Unframed safety glass consisting of toughened or laminated glass, shaped and identifiable for use in aeroplanes, which is to be classified not in heading 88.as parts of goods of heading 88.or 88.but in heading 70.07, where it is more specifically described as safety glass.
+(V)
+However, when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part only of the items in a set put up for retail sale, those headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description than the others. In such cases, the classification of the goods shall be determined by Rule 3(b) or 3(c).
+Rule 3(b)
+(VI)
+This second method relates only to:
+(i)
+Mixtures;
+(ii)
+Composite goods consisting of different materials.
+(iii)
+Composite goods consisting of different components.
+(iv)
+Goods put up in sets for retail sales.
+It applies only if Rule 3(a) fails.
+(VII)
+In all these cases the goods are to be classified as if they consisted of the material or component which gives them their essential character, insofar as this criterion is applicable.
+(VIII)
+The factor which determines essential character will vary as between different kinds of goods. It may, for example, be determined by the nature of the material or component, its bulk, quantity, weight or value, or by the role of a constituent material in relation to the use of the goods.
+...’
+EU law
+Regulation (EEC) No 2658/The Combined Nomenclature forming Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EU) No 861/of October (OJ L 284, p. 1, ‘the CN’), contains in Part One, Section I, A, a set of general rules for the interpretation of that nomenclature (‘the general rules of the CN’). That section states:
+‘Classification of goods in the Combined Nomenclature shall be governed by the following principles:
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+...
+3.
+When, by application of rule 2(b) or for any other reason, goods are prima facie classifiable under two or more headings, classification shall be effected as follows:
+(a)
+the heading which provides the most specific description shall be preferred to headings providing a more general description. However, when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part only of the items in a set put up for retail sale, those headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description of the goods;
+(b)
+mixtures, composite goods consisting of different materials or made up of different components, and goods put in sets for retail sale, which cannot be classified by reference to 3(a), shall be classified as if they consisted of the material or component which gives them their essential character, in so far as this criterion is applicable;
+(c)
+when goods cannot be classified by reference to 3(a) or (b), they shall be classified under the heading which occurs last in numerical order among those which equally merit consideration.
+...
+6.
+For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, mutatis mutandis, to the above rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule, the relative section and chapter notes also apply, unless the context requires otherwise.’
+In Part Two of the CN, entitled ‘Schedule of Customs Duties’, Chapter relates to ‘Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’. As part of that chapter, heading reads as follows:
+‘Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders’.
+The European Commission communication on the explanatory notes to the CN (2011/C 137/01) states that that heading includes thermal-imaging cameras with infra-red imagers which capture heat radiation and convert it into images that represent the temperatures of individual surfaces or objects in different shades of grey or in different colours but which cannot measure temperatures or represent the measured values in figures.
+Chapter of the CN, entitled ‘Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof’, contains inter alia headings and 9027.
+Note of Chapter states that the provisions of notes and to Section XVI apply also to that chapter. Note of that section is worded as follows:
+‘Unless the context otherwise requires, composite machines consisting of two or more machines fitted together to form a whole and other machines designed for the purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that component or as being that machine which performs the principal function.’
+CN heading is worded and structured as follows:
+‘9025Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments- Thermometers and pyrometers, not combined with other instruments11- - Liquid-filled, for direct reading...19- - Other20- - - Electronic80- - - Other...…’
+In French, CN heading is worded and structured as follows:
+‘[Instruments and apparatus for physical or chemical analysis (polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like or for carrying out calorimetric, acoustic or photometric measurements (including exposure meters); microtomes:]
+Instruments et appareils pour analyses physiques ou chimiques (polarimètres, réfractomètres, spectromètres, analyseurs de gaz ou de fumées, par exemple); instruments et appareils pour essais de viscosité, de porosité, de dilatation, de tension superficielle ou similaires ou pour mesures calorimétriques, acoustiques ou photométriques (y compris les indicateurs de temps de pose); microtomes :
+...
+ 
+[- Spectrometers, spectrophotometers and spectrographs using optical radiations (UV, visible, IR)]
+- Spectromètres, spectrophotomètres et spectrographes utilisant les rayonnements optiques (UV, visibles, IR)
+[- Other instruments and apparatus using optical radiations (UV, visible, IR)]
+- autres instruments et appareils utilisant les rayonnements optiques (UV, visibles, IR)
+...
+…’
+In the English language version of that heading, the words ‘instruments or apparatus for measuring or checking of quantities of heat’ correspond to the terms ‘instruments et appareils ... pour mesures calorimétriques’ which are set out in the French language version of that heading.
+The explanatory note of the HS relating to heading states that the heading excludes, inter alia, ‘hydrometers, thermometers, hygrometers and similar instruments of heading 9025, whether or not for use in laboratories’.
+At the time material to the main proceedings, the rate of customs duties on imports applicable to tariff subheading was 3.2%, while machinery coming under tariff subheading was exempt from duty.
+Regulation No 314/Regulation No 314/entered into force on April 2011. It classifies infrared thermal imagers as thermometers under CN code 20.
+The description of the apparatuses concerned set out in the annex to that regulation is worded as follows:
+‘An apparatus (so-called “infrared thermal imager”) for capturing images of infrared radiation by means of a microbolometer and displaying such images in colours representing different temperatures, with dimensions of approximately × × cm.
+The apparatus comprises:
+—
+a detachable lens,
+—
+a microbolometer with a resolution of × pixels, capable of measuring temperatures within a range of - 20°C to 250°C,
+—
+a colour liquid crystal display (LCD) with a resolution of × pixels and a diagonal measurement of the screen of approximately cm (2.inches), and
+—
+a memory capable of storing up to images in JPEG format.
+The microbolometer, being a thermal sensor used as a detector in the camera, provides for pixels in each image where each pixel represents the result of a temperature measurement.
+The image is displayed in various colours representing the measurement of various temperatures together with a vertical scale showing the temperature at the top and bottom of the chosen range of temperatures and the range of colours going from top to bottom.
+The apparatus is also capable of measuring the temperature of a specific point and displaying the result on a temperature scale.
+The apparatus is used for preventative maintenance to detect defective construction or insulation and heat leaks.’
+In that annex, the classification of the apparatuses concerned under CN code is set out in the following terms:
+‘Classification is determined by General Rules [of the CN] and ... and by the wording of CN codes 9025, and 20.
+As the apparatus is capable of measuring temperature and representing the measured values in figures, which is a function covered by heading 9025, classification under heading as a camera is excluded (see also the CN Explanatory Notes to heading 8525).
+As the purpose of the apparatus is not to measure or to check quantities of heat but to detect the level of infrared radiation (temperature measurement), classification under heading is excluded.
+Given its characteristics, the apparatus is therefore to be classified under CN code as a thermometer.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Raytek and Fluke import infrared thermal imagers in to the United Kingdom.
+With respect to the properties of those imagers, the referring court states that they are composed in particular of an imager lens which collects infrared energy radiated by the target and focuses it on an infrared detector. The infrared radiation produces a measurable response from the detector, which is then processed electronically within the thermal imager to produce a thermogram or thermal image, in which different colour tones correspond to the distribution of infrared radiation over the surface of the target. That court further states that control mechanisms, which cover variables such as temperature range, thermal span and level, colour palettes, and fusion of visible and infrared images, allow electronic adjustments to be made in order to refine a thermal image on the display.
+As to the use of those imagers, the referring court states that their purpose is essentially to detect and locate defective electrical contacts, excessive heat caused by electrical overload, defective construction, insulation defects and air or water leaks.
+Following the publication of Regulation No 314/2011, the Commissioners informed Raytek and Fluke, by letter of April 2011, that the binding tariff information which had been issued to them previously, with respect to the tariff classification of the apparatuses they were importing under heading 9027, were no longer valid.
+As part of the actions brought against the decisions constituted by those letters, Raytek and Fluke dispute the validity of Regulation No 314/with respect to the respective actual scope of tariff headings and 00.
+It was in those circumstances that the First-tier Tribunal (Tax Chamber) decided to stay the proceedings and to refer to the Court the following question for a preliminary ruling:
+‘Is Regulation [No 314/2011] valid in so far as it classifies infrared thermal cameras under CN code 20?’
+Procedure before the Court
+By decision of January 2014, the Court assigned the case to the Tenth Chamber, decided that the case would be determined without an Opinion and called the parties to a hearing on March 2014, following which the oral procedure was closed.
+The Tenth Chamber decided, on October 2014, to refer the above case back to the Court in order that it might be reassigned to a formation composed of a greater number of judges, pursuant to Article 60(3) of the Rules of Procedure of the Court. Subsequently, the Court decided to reassign the present case to the Fifth Chamber.
+By order of November 2014, the Court ordered the reopening of the oral procedure and summoned the parties to a new hearing which took place on November 2014.
+The question referred for a preliminary ruling
+In order to answer the question referred, it should be noted that, with respect to the application of the CN, the Council of the European Union has conferred upon the Commission, acting in cooperation with the customs experts of the Member States, broad discretion to define the subject-matter of tariff headings falling to be considered for the classification of particular goods. However, the Commission’s power to adopt the measures mentioned in Article 9(1)(a) of Regulation No 2658/87, like the classification of the goods, does not authorise it to alter the subject-matter of the tariff headings which have been defined on the basis of the HS established by the HS convention whose scope the European Union has undertaken, under Article thereof, not to modify (see, to that effect, judgments in France v Commission, C‑267/94, EU:C:1995:453, paragraphs and 20; Kawasaki Motors Europe, C‑15/05, EU:C:2006:259, paragraph 35; and Dinter and Europol Frost-Food, C‑522/and C‑65/08, EU:C:2009:663, paragraph 32).
+In this case, it is therefore appropriate to examine whether the Commission, in classifying goods such as those described in column of the annex to Regulation No 314/under heading of the CN instead of heading thereof, has altered the subject-matter of those two tariff headings.
+In that regard, it should be recalled that it is settled case-law that, in the interests of legal certainty and ease of verification, the decisive criterion for the classification of goods is in general to be sought in their objective characteristics and properties as defined by the wording of the relevant heading of the CN and of the notes to the sections or chapters (judgments in Kawasaki Motors Europe, EU:C:2006:259, paragraph 38; Dinter and Europol Frost-Food, EU:C:2009:663, paragraph 29; and Premis Medical, C‑273/09, EU:C:2010:809, paragraph 42).
+According to the description set out in column of the annex to Regulation No 314/2011, the goods to which that regulation applies are ‘an apparatus (so-called “infrared thermal imager”) for capturing images of infrared radiation by means of a microbolometer and displaying such images in colours representing different temperatures’. Those images are captured by means of a microbolometer ‘capable of measuring temperatures within a range of - 20°C to 250°C’, ‘each pixel [of the image produced] representing the result of a temperature measurement’, the ‘image [being] displayed in various colours representing the measurement of various temperatures together with a vertical scale showing … the range of colours going from top to bottom’. Finally, the ‘apparatus is also capable of measuring the temperature of a specific point and displaying the result on a temperature scale’.
+It is apparent from that description that the apparatuses covered by Regulation No 314/collect infrared radiation emitted by the target and construct, on the basis of that energy, an image of the target, whose colours represent temperatures which are deduced from the captured infrared radiation. They are also capable of measuring the temperature of a specific point of the target, which measurement is also deduced from the captured infrared energy.
+It must be held that, on the basis of that description, the Commission was entitled to find, as is stated in the statement of reasons set out in column of that annex, that, as ‘the apparat[uses are] capable of measuring temperature and representing the measured values in figures, which is a function covered by heading 9025’, and as ‘the purpose of the apparat[uses] is not to measure or to check quantities of heat but to detect the level of infrared radiation (temperature measurement)’, they must ‘be classified under CN code as [thermometers]’, the subheading concerned corresponding to thermometers and electronic pyrometers, not combined with other instruments in the same heading.
+With respect to heading of the CN, which, according to the applicants in the main proceedings, ought to have been accepted by the Commission for the purposes of the tariff classification at issue, it should be noted that that heading refers in particular to ‘instruments and apparatus for physical or chemical analysis’, with subheading referring to ‘instruments and apparatus using optical radiations’, including infrared radiation. However, it must be noted that the objective characteristics and properties of the apparatuses described in the annex to Regulation No 314/do not permit their classification under that heading. Those apparatuses display the result of a temperature measurement without conducting another physical analysis going beyond a mere temperature measurement, a more specific property already covered by heading of the CN, which must therefore be accepted under General Rule CN 3(a).
+Moreover, the classification of those apparatuses under heading is supported by the HS Explanatory Notes on heading according to which heading excludes, in particular, ‘hydrometers, thermometers, hygrometers and similar instruments of heading 9025’.
+It follows that, in classifying the apparatuses described in the annex to Regulation No 314/under subheading of the CN, the Commission has not altered the subject-matter of tariff headings and 50. Accordingly, the review of that regulation does not lead to the finding that it is invalid.
+In order to provide a useful answer to the referring court, it should however be noted that there are indications, having regard to the description of the apparatuses at issue in the main proceedings as it appears in the order for reference and is set out in paragraph above, that those apparatuses may not necessarily correspond to those covered by Regulation No 314/2011.
+It is for the referring court to verify that the infrared thermal imagers imported by Raytek and Fluke correspond to the apparatuses described in Regulation No 314/2011, and, in particular, whether the collection and measurement of infrared radiation on the surface of a target and the display of an image representing the distribution of that radiation can constitute a function covered by heading of the CN, using optical radiation, including infrared radiation, which goes beyond a mere measurement of temperature.
+In those circumstances, it is also appropriate to take account of the fact, conceded by the applicants in the main proceedings, that the apparatuses at issue in the main proceedings may have a function other than measuring temperature and can, accordingly, be used as thermometers.
+Therefore, in accordance with note of Section XVI of the CN, which, under General Rule CN 1, constitutes a mandatory rule for the classification of goods, those apparatuses should be classified as machines designed for the purpose of performing two or more complementary or alternative functions as if consisting only of that component or as being that machine which performs the principal.
+The reply to the national court must therefore be that examination of the question referred has not revealed any factor capable of affecting the validity of Regulation No 314/2011.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+Examination of the question referred has not revealed any factor capable of affecting the validity of Commission Regulation (EU) No 314/of March concerning the classification of certain goods in the Combined Nomenclature.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

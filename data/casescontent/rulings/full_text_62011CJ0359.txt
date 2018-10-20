@@ -1,0 +1,178 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+October (
+*)
+‛Reference for a preliminary ruling — Directives 2003/54/EC and 2003/55/EC — Consumer protection — Internal market in electricity and natural gas — National legislation determining the content of consumer contracts covered by a universal supply obligation — Unilateral adjustment of the price of the service by the seller or supplier — Information, with adequate notice before the adjustment comes into effect, as to the reasons and preconditions for that adjustment and its scope’
+In Joined Cases C‑359/and C‑400/11,
+REQUESTS for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Germany), by decisions of May and June 2011, respectively, received at the Court on and July 2011, in the proceedings
+Alexandra Schulz
+v
+Technische Werke Schussental GmbH und Co. KG,
+and
+Josef Egbringhoff
+v
+Stadtwerke Ahaus GmbH,
+THE COURT (Fourth Chamber),
+composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan (Rapporteur), A. Prechal and K. Jürimäe, Judges,
+Advocate General: N. Wahl,
+Registrar: V. Tourrès, Administrator,
+having regard to the written procedure and further to the hearing on February 2014,
+after considering the observations submitted on behalf of:
+—
+Ms Schulz, by K. Guggenberger, Rechtsanwalt,
+—
+Mr Egbringhoff, by L. Voges-Wallhöfer, Rechtsanwalt,
+—
+Technische Werke Schussental GmbH und Co. KG, by P. Rosin, Rechtsanwalt,
+—
+Stadtwerke Ahaus GmbH, by P. Rosin and A. von Graevenitz, Rechtsanwälte,
+—
+the German Government, by T. Henze and B. Beutler, acting as Agents,
+—
+the European Commission, by S. Grünheid, O. Beynet, M. Owsiany-Hornung and J. Herkommer, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2014,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the interpretation of Article 3(5) of, and points (b) and (c) of Annex A to, Directive 2003/54/EC of the European Parliament and of the Council of June concerning common rules for the internal market in electricity and repealing Directive 96/92/EC (OJ L 176, p. 37, and corrigendum in OJ L 16, p. 74), and Article 3(3) of, and points (b) and (c) of Annex A to, Directive 2003/55/EC of the European Parliament and of the Council of June concerning common rules for the internal market in natural gas and repealing Directive 98/30/EC (OJ L 176, p. 57).
+The requests have been made in two sets of proceedings, respectively between Ms Schulz and Technische Werke Schussental GmbH und Co. KG (‘TWS’) and between Mr Egbringhoff and Stadtwerke Ahaus GmbH (‘SA’). Those proceedings concern the use, by TWS and SA respectively, of allegedly unlawful clauses in consumer contracts covered by a universal supply obligation.
+Legal context
+EU law
+Directive 93/13/EEC
+In accordance with Article of Council Directive 93/13/EEC of April on unfair terms in consumer contracts (OJ L 95, p. 29):
+‘1.   The purpose of this Directive is to approximate the laws, regulations and administrative provisions of the Member States relating to unfair terms in contracts concluded between a seller or supplier and a consumer.
+2.   The contractual terms which reflect mandatory statutory or regulatory provisions and the provisions or principles of international conventions to which the Member States or the Community are party, particularly in the transport area, shall not be subject to the provisions of this Directive.’
+Directive 2003/Recitals and in the preamble to Directive 2003/state:
+‘(24)
+Member States should ensure that household customers ... enjoy the right to be supplied with electricity of a specified quality at clearly comparable, transparent and reasonable prices. In order to ensure the maintenance of the high standards of public service in the Community, all measures taken by Member States to achieve the objectives of this Directive should be regularly notified to the Commission. ...
+...
+(26)
+Respect for the public service requirements is a fundamental requirement of this Directive, and it is important that common minimum standards, respected by all Member States, are specified in this Directive, which take into account the objectives of consumer protection, security of supply … and equivalent levels of competition in all Member States. It is important that the public service requirements can be interpreted on a national basis, taking into account national circumstances and subject to the respect of Community law.’
+Under Article of Directive 2003/54:
+‘...
+2.   Having full regard to the relevant provisions of the Treaty, ... Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies ... Such obligations shall be clearly defined, transparent, non-discriminatory [and] verifiable ...
+3.   Member States shall ensure that all household customers ... enjoy universal service, that is the right to be supplied with electricity of a specified quality within their territory at reasonable, easily and clearly comparable and transparent prices. To ensure the provision of universal service, Member States may appoint a supplier of last resort. ...
+...
+5.   Member States shall take appropriate measures to protect final customers, and shall in particular ensure that there are adequate safeguards to protect vulnerable customers, including measures to help them avoid disconnection. In this context, Member States may take measures to protect final customers in remote areas. They shall ensure high levels of consumer protection, particularly with respect to transparency regarding general contractual terms and conditions, general information and dispute settlement mechanisms. Member States shall ensure that the eligible customer is effectively able to switch to a new supplier. As regards at least household customers, these measures shall include those set out in Annex A.
+...’
+Annex A to Directive 2003/54, which concerns measures on consumer protection, states:
+‘Without prejudice to Community rules on consumer protection, in particular Directives 97/7/EC of the European Parliament and of the Council [of May on the protection of consumers in respect of distance contracts (OJ L 144, p. 19)] … and 93/…, the measures referred to in Article are to ensure that customers:
+...
+(b)
+are given adequate notice of any intention to modify contractual conditions and are informed about their right of withdrawal when the notice is given. Service providers shall notify their subscribers directly of any increase in charges, at an appropriate time no later than one normal billing period after the increase comes into effect. Member States shall ensure that customers are free to withdraw from contracts if they do not accept the new conditions notified to them by their electricity service provider;
+(c)
+receive transparent information on applicable prices and tariffs and on standard terms and conditions, in respect of access to and use of electricity services,
+...’
+Directive 2003/Recitals to in the preamble to Directive 2003/state:
+‘(26)
+In order to ensure the maintenance of the high standards of public service in the Community, all measures taken by Member States to achieve the objective of this Directive should be regularly notified to the Commission. ...
+Member States should ensure that when they are connected to the gas system customers are informed about their rights to be supplied with natural gas of a specified quality at reasonable prices. ...
+(27)
+Respect for the public service requirements is a fundamental requirement of this Directive, and it is important that common minimum standards, respected by all Member States, are specified in this Directive, which take into account the objectives of consumer protection, security of supply … and equivalent levels of competition in all Member States. It is important that the public service requirements can be interpreted on a national basis, taking into account national circumstances and subject to the respect of Community law.’
+Article of Directive 2003/55/EC is worded as follows:
+‘...
+2.   Having full regard to the relevant provisions of the Treaty, ... Member States may impose on undertakings operating in the gas sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies ... Such obligations shall be clearly defined, transparent, non-discriminatory [and] verifiable ...
+3.   Member States shall take appropriate measures to protect final customers and to ensure high levels of consumer protection, and shall, in particular, ensure that there are adequate safeguards to protect vulnerable customers, including appropriate measures to help them avoid disconnection. In this context, they may take appropriate measures to protect customers in remote areas who are connected to the gas system. Member States may appoint a supplier of last resort for customers connected to the gas network. They shall ensure high levels of consumer protection, particularly with respect to transparency regarding general contractual terms and conditions, general information and dispute settlement mechanisms. Member States shall ensure that the eligible customer is effectively able to switch to a new supplier. As regards at least household customers these measures shall include those set out in Annex A.
+...’
+Annex A to Directive 2003/55, which concerns measures on consumer protection, states:
+‘Without prejudice to Community rules on consumer protection, in particular Directive 97/7/EC … [and Directive] 93/…, the measures referred to in Article are to ensure that customers:
+...
+(b)
+are given adequate notice of any intention to modify contractual conditions and are informed about their right of withdrawal when the notice is given. Service providers shall notify their subscribers directly of any increase in charges, at an appropriate time no later than one normal billing period after the increase comes into effect. Member States shall ensure that customers are free to withdraw from contracts if they do not accept the new conditions notified to them by their gas service provider;
+(c)
+receive transparent information on applicable prices and tariffs and on standard terms and conditions, in respect of access to and use of gas services;
+...’
+German law
+Under Paragraph 36(1) of the Law on energy (Gesetz über die Elektrizitäts- und Gasversorgung (Energiewirtschaftsgesetz)) of July (BGBl. I, p. 1970; ‘the EnWG’):
+‘Energy supply undertakings shall be required, for areas of the distribution system in which they provide the basic supply for household customers, to make public the standard terms and conditions and prices relating to low voltage or low pressure supply and to publish these on the Internet, and to supply all household customers in accordance with those conditions and prices …’
+Paragraph of the EnWG provides:
+‘1.   The Federal Ministry ... may ... determine by regulatory decree ... the standard prices of the basic supplier ... It may also introduce provisions concerning the content and structure of standard prices and regulate the tariff rights and obligations of electricity suppliers and their customers.
+2.   The Ministry ... may ... appropriately define, by decree ..., the standard terms and conditions for the basic supply or alternative supply of low voltage or low pressure energy to household customers and thereby specify standard contract provisions, lay down regulations relating to the conclusion, subject-matter and termination of contracts, and establish the rights and duties of the contractual partners. In doing so, due consideration shall be given to the interests of both parties. The first and second sentences hereof shall apply mutatis mutandis to the terms and conditions of public law supply contracts, with the exception of regulations relating to administrative procedure.’
+The regulation on general terms and conditions for the supply of gas to standard rate customers (Verordnung über Allgemeine Bedingungen für die Gasversorgung von Tarifkunden) of June (BGBl. I, p. 676; ‘the AVBGasV’), applicable to the main proceedings in Case C‑359/11, was repealed by the regulation on the standard terms and conditions for the basic supply of household customers and the alternative supply of gas from the low pressure network (Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Gas aus dem Niederdrucknetz) of October (BGBl. I, p. 2396).
+Under Paragraph 1(1) and (2) of the AVBGasV:
+‘(1)   The standard terms and conditions in accordance with which gas supply undertakings … must connect any person to their distribution network and supply him at standard rate prices are laid down in paragraphs to of the present Regulation. Those terms and conditions shall form part of the supply contract.
+(2)   Reference to a customer within the meaning of the present Regulation shall be a reference to a standard rate customer.’
+Paragraph 4(1) and (2) of the AVBGasV stated:
+‘(1)   The gas supply undertaking shall supply gas in accordance with the applicable standard rates, terms and conditions. The fuel value with the fluctuation margin resulting from the conditions under which the undertaking generates and uses gas and the static pressure of the gas, which is decisive for the supply to the customer, shall be determined according to standard rates.
+(2)   Adjustments to the standard rates or to the terms and conditions shall become effective only after they have been published.
+...’
+Paragraph 32(1) and (2) of the AVBGasV provided:
+‘(1)   The contractual relationship shall continue without interruption until either of the two parties gives one month’s notice, at the end of a calendar month, of termination ...
+(2)   If the gas supply undertaking adjusts its standard rates or its terms and conditions on the basis of the present Regulation, the customer may give two weeks’ notice, at the end of the calendar month following publication, of termination of the contractual relationship.
+...’
+The regulation on standard terms and conditions for the supply of electricity to standard rate customers (Verordnung über Allgemeine Bedingungen für die Elektrizitätsversorgung von Tarifkunden of June (BGBl. I, p. 684; ‘the AVBEltV’) was repealed by the regulation on standard terms and conditions for the basic supply of household customers and for the alternative supply of electricity from the low voltage grid (Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Elektrizität aus dem Niederspannungsnetz, Stromgrundversorgungsverordnung) of October (BGBl. I, p. 2391; ‘the StromGVV’).
+Under Paragraph 1(1) and (2) of the AVBEltV:
+‘(1)   The standard terms and conditions in accordance with which electricity suppliers … must connect customers to their network and supply low voltage at standard rate prices are laid down in Paragraphs to of the present Regulation. Those terms and conditions shall form part of the supply contract.
+(2)   Reference to a customer within the meaning of the present Regulation shall be a reference to a standard rate customer.’
+Paragraph 4(1) and (2) of the AVBEltV provided:
+‘(1)   The electricity supplier shall supply in accordance with the applicable standard rates, terms and conditions:
+electricity ...
+(2)   Adjustments to the standard rates or to the terms and conditions shall become effective only after they have been published.’
+Paragraph 32(1) and (2) of the AVBEltV provided:
+‘(1)   The contractual relationship shall continue without interruption until either of the two parties gives one month’s notice, at the end of a calendar month, of termination ...
+(2)   If the electricity supplier adjusts its standard rates, general terms or conditions on the basis of the present Regulation, the customer may give two weeks’ notice, at the end of the calendar month following publication, of termination of the contractual relationship.
+Paragraph 1(1) of the StromGVV provides:
+‘The present Regulation sets out the general terms and conditions in accordance with which electricity suppliers must supply low voltage electricity, at the standard prices and in the context of the basic supply, to household customers in accordance with Paragraph 36(1) of the EnWG. The provisions of the present Regulation shall form part of the basic supply contract entered into between basic suppliers and household customers ...’
+Under Paragraph 5(2) and (3) of the StromGVV:
+‘(2)   Adjustments to the standard prices or additional terms and conditions shall become effective at the beginning of the relevant month, but only after publication thereof, which must take place at least six weeks before the planned adjustment. Upon publication thereof, the basic supplier is required to send written notification of the planned adjustments to the customer and to publish those adjustments on its website.
+(3)   Adjustments to the standard prices or additional terms and conditions shall not apply to a customer who shows, in the event of the termination, within the applicable time limits, of the contract entered into with the basic supplier, that there was a change of supplier under a contract to that effect entered into in the month following receipt of the notice of termination.’
+The disputes in the main proceedings and the questions referred for a preliminary ruling
+Case C‑359/When acquiring land from a local authorities association in 1990, Ms Schulz agreed in the deed of purchase that she would use natural gas as the main source of energy for properties to be built on that land and meet all her needs in terms of heating and warm water with gas supplied by Stadtwerke Weingarten (Germany), a municipal undertaking.
+In 1991, Ms Schulz entered into a contract for the supply of gas with Stadtwerke Weingarten. TWS, a natural gas supplier that carries out the functions of that municipal undertaking, supplied gas to Ms. Schulz as a standard rate customer.
+In accordance with Paragraph 1(1) of the AVBGasV, the standard terms and conditions for gas supply contracts as determined in that legislation were directly incorporated into the contract.
+The AVBGasV made it possible for the supplier to adjust the price of gas unilaterally without indicating the reasons and preconditions for that adjustment or its scope, but ensuring that customers are informed of any increase in rates and that they are free to terminate their contract, if appropriate.
+During the period from January to January 2007, TWS increased gas prices four times. Ms Schulz challenged the annual statements for the years to as she considered those increases to be unreasonable.
+Hearing an action brought by TWS against Ms Schulz for payment of the sums due under those statements, the Amtsgericht (Local Court) ordered her to pay EUR 733.12, together with default interest and the costs.
+Ms Schulz lost on appeal and applied to the Bundesgerichtshof (Federal Court of Justice; or ‘the referring court’) for review on a point of law.
+On the view that the outcome of the case before it depends on the interpretation of Directive 2003/55, the Bundesgerichtshof decided to stay the proceedings and refer the following question to the Court of Justice for a preliminary ruling:
+‘Is Article 3(3) of Directive 2003/…, read in conjunction with point (b) and/or (c) of Annex A thereto, to be interpreted as meaning that a provision of national law on price adjustments in natural gas supply contracts with household customers who are supplied gas within the framework of a universal supply obligation (standard rate customers) satisfies the transparency requirements if, in that provision, the reasons, preconditions and scope of the price adjustments are not specified but customers are assured that gas suppliers will give them adequate notice of any price increases and they have the right to terminate the contract if they are unwilling to accept the amended contractual terms and conditions as communicated?’
+Case C‑400/The municipal distributor SA provides Mr Egbringhoff with gas and electricity. Between and 2008, SA increased the price for electricity and gas on several occasions. Mr Egbringhoff objected to the annual statements for 2005, considering them to be unreasonable. Without prejudice to that challenge, he paid the invoices for the period from to 2007.
+Mr Egbringhoff brought an action against SA for reimbursement of the sum of EUR 746.54, together with interest, and for a declaration that, when calculating the gas and electricity prices for 2008, SA was required to apply the prices in force in 2004.
+As Mr Egbringhoff was unsuccessful at first instance and on appeal, he applied to the referring court for review on a point of law.
+The referring court notes that, as regards the supply of electricity, the standard terms and conditions of consumer contracts were established, during the material period, by the AVBEltV and by the StromGVV and incorporated, pursuant to that legislation, in the contracts entered into with standard rate customers.
+That legislation made it possible for the supplier to adjust the price of electricity unilaterally without indicating the reasons and preconditions for that adjustment or its scope, but ensuring that customers are informed of any increase in rates and that they are free to terminate their contract, if appropriate.
+In view of the fact that, in Case C‑359/11, it had made a reference to the Court for a ruling on the interpretation of Directive 2003/55, the Bundesgerichtshof considers it sufficient, in the context of Case C‑400/11, to request a ruling from the Court on the interpretation of Directive 2003/54. Accordingly, the Bundesgerichtshof decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Is Article 3(5) of Directive 2003/…, read in conjunction with point (b) and/or (c) of Annex A thereto, to be interpreted as meaning that a provision of national law on price adjustments in electricity supply contracts with household customers who are supplied electricity within the framework of a universal supply obligation (standard rate customers) satisfies the transparency requirements if, in that provision, the reasons, preconditions and scope of the price adjustments are not specified but customers are assured that electricity suppliers will give them adequate notice of any price increases and they have the right to terminate the contract if they are unwilling to accept the amended contractual terms and conditions as communicated?’
+Procedure before the Court
+On September 2011, the President of the Court decided to stay the proceedings in Cases C‑359/and C‑400/until the ruling on March in Case C‑92/11.
+By decision of the Court of January 2014, Cases C‑359/and C‑400/were joined for the purposes of the written and oral procedure and the judgment.
+Consideration of the questions referred
+By its questions, which it is appropriate to deal with together, the referring court asks, in essence, whether, on the one hand, Article 3(5) of Directive 2003/54, read in conjunction with Annex A thereto, and on the other, Article 3(3) of Directive 2003/55, read in conjunction with Annex A thereto, are to be interpreted as precluding national legislation, such as that at issue in the main proceedings, which determines the content of consumer contracts for the supply of electricity and gas covered by a universal supply obligation and allows the price of that supply to be adjusted, but which does not ensure that customers are to be given adequate notice, before that adjustment comes into effect, of the reasons and preconditions for the adjustment, and its scope.
+At the outset, it should be noted that the aim of those directives is to improve the operation of the internal market in electricity and gas. Non-discriminatory, transparent and fairly priced network access is necessary for competition to function and of paramount importance in completing the internal electricity and gas market (see, to that effect, Sabatauskas and Others, C‑239/07, EU:C:2008:551, paragraph 31).
+Consumer protection concerns underpin the provisions of Directives 2003/and 2003/(see, to that effect, Enel Produzione, C‑242/10, EU:C:2011:861, paragraphs 39, and 56). Those concerns are closely linked both to the liberalisation of the markets in question and to the objective, also pursued by those directives, of ensuring a stable electricity and gas supply (see, to that effect, Essent and Others, C‑105/to C‑107/12, EU:C:2013:677, paragraphs to 65).
+In that regard, Article 3(5) of Directive 2003/and Article 3(3) of Directive 2003/lay down the provisions needed to enable the objective referred to in the preceding paragraph to be achieved.
+First, it can be seen from the wording of those provisions that Member States are to take appropriate measures to protect final customers and to ensure that there are adequate safeguards to protect vulnerable customers, including appropriate measures to help them avoid disconnection. To that end, under Article 3(3) of each of those directives, Member States may appoint a supplier of last resort.
+In the cases before the referring court — as the German Government observes in its observations — the supply contracts at issue are contracts concluded by suppliers, acting as suppliers of last resort, with customers who have requested this.
+As those suppliers of electricity and gas are required, in the framework of the obligations imposed by the national legislation, to enter into contracts with customers who request this and who are entitled to the conditions laid down in that legislation, the economic interests of those suppliers must be taken into account in so far as they are unable to choose the other contracting party and cannot freely terminate the contract.
+Secondly, with regard more specifically to the rights of customers, Article 3(3) of Directive 2003/— as was held in relation to that directive in paragraph of the judgment in RWE Vertrieb, C‑92/11, EU:C:2013:— requires Member States to ensure a high level of consumer protection in relation to the transparency of the contract terms and conditions. That finding applies also to Article 3(5) of Directive 2003/54.
+In addition to their right to terminate the supply contract, as provided for in point (b) of Annex A to each of those directives, customers must also be entitled to challenge adjustments to the price of supply.
+In the circumstances described in paragraphs and above, in order to be able to benefit fully and effectively from those rights and to take an informed decision as to whether to terminate the contract or to challenge the adjustment of the supply price, customers must be given adequate notice, before that adjustment takes effect, of the reasons and preconditions for the adjustment, and its scope.
+Consequently, national legislation such as that at issue in the main proceedings, which does not ensure that, in those circumstances, the information referred in the preceding paragraph is communicated to a household customer with adequate notice does not meet the requirements set out in Directives 2003/and 2003/55.
+It is true that, in RWE Vertrieb (EU:C:2013:180) concerning gas supply contracts governed by Directives 93/and 2003/55, the Court held that the information communicated transparently to the consumer before the conclusion of a contract, concerning the reasons for adjusting the costs of the supply of gas and the method of doing so, was of fundamental importance.
+However, it should be pointed out that, in the case that led to the judgment in RWE Vertrieb (EU:C:2013:180), the obligation at issue to provide pre-contractual information was also based on Directive 93/13.
+Under Article of Directive 93/13, contractual terms which reflect mandatory statutory or regulatory provisions are not to be subject to the provisions of that directive.
+Given that, in the circumstances of the cases before the referring court, the content of the contracts at issue is determined by German legislative provisions that are mandatory, Directive 93/is not applicable.
+In the light of all the above considerations, the answer to the questions referred is that, on the one hand, Article 3(5) of Directive 2003/54, read in conjunction with Annex A thereto, and, on the other, Article 3(3) of Directive 2003/55, read in conjunction with Annex A thereto, are to be interpreted as precluding national legislation, such as that at issue in the main proceedings, which determines the content of consumer contracts for the supply of electricity and gas covered by a universal supply obligation and allows the price of that supply to be adjusted, but which does not ensure that customers are to be given adequate notice, before that adjustment comes into effect, of the reasons and preconditions for the adjustment, and its scope.
+Limitation of the temporal effects of this judgment
+In their written observations, TWS and SA have asked the Court, in the event that the ruling to be made in the present judgment means that the national legislation at issue in the main proceedings fails to meet the transparency requirements set out in Directives 2003/and 2000/55, to limit the temporal effects of the judgment, so that they are deferred by months in order to enable the national legislature to make the consequential adjustments. In its written observations, the German Government has requested the Court to consider whether it would be appropriate to limit the temporal effects.
+In support of their request, TWS and SA referred to the serious consequences for the entire electricity and gas supply sector in Germany. If the price adjustments were held to be contrary to EU law, the suppliers would be required to make retroactive repayment of the amounts paid by consumers over the years, which could threaten the very existence of those suppliers and have a negative impact on the supply of electricity and gas to German consumers.
+TWS and SA added that, as can be seen from the report of the German federal network agency (Bundesnetzagentur) for 2012, 4.million household customers were supplied with gas on the basis of the mandatory provisions of the regulation of October on the standard terms and conditions for the basic supply of household customers and the alternative supply of gas from the low pressure network. It can also be seen from that report, they argue, that 40% of the million household customers obtain their electricity supply under the StromGVV mandatory scheme.
+In that regard, it should be noted that it is only exceptionally that the Court may, in application of the general principle of legal certainty inherent in the legal order of the European Union, be moved to restrict for any person concerned the opportunity of relying on a provision which it has interpreted with a view to calling in question legal relationships established in good faith. Two essential criteria must be fulfilled before such a limitation can be imposed, namely that those concerned should have acted in good faith and that there should be a risk of serious difficulties (RWE Vertrieb, EU:C:2013:180, paragraph and the case-law cited).
+More precisely, the Court has taken that step only in quite specific circumstances, where there was a risk of serious economic repercussions owing in particular to the large number of legal relationships entered into in good faith on the basis of rules considered to be validly in force and where it appeared that individuals and national authorities had been led to adopt practices incompatible with EU legislation by reason of objective, significant uncertainty regarding the implications of provisions of EU law (see Emerging Markets Series of DFA Investment Trust Company, C‑190/12, EU:C:2014:249, paragraph and the case-law cited).
+As regards the risk of serious difficulties, it should be noted that, admittedly, TWS and SA have referred in their written observations to the statistics of the federal network agency for indicating the number of customers who entered into contracts covered by universal supply obligations and relating to the security, including security of supply, regularity, quality and price of the supply of electricity and gas, and subject to the national legislation at issue in the main proceedings.
+However, it has not been demonstrated that calling into question legal relations which have exhausted their effects in the past would retroactively cast into confusion the entire electricity and gas supply sector in Germany.
+Furthermore, the German Government has admitted in its written observations that it was not in a position to assess the consequences that the judgment to be delivered would entail for undertakings in the electricity and gas supply sector.
+It must therefore be concluded that the risk of serious difficulties, as contemplated in the case-law cited in paragraph above, of such a kind as to justify placing a temporal limitation on the effects of the present judgment, has not been established.
+Since the second criterion referred to in paragraph above has not been fulfilled, it is not necessary to determine whether the criterion relating to the good faith of those concerned has been fulfilled.
+Accordingly, there is no need to limit the temporal effects of the present judgment.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+On the one hand, Article 3(5) of Directive 2003/54/EC of the European Parliament and of the Council of June concerning common rules for the internal market in electricity and repealing Directive 96/92/EC, read in conjunction with Annex A thereto, and, on the other, Article 3(3) of Directive 2003/55/EC of the European Parliament and of the Council of June concerning common rules for the internal market in natural gas and repealing Directive 98/30/EC, read in conjunction with Annex A thereto, are to be interpreted as precluding national legislation, such as that at issue in the main proceedings, which determines the content of consumer contracts for the supply of electricity and gas covered by a universal supply obligation and allows the price of that supply to be adjusted, but which does not ensure that customers are to be given adequate notice, before that adjustment comes into effect, of the reasons and preconditions for the adjustment, and its scope.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

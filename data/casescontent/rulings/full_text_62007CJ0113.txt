@@ -1,0 +1,854 @@
+
+Case C-113/P
+SELEX Sistemi Integrati SpA
+v
+Commission of the European Communities
+(Appeals – Competition – Article EC – Concept of an ‘undertaking’ – Economic activity – International organisation – Abuse of a dominant position)
+Summary of the Judgment
+1.        Procedure – Intervention – Extent of intervener’s procedural rights linked to the date on which the application to intervene
+            was made 
+(Rules of Procedure of the Court of First Instance, Arts 64, 115(1) and 116(2), (4) and (6))
+2.        Procedure – Measures of inquiry
+(Rules of Procedure of the Court of First Instance, Art. 66(1))
+3.        Competition – Community rules – Undertaking – Meaning – International organisation Eurocontrol
+(Arts EC and EC)
+1.        It is apparent from Article 115(1) read in conjunction with Article 116(2), (4) and (6) of the Rules of Procedure of the Court
+         of First Instance that the intervener’s procedural rights differ according to whether the application to intervene is made
+         before the expiry of the period of six weeks commencing with the publication in the Official Journal of the European Union of the notice of initiation of the action or after the expiry of that period but before the decision to open the oral procedure.
+         Where the intervener has made his application before the expiry of that period, he is entitled to participate in both the
+         written and the oral procedure, to receive a copy of the pleadings in the case and to submit a statement in intervention.
+         On the other hand, where the intervener has made an application after the expiry of that period, he is entitled only to participate
+         in the oral procedure, to receive a copy of the Report for the Hearing and to submit his observations on the basis of that
+         report at the hearing.
+      
+While, in accordance with Article of the Rules of Procedure of the Court of First Instance, that court may, inter alia,
+         by way of measures of organisation of procedure, invite the parties, including the intervener, to make written submissions
+         on certain aspects of the dispute, that provision does not in any way contemplate the possibility that an intervener who has
+         intervened in the proceedings after the aforementioned period should be invited to submit a statement in intervention or that
+         he should be given access to the pleadings in the case, since such measures do not in any event correspond to the purpose
+         of measures of organisation of procedure, as set out in Article 64(2) of those rules.
+      
+(see paras 32-38)
+2.        Article 66(1) of the Rules of Procedure of the Court of First Instance requires an order to be made to prescribe the measures
+         of inquiry that the Court of First Instance considers appropriate but not to reject requests seeking an order for such measures,
+         on which that court can therefore, in such a case, give a ruling in the final judgment in the proceedings.
+      
+(see para. 51)
+3.        An international organisation such as the European Organisation for the Safety of Air Navigation (Eurocontrol) is not an undertaking
+         for the purposes of Articles EC and EC. Taken as a whole, Eurocontrol’s activities, by their nature, their aim and the
+         rules to which they are subject, are connected with the exercise of powers relating to the control and supervision of airspace,
+         which are typically those of a public authority and are not of an economic nature justifying the application of the Treaty
+         rules on competition.
+      
+That conclusion also applies, first, with regard to the assistance in the planning, specification and setting up of air traffic
+         systems and services which Eurocontrol provides to the national administrations, when so requested by them, in connection
+         with tendering procedures carried out by those administrations for the acquisition, in particular, of equipment and systems
+         in the field of air traffic management. That activity of providing assistance is one of the instruments of cooperation entrusted
+         to Eurocontrol by the Convention on the Safety of Air Navigation and plays a direct role in the attainment of the objective
+         of technical harmonisation and integration in the field of air traffic with a view to contributing to the maintenance of and
+         improvement in the safety air navigation. Such an activity is not separable from Eurocontrol’s task of airspace management
+         and development of air safety. It is closely linked to the task of technical standardisation entrusted to Eurocontrol by the
+         contracting parties in the context of cooperation among States with a view to maintaining and developing the safety of air
+         navigation and is thus connected with the exercise of public powers. The fact that the assistance provided by Eurocontrol
+         is optional and that, as the case may be, only certain Member States have recourse to it cannot preclude such a connection
+         or alter the nature of the activity. Moreover, in order for there to be a connection with the exercise of public powers, it
+         is not necessary for the activity concerned to be essential or indispensable to ensuring the safety of air navigation, since
+         what matters is that the activity is connected with the maintenance and development of air navigation safety, which constitute
+         public powers.
+      
+Second, the same therefore also applies to the preparation and production of technical standards, which play a direct role
+         in the attainment of Eurocontrol’s objective, namely to achieve harmonisation and integration with the aim of establishing
+         a uniform European air traffic management system, and form an integral part of the task of technical standardisation entrusted
+         to Eurocontrol by the contracting parties in the context of cooperation among States with a view to maintaining and developing
+         the safety of air navigation, which constitute public powers.
+      
+Finally, that is also the case with regard to the acquisition of prototypes in the context of technical standardisation and
+         the related management of intellectual property rights since the acquisition does not involve the offer of goods or services
+         on a given market, the fact that standardisation is not an economic activity meaning that those activities are not economic
+         activities either.
+      
+(see paras 70-72, 76-77, 79, 92, 96, 102, 114)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+March (*)
+      
+(Appeals – Competition – Article EC – Concept of an ‘undertaking’ – Economic activity – International organisation – Abuse of a dominant position)
+In Case C‑113/P,
+APPEAL under Article of the Statute of the Court of Justice, lodged on February 2007,
+SELEX Sistemi Integrati SpA, established in Rome (Italy), represented by F. Sciaudone, R. Sciaudone and D. Fioretti, avvocati,
+      
+appellant,
+the other parties to the proceedings being:
+Commission of the European Communities, represented by V. Di Bucci and F. Amato, acting as Agents, with an address for service in Luxembourg,
+      
+defendant at first instance,
+European Organisation for the Safety of Air Navigation (Eurocontrol), represented by F. Montag and T. Wessely, Rechtsanwälte,
+      
+intervener at first instance,
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of the Chamber, K. Schiemann, P. Kūris (Rapporteur), L. Bay Larsen and C. Toader,
+         Judges,
+      
+Advocate General: V. Trstenjak,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on May 2008,
+after hearing the Opinion of the Advocate General at the sitting on July 2008,
+gives the following
+Judgment
+By its appeal, SELEX Sistemi Integrati SpA (‘Selex’) requests the Court to set aside the judgment of the Court of First Instance
+         of the European Communities in Case T‑155/SELEX Sistemi Integrati v Commission [2006] ECR II‑(‘the judgment under appeal’), by which that court dismissed the application for annulment or amendment
+         of the decision of the Commission of the European Communities of February rejecting the appellant’s complaint concerning
+         an alleged infringement by the European Organisation for the Safety of Air Navigation (Eurocontrol) of the provisions of the
+         EC Treaty relating to competition (‘the contested decision’). 
+      
+I –  Background to the dispute
+Selex has been operating in the sector of air traffic management systems since 1961. On October 1997, it lodged a complaint
+         with the Commission under Article 3(2) of Council Regulation No of February 1962: First Regulation implementing Articles
+         [81] and [82] of the Treaty (OJ, English Special Edition 1959-1962, p. 87) in which it criticised Eurocontrol for abusing
+         its dominant position and distorting competition. 
+      
+The complaint stated that the regime of intellectual property rights governing contracts, concluded by Eurocontrol, for the
+         development and acquisition of prototypes of new systems and equipment for applications in the field of air traffic management
+         was liable to create de facto monopolies in the production of systems which are subsequently standardised by that organisation.
+         It claimed that that situation was all the more serious because Eurocontrol had failed to observe the principles of transparency,
+         openness and non-discrimination in connection with the acquisition of the prototypes. In addition, the complaint stated that,
+         as a result of assistance provided by Eurocontrol to national administrations, at the latters’ request, undertakings which
+         had supplied prototypes were in a particularly advantageous position as compared with their competitors in tendering procedures
+         organised by national authorities seeking to acquire equipment. 
+      
+The Commission rejected the complaint in the contested decision. After stating that the Community competition rules apply
+         in principle to international organisations, provided that the activities concerned can be described as economic activities,
+         it stated, first of all, that the activities which were the subject of the complaint could not be so described, so that Eurocontrol
+         could not be considered to be an undertaking within the meaning of Article EC and, in any event, those activities were
+         not contrary to that provision. It then went on to state that Eurocontrol’s regulation, standardisation and validation activities
+         did not constitute ‘activities of an undertaking’, that no breach of the competition rules had been established with regard
+         to the activities of that organisation connected with the acquisition of prototypes and management of intellectual property
+         rights and, lastly, that assisting national administrations was not an economic activity.
+      
+II –  Procedure before the Court of First Instance and the judgment under appeal
+A –  Procedure before the Court of First Instance
+By application lodged at the Registry of the Court of First Instance on April 2004, Selex brought an action for the annulment
+         or amendment of the contested decision. 
+      
+By order of October 2004, Eurocontrol was granted leave, pursuant to Article 116(6) of the Rules of Procedure of the Court
+         of First Instance, to intervene in support of the form of order sought by the Commission by making its submissions at the
+         hearing. 
+      
+On April 2005, Eurocontrol was invited to lodge a statement in intervention, pursuant to Article of the Rules of Procedure.
+         On May 2005, it was authorised, in addition, to receive a copy of the pleadings in the case. 
+      
+Further to an application by the applicant that the defendant be requested, by way of measures of organisation of procedure,
+         to produce, inter alia, a letter of November in which the defendant had invited Eurocontrol to submit its observations
+         on the complaint (‘the letter of November 1998’), the Commission produced the letter and stated that it did not possess
+         any other relevant documents. By document lodged at the Registry of the Court of First Instance on April 2005, the applicant
+         then made an application for witnesses to be heard and documents to be produced by the Commission and introduced three new
+         pleas in law. 
+      
+B –  The judgment under appeal
+The Court of First Instance dismissed the action in the judgment under appeal. 
+      
+First of all, at paragraphs and of the judgment under appeal, the Court of First Instance ruled that Selex’s application
+         for amendment of the contested decision was inadmissible. At paragraphs to of that judgment, it also rejected as inadmissible,
+         on the basis of the first subparagraph of Article 48(2) of the Rules of Procedure of the Court of First Instance, the new
+         pleas in law introduced by Selex, rejecting the latter’s argument that the letter of November constituted a new fact
+         which came to light in the course of the procedure as a result of a letter from the director of Eurocontrol of July which was annexed to the defence. 
+      
+At paragraphs to of the judgment under appeal, the Court of First Instance also rejected as inadmissible the plea raised
+         by Eurocontrol seeking a ruling that, by virtue of its immunity under international public law, the rules of the European
+         Union did not apply to it on the ground that, under the fourth paragraph of Article of the Statute of the Court of Justice,
+         applicable to the Court of First Instance, and Article 116(3) of the Rules of Procedure of the Court of First Instance, the
+         intervener did not have standing to raise that plea, which had not been put forward by the Commission. 
+      
+As regards the substantive application, in dismissing the action, the Court of First Instance then rejected the three pleas
+         in law raised by Selex alleging, respectively, manifest error of assessment as to the applicability of the Community competition
+         rules to Eurocontrol, manifest error of assessment as to the existence of an infringement of the Community competition rules
+         and breach of essential procedural requirements and did so on grounds that will be summarised below. 
+      
+By way of preliminary point, the Court of First Instance stated that annulment of the contested decision presupposed that
+         the applicant’s first two pleas would be upheld. It pointed out, at paragraphs to of the judgment under appeal, first,
+         that ‘where the operative part of a Commission decision is based on several pillars of reasoning, each of which would in itself
+         be sufficient to justify that operative part, that decision should, in principle, be annulled only if each of those pillars
+         is vitiated by an illegality’ and, second, that the contested decision was based on the double finding that Europol was not
+         an undertaking and that the conduct complained of was not contrary to Article EC.
+      
+Examining the first plea, at paragraphs to of the judgment under appeal the Court of First Instance drew attention to
+         the case‑law of the Court of Justice on the concepts of ‘undertaking’ and ‘economic activity’ and rejected the Commission’s
+         argument claiming, by reference to Case C‑364/SAT Fluggesellschaft [1994] ECR I‑43, that Eurocontrol could not in any case be considered to be an undertaking for the purposes of Community
+         competition law. It stated that, since the Treaty provisions on competition are applicable to the activities of an entity
+         which can be severed from those in which it engages as a public authority, the various activities of an entity must be considered
+         individually and, accordingly, the judgment relied on did not preclude Eurocontrol from being regarded as an undertaking within
+         the meaning of Article EC in relation to other activities than those referred to in that judgment. 
+      
+In examining that plea, the Court of First Instance therefore made a distinction between the various activities in question
+         in the present case, namely the activity of technical standardisation, the activity of research and development and that of
+         assisting the national administrations. 
+      
+With regard, first, to the activity of technical standardisation, at paragraphs to of the judgment under appeal, the
+         Court of First Instance considered that, while the adoption of standards by the Council of Eurocontrol was a legislative activity
+         and therefore a public task performed by that organisation, the preparation and production of technical standards could be
+         separated from its tasks of managing airspace and developing air safety but could not be deemed to be an economic activity,
+         since the applicant had failed to demonstrate that that activity consisted in offering goods or services on a given market.
+         
+      
+In that context, the applicant’s arguments that, first, it could be inferred from the economic nature of the activity of acquiring
+         prototypes that technical standardisation was also an economic activity and, second, the reasoning employed in Case T‑319/FENIN v Commission [2003] ECR II‑could not be applied in the present case were rejected at paragraphs to of the judgment under appeal.
+         Citing the judgment in FENIN, the Court of First Instance stated, in essence, that whether or not the activity of purchasing was an economic activity
+         depended on the subsequent use to which the goods acquired was put, so that, in the present case, the fact that technical
+         standardisation was not an economic activity implied that the acquisition of prototypes in connection with that activity was
+         not an economic activity either. 
+      
+Second, with regard to research and development, the Court of First Instance stated first of all, at paragraph of the judgment
+         under appeal, that there was no basis in the contested decision for the applicant’s assertion that the Commission had not
+         disputed the economic nature of that activity. It then went on to state in particular, at paragraphs to of the judgment
+         under appeal, that the acquisition of prototypes in that context and the related management of intellectual property rights
+         were not capable of making that activity an economic one, since the acquisition did not involve the offer of goods or services
+         on a given market. Pointing out, in that connection, that that activity consisted in granting public subsidies to undertakings
+         in the relevant sector and acquiring ownership of the prototypes and the property rights resulting from the subsidised research
+         in order to make the results of that research available at no cost to the sector concerned, the Court of First Instance found
+         that ‘[that] activity [was] ancillary to the promotion of technical development, forming part of the aims of Eurocontrol’s
+         public service tasks and not being pursued in its own interest, separable from those aims’. 
+      
+Third, with regard to the activity of assisting the national administrations, the Court of First Instance considered on the
+         other hand, at paragraph of the judgment under appeal, that it was separable from Eurocontrol’s tasks of airspace management
+         and development of air safety, on the ground that that activity had a very indirect relationship with air navigation safety,
+         pointing out in that connection that the assistance provided by Eurocontrol only covered technical specifications in the implementation
+         of tendering procedures, was provided only on the request of the national administrations and was therefore in no way essential
+         or indispensable to ensuring the safety of air navigation. 
+      
+Moreover, with regard to assistance to the national administrations, the Court of First Instance found, at paragraph of
+         the judgment under appeal, that this was a case of an offer of services on the market for advice, a market on which private
+         undertakings specialising in that area could also very well offer their services. In that context, at paragraphs to of the judgment under appeal, the Court of First Instance pointed out that the fact that an activity may be exercised by a
+         private undertaking is a further indication that the activity in question may be described as a business activity, the fact
+         that activities are normally entrusted to public offices cannot necessarily affect the economic nature of such activities
+         and the fact that the assistance provided is not remunerated may constitute an indication that it is not an economic activity,
+         although it is not in itself decisive, as may the fact that that assistance is given in pursuit of a public service objective.
+         The Court of First Instance therefore considered that that activity constituted an economic activity and that, accordingly,
+         Eurocontrol was, in the exercise of that activity, an undertaking within the meaning of Article EC. 
+      
+However, after considering the second plea raised by the applicant in relation to that activity, the Court of First Instance
+         rejected the plea, stating first of all, at paragraph of the judgment under appeal, that the national administrations
+         alone have the power to award contracts and are therefore responsible for compliance with the relevant provisions on tendering
+         procedures, Eurocontrol’s contribution being neither mandatory nor systematic. It went on to point out, at paragraphs to of that judgment, that the applicant had failed to adduce any evidence of the definition of the relevant market or
+         the dominant position and had also failed to demonstrate the existence of conduct that fulfilled the criteria of abuse of
+         such a position. Finally, at paragraphs and of the judgment under appeal, the Court of First Instance rejected the
+         applicant’s claims that the letter of November proved that the Commission itself was persuaded that Eurocontrol had
+         abused a dominant position. 
+      
+Lastly, after rejecting, at paragraphs to and to of the judgment under appeal, the complaints alleging a failure
+         to provide reasoning and breach of the rights of defence put forward by the applicant in the third plea, at paragraphs and of that judgment, the Court of First Instance also rejected the applicant’s request for measures of inquiry. 
+      
+III –  Forms of order sought by the parties
+Selex claims that the Court should:
+      
+–        reject the plea of immunity raised by Eurocontrol as inadmissible;
+–         reject the Commission’s applications for amendment of the grounds of the judgment of the Court of First Instance;
+–        set aside the judgment under appeal and refer the case back to the Court of First Instance; and
+–        order the Commission to pay the costs of the appeal proceedings and those of the proceedings at first instance.
+The Commission contends that the Court should:
+      
+–        dismiss the appeal in its entirety, if necessary on the basis of a partial amendment of the grounds of the judgment of the
+         Court of First Intance; and
+      
+–        order the appellant to pay the costs.
+Eurocontrol contends that the Court should: 
+      
+–        dismiss the appeal; and
+–        order the appellant to pay the costs, including the costs relating to its intervention.
+IV –  The appeal
+In support of its appeal, Selex puts forward pleas in law relating to the procedure before the Court of First Instance and
+         pleas relating to the substance of the case. The latter pleas allege that the Court of First Instance erred in law as regards,
+         first, the applicability of Article EC to the activities of Eurocontrol at issue in these proceedings, namely the activities
+         of assisting the national administrations, technical standardisation and research and development and, second, the infringement
+         of that provision by Eurocontrol 
+      
+The Commission contends that the appeal should be dismissed but seeks an amendment of the grounds of the judgment under appeal
+         rejecting the applicant’s pleas relating to the activity of assisting the national administrations and that of technical standardisation.
+         
+      
+While equally contending that the appeal should be dismissed, Eurocontrol also criticises the judgment under appeal for rejecting
+         as inadmissible the plea that it enjoys immunity under international public law. It also submits that its immunity, which
+         precludes the application of Community competition law to the activities in question, forms the basis a plea which must be
+         considered by the Community judicature of its own motion and should be upheld by the Court in order to dismiss the appeal.
+         
+      
+A –  The pleas relating to the procedure before the Court of First Instance
+The four pleas relating to the procedure before the Court of First Instance raised by Selex allege, respectively, infringement
+         of Article 116(6) of the Rules of Procedure of the Court of First Intance, infringement of Article 48(2) of those rules (second
+         and third pleas) and infringement of Article 66(1) of those rules. 
+      
+1.     The first plea, alleging infringement of Article 116(6) of the Rules of Procedure of the Court of First Instance
+By this plea, Selex submits that, by permitting Eurocontrol to lodge a statement and to receive a copy of the pleadings in
+         the case even though it had established that its application to intervene had been submitted after the six-week period prescribed
+         in Article 115(1) of the Rules of Procedure of the Court of First Instance, that court infringed Article 116(6) of those rules.
+         It maintains that the Court of First Instance could not rely on the provisions in Article of its Rules of Procedure in
+         order to ‘circumvent the time‑limits imposed for taking steps in proceedings’. 
+      
+In response, the Commission and Eurocontrol submit that the Court of First Instance has a wide margin of discretion in exercising
+         the power conferred on it by Article of its Rules of Procedure, the provisions of which are unconnected with those in the
+         Article 116(6), infringement of which is alleged, and that the appellant has failed to show that that power was exercised
+         in those proceedings for a different purpose than that set out in Article 64(2) and has also failed to demonstrate that, in
+         the light of Article of the Statute of the Court of Justice, the breach of procedure alleged has in fact adversely affected
+         its interests. They point out that it has not been established in particular that that breach of procedure, or any of the
+         other alleged irregularities, could have had any effect on the outcome of the proceedings. 
+      
+According to Article 115(1) of the Rules of Procedure of the Court of First Instance, an application to intervene must be
+         made either within six weeks of the publication in the Official Journal of the European Union of the notice of initiation of the action or, subject to Article 116(6) of those rules, before the decision to open the oral
+         procedure. 
+      
+Article 116(2) of the Rules of Procedure of the Court of First Instance provides that if an intervention for which application
+         has been made within the period of six weeks prescribed in Article 115(1) is allowed, the intervener is to receive a copy
+         of every document served on the parties. 
+      
+Article 116(4) of the Rules of Procedure of the Court of First Instance states that, in the cases referred to in Article 116(2),
+         the President is to prescribe a period within which the intervener may submit a statement in intervention containing a statement
+         of the form of order sought by the intervener in support of or opposing, in whole or in part, the form of order sought by
+         one of the parties, the pleas in law and arguments relied on by the intervener and, where appropriate, the nature of any evidence
+         offered. 
+      
+Article 116(6) of those rules provides that, where the application to intervene is made after the expiry of the period of
+         six weeks prescribed in Article 115(1), the intervener may, on the basis of the Report for the Hearing communicated to him,
+         submit his observations during the oral procedure. 
+      
+It is apparent from those provisions that the intervener’s procedural rights differ according to whether the application to
+         intervene is made before the expiry of the period of six weeks prescribed in Article 115(1) of the Rules of Procedure of the
+         Court of First Instance or after the expiry of that period but before the decision to open the oral procedure. Where the intervener
+         has made his application before the expiry of that period, he is entitled to participate in both the written and the oral
+         procedure, to receive a copy of the pleadings in the case and to submit a statement in intervention. On the other hand, where
+         the intervener has made an application after the expiry of that period, he is entitled only to participate in the oral procedure,
+         to receive a copy of the Report for the Hearing and to submit his observations on the basis of that report at the hearing.
+         
+      
+In the present case, it is apparent from the indications given in the judgment under appeal and the documents on the case
+         file that, although Eurocontrol was given leave by order of October to intervene in the proceedings before the Court
+         of First Instance in support of the form of order sought by the Commission pursuant to Article 116(6) of the Rules of Procedure
+         of the Court of First Instance and was thus authorised only to submit its observations during the oral procedure in the light
+         of the Report for the Hearing, it was subsequently invited, by decision of April 2005, taken on the basis of Articles and of those rules, to submit a statement in intervention. Moreover, by decision of May 2005, it was authorised to receive
+         a copy of the application, the defence, the reply and the rejoinder. It is therefore apparent that, notwithstanding the fact
+         that Eurocontrol intervened in the proceedings before the Court of First Instance after the expiry of the six‑week period
+         prescribed in Article 115(1) of those rules, it was ultimately permitted to participate in both the written and the oral procedure.
+         
+      
+While, in accordance with Article of the Rules of Procedure of the Court of First Instance, that court may, inter alia,
+         by way of measures of organisation of procedure, invite the parties, including the intervener, to make written submissions
+         on certain aspects of the dispute, that provision does not in any way contemplate the possibility that an intervener who has
+         intervened in the proceedings after the aforementioned period should be invited to submit a statement in intervention or that
+         he should be given access to the pleadings in the case, since such measures do not in any event correspond to the purpose
+         of measures of organisation of procedure, as set out in Article 64(2) of those rules. 
+      
+It follows that, by inviting Eurocontrol to submit a statement in intervention and authorising it to receive a copy of the
+         pleadings in the case, the Court of First Instance failed to comply with the provisions in Article 116(6) of its Rules of
+         Procedure and the judgment under appeal is, therefore, vitiated on account of a defect. 
+      
+However, under Article of the Statute of the Court of Justice, an appeal can succeed only if the breach of procedure committed
+         by the Court of First Instance has adversely affected the appellant’s interests. In the present case, Selex has failed to
+         demonstrate that the breach on which it relies has adversely affected its interests. Moreover, there is absolutely no indication
+         that that breach could have had any effect whatsoever on the outcome of the proceedings. 
+      
+As a consequence, the plea in question cannot succeed. 
+      
+2.     The second and third pleas, alleging infringement of Article 48(2) of the Rules of Procedure of the Court of First Instance
+By its second plea, Selex submits that the Court of First Instance infringed Article 48(2) of its Rules of Procedure by distorting
+         in a serious and manifest fashion the matters of fact which led it to reject as inadmissible the new pleas which the appellant
+         introduced on the basis of the content of the letter of November lodged by the Commission in the course of the proceedings.
+         It maintains that, at paragraphs 12, and of the judgment under appeal, the Court of First Instance distorted the content
+         of a letter of November addressed by the Commission to the appellant, which did not make any reference at all to the
+         letter of November 1998, in order to assert that there was no justification for its submission that it was only as a result
+         of reading the letter from the Director of Eurocontrol of July annexed to the defence that it had become aware of the
+         fact that the letter of November was not merely a cover note accompanying the dispatch of the complaint but also contained
+         an analysis of the complaint signed by two Directors-General. 
+      
+By its third plea, Selex complains that the Court of First Instance rejected its new pleas without taking account of the Commission’s
+         conduct during the administrative procedure and the procedure before the Court of First Instance, even though the introduction
+         of the new pleas was the result of the Commission’s refusal dutifully to produce all relevant documents, in particular the
+         letter of November 1998. The Court of First Instance therefore interpreted and applied Article 48(2) of its Rules of Procedure
+         restrictively. 
+      
+However, it is clear from reading the letter of November referred to above that the Commission informed the appellant
+         in that letter that, further to its complaint and a letter of September from the appellant, it had assessed the legal
+         and economic aspects raised in the complaint and, without prejudice to the application of Community competition rules, contact
+         had been made with Eurocontrol in order to invite it to submit its comments on the facts and conclusions set out in the complaint.
+         That letter stated that, by letter signed by two Directors-General, namely those of the Directorate-General for Competition
+         and the Directorate-General for Transport, the Commission had drawn Eurocontrol’s attention to certain aspects of its standardisation
+         policy and that Eurocontrol had, in particular, been invited to define, in conjunction with Commission staff, a neutral and
+         consistent approach to its relationships with undertakings. 
+      
+While its letter of November does not specify the date of the letter sent to Eurocontrol or refer to the contact made
+         with that organisation, so that the appellant could not have been aware as a result of reading it that what was being referred
+         to was the letter of November and, while the letter of November refers only to Eurocontrol’s technical standardisation
+         activity, it is none the less abundantly clear from that letter that, after assessing the complaint, the Commission had invited
+         Eurocontrol to submit its comments on all the matters referred to in the complaint and had informed it in that letter of certain
+         analytical data. 
+      
+Therefore, after referring in particular to various factors set out at paragraphs to of the judgment under appeal, the
+         Court of First Instance concluded, without distorting the content of the letter of November or any other matters of
+         fact, that the appellant was not justified in submitting that it was only as a result of reading the letter of July that it had been able to be aware of the fact that the letter sent by the Commission to Eurocontrol was not merely a cover
+         note accompanying the dispatch of the complaint but that it also contained an analysis of its complaint signed by two Directors-General.
+         
+      
+In the absence of matters of law or of fact which came to light in the course of the procedure, the Court of First Instance
+         therefore correctly rejected as inadmissible, pursuant to Article 48(2) of its Rules of Procedure, the pleas in law introduced
+         by the appellant by means of a document lodged at the Registry of the Court of First Instance on April 2005, that is, after
+         the closure of the written procedure. 
+      
+Moreover, in the absence of such matters, it cannot be maintained that the introduction of new pleas in the course of the
+         proceedings was the result of a refusal or omission on the part of the Commission to communicate earlier the letters of July and November or any other document. Nor can the Court of First Instance be criticised for having applied
+         Article 48(2) of its Rules of Procedure strictly, since the Rules of Procedure are mandatory. 
+      
+Both the second and third pleas must therefore be rejected. 
+      
+3.     The fourth plea, alleging infringement of Article 66(1) of the Rules of Procedure of the Court of First Instance
+In its fourth plea, Selex submits that, by giving its decision not by way of order but only in the judgment under appeal on
+         the request for measures of inquiry which it made in the application and in the document lodged on April 2005, the Court
+         of First Instance infringed Article 66(1) of its Rules of Procedure. 
+      
+It is sufficient to point out that that provision requires an order to be made to prescribe the measures of inquiry that the
+         Court of First Instance considers appropriate but not to reject requests seeking an order for such measures, on which that
+         court can therefore, in such a case, give a ruling in the final judgment in the proceedings (see, to that effect, the order
+         of January in Case C‑162/P Entorn v Commission, paragraphs and 55). 
+      
+It follows that the fourth and last plea relating to the procedure before the Court of First Instance must also be rejected.
+         
+      
+B –  The plea alleging that Eurocontrol enjoys immunity
+1.     Whether the plea alleging immunity is inadmissible
+Eurocontrol maintains that, contrary to the assessment made by the Court of First Instance, its plea claiming immunity does
+         not constitute a new plea which alters the context of the dispute and it therefore complies with the fourth paragraph of Article
+         of the Statute of the Court of Justice and Article 116(3) of the Rules of Procedure of the Court of First Instance. It
+         states, first of all, that it had already raised that plea in its observations on the complaint of July and that the
+         Commission itself referred to the principle of immunity in the contested decision. Next, it submits, in essence, that the
+         plea of immunity and the discussion concerning its standing as an undertaking have the same purpose and are based on the same
+         matters of law and of fact, since its immunity simply forms the basis of a further legal argument in addition to those put
+         forward by the Commission in support of its submission that Article EC does not apply to the activities in question and
+         that the application should be dismissed. 
+      
+However, as the Court of First Instance pointed out in the judgment under appeal, under Article 116(3) of the Rules of Procedure
+         an intervener must accept the case as he finds it at the time of his intervention and, under the fourth paragraph of Article
+         of the Statute of the Court of Justice, the submissions made in an application to intervene are to be limited to supporting
+         the submissions of one of the parties. According to established case‑law, those provisions do not prevent an intervener from
+         using arguments that are new or different to those used by the party it supports, provided the intervener seeks to support
+         that party’s submissions (see Case 30/De Gezamenlijke Steenkolenmijnen in Limburg v High Authorithy [1961] ECR 1, and Case C‑245/P Chemie Linz v Commission [1999] ECR I‑4643, paragraph 32). 
+      
+In that regard, it should be borne in mind, first, that the Commission submitted before the Court of First Instance that Selex’s
+         action should be dismissed. Second, the contested decision concluded, at paragraphs to thereof, that Community law was
+         applicable to Eurocontrol and rejected the complaint principally on the ground that the activities that were the subject of
+         the complaint were not economic in nature, so that Eurocontrol could not be regarded as an undertaking for the purpose of
+         Article EC. The pleas put forward by the Commission before the Court of First Instance in support of its submission that
+         Selex’s action against that decision should be dismissed were based on the same grounds. 
+      
+Accordingly, it is apparent that Eurocontrol’s plea of immunity cannot be regarded as seeking to support the Commission’s
+         submissions since, in actual fact, that plea seeks a ruling that the activities of Eurocontrol are not subject to Community
+         law and that that international organisation enjoys, in particular, immunity as regards investigations carried out by the
+         Commission in competition matters. As the Advocate General observed at point of her Opinion, acceptance of that plea would
+         render the contested decision unlawful, which might lead to it being annulled but not to the action being dismissed, as the
+         Commission contended it should be before the Court of First Instance. 
+      
+The reasons set out above are sufficient to justify the conclusion arrived at by the Court of First Instance at paragraph
+         of the judgment under appeal that the plea raised by Eurocontrol was inadmissible in the light of the fourth paragraph
+         of Article of the Statute of the Court of Justice and Article 116(3) of the Rules of Procedure of the Court of First Instance.
+         
+      
+2.     Eurocontrol’s submissions that its plea of immunity is a plea which must be considered by the Community judicature of its
+         own motion and should be upheld by the Court in order to dismiss the appeal
+      
+Eurocontrol considers that the appellant’s complaint should in any event have been rejected since, under international public
+         law, its activities are not subject to Community law and, in particular, enjoy immunity as regards investigations carried
+         out by any contracting party in relation to competition matters. It points out that both it and the European Commission are
+         international organisations whose members are States which are, to some extent, different and operate within two separate
+         independent legal systems, so that, on the basis of the general principle par in parem non habet imperium (an equal has no authority over an equal), the Community does not have the power to make it subject to its own rules. 
+      
+The Community, which approved the protocol on accession to Eurocontrol by Council Decision 2004/636/EC of April on
+         the conclusion by the European Community of the Protocol on the accession of the European Community to the European Organisation
+         for the Safety of Air Navigation (OJ L 304, p. 209) and agreed with the other contracting parties to apply Articles to of the protocol on a provisional basis, must, in accordance with the principle of good faith recognised in Article of the Vienna Convention of May on the Law of Treaties, refrain from any act which could defeat the object and purpose
+         of the ‘Eurocontrol’ International Convention on Cooperation for the Safety of Air Navigation signed in Brussels on December
+         1960, as revised and consolidated by the Protocol of June (‘the Convention on the Safety of Air Navigation’). Moreover,
+         the Community can exercise its powers only in accordance with the limits imposed by international public law. 
+      
+Eurocontrol submits that the same conclusion follows from the customary rule of international public law under which inter-governmental
+         organisations enjoy immunity, which confers absolute protection and, at the very least, protects the activities in question
+         in the present proceedings, since those activities form an essential part of Eurocontrol’s institutional objectives and are
+         not, in any event, acts of a commercial nature. Eurcontrol points out that, if the Community had the right to undertake investigations
+         in competition cases concerning the exercise of Eurocontrol’s public powers, it could, in point of fact, determine unilaterally
+         the manner in which Eurocontrol pursues its institutional activities, disregard the principles laid down in the Convention
+         on the Safety of Air Navigation concerning decision making and infringe the rights of the other contracting parties. 
+      
+Eurocontrol considers that the question of its immunity, set out in such terms, falls within the same category as that of
+         fundamental questions of public policy which the Community judicature must raise of its own motion. At the hearing, it presented
+         that question expressly from the angle that the Commission lacked competence to give a substantive view on the measures sought
+         by the appellant. 
+      
+It should be noted that the Court held in SAT Fluggesellschaft that it had jurisdiction, under Article EC, to rule on the interpretation of the Treaty provisions in a case involving
+         a dispute before the national court between a private company and Eurocontrol concerning, inter alia, the application of Community
+         competition rules. In that judgment, the Court held that the question whether the rules of Community law may be relied upon
+         as against Eurocontrol is connected with the substance of the case and has no bearing on the jurisdiction of the Court. 
+      
+Since the Commission is required under Article EC to ensure that the provisions of the Treaty are applied, it also acted
+         within its powers in examining Selex’s complaint and rejecting it by taking the view that Article EC was not applicable
+         to Eurocontrol. 
+      
+Accordingly, there is no need for the Court to examine of its own motion the submissions made by Eurocontrol regarding its
+         immunity. 
+      
+C –  The pleas relating to the substantive merits
+As regards the substantive merits, Selex raises a number of pleas alleging errors of law made by the Court of First Instance
+         relating to the applicability of Article EC to the activities of Eurocontrol at issue, namely the activities of assisting
+         the national administrations, technical standardisation and research and development, and to the infringement of that provision.
+         The Commission contends that the appeal should be dismissed but seeks an amendment of the grounds of the judgment under appeal
+         as regards the first two activities. 
+      
+1.     The pleas relating to the applicability of Article EC to the activity of assisting the national administrations and alleging
+         infringement of that provision
+      
+With regard to the assistance provided by Eurocontrol to the national administrations, Selex puts forward five pleas in law
+         in support of its appeal, the first of which alleges distortion of the content of the contested decision, the second and third
+         that the reasoning is contradictory, the fourth infringement of Community case‑law on the limits of judicial review and the
+         fifth manifest error of assessment as regards the infringement of Article EC. Taking the view that the Court of First Instance
+         erred in law by regarding the activity as an economic one, the Commission seeks an amendment of the grounds of the judgment
+         under appeal, which would render the examination of the grounds of appeal nugatory, and, in the alternative, submits that
+         those grounds should be rejected. 
+      
+Clearly, if such an error in law had been made, the very premiss underlying the reasons on which the judgment under appeal
+         is based, which are criticised in the five grounds of appeal under consideration, would be undermined. In that case, there
+         would be absolutely no basis for that reasoning and the five grounds of appeal in question would therefore be redundant. 
+      
+It follows that the Court cannot rule on the five pleas in question without considering whether or not the reasoning which
+         led the Court of First Instance to consider that the assistance provided by Eurocontrol to the national administrations was
+         to be regarded as an economic activity was incorrect. 
+      
+It should be borne in mind in this regard, as the Court of First Instance observed at paragraph of the judgment under appeal,
+         that any activity consisting in offering goods or services on a given market is an economic activity (Case 118/Commission v Italy [1987] ECR 2599, paragraph 7; Joined Cases C‑180/to C‑184/Pavlov and Others [2000] ECR I‑6451, paragraph 75; and Case C‑49/MOTOE [2008] ECR I‑0000, paragraph 22). 
+      
+It should also be borne in mind that, according to the case‑law of the Court of Justice, activities which fall within the
+         exercise of public powers are not of an economic nature justifying the application of the Treaty rules of competition (see,
+         to that effect, Case 107/Commission v Germany [1985] ECR 2655, paragraphs and 15; SAT Fluggesellschaft, paragraph 30; and MOTOE, paragraph 24) 
+      
+In SAT Fluggesellschaft, the Court, while not specifically ruling on Eurocontrol’s activity of assisting the national administrations, considered
+         at paragraph of that judgment that, taken as a whole, Eurocontrol’s activities, by their nature, their aim and the rules
+         to which they are subject, are connected with the exercise of powers relating to the control and supervision of air space,
+         which are typically those of a public authority and are not of an economic nature. The Court therefore held that Articles
+         and of the Treaty (now Articles EC and EC) must be interpreted as meaning that an international organisation such
+         as Eurocontrol is not an undertaking for the purposes of those provisions. 
+      
+Contrary to what Selex maintains, that conclusion also applies with regard to the assistance which Eurocontrol provides to
+         the national administrations, when so requested by them, in connection with tendering procedures carried out by those administrations
+         for the acquisition, in particular, of equipment and systems in the field of air traffic management. 
+      
+It is apparent from Article of the Convention on the Safety of Air Navigation that, in order to achieve harmonisation and
+         integration with the aim of establishing a uniform European air traffic management system, the purpose of Eurocontrol is to
+         strengthen cooperation among the contracting parties and to develop their joint activities in the field of air navigation,
+         making due allowance for defence needs and providing maximum freedom for all airspace users consistent with the required level
+         of safety. 
+      
+To that end, under Article 1(e), (f) and (h) of that convention, the functions of Eurocontrol are, inter alia, to adopt and
+         apply common standards and specifications, to harmonise air traffic services regulations and to encourage common procurement
+         of air traffic systems and facilities. 
+      
+Article 2(2)(a) of the Convention on the Safety of Air Navigation provides that Eurocontrol may, at the request of one or
+         more contracting parties and on the basis of a special agreement or agreements between it and the contracting parties concerned,
+         assist such contracting parties in the planning, specification and setting up of air traffic systems and services. 
+      
+It can be inferred from the Convention on the Safety of Air Navigation that the activity of providing assistance is one of
+         the instruments of cooperation entrusted to Eurocontrol by that convention and plays a direct role in the attainment of the
+         objective of technical harmonisation and integration in the field of air traffic with a view to contributing to the maintenance
+         of and improvement in the safety of air navigation. That activity takes the form, inter alia, of providing assistance to the
+         national administrations in the implementation of tendering procedures for the acquisition of air traffic management systems
+         or equipment and is intended to ensure that the common technical specifications and standards drawn up and adopted by Eurocontrol
+         for the purpose of achieving a harmonised European air traffic management system are included in the tendering specifications
+         for those procedures. It is therefore closely linked to the task of technical standardisation entrusted to Eurocontrol by
+         the contracting parties in the context of cooperation among States with a view to maintaining and developing the safety of
+         air navigation and is thus connected with the exercise of public powers. 
+      
+The Court of First Instance therefore made an assessment that was erroneous in law in finding that the activity of assisting
+         the national administrations was separable from Eurocontrol’s tasks of air space management and development of air safety
+         by considering that that activity had an indirect relationship with air navigation safety, on the ground that the assistance
+         provided by Eurocontrol covered only technical specifications in the implementation of tendering procedures and therefore
+         affected air navigation safety only as a result of those procedures. 
+      
+The other grounds set out in the judgment under appeal in that connection, to the effect that Eurocontrol provides assistance
+         to the national administrations only on their request and the activity is therefore not essential or indispensable to ensuring
+         the safety of air navigation, are not capable of demonstrating that the activity in question is not connected with the exercise
+         of public powers. 
+      
+The fact that the assistance provided by Eurocontrol is optional and that, as the case may be, only certain Member States
+         have recourse to it cannot preclude such a connection or alter the nature of the activity. Moreover, in order for there to
+         be a connection with the exercise of public powers, it is not necessary for the activity concerned to be essential or indispensable
+         to ensuring the safety of air navigation, since what matters is that the activity is connected with the maintenance and development
+         of air navigation safety, which constitute public powers. 
+      
+It follows from all the foregoing considerations that the Court of First Instance erred in law by regarding Eurocontrol’s
+         activity of assisting the national administrations as an economic activity and, as a consequence, on the basis of grounds
+         that were erroneous in law, considering that Eurocontrol was, in the exercise of that activity, an undertaking within the
+         meaning of Article EC. Consequently, it erred in upholding, to that extent, the first plea in law expounded before it by
+         the appellant alleging a manifest error of assessment as to the applicability of Article EC to Eurocontrol. 
+      
+However, it must be borne in mind that, if the grounds of a judgment of the Court of First Instance disclose an infringement
+         of Community law but its operative part is shown to be well founded on other legal grounds, the appeal must be dismissed (see,
+         Case C‑30/P Lestelle v Commission [1992] ECR I‑3755, paragraph 28; Case C‑210/P Salzgitter v Commission [2000] ECR I‑5843, paragraph 58; and Case C‑312/P Commission v Camar and Tico [2002] ECR I‑11355, paragraph 57).
+      
+In the present case, it is apparent from the grounds set out at paragraphs to above that Eurocontrol’s activity of assisting
+         the national administrations is connected with the exercise of public powers and that, in any event, it is not in itself economic
+         in nature, so that, in carrying out that activity, the organisation is not an undertaking within the meaning of Article EC. The contested decision is not, therefore, vitiated by any error in that regard. 
+      
+It follows that the operative part of the judgment under appeal, which dismissed the action, remains well founded in law and,
+         accordingly, the fact that there is an error in law in the grounds of the judgment under appeal does not mean that it must
+         be set aside. 
+      
+The five pleas put forward by Selex relate to the grounds of the judgment under appeal by which the Court of First Instance,
+         after concluding that Eurocontrol’s activity of assisting the national administrations was an economic activity and Eurocontrol
+         was therefore, in the exercise of that activity, an undertaking within the meaning of Article EC, rejected the second plea
+         relied on by the appellant in support of its action, alleging a manifest error of assessment on the part of the Commission
+         as to the existence of an infringement of Article EC. 
+      
+It follows from the reasons set out above that, since Eurocontrol was not, in the exercise of its activity of assisting the
+         national administrations, an undertaking within the meaning of Article EC, that provision is not applicable to that activity.
+         Therefore, the five pleas put forward by Selex criticising the grounds of the judgment under appeal relating to the alleged
+         infringement of Article EC must be rejected as they are redundant. 
+      
+2.     The pleas relating to the applicability of Article EC to the activity of technical standardisation
+With regard to the activity of technical standardisation exercised by Eurocontrol, Selex relies on four grounds in support
+         of its appeal, alleging distortion of the content of the contested decision, the adoption of a concept of economic activity
+         that is at variance with that established in Community case‑law, misapplication of the case‑law on social benefits and breach
+         of the obligation to state adequate grounds. Taking the view that the distinction made in the judgment under appeal between
+         the activity of adopting technical standards, which forms part of the task of managing air space and developing air safety,
+         and that of the preparation and production of such standards, which does not form part of that task, was incorrect, the Commission
+         seeks an amendment of the grounds on that point and, as to the remainder, contends that the grounds of the appeal should be
+         dismissed. 
+      
+Clearly, if such an error had been made, the very premiss underlying some of the reasons on which the judgment under appeal
+         is based, which are criticised in the plea alleging that a concept of economic activity was adopted that is at variance with
+         that established in Community case‑law, would be undermined. In such a case, there would be absolutely no basis for that reasoning
+         and the plea in question would therefore be redundant. 
+      
+In those circumstances, as stated at paragraph above, the Court cannot rule on the plea in question without considering
+         whether or not the reasoning which led the Court of First Instance to consider, in essence, that, unlike the activity of adopting
+         technical standards, that of preparing and producing such standards was separable from the task of air space management and
+         development of air safety, so that it could be regarded as an economic activity, was incorrect. 
+      
+In order to draw the distinction complained of, the Court of First Instance first of all stated, at paragraph of the judgment
+         under appeal, that the adoption by the Council of Eurocontrol of standards drawn up by the executive organ of that organisation
+         is a legislative activity, since the Council of Eurocontrol is made up of directors of the civil aviation administration of
+         each contracting Member State, appointed by their respective States for the purpose of adopting technical specifications which
+         will be binding in all those States. According to the grounds of the judgment under appeal, that activity is directly connected
+         with the exercise by those States of their powers of public authority, Eurocontrol’s role thus being akin to that of a minister
+         who, at national level, prepares legislative or regulatory measures which are then adopted by the government. This activity
+         therefore falls within the public tasks of Eurocontrol.
+      
+The Court of First Instance then stated, at paragraph of the judgment under appeal, that the preparation and production
+         of technical standards by Eurocontrol could, conversely, be separated from its tasks of managing air space and developing
+         air safety. As justification for that assessment, it considered that the arguments advanced by the Commission to prove that
+         Eurocontrol’s standardisation activities were connected with that organisation’s public service mission related, in fact,
+         only to the adoption of those standards and not to the production of them, since the need to adopt standards at international
+         level does not necessarily mean that the body which sets those standards must also be the one which subsequently adopts them.
+      
+However, Article 2(1)(f) of the Convention on the Safety of Air Navigation provides that Eurocontrol is responsible for developing,
+         adopting and keeping under review common standards, specifications and practices for air traffic management systems and services.
+         It is therefore clear that the contracting States entrusted Eurocontrol with both the preparation and production of standards
+         and with their adoption, without separating those functions. 
+      
+Moreover, the preparation and production of technical standards plays a direct role in the attainment of Eurocontrol’s objective,
+         defined in Article of the Convention on the Safety of Air Navigation and referred to at paragraph above, which is to
+         achieve harmonisation and integration with the aim of establishing a uniform European air traffic management system. Those
+         activities form an integral part of the task of technical standardisation entrusted to Eurocontrol by the contracting parties
+         in the context of cooperation among States with a view to maintaining and developing the safety of air navigation, which constitute
+         public powers. 
+      
+It follows that the judgment under appeal is vitiated by an error in law in that it states that the preparation and production
+         of technical standards by Eurocontrol can be separated from its task of managing air space and developing air safety. However,
+         that error does not affect the Court of First Instance’s conclusion, which is based on other grounds, that the Commission
+         did not make a manifest error of assessment in taking the view that Eurocontrol’s technical standardisation activities were
+         not economic activities and that the competition rules of the Treaty did not apply therefore to them. It must therefore be
+         held once again that the fact that there is an error of law in the grounds of the judgment under appeal does not mean that
+         that judgment must be set aside. 
+      
+a)     The plea alleging that a concept of economic activity was adopted that is at variance with that established in Community case‑law
+Selex states, in support of this plea, that the Court of First Instance’s assessment that it had failed to show that there
+         was a market for technical standardisation services has no bearing on the assessment as to whether that is an economic activity
+         and is inaccurate, since, in the contested decision, the Commission accepted its proposed definition of the market in question.
+         It submits that, contrary to the finding of the Court of First Instance, Eurocontrol does indeed offer to the States an independent
+         service for the production of technical standards. In any event, the fact that the activity in question does not entail offering
+         goods or services on a given market is irrelevant in the light of the case‑law and the Commission’s practice. What matters
+         is that the activity may be regarded intrinsically and objectively as an economic activity. 
+      
+Moreover, the grounds set out at paragraph of the judgment under appeal, by which the Court of First Instance held that
+         the activity of producing standards was not an economic activity on the basis that those standards are subsequently adopted
+         by the Council of Eurocontrol, contradict the grounds set out at paragraphs and of that judgment, by which that court
+         made a distinction between the production of technical standards and their adoption. 
+      
+It must be pointed out that it is apparent from the reasons given at paragraphs and above that Eurocontrol’s technical
+         standardisation activity, as a whole, is connected with the exercise of public powers and, consequently, is not economic in
+         nature. 
+      
+It follows that the plea under consideration, by which Selex criticises the grounds of the judgment under appeal which led
+         the Court of First Instance to conclude that the appellant had failed to demonstrate that the activity of technical standardisation
+         consisted in offering goods or services on a given market, is redundant. 
+      
+b)     The plea alleging distortion of the content of the contested decision
+By this plea, Selex maintains that, by stating at paragraphs and of the judgment under appeal that the contested decision
+         was based on the double finding that Eurocontrol was not an undertaking and that, in any event, the conduct complained of
+         was not contrary to Article EC, the Court of First Instance distorted the content of that decision, which is based solely
+         on the assessment of the economic nature of the activity in question and does not contain any assessment as to whether there
+         was abuse of a dominant position. What the Court of First Instance in fact did was to reproduce a stylistic formula used by
+         the Commission, without considering whether such a formula contained even a basic statement of reasons, and substituted its
+         own reasoning for that which had in fact been adopted by the Commission. 
+      
+It is sufficient to state, in that regard, that this plea is invalid, since the Court of First Instance rejected the action
+         on the ground that the Treaty rules on competition were not applicable to Eurocontrol’s technical standardisation activity
+         and it did not, therefore, consider the second plea put forward by the appellant, alleging a manifest error of assessment
+         as to whether Eurocontrol infringed Article EC. 
+      
+The plea in question must, therefore, be rejected. 
+      
+c)     The plea alleging misapplication of the Community case‑law on social benefits 
+By this plea, Selex submits that the Court of First Instance wrongly rejected its argument that the reasoning employed in
+         FENIN v Commission could not be applied to the present case, in which there is no element of solidarity present in the activity in question.
+         However, according to the case‑law, that element may be decisive, depending on the extent to which it is present, for the
+         purpose of determining whether the activity concerned is that of an undertaking. 
+      
+However, first of all, the Court of First Instance did not err in law when it stated, at paragraph of the judgment under
+         appeal, referring to the judgment in FENIN v Commission, that it would be incorrect, when determining whether or not a given activity is economic, to dissociate the activity of
+         purchasing goods from the subsequent use to which they are put and that the nature of the purchasing activity must therefore
+         be determined according to whether or not the subsequent use of the purchased goods amounts to an economic activity (see Case
+         C‑205/P FENIN v Commission [2006] ECR I‑6295, paragraph 26). The Court of First Instance correctly concluded from this that the fact that technical
+         standardisation is not an economic activity means that the acquisition of prototypes in connection with that standardisation
+         is not an economic activity either. 
+      
+Secondly, the Court of First Instance was also fully entitled to reject the appellant’s argument that that reasoning could
+         not be transposed to the present case. That reasoning can obviously be applied to activities other than those that are social
+         in nature or are based on solidarity, since those factors do not constitute conditions for the purpose of determining that
+         an activity is not of an economic nature but are simply factors to be taken into account, where appropriate, for the purpose
+         of categorising an activity in accordance with the case‑law cited at paragraphs and above. 
+      
+It follows that the plea in question must be rejected. 
+      
+d)     The plea alleging breach of the obligation to state adequate grounds
+Selex complains that adequate grounds are not given at paragraphs to of the judgment under appeal as regards the determination
+         of the standardisation market. It observes that the Court of First Instance had available to it a definition of the market
+         in question, proposed by the appellant and not challenged by the Commission in the contested decision, but disregarded that
+         definition without providing any arguments in support of its own different assessment and without referring to the technical
+         and legal aspects of the issue set out by the parties. 
+      
+It must be pointed out that, contrary to what Selex maintains, the Commission did not, in the contested decision, express
+         a view on the definition of the market that would be pertinent but it did consider, as it subsequently also maintained before
+         the Court of First Instance, that the activity of technical standardisation was not an economic one. Reaching the same conclusion,
+         the Court of First Instance set out, at paragraphs to of the judgment under appeal, the grounds which led it to consider
+         that the appellant had failed to show that the activity of technical standardisation consisted in offering goods or services
+         on a given market. 
+      
+The Court of First Instance was thus able, without there being any need to set out all the technical aspects and the arguments
+         put forward by the parties, to give sufficient reasons for its conclusion, enabling the parties to be apprised of those reasons
+         and the Court to exercise its power of review and it therefore follows that the plea must be rejected. 
+      
+3.     The pleas relating to the applicability of Article EC to the activity of research and development
+With regard to Eurocontrol’s research and development activities, Selex relies on three pleas in support of its appeal, alleging
+         distortion of the content of the contested decision, the adoption of a concept of economic activity which is at variance with
+         that established in Community case‑law and distortion of the evidence produced by it concerning the economic nature of the
+         management of the regime of intellectual property rights. 
+      
+a)     The plea alleging distortion of the content of the contested decision
+By this plea, Selex submits that the judgment under appeal manifestly distorts the content of the contested decision in so
+         far as it states that there is no basis in that decision for the assertion that the Commission did not dispute the economic
+         nature of the acquisition of prototypes and the management of intellectual property rights, whereas a simple reading of the
+         decision shows that the Commission never disputed that point but simply disputed the existence of an abuse of a dominant position.
+         The Court of First Instance therefore ascribed to the contested decision a content that is not borne out by the facts and
+         substituted its own reasoning for that in the decision. 
+      
+It is sufficient to state that there is no basis for this plea, since the Commission expressly stated at paragraphs and
+         of the contested decision that it considered Eurocontrol’s activities that were the subject of the complaint not to be
+         of an economic nature. That assessment is also apparent from paragraph of the contested decision, which relates to the
+         management of intellectual property rights. 
+      
+Even if that plea had in fact been directed at a lack of reasoning in the contested decision, as the Commission observes,
+         it is inadmissible since it was raised for the first time at the appeal stage. 
+      
+That plea must therefore be rejected. 
+      
+b)     The plea alleging that a concept of economic activity was adopted that is at variance with that established in Community case-law
+By this plea, Selex criticises, first, what is stated at paragraph of the judgment under appeal, namely that the acquisition
+         of prototypes is an activity which is subsidiary to their development, which is carried out by third parties. It points out
+         that the activity in question is indeed that of acquiring prototypes, which precedes the definition of technical specifications,
+         and it is therefore of little consequence that the development of prototypes is carried out by third parties. 
+      
+It is clearly not on that ground that the Court of First Instance held that the Commission did not make a manifest error of
+         assessment when it took the view that the research and development activity financed by Eurocontrol was not an economic activity
+         and that the rules on competition were not applicable to it. Indeed, it is apparent from paragraph of the judgment under
+         appeal that the Court of First Instance considered that the acquisition of prototypes in the context of that activity and
+         the related management of intellectual property rights did not make that activity an economic one, since the acquisition did
+         not involve the offer of goods or services on a given market. Moreover, for the reasons set out at paragraph above, that
+         analysis is untainted by errors of law. 
+      
+Next, Selex criticises the judgment under appeal for stating, at paragraph 77, that intellectual property rights were not
+         acquired for the purpose of their commercial exploitation and that the licences were granted at no cost. Those assertions,
+         even if they were true, are in conflict with the case‑law which states that the fact that an entity does not seek to make
+         a profit is irrelevant for the purpose of determining whether it is an undertaking. 
+      
+Contrary to those submissions, it is apparent from the case‑law that the fact that a body is non‑profit‑making is a relevant
+         factor for the purpose of determining whether or not an activity is of an economic nature but it is not sufficient of itself
+         (see, inter alia, to that effect, Case C‑244/Fédération française des sociétés d’assurance and Others [1995] ECR I‑4013, paragraph 21; Case C‑67/Albany [1999] ECR I‑5751, paragraph 85; and Case C‑237/Enirisorse [2006] ECR I‑2843, paragraph 31). 
+      
+Accordingly, the Court of First Instance did not err in law when, after pointing out that, when assessing whether a given
+         activity is an economic activity, the absence of remuneration is only one indication among several others and cannot by itself
+         exclude the possibility that the activity in question is economic in nature, it considered that the fact that Eurocontrol
+         granted licences relating to the prototypes at no cost indicated that the management of intellectual property rights was not
+         an economic activity, an indication that was also supported by other evidence. 
+      
+Lastly, according to Selex, it was contrary to the case‑law to state, at paragraph of the judgment under appeal, that the
+         management of intellectual property rights is ancillary to the promotion of technical development, forming part of the aims
+         of Eurocontrol’s public service tasks and not being pursued in its own interest, separable from those aims, which excludes
+         the possibility that the activity in question is economic in nature. Selex submits, first, referring to the judgment in Enirisorse, that it has already been held that the task of developing new technologies may be economic in nature and, second, referring
+         to that judgment and to the judgment in Case C‑475/Ambulanz Glöckner [2001] ECR I‑8089, paragraph 21, that the fact that an operator may have public service obligations does not prevent the
+         activity in question from being regarded as an economic activity. 
+      
+On that point, it must be noted that the grounds of the judgment under appeal that are the subject of criticism do not in
+         any way preclude the possibility that technological development may be an economic activity and nor do they preclude the possibility
+         that an entity which has public service obligations can pursue an activity of that nature. The Court of First Instance simply
+         assessed the factors specific to the case and, without erring in law or falling foul of the case‑law invoked, deduced from
+         the fact that no charge was made for the management of intellectual property rights and the fact that Eurocontrol’s mission
+         was pursued purely in the interests of public service – the activity forming part of that mission and being ancillary to that
+         of promoting technical development – that the activity was not economic in nature. 
+      
+Since there is no foundation for any of the arguments put forward, this plea must also be rejected. 
+      
+c)     The plea alleging distortion of the evidence produced by the appellant concerning the economic nature of the management of
+         the regime of intellectual property rights
+      
+By this plea, Selex complains that, at paragraph of the judgment under appeal, the Court of First Instance distorted assertions
+         it made at the hearing concerning remuneration received by Eurocontrol when that court stated that those assertions were based
+         on an internal Eurocontrol document entitled ‘ARTAS Intellectual Property Rights and Industrial Policy’, dated April 1997,
+         and sought to demonstrate that Eurocontrol received payment for the management of the licences. In point of fact, it referred
+         to that document in its application simply to highlight the variety of roles played by Eurocontrol and the contradiction that
+         exists between the system of managing intellectual property rights established by Eurocontrol and the content of that document.
+         On the other hand, at the hearing, it referred to the most recent public version of that document, entitled ‘ARTAS Industrial
+         Policy’, simply to point out that it had become obvious that the activity in question was an economic one. Accordingly, it
+         submits that the Court of First Instance ascribed to its application a content that is not borne out by the facts. 
+      
+It is sufficient to observe in that regard that, if the Court of First Instance understood that the appellant’s assertion
+         that the licences granted by Eurocontrol were not free of charge was based on the document referred to in its application
+         and not on the document mentioned for the first time at the hearing, that does not in any way affect its assessment that those
+         licences are free of charge or, ultimately, the conclusion it arrived at as a result of its examination of all the evidence
+         relating to research and development. 
+      
+The plea in question must therefore be rejected. 
+      
+As a result of all the foregoing considerations, the appeal must be rejected. 
+      
+V –  Costs
+Under Article 69(2) of the Rules of Procedure, which applies to appeal proceedings pursuant to Article of those rules,
+         the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings.
+         As the Commission has applied for costs to be awarded against Selex and the latter has been unsuccessful in its appeal, Selex
+         must be ordered to pay its own costs and those incurred by the Commission.
+      
+Under the first subparagraph of Article 69(3) of those rules, which also applies to appeal proceedings, where each party succeeds
+         on some and fails on other heads, the Court may order that the costs be shared or that the parties bear their own costs. In
+         the present case, the Court has decided that Selex must be ordered to pay half the costs incurred by Eurocontrol, which must
+         therefore bear half its own costs. 
+      
+On those grounds, the Court (Second Chamber) hereby:
+1.      Dismisses the appeal;
+2.      Orders SELEX Sistemi Integrati SpA to pay, in addition to its own costs, those incurred by the Commission of the European
+            Communities and half the costs incurred by the European Organisation for the Safety of Air Navigation (Eurocontrol); 
+3.      Orders the European Organisation for the Safety of Air Navigation to pay half its own costs. 
+[Signatures]
+* Language of the case: Italian.
+      
+Top  
+ 

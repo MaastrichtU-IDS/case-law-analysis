@@ -1,0 +1,123 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+May (
+*)
+‛Judicial cooperation in civil matters — Special jurisdiction in matters of tort, delict and quasi-delict — Cross-border participation by several persons in the same unlawful act — Possibility of establishing territorial jurisdiction according to the place where the act was committed by one of the perpetrators of the damage other than the defendant (‘wechselseitige Handlungsortzurechnung’)’
+In Case C-228/11,
+REQUEST for a preliminary ruling under Article TFEU from the Landgericht Düsseldorf (Germany), made by decision of April 2011, received at the Court on May 2011, in the proceedings
+Melzer
+v
+MF Global UK Ltd,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, A. Borg Barthet, J.-J. Kasel, M. Safjan (Rapporteur) and M. Berger, Judges,
+Advocate General: N. Jääskinen,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on July 2012,
+after considering the observations submitted on behalf of:
+—
+Mr Melzer, by S. Volaric-Huppert, F. Marzillier, G. Guntner and W.A. Meier, Rechtsanwälte,
+—
+MF Global UK Ltd, by C. Gierets, Rechtsanwalt,
+—
+the German Government, by T. Henze, K. Petersen and J. Kemper, acting as Agents,
+—
+the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,
+—
+the Portuguese Government, by L. Inez Fernandes, acting as Agent,
+—
+the Swiss Government, by D. Klingele, acting as Agent,
+—
+the European Commission, by A.-M. Rouchaud-Joët and W. Bogensberger, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2012,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 5(3) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1).
+The request has been made in proceedings between Mr Melzer and MF Global UK Ltd (‘MF Global’) concerning a claim for damages in relation to trading in stock market futures.
+Legal context
+European Union law
+Recital in the preamble to Regulation No 44/states that that regulation is intended, in the interests of the sound operation of the internal market, to implement ‘provisions to unify the rules of conflict of jurisdiction in civil and commercial matters and to simplify the formalities with a view to rapid and simple recognition and enforcement of judgments from Member States bound by this Regulation’.
+Recitals 11, and in the preamble to that regulation state:
+‘(11)
+The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on the defendant’s domicile and jurisdiction must always be available on this ground save in a few well-defined situations in which the subject-matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.
+(12)
+In addition to the defendant’s domicile, there should be alternative grounds of jurisdiction based on a close link between the court and the action or in order to facilitate the sound administration of justice.
+…
+(15)
+In the interests of the harmonious administration of justice it is necessary to minimise the possibility of concurrent proceedings and to ensure that irreconcilable judgments will not be given in two Member States …’
+The rules of jurisdiction are set out in Chapter II of that regulation.
+Article 2(1) of Regulation No 44/2001, which comes under Section of Chapter II, entitled ‘General provisions’, is worded as follows:
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts of that Member State.’
+Article 3(1) of that regulation, which appears in the same section, provides:
+‘Persons domiciled in a Member State may be sued in the courts of another Member State only by virtue of the rules set out in Sections to of this Chapter.’
+Article 5(1) and (3) of Regulation No 44/2001, which comes under Section of Chapter II, concerning ‘Special jurisdiction’, provides:
+‘A person domiciled in a Member State may, in another Member State, be sued:
+1.
+(a)
+in matters relating to a contract, in the courts for the place of performance of the obligation in question;
+(b)
+for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall be:
+—
+in the case of the sale of goods, the place in a Member State where, under the contract, the goods were delivered or should have been delivered,
+—
+in the case of the provision of services, the place in a Member State where, under the contract, the services were provided or should have been provided,
+(c)
+if subparagraph (b) does not apply then subparagraph (a) applies;
+…
+3.
+in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur.’
+Article 6(1) of that regulation, which appears in the same section, is worded as follows:
+‘A person domiciled in a Member State may also be sued:
+ 
+where he is one of a number of defendants, in the courts for the place where any one of them is domiciled, provided the claims are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable judgments resulting from separate proceedings’.
+German law
+Under Paragraph of the Civil Code (Bürgerliches Gesetzbuch), entitled ‘Joint participants and common purpose’:
+‘(1)
+Where several persons have caused damage by the commission of an unlawful act undertaken in common, each of them shall be liable for that act. That is also the case even where it is impossible to determine which of the persons involved caused the damage by his act.
+(2)
+Instigators and accomplices shall be treated as joint participants of the act.’
+Dispute in the main proceedings and the question referred for a preliminary ruling
+The order for reference discloses that Mr Melzer, who is domiciled in Berlin (Germany), was solicited as a client by telephone and his file was managed by Weise Wertpapier Handelsunternehmen (‘WWH’), established in Düsseldorf (Germany). That company opened an account for Mr Melzer with MF Global, a brokerage company established in London (United Kingdom). MF Global traded in futures for Mr Melzer in return for remuneration.
+In the period from to Mr Melzer paid a total of EUR into a specific account. From that amount MF Global repaid him EUR 924.on July 2003. Mr Melzer claimed the difference, that is EUR 075.12, as damages.
+MF Global invoiced Mr Melzer for USD by way of commission. It retained USD and transferred the difference, namely USD 95, back to WWH.
+Mr Melzer takes the view that he was not sufficiently informed about the risks of trading futures on stock exchanges either by WWH or by MF Global. He was also not effectively informed about the ‘kick-back’ agreement entered into between MF Global and WWH, and the conflict of interest which results from it. He claims that MF Global is liable for damages for assisting WWH deliberately and unlawfully to cause unfair harm.
+The Landgericht Düsseldorf considers that the German courts have jurisdiction under Article 5(3) of Regulation No 44/as the damage occurred in Germany. The financial loss which Mr Melzer seeks to have made good occurred in Germany because that is the Member State in which he made the payments into his account in London, and the loss sustained was to his bank account managed by a banking institution.
+Nonetheless, the referring court is unsure about its jurisdiction under Article 5(3) of Regulation No 44/2001. Since the loss was sustained in Berlin and not Düsseldorf, the place where the harmful event occurred is therefore decisive. Since MF Global only trades in London, the jurisdiction of the courts in Düsseldorf may be based only on the activities of WWH.
+According to the referring court, such a connecting factor as an alternative to the place where the harmful event, which was committed by joint perpetrators or accomplices, occurred, is admissible under German civil procedure and is, in the light of Mr Melzer’s allegations, conceivable in the present case.
+In those circumstances, the Landgericht Düsseldorf decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘In the context of jurisdiction in matters relating to tort or delict under Article 5(3) of Regulation [No 44/2001], where there is cross-border participation of several persons in a tort or delict, is reciprocal attribution of the place where the event occurred admissible for determining the place where the harmful event occurred?’
+The question referred for a preliminary ruling
+By its question, the referring court asks essentially whether Article 5(3) of Regulation No 44/must be interpreted as permitting the courts of the place where a harmful event occurred which is imputed to one of the presumed perpetrators of damage who is not a party to the dispute, to take jurisdiction over another presumed perpetrator of that damage who has not acted within the jurisdiction of the court seised.
+In its order for reference, that court takes the view that German law allows for such a possibility by way of a ‘reciprocal attribution to the place where the event occurred’. Therefore it asks about the possible application mutatis mutandis of that rule to the case before it.
+As a preliminary point, it must be noted that, according to the referring court, despite the contractual nature of the relationship between Mr Melzer and MF Global, the action in the main proceedings is based solely on the law of tort or delict. Therefore, the question referred for a preliminary ruling is limited to the interpretation of Article 5(3) of Regulation No 44/2001.
+It must also be recalled that the provisions of Regulation No 44/must be interpreted independently, by reference to its scheme and purpose (see, inter alia, Case C-189/Zuid-Chemie [2009] ECR I-6917, paragraph and the case-law cited, and Joined Cases C-509/and C-161/eDate Advertising and Others [2011] ECR I-10269, paragraph 38).
+That being the case, it must be stated that it is only by way of derogation from that fundamental principle laid down in Article 2(1) of Regulation No 44/2001, attributing jurisdiction to the courts of the defendant’s domicile, that Section of Chapter II thereof makes provision for certain special jurisdictional rules, such as that laid down in Article 5(3) of that regulation.
+In so far as the jurisdiction of the court of the place where the harmful event occurred or may occur constitutes a rule of special jurisdiction, it must be interpreted restrictively and cannot give rise to an interpretation going beyond the cases expressly envisaged by Regulation No 44/(see, by analogy, Zuid-Chemie, paragraph 22).
+The fact remains that the expression ‘place where the harmful event occurred or may occur’ in Article 5(3) of Regulation No 44/is intended to cover both the place where the damage occurred and the place of the event giving rise to it, so that the defendant may be sued, at the option of the applicant, in the courts for either of those places (Case C-523/Wintersteiger [2012] ECR, paragraph and the case-law cited).
+In that connection, according to settled case-law, the rule of special jurisdiction laid down in Article 5(3) of Regulation No 44/is based on the existence of a particularly close connecting factor between the dispute and the courts of the place where the harmful event occurred or may occur, which justifies the attribution of jurisdiction to those courts for reasons relating to the sound administration of justice and the efficacious conduct of proceedings (see, to that effect, Zuid-Chemie, paragraph 24, and eDate Advertising and Others, paragraph 40).
+In matters relating to tort, delict and quasi-delict, the courts for the place where the harmful event occurred are usually the most appropriate for deciding the case, in particular on the grounds of proximity and ease of taking evidence (see, to that effect, Case C-167/Henkel [2002] ECR I-8111, paragraph 46, and Zuid-Chemie, paragraph 24).
+Since the identification of one of the connecting factors recognised by the case-law set out in paragraph of this judgment thus enables the court objectively best placed to determine whether the elements establishing the liability of the person sued are present to take jurisdiction, the relevant connecting factor must be situated within the jurisdiction of the court seised (see, to that effect, Case C-133/Folien Fischer and Fofitec [2012] ECR, paragraph 52).
+It must be stated in that regard that the question referred does not concern the identification of the place where the damage occurred but, as the Advocate General observed in point of his Opinion, the interpretation of the concept of ‘the place of the event giving rise to the damage’, in a situation in which the legal person sued before the referring court is not sued because of an act it committed within the jurisdiction of that court, but because of an act allegedly committed by another.
+In circumstances such as those described in the order for reference, in which only one among several presumed perpetrators of an alleged harmful act is sued before a court within whose jurisdiction it has not acted, the connecting factor based on the defendant’s acts is, as a matter of principle, absent.
+In those circumstances, the court seised must, in order to take jurisdiction under Article 5(3) of Regulation No 44/2001, establish why the place of the event giving rise to the damage must none the less be regarded as having taken place within its jurisdiction. That would require an assessment similar to that to be undertaken in order to examine the substance of the dispute even at the stage of examining jurisdiction.
+The question might arise under what conditions, where there are a number of perpetrators, the acts of one of them could be imputed to the others in order to sue the latter before the courts in whose jurisdiction those acts have taken place. In the absence of a concept common to the national legal systems and the European Union enabling such imputation to be made, the national court would probably refer to its national law.
+That is demonstrated by the fact that the alternative connecting factor to the place of the event giving rise to the damage committed by another that the referring court envisages for that purpose is based on a rule of German law on civil liability, namely Paragraph of the Civil Code.
+The use of national legal concepts in the context of Regulation No 44/would give rising to different outcomes among the Member States liable to compromise the aim of unifying the rules of jurisdiction pursued by that regulation, as is clear from recital in the preamble thereto (see, by analogy, Case C-543/Refcomp [2013] ECR, paragraph 39).
+Furthermore, a solution which consists in making the identification of the connecting factor dependent on assessment criteria having their source in national substantive law would be contrary to the objective of legal certainty since, depending on the applicable law, the actions of a person which took place in a Member State other than that of the court seised might or might not be classified as the event giving rise to the damage for the purpose of the attribution of jurisdiction under Article 5(3) of Regulation No 44/2001. That solution would not allow the defendant reasonably to predict the court before which he might be sued.
+Moreover, in so far as it would lead to allowing the presumed perpetrator of a harmful act to be sued before the courts of a Member State within whose jurisdiction he has not acted, on the basis that the event giving rise to the damage occurred there, that solution would go beyond the situations expressly envisaged in that regulation and, consequently, would be contrary to its general scheme and objectives.
+That being said, it must be recalled that the fact that it is impossible for the court within whose jurisdiction the presumed perpetrator did not himself act to take jurisdiction on the ground that it is the place of the event giving rise to the damage in no way compromises the applicability of the rules of jurisdiction, both general and special, laid down by Regulation No 44/2001, in particular that in Article 5(1) thereof.
+The fact remains that the perpetrator of a harmful act may always be sued, pursuant to Article 5(3) of that regulation, before the courts in whose jurisdiction he acted or, otherwise, in accordance with the general rule, before the court for the place where he is domiciled.
+Furthermore, as the Advocate General observed, in point of his Opinion, the attribution of jurisdiction to hear disputes against persons who have not acted within the jurisdiction of the court seised remains possible under Article 6(1) of Regulation No 44/2001, in so far as the conditions laid down in that provision, in particular the existence of a connecting factor, are fulfilled.
+It follows from the foregoing that, in circumstances such as those in the main proceedings, in which only one among several presumed perpetrators of the alleged harmful act is sued before a court within whose jurisdiction he has not acted, an autonomous interpretation of Article 5(3) of Regulation No 44/2001, in accordance with the objectives and general scheme thereof, precludes the event giving rise to the damage from being regarded as taking place within the jurisdiction of that court.
+Accordingly, the answer to the question referred is that Article 5(3) of Regulation No 44/must be interpreted as meaning that it does not allow the courts of the place where a harmful event occurred which is imputed to one of the presumed perpetrators of damage, who is not a party to the dispute, to take jurisdiction over another presumed perpetrator of that damage who has not acted within the jurisdiction of the court seised.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Article 5(3) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as meaning that it does not allow the courts of the place where a harmful event occurred which is imputed to one of the presumed perpetrators of damage, who is not a party to the dispute, to take jurisdiction over another presumed perpetrator of that damage who has not acted within the jurisdiction of the court seised.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

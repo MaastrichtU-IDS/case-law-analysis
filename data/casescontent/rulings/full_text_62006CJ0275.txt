@@ -1,0 +1,660 @@
+
+Case C-275/Productores de Música de España (Promusicae)
+v
+Telefónica de España SAU
+(Reference for a preliminary ruling from the Juzgado de lo Mercantil nº de Madrid)
+(Information society – Obligations of providers of services – Retention and disclosure of certain traffic data – Obligation of disclosure – Limits – Protection of the confidentiality of electronic communications – Compatibility with the protection of copyright and related rights – Right to effective protection of intellectual property)
+Summary of the Judgment
+Approximation of laws – Harmonisation of certain aspects of copyright and related rights in the information society – Directive
+            2001/– Electronic commerce – Directive 2000/– Processing of personal data and the protection of privacy in the electronic
+            communications sector – Directive 2002/– Enforcement of intellectual property rights – Directive 2004/– Agreement on
+            Trade-Related Aspects of Intellectual Property Rights (TRIPs)
+(TRIPs Agreement, Arts 41, and 47; European Parliament and Council Directives 2000/31, 2001/29, 2002/and 2004/48)
+Directive 2000/on certain legal aspects of information society services, in particular electronic commerce, in the internal
+         market (Directive on electronic commerce), Directive 2001/on the harmonisation of certain aspects of copyright and related
+         rights in the information society, Directive 2004/on the enforcement of intellectual property rights, and Directive 2002/concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive
+         on privacy and electronic communications) do not require the Member States to lay down an obligation to communicate personal
+         data in order to ensure effective protection of copyright in the context of civil proceedings, in a situation in which a non-profit-making
+         organisation of producers and publishers of musical and audiovisual recordings has brought proceedings seeking an order that
+         a provider of internet access services disclose to the organisation the identities and physical addresses of certain subscribers,
+         so as to enable civil proceedings to be brought for infringement of copyright.
+      
+Similarly, as to Articles 41, and of the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPs Agreement),
+         in the light of which Community law must as far as possible be interpreted where it regulates a field to which that agreement
+         applies, while they require the effective protection of intellectual property rights and the institution of judicial remedies
+         for their enforcement, they do not contain provisions which require those directives to be interpreted as compelling the Member
+         States to lay down an obligation to communicate personal data in the context of civil proceedings.
+      
+However, Community law requires that, when transposing those directives, the Member States take care to rely on an interpretation
+         of them which allows a fair balance to be struck between the various fundamental rights protected by the Community legal order.
+         Further, when implementing the measures transposing those directives, the authorities and courts of the Member States must
+         not only interpret their national law in a manner consistent with those directives but also make sure that they do not rely
+         on an interpretation of them which would be in conflict with those fundamental rights or with the other general principles
+         of Community law, such as the principle of proportionality.
+      
+(see paras 60, 70, operative part)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+January (*)
+      
+(Information society – Obligations of providers of services – Retention and disclosure of certain traffic data – Obligation of disclosure – Limits – Protection of the confidentiality of electronic communications – Compatibility with the protection of copyright and related rights – Right to effective protection of intellectual property)
+In Case C‑275/06,
+REFERENCE for a preliminary ruling under Article EC by the Juzgado de lo Mercantil No de Madrid (Spain), made by decision of June 2006, received at the Court on June 2006, in the proceedings
+      
+Productores de Música de España (Promusicae)
+v
+Telefónica de España SAU,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, C.W.A. Timmermans, A. Rosas, K. Lenaerts, G. Arestis and U. Lõhmus, Presidents of Chambers,
+         A. Borg Barthet, M. Ilešič, J. Malenovský (Rapporteur), J. Klučka, E. Levits, A. Arabadjiev and C. Toader, Judges,
+      
+Advocate General: J. Kokott,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on June 2007,
+after considering the observations submitted on behalf of:
+–        Productores de Música de España (Promusicae), by R. Bercovitz Rodríguez Cano, A. González Gozalo and J. de Torres Fueyo, abogados,
+–        Telefónica de España SAU, by M. Cornejo Barranco, procuradora, R. García Boto and P. Cerdán López, abogados,
+–        the Italian Government, by I.M. Braguglia, acting as Agent, assisted by S. Fiorentino, avvocato dello Stato,
+–        the Slovenian Government, by M. Remic and U. Steblovnik, acting as Agents,
+–        the Finnish Government, by J. Heliskoski and A. Guimaraes-Purokoski, acting as Agents,
+–        the United Kingdom Government, by Z. Bryanston-Cross, acting as Agent, and S. Malynicz, Barrister,
+–        the Commission of the European Communities, by R. Vidal Puig and C. Docksey, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2007,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Directive 2000/31/EC of the European Parliament and
+         of the Council of June on certain legal aspects of information society services, in particular electronic commerce,
+         in the Internal Market (‘Directive on electronic commerce’) (OJ L 178, p. 1), Directive 2001/29/EC of the European Parliament
+         and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information
+         society (OJ L 167, p. 10), Directive 2004/48/EC of the European Parliament and of the Council of April on the
+         enforcement of intellectual property rights (OJ L 157, p. 45, and corrigendum, OJ L 195, p. 16), and Articles 17(2)
+         and of the Charter of Fundamental Rights of the European Union proclaimed in Nice on December (OJ C 364, p. 1,
+         ‘the Charter’).
+      
+The reference was made in the course of proceedings between Productores de Música de España (Promusicae) (‘Promusicae’), a
+         non-profit-making organisation, and Telefónica de España SAU (‘Telefónica’) concerning Telefónica’s refusal to disclose to
+         Promusicae, acting on behalf of its members who are holders of intellectual property rights, personal data relating to use
+         of the internet by means of connections provided by Telefónica.
+      
+ Legal context
+ International law
+Part III of the Agreement on Trade-Related Aspects of Intellectual Property Rights (‘the TRIPs Agreement’), which constitutes
+         Annex 1C to the Agreement establishing the World Trade Organisation (‘the WTO’), signed at Marrakesh on April and
+         approved by Council Decision 94/800/EC of December concerning the conclusion on behalf of the European Community,
+         as regards matters within its competence, of the agreements reached in the Uruguay Round multilateral negotiations (1986-1994)
+         (OJ L 336, p. 1), is headed ‘Enforcement of intellectual property rights’. That part includes Article 41(1) and (2),
+         according to which:
+      
+‘1.      Members shall ensure that enforcement procedures as specified in this Part are available under their law so as to permit effective
+         action against any act of infringement of intellectual property rights covered by this Agreement, including expeditious remedies
+         to prevent infringements and remedies which constitute a deterrent to further infringements. These procedures shall be applied
+         in such a manner as to avoid the creation of barriers to legitimate trade and to provide for safeguards against their abuse.
+      
+2.      Procedures concerning the enforcement of intellectual property rights shall be fair and equitable. They shall not be unnecessarily
+         complicated or costly, or entail unreasonable time-limits or unwarranted delays.’
+      
+In Section of Part III, ‘Civil and administrative procedures and remedies’, Article 42, headed ‘Fair and Equitable Procedures’,
+         provides:
+      
+‘Members shall make available to right holders civil judicial procedures concerning the enforcement of any intellectual property
+         right covered by this Agreement …’
+      
+Article of the TRIPs Agreement, headed ‘Right of Information’, provides:
+      
+‘Members may provide that the judicial authorities shall have the authority, unless this would be out of proportion to the
+         seriousness of the infringement, to order the infringer to inform the right holder of the identity of third persons involved
+         in the production and distribution of the infringing goods or services and of their channels of distribution.’
+      
+ Community law
+ Provisions relating to the information society and the protection of intellectual property, especially copyright
+–       Directive 2000/Article of Directive 2000/states:
+      
+‘1.      This Directive seeks to contribute to the proper functioning of the internal market by ensuring the free movement of information
+         society services between the Member States. 
+      
+2.      This Directive approximates, to the extent necessary for the achievement of the objective set out in paragraph 1, certain
+         national provisions on information society services relating to the internal market, the establishment of service providers,
+         commercial communications, electronic contracts, the liability of intermediaries, codes of conduct, out-of-court dispute settlements,
+         court actions and cooperation between Member States. 
+      
+3.      This Directive complements Community law applicable to information society services without prejudice to the level of protection
+         for, in particular, public health and consumer interests, as established by Community acts and national legislation implementing
+         them in so far as this does not restrict the freedom to provide information society services. 
+      
+…
+5.      This Directive shall not apply to:
+…
+(b)      questions relating to information society services covered by Directives 95/46/EC and 97/66/EC;
+…’
+According to Article of Directive 2000/31:
+      
+‘1.      Member States shall not impose a general obligation on providers, when providing the services covered by Articles 12, and
+         14, to monitor the information which they transmit or store, nor a general obligation actively to seek facts or circumstances
+         indicating illegal activity. 
+      
+2.      Member States may establish obligations for information society service providers promptly to inform the competent public
+         authorities of alleged illegal activities undertaken or information provided by recipients of their service or obligations
+         to communicate to the competent authorities, at their request, information enabling the identification of recipients of their
+         service with whom they have storage agreements.’ 
+      
+Article of Directive 2000/provides:
+      
+‘1.      Member States shall ensure that court actions available under national law concerning information society services’ activities
+         allow for the rapid adoption of measures, including interim measures, designed to terminate any alleged infringement and to
+         prevent any further impairment of the interests involved.
+      
+…’
+–       Directive 2001/According to Article 1(1) of Directive 2001/29, the directive concerns the legal protection of copyright and related rights
+         in the framework of the internal market, with particular emphasis on the information society.
+      
+Under Article of Directive 2001/29:
+      
+‘1.      Member States shall provide appropriate sanctions and remedies in respect of infringements of the rights and obligations set
+         out in this Directive and shall take all the measures necessary to ensure that those sanctions and remedies are applied. The
+         sanctions thus provided for shall be effective, proportionate and dissuasive. 
+      
+2.      Each Member State shall take the measures necessary to ensure that rightholders whose interests are affected by an infringing
+         activity carried out on its territory can bring an action for damages and/or apply for an injunction and, where appropriate,
+         for the seizure of infringing material as well as of devices, products or components referred to in Article 6(2). 
+      
+3.      Member States shall ensure that rightholders are in a position to apply for an injunction against intermediaries whose services
+         are used by a third party to infringe a copyright or related right.’
+      
+Article of Directive 2001/reads:
+      
+‘This Directive shall be without prejudice to provisions concerning in particular patent rights, trade marks, design rights,
+         utility models, topographies of semi-conductor products, type faces, conditional access, access to cable of broadcasting services,
+         protection of national treasures, legal deposit requirements, laws on restrictive practices and unfair competition, trade
+         secrets, security, confidentiality, data protection and privacy, access to public documents, the law of contract.’
+      
+–       Directive 2004/Article of Directive 2004/states:
+      
+‘This Directive concerns the measures, procedures and remedies necessary to ensure the enforcement of intellectual property
+         rights …’
+      
+According to Article 2(3) of Directive 2004/48:
+      
+‘3.      This Directive shall not affect:
+(a)      the Community provisions governing the substantive law on intellectual property, Directive 95/46/EC, Directive 1999/93/EC
+         or Directive 2000/31/EC, in general, and Articles to of Directive 2000/31/EC in particular;
+      
+(b)      Member States’ international obligations and notably the TRIPS Agreement, including those relating to criminal procedures
+         and penalties;
+      
+(c)      any national provisions in Member States relating to criminal procedures or penalties in respect of infringement of intellectual
+         property rights.’
+      
+Article of Directive 2004/provides:
+      
+‘1.      Member States shall provide for the measures, procedures and remedies necessary to ensure the enforcement of the intellectual
+         property rights covered by this Directive. Those measures, procedures and remedies shall be fair and equitable and shall not
+         be unnecessarily complicated or costly, or entail unreasonable time-limits or unwarranted delays.
+      
+2.      Those measures, procedures and remedies shall also be effective, proportionate and dissuasive and shall be applied in such
+         a manner as to avoid the creation of barriers to legitimate trade and to provide for safeguards against their abuse.’
+      
+Article of Directive 2004/provides:
+      
+‘1.      Member States shall ensure that, in the context of proceedings concerning an infringement of an intellectual property right
+         and in response to a justified and proportionate request of the claimant, the competent judicial authorities may order that
+         information on the origin and distribution networks of the goods or services which infringe an intellectual property right
+         be provided by the infringer and/or any other person who:
+      
+(a)      was found in possession of the infringing goods on a commercial scale;
+(b)      was found to be using the infringing services on a commercial scale;
+(c)      was found to be providing on a commercial scale services used in infringing activities;
+or
+(d)      was indicated by the person referred to in point (a), (b) or (c) as being involved in the production, manufacture or distribution
+         of the goods or the provision of the services.
+      
+2.      The information referred to in paragraph shall, as appropriate, comprise:
+(a)      the names and addresses of the producers, manufacturers, distributors, suppliers and other previous holders of the goods or
+         services, as well as the intended wholesalers and retailers;
+      
+(b)      information on the quantities produced, manufactured, delivered, received or ordered, as well as the price obtained for the
+         goods or services in question.
+      
+3.      Paragraphs and shall apply without prejudice to other statutory provisions which:
+(a)      grant the rightholder rights to receive fuller information;
+(b)      govern the use in civil or criminal proceedings of the information communicated pursuant to this Article;
+(c)      govern responsibility for misuse of the right of information;
+or
+(d)      afford an opportunity for refusing to provide information which would force the person referred to in paragraph to admit
+         to his/her own participation or that of his/her close relatives in an infringement of an intellectual property right;
+      
+or
+(e)      govern the protection of confidentiality of information sources or the processing of personal data.’
+ Provisions on the protection of personal data
+–       Directive 95/46/EC
+Article of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals
+         with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31) states:
+      
+‘For the purposes of this Directive:
+(a)      “personal data” shall mean any information relating to an identified or identifiable natural person (“data subject”); an identifiable
+         person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to
+         one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
+      
+(b)      “processing of personal data” (“processing”) shall mean any operation or set of operations which is performed upon personal
+         data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval,
+         consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking,
+         erasure or destruction;
+      
+…’
+According to Article of Directive 95/46:
+      
+‘1.      This Directive shall apply to the processing of personal data wholly or partly by automatic means, and to the processing otherwise
+         than by automatic means of personal data which form part of a filing system or are intended to form part of a filing system.
+      
+…’
+Article of Directive 95/reads as follows:
+      
+‘Member States shall provide that personal data may be processed only if:
+…
+(f)      processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties
+         to whom the data are disclosed, except where such interests are overridden by the interests or fundamental rights and freedoms
+         of the data subject which require protection under Article 1(1).’
+      
+Article of Directive 95/provides:
+      
+‘1.      Member States shall prohibit the processing of personal data revealing racial or ethnic origin, political opinions, religious
+         or philosophical beliefs, trade-union membership, and the processing of data concerning health or sex life.
+      
+2.      Paragraph shall not apply where:
+…
+(c)      processing is necessary to protect the vital interests of the data subject or of another person where the data subject is
+         physically or legally incapable of giving his consent …
+      
+…’
+According to Article of Directive 95/46:
+      
+‘1.      Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles
+         6(1), 10, 11(1), and when such a restriction constitutes a necessary measure to safeguard:
+      
+(a)      national security;
+(b)      defence;
+(c)      public security;
+(d)      the prevention, investigation, detection and prosecution of criminal offences, or of breaches of ethics for regulated professions;
+(e)      an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and
+         taxation matters;
+      
+(f)      a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases
+         referred to in (c), (d) and (e);
+      
+(g)      the protection of the data subject or of the rights and freedoms of others.
+…’
+–       Directive 2002/58/EC
+Article of Directive 2002/58/EC of the European Parliament and of the Council of July concerning the processing
+         of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic
+         communications) (OJ L 201, p. 37) states:
+      
+‘1.      This Directive harmonises the provisions of the Member States required to ensure an equivalent level of protection of fundamental
+         rights and freedoms, and in particular the right to privacy, with respect to the processing of personal data in the electronic
+         communication sector and to ensure the free movement of such data and of electronic communication equipment and services in
+         the Community.
+      
+2.      The provisions of this Directive particularise and complement Directive 95/46/EC for the purposes mentioned in paragraph …
+      
+3.      This Directive shall not apply to activities which fall outside the scope of the Treaty establishing the European Community,
+         such as those covered by Titles V and VI of the Treaty on European Union, and in any case to activities concerning public
+         security, defence, State security (including the economic well-being of the State when the activities relate to State security
+         matters) and the activities of the State in areas of criminal law.’
+      
+Under Article of Directive 2002/58:
+      
+‘Save as otherwise provided, the definitions in Directive 95/46/EC and in Directive 2002/21/EC of the European Parliament
+         and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework
+         Directive) … shall apply.
+      
+The following definitions shall also apply:
+…
+(b)      “traffic data” means any data processed for the purpose of the conveyance of a communication on an electronic communications
+         network or for the billing thereof;
+      
+…
+(d)      “communication” means any information exchanged or conveyed between a finite number of parties by means of a publicly available
+         electronic communications service. This does not include any information conveyed as part of a broadcasting service to the
+         public over an electronic communications network except to the extent that the information can be related to the identifiable
+         subscriber or user receiving the information;
+      
+…’
+Article of Directive 2002/provides:
+      
+‘1.      This Directive shall apply to the processing of personal data in connection with the provision of publicly available electronic
+         communications services in public communications networks in the Community.
+      
+…’
+Article of Directive 2002/provides:
+      
+‘1.      Member States shall ensure the confidentiality of communications and the related traffic data by means of a public communications
+         network and publicly available electronic communications services, through national legislation. In particular, they shall
+         prohibit listening, tapping, storage or other kinds of interception or surveillance of communications and the related traffic
+         data by persons other than users, without the consent of the users concerned, except when legally authorised to do so in accordance
+         with Article 15(1). This paragraph shall not prevent technical storage which is necessary for the conveyance of a communication
+         without prejudice to the principle of confidentiality.
+      
+…’
+Article of Directive 2002/provides:
+      
+‘1.      Traffic data relating to subscribers and users processed and stored by the provider of a public communications network or
+         publicly available electronic communications service must be erased or made anonymous when it is no longer needed for the
+         purpose of the transmission of a communication without prejudice to paragraphs 2, and of this Article and Article 15(1).
+      
+2.      Traffic data necessary for the purposes of subscriber billing and interconnection payments may be processed. Such processing
+         is permissible only up to the end of the period during which the bill may lawfully be challenged or payment pursued.
+      
+3.      For the purpose of marketing electronic communications services or for the provision of value added services, the provider
+         of a publicly available electronic communications service may process the data referred to in paragraph to the extent and
+         for the duration necessary for such services or marketing, if the subscriber or user to whom the data relate has given his/her
+         consent. Users or subscribers shall be given the possibility to withdraw their consent for the processing of traffic data
+         at any time.
+      
+…
+5.      Processing of traffic data, in accordance with paragraphs 1, 2, and 4, must be restricted to persons acting under the authority
+         of providers of the public communications networks and publicly available electronic communications services handling billing
+         or traffic management, customer enquiries, fraud detection, marketing electronic communications services or providing a value
+         added service, and must be restricted to what is necessary for the purposes of such activities.
+      
+6.      Paragraphs 1, 2, and shall apply without prejudice to the possibility for competent bodies to be informed of traffic data
+         in conformity with applicable legislation with a view to settling disputes, in particular interconnection or billing disputes.’
+      
+Under Article of Directive 2002/58:
+      
+‘1.      Member States may adopt legislative measures to restrict the scope of the rights and obligations provided for in Article 5,
+         Article 6, Article 8(1), (2), (3) and (4), and Article of this Directive when such restriction constitutes a necessary,
+         appropriate and proportionate measure within a democratic society to safeguard national security (i.e. State security), defence,
+         public security, and the prevention, investigation, detection and prosecution of criminal offences or of unauthorised use
+         of the electronic communication system, as referred to in Article 13(1) of Directive 95/46/EC. To this end, Member States
+         may, inter alia, adopt legislative measures providing for the retention of data for a limited period justified on the grounds
+         laid down in this paragraph. All the measures referred to in this paragraph shall be in accordance with the general principles
+         of Community law, including those referred to in Article 6(1) and (2) of the Treaty on European Union.
+      
+…’
+Article of Directive 2002/provides:
+      
+‘Directive 97/66/EC is hereby repealed with effect from the date referred to in Article 17(1).
+References made to the repealed Directive shall be construed as being made to this Directive.’
+ National law
+Under Article of Law 34/on information society services and electronic commerce (Ley 34/de servicios de la sociedad
+         de la información y de comercio electrónico) of July (BOE No of July 2002, p. 25388, ‘the LSSI’), headed ‘Duty
+         to retain traffic data relating to electronic communications’:
+      
+‘1.      Operators of electronic communications networks and services, providers of access to telecommunications networks and providers
+         of data storage services must retain for a maximum of months the connection and traffic data generated by the communications
+         established during the supply of an information society service, under the conditions established in this article and the
+         regulations implementing it.
+      
+2.      … The operators of electronic communications networks and services and the service providers to which this article refers
+         may not use the data retained for purposes other than those indicated in the paragraph below or other purposes permitted by
+         the Law and must adopt appropriate security measures to avoid the loss or alteration of the data and unauthorised access to
+         the data.
+      
+3.      The data shall be retained for use in the context of a criminal investigation or to safeguard public security and national
+         defence, and shall be made available to the courts or the public prosecutor at their request. Communication of the data to
+         the forces of order shall be effected in accordance with the provisions of the rules on personal data protection.
+      
+…’
+ The main proceedings and the order for reference
+Promusicae is a non-profit-making organisation of producers and publishers of musical and audiovisual recordings. By letter
+         of November it made an application to the Juzgado de lo Mercantil No de Madrid (Commercial Court No 5, Madrid) for preliminary measures against Telefónica, a commercial company whose activities
+         include the provision of internet access services.
+      
+Promusicae asked for Telefónica to be ordered to disclose the identities and physical addresses of certain persons whom it
+         provided with internet access services, whose IP address and date and time of connection were known. According to Promusicae,
+         those persons used the KaZaA file exchange program (peer-to-peer or P2P) and provided access in shared files of personal computers
+         to phonograms in which the members of Promusicae held the exploitation rights.
+      
+Promusicae claimed before the national court that the users of KaZaA were engaging in unfair competition and infringing intellectual
+         property rights. It therefore sought disclosure of the above information in order to be able to bring civil proceedings against
+         the persons concerned.
+      
+By order of December the Juzgado de lo Mercantil No de Madrid ordered the preliminary measures requested by Promusicae.
+      
+Telefónica appealed against that order, contending that under the LSSI the communication of the data sought by Promusicae
+         is authorised only in a criminal investigation or for the purpose of safeguarding public security and national defence, not
+         in civil proceedings or as a preliminary measure relating to civil proceedings. Promusicae submitted for its part that Article
+         of the LSSI must be interpreted in accordance with various provisions of Directives 2000/31, 2001/and 2004/and with
+         Articles 17(2) and of the Charter, provisions which do not allow Member States to limit solely to the purposes expressly
+         mentioned in that law the obligation to communicate the data in question.
+      
+In those circumstances the Juzgado de lo Mercantil No de Madrid decided to stay the proceedings and refer the following question to the Court for a preliminary ruling:
+      
+‘Does Community law, specifically Articles 15(2) and of Directive [2000/31], Article 8(1) and (2) of Directive [2001/29],
+         Article of Directive [2004/48] and Articles 17(2) and of the Charter … permit Member States to limit to the context of
+         a criminal investigation or to safeguard public security and national defence, thus excluding civil proceedings, the duty
+         of operators of electronic communications networks and services, providers of access to telecommunications networks and providers
+         of data storage services to retain and make available connection and traffic data generated by the communications established
+         during the supply of an information society service?’
+      
+ Admissibility of the question referred
+In its written observations the Italian Government submits that the statements in point of the order for reference indicate
+         that the question referred would be justified only in the event that the national legislation at issue in the main proceedings
+         were interpreted as limiting the duty to disclose personal data to the field of criminal investigations or the protection
+         of public safety and national defence. Since the national court does not exclude the possibility of that legislation being
+         interpreted as not containing such a limitation, the question thus appears, according to the Italian Government, to be hypothetical,
+         so that it is inadmissible.
+      
+In this respect, it should be recalled that, in the context of the cooperation between the Court of Justice and the national
+         courts provided for by Article EC, it is solely for the national court before which the dispute has been brought, and
+         which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances
+         of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions
+         which it submits to the Court (Case C‑217/Confederación Española de Empresarios de Estaciones de Servicio [2006] ECR I‑11987, paragraph and the case-law cited).
+      
+Where questions submitted by national courts concern the interpretation of a provision of Community law, the Court of Justice
+         is thus bound, in principle, to give a ruling unless it is obvious that the request for a preliminary ruling is in reality
+         designed to induce the Court to give a ruling by means of a fictitious dispute, or to deliver advisory opinions on general
+         or hypothetical questions, or that the interpretation of Community law requested bears no relation to the actual facts of
+         the main action or its purpose, or that the Court does not have before it the factual or legal material necessary to give
+         a useful answer to the questions submitted to it (see Confederación Española de Empresarios de Estaciones de Servicio, paragraph 17).
+      
+Moreover, as regards the division of responsibilities under the cooperative arrangements established by Article EC, the
+         interpretation of provisions of national law is admittedly a matter for the national courts, not for the Court of Justice,
+         and the Court has no jurisdiction, in proceedings brought on the basis of that article, to rule on the compatibility of national
+         rules of law with Community law. On the other hand, the Court does have jurisdiction to provide the national court with all
+         the guidance as to the interpretation of Community law necessary to enable that court to rule on the compatibility of national
+         rules with Community law (see, to that effect, Case C‑506/Wilson [2006] ECR I‑8613, paragraphs and 35, and Joined Cases C‑338/04, C‑359/and C‑360/Placanica and Others [2007] ECR I‑1891, paragraph 36).
+      
+However, in the case of the present reference for a preliminary ruling, it is perfectly clear from the grounds of the order
+         for reference as a whole that the national court considers that the interpretation of Article of the LSSI depends on the
+         compatibility of that provision with the relevant provisions of Community law, and hence on the interpretation of those provisions
+         which it asks the Court to provide. Since the outcome of the main proceedings is thus linked to that interpretation, the question
+         referred clearly does not appear hypothetical, so that the ground of inadmissibility put forward by the Italian Government
+         cannot be accepted.
+      
+The reference for a preliminary ruling is therefore admissible.
+      
+ The question referred for a preliminary ruling
+By its question the national court asks essentially whether Community law, in particular Directives 2000/31, 2001/and 2004/48,
+         read also in the light of Articles and of the Charter, must be interpreted as requiring Member States to lay down, in
+         order to ensure effective protection of copyright, an obligation to communicate personal data in the context of civil proceedings.
+      
+ Preliminary observations
+Even if, formally, the national court has limited its question to the interpretation of Directives 2000/31, 2001/and 2004/and the Charter, that circumstance does not prevent the Court from providing the national court with all the elements of interpretation
+         of Community law which may be of use for deciding the case before it, whether or not that court has referred to them in the
+         wording of its question (see Case C‑392/Alevizos [2007] ECR I‑3505, paragraph and the case-law cited).
+      
+It should be observed to begin with that the intention of the provisions of Community law thus referred to in the question
+         is that the Member States should ensure, especially in the information society, effective protection of industrial property,
+         in particular copyright, which Promusicae claims in the main proceedings. The national court proceeds, however, from the premiss
+         that the Community law obligations required by that protection may be blocked, in national law, by the provisions of Article
+         of the LSSI.
+      
+While that law, in 2002, transposed the provisions of Directive 2000/into domestic law, it is common ground that Article
+         of the law is intended to implement the rules for the protection of private life, which is also required by Community law
+         under Directives 95/and 2002/58, the latter of which concerns the processing of personal data and the protection of privacy
+         in the electronic communications sector, which is the sector at issue in the main proceedings.
+      
+It is not disputed that the communication sought by Promusicae of the names and addresses of certain users of KaZaA involves
+         the making available of personal data, that is, information relating to identified or identifiable natural persons, in accordance
+         with the definition in Article 2(a) of Directive 95/(see, to that effect, Case C‑101/Lindqvist [2003] ECR I‑12971, paragraph 24). That communication of information which, as Promusicae submits and Telefónica does not
+         contest, is stored by Telefónica constitutes the processing of personal data within the meaning of the first paragraph of
+         Article of Directive 2002/58, read in conjunction with Article 2(b) of Directive 95/46. It must therefore be accepted that
+         that communication falls within the scope of Directive 2002/58, although the compliance of the data storage itself with the
+         requirements of that directive is not at issue in the main proceedings.
+      
+In those circumstances, it should first be ascertained whether Directive 2002/precludes the Member States from laying down,
+         with a view to ensuring effective protection of copyright, an obligation to communicate personal data which will enable the
+         copyright holder to bring civil proceedings based on the existence of that right. If that is not the case, it will then have
+         to be ascertained whether it follows directly from the three directives expressly mentioned by the national court that the
+         Member States are required to lay down such an obligation. Finally, if that is not the case either, in order to provide the
+         national court with an answer of use to it, it will have to be examined, starting from the national court’s reference to the
+         Charter, whether in a situation such as that at issue in the main proceedings other rules of Community law might require a
+         different reading of those three directives.
+      
+ Directive 2002/Article 5(1) of Directive 2002/provides that Member States must ensure the confidentiality of communications by means of
+         a public communications network and publicly available electronic communications services, and of the related traffic data,
+         and must inter alia prohibit, in principle, the storage of that data by persons other than users, without the consent of the
+         users concerned. The only exceptions relate to persons lawfully authorised in accordance with Article 15(1) of that directive
+         and the technical storage necessary for conveyance of a communication. In addition, as regards traffic data, Article 6(1)
+         of Directive 2002/provides that stored traffic data must be erased or made anonymous when it is no longer needed for the
+         purpose of the transmission of a communication without prejudice to paragraphs 2, and of that article and Article 15(1)
+         of the directive.
+      
+With respect, first, to paragraphs 2, and of Article 6, which relate to the processing of traffic data in accordance with
+         the requirements of billing and marketing services and the provision of value added services, those provisions do not concern
+         the communication of that data to persons other than those acting under the authority of the providers of public communications
+         networks and publicly available electronic communications services. As to the provisions of Article 6(6) of Directive 2002/58,
+         they do not relate to disputes other than those between suppliers and users concerning the grounds for storing data in connection
+         with the activities referred to in the other provisions of that article. Since Article 6(6) thus clearly does not concern
+         a situation such as that of Promusicae in the main proceedings, it cannot be taken into account in assessing that situation.
+      
+With respect, second, to Article 15(1) of Directive 2002/58, it should be recalled that under that provision the Member States
+         may adopt legislative measures to restrict the scope inter alia of the obligation to ensure the confidentiality of traffic
+         data, where such a restriction constitutes a necessary, appropriate and proportionate measure within a democratic society
+         to safeguard national security (i.e. State security), defence, public security, and the prevention, investigation, detection
+         and prosecution of criminal offences or of unauthorised use of the electronic communications system, as referred to in Article
+         13(1) of Directive 95/46.
+      
+Article 15(1) of Directive 2002/thus gives Member States the possibility of providing for exceptions to the obligation
+         of principle, imposed on them by Article of that directive, to ensure the confidentiality of personal data.
+      
+However, none of these exceptions appears to relate to situations that call for the bringing of civil proceedings. They concern,
+         first, national security, defence and public security, which constitute activities of the State or of State authorities unrelated
+         to the fields of activity of individuals (see, to that effect, Lindqvist, paragraph 43), and, second, the prosecution of criminal offences.
+      
+As regards the exception relating to unauthorised use of the electronic communications system, this appears to concern use
+         which calls into question the actual integrity or security of the system, such as the cases referred to in Article 5(1) of
+         Directive 2002/of the interception or surveillance of communications without the consent of the users concerned. Such use,
+         which, under that article, makes it necessary for the Member States to intervene, also does not relate to situations that
+         may give rise to civil proceedings.
+      
+It is clear, however, that Article 15(1) of Directive 2002/ends the list of the above exceptions with an express reference
+         to Article 13(1) of Directive 95/46. That provision also authorises the Member States to adopt legislative measures to restrict
+         the obligation of confidentiality of personal data where that restriction is necessary inter alia for the protection of the
+         rights and freedoms of others. As they do not specify the rights and freedoms concerned, those provisions of Article 15(1)
+         of Directive 2002/must be interpreted as expressing the Community legislature’s intention not to exclude from their scope
+         the protection of the right to property or situations in which authors seek to obtain that protection in civil proceedings.
+      
+The conclusion must therefore be that Directive 2002/does not preclude the possibility for the Member States of laying
+         down an obligation to disclose personal data in the context of civil proceedings.
+      
+However, the wording of Article 15(1) of that directive cannot be interpreted as compelling the Member States, in the situations
+         it sets out, to lay down such an obligation.
+      
+It must therefore be ascertained whether the three directives mentioned by the national court require those States to lay
+         down that obligation in order to ensure the effective protection of copyright.
+      
+ The three directives mentioned by the national court
+It should first be noted that, as pointed out in paragraph above, the purpose of the directives mentioned by the national
+         court is that the Member States should ensure, especially in the information society, effective protection of industrial property,
+         in particular copyright. However, it follows from Article 1(5)(b) of Directive 2000/31, Article of Directive 2001/and
+         Article 8(3)(e) of Directive 2004/that such protection cannot affect the requirements of the protection of personal data.
+      
+Article 8(1) of Directive 2004/admittedly requires Member States to ensure that, in the context of proceedings concerning
+         an infringement of an intellectual property right and in response to a justified and proportionate request of the claimant,
+         the competent judicial authorities may order that information on the origin and distribution networks of the goods or services
+         which infringe an intellectual property right be provided. However, it does not follow from those provisions, which must be
+         read in conjunction with those of paragraph 3(e) of that article, that they require the Member States to lay down, in order
+         to ensure effective protection of copyright, an obligation to communicate personal data in the context of civil proceedings.
+      
+Nor does the wording of Articles 15(2) and of Directive 2000/or that of Article 8(1) and (2) of Directive 2001/require
+         the Member States to lay down such an obligation.
+      
+As to Articles 41, and of the TRIPs Agreement, relied on by Promusicae, in the light of which Community law must as
+         far as possible be interpreted where – as in the case of the provisions relied on in the context of the present reference
+         for a preliminary ruling – it regulates a field to which that agreement applies (see, to that effect, Joined Cases C‑300/and C‑392/Dior and Others [2000] ECR I‑11307, paragraph 47, and Case C‑431/Merck Genéricos – Produtos Farmacêuticos [2007] ECR I‑0000, paragraph 35), while they require the effective protection of intellectual property rights and the institution
+         of judicial remedies for their enforcement, they do not contain provisions which require those directives to be interpreted
+         as compelling the Member States to lay down an obligation to communicate personal data in the context of civil proceedings.
+      
+ Fundamental rights
+The national court refers in its order for reference to Articles and of the Charter, the first of which concerns the
+         protection of the right to property, including intellectual property, and the second of which concerns the right to an effective
+         remedy. By so doing, that court must be regarded as seeking to know whether an interpretation of those directives to the effect
+         that the Member States are not obliged to lay down, in order to ensure the effective protection of copyright, an obligation
+         to communicate personal data in the context of civil proceedings leads to an infringement of the fundamental right to property
+         and the fundamental right to effective judicial protection.
+      
+It should be recalled that the fundamental right to property, which includes intellectual property rights such as copyright
+         (see, to that effect, Case C‑479/Laserdisken [2006] ECR I‑8089, paragraph 65), and the fundamental right to effective judicial protection constitute general principles
+         of Community law (see respectively, to that effect, Joined Cases C‑154/and C‑155/Alliance for Natural Health and Others [2005] ECR I‑6451, paragraph and the case-law cited, and Case C‑432/Unibet [2007] ECR I‑2271, paragraph and the case-law cited).
+      
+However, the situation in respect of which the national court puts that question involves, in addition to those two rights,
+         a further fundamental right, namely the right that guarantees protection of personal data and hence of private life.
+      
+According to recital in the preamble to Directive 2002/58, the directive seeks to respect the fundamental rights and observes
+         the principles recognised in particular by the Charter. In particular, the directive seeks to ensure full respect for the
+         rights set out in Articles and of that Charter. Article substantially reproduces Article of the European Convention
+         for the Protection of Human Rights and Fundamental Freedoms signed at Rome on November 1950, which guarantees the right
+         to respect for private life, and Article of the Charter expressly proclaims the right to protection of personal data.
+      
+The present reference for a preliminary ruling thus raises the question of the need to reconcile the requirements of the protection
+         of different fundamental rights, namely the right to respect for private life on the one hand and the rights to protection
+         of property and to an effective remedy on the other.
+      
+The mechanisms allowing those different rights and interests to be balanced are contained, first, in Directive 2002/itself,
+         in that it provides for rules which determine in what circumstances and to what extent the processing of personal data is
+         lawful and what safeguards must be provided for, and in the three directives mentioned by the national court, which reserve
+         the cases in which the measures adopted to protect the rights they regulate affect the protection of personal data. Second,
+         they result from the adoption by the Member States of national provisions transposing those directives and their application
+         by the national authorities (see, to that effect, with reference to Directive 95/46, Lindqvist, paragraph 82).
+      
+As to those directives, their provisions are relatively general, since they have to be applied to a large number of different
+         situations which may arise in any of the Member States. They therefore logically include rules which leave the Member States
+         with the necessary discretion to define transposition measures which may be adapted to the various situations possible (see,
+         to that effect, Lindqvist, paragraph 84).
+      
+That being so, the Member States must, when transposing the directives mentioned above, take care to rely on an interpretation
+         of the directives which allows a fair balance to be struck between the various fundamental rights protected by the Community
+         legal order. Further, when implementing the measures transposing those directives, the authorities and courts of the Member
+         States must not only interpret their national law in a manner consistent with those directives but also make sure that they
+         do not rely on an interpretation of them which would be in conflict with those fundamental rights or with the other general
+         principles of Community law, such as the principle of proportionality (see, to that effect, Lindqvist, paragraph 87, and Case C‑305/Ordre des barreaux francophones et germanophone and Others [2007] ECR I‑0000, paragraph 28).
+      
+Moreover, it should be recalled here that the Community legislature expressly required, in accordance with Article 15(1) of
+         Directive 2002/58, that the measures referred to in that paragraph be adopted by the Member States in compliance with the
+         general principles of Community law, including those mentioned in Article 6(1) and (2) EU.
+      
+In the light of all the foregoing, the answer to the national court’s question must be that Directives 2000/31, 2001/29, 2004/and 2002/do not require the Member States to lay down, in a situation such as that in the main proceedings, an obligation
+         to communicate personal data in order to ensure effective protection of copyright in the context of civil proceedings. However,
+         Community law requires that, when transposing those directives, the Member States take care to rely on an interpretation of
+         them which allows a fair balance to be struck between the various fundamental rights protected by the Community legal order.
+         Further, when implementing the measures transposing those directives, the authorities and courts of the Member States must
+         not only interpret their national law in a manner consistent with those directives but also make sure that they do not rely
+         on an interpretation of them which would be in conflict with those fundamental rights or with the other general principles
+         of Community law, such as the principle of proportionality.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+Directive 2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of information
+            society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’), Directive
+            2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright
+            and related rights in the information society, Directive 2004/48/EC of the European Parliament and of the Council of April
+            on the enforcement of intellectual property rights, and Directive 2002/58/EC of the European Parliament and of the Council
+            of July concerning the processing of personal data and the protection of privacy in the electronic communications
+            sector (Directive on privacy and electronic communications) do not require the Member States to lay down, in a situation such
+            as that in the main proceedings, an obligation to communicate personal data in order to ensure effective protection of copyright
+            in the context of civil proceedings. However, Community law requires that, when transposing those directives, the Member States
+            take care to rely on an interpretation of them which allows a fair balance to be struck between the various fundamental rights
+            protected by the Community legal order. Further, when implementing the measures transposing those directives, the authorities
+            and courts of the Member States must not only interpret their national law in a manner consistent with those directives but
+            also make sure that they do not rely on an interpretation of them which would be in conflict with those fundamental rights
+            or with the other general principles of Community law, such as the principle of proportionality.
+[Signatures]
+* Language of the case: Spanish.
+      
+Top  
+ 

@@ -1,0 +1,144 @@
+
+JUDGMENT OF THE COURT (Seventh Chamber)
+October (
+*)
+(Reference for a preliminary ruling – Indirect taxes – Raising of capital – Imposition of a duty of 1.5% on the transfer into a clearance service of newly issued shares or shares intended to be listed on a stock exchange of a Member State)
+In Case C‑573/16,
+REQUEST for a preliminary ruling under Article TFEU from the High Court of Justice of England and Wales, Chancery Division (United Kingdom), made by decision of October 2016, received at the Court on November 2016, in the proceedings
+Air Berlin plc
+v
+Commissioners for Her Majesty’s Revenue and Customs
+THE COURT (Seventh Chamber),
+composed of A. Rosas (Rapporteur), President of the Chamber, C. Toader and A. Prechal, Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Air Berlin plc, by S. Grodzinski QC and M. Jones, Barrister, by M. Whitehouse and by D. Pickstone and M. Greene, Solicitors,
+–
+the United Kingdom Government, by D. Robertson, acting as Agent, and by R. Baldry QC,
+–
+the European Commission, by R. Lyal and W. Roels, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles and of Council Directive 69/335/EEC of July concerning indirect taxes on the raising of capital (OJ, English Special Edition (II), p. 412), Articles and of Council Directive 2008/7/EC of February concerning indirect taxes on the raising of capital (OJ L 46, p. 11) and Articles 12, 43, 48, or of the EC Treaty (now Articles 18, 49, 54, and TFEU).
+The request has been made in proceedings between Air Berlin plc and the Commissioners for Her Majesty’s Revenue and Customs (‘HMRC’) concerning the levying of a tax, pursuant to section of the Finance Act (‘the FA 1986’), on certain transfers of shares that took place in and 2009.
+Legal context
+European Union law
+Directive 69/In accordance with the first recital thereof, the purpose of Directive 69/is to promote the free movement of capital in order to create an economic union whose characteristics are similar to those of a domestic market. To that end, as is shown by the sixth to eighth recitals, that directive is designed to harmonise duty on capital contributions to companies in the European Community by introducing a single duty on the raising of capital, which can be charged only once within the common market, and by abolishing all other indirect taxes with the same characteristics as that single capital duty.
+Article 4(1) of Directive 69/sets out the transactions which are to be subject to capital duty. Those transactions include the formation of a capital company and an increase in the capital of such a company.
+Article of Directive 69/provides for the abolition of any taxes with the same characteristics as capital duty on the transactions referred to in Article of the directive.
+Under Article of Directive 69/335:
+‘Member States shall not subject to any form of taxation whatsoever:
+(a)
+the creation, issue, admission to quotation on a stock exchange, making available on the market or dealing in stocks, shares or other securities of the same type, or of the certificates representing such securities, by whomsoever issued;
+(b)
+loans, including government bonds, raised by the issue of debentures or other negotiable securities, by whomsoever issued, or any formalities relating thereto, or the creation, issue, admission to quotation on a stock exchange, making available on the market or dealing in such debentures or other negotiable securities.’
+However, under Article 12(1)(a) of that directive, the Member States may, notwithstanding Articles and thereof, charge ‘duties on the transfer of securities, whether charged at a flat rate or not’.
+Directive 2008/Directive 2008/is a recast of Directive 69/and essentially reiterates the provisions of the latter. However, Directive 2008/7, as appears from recitals to 6, is aimed at the progressive abolition of capital duty.
+Article of that directive concerns restructuring operations.
+Article of Directive 2008/7, entitled ‘Transactions not subject to indirect tax’, provides:
+‘1.   Member States shall not subject capital companies to any form of indirect tax whatsoever in respect of the following:
+(a)
+contributions of capital;
+(b)
+loans, or the provision of services, occurring as part of contributions of capital;
+...
+2.   Member States shall not subject the following to any form of indirect tax whatsoever:
+(a)
+the creation, issue, admission to quotation on a stock exchange, making available on the market or dealing in stocks, shares or other securities of the same type, or of the certificates representing such securities, by whomsoever issued;
+...’
+However, under Article 6(1)(a) of that directive, the Member States may, notwithstanding Article thereof, charge ‘duties on the transfer of securities, whether charged at a flat rate or not’.
+United Kingdom law
+The United Kingdom does not charge capital duty. However, it charges stamp duty on certain documents which effect the transfer of shares. In the case of a sale by means of a written document, stamp duty of 0.5% of the amount or value of the consideration given for the transfer is charged under paragraph of Schedule to the Finance Act 1999. In the case of a transfer of shares otherwise than on sale, there was a charge to stamp duty of GBP (approximately EUR 7) under paragraph of Schedule to the Finance Act 1999. That duty of GBP was abolished in 2008.
+Where there is no written document effecting the transfer, for example in the case of electronic transfers, a separate tax, stamp duty reserve tax (‘SDRT’), is charged under section of the FA at a rate of 0.5% of the amount or value of the consideration given for the transfer.
+Because of the difficulty of levying the tax on each transfer of ownership taking place in clearance systems, special provisions apply. The legislation (in this case section or section of the FA 1986), provides for payment of stamp duty or SDRT at the rate of 1.5% on the initial entry of shares into a clearance system, while subsequent transfers within the clearance system will be free from charges. However, with the approval of HMRC, a clearance service may make an election for an alternative system of charge, as referred to in section 97A of the FA 1986, under which there is no 1.5% charge on the entry of the shares into the clearance service; instead, any transfer of the shares within the clearance service is charged to SDRT at a rate of 0.5% of the amount of the consideration for the transfer.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Air Berlin is a commercial airline incorporated in the United Kingdom. On May 2006, Air Berlin undertook an initial public offering on the Frankfurt Stock Exchange.
+In order to list its shares on the Frankfurt Stock Exchange, Air Berlin was required under German law to list all shares of the same class, including those which were not going to be sold in the initial public offering. In order to meet that requirement Air Berlin was obliged to transfer the legal title to the existing ordinary shares, which represented the entirety of its share capital, to Clearstream Banking AG (‘Clearstream Frankfurt’) as nominee of the Frankfurt Stock Exchange’s settlement and clearing service.
+The existing ordinary shares held by the existing shareholders, legal title to which was transferred by Air Berlin to Clearstream Frankfurt, comprised:
+–
+ordinary shares that were held by employees (who were restricted from selling their shares); and
+–
+ordinary shares (which could be sold without restriction), of which were retained by the existing shareholders and of which were offered to the general public as part of the initial public offering.
+Under section of the FA 1986, those share transfers to Clearstream Frankfurt gave rise to a charge to UK stamp duty in an amount of GBP (approximately EUR 7282100), namely 1.5% of the market value of the shares at the time of the transfer.
+The initial public offering entailed the issue of new shares, which did not form part of the transferred shares; according to the United Kingdom’s observations, no stamp duty was charged on the value of those shares.
+On June 2009, Air Berlin issued a further ordinary shares for EUR 3.each (EUR 15.million in total) to three different shareholders. The transfer to Clearstream Frankfurt of the legal title to those shares, which was necessary for the shares to be listed on the Frankfurt Stock Exchange, was carried out on October and gave rise to a charge to stamp duty of GBP (approximately EUR 260580), namely 1.5% of the market value of the shares at the time of the transfer.
+HMRC’s approval for an election under section 97A of the FA is typically conditional upon the clearance service operator making arrangements satisfactory to HMRC for the collection of SDRT at the rate of 0.5% on each of the transfers subsequently made within that service and for compliance with the other relevant requirements arising under the SDRT legislation.
+Although under UK law it was open to Clearstream Frankfurt to elect the system of charge under section 97A of the FA in respect of the two share transfers in and 2009, the order for reference states that it did not make that election. Nor could Air Berlin require Clearstream Frankfurt to do so.
+The UK legislation does not define an accountable person in respect of stamp duty. However, if a share transfer is not duly stamped, the transferee of the shares cannot be registered as the legal owner of the shares and the share transfer is inadmissible as evidence in court proceedings. The transferee would, therefore, normally ensure that the stamp duty is paid. However, in relation to a clearance service, it was standard commercial practice for the company whose shares were to be placed into the clearance service to pay the stamp duty. It was thus Air Berlin which paid the stamp duty on the and share transfers.
+On March 2010, Air Berlin requested that HMRC repay the stamp duty that had been charged on the above transactions. By decision of September 2011, HMRC refused that request.
+In the appeal brought before it against that decision, the High Court of Justice of England and Wales, Chancery Division (United Kingdom), decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is the levying by a Member State of stamp duty of 1.5% on the transfer, as set out above, in the circumstances set out above, contrary to one or more of:
+(a)
+Article or Article of [Directive 69/335];
+(b)
+Article or Article of [Directive 2008/7]; or
+(c)
+Articles 12, 43, 48, or of the EC Treaty?
+(2)
+Does the answer to the first question differ in circumstances where the transfer of shares to the clearance service was required in order to facilitate a listing of the company in question on a stock exchange in that Member State or another Member State?
+(3)
+Does the answer to the first question or the second question differ in circumstances where the national law of the Member State enabled an operator of a clearance service, where it receives approval from the taxation authority, to elect that no stamp duty is payable on the transfer of shares into the clearance service but that SDRT is instead charged on each subsequent sale of shares within the clearance service (at the rate of 0.5% of the sale consideration)?
+(4)
+Does the answer to the third question differ in circumstances where the structure of the transactions chosen by the company in question means that the benefit of the election cannot be enjoyed?’
+Consideration of the questions referred
+The first and second questions
+The first and second questions must be considered together. By the first question the referring court asks whether Article or of Directive 69/335, Article or of Directive 2008/or Articles 12, 43, 48, or EC (now Articles 18, 49, 54, and TFEU) must be interpreted as precluding the levying, by a Member State, of stamp duty of 1.5% on a transfer of shares to a clearance service. By the second question the referring court asks whether the answer to the first question differs where the transfer of shares to the clearance service was required in order to facilitate a listing of the company concerned on a stock exchange in that Member State or another Member State.
+As a preliminary point, it should be noted that both Directive 69/and Directive 2008/7, which repealed and replaced it, provided for complete harmonisation of the cases in which the Member States may levy indirect taxes on the raising of capital (see, to that effect, judgments of June 2007, Commission v Greece, C‑178/05, EU:C:2007:317, paragraph 31, and of October 2009, HSBC Holdings and Vidacos Nominees, C‑569/07, EU:C:2009:594, paragraph 25).
+As the Court has already held, where a matter is harmonised at EU level, national measures relating thereto must be assessed in the light of the provisions of that harmonising measure and not of those of the FEU Treaty (see, to that effect, judgment of October 2009, HSBC Holdings and Vidacos Nominees, C‑569/07, EU:C:2009:594, paragraph and the case-law cited).
+It follows that, in order to answer the first and second questions referred for a preliminary ruling, the Court must limit itself to interpreting Directives 69/and 2008/7.
+It must be stated in that regard that Article of Directive 2008/concerns restructuring operations and does not appear to be relevant in the main proceedings. It is therefore appropriate to interpret Articles and of Directive 69/and Article of Directive 2008/7, which prohibit, inter alia, any form of indirect tax in respect of contributions of capital and in respect of the creation, issue, admission to quotation on a stock exchange, making available on the market or dealing in stocks, shares or other securities of the same type.
+It is clear from the Court’s case-law that, in view of the objectives pursued by those directives, Articles and of Directive 69/and Article of Directive 2008/must be interpreted broadly so as to ensure that the prohibitions laid down in those provisions are not denied practical effect (see, to that effect, judgments of July 2004, Commission v Belgium, C‑415/02, EU:C:2004:450, paragraph 33; of June 2007, Albert Reiss Beteiligungsgesellschaft, C‑466/03, EU:C:2007:385, paragraph 39; and of October 2009, HSBC Holdings and Vidacos Nominees, C‑569/07, EU:C:2009:594, paragraph 34).
+The Court has thus held that, in accordance with the objectives of Article of Directive 69/and Article 5(2) of Directive 2008/7, the prohibition of the taxation of transactions for the raising of capital also applies to transactions which are not expressly covered by that prohibition, where such taxation is tantamount to taxing a transaction forming an integral part of an overall transaction with regard to the raising of capital (see, to that effect, judgment of October 2014, Gielen, C‑299/13, EU:C:2014:2266, paragraph and the case-law cited).
+In the case before the referring court, the chargeable events giving rise to SDRT consist in the implementation of two separate transactions. The first is the transfer, in 2006, by Air Berlin to Clearstream Frankfurt of legal title to existing ordinary shares held by the existing shareholders. The second is the issue, in 2009, of a further ordinary shares to three different shareholders, legal title to which was then transferred to Clearstream Frankfurt. An interpretation of Directive 69/is relevant for the first transaction, whilst an interpretation of Directive 2008/is relevant for the second transaction.
+As regards the transaction that took place in 2006, the United Kingdom submits that it involved the transfer of existing shares to a clearance service, no new capital being raised for the company. It argues that stamp duty could be charged on that transfer under Article 12(1)(a) of Directive 69/335, which provides that, notwithstanding Articles and of the directive, Member States may charge duties on the transfer of securities. The United Kingdom disputes the interpretation put forward by Air Berlin, which contends that Article of Directive 69/must be confined solely to situations where there is a change of ownership between persons acting as investors, so that a transfer to a clearance service falls outside the scope of that provision. According to the United Kingdom, the concept of ‘transfer of securities’ in Article of the directive covers any transaction by which a right or interest in securities is transferred from one person to another and is not dependent on the status or capacity of the transferor and transferee. That is, in its submission, the case of a transfer of securities to a clearance service which affects the ownership of the security and fundamentally alters the respective rights of the parties, even though beneficial ownership is not transferred to the clearance service.
+In that connection, although the referring court has not described in detail either the functioning of the clearance service or the legal, formal and practical consequences of the transfer to Clearstream Frankfurt of legal title to the shares, the United Kingdom has acknowledged that that transfer did not result in the beneficial ownership of the shares being transferred. It is thus apparent that the transfer of legal title, which is required under German law, was merely an operational requirement of the clearance system and had no impact on the right to dispose of the shares or to have the benefit of them. The order for reference indicates in this regard that ordinary shares held by employees who were not free to sell them could be listed on the Frankfurt Stock Exchange, although legal title to the shares had been transferred to the clearance service.
+It follows that such a transfer of legal ownership, which has no impact on the beneficial ownership, cannot be considered to be a transfer of securities forming an independent transaction on which duty may be charged under Article 12(1)(a) of Directive 69/335. That transfer must be regarded as merely an incidental transaction, integral to the transaction admitting the shares to listing on the Frankfurt Stock Exchange, which, in accordance with Article of Directive 69/335, could not be subject to any form of taxation whatsoever.
+The requirement under German law that, for a company to be quoted on the Frankfurt Stock Exchange, all shares of the same class must be listed, including shares which are not going to be sold in the initial public offering, may be an indication that there is an overall transaction the purpose of which is a company’s admission to quotation on the Frankfurt Stock Exchange also entailing the transfer of legal title to the shares to Clearstream Frankfurt. However, the existence of a legal obligation is not a pre-requisite when it falls to be determined whether a transaction is ‘an end in itself’ or must be regarded as forming an integral part of an overall transaction with regard to the raising of capital.
+So far as the transaction is concerned, the United Kingdom emphasises that the transfer of shares that took place on October was a transaction separate from and subsequent to the increase in capital brought about by the issue of shares to new subscribers, which took place on June 2009. That transaction could therefore be subject to tax on the transfer of securities, in accordance with Article 6(1)(a) of Directive 2008/7.
+The fact remains, however, that the Air Berlin shares that were transferred to the clearance service were new shares and corresponded to an increase in capital.
+It should be recalled that to permit the levying of tax or duty on the initial acquisition of a newly issued security amounts in reality to taxing the very issue of that security as it forms an integral part of an overall transaction with regard to the raising of capital. The issue of securities is not an end in itself, and has no point until those securities find investors (judgments of July 2004, Commission v Belgium, C‑415/02, EU:C:2004:450, paragraph 32, and of October 2009, HSBC Holdings and Vidacos Nominees, C‑569/07, EU:C:2009:594, paragraph 32).
+For Article 5(2)(a) of Directive 2008/to have practical effect, therefore, ‘issue’, for the purposes of that provision, must include the first acquisition of securities immediately consequent upon their issue (see, by analogy, judgments of July 2004, Commission v Belgium, C‑415/02, EU:C:2004:450, paragraph 33, and of October 2009, HSBC Holdings and Vidacos Nominees, C‑569/07, EU:C:2009:594, paragraph 33).
+The answer to the first and second questions should therefore be as follows:
+–
+Articles and of Directive 69/must be interpreted as precluding the taxation of a transfer of shares such as that at issue in the main proceedings, whereby the legal title to all the shares in a company has been transferred to a clearance service for the sole purpose of listing those shares on a stock exchange, without there being any change in the beneficial ownership of those shares;
+–
+Article 5(1)(c) of Directive 2008/must be interpreted as precluding the taxation of a transfer of shares such as that at issue in the main proceedings, whereby the legal title to shares that have been newly issued on an increase in capital has been transferred to a clearance service for the sole purpose of offering those new shares for purchase.
+The third and fourth questions
+By the third question the referring court asks, in essence, whether the answer to the first and second questions differs where the law of the Member State enables an operator of a clearance service, when it receives approval from the taxation authority, to elect that no stamp duty is payable on the initial transfer of shares into the clearance service but that a tax is instead charged on each subsequent sale of shares. By the fourth question, the referring court asks, in essence, whether the answer would be different if the benefit of the election could not be enjoyed.
+The Court notes that these questions appear to be based on the premiss that each sale of shares subsequent to the initial transfer of the shares to the clearance service can give rise to a charge to tax that is in conformity with Directive 2008/7. As the questions referred for a preliminary ruling do not concern this aspect of the reasoning, there is no need to interpret Directive 2008/in this regard.
+So far as the election referred to in section 97A of the FA is concerned, the Court notes that it makes it possible for a clearance service to avoid paying SDRT of 1.5% on the initial entry of securities into the clearance system, provided that the operator of the clearance service makes arrangements satisfactory to HMRC for the collection of SDRT at the rate of 0.5% on each of the transfers subsequently made within that service and for compliance with the other relevant requirements arising under the SDRT legislation.
+In the present case, it follows from the answers to the first two questions that Directives 69/and 2008/preclude the levying of a tax on the transfer of shares to a clearance service where the transfer is part of a transaction admitting those shares to quotation on a stock exchange or issuing new shares.
+In that context, given, first, that the mechanism of the election at issue requires the taking of positive action, failing which rules contrary to EU law are applied and, second, that, according to the referring court, in the case in the main proceedings, Air Berlin, which paid the stamp duty, could neither make that election nor compel the clearance service to do so and the latter had no incentive to make the election, the fact that it is possible to make an election is irrelevant for the purposes of the application of the prohibition laid down in Articles and of Directive 69/and Article of Directive 2008/(see, by analogy, Opinion of Advocate General Mengozzi in HSBC Holdings and Vidacos Nominees, C‑569/07, EU:C:2009:594, point 71).
+Consequently, it is not necessary to take that election into account.
+The response to the third and fourth questions is therefore that the answer to the first and second questions does not differ where legislation of a Member State, such as that at issue in the main proceedings, enables an operator of a clearance service, when it receives approval from the taxation authority, to elect that no stamp duty is payable on the initial transfer of shares into the clearance service but that a stamp duty reserve tax is instead charged on each subsequent sale of shares.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Seventh Chamber) hereby rules:
+ 
+1.
+Articles and of Council Directive 69/335/EEC of July concerning indirect taxes on the raising of capital must be interpreted as precluding the taxation of a transfer of shares such as that at issue in the main proceedings, whereby the legal title to all the shares of a company has been transferred to a clearance service for the sole purpose of listing those shares on a stock exchange, without there being any change in the beneficial ownership of those shares.
+ 
+2.
+Article 5(1)(c) of Council Directive 2008/7/EC of February concerning indirect taxes on the raising of capital must be interpreted as precluding the taxation of a transfer of shares such as that at issue in the main proceedings, whereby the legal title to shares that have been newly issued on an increase in capital has been transferred to a clearance service for the sole purpose of offering those new shares for purchase.
+ 
+3.
+The answer to the first and second questions does not differ where legislation of a Member State, such as that at issue in the main proceedings, enables an operator of a clearance service, when it receives approval from the taxation authority, to elect that no stamp duty is payable on the initial transfer of shares into the clearance service but that a stamp duty reserve tax is instead charged on each subsequent sale of shares.
+ 
+Rosas
+Toader
+Prechal
+Delivered in open court in Luxembourg on October 2017.
+A. Calot Escobar
+Registrar
+A. Rosas
+President of the Seventh Chamber
+(
+*)	Language of the case: English.
+Top  
+ 

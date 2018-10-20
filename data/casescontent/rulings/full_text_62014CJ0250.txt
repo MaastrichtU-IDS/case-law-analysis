@@ -1,0 +1,150 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+December (
+*
+)
+‛VAT — Chargeable event and chargeability — Air transport — Ticket purchased but not used — Provision of the transport service — Issue of the ticket — Time of payment of the tax’
+In Joined Cases C‑250/and C‑289/14,
+REQUESTS for a preliminary ruling under Article TFEU from the Conseil d’État (Council of State, France), made by decisions of May 2014, received respectively at the Court on May and June 2014, in the proceedings
+Air France-KLM, formerly Air France (C‑250/14),
+Hop!-Brit Air SAS, formerly Brit Air (C‑289/14)
+v
+Ministère des Finances et des Comptes publics,
+THE COURT (First Chamber),
+composed of A. Tizzano, Vice-President of the Court, acting as President of the First Chamber, F. Biltgen, A. Borg Barthet (Rapporteur), E. Levits and S. Rodin, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Air France-KLM, and Hop!-Brit Air SAS, by A. Beetschen, avocate,
+—
+the French Government, by D. Colas, J.-S. Pilczer and by S. Ghiandoni, acting as Agents,
+—
+Ireland, by E. Creedon, J. Quaney, and A. Joyce, acting as Agents, and by A. Keirse, Barrister-at-Law,
+—
+the Greek Government, by K. Nasopoulou and S. Lekkou, acting as Agents,
+—
+the Portuguese Government, by L. Inez Fernandes, R. Campos Laires and by A. Cunha, acting as Agents,
+—
+the European Commission, by C. Soulay and L. Lozano Palacios, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the interpretation of Articles 2(1) and 10(2) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), as amended by Council Directive 1999/59/EC of June (OJ L 162, p. 63) (‘the Sixth Directive’), then by Council Directive 2001/115/EC of December (OJ L 15, p. 24) (‘the amended Sixth Directive’).
+The requests have been made in proceedings between Air France-KLM, formerly Air France, and Hop!-Brit Air SAS, formerly Brit Air, on the one hand, and the Ministère des Finances et des Comptes publics, on the other hand, concerning the liability to value added tax (VAT) of an unused transport ticket and of sums paid by an airline company to an undertaking carrying on the same type of business in consideration for the sale of unused transport tickets.
+Legal context
+EU law
+Under Article 2(1) of the Sixth Directive and the amended Sixth Directive:
+‘The following shall be subject to value added tax:
+1.   the supply of goods or services effected for consideration within the territory of the country by a taxable person acting as such.’
+Article of the Sixth Directive provided:
+(a)
+“Chargeable event” shall mean the occurrence by virtue of which the legal conditions necessary for tax to become chargeable are fulfilled.
+(b)
+The tax becomes “chargeable” when the tax authority becomes entitled under the law at a given moment to claim the tax from the person liable to pay, notwithstanding that the time of payment may be deferred.
+2.   The chargeable event shall occur and the tax shall become chargeable when the goods are delivered or the services are performed. …
+However, where a payment is to be made on account before the goods are delivered or the services are performed, the tax shall become chargeable on receipt of the payment and on the amount received.
+By way of derogation from the above provisions, Member States may provide that the tax shall become chargeable, for certain transactions or for certain categories of taxable person, either:
+—
+no later than the issue of the invoice or of the document serving as invoice, or
+—
+no later than receipt of the price, or
+—
+where an invoice or document serving as invoice is not issued, or is issued late, within a specified period from the date of the chargeable event.
+…’
+In the first and third indents of the third subparagraph of Article 10(2) of the amended Sixth Directive, the reference to the document serving as invoice was removed. Thenceforth, that provision therefore referred only to the issue of the invoice.
+Article of the Sixth Directive and the amended Sixth Directive relating to the taxable amount provided:
+‘A. Within the territory of the country
+1.   The taxable amount shall be:
+(a)
+in respect of supplies of goods and services other than those referred to in (b), (c) and (d) below, everything which constitutes the consideration which has been or is to be obtained by the supplier from the purchaser, the customer or a third party for such supplies including subsidies directly linked to the price of such supplies;
+…’
+French law
+Under Article 256(I) of the General tax code (code général des impôts) (‘the CGI’):
+‘The following transactions shall be subject to value added tax: the supply of services for consideration within the territory of a Member State by a taxable person acting as such.’
+Under Article of the CGI:
+‘1.   The chargeable event shall take place:
+(a)
+at the moment of delivery or intra-EU acquisition of the goods or supply of the services;
+…
+2.   The tax shall be payable:
+…
+(c)
+for supplies of services, at the time of the receipt of part payments, the price, or remuneration.’
+The actions in the main proceedings and the questions referred for a preliminary ruling
+Case C‑250/Air France-KLM, which became the legal successor to Air France in 2004, is a company established in France carrying out an air transport business. In the context of that business, Air France-KLM performs air passenger transport services within the French territory. Since those domestic flights are subject to VAT, tickets for those flights are sold at prices including VAT.
+As from 1999, Air France ceased paying to the Treasury VAT on the sale of tickets issued to but not used by passengers of its domestic flights. At issue are, first, non-refundable tickets which are no longer valid as a result of customers being ‘no-shows’ at boarding, and, secondly, invalid exchangeable tickets which were not used during their period of validity.
+Following an examination of accounts, the tax authorities concluded that the amounts relating to those ‘tickets issued and not used’ should have been subject to VAT at the reduced rate of 5.5% applicable to supplies of domestic passenger air transport services. As a result, the authorities notified Air France-KLM of additional assessments to VAT relating to the period from April until March amounting to EUR 4066607, together with default interest amounting to EUR 1226584.
+By judgment of June 2011, the tribunal administratif de Cergy-Pontoise (Administrative Court, Cergy-Pontoise) dismissed the application brought by Air France-KLM for discharge from those additional assessments to VAT. By judgment of November 2012, the cour administrative d’appel de Versailles (Administrative Court of Appeal, Versailles) upheld that judgment and held that, in accordance with Articles and of the CGI, read in conjunction with Article of the Civil Code, the amounts retained following the definitive non-performance of the transport service must be subject to VAT. Air France-KLM appealed on a point of law against that judgment.
+Since it has doubts concerning the liability to VAT of an unused travel ticket, the Conseil d’État (Council of State) decided to stay the proceedings and to refer to the Court the following questions for a preliminary ruling:
+‘(1)
+Must Articles 2(1) and 10(2) of [the Sixth Directive and the amended Sixth Directive] be interpreted as meaning that the issue of the ticket may be treated as the effective performance of the transport service and that the sums retained by an airline company where the holder of an air ticket has not used his ticket, which is no longer valid, are subject to VAT?
+(2)
+In that case, must the tax received be paid onwards to the Treasury on receipt of payment of the price, even though the travel may not have taken place as a result of the customer’s acts?’
+Case C‑289/According to the order for reference in Case C‑289/14, Brit Air, now Hop!-Brit Air SAS, performed air passenger transport services in the context of a franchise agreement concluded with Air France-KLM. The latter was responsible for marketing and ticket management on the routes operated as a franchise by Brit Air.
+Air France-KLM received the price of the tickets and paid it on to Brit Air with respect to each passenger transported. In respect of tickets sold but not used as a result of passenger ‘no-shows’ at the time of boarding or the expiry of the validity of the ticket, Air France-KLM paid to Brit Air annual flat-rate compensation calculated as a percentage (2%) of the annual turnover (including VAT) received from the routes operated as a franchise. Brit Air did not subject that sum to VAT.
+Following an examination of Brit Air’s accounts, the tax authorities sent it, in respect of the period from April to August 2005, demands for VAT relating to sums corresponding to unused tickets it had received from Air France.
+By judgment of June 2010, the Tribunal administratif de Montreuil (Administrative Court, Montreuil) dismissed the application brought by Brit Air for discharge from those additional assessments to VAT. Brit Air appealed against that judgment before the cour administrative d’appel de Versailles (Administrative Court of Appeal, Versailles). Since the judgment delivered by the latter court on November upheld the judgment under appeal, Brit Air brought an appeal on a point of law before the Conseil d’État (Council of State).
+Since it has doubts concerning the liability to VAT of sums paid by an air transport company to an undertaking carrying on the same type of business in consideration for the sale of unused transport tickets, the Conseil d’État (Council of State) decided to stay the proceedings and to refer to the Court the following questions for a preliminary ruling:
+‘(1)
+Must Articles 2(1) and 10(2) of [the Sixth Directive and the amended Sixth Directive] be interpreted as meaning that a lump sum calculated as a percentage of the annual turnover received from routes operated as a franchise and paid by an airline company which issued on behalf of another company tickets which are no longer valid constitutes non-taxable compensation paid to the latter for the harm suffered as a result of the activation in vain by the latter of its means of transport, or a sum corresponding to the proceeds from tickets issued and expired?
+(2)
+In the event that that sum is deemed to correspond to the price of tickets issued and expired, must those provisions be interpreted as meaning that the issue of the ticket may be treated as the effective performance of the transport service and that the sums retained by an airline company where the holder of an air ticket has not used his ticket, which is no longer valid, are subject to VAT?
+(3)
+In that case, must the tax received be paid onwards to the Treasury by Air France or Brit Air on receipt of payment of the price, even though the travel may not have taken place as a result of the customer’s acts?’
+By order of the President of the Court of July 2014, Cases C‑250/and C‑289/were joined for the purposes of the written and oral procedure and the judgment.
+Consideration of the questions referred
+The first question referred in Case C‑250/and the second question referred in Case C‑289/By the first question referred in Case C‑250/and the second question referred in Case C‑289/14, the referring court wishes to ascertain whether Articles 2(1) and 10(2) of the Sixth Directive and the amended Sixth Directive must be interpreted as meaning that the issue by an airline company of tickets is subject to VAT where those tickets have not been used by passengers and the latter are unable to receive a refund.
+It must be borne in mind that, under Article 2(1) of the Sixth Directive and the amended Sixth Directive, ‘a supply of goods or services effected for consideration within the territory of the country by a taxable person acting as such is subject to VAT’.
+According to settled case-law, a supply of services is effected ‘for consideration’, within the meaning of that provision, only if there is a legal relationship between the provider of the service and the recipient pursuant to which there is reciprocal performance, the remuneration received by the provider of the service constituting the actual consideration for the service supplied to the recipient (judgment in Tolsma, C‑16/93, EU:C:1994:80, paragraph 14).
+That is the case if there is a direct link between the service supplied and the consideration received, the sums paid constituting the actual consideration for an identifiable service supplied in the context of such a legal relationship (judgment in Société thermale d’Eugénie-les-Bains, C‑277/05, EU:C:2007:440, paragraph and the case-law cited).
+In addition, it follows from Article 10(2) of the Sixth Directive and the amended Sixth Directive that the chargeable event provided for in Article 2(1) of those directives takes place only at the time when the services are performed.
+It follows from the above that a supply of services, such as air passenger transport, is subject to VAT where, first, the sum paid by a passenger to an airline company, in the context of the legal relationship constituted by the transport contract, is directly linked with an identifiable service for which it constitutes the remuneration and, secondly, that service is performed.
+In that regard, the Court has stated that the services provided in performance of obligations arising from a contract to transport passengers by air are the checking-in and the boarding of passengers, the on-board reception of those passengers at the place of take-off agreed in the transport contract, the departure of the aircraft at the scheduled time, the transport of the passengers and their luggage from the place of departure to the place of arrival, the care of passengers during the flight, and, finally, their disembarkation in conditions of safety at the place of landing and at the time scheduled in that contract (see judgment in Rehder, C‑204/08, EU:C:2009:439, paragraph 40).
+However, it is possible to perform those services only if the passenger of the airline company turns up on the agreed date and at the agreed place of boarding, the customer’s right to performance of those services being given by the company until the time of boarding, according to the conditions set out in the contract to transport passengers concluded when the ticket was purchased.
+Therefore, the consideration for the price paid when the ticket was purchased consists of the passenger’s right to benefit from the performance of obligations arising from the transport contract, regardless of whether the passenger exercises that right, since the airline company fulfils the service by enabling the passenger to benefit from those services.
+As a consequence, the applicants in the main proceedings cannot claim that the price paid by the ‘no-show’ passenger and retained by the company constitutes a contractual indemnity which, since it seeks to compensate for a harm suffered by the company, is not subject to VAT.
+First, such an interpretation would change the nature of the consideration paid by the passenger, which would become a contractual indemnity where that passenger did not use the identifiable service offered by the airline company.
+The term ‘supply of services’, within the meaning of the Sixth Directive and the amended Sixth Directive, must, in the light of its objective nature, be interpreted without regard to the purpose or results of the transactions concerned and without its being necessary for the tax authorities to carry out inquiries to determine the intention of the taxable person (see judgment in Newey, C‑653/11, EU:C:2013:409, paragraph and the case-law cited).
+Secondly, an amendment of the characterisation of the price paid by the passenger for the ticket according to whether that passenger turns up at the time of boarding would lead to a difference between the amount of the harm alleged by the airline company resulting from the ‘no-show’ of the passenger and the amount paid at the time the ticket was purchased. Thus, where the passenger does turn up at the time of boarding, the value of the service corresponds to the ticket price excluding VAT, whereas the amount of the compensation claimed by the applicants in the main proceedings would be that price plus the amount of VAT which would have been chargeable. However, there is nothing to justify the amount of the compensation being higher than the price paid by the passenger.
+Thirdly, the applicants in the main proceedings can also not rely on the case-law of the Court relating to the exemption from VAT of sums paid by way of deposit. In the main proceedings, first, the price paid by the ‘no-show’ passenger corresponds to the full price to be paid. Secondly, where the passenger has paid the price of the ticket and the company confirms that a seat is reserved for him, the sale is final and definitive. Moreover, it should be noted that airline companies reserve the right to resell the unused service to another passenger, without being required to reimburse the price to the first passenger. It follows therefrom that the grant of compensation, in the absence of harm, would be unjustified.
+It must therefore be held that the sum retained by the airline companies is not intended to compensate for possible harm suffered by them as a result of a passenger’s ‘no-show’, but constitutes remuneration, even where the passenger did not benefit from the transport.
+In the light of the foregoing, the answer to the first question in Case C‑250/and the second question in Case C‑289/is that Articles 2(1) and 10(2) of the Sixth Directive and the amended Sixth Directive must be interpreted as meaning that the issue by an airline company of tickets is subject to VAT where the tickets issued have not been used by passengers and the latter are unable to obtain a refund for those tickets.
+The second question referred in Case C‑250/and the third question referred in Case C‑289/By the second question referred in Case C‑250/and the third question referred in Case C‑289/14, the referring court asks in essence whether Articles 2(1) and 10(2) of the Sixth Directive and the amended Sixth Directive must be interpreted as meaning that the VAT paid when the air ticket was purchased by a passenger who did not use it becomes chargeable on receipt of the payment of the price of the ticket by the airline company or by a third party acting on its behalf.
+It should be noted that, under the first subparagraph of Article 10(2) of the Sixth Directive and the amended Sixth Directive, the chargeable event occurs and VAT becomes chargeable when the goods or the services are supplied.
+However, in the first place, the second subparagraph of Article 10(2) of the Sixth Directive and the amended Sixth Directive provides for an exception to that rule where payments are made on account before the services are supplied. In that case, the tax becomes chargeable on receipt of the payment and on the amount received (see, to that effect, judgment in Orfey Balgaria, C‑549/11, EU:C:2012:832, paragraph 27, and order in Sani treyd, C‑153/12, EU:C:2013:201, paragraph 24).
+Moreover, the Court has held that, in order for VAT to be chargeable before the supply is made, it is necessary and sufficient that all the relevant information concerning the chargeable event is already known and therefore, in particular, that, at the time the payment on account is made, the goods or services have been clearly identified (see judgment in Orfey Balgaria, C‑549/11, EU:C:2012:832, paragraphs and 39, and order in Sani treyd, C‑153/12, EU:C:2013:201, paragraphs and 33).
+It must be noted that, in the main proceedings, the conditions for the application of the second subparagraph of Article 10(2) of the Sixth Directive and the amended Sixth Directive are capable of being satisfied in so far as all of the information concerning the future transport service is already known and clearly identified at the time of purchase of the ticket.
+The full and not merely partial payment of the price is not capable of calling such an interpretation into question (see, to that effect, judgments in Orfey Balgaria, C‑549/11, EU:C:2012:832, paragraph 37, and Efir, C‑19/12, EU:C:2013:148, paragraph 39, and order in Sani treyd, C‑153/12, EU:C:2013:201, paragraph 32).
+In the second place, it should be noted, as is apparent from paragraph et seq. of the present judgment, that, in the event of a ‘no-show’, the airline company which sells a transport ticket fulfils its contractual obligations where it puts the passenger in a position to claim his rights to the services provided for by the transport contract.
+In the light of the foregoing, the answer to the second question in Case C‑250/and the third question in Case C‑289/is that Article 2(1) and the first and second subparagraphs of Article 10(2) of the Sixth Directive and the amended Sixth Directive must be interpreted as meaning that the VAT paid when the air ticket was purchased by a passenger who has not used it becomes chargeable on receipt of payment of the ticket price, whether by the airline company itself, by a third party acting in its name and on its behalf, or by a third party acting in its own name but on behalf of the airline company.
+The first question in Case C‑289/By the first question in Case C‑289/14, the referring court asks in essence whether Articles 2(1) and 10(2) of the Sixth Directive and the amended Sixth Directive must be interpreted as meaning that, in the event that a third party sells an airline company’s tickets on behalf of that company in the context of a franchise agreement and pays that company, in respect of tickets issued and no longer valid, a lump sum calculated as a percentage of the annual turnover from the corresponding flight routes, that sum constitutes a taxable amount as consideration for those tickets.
+It should be noted that, under Article 21(1)(a) of the Sixth Directive and the amended Sixth Directive, it is the airline company which performs the transport service that is the person liable to pay VAT on the price of the ticket sold.
+As is apparent from the answer given to the previous questions, the price of the ticket paid by the passenger constitutes consideration for the transport service offered by the airline company, and that price is, as such, subject to VAT. Moreover, that tax is chargeable on receipt of payment of the ticket price, even where the passenger does not take the flight.
+If the referring court considers that Air France-KLM acted in the name of and on behalf of Brit Air when the tickets were sold, Brit Air was required to pay the VAT on the tickets. By contrast, if it considers that Air France-KLM acted in its own name but on behalf of Brit Air, there are two operations taking place, which however have no influence on the final amount of the VAT, in so far as the amounts are identical, since each of the companies is required to make its own declaration including the VAT charged and passed on.
+As regards the lump sum paid by Air France-KLM to Brit Air in respect of tickets sold which are no longer valid, it should first be noted that, contrary to what is claimed by Brit Air, the sum which it received from Air France-KLM cannot be regarded as a compensatory sum paid by Air France-KLM for harm suffered by Brit Air.
+In that regard, it should be noted, regarding those tickets which were issued but not used, that the airline company does not suffer any harm resulting from the fact that the ‘no-show’ passenger did not turn up at the time of boarding. That passenger pays the price of the transport service when the ticket is purchased. Brit Air performed the service it was required to perform solely by virtue of the fact that the passenger had the right to benefit from the fulfilment of the obligations under the contract to transport passengers by air. The lack of a right to reimbursement of the price of the ticket indicates that the airline company did not suffer any harm.
+It follows that the ticket price retained by the airline company is not intended to compensate for possible harm suffered by the company as a result of a customer’s ‘no-show’, but constitutes remuneration for the transport service offered by the company to the customer, even where the latter does not use the service.
+In those circumstances, the lump sum paid by Air France-KLM to Brit Air in respect of tickets sold and no longer valid, calculated as a percentage of the annual turnover from the corresponding flight routes, cannot be regarded as having been established between the parties in order to compensate for harm suffered by Brit Air. On the contrary, it is clear that that sum, which was contractually agreed between the parties, corresponds to the value attributed by the two companies concerned to tickets issued for a transport service but not used by the purchasers. Therefore, the lump sum paid by Air France-KLM to Brit Air is the remuneration received by Brit Air as consideration for tickets which were issued by Air France-KLM on its behalf, but which were not used by the purchasers. There is therefore a direct link between the performance of the services provided and the remuneration received in that regard.
+In the light of the foregoing, the answer to the first question referred in Case C‑289/is that Articles 2(1) and 10(2) of the Sixth Directive and the amended Sixth Directive must be interpreted as meaning that, in the event that a third party sells an airline company’s tickets on behalf of that company in the context of a franchise agreement and pays that company, in respect of tickets issued and no longer valid, a lump sum calculated as a percentage of the annual turnover from the corresponding flight routes, that sum constitutes a sum that is taxable as consideration for those tickets.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+1.
+Articles 2(1) and 10(2) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment, as amended by Council Directive 1999/59/EC of June 1999, then by Council Directive 2001/115/EC of December 2001, must be interpreted as meaning that the issue by an airline company of tickets is subject to value added tax where the tickets issued have not been used by passengers and the latter are unable to obtain a refund for those tickets.
+ 
+2.
+Article 2(1) and the first and second subparagraphs of Article 10(2) of the Sixth Directive 77/388, as amended by Directive 1999/59, then by Directive 2001/115, must be interpreted as meaning that the value added tax paid when the air ticket was purchased by a passenger who has not used it becomes chargeable on receipt of payment of the ticket price, whether by the airline company itself, by a third party acting in its name and on its behalf, or by a third party acting in its own name but on behalf of the airline company.
+ 
+3.
+Articles 2(1) and 10(2) of the Sixth Directive 77/388, as amended by Directive 1999/59, then by Directive 2001/115, must be interpreted as meaning that, in the event that a third party sells an airline company’s tickets on behalf of that company in the context of a franchise agreement and pays that company, in respect of tickets issued and no longer valid, a lump sum calculated as a percentage of the annual turnover from the corresponding flight routes, that sum constitutes a sum that is taxable as consideration for those tickets.
+ 
+[Signatures]
+(
+*
+)   Language of the case: French.
+Top  
+ 

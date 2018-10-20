@@ -1,0 +1,116 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+December (
+*)
+‛Protection of individuals with regard to the processing of personal data — Directive 95/46/EC — Conditions for exercising a right of access — Levying of excessive fees’
+In Case C‑486/12,
+REQUEST for a preliminary ruling under Article TFEU from the Gerechtshof te ’s-Hertogenbosch (Netherlands), made by decision of October 2012, received at the Court on October 2012, in the proceedings brought by
+X
+THE COURT (Eighth Chamber),
+composed of C.G. Fernlund (Rapporteur), President of the Chamber, C. Toader and E. Jarašiūnas, Judges,
+Advocate General: Y. Bot,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+the Netherlands Government, by B. Koopman and C. Wissels, acting as Agents,
+—
+the Czech Government, by M. Smolek, acting as Agent,
+—
+the Hungarian Government, by M.Z. Fehér and by K. Szíjjártó and K. Molnár, acting as Agents,
+—
+the Polish Government, by B. Majczyna and M. Szpunar, acting as Agents,
+—
+the Portuguese Government, by L. Inez Fernandes and C. Vieira Guerra, acting as Agents,
+—
+the United Kingdom Government, by J. Beeko, acting as Agent, assisted by J. Holmes, Barrister,
+—
+the European Commission, by B. Martenczuk and P. van Nuffel, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31).
+The request has been made in proceedings brought by X concerning payment of a fee for delivery of a certified transcript containing personal data.
+Legal context
+European Union (‘EU’) law
+Article of Directive 95/46, entitled ‘Right of access’, provides:
+‘Member States shall guarantee every data subject the right to obtain from the controller:
+(a)
+without constraint at reasonable intervals and without excessive delay or expense:
+—
+confirmation as to whether or not data relating to him are being processed and information at least as to the purposes of the processing, the categories of data concerned, and the recipients or categories of recipients to whom the data are disclosed,
+—
+communication to him in an intelligible form of the data undergoing processing and of any available information as to their source,
+—
+knowledge of the logic involved in any automatic processing of data concerning him at least in the case of the automated decisions referred to in Article 15(1);
+(b)
+as appropriate the rectification, erasure or blocking of data the processing of which does not comply with the provisions of this Directive, in particular because of the incomplete or inaccurate nature of the data;
+(c)
+notification to third parties to whom the data have been disclosed of any rectification, erasure or blocking carried out in compliance with (b), unless this proves impossible or involves a disproportionate effort.’
+Netherlands law
+Article of the Wet gemeentelijke basisadministratie persoonsgegevens (Law on personal data held by local authorities) (Stb. No 494) (‘the Wet GBA’) provides:
+‘1.   The College shall inform anyone, on request, in writing, within four weeks and free of charge, whether personal data relating to that person are being processed in the database. In so far as such data are being processed, the person making the request regarding the municipal database must receive the written notification referred to in Article 78(3). …
+2.   The College shall provide anyone, on request, within four weeks and free of charge, with access to the data relating to that person contained in the database. …
+3.   The College shall provide anyone, on request, within four weeks, with a transcript (certified if required), in an intelligible form, of the personal data relating to him which are being processed in the database, and the available information on the source of such data in so far as the person making the request is not himself the source. …’
+Article of the Gemeentewet (Law on municipalities) is worded as follows:
+‘1.   Duties may be levied on:
+…
+(b)
+the use of services provided by or on behalf of the municipal authorities;
+…’
+Article 229b(1) of the Gemeentewet provides:
+‘In the Regulations on the basis of which duties as referred to in Article 229(1)(a) and (b) are levied, the rates shall be set in such a way that the estimated income from the duties does not exceed the estimated expenditure related thereto. …’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+In proceedings contesting a decision imposing a fine on X for a traffic offence, X sought to show that she had never received the notices requesting payment of that fine, as they had been sent to the wrong address. To that end, X asked her municipality of residence to disclose her personal data for the years and 2009, in particular her various addresses. In response, the municipality provided a certified transcript of the personal data in question pursuant to Article 79(3) of the Wet GBA and, in exchange, demanded payment of a fee of EUR 12.80.
+X brought an action contesting that request for payment, but was unsuccessful. In her appeal before the Gerechtshof te ’s-Hertogenbosch (Regional Court of Appeal, te ’s-Hertogenbosch; or ‘the referring court’), X claims not to have requested a certified transcript, but simply to have sought to obtain her personal data on the basis of the Wet Openbaarheid van Bestuur (Law on open government). In the light of that legal basis, X argues that no fees should have been levied.
+For its part, the municipality contends that the personal data in question cannot be provided in any way other than by certified transcript pursuant to Article 79(3) of the Wet GBA. As provision of a transcript to an individual is connected with satisfying the private interests of that individual, it is a service in respect of which, under Article 229(1)(b) of the Gemeentewet, payment of a fee may be required.
+The referring court observes that (i) certified transcripts of personal data are the only ones to be officially recognised and used by the public authorities and (ii) the provision of data from municipal files falls within the scope of Directive 95/46, regardless of the basis, in national law, for the request for access to such data.
+According to that court, Article 12(a) of Directive 95/guarantees every data subject the right to obtain, without constraint, at reasonable intervals and without excessive delay or expense, communication to him in an intelligible form of the personal data undergoing processing and of any available information as to their source. That court is also of the view that Article 12(a) of Directive 95/can be construed in two ways:
+—
+the communication of personal data must take place without excessive delay or excessive expense, or
+—
+the communication of personal data must take place without excessive delay and without expense.
+In the former case, it is permissible to levy a fee, so long as it is not excessive. In the latter case, levying a fee is prohibited.
+As regards the issue of whether the fee in question is excessive, the referring court observes that, under Article 229b of the Gemeentewet, the rates are to be set in such a way that the income from that fee does not exceed the related expenditure. However, that is no guarantee that the income from fees will not be higher than the expenditure related to the communication of personal data. The referring court is also uncertain as to the exact point at which fees levied may be regarded as excessive for the purposes of Article 12(a) of Directive 95/46.
+If it is found that Article 12(a) of Directive 95/must be interpreted as meaning that personal data is to be communicated free of charge, the referring court is uncertain as to whether it is necessary to provide an alternative to the provision of a transcript which must be paid for pursuant to Article 79(3) of the Wet GBA, perhaps by allowing data to be viewed on a display screen. However, it points out that access to a display screen does not constitute a communication for the purposes of Article 12(a) of the directive and that Article of the Charter of Fundamental Rights of the European Union (‘the Charter’) protects only the right to access data. Access to data via a display screen has the additional disadvantage that, unlike a certified transcript, it cannot be accepted as authentic and accurate by the public authorities (Case C-553/Rijkeboer [2009] ECR I-3889) and cannot provide a historical overview of the data registered.
+In those circumstances, the Gerechtshof te’s-Hertogenbosch decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘1.
+Does the provision of access [to data] (pursuant to Article 79(2) of the Wet GBA) constitute compliance with the obligation [to communicate] data undergoing processing as referred to in the second indent of Article 12(a) of Directive [95/46/EC]?
+2.
+Does Article 12(a) of [that directive] preclude the levying of fees in respect of the communication, by means of a transcript from the municipal database, of the personal data undergoing processing?
+3.
+If Question is to be answered in the negative: is the levying of the present fee excessive [for the purposes of] Article 12(a) of [that directive]?’
+Consideration of the questions referred
+Question By its second question, which it is appropriate to examine first, the referring court asks, in essence, whether Article 12(a) of Directive 95/is to be interpreted as precluding the levying of fees in respect of the communication of personal data by a public authority.
+All the Member States which have submitted written observations to the Court maintain, as does the European Commission, that Article 12(a) of Directive 95/allows public authorities to require payment of fees in respect of the communication of personal data referred to in that provision, so long as those fees are not excessive.
+It should be pointed out that the Dutch-language version of Article 12(a) of Directive 95/uses the phrase ‘bovenmatige vertraging of kosten’. That wording might be thought to suggest that the adjective ‘bovenmatige’ (‘excessive’) relates only to delays (‘vertraging’), thereby suggesting that the right to obtain communication of the data referred to in that provision should not be subject to the payment of fees.
+However, for the purposes of its interpretation, Article 12(a) of Directive 95/cannot be examined solely in the Dutch-language version: according to settled case-law, the need for the uniform application of an EU measure and, accordingly, for a uniform interpretation of that measure makes it impossible to consider one version of the text in isolation, but requires that it be interpreted on the basis of both the real intention of its author and the aim which the latter seeks to achieve, in the light, in particular, of the versions in all languages (see, inter alia, Case 29/Stauder [1969] ECR I-419, paragraph 3; Case C-280/Jyske Finans [2005] ECR I-10683, paragraph 31; and Case C-445/IMC Securities [2011] ECR I-5917, paragraph 25).
+There is nothing in the non-Dutch-language versions of Article 12(a) of Directive 95/to suggest that Member States are required to communicate the information referred to in that provision free of charge. On the contrary, other versions of that provision – for example, the Spanish (‘sin retrasos ni gastos excesivos’), Danish (‘uden større ventetid eller større udgifter’), German (‘ohne unzumutbare Verzögerung oder übermäβiger Kosten’), French (‘sans délais ou frais excessifs’), Italian (‘senza ritardi o spese eccessivi’), Portuguese (‘sem demora ou custos excessivos’) and Finnish (‘aiheetonta viivyvtystä tai aiheettomia kustannuksia’) – indicate that Member States are merely required to communicate such information without levying excessive fees.
+It is true that some language versions of the provision in question – such as the English (‘without excessive delay or expense’) and Swedish (‘större tidsutdräkt eller kostnader’) versions – are, like the Dutch version, ambiguous in so far as the adjective ‘excessive’ does not explicitly qualify the word ‘expense’. However, none of the language versions of that provision unequivocally states that communication must take place free of charge.
+It is therefore clear from the wording of Article 12(a) of Directive 95/that that provision does not require the Member States to levy fees when the right to access personal data is exercised; nor, however, does it prohibit the levying of such fees, so long as they are not excessive.
+Consequently, the answer to Question is that Article 12(a) of Directive 95/must be interpreted as not precluding the levying of fees in respect of the communication of personal data by a public authority.
+Question By its third question, the referring court seeks to ascertain, in essence, the criteria on the basis of which it is possible to ensure that a fee which is levied when the right to access personal data is exercised is not excessive for the purposes of Article 12(a) of Directive 95/46.
+Under that provision, the Member States are to confer upon any person a right of access to personal data relating to him and to information on the recipients or categories of recipients of such data and the logic involved in any automatic processing of such data. In view of the considerations made above in the analysis of Question 2, Article 12(a) of Directive 95/must be interpreted as requiring Member States to ensure that the exercise of that right of access takes place without constraint, without excessive delay, and without excessive expense.
+Accordingly, it is for the Member States to determine whether communication of the information referred to in Article 12(a) of Directive 95/entails the payment of fees and, if so, to set such fees at a level which is not excessive.
+However, that provision does not list any criteria for assessing whether fees levied by a Member State when the right of access provided for thereunder is exercised are to be regarded as excessive. In order to establish such criteria, Article 12(a) of Directive 95/must be construed with regard to its purpose when examined in the light of the objectives of that directive.
+Thus, it is for any Member State which requires payment of a fee from individuals exercising the right to access the data referred to in Article 12(a) of Directive 95/to fix that fee at a level which constitutes a fair balance between, on the one hand, the interest of the data subject in protecting his privacy, in particular through his right to have the data communicated to him in an intelligible form, so that he is able, if necessary, to exercise his rights to rectification, erasure and blocking of the data (in the event that the processing of the data does not comply with the directive) and his rights to object and to bring legal proceedings and, on the other, the burden which the obligation to communicate such data represents for the controller (see, by analogy, Rijkeboer, paragraph 64).
+In view of the importance – highlighted in recitals and in the preamble to Directive 95/– of protecting privacy, emphasised in the case-law of the Court (see Rijkeboer, paragraph and the case-law cited) and enshrined in Article of the Charter, the fees which may be levied under Article 12(a) of the directive may not be fixed at a level likely to constitute an obstacle to the exercise of the right of access guaranteed by that provision.
+It should be held that, for the purposes of applying Article 12(a) of Directive 95/46, where a national public authority levies a fee on an individual exercising the right to access personal data relating to him, the level of that fee should not exceed the cost of communicating such data. That upper limit does not prevent the Member States from fixing such fees at a lower level in order to ensure that all individuals retain an effective right to access such data.
+Accordingly, the answer to Question is that Article 12(a) of Directive 95/must be interpreted as meaning that, in order to ensure that fees levied when the right to access personal data is exercised are not excessive for the purposes of that provision, the level of those fees must not exceed the cost of communicating such data. It is for the national court to carry out any verifications necessary, having regard to the circumstances of the case.
+Question Question must be understood to arise solely in the event that Article 12(a) of Directive 95/is interpreted as precluding the levying of fees in respect of the communication of personal data by a public authority. As it is, in view of the answer to Question 2, there is no need to answer Question 1.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+1.
+Article 12(a) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data must be interpreted as not precluding the levying of fees in respect of the communication of personal data by a public authority.
+ 
+2.
+Article 12(a) of Directive 95/must be interpreted as meaning that, in order to ensure that fees levied when the right to access personal data is exercised are not excessive for the purposes of that provision, the level of those fees must not exceed the cost of communicating such data. It is for the national court to carry out any verifications necessary, having regard to the circumstances of the case.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

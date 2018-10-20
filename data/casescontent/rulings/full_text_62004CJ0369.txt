@@ -1,0 +1,356 @@
+
+Case C-369/Hutchison 3G UK Ltd and Others
+v
+Commissioners of Customs and Excise
+(Reference for a preliminary ruling from the 
+VAT and Duties Tribunal, London)
+(Sixth VAT Directive – Taxable transactions – Definition of ‘economic activity’ – Article 4(2) – Allocation of licences making it possible to use a defined part of the radio-frequency spectrum reserved for telecommunications
+         services)
+      
+Opinion of Advocate General Kokott delivered on September Judgment of the Court (Grand Chamber), June Summary of the Judgment
+Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Economic activities within the
+            meaning of Article 4(1) and (2) of the Sixth Directive 
+(Council Directive 77/388, Art. 4(1) and (2)
+Article 4(1) and (2) of the Sixth Directive 77/on the harmonisation of the laws of the Member States relating to turnover
+         taxes must be interpreted as meaning that the issuing of licences, such as third generation mobile telecommunications licences
+         known as ‘UMTS’, by auction by the national regulatory authority responsible for spectrum assignment of the rights to use
+         telecommunications equipment does not constitute an economic activity within the meaning of that provision and, consequently,
+         does not fall within the scope of that directive.
+      
+Such an activity constitutes a necessary precondition for the access of economic operators to the mobile telecommunications
+         market and cannot constitute participation in that market by the competent national authority. Only those operators, who are
+         the holders of the rights granted, operate on the relevant market by exploiting the property in question for the purpose of
+         obtaining income therefrom on a continuing basis.
+      
+Therefore, in granting such authorisations, the competent national authority is not participating in the exploitation of property,
+         consisting in the said user rights, for the purpose of obtaining income therefrom on a continuing basis. By means of that
+         allocation procedure, that authority exclusively carries out the activity of controlling and regulating the use of the electromagnetic
+         spectrum which has been expressly delegated to it.
+      
+Furthermore, the fact that the issuing of the licences in question gives rise to a payment cannot affect the legal status
+         of that activity.
+      
+(see paras 36, 38-39, 43, operative part)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+June (*)
+      
+(Sixth VAT Directive – Taxable transactions – Definition of ‘economic activity’ – Article 4(2) – Allocation of licences making it possible to use a defined part of the radio-frequency spectrum reserved for telecommunications
+         services)
+      
+In Case C‑369/04,
+REFERENCE for a preliminary ruling under Article EC from the VAT and Duties Tribunal, London (United Kingdom), made by
+         decision of August 2004, received at the Court on August 2004, in the proceedings
+      
+Hutchison 3G UK Ltd,
+mmOplc,
+Orange 3G Ltd,
+T-Mobile (UK) Ltd,
+Vodafone Group Services Ltd
+v
+Commissioners of Customs and Excise,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, P. Jann, C.W.A. Timmermans, A. Rosas, K. Lenaerts, P. Kūris, E. Juhász and J. Klučka, Presidents
+         of Chambers, K. Schiemann, J. Makarczyk (Rapporteur) and U. Lõhmus, Judges,
+      
+Advocate General: J. Kokott,
+Registrars: B. Fülöp and K. Sztranc-Sławiczek, Administrators,
+having regard to the written procedure and further to the hearing on February 2006,
+after considering the observations submitted on behalf of:
+–       Hutchison 3G UK Ltd, mmOplc, Orange 3G Ltd, T-Mobile (UK) Ltd and Vodafone Group Services Ltd, by K.P.E. Lasok QC, and J. Turnbull and P. Lomas, Solicitors,
+      
+–       the United Kingdom Government, by M. Bethell and R. Caudwell, acting as Agents, P. Goldsmith QC, K. Parker QC, C. Vajda QC,
+         and G. Peretz, Barrister,
+      
+–       the Danish Government, by J. Molde, acting as Agent, and by K. Hagel‑Sørensen, advokat,
+–       the German Government, by W.‑D. Plessing and C. Schulze‑Bahr, acting as Agents, and by K.‑T. Stopp, Rechtsanwalt,
+–       the Spanish Government, by J. Rodriguez Cárcamo, acting as Agent,
+–       Ireland, by D. O’Hagan, acting as Agent, and by A. Aston, SC, and G. Clohessy, BL,
+–       the Netherlands Government, by H.G. Sevenster and M. de Grave, acting as Agents,
+–       the Commission of the European Communities, by K. Gross, R. Lyal and M. Shotter, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Sixth Council Directive 77/388/EEC of May on
+         the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform
+         basis of assessment (OJ L 145, p. 1) (‘the Sixth Directive’), and Article of that directive in particular.
+      
+The reference was made in the course of proceedings brought by Hutchison 3G UK Ltd, mmOplc, Orange 3G Ltd, T-Mobile (UK) Ltd and Vodafone Group Services Ltd against the Commissioners of Customs and Excise, who
+         are responsible for the collection of value added tax (‘VAT’) in the United Kingdom, seeking the right to deduct the amount
+         of VAT which those companies claim to have paid when the Secretary of State for Trade and Industry granted third-generation
+         mobile telecommunications licences, known as ‘UMTS’ (‘the licences at issue in the main proceedings’), to them in by
+         auction.
+      
+ Legal context
+ Provisions relating to VAT
+ Community legislation
+Under Article 2(1) of the Sixth Directive, the supply of goods or services effected for consideration within the territory
+         of the country by a taxable person acting as such is subject to value added tax.
+      
+Article of the Sixth Directive provides:
+‘1. “Taxable person” shall mean any person who independently carries out in any place any economic activity specified in paragraph
+         2, whatever the purpose or results of that activity.
+      
+2. The economic activities referred to in paragraph shall comprise all activities of producers, traders and persons supplying
+         services including mining and agricultural activities and activities of the professions. The exploitation of tangible or intangible
+         property for the purpose of obtaining income therefrom on a continuing basis shall also be considered an economic activity.
+      
+…
+5. States, regional and local government authorities and other bodies governed by public law shall not be considered taxable
+         persons in respect of the activities or transactions in which they engage as public authorities, even where they collect dues,
+         fees, contributions or payments in connection with these activities or transactions.
+      
+However, when they engage in such activities or transactions, they shall be considered taxable persons in respect of these
+         activities or transactions where treatment as non-taxable persons would lead to significant distortions of competition.
+      
+In any case, these bodies shall be considered taxable persons in relation to the activities listed in Annex D, provided they
+         are not carried out on such a small scale as to be negligible.
+      
+…’
+Article of the Sixth Directive provides:
+‘1. The right to deduct shall arise at the time when the deductible tax becomes chargeable.
+2. In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be
+         entitled to deduct from the tax which he is liable to pay:
+      
+(a)       value added tax due or paid in respect of goods or services supplied or to be supplied to him by another taxable person;
+…’
+Item of Annex D to the Sixth Directive refers to telecommunications.
+ National legislation
+Section 4(1) of the Value Added Tax Act provides:
+‘VAT shall be charged on any supply of goods or services made in the United Kingdom, where it is a taxable supply made by
+         a taxable person in the course or furtherance of any business carried on by him.’
+      
+ Provisions relating to the allocation of the licences at issue in the main proceedings
+ Community legislation
+Directive 97/13/EC of the European Parliament and of the Council of April on a common framework for general authorisations
+         and individual licences in the field of telecommunications services (OJ L 117, p. 15) was in force until July 2003.
+      
+Article 2(1) of Directive 97/provides:
+‘1. For the purposes of this Directive,
+…
+(d)       “essential requirements” means the non-economic reasons in the public interest which may cause a Member State to impose conditions
+         on the establishment and/or operation of telecommunications networks or the provision of telecommunications services. Those
+         reasons shall be the security on network operations, the maintenance of network integrity and, where justified, the interoperability
+         of services, data protection, the protection of the environment and town and country planning objectives, as well as the effective
+         use of the frequency spectrum and the avoidance of harmful interference between radio-based telecommunications systems and
+         other space-based or terrestrial technical systems. …’
+      
+As set out in the second sentence of Article 3(3) of Directive 97/13:
+‘Member States may issue an individual licence only where the beneficiary is given access to scarce physical and other resources
+         or is subject to particular obligations or enjoys particular rights, in accordance with the provisions of Section III.’
+      
+Article 4(1) of Directive 97/specifies the conditions attached to general authorisations as follows:
+‘Where Member States subject the provision of telecommunications services to general authorisations, the conditions which,
+         where justified, may be attached to such authorisations are set out in points and of the Annex. Such authorisations shall
+         entail the least onerous system possible consistent with enforcing the relevant essential requirements and relevant other
+         public interest requirements set out in points and of the Annex.’
+      
+Section III of Directive 97/13, which covers Articles to 11, governs individual licences, where circumstances justify the
+         grant of such licences. The first subparagraph of Article 8(1) of that directive provides that ‘[t]he conditions which, in
+         addition to those set out for general authorisations, may, where justified, be attached to individual licences are set out
+         in points and of the Annex’. Under points 2.and 4.of that annex, this includes inter alia the conditions intended
+         to ensure compliance with relevant essential requirements and specific conditions linked to the effective use and efficient
+         management of radio frequencies.
+      
+Pursuant to Article 10(1) of Directive 97/13, Member States may limit the number of individual licences to the extent required
+         to ensure the efficient use of radio frequencies. Under Article 10(2), first indent, they must, in this respect, give due
+         weight to the need to maximise benefits for users and to facilitate the development of competition. The first subparagraph
+         of Article 10(3) requires that Member States grant such individual licences on the basis of selection criteria which must
+         be objective, non-discriminatory, detailed, transparent and proportionate.
+      
+It is apparent from Article 11(1) of Directive 97/that the grant of licences may give rise to the imposition of fees which
+         ‘seek only to cover the administrative costs incurred in the issue, management, control and enforcement of the applicable
+         individual licences’. Furthermore, Article 11(2) provides:
+      
+‘Notwithstanding paragraph 1, Member States may, where scarce resources are to be used, allow their national regulatory authorities
+         to impose charges which reflect the need to ensure the optimal use of these resources. Those charges shall be non-discriminatory
+         and take into particular account the need to foster the development of innovative services and competition.’
+      
+Directive 97/was repealed and replaced as of July by Directive 2002/21/EC of the European Parliament and of the
+         Council of March on a common regulatory framework for electronic communications networks and services (Framework Directive)
+         (OJ L 108, p. 33).
+      
+Article of Directive 2002/provides:
+‘…
+3. Member States may make provision for undertakings to transfer rights to use radio frequencies [to] other undertakings.
+4. Member States shall ensure that an undertaking’s intention to transfer rights to use radio frequencies is notified to the
+         national regulatory authority responsible for spectrum assignment and that any transfer takes place in accordance with procedures
+         laid down by the national regulatory authority and is made public. National regulatory authorities shall ensure that competition
+         is not distorted as a result of any such transaction. Where radio frequency use has been harmonised through the application
+         of Decision No 676/2002/EC [of the European Parliament and of the Council of March on a regulatory framework for radio
+         spectrum policy in the European Community (Radio Spectrum Decision) (OJ L 108, p. 1)] or other Community measures, any
+         such transfer shall not result in change of use of that radio frequency.’
+      
+ National legislation
+Under section 1(1) of the Wireless Telegraphy Act (‘the WTA 1949’), no person is to establish or use any station for
+         wireless telegraphy or install or use any apparatus for wireless telegraphy except under the authority of a licence in that
+         behalf granted under that section by the Secretary of State. The WTA provides for the imposition of criminal penalties
+         for infringement of that prohibition.
+      
+Section 2(1) of the Wireless Telegraphy Act (‘the WTA 1998’) lays down the guidelines for the award of licences and,
+         in particular, permits the Secretary of State to prescribe sums that exceed the administrative charges required to cover costs.
+         Under section 2(2)(c) of that act, the Secretary of State is to have regard, in prescribing those sums, to the desirability
+         of promoting:
+      
+–       the efficient use and management of the electromagnetic spectrum;
+–       any economic benefits arising from the use of wireless telegraphy;
+–       the development of innovative services, and
+–       competition in the provision of telecommunication services.
+Section 3(1) of the WTA provides:
+‘Having regard to the desirability of promoting the optimal use of the electromagnetic spectrum, the Secretary of State may
+         by regulations provide that, in such cases as may be specified in or determined by him under the regulations, applications
+         for the grant of wireless telegraphy licences must be made in accordance with a procedure which:
+      
+(a)      is set out in a notice issued by him under the regulations, and
+(b)      involves the making by the applicant of a bid specifying an amount which he is willing to pay to the Secretary of State in
+         respect of the licence.’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+In spring 2000, the Secretary of State allocated the licences at issue in the main proceedings by public auction.
+The undertakings which obtained those licences were those that bid the most money for the frequency lots offered, one of those
+         lots being reserved for a new entrant in the market. As a result of the auction, the tenderers as a whole paid a total sum
+         of GBP 000.
+      
+The auction was carried out in the name of the Secretary of State by the Radiocommunications Agency, which is an executive
+         agency of the Department of Trade and Industry. No reference to VAT was made during the auction procedure.
+      
+The licences thus allocated will expire on December unless revoked earlier by the Secretary of State or surrendered
+         by the licensee.
+      
+As they consider that those allocations were subject to VAT and that the VAT was included in the amounts paid, the tendering
+         companies sought to recover the sums which they claim to have paid as VAT under the national legislation which transposed
+         Article of the Sixth Directive. As their claims were rejected on the ground that the grant of the licences at issue in
+         the main proceedings was not subject to VAT, they brought an action before the VAT and Duties Tribunal, London.
+      
+In those circumstances, the VAT and Duties Tribunal, London, decided to stay the proceedings and refer the following questions
+         to the Court for a preliminary ruling:
+      
+‘(1)      In the circumstances set out in the Agreed Statement of Facts …, is the term “economic activity” for the purposes of Article
+         4(1) and (2) of the Sixth Directive to be interpreted as including the issuing of third-generation mobile telecommunications
+         licences by the Secretary of State … by auction of rights to use telecommunications equipment in defined parts of the electromagnetic
+         spectrum (“the activity”), and what considerations are relevant to that question?
+      
+(2)      In the circumstances set out in the Agreed Statement of Facts what considerations are relevant to the question whether or
+         not the Secretary of State, in conducting the activity, was acting as a “public authority” within the meaning of Article 4(5)
+         of the Sixth Directive? 
+      
+(3)      In the circumstances set out in the Agreed Statement of Facts, can the activity be (i) in part an economic activity and in
+         part not, and/or (ii) partly carried out by a body governed by public law acting as a public authority and partly not, with
+         the result that the activity would be partly chargeable to VAT under the Sixth Directive and partly not? 
+      
+(4)      How likely and how close in time to the carrying out of an activity such as the activity does a “significant distortion of
+         competition” within the meaning of the second subparagraph of Article 4(5) of the Sixth Directive have to be in order for
+         the person carrying out that activity to be required by that subparagraph to be considered a taxable person in respect of
+         that activity? To what extent, if any, does the principle of fiscal neutrality bear on that question?
+      
+(5)      Does the word “telecommunications” in Annex D to the Sixth Directive (which is referred to in the third subparagraph of Article
+         4(5) of the Sixth Directive) include the issuing of third-generation mobile telecommunications licences by the Secretary of
+         State auction of rights to use telecommunications equipment in defined parts of the electromagnetic spectrum, in the circumstances
+         set out in the Agreed Statement of Facts?
+      
+(6)      Where (i) a Member State chooses to implement Article 4(1) and (5) of the Sixth Directive by legislation conferring on a Government
+         department (such as, in this case, the United Kingdom Treasury) a statutory power to make directions specifying which goods
+         or services supplied by Government departments are to be treated as taxable supplies and (ii) that Government department makes,
+         or purports to make, pursuant to that statutory power, directions specifying that certain supplies are taxable: is the principle
+         set out in Case C-106/Marleasing [1990] ECR I-4135, paragraph 8, relevant to the interpretation of the domestic legislation and of those directions (and if
+         so, how)?’
+      
+ The questions referred for a preliminary ruling
+ The first question
+By its first question, the national court wishes to ascertain whether an activity such as the issuing of the licences at issue
+         in the main proceedings by the Secretary of State by auction constitutes an ‘economic activity’ within the meaning of Article
+         4(1) and (2) of the Sixth Directive.
+      
+Under Article 4(1) of the Sixth Directive, ‘taxable person’ means any person who independently carries out in any place any
+         economic activity specified in paragraph thereof, whatever the purpose or results of that activity. ‘Economic activity’
+         is defined in Article 4(2) as including all activities of producers, traders and persons supplying services, inter alia the
+         exploitation of tangible or intangible property for the purpose of obtaining income therefrom on a continuing basis.
+      
+In that regard, it must be pointed out that, although Article of the Sixth Directive gives a very wide scope to VAT, only
+         activities of an economic nature are covered by that provision (see, to that effect, Case C-306/Régie dauphinoise [1996] ECR I-3695, paragraph 15; Case C‑77/EDM [2004] ECR I-4295, paragraph 47; and Case C-465/Kretztechnik [2005] ECR I-4357, paragraph 18).
+      
+It is also apparent from settled case-law that an analysis of the definitions of ‘taxable person’ and ‘economic activities’
+         shows that the scope of the term ‘economic activities’ is very wide, and that the term is objective in character, in the sense
+         that the activity is considered per se and without regard to its purpose or results (see, inter alia, Case C-223/University of Huddersfield [2006] ECR I-1751, paragraph and the case-law cited). 
+      
+According to the order for reference, in the main proceedings the activity carried out by the Secretary of State consisted
+         of allocating, by auction, rights to use certain frequencies in the electromagnetic spectrum to economic operators for a specified
+         period. At the end of the awards procedure, those operators were issued with the authorisation to exploit the rights thus
+         acquired to set up telecommunications equipment operating in defined parts of the electromagnetic spectrum.
+      
+Therefore it has to be established whether the issuing of such an authorisation is to be regarded, by its very nature, as
+         the ‘exploitation of … property’ within the meaning of Article 4(2) of the Sixth Directive.
+      
+At the outset, it is important to point out that, in accordance with the requirements of the principle of neutrality of the
+         common system of value added tax, the term ‘exploitation’ refers to all transactions, whatever may be their legal form, by
+         which it is sought to obtain income from the goods in question on a continuing basis (see, to that effect, Case C-186/Van Tiem [1990] ECR I-4363, paragraph 18; EDM, paragraph 48; and Case C-8/BBL [2004] ECR I-10157, paragraph 36). 
+      
+In that regard, it must be stated that the activity at issue in the main proceedings consists of the issuing of authorisations
+         which allow the economic operators who receive them to exploit the resulting frequency use rights by offering their services
+         to the public on the mobile telecommunications market in return for remuneration.
+      
+Such an activity constitutes the means of fulfilling the conditions laid down by Community law, for the purpose, inter alia,
+         of ensuring the effective use of the frequency spectrum and the avoidance of harmful interference between radio-based telecommunications
+         systems and other space-based or terrestrial technical systems and also the efficient management of radio frequencies, as
+         is apparent from Article 2(1)(d) of Directive 97/read in conjunction with Articles 4(1) and 8(1) thereof.
+      
+Furthermore, it should also be pointed out that, under Directive 97/13, the WTA and the WTA 1998, the issuing of such
+         authorisations falls exclusively within the competence of the Member State concerned.
+      
+Thus, an activity such as that at issue in the main proceedings constitutes a necessary precondition for the access of economic
+         operators such as the applicants in the main proceedings to the mobile telecommunications market. It cannot constitute participation
+         in that market by the competent national authority. Only the operators, who are the holders of the rights granted, operate
+         on the relevant market by exploiting the property in question for the purpose of obtaining income therefrom on a continuing
+         basis.
+      
+In those circumstances, an activity such as that at issue in the main proceedings cannot, by its very nature, be carried out
+         by economic operators. In that regard, it must be pointed out that it is irrelevant that those operators thereafter have the
+         right to transfer their rights to use radio frequencies. Such a transfer, apart from remaining subject to the control of the
+         national regulatory authority responsible for spectrum assignment, in accordance with Article 9(4) of Directive 2002/21, cannot
+         be compared to the issuing of an authorisation by the State.
+      
+Therefore, in granting such an authorisation, the competent national authority is not participating in the exploitation of
+         property, consisting in rights to use the radio-frequency spectrum for the purpose of obtaining income therefrom on a continuing
+         basis. By means of that allocation procedure, that authority exclusively carries out the activity of controlling and regulating
+         the use of the electromagnetic spectrum which has been expressly delegated to it.
+      
+Furthermore, the fact that the issuing of licences such as those at issue in the main proceedings gives rise to a payment
+         cannot affect the legal status of that activity (see, to that effect, Case C‑343/Diego Calì & Figli [1997] ECR I-1547, paragraph and the case-law cited).
+      
+Consequently, the issuing of those licences cannot constitute an ‘economic activity’ within the meaning of Article 4(2) of
+         the Sixth Directive.
+      
+That finding is not called into question by the argument that, having regard to Article 4(5) of the Sixth Directive, it is
+         not inconceivable that a regulatory activity carried out by a body governed by public law may constitute an economic activity
+         within the meaning of Article 4(2) of that directive, so that that body would have to be considered a taxable person in respect
+         of that activity.
+      
+Even if such a regulatory activity could be classified as an economic activity, the fact still remains that the application
+         of Article 4(5) of the Sixth Directive implies a prior finding that the activity considered is of an economic nature. It is
+         apparent from the answer given in paragraph of this judgment that that is not the case. 
+      
+In the light of the foregoing, the answer to the first question must be that Article 4(1) and (2) of the Sixth Directive is
+         to be interpreted as meaning that the issuing, by the national regulatory authority responsible for spectrum assignment, of
+         licences such as those at issue in the main proceedings by an auction of rights to use telecommunications equipment does not
+         constitute an economic activity within the meaning of that provision and, consequently, does not fall within the scope of
+         that directive.
+      
+ The other questions
+In view of the answer given to the first question, there is no need to answer the other questions asked by the national court.
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+Article 4(1) and (2) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States
+            relating to turnover taxes – Common system of value added tax: uniform basis of assessment is to be interpreted as meaning
+            that the issuing of licences, such as third generation mobile telecommunications licences known as ‘UMTS’, by auction by the
+            national regulatory authority responsible for spectrum assignment of the rights to use telecommunications equipment does not
+            constitute an economic activity within the meaning of that provision and, consequently, does not fall within the scope of
+            that directive.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

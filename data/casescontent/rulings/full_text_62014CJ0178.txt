@@ -1,0 +1,368 @@
+
+ARRÊT DE LA COUR (septième chambre)
+mars (*)
+      
+«Renvoi préjudiciel – Union douanière et tarif douanier commun – Nomenclature combinée − Classement tarifaire – Position – Caméras de télévision, appareils photographiques numériques et caméscopes – Sous-positions et – Caméras vidéo intégrées dans des lunettes de sport – Fonction ‘zoom optique’ − Enregistrement de fichiers provenant de sources externes»
+Dans l’affaire C‑178/14,
+ayant pour objet une demande de décision préjudicielle au titre de l’article TFUE, introduite par le Finanzgericht Düsseldorf
+         (Allemagne), par décision du avril 2014, parvenue à la Cour le avril 2014, dans la procédure
+      
+Vario Tek GmbH
+contre
+Hauptzollamt Düsseldorf,
+LA COUR (septième chambre),
+composée de M. J.‑C. Bonichot, président de chambre, MM. J. L. da Cruz Vilaça et C. Lycourgos (rapporteur), juges,
+avocat général: M. P. Cruz Villalón,
+greffier: M. A. Calot Escobar,
+vu la procédure écrite,
+considérant les observations présentées:
+–        pour Vario Tek GmbH, par M. P. Mönnighoff, Steuerberater,
+–        pour la Commission européenne, par MM. A. Caeiros et B.‑R. Killmann, en qualité d’agents,
+vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,
+rend le présent
+Arrêt
+La demande de décision préjudicielle porte sur l’interprétation des sous-positions et de la nomenclature
+         combinée figurant à l’annexe I du règlement (CEE) nº 2658/du Conseil, du juillet 1987, relatif à la nomenclature tarifaire
+         et statistique et au tarif douanier commun (JO L 256, p. 1), dans sa version résultant du règlement d’exécution (UE) nº 1006/de la Commission, du septembre (JO L 282, p. 1, ci-après la «NC»). 
+      
+Cette demande a été présentée dans le cadre d’un litige opposant Vario Tek GmbH (ci-après «Vario Tek») au Hauptzollamt Düsseldorf
+         (autorité douanière de Düsseldorf, ci-après le «Hauptzollamt»), au sujet du classement tarifaire de caméras vidéo intégrées
+         dans des lunettes de sport.
+      
+ Le cadre juridique 
+La NC, instaurée par le règlement nº 2658/87, est fondée sur le système harmonisé de désignation et de codification des marchandises,
+         élaboré par le Conseil de coopération douanière, devenu l’Organisation mondiale des douanes (OMD), et institué par la convention
+         internationale sur le système harmonisé de désignation et de codification des marchandises, conclue à Bruxelles le juin
+         1983. Cette convention a été approuvée, avec son protocole d’amendement du juin 1986, au nom de la Communauté économique
+         européenne, par la décision 87/369/CEE du Conseil, du avril (JO L 198, p. 1). 
+      
+La deuxième partie de la NC, intitulée «Tableau des droits», comprend une section XVI, sous laquelle figure notamment le chapitre
+         85, intitulé «Machines, appareils et matériels électriques et leurs parties; appareils d’enregistrement ou de reproduction
+         du son, appareils d’enregistrement ou de reproduction des images et du son en télévision, et parties et accessoires de ces
+         appareils».
+      
+La note figurant sous l’intitulé de ladite section est libellée comme suit:
+      
+«Sauf dispositions contraires, les combinaisons de machines d’espèces différentes destinées à fonctionner ensemble et ne constituant
+         qu’un seul corps, ainsi que les machines conçues pour assurer deux ou plusieurs fonctions différentes, alternatives ou complémentaires,
+         sont classées suivant la fonction principale qui caractérise l’ensemble.»
+      
+Le chapitre de la NC comprend les positions et sous-positions suivantes:
+      
+«Appareils d’émission pour la radiodiffusion ou la télévision, même incorporant un appareil de réception ou un appareil d’enregistrement
+                  ou de reproduction du son; caméras de télévision, appareils photographiques numériques et caméscopes:
+               
+[...]
+[...]
+− Caméras de télévision, appareils photographiques numériques et caméscopes:
+[...]
+[...]
+− − Appareils photographiques numériques
+ 
+− − Caméscopes :
+− − − permettant uniquement l’enregistrement du son et des images prises par la caméra de télévision
+− − − autres»
+L’annexe du règlement d’exécution (UE) nº 1249/de la Commission, du novembre 2011, relatif au classement de certaines
+         marchandises dans la nomenclature combinée (JO L 319, p. 39), adopté en vertu de l’article 9, paragraphe 1, sous a), du règlement
+         nº 2658/87, classe dans la NC les marchandises désignées dans la première colonne du tableau y figurant sous le code indiqué
+         en regard de ces marchandises dans la seconde colonne de ce tableau. S’agissant de la sous-position 99, ledit tableau
+         prévoit:
+      
+«Appareil portable fonctionnant sur batterie destiné à capturer et à enregistrer des films vidéo, mesurant environ × 5,× cm (dénommé ‘caméscope de poche’), comprenant :
+               
+− un objectif et un zoom numérique,
+− un microphone,
+− un haut-parleur,
+− un écran à cristaux liquides (LCD) d’une diagonale d’écran d’environ cm (pouces),
+− un microprocesseur,
+− une mémoire de GB,
+− des interfaces USB et AV.
+L’appareil permet uniquement de capturer et d’enregistrer des fichiers vidéo sous forme de séquences d’images au format MPEG4-AVI.
+                  La résolution en mode vidéo est de × pixels à raison de images par seconde pour une durée maximale d’enregistrement
+                  de heures. 
+               
+Les séquences vidéo enregistrées par l’appareil peuvent soit être transférées à une machine automatique de traitement de l’information
+                  via l’interface USB, sans modifier le format des fichiers vidéo, ou à un caméscope numérique, un moniteur ou un téléviseur
+                  via l’interface AV.
+               
+Les fichiers vidéo peuvent être transférés à l’appareil à partir d’une machine automatique de traitement de l’information,
+                  via l’interface USB.»
+               
+Le classement est déterminé par les règles générales et pour l’interprétation de la nomenclature combinée et par le libellé
+                  des codes NC 8525, et 99. 
+               
+Étant donné que l’appareil permet uniquement d’enregistrer des vidéos, le classement sous le code NC en tant qu’appareil
+                  photographique numérique est exclu. Compte tenu de ses caractéristiques, l’appareil est un caméscope. 
+               
+Étant donné que l’appareil permet d’enregistrer des fichiers vidéo à partir de sources autres que les caméras de télévision
+                  incorporées, le classement sous le code NC correspondant aux caméscopes permettant uniquement l’enregistrement
+                  du son et des images prises par la caméra de télévision est exclu. 
+               
+Il doit donc être classé sous le code NC correspondant aux autres caméscopes. 
+Les notes explicatives de la NC (JO 2011, C 137, p. 1) sont relatives à la NC dans sa version résultant du règlement (UE)
+         nº 861/de la Commission, du octobre (JO L 284, p. 1). Le libellé de la position ainsi que des sous-positions
+         30, et est cependant identique dans les règlements nºs 861/et 1006/2011. Il se lit comme suit:
+      
+«Appareils d’émission pour la radiodiffusion ou la télévision, même incorporant un appareil de réception ou un appareil d’enregistrement
+                  ou de reproduction du son; caméras de télévision, appareils photographiques numériques et caméscopes
+               
+[...]
+[...]
+[...]
+Appareils photographiques numériques
+Les appareils photographiques numériques de cette sous-position permettent toujours d’enregistrer des images fixes, soit sur
+                  une mémoire interne soit sur un support interchangeable. 
+               
+La plupart des appareils photographiques de cette sous-position ont l’ergonomie d’un appareil photographique traditionnel
+                  et ne disposent pas d’un viseur escamotable. 
+               
+Ces appareils photographiques peuvent également permettre d’enregistrer des séquences vidéo. 
+Les appareils photographiques restent classés dans cette position sauf s’ils sont capables, en utilisant la capacité de mémoire
+                  maximale, d’enregistrer avec une résolution de × (ou plus) pixels à images par seconde (ou plus) au moins minutes
+                  d’une seule séquence vidéo. 
+               
+Par rapport aux caméscopes des sous-positions et 99, de nombreux appareils photographiques numériques (lorsqu’ils
+                  fonctionnent en tant que caméscope) n’offrent pas la fonction zoom optique pendant l’enregistrement vidéo. Indépendamment
+                  de la capacité de la mémoire, certains appareils photographiques cessent automatiquement l’enregistrement vidéo après un certain
+                  temps. 
+               
+et 
+Caméscopes
+Les caméscopes de ces sous-positions permettent toujours d’enregistrer des séquences vidéo, soit sur une mémoire interne soit
+                  sur un support interchangeable. 
+               
+En général, les caméscopes numériques de ces sous-positions ont une ergonomie qui diffère de celle des appareils photographiques
+                  numériques de la sous-position 30. Ils disposent souvent d’un viseur escamotable et sont souvent assortis d’une télécommande.
+                  Ils offrent toujours la fonction zoom optique pendant l’enregistrement vidéo. 
+               
+Ces caméscopes numériques permettent également d’enregistrer des images fixes. 
+Les appareils photographiques numériques sont exclus de ces sous-positions s’ils ne sont pas en mesure d’enregistrer, en utilisant
+                  la capacité de mémoire maximale, avec une résolution de × (ou plus) pixels à images par seconde (ou plus) au moins
+                  minutes d’une seule séquence vidéo.
+               
+Autres
+La présente sous-position couvre les caméscopes non seulement pour l’enregistrement de sons et d’images pris par le caméscope
+                  mais aussi pour les signaux provenant de sources extérieures, notamment des lecteurs de DVD, des machines de traitement automatique
+                  des données ou des récepteurs télévisuels. Les images ainsi enregistrées peuvent être reproduites au moyen d’un récepteur
+                  ou d’un moniteur télévisuel externe. 
+               
+Relèvent également de cette sous-position les ‘caméscopes’, pour lesquels l’entrée vidéo est obstruée par une plaque ou par
+                  tout autre moyen ou pour lesquels l’interface vidéo peut être activée postérieurement à l’aide d’un logiciel, ces appareils
+                  étant conçus pour l’enregistrement des programmes diffusés par la télévision ou d’autres signaux vidéophoniques externes.
+                  
+               
+Toutefois, les caméscopes avec lesquels seules les images prises par l’appareil peuvent être enregistrées et reproduites au
+                  moyen d’un récepteur ou d’un moniteur de télévision externe relèvent de la sous‑position 91.»
+               
+ Le litige au principal et les questions préjudicielles
+Vario Tek a importé en Allemagne des lunettes de sport provenant de Chine, avec leurs accessoires, dans la monture desquelles
+         est intégrée une caméra vidéo dite «action». Il s’agit de lunettes de ski, de plongée et de type «tout-terrain».
+      
+La caméra intégrée enregistre des séquences vidéo offrant une qualité d’affichage de ou images par seconde et une résolution
+         en haute définition ou de × pixels. Elle se prête également à la prise de photos. La durée des séquences vidéo enregistrées
+         est uniquement limitée par l’espace de stockage disponible et par l’état de charge de l’accumulateur. La caméra vidéo dispose
+         d’une mémoire interne d’une capacité de mégabytes et peut être équipée d’une carte mémoire de type «micro SD», en tant
+         qu’espace de stockage de réserve. Les images et vidéos enregistrées par la caméra peuvent être transférées du support amovible
+         dont elle est équipée vers un ordinateur au moyen d’un câble USB branché sur l’interface intégrée dans la monture des lunettes,
+         sans qu’il soit nécessaire d’utiliser un autre programme. Cette interface USB permet également de transférer des fichiers
+         électroniques, vidéo ou audio, vers la caméra. Les caméras ne disposent que d’un objectif à focale fixe, sans fonction «zoom»,
+         et présentent un écran à cristaux liquides qui sert à l’affichage des informations d’utilisation. Elles ne conviennent pas
+         pour visionner les séquences vidéo enregistrées ou stockées dans la mémoire des lunettes de sport.
+      
+Le décembre 2011, Vario Tek a présenté au Hauptzollamt une déclaration d’importation de lunettes de ski du modèle «Summit
+         Series Snow Board Goggle Cam FULL HD1080P» et de lunettes «tout-terrain» du modèle «Impact Series Offroad Goggle Cam FULL
+         HD1080P», comme étant des caméscopes au sens de la sous-position de la NC. Le Hauptzollamt a accordé la mainlevée
+         de ces marchandises après avoir prélevé des échantillons et perçu les droits de douanes imposés au titre de cette sous-position.
+         Le janvier 2012, Vario Tek a demandé la mise en libre pratique de lunettes de plongée du modèle «Underwater Digital
+         Camera Mask-Wide Angle Scuba Series HD1080P» en les déclarant dans la sous-position de la NC. Le Hauptzollamt a
+         accepté cette déclaration en accordant la mainlevée des marchandises et en prélevant également des échantillons. Aucun droit
+         de douanes n’a été imposé.
+      
+À la suite d’un contrôle effectué postérieurement à ces importations par le Bildungs und Wissenschaftszentrum der Bundesfinanzverwaltung
+         (centre de formation et d’études scientifiques de l’administration fédérale des finances), le Hauptzollamt a considéré que
+         les lunettes de ski du modèle et de plongée du modèle auraient dû être déclarées dans la sous-position de la NC au motif que ces modèles ne permettent pas uniquement d’enregistrer le son et les images pris par la caméra, mais
+         également, grâce à celle-ci, d’enregistrer et de stocker des données numériques en provenance d’une source externe au moyen
+         de l’interface USB.
+      
+En conséquence, le Hauptzollamt a décidé de classer les trois types de lunettes de sport dans la sous-position de la NC. Par avis d’imposition du novembre 2012, il a imposé à Vario Tek des droits de douane à hauteur de 787,euros
+         pour l’importation du décembre et, par avis d’imposition du novembre 2012, à hauteur de 021,euros pour l’importation
+         du janvier 2012.
+      
+Ayant été déboutée des réclamations qu’elle avait introduites devant le Hauptzollamt contre ces avis d’impositions, Vario
+         Tek a saisi la juridiction de renvoi en soutenant qu’un classement dans la sous-position de la NC ne pouvait pas
+         être décidé du seul fait que les caméras vidéo permettent l’enregistrement, sur le support amovible, de données en provenance
+         de sources externes, ces caméras étant avant tout destinées à enregistrer leurs propres images et vidéos.
+      
+La juridiction de renvoi se demande si l’absence de fonction «zoom optique» des caméras ne fait pas obstacle au classement
+         des lunettes de sport dans les sous-positions ou de la NC. Même s’il devait être décidé qu’elles peuvent
+         être classées dans ces sous-positions, la juridiction de renvoi nourrit encore des doutes concernant l’importance à accorder
+         au fait que lesdites lunettes permettent d’enregistrer et de stocker des données numériques en provenance d’une source externe.
+      
+Dans ces conditions, le Finanzgericht Düsseldorf (tribunal des finances de Düsseldorf) a décidé de surseoir à statuer et de
+         poser à la Cour les questions préjudicielles suivantes:
+      
+«1)       Le fait qu’une caméra vidéo ne permette pas de «zoomer» fait-il obstacle au classement de celle-ci dans la sous-position
+         tarifaire de la [NC]?
+      
+2)       En cas de réponse négative à la première question, un caméscope permet-il déjà d’enregistrer les images et le son pris par
+         la caméra au sens de la sous-position de la NC lorsqu’un fichier vidéo ou audio peut être copié en provenance d’un
+         autre appareil sur le support amovible nécessaire au fonctionnement de cette caméra grâce à une prise USB située sur celle-ci
+         sans que ce fichier puisse être vu ou écouté au seul moyen de ladite caméra?»
+      
+ Sur les questions préjudicielles
+ Sur la première question
+Par sa première question, la juridiction de renvoi demande, en substance, si le fait que des caméras vidéo intégrées dans
+         des lunettes de sport, telles que celles en cause au principal, soient dépourvues d’une fonction «zoom optique» empêche le
+         classement desdites lunettes dans les sous-positions ou de la NC en tant que «caméscopes». 
+      
+Il importe tout d’abord de souligner que, lorsque la Cour est saisie d’un renvoi préjudiciel en matière de classement tarifaire,
+         sa fonction consiste davantage à éclairer la juridiction nationale sur les critères dont la mise en œuvre permettra à cette
+         dernière de classer correctement les produits en cause dans la NC qu’à procéder elle-même à ce classement, et ce d’autant
+         plus qu’elle ne dispose pas nécessairement de tous les éléments indispensables à cet égard. Ainsi, la juridiction nationale
+         apparaît en tout état de cause mieux placée pour procéder au classement en question (voir arrêts Proxxon, C‑500/04, EU:C:2006:111,
+         point 23; Digitalnet e.a., C‑320/11, C‑330/11, C‑382/et C‑383/11, EU:C:2012:745, point 61, et ordonnance Mineralquelle
+         Zurzach, C‑139/14, EU:C:2014:2313, point 28).
+      
+En l’espèce, il convient d’examiner si les caractéristiques des lunettes de sport en cause au principal, telles que décrites
+         dans la décision de renvoi, correspondent à l’ensemble des caractéristiques des sous-positions et de
+         la NC. Celles-ci se trouvent placées sous le titre commun «Caméscopes». Il ressort du libellé de la sous-position que celle‑ci comprend les caméscopes «permettant uniquement l’enregistrement du son et des images prises par la caméra de
+         télévision». Le libellé de la sous-position ne comporte que le terme «autres». Il s’agit, partant, d’une catégorie
+         résiduaire comprenant tous les caméscopes autres que ceux relevant de la sous-position 91. Par ailleurs, la sous-position
+         de la NC comprend les «appareils photographiques numériques».
+      
+Selon les notes explicatives de la NC, d’une part, les caméscopes visés aux sous-positions et «offrent
+         toujours la fonction zoom optique pendant l’enregistrement vidéo». D’autre part, s’agissant de la sous-position et après avoir établi une comparaison entre les produits susceptibles d’être classés dans cette sous-position avec les caméscopes
+         relevant des sous-positions et 99, ces notes précisent que de nombreux appareils photographiques numériques
+         n’offrent pas la fonction «zoom optique» pendant l’enregistrement vidéo.
+      
+Il convient, en premier lieu, de rappeler qu’il résulte de la jurisprudence constante de la Cour que, dans l’intérêt de la
+         sécurité juridique et de la facilité des contrôles, le critère décisif pour le classement tarifaire des marchandises doit
+         être recherché, d’une manière générale, dans leurs caractéristiques et propriétés objectives, telles que définies par le libellé
+         de la position de la NC et des notes de section ou de chapitre (voir arrêt JVC France, C‑312/07, EU:C:2008:324, point et
+         jurisprudence citée).
+      
+En deuxième lieu, la Cour a jugé que les notes explicatives de la NC contribuent de façon importante à l’interprétation de
+         la portée des différentes positions tarifaires, sans toutefois avoir force obligatoire de droit (arrêt Digitalnet e.a., C‑320/11,
+         C‑330/11, C‑382/et C‑383/11, EU:C:2012:745, point et jurisprudence citée). Dans la mesure où ces notes ont pour objet
+         de faciliter l’interprétation de la NC aux fins du classement tarifaire, il convient de les interpréter de manière à assurer
+         l’effet utile des sous-positions de la NC (voir arrêt Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, point 63). La teneur
+         desdites notes doit dès lors être conforme aux dispositions de la NC et ne saurait en modifier la portée. S’il apparaît qu’elles
+         sont contraires au libellé des positions de la NC et des notes de section ou de chapitre, les notes explicatives de la NC
+         doivent être écartées (voir arrêt JVC France, EU:C:2008:324, point et jurisprudence citée).
+      
+À cet égard, il convient de rappeler que, selon une jurisprudence constante de la Cour, la destination du produit peut constituer
+         un critère objectif de classement pour autant qu’elle est inhérente audit produit, l’inhérence devant pouvoir s’apprécier
+         en fonction des caractéristiques et des propriétés objectives de celui-ci, telles que définies par le libellé de la position
+         de la NC et des notes de section ou de chapitre, conformément à la jurisprudence citée au point précédent du présent arrêt
+         (voir arrêts Medion et Canon Deutschland, C‑208/et C‑209/06, EU:C:2007:553, point 37; British Sky Broadcasting Group et
+         Pace, C‑288/et C‑289/09, EU:C:2011:248, point 76, et Nutricia, C‑267/13, EU:C:2014:277, point 21).
+      
+En outre, il est nécessaire de prendre en compte ce qui est principal ou accessoire aux yeux du consommateur (voir arrêt British
+         Sky Broadcasting Group et Pace, EU:C:2011:248, point 77). 
+      
+De même, il convient de relever que la note figurant sous l’intitulé de la section XVI de la NC, laquelle comprend les chapitres
+         et 85, précise que, sauf dispositions contraires, les appareils conçus pour assurer deux ou plusieurs fonctions différentes,
+         alternatives ou complémentaires sont classés suivant la fonction principale qui caractérise l’ensemble.
+      
+S’agissant des lunettes de sport en cause au principal, il ressort des constatations factuelles de la juridiction de renvoi
+         que celles-ci disposent de caméras intégrées dans leur monture qui permettent aux utilisateurs de filmer leurs activités sportives,
+         à savoir, selon le type de lunettes, le ski, la plongée ou encore les courses de moto. En raison de la nature de ces activités
+         sportives, exigeantes physiquement et impliquant généralement des mouvements constants et rapides, la prise d’images individuelles
+         au moyen de la caméra, utilisée comme un appareil photographique numérique, même si cette option est disponible, serait plutôt
+         exceptionnelle du point de vue du consommateur. C’est dès lors l’enregistrement de ces activités en séquences vidéo au moyen
+         de la caméra intégrée qui constitue la fonction principale desdites lunettes du point de vue de l’utilisateur final. 
+      
+Par conséquent, le fait que ces mêmes lunettes soient dépourvues de la fonction «zoom» ne peut suffire pour exclure leur classement
+         dans les sous-positions et de la NC. 
+      
+Il convient également d’indiquer qu’un classement de ces lunettes dans la sous-position de la NC, en tant qu’appareils
+         photographiques numériques, ne correspondrait pas, en tout état de cause, à leur fonction principale. Il y a lieu, d’ailleurs,
+         de relever que les notes explicatives de la NC relatives à la sous-position excluent de celle-ci les appareils
+         capables, en utilisant leur capacité de mémoire maximale, d’enregistrer une séquence vidéo de minutes au moins, offrant
+         une résolution minimale de × pixels au moins à images par seconde. Or, ainsi que cela a été précisé au point du présent arrêt, les lunettes de sport en cause au principal disposent de fonctions qui dépassent ces caractéristiques techniques
+         en ce qui concerne l’enregistrement vidéo. 
+      
+Dans ces conditions, il y a lieu de répondre à la première question que la NC doit être interprétée en ce sens que le fait
+         que des caméras vidéo intégrées dans des lunettes de sport, telles que celles en cause au principal, soient dépourvues d’une
+         fonction «zoom optique» n’empêche pas le classement desdites lunettes dans les sous-positions et de
+         cette nomenclature. 
+      
+ Sur la seconde question
+Par sa seconde question, la juridiction de renvoi demande, en substance, si le fait que les caméras vidéo intégrées dans des
+         lunettes de sport, telles que celles en cause au principal, offrent la possibilité d’enregistrer et de stocker sur un support
+         amovible des fichiers vidéo ou audio en provenance d’une source externe, sans toutefois que ces lunettes de sport permettent,
+         de manière autonome, de lire ces fichiers, interdit le classement desdites lunettes dans la sous-position de la
+         NC.
+      
+Ainsi qu’il a été dit au point du présent arrêt, selon le libellé de la sous-position 91, celle-ci comprend les
+         caméscopes «permettant uniquement l’enregistrement du son et des images prises par la caméra de télévision». En revanche,
+         la sous‑position comprend tous les caméscopes autres que ceux relevant de la sous‑position 91. 
+      
+Par ailleurs, il convient de rappeler que la Cour a déjà jugé, aux points et de l’arrêt Medion et Canon Deutschland
+         (EU:C:2007:553), qu’il résulte des notes explicatives de la NC que ce qui différencie les caméscopes relevant de la sous‑position
+         de ceux relevant de la sous-position réside dans la capacité que ces derniers ont, outre d’enregistrer
+         des sons et des images par l’intermédiaire de la caméra ou du micro intégrés, de pouvoir enregistrer les mêmes éléments lorsque
+         ceux-ci proviennent de sources autres que ladite caméra ou ledit micro. La caractéristique essentielle d’un caméscope relevant
+         de la sous-position consiste par conséquent, notamment, dans sa capacité à enregistrer des sources vidéophoniques
+         extérieures. Toutefois, il est nécessaire que ces caméscopes puissent être utilisés pour l’enregistrement de sources vidéophoniques
+         externes de manière autonome, c’est-à-dire sans dépendre de matériels ou de logiciels dont ils ne sont pas pourvus à l’origine.
+         Il revient au juge national d’apprécier le degré de complexité des manipulations à effectuer, l’enregistrement devant pouvoir
+         être aisément effectué par un utilisateur ne disposant pas de compétences particulières. À défaut, les produits devront être
+         classés non pas dans la sous-position 99, mais plutôt dans la sous-position de la NC (voir, par analogie,
+         arrêt Medion et Canon, EU:C:2007:553, point 43).
+      
+En outre, il a déjà été jugé, s’agissant d’un produit ayant deux utilisations possibles, que, l’une des utilisations ne relevant
+         que d’une possibilité purement théorique, ledit produit était, en raison de ses caractéristiques et propriétés objectives,
+         naturellement destiné à l’autre utilisation et relevait, par conséquent, de la position tarifaire afférente à cette utilisation
+         (voir arrêt Sysmex Europe, C‑480/13, EU:C:2014:2097, point 32).
+      
+À cet égard, la juridiction de renvoi considère que les lunettes de sport en cause au principal permettant d’enregistrer des
+         données numériques provenant de sources externes au moyen d’une interface USB, elles n’offrent qu’une possibilité purement
+         théorique d’enregistrer des fichiers  audio ou vidéo à partir de sources externes, dès lors que ces lunettes ne sont équipées
+         d’aucun dispositif technique permettant de rendre ces fichiers audibles ou visibles.
+      
+Si la possibilité d’enregistrer des fichiers audio ou vidéo provenant de sources externes n’est que purement théorique, il
+         apparaît qu’une telle fonction ne serait pas de nature à exclure ces produits de la sous-position de la NC.
+      
+À cet égard, il convient de préciser que la circonstance que les lunettes de sport en cause au principal sont ou non capables
+         de lire, de manière autonome, des fichiers audio et vidéo enregistrés au départ d’une source externe n’est pas pertinente,
+         dès lors que, au regard des libellés respectifs des sous-positions et de la NC, des dispositions du
+         règlement d’exécution nº 1249/relatives à cette dernière sous‑position et des notes explicatives de la NC, seule la capacité
+         d’enregistrement de tels fichiers audio et vidéo est décisive pour le classement tarifaire de ces lunettes de sport. Ainsi,
+         tout caméscope doit nécessairement être classé dans la sous-position de la NC dès lors qu’il permet l’enregistrement,
+         sous la forme de fichiers électroniques, du son et des images provenant de sources externes, la circonstance que ces fichiers
+         électroniques puissent ou non être lus au moyen du caméscope lui-même n’entrant pas en ligne de compte dans ce classement.
+         
+      
+À cet égard, il convient de relever en particulier que les notes explicatives de la NC relatives à la sous-position précisent que les caméscopes relevant de cette sous-position doivent permettre de reproduire les fichiers audio et vidéo ainsi
+         enregistrés au moyen d’un récepteur ou d’un moniteur télévisuel externe.    
+      
+Il appartient dès lors au juge national d’apprécier les caractéristiques des lunettes de sport en cause au principal au regard
+         des considérations qui précèdent. 
+      
+Eu égard à ce qui précède, il convient de répondre à la seconde question que la NC doit être interprétée en ce sens que le
+         fait que des caméras vidéo intégrées dans des lunettes de sport, telles que celles en cause au principal, offrent la possibilité
+         d’enregistrer et de stocker sur un support amovible des fichiers vidéo ou audio en provenance d’une source externe s’oppose
+         à leur classement dans la sous-position de la NC si cet enregistrement peut être réalisé de manière autonome et
+         sans dépendre de matériels ou de logiciels externes. 
+      
+ Sur les dépens
+La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi,
+         il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que
+         ceux desdites parties, ne peuvent faire l’objet d’un remboursement.
+      
+Par ces motifs, la Cour (septième chambre) dit pour droit:
+1)      La nomenclature combinée figurant à l’annexe I du règlement (CEE) nº 2658/du Conseil, du juillet 1987, relatif à la
+            nomenclature tarifaire et statistique et au tarif douanier commun, dans sa version résultant du règlement (UE) nº 1006/de la Commission, du septembre 2011, doit être interprétée en ce sens que le fait que des caméras vidéo intégrées dans
+            des lunettes de sport, telles que celles en cause au principal, soient dépourvues d’une fonction «zoom optique» n’empêche
+            pas le classement desdites lunettes dans les sous‑positions et de cette nomenclature.
+2)      La nomenclature combinée figurant à l’annexe I du règlement nº 2658/87, dans sa version résultant du règlement nº 1006/2011,
+            doit être interprétée en ce sens que le fait que des caméras vidéo intégrées dans des lunettes de sport, telles que celles
+            en cause au principal, offrent la possibilité d’enregistrer et de stocker sur un support amovible des fichiers vidéo ou audio
+            en provenance d’une source externe s’oppose à leur classement dans la sous-position de cette nomenclature si cet
+            enregistrement peut être réalisé de manière autonome et sans dépendre de matériels ou de logiciels externes.
+Signatures
+* Langue de procédure: l’allemand.
+      
+Top  
+ 

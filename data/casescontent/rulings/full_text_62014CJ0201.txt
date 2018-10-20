@@ -1,0 +1,205 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+October (
+*
+)
+‛Reference for a preliminary ruling — Directive 95/46/EC — Processing of personal data — Articles and — Data subjects’ information — Article — Exceptions and limitations — Transfer by a public administrative body of a Member State of personal tax data for processing by another public administrative body’
+In Case C‑201/14,
+REQUEST for a preliminary ruling under Article TFEU from the Curtea de Apel Cluj (Romania), made by decision of March 2014, received at the Court on April 2014, in the proceedings
+Smaranda Bara and Others
+v
+Președintele Casei Naționale de Asigurări de Sănătate,
+Casa Naţională de Asigurări de Sănătate,
+Agenţia Naţională de Administrare Fiscală (ANAF),
+THE COURT (Third Chamber),
+composed of M. Ilešič, President of the Chamber, A. Ó Caoimh, C. Toader, E. Jarašiūnas and C.G. Fernlund (Rapporteur), Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: L. Carrasco Marco, Administrator,
+having regard to the written procedure and further to the hearing on April 2015,
+after considering the observations submitted on behalf of:
+—
+Smaranda Bara and Others, by C.F. Costaş and M.K. Kapcza, avocați,
+—
+the Casa Naţională de Asigurări de Sănătate, by V. Ciurchea, acting as Agent,
+—
+the Romanian Government, by R.H. Radu and by A. Buzoianu, A.‑G. Văcaru and D.M. Bulancea, acting as Agents,
+—
+the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,
+—
+the European Commission, by I. Rogalski and B. Martenczuk and by J. Vondung, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2015,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article TFEU and Articles 10, and of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p.31).
+The request has been made in proceedings between, on the one hand, Smaranda Bara and others, the applicants in the main proceedings, and, on the other hand, the Președintele Casei Naționale de Asigurări de Sănătate (Director of the National Health Insurance Fund), the Casa Naționale de Asigurări de Sănătate (the National Health Insurance Fund, ‘the CNAS’), and the Agenția Națională de Administrare Fiscală (National Tax Administration Agency, ‘the ANAF’) concerning the processing of certain data.
+Legal context
+EU law
+Article of Directive 95/46, headed ‘Definitions’, provides:
+‘For the purpose of this Directive:
+(a)
+“personal data” shall mean any information relating to an identified or identifiable natural person (“data subject”); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
+(b)
+“processing of personal data” (“processing”) shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction;
+(c)
+“personal data filing system” (“filing system”) shall mean any structured set of personal data which are accessible according to specific criteria, whether centralised, decentralised or dispersed on a functional or geographical basis;
+(d)
+“controller” shall mean the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data; where the purposes and means of processing are determined by national or Community laws or regulations, the controller or the specific criteria for his nomination may be designated by national or Community law;
+…’
+Article of that directive, entitled ‘Scope’, is worded as follows:
+‘1.   This Directive shall apply to the processing of personal data wholly or partly by automatic means, and to the processing otherwise than by automatic means of personal data which form part of a filing system or are intended to form part of a filing system.
+2.   This Directive shall not apply to the processing of personal data:
+—
+in the course of an activity which falls outside the scope of Community law, such as those provided for by Titles V and VI of the Treaty on European Union and in any case to processing operations concerning public security, defence, State security (including the economic well-being of the State when the processing operation relates to State security matters) and the activities of the State in areas of criminal law,
+—
+by a natural person in the course of a purely personal or household activity.’
+Article of that directive, which concerns the principles relating to data quality, provides:
+‘1.   Member States shall provide that personal data must be:
+(a)
+processed fairly and lawfully;
+(b)
+collected for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes. Further processing of data for historical, statistical or scientific purposes shall not be considered as incompatible provided that Member States provide appropriate safeguards;
+(c)
+adequate, relevant and not excessive in relation to the purposes for which they are collected and/or further processed;
+(d)
+accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that data which are inaccurate or incomplete, having regard to the purposes for which they were collected or for which they are further processed, are erased or rectified;
+(e)
+kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data were collected or for which they are further processed. Member States shall lay down appropriate safeguards for personal data stored for longer periods for historical, statistical or scientific use.
+2.   It shall be for the controller to ensure that paragraph is complied with.’
+Article of that directive, which concerns the criteria for making data processing legitimate, states:
+‘Member States shall provide that personal data may be processed only if:
+(a)
+the data subject has unambiguously given his consent; or
+(b)
+processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract; or
+(c)
+processing is necessary for compliance with a legal obligation to which the controller is subject; or
+(d)
+processing is necessary in order to protect the vital interests of the data subject; or
+(e)
+processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed; or
+(f)
+processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subject which require protection under Article 1(1).’
+Article of Directive 95/46, entitled ‘Information in cases of collection of data from the data subject’, provides:
+‘Member States shall provide that the controller or his representative must provide a data subject from whom data relating to himself are collected with at least the following information, except where he already has it:
+(a)
+the identity of the controller and of his representative, if any;
+(b)
+the purposes of the processing for which the data are intended;
+(c)
+any further information such as:
+—
+the recipients or categories of recipients of the data,
+—
+whether replies to the questions are obligatory or voluntary, as well as the possible consequences of failure to reply,
+—
+the existence of the right of access to and the right to rectify the data concerning him
+in so far as such further information is necessary, having regard to the specific circumstances in which the data are collected, to guarantee fair processing in respect of the data subject.’
+Article of the directive, entitled ‘Information where the data have not been obtained from the data subject’, is worded as follows:
+‘1.   Where the data have not been obtained from the data subject, Member States shall provide that the controller or his representative must at the time of undertaking the recording of personal data or if a disclosure to a third party is envisaged, no later than the time when the data are first disclosed provide the data subject with at least the following information, except where he already has it:
+(a)
+the identity of the controller and of his representative, if any;
+(b)
+the purposes of the processing;
+(c)
+any further information such as:
+—
+the categories of data concerned,
+—
+the recipients or categories of recipients,
+—
+the existence of the right of access to and the right to rectify the data concerning him
+in so far as such further information is necessary, having regard to the specific circumstances in which the data are processed, to guarantee fair processing in respect of the data subject.
+2.   Paragraph shall not apply where, in particular for processing for statistical purposes or for the purposes of historical or scientific research, the provision of such information proves impossible or would involve a disproportionate effort or if recording or disclosure is expressly laid down by law. In these cases Member States shall provide appropriate safeguards.’
+Under Article of the directive, entitled ‘Exemptions and restrictions’:
+‘1.   Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles 6(1), 10, 11(1), and when such a restriction constitutes a necessary measures to safeguard:
+(a)
+national security;
+(b)
+defence;
+(c)
+public security;
+(d)
+the prevention, investigation, detection and prosecution of criminal offences, or of breaches of ethics for regulated professions;
+(e)
+an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and taxation matters;
+(f)
+a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (c), (d) and (e);
+(g)
+the protection of the data subject or of the rights and freedoms of others.
+2.   Subject to adequate legal safeguards, in particular that the data are not used for taking measures or decisions regarding any particular individual, Member States may, where there is clearly no risk of breaching the privacy of the data subject, restrict by a legislative measure the rights provided for in Article when data are processed solely for purposes of scientific research or are kept in personal form for a period which does not exceed the period necessary for the sole purpose of creating statistics.’
+Romanian law
+Law No 95/It is apparent from the order for reference, Article of Law No 95/concerning reform in the field of health (Legea nr. 95/privind reforma în domeniul sănătății), of April (Monitorul Oficial al României, Part I, No of April 2006), provides:
+‘(1)   the requirement to pay health insurance contributions is incumbent on any natural or legal person who engages persons under an individual contract of employment or by virtue of special rules provided for by statute and, as the case may be, on natural persons.
+(2)   The natural or legal persons for whom the insured persons carry out their activities shall be required to submit on a monthly basis to the health insurance fund freely chosen by the insured person statements, identifying the insured persons by name, as to the natural or legal person’s obligations to the fund and proof that contributions have been paid.
+…’
+Article of that law states:
+‘the data necessary to certify that the person concerned qualifies as an insured person are to be communicated free of charge to the health insurance funds by the authorities, public institutions or other institutions in accordance with a protocol.’
+Order No 617/of the Director of the CNAS
+Article of Order No 617/of the Director of the CNAS, of August 2007, approving the implementing measures relating to identifying documentary evidence required for the purpose of qualifying as an insured person, or an insured person who is not required to make contributions, and applying measures for the recovery of sums owing to the Joint National Health Insurance Fund (Monitorul Oficial al României, Part I, No of September 2007), provides:
+‘[…] with regard to the requirement to make payments to the fund on the part of natural persons who obtain insurance cover by means of insurance contracts, other than such persons from whom tax is collected by the ANAF, the following shall constitute evidence of liability, depending on the circumstances: the declaration …, in the notification of tax liability issued by the competent body of the CAS [Health Insurance Fund] and judicial decisions concerning sums owing to the fund. The notification of tax liability may be issued by the competent body of the CAS also on the basis of information received from the ANAF in accordance with a protocol.’
+The Protocol
+Article of Protocol No P 5282/26.10.2007/95896/30.10.concluded between the CNAS and the ANAF (‘the Protocol’), provides:
+‘after the entry into force of this Protocol, the [ANAF] shall provide in electronic format, by means of its specialised supporting units, the original database concerning:
+a.
+the income of persons forming part of the categories identified in Article 1(1) of this Protocol and, on a three-monthly basis, the updated version of that database, to the [CNAS], in a form compatible with automated processing, in accordance with Annex I to this Protocol …
+…’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+The applicants in the main proceedings earn income from self-employment. The ANAF transferred data relating to their declared income to the CNAS. On the basis of that data, the CNAS required the payment of arrears of contributions to the health insurance regime.
+The applicants in the main proceedings brought an appeal before the Curtea de Apel Cluj (Court of Appeal, Cluj), in which they challenged the lawfulness of the transfer of tax data relating to their income in the light of Directive 95/46. They submit that the personal data were, on the basis of a single internal protocol, transferred and used for purposes other than those for which it had initially been communicated to the ANAF, without their prior explicit consent and without their having previously been informed.
+According to the order for reference, public bodies are empowered, under Law No 95/2006, to transfer personal data to the health insurance funds so that the latter may determine whether an individual qualifies as an insured person. The data concern the identification of persons (surname, first name, personal identity card number, address) but does not include data relating to income received.
+The referring court wishes to determine whether the processing of the data by the CNAS required prior information to be given to the data subjects as to the identity of the data controller and the purpose for which the data was transferred. That court is also asked to determine whether the transfer of the data on the basis of the Protocol is contrary to Directive 95/which requires that all restrictions on the rights of data subjects are laid down by law and accompanied by safeguards, in particular when the data is used against those persons.
+In those circumstances, the Curtea de Apel Cluj decided to stay proceedings and refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Is a national tax authority, as the body representing the competent ministry of a Member State, a financial institution within the meaning of Article TFEU?
+(2)
+Is it possible to make provision, by means of a measure akin to an administrative measure, namely a protocol concluded between the national tax authority and another State institution, for the transfer of the database relating to the income earned by the citizens of a Member State from the national tax authority to another institution of the Member State, without giving rise to a measure establishing privileged access, as defined in Article TFEU?
+(3)
+Is the transfer of the database, the purpose of which is to impose an obligation on the citizens of the Member State to pay social security contributions to the Member State institution for whose benefit the transfer is made, covered by the concept of prudential considerations within the meaning of Article TFEU?
+(4)
+May personal data be processed by authorities for which such data were not intended where such an operation gives rise, retroactively, to financial loss?’
+The questions referred
+Admissibility
+Admissibility of the first to third questions
+According to settled case-law, the Court may refuse to rule on a question referred for a preliminary ruling by a national court where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its object, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see judgment in PreussenElektra, C‑379/98, EU:C:2001:160, paragraph and the case-law cited).
+All of the observations presented to the Court submit that the first to third questions referred concerning the interpretation of Article TFEU are inadmissible on the ground that they bear no relation to the object of the dispute in the main proceedings.
+In that regard, it must be recalled that Article TFEU falls within Part Three of the TFEU, under Title VIII on economic and monetary policy. That article prohibits any measure, not based on prudential considerations, establishing privileged access by Union institutions, bodies, offices or agencies, central governments, regional, local or other public authorities, other bodies governed by public law, or public undertakings of Member States to financial institutions.
+The origin of that prohibition is to be found in Article A of the EC Treaty (which became Article EC), which was inserted in the EC Treaty by the Treaty of Maastricht. It was one of the provisions of the TFEU relating to the economic policy that intended to encourage the Member States to follow a sound budgetary policy, not allowing monetary financing of public deficits or privileged access by public authorities to the financial markets to lead to excessively high levels of debt or excessive Member State deficits (see, to that effect, judgment in Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 100).
+It is, therefore, quite obvious that the interpretation of Article TFEU requested bears no relation to the actual facts or object of the dispute in the main proceedings, which concerns the protection of personal data.
+It follows that it is not necessary to reply to the first to third questions.
+Admissibility of the fourth question
+The CNAS and the Romanian Government submit that the fourth question is inadmissible. That government submits that there is no link between the damage relied on by the applicants in the main proceedings and the annulment of the administrative acts contested within those proceedings.
+In that regard, it must be borne in mind that, according to the settled case-law of the Court, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment in Fish Legal and Shirley, C‑279/12, EU:C:2013:853, paragraph and the case-law cited).
+It must be observed that the main proceedings concern the lawfulness of processing of tax data collected by the ANAF. The referring court is uncertain as to the interpretation of Directive 95/46, in the context of reviewing the lawfulness of the transfer of those data to the CNAS and their subsequent processing. The fourth question referred is therefore relevant and sufficiently precise to enable the Court to give a useful answer. Accordingly, the request for a preliminary ruling must be held to be admissible as regards the fourth question.
+Substance
+By its fourth question, the referring court asks, in essence, whether Articles 10, and of Directive 95/must be interpreted as precluding national measures, such as those at issue in the main proceedings, which allow a public administrative body in a Member State to transfer personal data to another public administrative body and their subsequent processing, without the data subjects being informed of that transfer and processing.
+In that regard, it must be held, on the basis of the information provided by the referring court, that the tax data transferred to the CNAS by the ANAF are personal data within the meaning of Article 2(a) of the directive, since they are ‘information relating to an identified or identifiable natural person’ (judgment in Satakunnan Markkinapörssi and Satamedia, C‑73/07, EU:C:2008:727, paragraph 35). Both the transfer of the data by the ANAF, the body responsible for the management of the database in which they are held, and their subsequent processing by the CNAS therefore constitute ‘processing of personal data’ within the meaning of Article 2(b) of the directive (see, to that effect, inter alia, judgments in Österreichischer Rundfunk and Others, C‑465/00, C‑138/and C‑139/01, EU:C:2003:294, paragraph 64, and Huber, C‑524/06, EU:C:2008:724, paragraph 43).
+In accordance with the provisions of Chapter II of Directive 95/46, entitled ‘General rules on the lawfulness of the processing of personal data’, subject to the exceptions permitted under Article of that directive, all processing of personal data must comply, first, with the principles relating to data quality set out in Article of the directive and, secondly, with one of the criteria for making data processing legitimate listed in Article of the directive (judgments in Österreichischer Rundfunk and Others, C‑465/00, C‑138/and C‑139/01, EU:C:2003:294, paragraph 65; Huber, C‑524/06, EU:C:2008:724, paragraph 48; and ASNEF and FECEMD, C‑468/and C‑469/10, EU:C:2011:777, paragraph 26).
+Furthermore, the data controller or his representative is obliged to provide information in accordance with the requirements laid down in Articles and of Directive 95/46, which vary depending on what data are, or are not, collected from the data subject, and subject to the exceptions permitted under Article of the directive.
+As regards, first, Article of the directive, that article provides that the data controller must provide a data subject, from whom data relating to himself are collected, with the information listed in subparagraphs (a) to (c), except where he already has that information. That information concerns the identity of the data controller, the purposes of the processing and any further information necessary to guarantee fair processing of the data. Amongst the additional information necessary to guarantee fair processing of the data, Article 10(c) of the directive expressly refers to ‘recipients or categories of recipients of the data’ and ‘the existence of a right of access to and the right to rectify the data concerning [that person]’.
+As the Advocate General observed in point of his Opinion, the requirement to inform the data subjects about the processing of their personal data is all the more important since it affects the exercise by the data subjects of their right of access to, and right to rectify, the data being processed, set out in Article of Directive 95/46, and their right to object to the processing of those data, set out in Article of that directive.
+It follows that the requirement of fair processing of personal data laid down in Article of Directive 95/requires a public administrative body to inform the data subjects of the transfer of those data to another public administrative body for the purpose of their processing by the latter in its capacity as recipient of those data.
+It is clear from the information provided by the referring court that the applicants in the main proceedings were not informed by the ANAF of the transfer to the CNAS of personal data relating to them.
+The Romanian Government submits, however, that the ANAF is required, in particular under Article of Law No 95/2006, to transfer to the regional health insurance funds the information necessary for the determination by the CNAS as to whether persons earning income through self-employment qualify as insured persons.
+It is true that Article of Law No 95/expressly provides that ‘the data necessary to certify that the person concerned qualifies as an insured person are to be communicated free of charge to the health insurance funds by the authorities, public institutions or other institutions in accordance with a protocol’. However, it is clear from the explanations provided by the referring court that the data necessary for determining whether a person qualifies as an insured person, within the meaning of the abovementioned provision, do not include those relating to income, since the law also recognises persons without a taxable income as qualifying as insured.
+In those circumstances, Article of Law No 95/cannot constitute, within the meaning of Article of Directive 95/46, prior information enabling the data controller to dispense with his obligation to inform the persons from whom data relating to their income are collected as to the recipients of those data. Therefore, it cannot be held that the transfer at issue was carried out in compliance with Article of Directive 95/46.
+It is necessary to examine whether Article of the directive applies to that failure to inform the data subjects. It is apparent from Article 13(1)(e) and (f) that Member States may restrict the scope of the obligations and rights provided for in Article of the same directive when such a restriction constitutes a necessary measure to safeguard ‘an important economic or financial interest of a Member State […], including monetary, budgetary and taxation matters’ or ‘a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (c), (d) and (e)’. Nevertheless, Article expressly requires that such restrictions are imposed by legislative measures.
+Apart from the fact, noted by the referring court, that data relating to income are not part of the personal data necessary for the determination of whether a person is insured, it must be observed that Article of Law No 95/merely envisages the principle of the transfer of personal data relating to income held by authorities, public institutions and other institutions. It is also apparent from the order for reference that the definition of transferable information and the detailed arrangements for transferring that information were laid down not in a legislative measure but in the Protocol agreed between the ANAF and the CNAS, which was not the subject of an official publication.
+In those circumstances, it cannot be concluded that the conditions laid down in Article of Directive 95/permitting a Member State to derogate from the rights and obligations flowing from Article of the directive are complied with.
+As regards, in the second place, Article of the directive, paragraph of that article provides that a controller of data which were not obtained from the data subject must provide the latter with the information listed in subparagraphs (a) to (c). That information concerns the identity of the data controller, the purposes of the processing, and any further information necessary to ensure the fair processing of the data. Amongst that further information, Article 11(1)(c) of the directive refers expressly to ‘the categories of data concerned’ and ‘the existence of the right of access to and the right to rectify the data concerning him’.
+It follows that, in accordance with Article 11(1)(b) and (c) of Directive 95/46, in the circumstances of the case in the main proceedings, the processing by the CNAS of the data transferred by the ANAF required that the subjects of the data be informed of the purposes of that processing and the categories of data concerned.
+It is apparent from the information given by the referring court, however, that the CNAS did not provide the applicants in the main proceedings with the information listed in Article 11(1)(a) to (c) of the directive.
+It is appropriate to add that, in accordance with Article 11(2) of Directive 95/46, the provisions of Article 11(1) of the directive do not apply when, in particular, the registration or communication of the data are laid down by law, Member States being required to provide appropriate safeguards in those cases. For the reasons set out in paragraphs and of this judgment, the provisions of Law No 95/relied on by the Romanian Government and the Protocol do not establish a basis for applying either the derogation under Article 11(2) or that provided for under Article of the directive.
+Having regard to all the foregoing considerations, the answer to the question referred is that Articles 10, and of Directive 95/must be interpreted as precluding national measures, such as those at issue in the main proceedings, which allow a public administrative body of a Member State to transfer personal data to another public administrative body and their subsequent processing, without the data subjects having been informed of that transfer or processing.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Articles 10, and of Directive 95/46/EC of the European Parliament and of the Council of October 1995, on the protection of individuals with regard to the processing of personal data and on the free movement of such data, must be interpreted as precluding national measures, such as those at issue in the main proceedings, which allow a public administrative body of a Member State to transfer personal data to another public administrative body and their subsequent processing, without the data subjects having been informed of that transfer or processing.
+ 
+[Signatures]
+(
+*
+)   Language of the case: Romanian.
+Top  
+ 

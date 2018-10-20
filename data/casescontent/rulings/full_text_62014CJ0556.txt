@@ -1,0 +1,631 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+April (*)
+      
+(Appeal — Environment — Scheme for greenhouse gas emission allowance trading in the European Union — Directive 2003/87/EC — Articles and – Regulation (EC) No 2216/— Article — System of registries for transactions concerning emission allowances — Liability for fault – Commission’s refusal to disclose information on and to prohibit all transactions involving stolen emission
+         allowances  — Strict liability)
+      
+In Case C‑556/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on December 2014,
+Holcim (Romania) SA, established in Bucharest (Romania), represented by L. Arnauts, avocat,
+      
+appellant,
+the other party to the proceedings being:
+European Commission, represented by E. White and K. Mifsud‑Bonnici, acting as Agents,
+      
+defendant at first instance,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça (Rapporteur), President of the Chamber, F. Biltgen, A. Borg Barthet, E. Levits and M. Berger,
+         Judges,
+      
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure, 
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its appeal, Holcim (Romania) SA (‘Holcim’) asks the Court to set aside the judgment of the General Court of the European
+         Union of September in Holcim (Romania) v Commission (T‑317/12, EU:T:2014:782, ‘the judgment under appeal), by which the General Court dismissed Holcim’s action seeking, first,
+         compensation for the damage which Holcim allegedly sustained because of the European Commission’s alleged fault (i) in refusing
+         to disclose to it information concerning greenhouse gas emission allowances allegedly stolen from Holcim and (ii) in prohibiting
+         all transactions involving those allowances and, secondly, compensation for that damage on the basis of the Commission’s strict
+         liability.
+      
+ Legal context
+ International law
+The United Nations Framework Convention on Climate Change (‘the United Nations Framework Convention) was adopted on May
+         and approved, on behalf of the European Community, by Council Decision 94/69/EC of December concerning the conclusion
+         of the United Nations Framework Convention on Climate Change (OJ L 33, p. 11). It entered into force, with regard to
+         the Community, on March 1994.
+      
+The Kyoto Protocol to the United Nations Framework Convention (‘the Kyoto Protocol’) was adopted on December 1997. That
+         protocol was approved on behalf of the Community by Council Decision 2002/358/EC of April (OJ L 130, p. 1).
+      
+In accordance with Article 3(1) of the Kyoto Protocol, during the period to 2012, the States and international organisations
+         included in Annex I to the United Nations Framework Convention, including the Community, had to ensure that their aggregate
+         anthropogenic emissions of certain greenhouse gases did not exceed a certain amount, referred to as the ‘assigned amount’.
+      
+The assigned amount was expressed in tonnes of carbon dioxide equivalent, one tonne being equivalent to one ‘assigned amount
+         unit’. During the period to 2012, as a supplement to actions for the purpose of meeting quantified emission limitation
+         and reduction commitments, each State included in Annex I to the Kyoto Protocol could vary its assigned amount, so that it
+         was not less than its actual emissions. To that end, the parties could carry out a range of operations by means of the assigned
+         unit amounts and the other types of unit provided for by the Kyoto Protocol (together ‘the Kyoto units’).
+      
+On November 2005, the Conference of the Parties to the United Nations Framework Convention serving as the meeting of the
+         Parties to the Kyoto Protocol adopted Decision 13/CMP.1. The annex to that decision sets out the ‘[m]odalities for the accounting
+         of assigned amounts’.
+      
+As set out in paragraph of the Annex to Decision 13/CMP.1, ‘each national registry shall make non-confidential information
+         publicly available’. Paragraph of that annex lists the information referred to in paragraph 44, including the units held
+         and the transactions carried out in the context of the national registry. That information consists in a series of data relating
+         to the Kyoto units held, issued, acquired, transferred or cancelled in the accounts held in the national registries.
+      
+ European Union law
+Directive 2003/87/EC of the European Parliament and of the Council of October establishing a scheme for greenhouse
+         gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, p. 32), as amended
+         by Regulation (EC) No 219/of the European Parliament and of the Council of March (OJ L 87, p. 109, ‘Directive
+         2003/87’), states, in recital of that directive, that it ‘aims to contribute to fulfilling the commitments [stemming from
+         the Kyoto Protocol] of the European Community and its Member States more effectively, through an efficient European market
+         in greenhouse gas emission allowances, with the least possible diminution of economic development and employment’.
+      
+Article of Directive 2003/provides that that directive ‘establishes a scheme for greenhouse gas emission allowance trading
+         within the Community (hereinafter referred to as the “Community scheme”) in order to promote reductions of greenhouse gas
+         emissions in a cost‑effective and economically efficient manner’.
+      
+Article of Directive 2003/87, relating to the scope of that directive, provides, in paragraph thereof:
+      
+‘This Directive shall apply to emissions from the activities listed in Annex I and greenhouse gases listed in Annex II’.
+Article 3(a) of Directive 2003/defines the greenhouse gas emission allowance (‘the emission allowance’) as being ‘an allowance
+         to emit one tonne of carbon dioxide equivalent during a specified period, which shall be valid only for the purposes of meeting
+         the requirements of this Directive and shall be transferable in accordance with the provisions of this Directive’.
+      
+In accordance with Article 11(2) and (4) of that directive, during the five-year period beginning on January 2008, the competent
+         authority of the Member State concerned is to issue, each year, to the operator of an installation coming within one of the
+         sector[s] of activities listed in Annex I to that directive a certain number of emission allowances. The allowances must be
+         issued by February of the year in question (year N). 
+      
+In accordance with Article 12(3) of Directive 2003/87, by April of year N+at the latest, the operator of an installation
+         must surrender a number of emission allowances equal to the total emissions actually emitted from that installation during
+         the calendar year N.
+      
+Article 19(2) and (3) of Directive 2003/provides:
+      
+‘2. Any person may hold allowances. The registry shall be accessible to the public and shall contain separate accounts to
+         record the allowances held by each person to whom and from whom allowances are issued or transferred. 
+      
+3.      In order to implement this Directive, the Commission shall adopt a Regulation for a standardised and secured system of registries
+         in the form of standardised electronic databases containing common data elements to track the issue, holding, transfer and
+         cancellation of allowances, to provide for public access and confidentiality as appropriate and to ensure that there are no
+         transfers which are incompatible with the obligations resulting from the Kyoto Protocol. That Regulation shall also include
+         provisions concerning the use and identification of [certified emission reductions] and [emission reduction units] in the
+         Community scheme and the monitoring of the level of such use. ...’
+      
+Article of that directive provides:
+      
+‘1. The Commission shall designate a Central Administrator to maintain an independent transaction log recording the issue,
+         transfer and cancellation of allowances.
+      
+2.      The Central Administrator shall conduct an automated check on each transaction in registries through the independent transaction
+         log to ensure there are no irregularities in the issue, transfer and cancellation of allowances.
+      
+3.      If irregularities are identified through the automated check, the Central Administrator shall inform the Member State or Member
+         States concerned who shall not register the transactions in question or any further transactions relating to the allowances
+         concerned until the irregularities have been resolved.’
+      
+Pursuant to Article 19(3) of Directive 2003/87, the Commission adopted Commission Regulation (EC) No 2216/of December
+         for a standardised and secured system of registries pursuant to Directive 2003/and Decision No 280/2004/EC of the
+         European Parliament and of the Council (OJ L 386, p. 1). That regulation was repealed as from January by Commission
+         Regulation (EC) No 994/of October (OJ L 271, p. 3). However, taking into account the date of the conduct
+         of which the Commission is accused, the present dispute remains governed by Regulation No 2216/2004, as amended by Commission
+         Regulation (EU) No 920/of October (OJ L 270, p. 1, ‘Regulation No 2216/2004’).
+      
+Article of Regulation No 2216/2004, on the independent transaction log provided for in Article of Directive 2003/87,
+         provides in paragraph 3:
+      
+‘The Central Administrator designated pursuant to Article of Directive 2003/87/EC shall operate and maintain the Community
+         independent transaction log in accordance with the provisions of this Regulation.’
+      
+Article of Regulation No 2216/provides:
+      
+‘1. All information, including the holdings of all accounts and all transactions made, held in the registries and the Community
+         independent transaction log shall be considered confidential for any purpose other than the implementation of the requirements
+         of this Regulation, Directive 2003/87/EC or national law. 
+      
+2.      The following entities may obtain data stored in the registries and the [Community independent transaction log]:
+(a)      the law enforcement and tax authorities of a Member State;
+(b)      the European Anti-fraud Office of the European Commission [OLAF];
+(c)      Europol;
+(d)      registry administrators of Member States.
+2a.               Transaction data may be provided to the entities listed under paragraph 2. upon their request to the Central Administrator
+         or to a registry administrator if such requests are justified and necessary for the purposes of investigation, detection and
+         prosecution of fraud, tax administration or enforcement, money laundering, terrorism financing or serious crime.
+      
+2b. An entity receiving data in accordance with paragraph 2a shall ensure that the data received is only used for the purposes stated in the request in accordance with paragraph 2a and is not made available deliberately or accidentally to persons not involved in the intended purpose of the data use. This
+         provision shall not preclude these entities to make the data available to other entities listed in paragraph 2, if this is
+         necessary for the purposes stated in the request made in accordance with paragraph 2a.
+      
+2c. Upon their request, the Central administrator may provide access to anonymised transaction data to the entities listed in
+         paragraph for the purpose of looking for suspicious transaction patterns. Entities with such access may notify suspicious
+         transaction patterns to other entities listed in paragraph 2.
+      
+2d. Registry administrators shall make available through secure means to all other registry administrators the names and identities
+         of persons whom they refused to open an account for, or whom refused to nominate as an authorised representative or additional
+         authorised representative.
+      
+2e. Registry administrators may decide to notify to national law enforcement authorities all transactions that involve a number
+         of units above the amount determined by the registry administrator and to notify any account that is involved in a number
+         of transactions within a 24‑hour period that is above an amount determined by the registry administrator.
+      
+3.      Each competent authority and registry administrator shall only perform processes concerning allowances, verified emissions,
+         automatic national allocation plan table changes, accounts or Kyoto units where necessary to carry out their functions as
+         competent authority or registry administrator.’
+      
+Article 27(1) of Regulation No 2216/provides:
+      
+‘If, on April of each year starting in 2006, an installation’s annual verified emissions for the preceding year have not
+         been entered into the verified emissions table …, the registry administrator shall block the transfer of any allowances out
+         of the operator holding account for that installation.’
+      
+Article of Regulation No 2216/provides:
+      
+‘The Central Administrator may suspend access to the Community independent transaction log and a registry administrator may
+         suspend access to his registry if there is a breach of security of the Community independent transaction log or of a registry
+         which threatens the integrity of the Community independent transaction log or of a registry or the integrity of the registries
+         system ...’
+      
+ Background to the dispute
+Holcim, a company specialised in the production of cement, aggregates, asphalt and ready-mixed concrete, has emission allowance
+         accounts registered at the Romanian registry. On November 2010, one million allowances belonging to it were allegedly unlawfully
+         transferred to an account in Italy and allowances transferred to Liechtenstein. The allowances stolen and not recovered
+         as at the date on which the application was lodged at the General Court were, in the appellant’s view, worth about EUR 000.
+      
+By letter of November 2010, Holcim officially notified the incident to the Commission and asked it to ‘request ... the
+         National Registries to freeze’ the emission allowances allegedly stolen and ‘block the ... accounts’ through which the allowances
+         had passed. By letter of November 2010, the appellant lodged a complaint with the Romanian public prosecutor. By letter
+         of December 2010, the appellant’s lawyers asked the Commission to ‘suspend and refuse access to [the] accounts’ through
+         which the allowances allegedly stolen had passed.
+      
+By letter of December 2010, the competent Head of Unit of the Commission replied to the appellant’s lawyers in the following
+         terms:
+      
+‘... 
+As regards your request to suspend and refuse access to relevant accounts, our view is that the recovery of any allowances
+         which are claimed to have been transferred fraudulently is a matter for national law and national law enforcement authorities.
+         The Commission has no powers to block any such allowances in a registry account.
+      
+As regards transactions with allowances, please note that this information is pursuant to Article and Annex XVI of Regulation
+         [No 2216/2004] confidential for five years. Notwithstanding this provision, the Commission does co-operate with relevant law
+         enforcement authorities to solve the [issue of] unauthorised access to [the] accounts [in question]. 
+      
+Finally, concerning your request to stop any transfer of allowances in national registries until standard banking security
+         measures have been implemented, such action would be disproportionate and lacks legal base …’
+      
+By letter of December 2010, the Director-General of the ‘Climate Action’ Directorate-General of the Commission, in the
+         capacity as Central Administrator of the independent transaction log provided for in Article 20(1) of Directive 2003/87, replied
+         to the letter of November in similar terms.
+      
+As is apparent from paragraph of the judgment under appeal, on December interlocutory proceedings were brought
+         against the Commission by a company other than the appellant before the Tribunal de première instance de Bruxelles (Court
+         of First Instance, Brussels) (Belgium). The aim of those proceedings was, in particular, to have the President of that court
+         order the Commission to ‘disclose the identity of the holder or holders’ of the accounts in which the allowances allegedly
+         stolen appeared and ‘block all national registries in which [such] allowances [were] registered’. On February 2011, Holcim
+         lodged an application for leave to intervene before the Tribunal de première instance de Bruxelles in order to secure the
+         same measures as those sought by the other company.
+      
+By letter of March 2011, the Chief Prosecutor of the Office for the Investigation of Organised Crime and Terrorism (Romania)
+         informed the appellant that it had sent a request to the Belgian judicial authorities on January by way of letters
+         rogatory. The aim of that request was, essentially, that the Directorate-General of the Commission with responsibility for
+         maintaining the independent transaction log should, first, prohibit the national authorities responsible for maintaining national
+         registries from accounting for and authorising transactions involving the emission allowances belonging to Holcim. Secondly,
+         that Directorate‑General was requested to produce a range of information and data concerning the alleged unauthorised transfer
+         of the stolen emission allowances and any subsequent transaction concerning those allowances.
+      
+As is apparent from paragraph of the judgment under appeal, on April 2011, OLAF replied to that request sent by way of
+         letters rogatory and sent the Romanian public prosecutor, as the Commission clarified, a ‘CD-ROM and a hard drive containing
+         gigabytes of information’. However, on the same date, the Commission again refused to disclose to Holcim the data requested
+         concerning the transactions on the Community independent transaction log. 
+      
+By letter of May 2011, the appellant’s lawyer informed the Commission that the aim of the interlocutory proceedings was
+         to have the Commission ordered to block the emission allowances allegedly stolen on November and disclose ‘their current
+         location in the national registries’. He then asked the Commission not to permit the surrender of those allowances and, at
+         the very least, to block them and reallocate them to their rightful holder.
+      
+By order of June 2011, the President of the Tribunal de première instance de Bruxelles ruled that he had ‘no jurisdiction’
+         to entertain the proceedings.
+      
+On July 2011, the Commission replied to the letter sent to it by the appellant’s lawyer on May 2011, and confirmed that
+         ‘the recovery of any allowances which [were] claimed to have been transferred fraudulently [was] a matter for national law
+         and national law enforcement authorities’. The Commission also stated that it had no powers ‘to block [emission] allowances
+         in a registry account as such allowances continue[d] to represent legally valid compliance instruments’.
+      
+ Procedure before the General Court and the judgment under appeal
+By application lodged at the General Court Registry on July 2012, Holcim brought an action for a finding that the European
+         Union was liable for the conduct of the Commission and an order for the European Union to pay Holcim a sum by way of compensation
+         for its damage. In support of its action, Holcim alleged, principally, that the European Union was liable on the basis of
+         fault, that is to say liable by virtue of unlawful conduct, and put forward pleas in law. In the alternative, Holcim claimed
+         that the European Union should incur strict liability, that is liability for lawful conduct, on the basis of a single plea
+         in law. 
+      
+In paragraph of the judgment under appeal, the General Court held that the conduct of which Holcim accused the Commission
+         that might give rise to those types of liability consisted in the alleged refusal by the Commission, first, to ‘disclos[e]
+         the localisation of … stolen [emission allowances]’ and, secondly, its refusal to ‘[block the] stolen [emission allowances]’.
+      
+By the judgement under appeal, the General Court dismissed the action in its entirety.
+      
+ Forms of order sought by the parties before the Court of Justice
+Holcim claims that the Court should:
+      
+–        set aside the judgment under appeal; 
+–        refer the case back to the General Court to be judged again; 
+–        in the alternative, without referring the case back to the General Court, grant the form of order sought by Holcim as requested
+         before that Court; and
+      
+–        order the European Union to pay the costs incurred before the General Court and the Court of Justice.
+The Commission contends that the Court should:
+      
+–        dismiss the appeal;
+–        order the appellant to pay the costs.
+ The appeal
+By its appeal, Holcim challenges, first, the dismissal by the General Court of its claim for damages for fault-based liability.
+         It relies on grounds of appeal in that regard. The first grounds are directed at the first form of conduct of which the
+         Commission is accused, namely the refusal to ‘disclose the location of the stolen allowances’, whereas the 8th to 12th grounds
+         are directed at the second form of conduct of which the Commission is accused, relating to the refusal ‘to block those allowances’.
+         Secondly, Holcim challenges the dismissal by the General Court of its claims for damages for strict liability and puts forward
+         one ground of appeal in that regard.
+      
+ The grounds of appeal concerning the fault-based liability of the European Union
+ The first and third grounds of appeal
+–       Arguments of the parties
+By its first ground of appeal, Holcim submits that the General Court misinterpreted the balance between confidentiality and
+         transparency laid down by Article of Regulation No 2216/2004, by affording exaggerated and unlawful protection to the interests
+         of the thieves of the stolen allowances to the detriment of the interests of the victims. In particular, the General Court
+         erred in law in holding that Article of Regulation No 2216/provides for a general rule for preserving the confidentiality
+         of the information in the registries, since that finding implies that the exceptions to such a general rule should be interpreted
+         strictly. 
+      
+In that regard, the appellant complains that the General Court held, in paragraph of the judgment under appeal, that the
+         information in the national registries and independent transaction log provided for in Article 20(1) of Directive 2003/could be disclosed ‘as a rule, only [to the benefit of] authorities exercising public powers’. Such a limitation of the beneficiaries
+         of such information would preclude almost any form of disclosure. Holcim adds that the General Court, in paragraph et
+         seq. of the judgment under appeal, adopted an excessively restrictive interpretation of the expression ‘law enforcement authorities’,
+         laid down in Article of Regulation No 2216/2004, in holding that the reference to the ‘law’ had to be interpreted as referring
+         only to the criminal law. 
+      
+Consequently, the appellant submits that the General Court also vitiated that judgment by contradictory reasoning, since the
+         possibility of obtaining information on the stolen emission allowances depends solely on the specialisation of the authority
+         in question. 
+      
+The third ground of appeal put forward by Holcim is directed at paragraphs to of the judgment under appeal. By that
+         ground of appeal, the appellant submits that the General Court’s incorrect interpretation of Article of Regulation No 2216/infringed Article of Directive 2003/and, in particular, the balance between confidentiality and transparency sought
+         by that provision, in granting almost absolute protection to the principle of confidentiality. Whereas the protection for
+         the confidentiality of accounts is direct and certain pursuant to that strict and erroneous interpretation of Article of
+         Regulation No 2216/2004, the right to transparency claimed by the victims of thefts is applied indirectly, if at all, since
+         any disclosure of the data relating to the stolen allowances is left to the discretion of the national criminal authorities.
+      
+By its fourth and fifth grounds of appeal, directed at paragraphs 167, and of the judgment under appeal respectively,
+         Holcim submits in essence that the interpretation of Article of Regulation No 2216/adopted by the Commission, endorsed
+         by the General Court, which unlawfully protects the confidentiality of the data requested, has the same effects as an unlawful
+         expropriation of its emission allowances. 
+      
+In addition, in accordance with that interpretation, Holcim submits that the General Court failed to have regard to the principle
+         of effective judicial protection, on the ground that the restrictive confidentiality rules which flow from such an interpretation
+         would, in essence, render pointless any judicial proceedings brought in order to recover the stolen emission allowances.
+      
+The Commission contends that those grounds of appeal should be rejected.
+      
+–       Findings of the Court
+It must be pointed out, first of all, that Regulation No 2216/was adopted pursuant to Article 19(3) of Directive 2003/87.
+         That regulation must ensure, in the words of that provision, ‘public access’ to a standardised and secured system of registries
+         and ‘confidentiality as appropriate’ of the electronic data contained in that system. 
+      
+Next, it must be noted that Article 10(1) of Regulation No 2216/provides that all information held in the registries
+         is to be ‘considered confidential for any purpose other than the implementation of the requirements of th[at] Regulation,
+         Directive 2003/87/EC or national law’. 
+      
+Lastly, as regards the data relating to the names of holders of the transferring accounts and acquiring accounts of the emission
+         allowances and the date and time of those transactions, the Court has held that a request for the reporting of such data comes
+         exclusively under the specific rules governing public reporting and confidentiality contained in Directive 2003/and in
+         Regulation No 2216/(see judgment in Ville de Lyon, C‑524/09, EU:C:2010:822, paragraph 41).
+      
+In addition, the Court found that such data must remain confidential for purposes other than the operation and maintenance
+         of the registries (see judgment in Ville de Lyon, C‑524/09, EU:C:2010:822, paragraph 50).
+      
+In the light of those considerations, it must be found, first, that the General Court did not err in law in holding, in paragraphs and of the judgment under appeal, that Article of Regulation No 2216/established, as a general rule, that the
+         data held in the registries was confidential and that, therefore, the exceptions to that general rule had to be interpreted
+         strictly. 
+      
+Secondly, it must be pointed out that the arguments set out in paragraphs and of the present judgment are based on a
+         misinterpretation of the judgment under appeal.
+      
+Consequently, in stating in paragraph of the judgment under appeal that the exception to the confidential treatment of
+         the data contained in the registries benefits ‘as a rule, only authorities exercising public powers’, the General Court did
+         not in any way adopt an excessively restrictive interpretation of Article of Regulation No 2216/2004. It simply pointed
+         out that the entities listed in Article 10(2) of that regulation, that is those which may obtain the data at issue, are public
+         persons, equipped, as such, with powers falling outside the scope of the general law.
+      
+Similarly, the General Court did not restrict the possibility of benefiting from the disclosure of the information in the
+         registries solely to law enforcement authorities. The General Court simply held, in paragraph of the judgment under appeal,
+         that the President of the Tribunal de première instance de Bruxelles, as a judge hearing an application for interim measures,
+         could not be considered ‘a law enforcement authority’ within the meaning of Article 10(2)(a), inasmuch as he was not responsible
+         for any investigation concerning the emission allowances. In addition, the General Court did not in any way justify the non-disclosure
+         of the information at issue to that authority on the basis of the latter’s specialisation. It follows from those considerations
+         that the judgment under appeal is not vitiated by any contradictory reasoning. 
+      
+In any event, it must be found that the General Court took into account, contrary to Holcim’s claims, the interest of the
+         holders of the stolen emission allowances. 
+      
+First, in paragraph of the judgment under appeal, the General Court held that a victim of an alleged criminal offence,
+         such as the theft of emission allowances, may obtain the disclosure of data relating to those allowances held in the registries
+         and the Community independent transaction log, pursuant to Article of Regulation No 2216/2004. It stated that Article did not preclude the authorities listed in Article 10(2) from disclosing to those victims the confidential information concerning
+         the stolen emission allowances, nor those victims, on the basis of the information disclosed to them, from bringing judicial
+         proceedings for the seizure and recovery of those allowances. 
+      
+Secondly, in paragraph of the judgment under appeal, the General Court found, without being contradicted by the appellant,
+         that, in response to the request of the Romanian public prosecutor, OLAF had sent that national authority a series of data
+         concerning the stolen allowances. In the light of the sending of that data, the General Court held that the appellant could
+         not validly claim that the Commission had refused to disclose information to the Romanian public prosecutor on the basis of
+         its confidentiality. 
+      
+In those circumstances, it must be found that the General Court did not err in law in finding that the Commission had not
+         infringed in a sufficiently serious manner the balance between confidentiality and transparency laid down in Article of
+         Regulation No 2216/and that, consequently, the General Court did not disregard Article of Directive 2003/87. 
+      
+In the light of all the foregoing considerations, the first and third to fifth grounds of appeal must be rejected 
+      
+ The second and sixth grounds of appeal
+–       Arguments of the parties
+By its second ground of appeal, Holcim submits that, in confirming the Commission’s interpretation of Article of Regulation
+         No 2216/2004, the General Court infringed the confidentiality rules laid down by the Kyoto Protocol. The ground of appeal
+         is in two parts. By the first part of the second ground of appeal, the appellant submits that, as the General Court recognised
+         in paragraph of the judgment under appeal, the Annex to Decision 13/CMP.forms part of the European Union legal order.
+         Consequently, such an annex must be taken into consideration in order to assess the legality of the EU confidentiality rules
+         concerning emission allowances and, in particular, Article of Regulation No 2216/2004. The interpretation of that article
+         by the General Court infringes the confidentiality rules laid down by the Kyoto Protocol, in particular since the General
+         Court held, in paragraphs and of the judgment under appeal, that the information envisaged in paragraphs and of the Annex to Decision 13/CMP.should be made available to the public only when it is non-confidential in nature.
+      
+By the second part of that ground of appeal, concerning the findings in paragraphs to of the judgment under appeal
+         as to whether the nature and aims of emission allowances and Kyoto units were identical, the appellant submits, first of all,
+         that the General Court has not set out the grounds for its statements. Next, it submits that the fact that the Kyoto units
+         are mentioned, together with emission allowances, in Article 10(3) of Regulation No 2216/2004, shows that the two instruments
+         have the same nature and are subject to the same confidentiality rules. Lastly, in Holcim’s view, emission allowances and
+         Kyoto units pursue the same aim of reducing greenhouse gas emissions.
+      
+By its sixth ground of appeal, directed at paragraph of the judgment under appeal, Holcim complains that the General Court
+         failed to observe the principle of legal certainty in that, in the area of publicity, it should have applied to the emission
+         allowances the same rules laid down for the Kyoto units in paragraphs and of the Annex to Decision 13.CMP/1, given that
+         those two types of instrument have the same nature. 
+      
+The Commission contends that the second and sixth grounds of appeal should be rejected. 
+      
+–       Findings of the Court
+In the first place, it must be found, first, that contrary to Holcim’s claims, the General Court did not accept, in paragraph of the judgment under appeal, that the Annex to Decision 13/CMP.forms part of the EU legal order and may be relied upon
+         before the Courts of the European Union. By contrast, it held that, even if that were the case, the plea in law raised before
+         it could be rejected on other grounds. Secondly, as is apparent from paragraph above, a request for the reporting of the
+         data contained in the registries comes exclusively under the specific rules governing public reporting and confidentiality
+         contained in Directive 2003/and in Regulation No 2216/(Ville de Lyon, C‑524/09, EU:C:2010:822, paragraph 41).
+      
+In this instance, it must be found that, as the General Court held in paragraph of the judgment under appeal, paragraphs and of the Annex to Decision 13/CMP.relate only to the disclosure to the public of information relating to the units
+         stemming from the Kyoto Protocol system. Such a system remains distinct from the Community scheme for greenhouse gas emission
+         allowance trading, established under Article of Directive 2003/87. 
+      
+In the context of the Community scheme, Article 3(a) of that directive defines the emission allowance as an instrument ‘valid
+         only for the purposes of meeting the requirements of this Directive and shall be transferable in accordance with the provisions
+         of this Directive’. 
+      
+In addition, as the General Court found in paragraphs and of the judgment under appeal, the Kyoto units are instruments
+         which the States and the international organisation party to that convention may use in order to meet their obligations laid
+         down in it. On the other hand, in the EU scheme, the emission allowances are instruments that can belong to the assets of
+         the natural and legal persons who carry out the activities referred to in Annex I to Directive 2003/87. Consequently, as is
+         apparent from Article of that directive, emission allowances reflect a commercial logic. 
+      
+That logic consists in ensuring that the reductions of greenhouse gas emissions required to achieve a predetermined environmental
+         outcome take place at the lowest cost. By allowing in particular the allowances that have been allocated to be sold, the scheme
+         is intended to encourage a participant in the scheme to emit quantities of greenhouse gases that are less than the allowances
+         originally allocated him, in order to sell the surplus to another participant who has emitted more than his allowance (judgment
+         in Arcelor Atlantique et Lorraine and Others, C‑127/07, EU:C:2008:728, paragraph 32). 
+      
+Holcim’s arguments have not therefore showed the existence of an error of law by the General Court when it held that emission
+         allowances and Kyoto units are different in nature and address different aims. Consequently, the publicity regime established
+         by the Annex to Decision 13. CMP/as regards the Kyoto units cannot be applied to emission allowances, even if such a measure
+         were to form part of the EU legal order. 
+      
+In addition, it must be held that in not applying to emission allowances the rules provided for in the Annex to Decision 13/CMP.concerning the Kyoto units, the General Court did not fail to have regard to the principle of legal certainty, given the different
+         nature of those two instruments.
+      
+Consequently, the second and sixth grounds of appeal must be rejected.
+      
+ The seventh ground of appeal
+–       Arguments of the parties
+By its seventh ground of appeal, Holcim complains that the General Court, in essence, did not penalise the failure to observe
+         the duty of care incumbent upon the Commission which required it to disclose the data relating to the stolen emission allowances.
+         The scope of that duty could be defined by analogy, by referring to the obligations imposed on the Member States by Council
+         Directive 91/308/EEC of June on prevention of the use of the financial system for the purpose of money laundering
+         (OJ L 166, p. 77).
+      
+The Commission contends that the seventh ground of appeal should be dismissed
+      
+–       Findings of the Court
+It must be pointed out that, in paragraphs to of the judgment under appeal, the General Court examined the plea in
+         law alleging an infringement of Directive 91/and held it to be inadmissible, since that plea in law did not satisfy the
+         requirements of coherence and intelligibility required under Article 44(1)(c) of the Rules of Procedure of the General Court.
+         However, Holcim does not call in question those paragraphs of the judgment under appeal or the grounds justifying such a declaration
+         of inadmissibility. 
+      
+In that regard, it must be noted that, in an appeal, the appellant may not rely on pleas in law declared inadmissible by the
+         General Court, where the finding that they are inadmissible is not contested (judgment in France Télécom v Commission, C‑202/P, EU:C:2009:214, paragraph 93).
+      
+Consequently, the seventh ground of appeal must be rejected.
+      
+ The eighth and ninth grounds of appeal
+–       Arguments of the parties
+By its eighth ground of appeal, directed at paragraphs and of the judgment under appeal, Holcim complains that the
+         General Court, in essence, failed to penalise the breach of the duty of sound administration incumbent upon the Commission
+         which required it to block the circulation of the stolen emission allowances. In view of the fact that technically the Commission
+         has the power to block certain allowances, it cannot be accepted, first, that the only case in which the Commission may block
+         the transactions in the independent transaction log is the presence of systemic risk, as provided for in Article of Regulation
+         No 2216/and, secondly, that the Commission does not have the power to block the transactions concerning emission allowances
+         at the level of the national registries. 
+      
+Holcim further submits that the General Court infringed the rules on the burden of proof in failing to order the Commission
+         to produce to it the administrative file relating to blocking of the registries in January 2011.
+      
+By its ninth ground of appeal, Holcim submits that, in paragraph of the judgment under appeal, the General Court failed
+         to observe the principle of legal certainty in not penalising the conduct of the Commission for, first, having suspended access
+         to the registries in January and, secondly, having refused Holcim’s request to block certain allowances. 
+      
+Holcim further states that, in other circumstances, the Commission did indeed block such allowances. The General Court therefore
+         erred in law in failing to request the Commission to present evidence on that issue in order to clarify it.
+      
+In addition, the judgment under appeal is vitiated by a failure to state the grounds in that the General Court did not respond
+         to Holcim’s argument that, in essence, it cannot be claimed that the Commission must choose between the total blocking of
+         the system and no intervention at all.
+      
+The Commission contends that those grounds of appeal should be rejected.
+      
+–       Findings of the Court
+It must be noted, first of all, that, in accordance with the principle of sound administration, the EU institutions must examine
+         all the relevant particulars of a case with care and impartiality and gather all the factual and legal information necessary
+         to exercise their discretion (see, to that effect, judgment in Brookfield New Zealand and Elaris v CPVO and Schniga, C‑534/P, EU:C:2012:813, paragraph 51).
+      
+In this instance, Holcim’s complaints summarised in paragraphs and above are based on the incorrect premiss that the
+         Commission was empowered to block the appellant’s allowances in circumstances such as those of the present case. However,
+         as the General Court was fully entitled to hold, in paragraphs and of the judgment under appeal, neither Article nor Article of Regulation No 2216/allowed, in the present case, the Commission to block the stolen emission allowances.
+         In particular, Article only allows all access to be suspended to a registry in the event of systemic risk. Holcim does
+         not, however, rely on any other provision of Regulation No 2216/or Directive 2003/which would allow the Commission
+         to block the stolen allowances. 
+      
+Since there is no provision allowing the Commission to block the appellant’s allowances in circumstances such as those of
+         the present case, it must be found, first, that the General Court did not err in holding that the Commission had not failed
+         to have regard to the principle of sound administration and, secondly, that the General Court did not fail to have regard
+         to the principle of legal certainty.
+      
+It must be found, next, that the complaints summarised in paragraphs and above are inadmissible. By its complaints,
+         Holcim seeks, in essence, to have the Court of Justice substitute its own assessment of the facts and evidence for that carried
+         out by the General Court in the judgment under appeal.
+      
+Lastly, it must be found that, in paragraph of the judgment under appeal, the General Court provided a sufficient explanation
+         of the reasons why the Commission could only carry out a generalised suspension of all access to the registries in the event
+         of systemic risk. Consequently, the judgment under appeal is not vitiated by a failure to state the grounds.
+      
+In the light of all of the foregoing considerations, the eighth and ninth grounds of appeal must be rejected.
+      
+ The 10th ground of appeal
+–       Arguments of the parties
+This ground of appeal is directed at paragraphs and of the judgment under appeal and relates to an alleged infringement
+         of Article of Directive 2003/87. Holcim complains that the General Court, first, did not expand on the concept of an ‘automated
+         check’ and held, nevertheless, that Holcim should have proved that the theft could have been detected by such an ‘automated
+         check’. Secondly, Holcim submits that the General Court should have found that the Commission had unlawfully refrained from
+         ordering the national registries not to register the transactions concerning the stolen emission allowances, whereas the obligation
+         not to register them in the case of irregularities stems from Article of Directive 2003/87. Lastly, Holcim complains that
+         the General Court failed to examine its argument, as illustrated in Annex D.to the appeal, according to which the Commission
+         had illegally ordered the national registries not to disclose the data relating to the stolen emission allowances. 
+      
+The Commission contends that the 10th ground of appeal should be rejected.
+      
+–       Findings of the Court
+By the first part of the 10th ground of appeal, Holcim does not attribute to the General Court any error of law capable of
+         calling in question the legality of the judgment under appeal. Accordingly, the first part of the ground of appeal must be
+         rejected.
+      
+As regards the second part of that ground, relating to the alleged duty of the Commission to block the allowances on the national
+         registries, it is sufficient to point out that Article of Directive 2003/does not confer on the Commission any power
+         to block emission allowances in a case such as the present. Indeed Article provides only, in paragraph thereof, that
+         ‘if irregularities are identified through the automated check, the Central Administrator shall inform the Member State or
+         Member States concerned who shall not register the transactions in question …’.
+      
+Lastly, the third part of the 10th ground of appeal concerning Annex D.to the appeal is inadmissible, in that the appellant
+         has not indicated sufficiently precisely the legal arguments specifically advanced in support of its application to have the
+         judgment under appeal set aside (see, to that effect, judgment in Italy v Commission, C‑280/P, EU:C:2015:792, paragraph 42). 
+      
+Having regard to those considerations, the 10th ground of appeal must be rejected. 
+      
+ The 11th ground of appeal
+–       Arguments of the parties
+By its 11th ground of appeal, Holcim submits, in essence, that contrary to the statement of the General Court in paragraph of the judgment under appeal, it had already in its originating application pleaded a failure to have regard to the principle
+         of equal treatment, notably in the context of the pleas in law concerning the principles of sound administration and diligence.
+         In particular, Holcim was treated less favourably than other undertakings, whose emission allowances had been blocked at the
+         beginning of 2010. The General Court should therefore have found that such an argument constituted an amplification of pleas
+         previously relied upon and, consequently, could not have been considered inadmissible. 
+      
+The Commission contends that the 11th ground of appeal should be rejected.
+      
+–       Findings of the Court
+It must be pointed out that, in its originating application before the General Court, Holcim did not argue that it was treated
+         less favourably that than companies whose emission allowances had been blocked at the beginning of 2010. 
+      
+In any event, even if such an argument could be considered an amplification of pleas previously relied upon, it must be found
+         that the appellant’s arguments seek, in essence, to have the Court carry out factual appraisal, in particular as regards the
+         conditions in which the Commission is alleged to have blocked the accounts at the beginning of 2010, which exceeds the competences
+         of the Court in the context of an appeal. 
+      
+In the light of those considerations, the appellant’s 11th ground of appeal must be rejected.
+      
+ The 12th ground of appeal
+–       Arguments of the parties
+The 12th ground of appeal is directed at paragraph of the judgment under appeal and relates to an alleged failure to have
+         regard to the principle of effective judicial protection. Holcim complains that the General Court held, in essence, that even
+         if the stolen emission allowances were not blocked, Holcim could have brought legal proceedings giving it the real possibility
+         of being able to recover those allowances.
+      
+The Commission contends that the 12th ground of appeal is unfounded.
+      
+–       Findings of the Court
+In that regard, it is sufficient to note, first, that Article of Regulation No 2216/does not preclude the authorities
+         listed in Article 10(2) of that regulation from disclosing to the victims of theft the confidential information stored in
+         the registries concerning the stolen emission allowances. Secondly, nor does such a provision preclude the victims of theft
+         from using the information which they have thus obtained in order to bring judicial proceedings for recovery of such allowances.
+      
+It follows from this that the General Court did not undermine the principle of effective judicial protection in holding, in
+         paragraph of the judgment under appeal, that bringing judicial proceedings in order to recover the stolen emission allowances
+         is not conditional upon those allowances being the subject of a blocking decision.
+      
+In those circumstances, the 12th ground of appeal must be rejected. 
+      
+ The ground of appeal concerning the strict liability of the European Union
+ Arguments of the parties
+Holcim submits that the judgment under appeal is vitiated by a failure to state the grounds as regards the determination of
+         the unusual nature of the damage sustained by that company. The General Court failed to state the grounds for its findings,
+         in paragraph of the judgment under appeal, according to which, first, business confidentiality could not be guaranteed
+         without the application of the confidentiality rules such as those laid down in Article of Regulation No 2216/and,
+         secondly, the absence of such a provision would compromise the very existence of an emission allowance market.
+      
+In addition, in a case such as the present, the Court should temper the conditions required in order to engage the strict
+         liability of the European Union, by distancing itself thus from the case-law arising from the judgment in FIAMM and Others v Council and Commission (C‑120/and C‑121/06, EU:C:2008:476). 
+      
+The Commission contends that the present ground of appeal should be dismissed. 
+      
+ Findings of the Court
+A plea alleging that liability is incurred for a lawful act of the European Union must be rejected, and the Court does not
+         need to adjudicate on the possibility of liability being incurred on the part of the European Union for such acts, inasmuch
+         as the material and non-material damage alleged by the appellant are not unusual or special (see, to that effect, judgments
+         in Développement et Clemessy v Commission, 267/82, EU:C:1986:253, paragraph 33, and Sviluppo Italia Basilicata v Commission, C‑414/P, EU:C:2010:165, paragraph 141). 
+      
+In the present case, it must be found that Holcim simply alleges a failure to state the grounds in the judgment under appeal
+         as regards the unusual nature of the damage which it has sustained. In the appellant’s view, the General Court has not stated
+         the grounds, in paragraph of the judgment under appeal, for its statements that, first, business confidentiality could
+         not be guaranteed without the application of confidentiality rules such as those laid down in Article of Regulation No 2216/and, secondly, the absence of such a provision would compromise the existence of an emission allowances market.
+      
+It must be found that the General Court, in particular in the analysis carried out in the first and third pleas in law of
+         the judgment under appeal, explained to the requisite legal standard the reasons underlying the adoption of the scheme established
+         by Article of Regulation No 2216/2004. 
+      
+The present ground of appeal must therefore be rejected. 
+      
+It follows from all of the foregoing considerations that the appeal must be dismissed in its entirety. 
+      
+ Costs
+Under Article 184(2) of its Rules of Procedure, where the appeal is unfounded, the Court is to make a decision as to the costs.
+         
+      
+Under Article 138(1) of those Rules, applicable to the procedure on appeal by virtue of Article 184(1) thereof, the unsuccessful
+         party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since the Commission
+         has applied for costs to be awarded against Holcim and Holcim has been unsuccessful, Holcim must be ordered to pay the costs
+         of the appeal proceedings. 
+      
+On those grounds, the Court (Fifth Chamber) hereby:
+1.      Dismisses the appeal;
+2.      Orders Holcim (Romania) SA to pay the costs.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

@@ -1,0 +1,172 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+March (
+*)
+‛(Directive 2004/39/EC — Markets in financial instruments — Article 4(1)(14) — Concept of ‘regulated market’ — Authorisation — Functional requirements — Market whose legal nature is not specified, but which is managed, after a merger, by a legal person also managing a regulated market — Article — Not included on the list of regulated markets — Directive 2003/6/EC — Scope — Market manipulation)’
+In Case C-248/11,
+REFERENCE for a preliminary ruling under Article TFEU, from the Curtea de Apel Cluj (Romania), made by decision of May 2011, received at the Court on May 2011, in the criminal proceedings against
+Rareş Doralin Nilaş,
+Sergiu-Dan Dascăl,
+Gicu Agenor Gânscă,
+Ana-Maria Oprean,
+Ionuţ Horea Baboş,
+THE COURT (Second Chamber),
+composed of J.N. Cunha Rodrigues, President of the Chamber, U. Lõhmus (Rapporteur), A. Rosas, A. Ó Caoimh and A. Arabadjiev, Judges,
+Advocate General: Y. Bot,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+the Ministerul public, Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie, Direcţia de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism, by O. Codruţ, procuror,
+—
+Mr Nilaş and Mr Dascăl, by D. Ionescu and F. Plopeanu, avocaţi,
+—
+Mr Gânscă, by C. Dutescu, avocat,
+—
+the Romanian Government, by R. Radu, A. Wellman and R.-M. Giurescu, acting as Agents,
+—
+the Czech Government, by M. Smolek and D. Hadroušek, acting as Agents,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,
+—
+the Netherlands Government, by C. Wissels and M. de Ree, acting as Agents,
+—
+the European Commission, by T. van Rijn, I. Rogalski and R. Vasileva, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 4(1)(14) and Article of Directive 2004/39/EC of the European Parliament and of the Council of April on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, p. 1), as amended by Directive 2007/44/EC of the European Parliament and of the Council of September (OJ L 247, p. 1) (‘Directive 2004/39’).
+The reference has been made in criminal proceedings against Messrs Nilaş, Gânscă, Dascăl, Baboş and Ms Oprean (‘the defendants in the main proceedings’), who are charged with manipulation of the prices of shares in a public limited company on the Rasdaq market in financial instruments (‘the Rasdaq market’).
+Legal context
+European Union law
+Directive 2004/Recitals 2, 5, and in the preamble to Directive 2004/state:
+‘(2)
+… it is necessary to provide for the degree of harmonisation needed to offer investors a high level of protection …
+…
+(5)
+It is necessary to establish a comprehensive regulatory regime governing the execution of transactions in financial instruments irrespective of the trading methods used to conclude those transactions so as to ensure a high quality of execution of investor transactions and to uphold the integrity and overall efficiency of the financial system. …
+…
+(44)
+With the two-fold aim of protecting investors and ensuring the smooth operation of securities markets, it is necessary to ensure that transparency of transactions is achieved …
+…
+(56)
+Operators of a regulated market should also be able to operate [a multilateral trading facility, “MTF”] in accordance with the relevant provisions of this Directive.’
+For the purposes of Directive 2004/39, Article 4(1)(14) and (15) thereof define ‘regulated market’ and ‘MTF’ as follows:
+‘(14)
+Regulated market” means a multilateral system operated and/or managed by a market operator, which brings together or facilitates the bringing together of multiple third-party buying and selling interests in financial instruments — in the system and in accordance with its non-discretionary rules — in a way that results in a contract, in respect of the financial instruments admitted to trading under its rules and/or systems, and which is authorised and functions regularly and in accordance with the provisions of Title III;
+(15)
+“[MTF]” means a multilateral system, operated by an investment firm or a market operator, which brings together multiple third-party buying and selling interests in financial instruments — in the system and in accordance with non-discretionary rules — in a way that results in a contract in accordance with the provisions of Title II’.
+Title III of that directive, entitled ‘Regulated Markets’, comprises Articles to 47. Under the heading ‘Authorisation and applicable law’, Article 36(1), (2) and (5) provides:
+‘1.   Member States shall reserve authorisation as a regulated market to those systems which comply with the provisions of this Title.
+Authorisation as a regulated market shall be granted only where the competent authority is satisfied that both the market operator and the systems of the regulated market comply at least with the requirements laid down in this Title.
+…
+2.   Member States shall require the operator of the regulated market to perform tasks relating to the organisation and operation of the regulated market under the supervision of the competent authority. Member States shall ensure that competent authorities keep under regular review the compliance of regulated markets with the provisions of this Title. They shall also ensure that competent authorities monitor that regulated markets comply at all times with the conditions for initial authorisation established under this Title.
+…
+5.   The competent authority may withdraw the authorisation issued to a regulated market …’
+Under Article of that directive, entitled ‘List of regulated markets’:
+‘Each Member State shall draw up a list of the regulated markets for which it is the home Member State and shall forward that list to the other Member States and the Commission. A similar communication shall be effected in respect of each change to that list. The Commission shall publish a list of all regulated markets in the Official Journal of the European Union and update it at least once a year. The Commission shall also publish and update the list at its website, each time the Member States communicate changes to their lists.’
+Article of Directive 2004/provides that references to terms defined in Council Directive 93/22/EEC of May on investment services in the securities field (OJ L 141, p. 27), repealed from November 2007, are to be construed as references to the equivalent term defined in Directive 2004/39.
+Article 71(5) of Directive 2004/39, entitled ‘Transitional provisions’, states that any existing system falling under the definition of an MTF operated by a market operator of a regulated market is, subject to certain conditions, to be authorised as an MTF at the request of that operator.
+Directive 93/Article of Directive 93/contained the definitions applicable to that directive. Article 1(13) provided:
+—
+‘“regulated market” shall mean a market for the instruments listed in Section B of the Annex which:
+—
+appears on the list provided for in Article drawn up by the Member State which is the home Member State as defined in Article 1(6)(c),
+—
+…’.
+Directive 2003/Article of Directive 2003/6/EC of the European Parliament and of the Council of January on insider dealing and market manipulation (market abuse) (OJ L 96, p. 16) provides:
+‘For the purposes of this Directive:
+…
+(4)
+“Regulated market” shall mean a market as defined by Article 1(13) of Directive 93/22/EEC.
+…’
+The first paragraph of Article of Directive 2003/reads as follows:
+‘This Directive shall apply to any financial instrument admitted to trading on a regulated market in at least one Member State, or for which a request for admission to trading on such a market has been made, irrespective of whether or not the transaction itself actually takes place on that market.’
+National law
+Law No 297/on the capital markets (lege privind piaţa de capital) of June (Monitorul Oficial al României, Part I, No 571, of June 2004, ‘Law No 297/2004’), has, inter alia, transposed Directives 2003/and 2004/39. Article of that law provides:
+‘A regulated market is a system for trading in financial instruments … which:
+(a)
+functions regularly;
+(b)
+is governed by rules, issued or approved by the [Comisia Natională a Valorilor Mobiliare (the National Securities Commission) “the CNVM”], which lay down the market’s operating procedures and the conditions governing access to the market, as well as the conditions which a financial instrument must satisfy before it can be traded;
+(c)
+complies with the obligations in relation to reporting and transparency in order to ensure the protection of investors in accordance with this Law, and with the rules issued by the CNVM in accordance with [European Union] legislation.’
+Article of that law prohibits any natural or legal person from engaging in market manipulation, as defined in Article 244(5)(a) thereof.
+Under Article of that law:
+‘(1)   The provisions of this Title shall apply to any financial instrument which has been admitted to trading on a regulated market in Romania or in another Member State, or for which a request for admission to trading on that market has been made, irrespective of whether or not the transaction itself actually takes place on that market.
+…
+(3)   The prohibitions and provisions laid down in this Title shall apply:
+(a)
+to transactions in Romania or abroad with financial instruments which are admitted to trading on a regulated market situated or operating in Romania or in respect of which a request for admission to trading on such a market has been made;
+(b)
+transactions in Romania with financial instruments which are admitted to trading on a regulated market in Romania or in another Member State or in respect of which a request for admission to trading on such a market has been made.’
+Article 279(1) of Law No 297/provides that the deliberate performance of the acts referred to, inter alia, in Article thereof is an offence punishable by a sentence of imprisonment or a fine.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On December 2010, the Ministerul public, Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie — Direcţia de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism (Public Ministry, Public Prosecutor’s Office Supreme Court of Cassation — Directorate for Investigating Organised Crime and Terrorism) (‘the Ministerul public’) brought criminal proceedings against the defendants in the main proceedings. The Ministerul public accused them of manipulation, on the Rasdaq market, in February (with respect to Mr Dascăl) and during the period from November to February (with respect to the other defendants in the main proceedings) of ACIS shares in the issuing company SC AICI Bistriţa SA.
+The representatives of the defendants in the main proceedings asked the referring court to determine, as a preliminary issue, whether the Rasdaq market is a regulated market within the meaning of the provisions of Law No 297/2004.
+In that connection, the referring court states that the Rasdaq market started trading in under the initial title Bursa Electronică Rasdaq, as a trading platform for shares in State companies converted into semi-public companies under the mass privatisation programme. That market was authorised by decision of the CNVM of August 1996, and was thus regarded as a market that was organised and regulated by the CNVM, with its own operating rules.
+On December 2005, Bursa Electronică Rasdaq SA merged with Bursa de Valori Bucureşti SA, the former being incorporated into the latter. The legal person resulting from that merger was called Bursa de Valori Bucureşti SA and was required to manage two different markets, the regulated market Bursa de Valori Bucureşti and the Rasdaq market.
+The first market was then authorised by the CNVM. That body indicated to the referring court that, in the light of its statutory powers, it also controls and regulates the functioning of the Rasdaq market, although the latter has not been included in any of the categories of negotiating platforms provided for in European rules.
+The referring court points out that the Ministerul public’s view is that the Rasdaq market is a regulated market because it merged with the Bursa de Valori Bucureşti, constituting a de facto single market operating in accordance with the rules laid down by the CNVM and the Bursa de Valori Bucureşti.
+However, the defendants in the main proceedings claim that the Rasdaq market is not a regulated market within the meaning of Directive 2004/39. Since the definition of ‘regulated market’ is an autonomous concept of the European Union, not all authorised markets may be automatically regarded as regulated markets. Furthermore, that definition should not be interpreted in accordance with the usual meaning given to the term ‘regulated’.
+In those circumstances, the Curtea de Apel Cluj (Romania) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Can Article 4[1](14) and Articles to of [Directive 2004/39] … be interpreted as applying both to the main trading market authorised by the [CNVM] and to the secondary trading market, which has been incorporated into the former since … but has continued to be regarded as separate from the regulated market, even though its legal status has not been clarified by way of legislation?
+2.
+Must the provisions of Article 4[1](14) of [Directive 2004/39] be interpreted as meaning that the concept of a regulated market does not encompass those trading systems which do not comply with the provisions of Title III of [Directive 2004/39]?
+3.
+Must the provisions of Article of [Directive 2004/39] be interpreted as meaning that a market which has not been notified by a competent national authority and is not included in the list of regulated markets is not subject to the legal rules applicable to the regulated markets, in particular as regards the rules designed to prevent market abuse under Directive 2003/6/EC?’
+Consideration of the questions referred
+Admissibility
+The Ministerul public, Mr Nilaş and Mr Dascăl and the Romanian Government challenge, on various grounds, the admissibility of the reference for a preliminary ruling or of certain questions referred.
+According to the Ministerul public, the second and third questions are inadmissible since they are put by the defendants in the main proceedings without the referring court having adopted a decision making them its own. Furthermore, the first question, which lacks a sufficient description of the subject-matter in the main proceedings, the applicable provisions of national law and the arguments of the parties, seeks an assessment of the compatibility of national law with European Union law.
+Mr Nilaş and Mr Dascăl take the view that the first question concerns a question of fact since, in order to answer the question whether the Rasdaq market is a regulated market, it is sufficient to ascertain whether it was authorised by the CNVM to operate as a regulated market as a result of the authorisation procedure laid down in national law. Furthermore, Articles to of Directive 2004/39, mentioned in that question, have no relevance to the dispute in the main proceedings and the referring court does not explain the need for an interpretation of the provisions of that directive in order to resolve the case. The third question is unnecessary for the resolution of the dispute in the main proceedings, since the communication provided for in Article of Directive 2004/39, after a Member State has classified a market as a regulated market, is not a condition for that classification.
+Finally, the Romanian Government, which also submits that the first question seeks an examination of the issue of the compatibility of national law with European Union law exceeding the jurisdiction of the Court, takes the view that Title II of Directive 2004/39, mentioned in the second question, is irrelevant to the resolution of the dispute in the main proceedings.
+First, as regards the objection of inadmissibility raised by the Ministerul public against the second and third questions, it must be observed that, in the order for reference, the referring court indicated that those questions sought to clarify whether the Rasdaq market was a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39. In those circumstances, it must be held that those questions were referred by that court in accordance with Article TFEU.
+Second, as regards the argument that the first question seeks an assessment as to whether national law is compatible with European Union law, it is sufficient to state that it is clear from the wording of that question that it seeks an interpretation of European Union law, in this instance various provisions of Directive 2004/39.
+Third, as to the alleged deficiencies in the order for reference, the account of the facts in the main proceedings set out in that order, and summarised in paragraphs to of this judgment, and the relevant provisions of Law No 297/make it possible, as also shown by the written submissions of the Member States and the Commission, to understand that the interpretation requested of the provisions of Directive 2004/relating to the definition of ‘regulated market’ is such as to determine whether the conduct with which the defendants in the main proceedings are charged may be penalised under Directive 2003/and the provisions of Law No 297/which implemented that directive.
+Fourth, as regards the provisions of Directive 2004/mentioned in the first and second questions which, according to Mr Nilaş, Mr Dascăl and the Romanian Government, are irrelevant in this case, it should be recalled that the fact that a national court has, formally speaking, worded a question by referring to certain provisions of European Union law does not preclude the Court from providing to the national court all the elements of interpretation which may be of assistance in adjudicating on the case pending before it, whether or not that court has referred to them in its questions. It is, in this context, for the Court to extract from all the information provided by the national court, in particular from the grounds of the decision referring the questions, the points of European Union law which require interpretation, regard being had to the subject-matter of the dispute (see, inter alia, Case C-115/ČEZ [2009] ECR I-10265, paragraph 81, and Joined Cases C-307/to C-309/Vicoplus and Others [2011] ECR I-453, paragraph 22).
+It follows that, since the interpretation of the provisions of Directive 2004/relating to the definition of a ‘regulated market’, to which reference is made in the questions themselves, may serve, as stated in paragraph of the present judgment, to help the referring court to resolve the dispute before it, the mention of other provisions which may not be relevant does not affect the admissibility of those questions.
+Last and fifthly, the other observations of Mr Nilaş and Mr Dascăl concerning the first and third questions seek to answer those questions. Therefore, they concern the examination of the merits of those questions and not their admissibility.
+It follows that the questions referred for a preliminary ruling are admissible.
+Substance
+Preliminary observation
+As pointed out in paragraph of the present judgment, it is apparent from the order for reference that by its questions the referring court wishes to know whether the manipulation of shares in a public limited company of which the defendants in the main proceedings are accused falls within the scope of Directive 2003/6.
+It must be recalled that, in accordance with the first paragraph of Article 9, that directive applies to any financial instrument admitted to trading on a regulated market in at least one Member State or for which a request for admission to trading on such a market has been made, irrespective of whether or not the transaction itself actually takes place on that market.
+In that connection, the referring court merely states that the transactions of which the defendants in the main proceedings are accused were made on the Rasdaq market. It does not indicate whether the shares concerned were also admitted for trading on another market in financial instruments which is classified as a regulated market or whether the request for such admission had been submitted at the material time. If that was the case, which is for the national court to establish, that manipulation would in any event fall within the scope of Directive 2003/by virtue of Article thereof and it would not be necessary to know, for the purpose of the dispute in the main proceedings, whether or not the Rasdaq market is a regulated market within the meaning of Directive 2004/39.
+The first and second questions
+It is apparent from its order for reference that the referring court seeks clarification of the definition of ‘regulated market’ within the meaning of Article 4(1)(14) of Directive 2004/39. Title II of that directive, mentioned in the second question, concerns the authorisation and operation requirements applicable to investment companies, whereas the provisions relating to regulated markets appear in Title III thereof. Furthermore, Articles to of that directive, to which reference is made in the first question, are in Title II. It must be stated, as several parties who have submitted written observations have done, that Title II and those articles are irrelevant for the resolution of the dispute in the main proceedings.
+Moreover, although the first question refers to the merger of two Romanian markets in financial instruments, it is apparent from the grounds of the order for reference, as stated in paragraph of the present judgment, that it is the operators of the Bursa de Valori Bucureşti and the Rasdaq market, and not those markets themselves, which merged in 2005.
+Consequently, it must be held that, by its first and second questions, which it is appropriate to examine together, the referring court asks essentially if Article 4(1)(14) of Directive 2004/must be interpreted as meaning that a market in financial instruments which does not satisfy the requirements of Title III thereof none the less falls within the definition of ‘regulated market’, as set out in that provision, if its operator has merged with the operator of such a regulated market.
+Under Article 4(1)(14) of Directive 2004/a ‘regulated market’ must, in addition to being operated and/or managed by a market operator, be authorised and function regularly in accordance with the provisions of Title III thereof.
+It follows from the first and second subparagraphs of Article 36(1) of that directive, which is in Title III of the latter, that such a market must be authorised as a regulated market and that that authorisation may be granted only where the operator and the systems of the market concerned comply at least with the requirements laid down in that title. Furthermore, in accordance with Article 36(2), the competent authorities of the Member States must monitor that regulated markets comply at all times with the conditions for initial authorisation established under that title. Article 36(5) of Directive 2004/sets out the situations in which the authorisation is to be withdrawn.
+It follows from the two preceding paragraphs, first, that in order to be classified as a ‘regulated market’ within the meaning of Article 4(1)(14) of Directive 2004/39, a market in financial instruments must be authorised as a regulated market and, second, that its operation in accordance with the requirements set out in Title III of that directive is an essential condition for obtaining and keeping that authorisation.
+However, the fact that the operator of a market has merged with the operator of a regulated market is irrelevant as far as concerns the question whether the former market is regulated within the meaning of Article 4(1)(14) of Directive 2004/39. The possibility of a market being classified as a regulated market by reason of such a merger is not provided for in Title III or in the other titles of that directive.
+Therefore, as the Romanian Government submits, the fact that the shares are traded on the Rasdaq market via the electronic medium made available by the Bursa de Valori Bucureşti SA is insufficient to legally classify that market as a ‘regulated market’ if the conditions set out in paragraph of the present judgment are not fulfilled.
+In that connection, it must be observed that Directive 2004/expressly envisages situations in which the operator of a regulated market also operates another trading system, without the latter becoming a regulated market by reason of that operation.
+Thus, recital in the preamble to Directive 2004/states that operators of a regulated market should also be able to operate an MTF, which is governed, as is clear from the definition in Article 4(1)(15) of that directive, by the provisions of Title II thereof and is not, therefore, a regulated market. Similarly, the transitional provision in Article 71(5) of Directive 2004/provides that any existing system falling under the definition of an MTF operated by a market operator of a regulated market is, subject to certain conditions, to be authorised as an MTF at the request of that operator.
+Finally, it must be stated, as is clear in particular from recitals 2, and in the preamble to Directive 2004/39, that its objectives consist, inter alia, in protecting investors, preserving the efficient and orderly functioning of financial markets and the transparency of transactions. To permit a market which does not satisfy the conditions set out in paragraph of the present judgment to be classified as a regulated market solely because it is operated by the operator of another market authorised as a regulated market risks undermining those objectives.
+In light of the foregoing, the answer to the first and second questions is that Article 4(1)(14) of Directive 2004/must be interpreted as meaning that a market in financial instruments which does not satisfy the requirements in Title III of that directive does not fall within the concept of ‘regulated market’, as defined in that provision, notwithstanding the fact that its operator merged with the operator of such a regulated market.
+Consideration of the third question
+By its third question, the referring court asks essentially whether Article of Directive 2004/must be interpreted as meaning that the inclusion of a market on the list of regulated markets mentioned therein is a prerequisite for the classification of that market as a regulated market within the meaning of that directive.
+It must be recalled, first of all, that, while the inclusion on the list drawn up by the Member State concerned was an element of the definition of the concept of ‘regulated market’ laid down in Article 1(13) of Directive 93/22, such an element is absent from the definition of the same concept in Article 4(1)(14) of Directive 2004/39, the latter, as provided for in Article thereof, having repealed Directive 93/from November 2007.
+In the second place, the latter definition of ‘regulated market’ states that such a market functions regularly in accordance with the provisions of Title III of Directive 2004/39. Even though Article is in that title, it cannot, however, be considered that the obligation for a Member State to draw up the list referred to in that article relates to the functioning of that market.
+Third, as set out in paragraph of the present judgment, authorisation as a regulated market must, pursuant to the first subparagraph of Article 36(1) of Directive 2004/39, be reserved to trading systems which comply with the provisions of Title III of that directive. Since the inclusion on the list referred to in Article of that directive must be subsequent to the authorisation, it cannot logically constitute a condition of authorisation.
+It follows that the fact of being included on that list is not a constituent element of the classification of a market in financial instruments as a regulated market within the meaning of Directive 2004/39. Therefore, the sole fact that it is not included on that list is not sufficient to exclude the market in question from being a regulated market.
+Therefore, the answer to the third question is that Article of Directive 2004/must be interpreted as meaning that the inclusion of a market on the list of regulated markets referred to in that article is not a precondition for the classification of that market as a regulated market within the meaning of that directive.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+1.
+Article 4(1)(14) of Directive 2004/39/EC of the European Parliament and of the Council of April on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC, as amended by Directive 2007/44/EC of the European Parliament and of the Council of September 2007, must be interpreted as meaning that a market in financial instruments which does not satisfy the requirements in Title III of that directive does not fall within the concept of ‘regulated market’, as defined in that provision, notwithstanding the fact that its operator merged with the operator of such a regulated market.
+ 
+2.
+Article of Directive 2004/39, as amended by Directive 2007/44, must be interpreted as meaning that the inclusion of a market on the list of regulated markets referred to in that article is not a precondition for the classification of that market as a regulated market within the meaning of that directive.
+ 
+[Signatures]
+(
+*)   Language of the case: Romanian.
+Top  
+ 

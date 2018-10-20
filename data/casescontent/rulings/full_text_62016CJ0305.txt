@@ -1,0 +1,216 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Value added tax (VAT) — Sixth Directive 77/388/EEC — Article 11A(1)(a) — Taxable amount — Article — Right to deduct — Article — Special derogating measures — Decision 89/534/EEC — Marketing structure based on the supply of goods through non-taxable persons — Taxation on the open market value of the goods as determined at the final stage of the marketing chain — Inclusion of the costs incurred by those persons)
+In Case C‑305/16,
+REQUEST for a preliminary ruling under Article TFEU from the First-tier Tribunal (Tax Chamber) (United Kingdom), made by decision of May 2016, received at the Court on May 2016, in the proceedings
+Avon Cosmetics Ltd
+v
+Commissioners for Her Majesty’s Revenue and Customs,
+THE COURT (Third Chamber),
+composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan, D. Šváby and M. Vilaras (Rapporteur), Judges,
+Advocate General: M. Bobek,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on May 2017,
+after considering the observations submitted on behalf of:
+–
+Avon Cosmetics Ltd, by D. Scorey QC and R. Cordara QC, instructed by A. Cook, I. Hyde and S.P. Porter, Solicitors,
+–
+the United Kingdom Government, by J. Kraehling, G. Brown and D. Robertson, acting as Agents, and M. Hall QC,
+–
+the Council of the European Union, by J. Bauerschmidt, E. Moro and E. Chatziioakeimidou, acting as Agents,
+–
+the European Commission, by L. Lozano Palacios, R. Lyal and A. Lewis, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns (i) the interpretation of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), as amended by Council Directive 2004/7/EC of January (OJ L 27, p. 44) (‘the Sixth Directive’), and of the principles governing it, in the light of the derogation granted by Council Decision 89/534/EEC of May authorising the United Kingdom to apply, in respect of certain supplies to unregistered resellers, a measure derogating from Article 11A(1)(a) of the Sixth Directive (OJ L 280, p. 54), and (ii) the validity of that decision.
+The request has been made in proceedings between Avon Cosmetics Ltd (‘Avon’) and the Commissioners for Her Majesty’s Revenue and Customs (United Kingdom) (‘the Commissioners’) concerning, in particular, failure to take account of certain costs incurred by non-taxable resellers for the purpose of determining the taxable amount for the value added tax (VAT) payable by Avon pursuant to Decision 89/534.
+Legal context
+EU law
+The Sixth Directive was repealed and replaced, from January 2007, by Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1).
+Article of the Sixth Directive provided:
+‘The following shall be subject to [VAT]:
+1.   the supply of goods or services effected for consideration within the territory of the country by a taxable person acting as such;
+...’
+Article 4(1) of the Sixth Directive provided:
+‘“Taxable person” shall mean any person who independently carries out in any place any economic activity specified in paragraph 2, whatever the purpose or results of that activity.’
+Article of the Sixth Directive stated:
+‘A. Within the territory of the country
+1.   The taxable amount shall be:
+(a)
+in respect of supplies of goods and services other than those referred to in (b), (c) and (d) below, everything which constitutes the consideration which has been or is to be obtained by the supplier from the purchaser, the customer or a third party for such supplies including subsidies directly linked to the price of such supplies;
+...’
+Article of the Sixth Directive, headed ‘Origin and scope of the right to deduct’, provided:
+‘1.   The right to deduct shall arise at the time when the deductible tax becomes chargeable.
+2.   In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be entitled to deduct from the tax which he is liable to pay:
+(a)
+[VAT] due or paid in respect of goods or services supplied or to be supplied to him by another taxable person;
+…’
+Article of the Sixth Directive was worded as follows:
+‘1.   The Council, acting unanimously on a proposal from the Commission, may authorise any Member State to introduce special measures for derogation from the provisions of this Directive, in order to simplify the procedure for charging the tax or to prevent certain types of tax evasion or avoidance. Measures intended to simplify the procedure for charging the tax, except to a negligible extent, may not affect the overall amount of the tax revenue of the Member State collected at the stage of final consumption.
+2.   A Member State wishing to introduce the measure referred to in paragraph shall send an application to the Commission and provide it with all the necessary information. ...
+...’
+The second to fifth and ninth and tenth recitals of Decision 89/state:
+‘… the United Kingdom was authorised by … Decision 85/369…, deemed to have been adopted on June 1985, in accordance with the procedure laid down by Article 27(4) of the Sixth Directive, to introduce for a two-year period a derogation from the Sixth Directive to combat tax avoidance;
+… certain marketing structures based on sales of goods effected by taxable persons to non-taxable persons with a view to their resale at the retail stage result in avoidance of tax at the stage of final consumption;
+… in order to prevent such tax avoidance, the United Kingdom applies a measure permitting the tax authorities to adopt administrative decisions the effect of which is to tax supplies made by the taxable persons operating such marketing structures on the basis of the open market value of the goods at the retail stage;
+… that measure constitutes a derogation from Article 11A(1)(a) of the Sixth Directive, which stipulates that, within the territory of the country, the taxable amount in respect of supplies of goods is everything which constitutes the consideration which has been, or is to be, obtained by the supplier from the purchaser or a third party for such supplies;
+...
+… in its judgment of July 1988, [Direct Cosmetics and Laughtons Photographs (138/and 139/86, EU:C:1988:383),] the Court of Justice ruled inter alia that Article of the Sixth Directive permitted the adoption of a derogating measure such as that at issue on condition that the resultant difference in treatment was justified by objective circumstances;
+… in order to satisfy itself that this condition is met, the Commission must be informed of any administrative decisions adopted by the tax authorities in connection with the derogation in question;
+…’
+Article of Decision 89/provides:
+‘By way of derogation from Article 11A(1)(a) of the Sixth Directive, the United Kingdom is hereby authorised to prescribe, in cases where a marketing structure based on the supply of goods through non-taxable persons results in non-taxation at the stage of final consumption, that the taxable amount for supplies to such persons is to be the open market value of the goods as determined at that stage.’
+United Kingdom law
+Section 1(1) of the Value Added Tax Act (‘the Act’) provides:
+‘[VAT] shall be charged, in accordance with the provisions of this Act—
+(a)
+on the supply of goods or services in the United Kingdom ...’
+Section 4(1) of the Act states:
+‘VAT shall be charged on any supply of goods or services made in the United Kingdom, where it is a taxable supply made by a taxable person in the course or furtherance of any business carried on by him.
+...’
+As provided in section 19(2) of the Act:
+‘If the supply is for a consideration in money its value shall be taken to be such amount as, with the addition of the VAT chargeable, is equal to the consideration.
+...’
+Paragraph of Schedule of the Act provides:
+‘Where—
+(a)
+the whole or part of a business carried on by a taxable person consists in supplying to a number of persons goods to be sold, whether by them or others, by retail, and
+(b)
+those persons are not taxable persons,
+the Commissioners may by notice in writing to the taxable person direct that the value of any such supply by him after the giving of the notice or after such later date as may be specified in the notice shall be taken to be its open market value on a sale by retail.’
+On the basis of the derogation referred to in the previous paragraph, the Commissioners sent Avon a written notice (Notice of Direction) (‘the individual notice’), which was worded as follows:
+‘In pursuance of [paragraph of Schedule of the Act], the [Commissioners] hereby direct that after July the value by reference to which [VAT] is charged on any taxable supply of goods:
+(a)
+by you to persons who are not taxable persons ...
+(b)
+to be sold, whether by persons mentioned in (a) above or others, by retail,
+shall be taken to be its open market value on a sale by retail.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Avon is engaged in the manufacture and sale of products, mostly cosmetics. Their retail sale is carried out through independent female representatives (‘representatives’), almost all of whom operating in the United Kingdom are not subject to VAT, as they are not registered for VAT and their turnover is not sufficient to make it compulsory for them to be subject to it.
+Avon’s sales to those representatives are at a price below the retail price envisaged by it and are subject to VAT. On the other hand, as the representatives are not accountable for VAT, the retail sales which they make are not subject to VAT.
+The effect of that system is that the difference between the retail selling price and the price paid by the representatives to Avon is not subject to VAT.
+To remedy that situation, the United Kingdom, in particular by the Finance Act 1977, granted the Commissioners the power to issue persons liable to pay VAT with directions so that the tax payable by them would be calculated by reference to the retail selling price.
+In accordance with Article 27(5) of the Sixth Directive, the United Kingdom notified the Commission of the European Communities of that measure, as a special derogating measure, within the meaning of Article 27(1), which it intended to retain after the Sixth Directive entered into force on January 1978.
+By Council Decision 85/369/EEC of June 1985, entitled ‘Application of Article of the Sixth Council Directive of May on [VAT] (Authorisation of a derogation requested by the United Kingdom to enable certain types of tax avoidance to be prevented)’ (OJ L 199, p. 60, and corrigendum at OJ L 93, p. 17), the derogation was authorised for a period of two years, subsequently extended by a further two years.
+When requests were made to the Court for a preliminary ruling relating to the implementation of the derogation authorised by Decision 85/369, it found no factors of such a kind as to affect the validity of that decision (judgment of July 1988, Direct Cosmetics and Laughtons Photographs, 138/and 139/86, EU:C:1988:383).
+By Decision 89/534, the Council extended the authorisation given to the United Kingdom to derogate from Article 11A(1)(a) of the Sixth Directive with the aim of avoiding non-taxation at the stage of final consumption.
+Under paragraph of Schedule of the Act, adopted on the basis of that decision, and the individual notice, Avon’s taxable amount for VAT purposes corresponds to the sale value at the stage of final consumption of the goods supplied by it to non-taxable persons. In other words, under that system the VAT on the products sold by Avon to the representatives is calculated on the basis not of the price excluding tax at which Avon sells them those products, but of the price at which the representatives are deemed to resell them to their customers, that excess VAT being borne by Avon. However, in practice the Commissioners make two adjustments to that calculation in order to take account of the fact that some products are purchased by non-taxable representatives for their personal use and that the latter sell some products at a discount.
+Avon brought proceedings before the referring tribunal for the refund of overpaid VAT totalling in the region of GBP million (approximately EUR 15792000) on the ground that the system of taxation which is applicable to it, on the basis of the individual notice, does not take into account the tax relating to the cost of the representatives’ purchase of demonstration items, which are intended to help them to increase their sale volumes and are sold to them by it at a discount greater than that applied to the other products. According to Avon, as purchases of the demonstration items amount to business expenditure, the VAT relating to those purchases would have been deductible by those representatives if they had possessed the status of taxable person.
+Consequently, the individual notice is said to go beyond what is necessary in order to achieve the objective pursued and involves the overpayment of VAT because of the absence of an adjustment to take account of the VAT incurred by the representatives on the purchase of demonstration items. There is thus a breach of the principles of proportionality, equal treatment and fiscal neutrality, and also a competitive disadvantage between Avon and economic operators using traditional selling methods, who do not bear that VAT burden.
+Avon also submits that, in its application to the Commission for a derogation, the United Kingdom failed to provide all relevant information for the purposes of Article 27(2) of the Sixth Directive, although the problem of disparity of treatment regarding VAT applicable to demonstration items was already known. Accordingly, the purpose of its claim before the referring tribunal is that the VAT payable should be adjusted to take account of the VAT applicable to those demonstration items or, in the alternative, that Decision 89/534, paragraph of Schedule of the Act and the individual notice should be declared invalid.
+The Commissioners note that that provision is intended to prevent a loss of revenue on sales which escape VAT on their retail price. They take the view that the failure to take account of the VAT paid by the representatives in respect of the purchase of the demonstration items does not offend against the principles of proportionality, equal treatment and neutrality and does not create a distortion of competition, since Avon has chosen an operating structure and an approach to the market that are different from those of traditional retailers and Avon and those retailers operate in different markets, even though the products sold are similar. Those circumstances justify a different tax treatment.
+Furthermore, in the Commissioners’ submission, the calculation and levying of VAT should not be complicated unnecessarily for taxpayers or tax authorities. Acceptance of Avon’s arguments would make the non-taxable representatives bear a significant administrative burden.
+The Commissioners contend that they cannot interpret paragraph of Schedule of the Act as meaning that Avon might deduct the VAT paid by the representatives in respect of the purchase of the demonstration items without going beyond the authorisation given by the Council, its own legislation and the principle that an exception to the normal VAT mechanism must be interpreted narrowly.
+By interlocutory decision of February 2014, the referring tribunal held that the terms in which Decision 89/is couched, reproduced in paragraph of Schedule of the Act, do not permit account to be taken of the tax paid by the representatives in respect of the purchase of the demonstration items, thereby giving rise to ‘sticking’ tax, that is to say, input tax paid that cannot be recovered. It inferred from this that that provision creates unfair competition between Avon and entities which sell through taxable retailers. Therefore, paragraph of Schedule of the Act goes further than is necessary in order to achieve its objective of preventing any tax avoidance.
+Since the referring tribunal takes the view that that provision reproduces the terms of Decision 89/and has doubts as to the validity of that decision in the light in particular of the principle of fiscal neutrality, it considers it appropriate to make a reference to the Court in that regard.
+It is in those circumstances that the First-tier Tribunal (Tax Chamber) decided to stay proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Where a direct seller sells goods (“Sales Aids”) to unregistered resellers or the unregistered reseller purchases goods and services from third parties (“Third Party Goods and Services”) which are in both cases used by the unregistered resellers to assist their economic activity of selling other goods which are also purchased from the direct seller and the subject of administrative arrangements issued pursuant to a derogation most recently authorised by … Decision [89/534] …, do the relevant authorisations, implementing legislation and/or administrative arrangements offend any relevant provisions and/or principles of European Union law in so far as they require the direct seller to account for output tax on the unregistered resellers’ sale price of the other goods with no reduction for the VAT incurred by the unregistered reseller on such Sales Aids and/or Third Party Goods and Services?
+(2)
+Whether the [United Kingdom] was under any obligation to inform the Commission when seeking authorisation from the Council for the derogation [referred to in paragraph of Schedule of the Act], that unregistered resellers incurred VAT on purchases of Sales Aids and/or Third Party Goods and Services used for the purposes of their economic activities and that, accordingly, an adjustment to reflect that irrecoverable input tax, or overpaid output tax, should be accommodated in the derogation.
+(3)
+In the event that the answer to questions and/or above is in the affirmative:
+(a)
+Whether any of the relevant authorisations, implementing legislation or administrative arrangements can and should be interpreted so as to make an allowance in respect of either (i) irrecoverable VAT on Sales Aids or Third Party Goods and Services borne by unregistered resellers and used by such unregistered resellers for the purposes of their economic activities; or (ii) VAT in excess of the tax avoided being collected by [the Commissioners] or (iii) the potential unfair competition that arises between direct sellers, their unregistered resellers and non-direct selling businesses.
+(b)
+Whether
+(i)
+the authorisation of the [United Kingdom]’s derogation from Article 11A(1)(a) of the Sixth Directive was unlawful;
+(ii)
+a derogation from Article of the Sixth Directive is necessary alongside the derogation from Article 11A(1)(a) [referred to in paragraph of Schedule of the Act]. If so, whether the [United Kingdom] acted unlawfully by failing to ask the Commission or the Council to authorise it to derogate from Article 17;
+(iii)
+the [United Kingdom is] acting unlawfully by failing to administer VAT in such a way as to allow direct sellers to claim a credit for either Sales Aids or Third Party Goods and Services VAT incurred by unregistered resellers for the purposes of their economic activities;
+(iv)
+all or any part of the relevant authorisations, implementing legislation or administrative arrangements are therefore invalid and/or unlawful.
+(c)
+Whether the appropriate remedy is, from the Court of Justice … or from the national Tribunal or Court:
+(i)
+a direction that the Member State is required to give effect to the derogation [referred to in paragraph of Schedule of the Act] in domestic law by providing for an appropriate adjustment for any of (a) irrecoverable VAT on Sales Aids or Third Party Goods and Services borne by unregistered resellers and used by such unregistered resellers for the purposes of their economic activities; or (b) VAT in excess of the tax avoided being collected by [the Commissioners]; or (iii) the potential unfair competition that arises between direct sellers, their unregistered resellers and non-direct selling businesses; or
+(ii)
+a declaration that the authorisation of the derogation [referred to in paragraph of Schedule of the Act], and by extension the derogation itself, is invalid; or
+(iii)
+a declaration that the domestic legislation is invalid; or
+(iv)
+a declaration that the [individual notice] is invalid; or
+(v)
+a declaration that the [United Kingdom] is obliged to apply for authorisation for a further derogation so [as] to provide for an appropriate adjustment for any of (a) irrecoverable VAT on Sales Aids or Third Party Goods and Services borne by unregistered resellers and used by such unregistered resellers for the purposes of their economic activities; or (b) VAT in excess of the tax avoided being collected by [the Commissioners]; or [(c)] the potential unfair competition that arises between direct sellers, their unregistered resellers and non-direct selling businesses.
+(4)
+Under Article of the Sixth Directive (Article of … Directive [2006/112]), is the “tax eva[ded] or avoid[ed]” to be measured as the net loss of tax (taking account of both the output tax paid and input tax recoverable in the structure giving rise to the tax evaded or avoided) to the Member State or the gross loss of tax (taking account of only the output tax in the structure giving rise to the tax evaded or avoided) to the Member State?’
+Consideration of the questions referred
+The first question
+By its first question, the referring tribunal asks, in essence, (i) whether Articles and of the Sixth Directive must be interpreted as precluding a measure, such as that at issue in the main proceedings, authorised by Decision 89/pursuant to Article of that directive, which derogates from Article 11A(1)(a) of that directive and under which the taxable amount for VAT purposes of a direct sales company is the open market value of the goods sold at the stage of final consumption, where those goods are marketed through resellers not subject to VAT, without account being taken, in one way or another, of the input VAT relating to demonstration items purchased by those resellers from that company, and (ii), whether Decision 89/is invalid on the ground that it does not permit the United Kingdom to take account of the input VAT paid by such resellers relating to those demonstration items, so that it infringes the principles of proportionality and fiscal neutrality.
+As regards in particular the interpretation of Articles and of the Sixth Directive, it should be stated at the outset that, in accordance with Decision 89/534, the derogation granted to the United Kingdom pursuant to Article of the Sixth Directive and taking the form, in United Kingdom legislation, of paragraph of Schedule of the Act, is intended to prevent tax avoidance.
+As the Court has already held, national derogating measures designed to prevent the evasion or avoidance of tax must be interpreted strictly and may not derogate from the basis for charging VAT laid down in Article of the Sixth Directive, except within the limits strictly necessary for achieving that aim (judgments of April 1984, Commission v Belgium, 324/82, EU:C:1984:152, paragraph 29, and of May 1997, Skripalle, C‑63/96, EU:C:1997:263, paragraph 24).
+According to the fundamental principle which underlies the VAT system, and which follows from Article of the Sixth Directive, VAT applies to each transaction by way of production or distribution after deduction has been made of the VAT which has been levied directly on transactions relating to inputs; the right to deduct is an integral part of the VAT scheme and in principle may not be limited (see, to that effect, judgments of July 1995, BP Supergas, C‑62/93, EU:C:1995:223, paragraphs and 18, and of September 2000, Ampafrance and Sanofi, C‑177/and C‑181/99, EU:C:2000:470, paragraph 34).
+In the present instance, in accordance with Article of Decision 89/and in terms similar thereto, paragraph of Schedule of the Act derogates from Article 11A(1)(a) of the Sixth Directive, by authorising the Commissioners to determine the taxable amount of a person taxable for VAT purposes, in respect of products which he supplies to non-taxable resellers, by reference to those products’ open market value on a sale by retail. It follows that, in a situation such as that in the main proceedings, the taxable person for VAT purposes is, in a way, taxed instead of the non-taxable resellers.
+The derogating measure authorised by Decision 89/does not, however, relate to the rules governing the right to deduct, which are set out in Articles to of the Sixth Directive, and which therefore remain applicable in the present instance.
+More specifically, it does not permit derogation from Article 17(2) of the Sixth Directive, according to which the taxable person is to be entitled to deduct, from the tax which he is liable to pay, VAT due or paid in respect of goods or services supplied or to be supplied to him by another taxable person.
+Under that provision, the tax relating to demonstration items or other goods and services purchased by resellers, whether or not they are subject to VAT, cannot be deducted from the tax payable by a direct sales company, such as Avon in the main proceedings, which has not purchased any goods or services from third parties but which, on the contrary, in the case of the demonstration items, has sold them to those resellers.
+Furthermore, the representatives at issue in the main proceedings, who sell products within the framework of a direct selling system, are not subject to VAT and, accordingly, they are not entitled by virtue of Article 17(2) of the Sixth Directive to recover all or part of the tax which they are charged by their suppliers of goods and services.
+It follows from the foregoing considerations that it should be stated in answer to the first question that Articles and of the Sixth Directive must be interpreted as not precluding a measure, such as that at issue in the main proceedings, authorised by Decision 89/pursuant to Article of that directive, which derogates from Article 11A(1)(a) of that directive and under which the taxable amount for VAT purposes of a direct sales company is the open market value of the goods sold at the stage of final consumption, where those goods are marketed through resellers not subject to VAT, even if that derogating measure does not take account, in one way or another, of the input VAT relating to demonstration items purchased by those resellers from that company.
+As regards the validity of Decision 89/534, first, it should be noted that, in order for an EU measure relating to the VAT system to be compatible with the principle of proportionality, the provisions which it contains must be considered to be appropriate and necessary for the attainment of the objectives which it pursues and to be such as to affect as little as possible the objectives and principles of the Sixth Directive (see, to that effect, judgments of September 2000, Ampafrance and Sanofi, C‑177/and C‑181/99, EU:C:2000:470, paragraph 60, and of April 2004, Sudholz, C‑17/01, EU:C:2004:242, paragraph 46).
+In the present instance, the derogating measure in Decision 89/pursues, in accordance with the second to fourth recitals of that decision, the objective of preventing tax avoidance and is intended to enable the United Kingdom to remedy certain specific problems caused by the direct selling system so far as concerns VAT. As there are non-taxable resellers at the final stage of the marketing chain, the consequence of that system is that the supplies by those resellers to the final consumer are not subject to VAT.
+The Court has held that the concept of ‘tax avoidance’, within the meaning of Article 27(1) of the Sixth Directive, corresponds to a purely objective phenomenon and that that provision permits the adoption of a measure derogating from the basic rule set out in Article 11A(1)(a) of that directive even where the taxable person carries on business not with any intention of obtaining a tax advantage but for commercial reasons (see, to that effect, judgment of July 1988, Direct Cosmetics and Laughtons Photographs, 138/and 139/86, EU:C:1988:383, paragraphs and 24).
+Inasmuch as the derogating measure in Decision 89/authorises the United Kingdom to charge VAT on sales of a direct sales company’s products to final consumers made by non-taxable resellers, by determining the taxable amount of that company in the light of the open market value of the goods sold by those resellers, it enables the loss of tax revenue resulting from such a marketing structure to be avoided. Such a measure therefore appears appropriate for attaining the objective of combating tax avoidance.
+It is true that Decision 89/does not permit account to be taken, in one way or another, of the input VAT relating to demonstration items purchased by non-taxable resellers from a direct sales company.
+However, as is apparent from paragraphs and of the present judgment, taking account of that input VAT in the taxable amount of the supplies referred to in Article of Decision 89/would amount to an unauthorised derogation from Article 17(2) of the Sixth Directive.
+Furthermore, taking account of that input VAT in the taxable amount would complicate the levying of VAT in the case of the marketing structures covered by that decision.
+Consequently, it must be held that Decision 89/does not go beyond what is necessary in order to attain the objective of combating tax avoidance.
+Secondly, it should be recalled that the principle of fiscal neutrality precludes, in particular, treating similar goods or supplies of services, which are thus in competition with each other, differently for VAT purposes (judgment of November 2011, The Rank Group, C‑259/and C‑260/10, EU:C:2011:719, paragraph and the case-law cited).
+The failure of Decision 89/to take account of the input VAT relating to demonstration items purchased by non-taxable resellers from a direct sales company, such as Avon in the main proceedings, results in the distribution chain of that company’s products bearing a greater VAT burden than its competitors’ products. However, such a circumstance is merely the consequence of the choice made by such a company to use the direct selling system to market its products.
+Accordingly, and in the light of the considerations set out in paragraphs and of the present judgment, the principle of fiscal neutrality cannot be interpreted as authorising that VAT to be taken into account in the taxable amount of the supplies referred to in Article of Decision 89/534.
+Consequently, it must be held that Decision 89/is such as to affect the principle of neutrality as little as possible.
+It follows from all the foregoing considerations that examination of the first question has disclosed no factor of such a kind as to affect the validity of Decision 89/534.
+The second question
+By its second question, the referring tribunal asks, in essence, whether Article of the Sixth Directive must be interpreted as requiring the Member State which seeks authorisation to derogate from Article 11A(1)(a) of that directive to inform the Commission that non-taxable resellers incur VAT on purchases of demonstration items from a direct sales company that are used for the purposes of their economic activity, in order that account be taken, in one way or another, of that input tax in the detailed rules of the derogating measure.
+Admissibility
+The United Kingdom Government submits that the second question is inadmissible, on the ground that, first, it bears no relation to the purpose of the main action, secondly, the Court does not have before it the factual or legal information necessary to give a useful answer to that question and, thirdly, that question is entirely hypothetical as the application for a derogation concerned Article 11A(1)(a) of the Sixth Directive and not Article thereof, relating to the right to deduct VAT.
+It should be recalled that, according to the Court’s settled case-law, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of June 2017, Santogal M-Comércio e Reparação de Automóveis, C‑26/16, EU:C:2017:453, paragraph and the case-law cited).
+So far as concerns the first and third grounds of inadmissibility raised by the United Kingdom Government, it is sufficient to note that, as the Advocate General has stated in point of his Opinion, if the Court were to interpret Article of the Sixth Directive as requiring the Member State which seeks authorisation to derogate from that directive to provide, in support of its application, specific information, which was lacking in the present instance, such a reply would be liable to have an effect on the validity of Decision 89/and, therefore, on the outcome of the main action.
+So far as concerns the second ground of inadmissibility raised by the United Kingdom Government, in the present instance the referring tribunal set out the legal and factual context of the main action sufficiently precisely to enable the interested parties referred to in Article of the Statute of the Court of Justice of the European Union to submit observations and to enable the Court to give a useful answer to the questions submitted to it.
+In the light of the foregoing, the second question is to be considered admissible.
+Substance
+First of all, it should be recalled that the United Kingdom sought a derogation, pursuant to Article of the Sixth Directive, from Article 11A(1)(a) thereof, which lays down the rules for determining the taxable amount for VAT purposes, in order to prevent the tax avoidance due to products being sold at the stage of final consumption by resellers not subject to VAT.
+Under Article 27(2) of the Sixth Directive, a Member State wishing to introduce measures derogating from that directive must provide the Commission with all the necessary information.
+In that regard, it should be noted that, by its judgment of July 1988, Direct Cosmetics and Laughtons Photographs (138/and 139/86, EU:C:1988:383), relating in particular to the validity of Decision 85/369, which in the meantime has been replaced by Decision 89/which is essentially identical, the Court found no factors of such a kind as to affect the validity of Decision 85/369, after having, in particular, found, in paragraph of that judgment, that the notification to the Commission referred in sufficient detail to the needs which the requested measure met and that it contained all the essential elements to enable the aim pursued to be identified.
+In that context, it should first of all be noted that the fact that non-taxable resellers incur VAT on purchases of demonstration items from a direct sales company, such as Avon in the main proceedings, without being able to deduct it, does not appear to be information which, as such, relates to the objective pursued by the derogation requested or to the fundamental mechanism of the derogation, namely the determination of the value of the taxable amount.
+Next, it is clear that that fact is inherent in the VAT system since, as has already been stated in paragraphs and of the present judgment, resellers not subject to VAT cannot exercise a right to deduct the tax that they are charged. Thus, the view cannot be taken that such a fact should have been notified to the Commission together with the application for a derogation that the United Kingdom sent it.
+Finally, a Member State cannot be required, when it requests, pursuant to Article of the Sixth Directive, a derogation from that directive, to specify all the factual and legal aspects which have some relationship with the situation that it is seeking to remedy, but which do not result from that situation.
+It follows from all the foregoing considerations that the answer to the second question is that Article of the Sixth Directive must be interpreted as not requiring the Member State which seeks authorisation to derogate from Article 11A(1)(a) of that directive to inform the Commission that non-taxable resellers incur VAT on purchases of demonstration items from a direct sales company that are used for the purposes of their economic activity, in order that account be taken, in one way or another, of that input tax in the detailed rules of the derogating measure.
+The third question
+In view of the answers to the first and second questions, there is no need to answer the third question.
+The fourth question
+By its fourth question, the referring tribunal asks whether, under Article of the Sixth Directive, the ‘tax eva[ded] or avoid[ed]’ is to be measured as the net loss of tax to the Member State or the gross loss of tax to the Member State.
+The referring tribunal does not set out a ground of invalidity of Decision 89/that is connected with the way in which the amount of tax not levied because of tax evasion or avoidance as referred to in Article of the Sixth Directive is determined. Nor does the referring tribunal explain why the interpretation of that article in so far it refers to ‘tax evasion or avoidance’ is relevant to the outcome of the dispute before it.
+In the absence of those particulars, the Court is not in a position to give a useful answer to the fourth question referred, which, consequently, must be declared inadmissible.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring tribunal, the decision on costs is a matter for that tribunal. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+Articles and of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment, as amended by Council Directive 2004/7/EC of January 2004, must be interpreted as not precluding a measure, such as that at issue in the main proceedings, authorised by Council Decision 89/534/EEC of May authorising the United Kingdom to apply, in respect of certain supplies to unregistered resellers, a measure derogating from Article 11A(1)(a) of the Sixth Directive, pursuant to Article of that directive, which derogates from Article 11A(1)(a) of that directive and under which the taxable amount for valued added tax (VAT) purposes of a direct sales company is the open market value of the goods sold at the stage of final consumption, where those goods are marketed through resellers not subject to VAT, even if that derogating measure does not take account, in one way or another, of the input VAT relating to demonstration items purchased by those resellers from that company.
+ 
+2.
+Examination of the first question has disclosed no factor of such a kind as to affect the validity of Decision 89/534.
+ 
+3.
+Article of Sixth Directive 77/388, as amended by Directive 2004/7, must be interpreted as not requiring the Member State which seeks authorisation to derogate from Article 11A(1)(a) of that directive to inform the European Commission that non-taxable resellers incur VAT on purchases of demonstration items from a direct sales company that are used for the purposes of their economic activity, in order that account be taken, in one way or another, of that input tax in the detailed rules of the derogating measure.
+ 
+Bay Larsen
+Malenovský
+Safjan
+Šváby
+Vilaras
+Delivered in open court in Luxembourg on December 2017.
+A. Calot Escobar
+Registrar
+L. Bay Larsen
+President of the Third Chamber
+(
+*)	Language of the case: English.
+Top  
+ 

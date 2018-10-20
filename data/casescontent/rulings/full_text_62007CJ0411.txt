@@ -1,0 +1,233 @@
+
+Case C-411/X BV
+v
+Staatssecretaris van Financiën
+(Reference for a preliminary ruling from the Hoge Raad der Nederlanden)
+(Common Customs Tariff – Combined Nomenclature – Tariff classification – Headings 8541, and – Optocouplers)
+Summary of the Judgment
+Common Customs Tariff – Tariff headings – Optocouplers
+(Council Regulation No 2658/87, Annex I, Headings 8541, and 8543; Commission Regulation No 1832/2002)
+The Combined Nomenclature in Annex I to Regulation No 2658/on the tariff and statistical nomenclature and on the Common
+         Customs Tariff, as amended by Regulation No 1832/2002, must be interpreted as meaning that an optocoupler, regardless of whether
+         or not it contains an amplifying circuit, falls within heading 8541. The tariff classification of optocouplers cannot vary
+         according to the presence or absence of an integrated amplifying circuit since the latter serves only to ensure good transmission
+         of signals and does not fundamentally alter the characteristics and properties of the optocoupler as a photosensitive semiconductor.
+         That classification is therefore specific and appropriate.
+      
+(see paras 23-25, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fifth Chamber)
+October (*)
+      
+(Common Customs Tariff – Combined Nomenclature – Tariff classification – Headings 8541, and – Optocouplers)
+In Case C‑411/07,
+REFERENCE for a preliminary ruling under Article EC, by the Hoge Raad der Nederlanden (Netherlands), made by decision
+         of August 2007, received at the Court on September 2007, in the proceedings
+      
+X BV
+v
+Staatssecretaris van Financiën,
+THE COURT (Fifth Chamber),
+composed of A. Tizzano, President of the Chamber, M. Ilešič (Rapporteur) and J.-J. Kasel, Judges,
+Advocate General: Y. Bot,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on June 2008,
+after considering the observations submitted on behalf of:
+–        X BV, by H. de Bie and E. Zietse, advocaten,
+–        the Netherlands Government, by C. Wissels and C. ten Dam, acting as Agents,
+–        the Commission of the European Communities, by G. Wilms, acting as Agent, and by R. de Bree, advocaat,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of headings 8541, and of the Combined Nomenclature
+         set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on
+         the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 1832/of August (OJ
+         L 290, p. 1) (‘the CN’).
+      
+The reference was made in the course of proceedings between a company incorporated under Netherlands law, called ‘X BV’ (‘X’)
+         by the referring court, and the Staatssecretaris van Financiën (Secretary of State for Finance) concerning the tariff classification
+         of optocouplers.
+      
+ Legal background
+The CN, established by Regulation No 2658/87, is based on the International Harmonised Commodity Description and Coding System
+         (‘HS’) drawn up by the Customs Cooperation Council, now the World Customs Organisation, and established by the International
+         Convention concluded at Brussels on June and approved on behalf of the Community by Council Decision 87/369/EEC of
+         April (OJ L 198, p. 1). The CN takes six-digit headings and subheadings from the HS, only the seventh and eighth
+         digits forming subdivisions that are specific to it.
+      
+The version of the CN applicable at the material time is that in Annex I to Regulation No 1832/2002.
+      
+Section XVI of the CN consists of two parts, including Chapter which is entitled ‘Electrical machinery and equipment and
+         parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories
+         of such articles’. Chapter contains, inter alia, the following headings and subheadings:
+      
+‘Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, including photovoltaic
+         cells whether or not assembled in modules or made-up into panels; mounted piezo-electric crystals:
+      
+…
+– Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made-up into panels,
+         light-emitting diodes:
+      
+– – Light-emitting diodes, including laser diodes
+– – Other
+…
+Electronic integrated circuits and microassemblies:
+– – Cards incorporating an electronic integrated circuit (‘smart cards’)
+                            – Monolithic integrated circuits:
+– – Digital:
+…
+– – Other:
+…
+– – – – Control circuits
+– – – – Interface circuits; interface circuits capable of performing control functions
+…
+Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter:
+…
+– – Other:
+…
+– – – – Other
+…’
+Notes and of Section XVI of the CN state:
+      
+‘2.      Subject to note to this section, note to Chapter and note to Chapter 85, parts of machines (not being parts of the
+         articles of heading 8484, 8544, 8545, or 8547) are to be classified according to the following rules:
+      
+(a)      Parts which are goods included in any of the headings of Chapter or (other than headings 8409, 8431, 8448, 8466, 8473,
+         8485, 8503, 8522, 8529, and 8548) are in all cases to be classified in their respective headings.
+      
+(b)      Other parts, if suitable for use solely or principally with a particular kind of machine, or with a number of machines of
+         the same heading (including a machine of heading or 8543) are to be classified with the machines of that kind or in heading
+         8409, 8431, 8448, 8466, 8473, 8503, 8522, or as appropriate. However, parts which are equally suitable for use principally
+         with the goods of headings and to are to be classified in heading 8517.
+      
+(c)      All other parts are to be classified in heading 8409, 8431, 8448, 8466, 8473, 8503, 8522, or as appropriate or,
+         failing that, in heading or 8548.
+      
+5.      For the purposes of these notes, the expression “machine” means any machine, plant, equipment, apparatus or appliance cited
+         in the headings of Chapter or 85.’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+In 2003, the Inspecteur van de Douane (‘the inspector’) issued binding tariff informations to X for optocouplers. 
+      
+As is apparent from the file, optocouplers are devices designed to ensure galvanic separation. Galvanic separation is insulation
+         which prevents direct circulation of an electric current between neighbouring electronic circuits. An optocoupler permits
+         such isolation between the emitter circuit and the collector circuit by first converting the electric signals from the emitter
+         circuit into light signals with the aid of a light emitting diode (‘LED’) and then reconverting the light signals into electric
+         signals in the collector circuit using a photodetector (consisting of a photodiode or a phototransistor). In addition to a
+         photodiode and a photodetector, an optocoupler always contains a plastic film which is highly resistant to electricity but
+         which allows light signals to pass. The incoming electric signals are thereby transferred from one electric circuit to the
+         other without those circuits being electrically connected with each other.
+      
+Some optocouplers, including those marketed by X, also contain an integrated circuit with which outgoing electrical signals
+         are stabilised and amplified. 
+      
+The various components described above are enclosed in a plastic case. 
+      
+Optocouplers are widely used in the manufacture of many types of apparatus and equipment, in particular communication apparatus,
+         computer equipment and industrial machines. 
+      
+In the binding tariff informations issued, types of optocouplers were classified under subheading 90, one under
+         subheading and two under subheading of the CN. 
+      
+By decision of November 2004, the inspector withdrew the binding tariff informations because he had formed the view that
+         all of the products in question were to be classified under subheading CN. Following the complaint made by X the
+         inspector maintained that decision. 
+      
+By judgment of December 2005, the Rechtbank te Haarlem (District Court, Haarlem) dismissed the action brought against that
+         decision. It held that optocouplers are apparatuses with individual functions and that they must be classed under subheading
+         of the CN.
+      
+Taking the view that optocouplers could not in any case fall within heading 8543, X brought an appeal in cassation before
+         the Hoge Raad der Nederlanden.
+      
+The Hoge Raad der Nederlanden (Supreme Court of the Netherlands) observes that optocouplers contain the components mentioned
+         in heading 8541. According to that court, the question is whether classification under heading is also possible where
+         the optocoupler contains a circuit through which outgoing electric signals are stabilised and amplified.
+      
+In those circumstances, the Hoge Raad der Nederlanden decided to stay the proceedings and to refer the following questions
+         to the Court for a preliminary ruling:
+      
+‘1.      Must an optical-electrical circuit contained in a plastic case which, together with a light emitting diode (“LED”), a plastic
+         film and a photodetector, contains an amplifying circuit and is intended for incorporation in, inter alia, communication and
+         computer equipment, consumer electronics and industrial machines, be regarded as an electrical machine or apparatus within
+         the meaning of heading of the CN?
+      
+2.      If it is a part of a machine, is “photosensitive semiconductor device, including photovoltaic cells, whether or not assembled
+         in modules or made up into panels” referred to in heading of the CN to be interpreted as including an optical-electrical
+         circuit as described above, or is such a product to be regarded as an electronic integrated circuit within the meaning of
+         heading of the CN owing to the presence of the amplifying circuit?’
+      
+ The questions referred for a preliminary ruling
+By its questions, which should be examined together, the referring court asks essentially whether an optocoupler containing
+         an amplifying circuit falls under heading of the CN as a photosensitive semiconductor device, under heading of the
+         CN as an electronic integrated circuit or heading of the CN as an electrical machine or apparatus with an individual
+         function.
+      
+X submits that optocouplers, including those containing an amplifying circuit, must be classified under heading 8541. The
+         Commission of the European Communities shares that view. The Netherlands Government, on the other hand, takes the view that
+         an optocoupler which is composed not only of an LED and photodiodes but also an integrated amplifying circuit must be classified
+         under heading 8543.
+      
+It should be noted that, in the interests of legal certainty and ease of verification, the decisive criterion for the classification
+         of goods for customs purposes is in general to be found in their objective characteristics and properties as defined in the
+         wording of the relevant heading of the Combined Nomenclature and of the notes to the sections or chapters (Case C-382/Techex [1997] ECR I-7363, paragraph 11; Joined Cases C‑208/and C‑209/Medion and Canon Deutschland [2007] ECR I‑7963, paragraph 34; and Case C-165/Ecco Sko [2008] ECR I-0000, paragraph 27).
+      
+Heading of the CN concerns in particular photosensitive semiconductor devices. As is apparent from the order for reference
+         and the observations lodged at the Court, it is common ground that optocouplers are such devices.
+      
+The Netherlands Government also acknowledged in its written observations that optocouplers without added circuits must be
+         classified under heading 8541. It argues that it is only where an optocoupler contains an integrated circuit that classification
+         under that heading is no longer possible. It submits that optocouplers containing an integrated circuit which stabilises and
+         amplifies outgoing electrical signals cannot be regarded as simple photosensitive semiconductor devices.
+      
+In that connection, it must be observed that the tariff classification of optocouplers cannot vary according to the presence
+         or absence of an integrated amplifying circuit. It is not disputed that the incorporation of such a circuit in optocouplers
+         is a very widespread technique which serves only to ensure good transmission of signals. The presence of the circuit does
+         not therefore fundamentally alter the characteristics and properties of the optocoupler as a photosensitive semiconductor.
+      
+It is clear from the foregoing considerations that optocouplers are also covered by heading of the CN when they contain
+         an amplifying circuit.
+      
+Moreover, since it is not disputed that optocouplers are photosensitive semiconductor devices, their classification under
+         heading of the CN appears, having regard to their characteristics summarised in paragraph of this judgment, more specific
+         and appropriate than classification under heading of the CN.
+      
+Finally, contrary to the Netherlands Government’s assertions, optocouplers, whatever their exact composition, cannot be classified
+         under heading of the CN.
+      
+Heading is applicable only if the other headings of Chapter of the CN are not applicable. It is clear from paragraph
+         of this judgment that optocouplers fall within heading of the CN, including where they contain an amplifying circuit.
+      
+In any event, optocouplers may be classified under heading of the CN only if they have an individual function. It must
+         be observed that optocouplers must be regarded as machine components rather than ‘[e]lectrical machines and apparatus, having
+         individual functions’ within the meaning of heading of the CN. As the referring court explained and X pointed out, optocouplers
+         in themselves cannot function effectively, independently of the electrical device for which they are designed.
+      
+Furthermore, it is clear from Note 2(a) to Section XVI of the CN that machine parts which are goods included in any of the
+         headings of Chapter or 85, as in this case heading 8541, are in all cases to be classified in their respective headings.
+         It is true that Note 2(b) to Section XVI states that, where machine parts are suitable for use solely or principally with
+         a particular kind of machine, or with a number of machines of the same heading, they are to be classified with machines of
+         that kind. It must be stated, however, that that rule does not apply to optocouplers, since they are suitable for use with
+         many types of machines or apparatus referred to in heading of the CN (‘Electrical machines and apparatus, having individual
+         functions, not specified or included elsewhere in this chapter’).
+      
+Having regard to all of the foregoing considerations, the answer to the reference for a preliminary ruling must be that the
+         Combined Nomenclature in Annex I to Regulation No 2658/87, as amended by Regulation No 1832/2002, must be interpreted as meaning
+         that an optocoupler, regardless of whether or not it contains an amplifying circuit, falls within heading 8541.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fifth Chamber) hereby rules:
+The Combined Nomenclature in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical
+            nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EC) No 1832/of August 2002, must
+            be interpreted as meaning that an optocoupler, regardless of whether or not it contains an amplifying circuit, falls within
+            heading 8541.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 

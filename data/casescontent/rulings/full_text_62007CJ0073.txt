@@ -1,0 +1,475 @@
+
+Case C-73/Tietosuojavaltuutettu
+v
+Satakunnan Markkinapörssi Oy
+and
+Satamedia Oy
+(Reference for a preliminary ruling from the Korkein hallinto-oikeus)
+(Directive 95/46/EC – Scope – Processing and flow of tax data of a personal nature – Protection of natural persons – Freedom of expression)
+Summary of the Judgment
+1.        Approximation of laws – Protection of individuals with regard to the processing of personal data – Directive 95/(European Parliament and Council Directive 95/46, Art. 3(1))
+2.        Approximation of laws – Protection of individuals with regard to the processing of personal data – Directive 95/(European Parliament and Council Directive 95/46, Art. 9)
+3.        Approximation of laws – Protection of individuals with regard to the processing of personal data – Directive 95/(European Parliament and Council Directive 95/46)
+1.        Article 3(1) of Directive 95/on the protection of individuals with regard to the processing of personal data and on the
+         free movement of such data, which governs the scope of application of the directive, is to be interpreted as meaning that
+         an activity in which data on the earned and unearned income and the assets of natural persons are:
+      
+– collected from documents in the public domain held by the tax authorities and processed for publication,
+– published alphabetically in printed form by income bracket and municipality in the form of comprehensive lists,
+– transferred onward on CD-ROM to be used for commercial purposes, and,
+– processed for the purposes of a text-messaging service whereby mobile telephone users can, by sending a text message containing
+         details of an individual’s name and municipality of residence to a given number, receive in reply information concerning the
+         earned and unearned income and assets of that person,
+      
+must be considered as the ‘processing of personal data’ within the meaning of that provision.
+(see para. 37, operative part 1)
+2.        Article of Directive 95/on the protection of individuals with regard to the processing of personal data and on the free
+         movement of such data, which governs the relationship between the protection of such data and freedom of expression, is to
+         be interpreted as meaning that an activity in which data on the earned and unearned income and the assets of natural persons
+         are:
+      
+– collected from documents in the public domain held by the tax authorities and processed for publication,
+– published alphabetically in printed form by income bracket and municipality in the form of comprehensive lists,
+– transferred onward on CD-ROM to be used for commercial purposes, and,
+– processed for the purposes of a text-messaging service whereby mobile telephone users can, by sending a text message containing
+         details of an individual’s name and municipality of residence to a given number, receive in reply information concerning the
+         earned and unearned income and assets of that person, 
+      
+must be considered as activities involving the processing of personal data carried out ‘solely for journalistic purposes’,
+         within the meaning of that provision, if the sole object of those activities is the disclosure to the public, irrespective
+         of the medium which is used to transmit them, of information, opinions or ideas. Whether that is the case is a matter for
+         the national court to determine.
+      
+In any event, those activities are not limited to media undertakings and may be undertaken for profit-making purposes.
+ (see paras 61-62, operative part 2)
+3.        The scope of application of Directive 95/on the protection of individuals with regard to the processing of personal data
+         and on the free movement of such data extends to the processing of personal data which consists in transferring onward on
+         CD-ROM, in order for them to be used for commercial purposes, data on the earned and unearned income and the assets of natural
+         persons which has been collected from documents in the public domain held by the tax authorities and processed for publication
+         and which has already been published in the media. The scope of application of the directive also extends to the processing
+         of such data for the purposes of a text-messaging service whereby mobile telephone users can, by sending a text message containing
+         details of an individual’s name and municipality of residence to a given number, receive those data.
+      
+(see para. 49, operative part 3)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+December (*)
+      
+(Directive 95/46/EC – Scope – Processing and flow of tax data of a personal nature – Protection of natural persons – Freedom of expression)
+In Case C‑73/07,
+REFERENCE for a preliminary ruling under Article EC from the Korkein hallinto-oikeus (Finland), made by decision of February 2007, received at the Court on February 2007, in the proceedings
+      
+Tietosuojavaltuutettu
+v
+Satakunnan Markkinapörssi Oy,
+Satamedia Oy,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, P. Jann, C.W.A. Timmermans, A. Rosas, K. Lenaerts and A. Ó Caoimh, Presidents of Chambers,
+         P. Kūris, E. Juhász, G. Arestis, A. Borg Barthet, J. Klučka, U. Lõhmus and E. Levits (Rapporteur), Judges,
+      
+Advocate General: J. Kokott,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on February 2008,
+after considering the observations submitted on behalf of:
+–        Satakunnan Markkinapörssi Oy and Satamedia Oy, by P. Vainio, asianajaja,
+–        the Finnish Government, by J. Heliskoski, acting as Agent,
+–        the Estonian Government, by L. Uibo, acting as Agent,
+–        the Portuguese Government, by L.I. Fernandes and C. Vieira Guerra, acting as Agents,
+–        the Swedish Government, by A. Falk and K. Petkovska, acting as Agents,
+–        the Commission of the European Communities, by C. Docksey and P. Aalto, acting as Agents,
+after hearing the Advocate General at the sitting on May 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling relates to the interpretation of Directive 95/46/EC of the European Parliament and
+         of the Council of October on the protection of individuals with regard to the processing of personal data and on the
+         free movement of such data (OJ L 281, p. 31) (‘the directive’).
+      
+The reference was made in proceedings between the Tietosuojavaltuutettu (Data Protection Ombudsman) and the Tietosuojalautakunta
+         (Data Protection Board) relating to activities involving the processing of personal data undertaken by Satakunnan Markkinapörssi
+         Oy (‘Markkinapörssi’) and Satamedia Oy (‘Satamedia’).
+      
+ Legal context
+ Community legislation 
+As is apparent from Article 1(1) of the directive, its objective is to protect the fundamental rights and freedoms of natural
+         persons, and, in particular, their right to privacy with respect to the processing of personal data.
+      
+Article 1(2) of the directive states:
+      
+‘Member States shall neither restrict nor prohibit the free flow of personal data between Member States for reasons connected
+         with the protection afforded under paragraph 1.’
+      
+Article of the directive, entitled ‘Definitions’, provides:
+      
+‘For the purposes of this Directive:
+(a)       “personal data” shall mean any information relating to an identified or identifiable natural  person (“data subject”); an
+         identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification
+         number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
+      
+(b)      “processing of personal data” (“processing”) shall mean any operation or set of operations which is performed upon personal
+         data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval,
+         consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination,  blocking,
+         erasure or destruction;
+      
+(c)
+      “personal data filing system” (“filing system”) shall mean any structured set of personal data which are accessible according
+         to specific criteria, whether centralised, decentralised or dispersed on a functional or geographical basis;
+      
+…’
+Article of the directive defines its scope of application in the following manner:
+      
+‘1.      This Directive shall apply to the processing of personal data wholly or partly by automatic means, and to the processing otherwise
+         than by automatic means of personal data which form part of a filing system or are intended to form part of a filing system.
+      
+2.      This Directive shall not apply to the processing of personal data:
+–        in the course of an activity which falls outside the scope of Community law, such as those  provided for by Titles V and VI
+         of the Treaty on European Union and in any case to processing  operations concerning public security, defence, State security
+         (including the economic well-being of the State when the processing operation relates to State security matters) and the activities
+         of  the State in areas of criminal law,
+      
+–        by a natural person in the course of a purely personal or household activity.’
+The relationship between the protection of personal data and freedom of expression is governed by Article of the directive,
+         entitled ‘Processing of personal data and freedom of expression’, in the following terms:
+      
+‘Member States shall provide for  exemptions or derogations from the provisions of this Chapter, Chapter IV and Chapter VI
+         for the  processing of personal data carried out solely for journalistic purposes or the purpose of artistic or literary expression
+         only if they are necessary to reconcile the right to privacy with the rules  governing freedom of expression.’
+      
+In that connection, recital in the preamble to the directive is worded as follows:
+      
+‘Whereas the processing of personal data for purposes of journalism or for purposes of literary or artistic expression, in
+         particular in the audiovisual field, should qualify for exemption from the requirements of certain provisions of this Directive
+         in so far as this is necessary to reconcile the fundamental rights of individuals with freedom of [expression] and notably
+         the right to receive and impart information, as guaranteed in particular in Article of the European Convention for the
+         Protection of Human Rights and Fundamental Freedoms; whereas Member States should therefore lay down exemptions and derogations
+         necessary for the purpose of balance between fundamental rights as regards general measures on the legitimacy of data processing,
+         measures on the transfer of data to third countries and the power of the supervisory authority; whereas this should not, however,
+         lead Member States to lay down exemptions from the measures to ensure security of processing; whereas at least the supervisory
+         authority responsible for this sector should also be provided with certain ex-post powers, e.g. to publish a regular report
+         or to refer matters to the judicial authorities.’ 
+      
+Article of the directive, entitled ‘Exemptions and restrictions’, states:
+      
+‘1.      Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles
+         6(1), 10, 11(1), and when such a restriction constitutes a necessary measure to safeguard:
+      
+(a)      national security;
+…’ 
+Article of the directive, entitled ‘Security of processing’, provides: 
+      
+‘1.      Member States shall provide that the controller must implement appropriate technical and organisational measures to protect
+         personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access,
+         in particular where the processing involves the transmission of data over a network, and  against all other unlawful forms
+         of processing. 
+      
+Having regard to the state of the art and the cost of their implementation, such measures shall ensure a level of security
+         appropriate to the risks represented by the processing and the nature of the data to be protected.
+      
+2.      The Member States shall provide that the controller must, where processing is carried out on his behalf, choose a processor
+         providing sufficient guarantees in respect of the technical security measures and organisational measures governing the processing
+         to be carried out, and must ensure compliance with those measures.
+      
+…’
+ National legislation
+Paragraph 10(1) of the Constitution (Perustuslaki (731/1999)) of June states: 
+      
+‘The right to privacy, honour and the inviolability of the home of every person shall be guaranteed. More detailed provisions
+         on the protection of personal data shall be laid down by law.’
+      
+Paragraph of the Constitution provides:
+      
+‘Everyone shall have the right to freedom of expression. Freedom of expression entails the right to express oneself and to
+         disseminate and receive information, opinions and other communications without prior hindrance. More detailed provisions relating
+         to the exercise of the right to freedom of expression shall be laid down by law. …’
+      
+Documents and other records in the possession of the authorities shall be in the public domain, unless specifically restricted
+         by law for compelling reasons. Every person shall have the right of access to public documents and records.’
+      
+The Law on personal data (Henkilötietolaki (523/1999)) of April 1999, which transposed the directive into national law,
+         applies to the processing of those data (Paragraph 2(1)), apart from personal data files which contain solely, and in unaltered
+         form, material that has been published in the media (Paragraph 2(4)). It applies only in part to the processing of personal
+         data for journalistic purposes and for the purpose of artistic or literary expression (Paragraph 2(5)). 
+      
+Paragraph of the Law on personal data provides that the controller is to take all technical and organisational measures
+         necessary in order to protect personal data against unauthorised access to those data, and their accidental or unlawful destruction,
+         alteration, disclosure or transfer, together with any other unlawful processing of those data. 
+      
+The Law on public access in relation to official activities (Laki viranomaisten toiminnan julkisuudesta (621/1999)) of May also governs access to information.
+      
+Paragraph 1(1) of the Law on public access in relation to official activities states that the general principle is that documents
+         covered by that law are to be in the public domain. 
+      
+Paragraph of that law provides that every person is to have the right of access to a public document held by the public
+         authorities. 
+      
+Paragraph 16(1) of that law lays down the detailed rules governing access to a document of that kind. It provides that the
+         public authorities are to explain the contents of the document orally, make the document available in their offices where
+         it may be studied, copied or listened to, or issue a copy or a print-out of the document concerned. 
+      
+Paragraph 16(3) of that law specifies the circumstances in which data in files containing personal data kept by the public
+         authorities may be disclosed:
+      
+‘A file containing personal data may be disclosed in the form of a print-out, or those data may be disclosed in electronic
+         form, unless provided otherwise by law, if the recipient is authorised to store and use such data by virtue of the provisions
+         governing the protection of personal data. However, access to personal data for the purposes of direct marketing, market surveys
+         or market research shall not be permitted unless specifically provided for by law or if the data subject has given his consent.’
+      
+The national court states that the provisions of the Law on the public disclosure and confidentiality of tax information (Laki
+         verotustietojen julkisuudesta ja salassapidosta (1346/1999)) of December are to prevail over those of the Law on personal
+         data and the Law on public access in relation to official activities.
+      
+Paragraph of the Law on the public disclosure and confidentiality of tax information provides that the provisions of the
+         Law on public access in relation to official activities and the Law on personal data are to apply to documents and information
+         relating to tax matters, save as may be otherwise provided in a legislative measure. 
+      
+Paragraph of the Law on the public disclosure and confidentiality of tax information states:
+      
+‘Information relating to tax matters shall be in the public domain in accordance with the detailed rules laid down in this
+         law. 
+      
+Every person shall have the right to obtain access to a document relating to tax matters which is in the public domain and
+         held by the tax authorities, in accordance with the detailed rules laid down in the Law on public access in relation to official
+         activities, subject to the exceptions laid down in this law.’
+      
+Paragraph 5(1) of the Law on the public disclosure and confidentiality of tax information provides that details of the taxpayer’s
+         name, his date of birth and his municipality of residence, as set out in his annual tax return, are to be in the public domain.
+         The following information is also in the public domain:
+      
+‘1.      Earned income for the purposes of national taxation;
+2.      Unearned income and income from property for the purposes of national taxation;
+3.      Earned income for the purposes of municipal taxation;
+4.      Taxes on income and property, municipal taxes and the total amount of taxes and charges levied.
+…’
+Lastly, Paragraph of Chapter of the Criminal Code (Rikoslaki), in the version brought into force by Law 531/2000, imposes
+         penalties in respect of the disclosure of information which infringes an individual’s right to privacy. Under those provisions,
+         it is an offence to disseminate, through the media or otherwise, any information, innuendo or images relating to the private
+         life of another person where to do so would be liable to cause harm or suffering to the person concerned or to bring that
+         person into disrepute. 
+      
+ The dispute in the main proceedings and the questions referred 
+For several years, Markkinapörssi has collected public data from the Finnish tax authorities for the purposes of publishing
+         extracts from those data in the regional editions of the Veropörssi newspaper each year. 
+      
+The information contained in those publications comprises the surname and given name of approximately 1.million natural
+         persons whose income exceeds certain thresholds as well as the amount, to the nearest EUR 100, of their earned and unearned
+         income and details relating to wealth tax levied on them. That information is set out in the form of an alphabetical list
+         and organised according to municipality and income bracket. 
+      
+According to the order for reference, the Veropörssi newspaper carries a statement that the personal data disclosed may be removed on request and without charge. 
+      
+While that newspaper also contains articles, summaries and advertisements, its main purpose is to publish personal tax information.
+         
+      
+Markkinapörssi transferred personal data published in the Veropörssi newspaper, in the form of CD-ROM discs, to Satamedia, which is owned by the same shareholders, with a view to those data
+         being disseminated by a text-messaging system. In that connection, those companies signed an agreement with a mobile telephony
+         company which put in place, on Satamedia’s behalf, a text-messaging service allowing mobile telephone users to receive information
+         published in the Veropörssi newspaper on their telephone, for a charge of approximately EUR 2. Personal data are removed from that service on request.
+         
+      
+The Tietosuojavaltuutettu and the Tietosuojalautakunta, who are the Finnish authorities responsible for data protection, supervise
+         the processing of personal data and have the regulatory powers laid down in the Law on personal data. 
+      
+Following complaints from individuals alleging infringement of their right to privacy, on March 2004, the Tietosuojavaltuutettu
+         responsible for investigating the activities of Markkinapörssi and Satamedia requested the Tietosuojalautakunta to prohibit
+         the latter from carrying on the personal data processing activities at issue.
+      
+That request having been rejected by the Tietosuojalautakunta, the Tietosuojavaltuutettu brought proceedings before the Helsingin
+         hallinto-oikeus (Administrative Court, Helsinki), which also rejected his application. The Tietosuojavaltuutettu then brought
+         an appeal before the Korkein hallinto-oikeus (Supreme Administrative Court). 
+      
+The national court emphasises that the appeal brought by the Tietosuojavaltuutettu does not concern the transfer of information
+         by the Finnish authorities. It also states that the public nature of the tax data in question is not at issue. On the other
+         hand, it has concerns as regards the subsequent processing of those data.
+      
+In those circumstances, it decided to stay the proceedings and to refer the following questions to the Court for a preliminary
+         ruling: 
+      
+‘(1)  Can an activity in which data relating to the earned and unearned income and assets of natural persons are:
+(a)      collected from documents in the public domain held by the tax authorities and processed for publication,
+(b)      published alphabetically in printed form by income bracket and municipality in the form of comprehensive lists,
+(c)      transferred onward on CD-ROM to be used for commercial purposes, and
+(d)      processed for the purposes of a text-messaging service whereby mobile telephone users can, by sending a text message containing
+         details of an individual’s name and municipality of residence to a given number, receive in reply information concerning the
+         earned and unearned income and assets of that person,
+      
+be regarded as the processing of personal data within the meaning of Article 3(1) of [the directive]?
+(2)      Is [the directive] to be interpreted as meaning that the various activities listed in Question 1(a) to (d) can be regarded
+         as the processing of personal data carried out solely for journalistic purposes within the meaning of Article of the directive,
+         having regard to the fact that data on over one million taxpayers have been collected from information which is in the public
+         domain under national legislation on the right of public access to information? Does the fact that publication of those data
+         is the principal aim of the operation have any bearing on the assessment in this case?
+      
+(3)      Is Article of [the directive] to be interpreted in conjunction with the principles and purpose of the directive as precluding
+         the publication of data collected for journalistic purposes and its onward transfer for commercial purposes?
+      
+(4)      Is [the directive] to be interpreted as meaning that personal data files containing, solely and in unaltered form, material
+         that has already been published in the media fall altogether outside its scope?’
+      
+ The questions referred
+ The first question
+It must be held that the data to which this question relates, which comprise the surname and given name of certain natural
+         persons whose income exceeds certain thresholds as well as the amount, to the nearest EUR 100, of their earned and unearned
+         income, constitute personal data within the meaning of Article 2(a) of the directive, since they constitute ‘information relating
+         to an identified or identifiable natural person’ (see also Joined Cases C‑465/00, C‑138/and C‑139/Österreichischer Rundfunk and Others [2003] ECR I-4989, paragraph 64).
+      
+It is sufficient to hold, next, that it is clear from the wording itself of the definition set out in Article 2(b) of the
+         directive that the activity to which the question relates involves the ‘processing of personal data’ within the meaning of
+         that provision.
+      
+Consequently, the answer to the first question must be that Article 3(1) of the directive is to be interpreted as meaning
+         that an activity in which data on the earned and unearned income and the assets of natural persons are:
+      
+–        collected from documents in the public domain held by the tax authorities and processed for publication,
+–        published alphabetically in printed form by income bracket and municipality in the form of comprehensive lists,
+–        transferred onward on CD-ROM to be used for commercial purposes, and
+–        processed for the purposes of a text-messaging service whereby mobile telephone users can, by sending a text message containing
+         details of an individual’s name and municipality of residence to a given number, receive in reply information concerning the
+         earned and unearned income and assets of that person,
+      
+must be considered as the ‘processing of personal data’ within the meaning of that provision. 
+ The fourth question
+By its fourth question, which should be examined next, the national court asks, in essence, whether activities involving the
+         processing of personal data such as those referred to at points (c) and (d) of the first question and relating to personal
+         data files which contain solely, and in unaltered form, material that has already been published in the media, fall within
+         the scope of application of the directive.
+      
+By virtue of Article 3(2) of the directive, the directive does not apply to the processing of personal data in two situations.
+         
+      
+The first situation involves the processing of personal data undertaken in the course of an activity which falls outside the
+         scope of Community law, such as those provided for by Titles V and VI of the Treaty on European Union and, in any case, to
+         processing operations concerning public security, defence, State security (including the economic well-being of the State
+         when the processing operation relates to State security matters) and the activities of the State in areas of criminal law.
+      
+Those activities, which are mentioned by way of example in the first indent of Article 3(2) are, in any event, activities
+         of the State or of State authorities unrelated to the fields of activity of individuals. They are intended to define the scope
+         of the exception provided for there, with the result that that exception applies only to the activities which are expressly
+         listed there or which can be classified in the same category (ejusdem generis) (see Case C-101/Lindqvist [2003] ECR I-12971, paragraphs and 44).
+      
+Activities involving the processing of personal data of the kind referred to at points (c) and (d) of the first question concern
+         the activities of private companies. Those activities do not fall in any way within a framework established by the public
+         authorities that relates to public security. Consequently, such activities cannot be assimilated to those covered by Article
+         3(2) of the directive (see, to that effect, Joined Cases C-317/and C-318/Parliament v Council [2006] ECR I‑4721, paragraph 58). 
+      
+As regards the second situation, which is covered by the second indent of that provision, recital in the preamble to the
+         directive – relating to that exception – mentions as examples of data processing carried out by a natural person in the course
+         of a purely personal or household activity, correspondence and the holding of records of addresses.
+      
+It follows that the latter exception must be interpreted as relating only to activities which are carried out in the course
+         of private or family life of individuals (see Lindqvist, paragraph 47). That clearly does not apply to the activities of Markkinapörssi and Satamedia, the purpose of which is to
+         make the data collected accessible to an unrestricted number of people. 
+      
+It must therefore be held that activities involving the processing of personal data of the kind referred to at points (c)
+         and (d) of the first question are not covered by any of the situations referred to in Article 3(2) of the directive.
+      
+Moreover, it should be pointed out that the directive does not lay down any further limitation of its scope of application.
+      
+In that regard, the Advocate General observes at point of her Opinion that Article of the directive permits derogations
+         from its provisions only in certain cases, which do not extend to the provisions of Article 3.
+      
+Lastly, it must be held that a general derogation from the application of the directive in respect of published information
+         would largely deprive the directive of its effect. It would be sufficient for the Member States to publish data in order for
+         those data to cease to enjoy the protection afforded by the directive.
+      
+The answer to the fourth question should therefore be that activities involving the processing of personal data such as those
+         referred to at points (c) and (d) of the first question and relating to personal data files which contain solely, and in unaltered
+         form, material that has already been published in the media, fall within the scope of application of the directive. 
+      
+ The second question
+By its second question, the national court asks, in essence, whether Article of the directive should be interpreted as meaning
+         that the activities referred to at points (a) to (d) of the first question, relating to data from documents which are in the
+         public domain under national legislation, must be considered as activities involving the processing of personal data carried
+         out solely for journalistic purposes. The national court states that it seeks clarification as to whether the fact that the
+         principal aim of those activities is the publication of the data in question is relevant to the determination of that issue.
+      
+It must be observed, as a preliminary point, that, according to settled case-law, the provisions of a directive must be interpreted
+         in the light of the aims pursued by the directive and the system it establishes (see, to that effect, Case C-265/Caffaro [2008] ECR I-0000, paragraph 14).
+      
+In that regard, it is not in dispute that, as is apparent from Article of the directive, its objective is that the Member
+         States should, while permitting the free flow of personal data, protect the fundamental rights and freedoms of natural persons
+         and, in particular, their right to privacy, with respect to the processing of personal data.
+      
+That objective cannot, however, be pursued without having regard to the fact that those fundamental rights must, to some degree,
+         be reconciled with the fundamental right to freedom of expression.
+      
+Article of the directive refers to such a reconciliation. As is apparent, in particular, from recital in the preamble
+         to the directive, the object of Article is to reconcile two fundamental rights: the protection of privacy and freedom of
+         expression. The obligation to do so lies on the Member States.
+      
+In order to reconcile those two ‘fundamental rights’ for the purposes of the directive, the Member States are required to
+         provide for a number of derogations or limitations in relation to the protection of data and, therefore, in relation to the
+         fundamental right to privacy, specified in Chapters II, IV and VI of the directive. Those derogations must be made solely
+         for journalistic purposes or the purpose of artistic or literary expression, which fall within the scope of the fundamental
+         right to freedom of expression, in so far as it is apparent that they are necessary in order to reconcile the right to privacy
+         with the rules governing freedom of expression. 
+      
+In order to take account of the importance of the right to freedom of expression in every democratic society, it is necessary,
+         first, to interpret notions relating to that freedom, such as journalism, broadly. Secondly, and in order to achieve a balance
+         between the two fundamental rights, the protection of the fundamental right to privacy requires that the derogations and limitations
+         in relation to the protection of data provided for in the chapters of the directive referred to above must apply only in so
+         far as is strictly necessary. 
+      
+In that context, the following points are relevant.
+      
+First, as the Advocate General pointed out at point of her Opinion and as is apparent from the legislative history of the
+         directive, the exemptions and derogations provided for in Article of the directive apply not only to media undertakings
+         but also to every person engaged in journalism.
+      
+Secondly, the fact that the publication of data within the public domain is done for profit-making purposes does not, prima
+         facie, preclude such publication being considered as an activity undertaken ‘solely for journalistic purposes’. As Markkinapörssi
+         and Satamedia state in their observations and as the Advocate General noted at point of her Opinion, every undertaking
+         will seek to generate a profit from its activities. A degree of commercial success may even be essential to professional journalistic
+         activity.
+      
+Thirdly, account must be taken of the evolution and proliferation of methods of communication and the dissemination of information.
+         As was mentioned by the Swedish Government in particular, the medium which is used to transmit the processed data, whether
+         it be classic in nature, such as paper or radio waves, or electronic, such as the internet, is not determinative as to whether
+         an activity is undertaken ‘solely for journalistic purposes’. 
+      
+It follows from all of the above that activities such as those involved in the main proceedings, relating to data from documents
+         which are in the public domain under national legislation, may be classified as ‘journalistic activities’ if their object
+         is the disclosure to the public of information, opinions or ideas, irrespective of the medium which is used to transmit them.
+         They are not limited to media undertakings and may be undertaken for profit-making purposes.
+      
+The answer to the second question should therefore be that Article of the directive is to be interpreted as meaning that
+         the activities referred to at points (a) to (d) of the first question, relating to data from documents which are in the public
+         domain under national legislation, must be considered as activities involving the processing of personal data carried out
+         ‘solely for journalistic purposes’, within the meaning of that provision, if the sole object of those activities is the disclosure
+         to the public of information, opinions or ideas. Whether that is the case is a matter for the national court to determine.
+      
+The third question
+By its third question, the national court asks, in essence, whether Article of the directive should be interpreted as meaning
+         that it precludes the publication of data which have been collected for journalistic purposes and their onward transfer for
+         commercial purposes.
+      
+Having regard to the answer given to the second question, there is no need to reply to this question. 
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+1.      Article 3(1) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals
+            with regard to the processing of personal data and on the free movement of such data is to be interpreted as meaning that
+            an activity in which data on the earned and unearned income and the assets of natural persons are:
+–        collected from documents in the public domain held by the tax authorities and processed for publication,
+–        published alphabetically in printed form by income bracket and municipality in the form of comprehensive lists,
+–        transferred onward on CD-ROM to be used for commercial purposes, and 
+–        processed for the purposes of a text-messaging service whereby mobile telephone users can, by sending a text message containing
+            details of an individual’s name and municipality of residence to a given number, receive in reply information concerning the
+            earned and unearned income and assets of that person, 
+must be considered as the ‘processing of personal data’ within the meaning of that provision.
+2.      Article of Directive 95/is to be interpreted as meaning that the activities referred to at points (a) to (d) of the first
+            question, relating to data from documents which are in the public domain under national legislation, must be considered as
+            activities involving the processing of personal data carried out ‘solely for journalistic purposes’, within the meaning of
+            that provision, if the sole object of those activities is the disclosure to the public of information, opinions or ideas.
+            Whether that is the case is a matter for the national court to determine. 
+3.      Activities involving the processing of personal data such as those referred to at points (c) and (d) of the first question
+            and relating to personal data files which contain solely, and in unaltered form, material that has already been published
+            in the media, fall within the scope of application of Directive 95/46. 
+[Signatures]
+* Language of the case: Finnish.
+      
+Top  
+ 

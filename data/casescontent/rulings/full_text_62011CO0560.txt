@@ -1,0 +1,350 @@
+
+ORDONNANCE DE LA COUR (quatrième chambre)
+décembre (*)
+      
+«Articles 53, paragraphe 2, et du règlement de procédure de la Cour – Irrecevabilité manifeste – Article du règlement de procédure – Réponse ne laissant place à aucun doute raisonnable – Fiscalité – TVA – Article 17, paragraphe 2, sous a), de la sixième directive TVA – Déduction de la taxe payée en amont – Structures sanitaires publiques ou privées exerçant une activité exonérée – Législation nationale excluant la déduction de la taxe afférente à l’achat de biens ou de services utilisés dans les activités
+         exonérées – Prorata de déduction»
+      
+Dans l’affaire C‑560/11,
+ayant pour objet une demande de décision préjudicielle au titre de l’article TFUE, introduite par la Commissione tributaria
+         provinciale di Parma (Italie), par décision du septembre 2011, parvenue à la Cour le novembre 2011, dans la procédure
+      
+Danilo Debiasi
+contre
+Agenzia delle Entrate – Ufficio di Parma,
+LA COUR (quatrième chambre),
+composée de M. L. Bay Larsen (rapporteur), président de chambre, MM. J. Malenovský, U. Lõhmus, M. Safjan et Mme A. Prechal, juges,
+      
+avocat général: M. M. Wathelet,
+greffier: M. A. Calot Escobar,
+l’avocat général entendu,
+rend la présente
+Ordonnance
+La demande de décision préjudicielle porte sur l’interprétation de la sixième directive 77/388/CEE du Conseil, du mai 1977,
+         en matière d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun
+         de taxe sur la valeur ajoutée: assiette uniforme (JO L 145, p. 1, ci-après la «sixième directive»).
+      
+Cette demande a été présentée dans le cadre d’un litige opposant M. Debiasi à l’Agenzia delle Entrate – Ufficio di Parma (Agence
+         des impôts et taxes, ci-après l’«Agenzia»), au sujet du refus de cette dernière d’accorder à l’intéressé le remboursement
+         de la taxe sur la valeur ajoutée (ci-après la «TVA») acquittée pour les besoins de son activité.
+      
+ Le cadre juridique
+ Le droit de l’Union
+L’article 13, A, de la sixième directive dispose:
+      
+«1.      Sans préjudice d’autres dispositions communautaires, les États membres exonèrent, dans les conditions qu’ils fixent en vue
+         d’assurer l’application correcte et simple des exonérations prévues ci-dessous et de prévenir toute fraude, évasion et abus
+         éventuels:
+      
+[...]
+b)      l’hospitalisation et les soins médicaux ainsi que les opérations qui leur sont étroitement liées, assurés par des organismes
+         de droit public ou, dans des conditions sociales comparables à celles qui valent pour ces derniers, par des établissements
+         hospitaliers, des centres de soins médicaux et de diagnostic et d’autres établissements de même nature dûment reconnus;
+      
+c)      les prestations de soins à la personne effectuées dans le cadre de l’exercice des professions médicales et paramédicales telles
+         qu’elles sont définies par l’État membre concerné;
+      
+[...]»
+L’article 17, paragraphes 2, et 5, de cette directive prévoit:
+      
+«2.      Dans la mesure où les biens et les services sont utilisés pour les besoins de ses opérations taxées, l’assujetti est autorisé
+         à déduire de la taxe dont il est redevable: 
+      
+a)      la [TVA] due ou acquittée pour les biens qui lui sont ou lui seront livrés et pour les services qui lui sont ou lui seront
+         rendus par un autre assujetti;
+      
+[...]
+3.      Les États membres accordent également à tout assujetti la déduction ou le remboursement de la [TVA] visée au paragraphe dans la mesure où les biens et les services sont utilisés pour les besoins:
+      
+a)      de ses opérations relevant des activités économiques visées à l’article paragraphe 2, effectuées à l’étranger, qui ouvriraient
+         droit à déduction si ces opérations étaient effectuées à l’intérieur du pays;
+      
+b)      de ses opérations exonérées conformément à l’article paragraphe sous i), à l’article et à l’article paragraphe
+         sous B, C et D et paragraphe 2;
+      
+c)      de ses opérations exonérées conformément à l’article sous B sous a) et sous d) points à 5, lorsque le preneur est établi
+         en dehors de la Communauté ou lorsque ces opérations sont directement liées à des biens qui sont destinés à être exportés
+         vers un pays en dehors de la Communauté.
+      
+[...]
+5.      En ce qui concerne les biens et les services qui sont utilisés par un assujetti pour effectuer à la fois des opérations ouvrant
+         droit à déduction visées aux paragraphes et et des opérations n’ouvrant pas droit à déduction, la déduction n’est admise
+         que pour la partie de la [TVA] qui est proportionnelle au montant afférent aux premières opérations.
+      
+Ce prorata est déterminé pour l’ensemble des opérations effectuées par l’assujetti conformément à l’article 19.
+Toutefois, les États membres peuvent:
+a)      autoriser l’assujetti à déterminer un prorata pour chaque secteur de son activité, si des comptabilités distinctes sont tenues
+         pour chacun de ces secteurs;
+      
+b)      obliger l’assujetti à déterminer un prorata pour chaque secteur de son activité et à tenir des comptabilités distinctes pour
+         chacun de ces secteurs;
+      
+c)      autoriser ou obliger l’assujetti à opérer la déduction suivant l’affectation de tout ou partie des biens et services;
+d)      autoriser ou obliger l’assujetti à opérer la déduction, conformément à la règle prévue au premier alinéa, pour tous les biens
+         et services utilisés pour toutes les opérations y visées;
+      
+e)      prévoir, lorsque la [TVA] qui ne peut être déduite par l’assujetti est insignifiante, qu’il n’en sera pas tenu compte.»
+L’article de ladite directive, qui établit les règles applicables au calcul du prorata de déduction, énonce à son paragraphe
+         1:
+      
+«Le prorata de déduction, prévu par l’article paragraphe premier alinéa, résulte d’une fraction comportant:
+–        au numérateur, le montant total, déterminé par année, du chiffre d’affaires, [TVA] exclue, afférent aux opérations ouvrant
+         droit à déduction conformément à l’article paragraphes et 3;
+      
+–        au dénominateur, le montant total, déterminé par année, du chiffre d’affaires, [TVA] exclue, afférent aux opérations figurant
+         au numérateur ainsi qu’aux opérations qui n’ouvrent pas droit à déduction. Les États membres ont la faculté d’inclure également
+         dans le dénominateur le montant des subventions autres que celles visées à l’article sous A paragraphe sous a).
+      
+Le prorata est déterminé sur une base annuelle, fixé en pourcentage et arrondi à un chiffre qui ne dépasse pas l’unité supérieure.
+[...]» 
+ Le droit italien
+L’article 10, paragraphe 1, points et 19, du décret n° du président de la République, du octobre 1972, instituant
+         et règlementant la taxe sur la valeur ajoutée (supplément ordinaire à la GURI n° 292, du novembre 1972, ci-après le «DPR
+         n° 633/72»), dispose:
+      
+«Sont exonérées de taxation:
+[...]
+18)      les prestations de diagnostic, de soins et de rééducation fournies aux personnes, dans l’exercice des professions et des métiers
+         de la santé, soumises à contrôle [...]
+      
+19)      les prestations d’hospitalisation et de soins fournies par des centres hospitaliers ou par des cliniques, des établissements
+         de soins agréés, des mutuelles ayant la personnalité juridique et par des organisations d’utilité sociale à but non lucratif;
+         
+      
+[...]»
+L’article 19, paragraphe 5, du DPR n° 633/est ainsi rédigé:
+      
+«Les contribuables qui exercent soit des activités qui donnent lieu à des opérations qui confèrent le droit à la déduction,
+         soit des activités qui donnent lieu à des opérations exonérées en vertu de l’article ont droit à la déduction de la taxe
+         dans une mesure proportionnelle à la première catégorie d’opérations et son montant est déterminé en appliquant le pourcentage
+         de déduction prévu à l’article bis [...]»
+      
+L’article bis, paragraphe 1, de ce décret détermine le mode de calcul du taux de déduction en précisant notamment:
+      
+«Le taux de déduction prévu à l’article 19, paragraphe 5, est déterminé sur la base du rapport entre le montant des opérations
+         donnant droit à la déduction, effectuées durant l’année, et le même montant augmenté des opérations exonérées effectuées au
+         cours de la même année. [...]»
+      
+ Le litige au principal et les questions préjudicielles
+M. Debiasi exerce la profession de gynécologue. Il a introduit auprès de l’Agenzia une demande tendant au remboursement de
+         la TVA payée pour l’acquisition de biens et de services pour les besoins de son activité qui n’a pas fait l’objet d’une déduction
+         en raison de l’inclusion des opérations exonérées visées à l’article 10, paragraphe 1, points et 19, du DPR n° 633/dans
+         le calcul du prorata de non-déductibilité de la TVA résultant de l’application combinée des articles 19, paragraphe 5, et
+         bis du DPR n° 633/72.
+      
+Cette demande était fondée sur l’incompatibilité supposée des règles nationales applicables avec l’article 17, paragraphe
+         2, sous a), de la sixième directive. Elle a été rejetée tacitement par l’Agenzia.
+      
+M. Debiasi a alors exercé un recours contre cette décision de rejet devant la Commissione tributaria provinciale di Parma.
+      
+Partageant les doutes du requérant quant à la compatibilité des règles nationales avec le droit de l’Union, la Commissione
+         tributaria provinciale di Parma a, par une décision du juillet 2010, saisi la Cour d’une première demande de décision préjudicielle.
+      
+Par une ordonnance du avril 2011, la Cour a constaté l’irrecevabilité manifeste de cette demande de décision préjudicielle
+         en raison des carences de la décision de renvoi dans la définition du cadre factuel et du cadre juridique national, de l’absence
+         d’explication sur les motifs précis pour lesquels l’interprétation du droit de l’Union sollicitée semblait nécessaire à la
+         juridiction de renvoi aux fins de la solution du litige au principal et de l’impossibilité de déterminer avec certitude les
+         dispositions de droit de l’Union dont elle sollicitait l’interprétation (ordonnance du avril 2011, Debiasi, C-613/10, points
+         à 29).
+      
+La Commissione tributaria provinciale di Parma a alors adopté une nouvelle décision de renvoi visant à tenir compte de l’ordonnance
+         Debiasi, précitée. Elle a donc apporté des précisions sur les règles nationales pertinentes, sur les faits du litige au principal
+         et sur les raisons qui la conduisent à douter de la compatibilité des règles nationales applicables avec le droit de l’Union.
+      
+C’est dans ces circonstances que la Commissione tributaria provinciale di Parma a décidé de surseoir à statuer et de poser
+         à la Cour les questions préjudicielles reprises dans les motifs de sa décision aux fins:
+      
+«1)      de vérifier s’il existe ou non un ‘conflit entre la législation nationale et le droit [de l’Union]’, et, plus précisément,
+         entre, d’une part, les articles 19, paragraphe 5, et bis du [DPR n° 633/72] (c’est-à-dire la réglementation nationale qui
+         régit le mécanisme dit du ‘prorata de non-déductibilité TVA’) et, d’autre part, l’article 17, paragraphe 2, sous a), de la
+         [sixième directive] (c’est-à-dire la réglementation [de l’Union] prévoyant le principe de neutralité de la TVA et la règle
+         selon laquelle cette taxe pèse exclusivement sur le consommateur final);
+      
+2)      d’examiner l’inégalité de traitement qui existe entre les opérateurs italiens intervenant dans le secteur de la santé, qui
+         sont considérés comme des ‘consommateurs finals’ (sur lesquels pèse la TVA), et les opérateurs intervenant dans le secteur
+         de la santé des autres États membres [...] [Royaume de Belgique, République de Bulgarie, République hellénique, Royaume d’Espagne
+         et République française] considérés comme des ‘opérateurs intermédiaires’ (ayant droit à la déduction de la TVA);
+      
+3)      de vérifier s’il existe ou non une ‘inégalité de traitement’ quant au régime de la TVA, entre les différents États membres
+         [...], dès lors que, au lieu de l’exonération de la TVA appliquée en Italie, dans les autres États membres [...] [Royaume
+         de Belgique, République de Bulgarie, République hellénique, Royaume d’Espagne et République française] les mêmes prestations
+         médico-sanitaires sont assujetties à la TVA, raison pour laquelle à des prestations médico-sanitaires identiques correspondent
+         des taux de TVA différents et, de ce fait, un droit à la déduction différent;
+      
+4)      d’examiner l’inégalité existant entre les opérateurs italiens intervenant dans le secteur de la santé (y compris [M.] Debiasi)
+         et les opérateurs des autres États membres [...] [Royaume de Belgique, République de Bulgarie, République hellénique, Royaume
+         d’Espagne et République française] [au regard de] l’assujettissement à la TVA des prestations médico-sanitaires de ces derniers
+         et, de ce fait, [du] droit à la déduction et/ou au remboursement de la TVA payée sur les acquisitions qui en découlent pour
+         eux, à la différence des opérateurs italiens intervenant dans le secteur de la santé.»
+      
+ Sur les questions préjudicielles
+ Sur la recevabilité
+Conformément à l’article 53, paragraphe 2, du règlement de procédure, lorsqu’une demande de décision préjudicielle est manifestement
+         irrecevable, la Cour, l’avocat général entendu, peut, sans poursuivre la procédure, statuer par voie d’ordonnance motivée.
+      
+Or, le gouvernement italien et la Commission européenne contestent, à divers titres, la recevabilité de la demande de décision
+         préjudicielle.
+      
+Le gouvernement italien estime que les questions posées sont irrecevables parce qu’elles ne portent pas sur des difficultés
+         d’interprétation de dispositions de droit de l’Union.
+      
+À cet égard, il y a lieu de rappeler que le système de coopération établi à l’article TFUE est fondé sur une nette séparation
+         des fonctions entre les juridictions nationales et la Cour. Dans le cadre d’une procédure introduite en vertu de cet article,
+         l’interprétation des dispositions nationales appartient aux juridictions des États membres et non à la Cour, et il n’incombe
+         pas à cette dernière de se prononcer sur la compatibilité de normes de droit interne avec les dispositions du droit de l’Union.
+         En revanche, la Cour est compétente pour fournir à la juridiction nationale tous les éléments d’interprétation relevant du
+         droit de l’Union qui permettent à celle-ci d’apprécier la compatibilité de normes de droit interne avec la réglementation
+         de l’Union (arrêts du mars 2007, Placanica e.a., C-338/04, C‑359/et C-360/04, Rec. p. I‑1891, point 36, ainsi que du
+         septembre 2009, Liga Portuguesa de Futebol Profissional et Bwin International, C-42/07, Rec. p. I‑7633, point 37).
+      
+S’il est vrai que la teneur littérale des questions posées à titre préjudiciel par la juridiction de renvoi invite la Cour
+         à se prononcer sur la compatibilité d’une disposition de droit interne avec le droit de l’Union, rien n’empêche la Cour de
+         donner une réponse utile à la juridiction de renvoi en fournissant à celle-ci les éléments d’interprétation relevant du droit
+         de l’Union qui lui permettront de statuer elle-même sur la compatibilité du droit interne avec le droit de l’Union (voir,
+         en ce sens, arrêts du octobre 2007, Hollmann, C-443/06, Rec. p. I-8491, point 21, et du février 2012, Varzim Sol, C-25/11,
+         non encore publié au Recueil, point 28).
+      
+La Commission considère, quant à elle, qu’il n’existe aucune différence significative entre la présente procédure de renvoi
+         et les procédures de renvoi diligentées précédemment par la même juridiction en matière de TVA, qui ont conduit la Cour à
+         adopter des ordonnances d’irrecevabilité (ordonnances du janvier 2010, Calestani et Lunardi, C-292/et C‑293/09, ainsi
+         que Debiasi, précitée). Concernant plus spécifiquement les deuxième à quatrième questions, elle ajoute que les informations
+         contenues dans la décision de renvoi ne permettent pas de fournir une réponse utile au juge national.
+      
+Il convient de rappeler, à ce sujet, que la procédure instituée par l’article TFUE est un instrument de coopération entre
+         la Cour et les juridictions nationales, grâce auquel la première fournit aux secondes les éléments d’interprétation du droit
+         de l’Union qui leur sont nécessaires pour la solution du litige qu’elles sont appelées à trancher (arrêts du juillet 1992,
+         Meilicke, C-83/91, Rec. p. I-4871, point 22, et du mars 2009, Danske Slagterier, C-445/06, Rec. p. I-2119, point 65).
+      
+Dans le cadre de cette coopération, il appartient à la juridiction nationale saisie du litige, qui seule possède une connaissance
+         directe des faits à l’origine de celui-ci et qui doit assumer la responsabilité de la décision juridictionnelle à intervenir,
+         d’apprécier, au regard des particularités de l’affaire, tant la nécessité d’une décision préjudicielle pour être en mesure
+         de rendre son jugement que la pertinence des questions qu’elle pose à la Cour. En conséquence, dès lors que celles-ci portent
+         sur l’interprétation du droit de l’Union, la Cour est, en principe, tenue de statuer (voir, notamment, arrêts du mars 2001,
+         PreussenElektra, C‑379/98, Rec. p. I-2099, point 38, et du avril 2007, AGM-COS.MET, C‑470/03, Rec. p. I-2749, point 44).
+      
+Toutefois, afin de parvenir à une interprétation du droit de l’Union qui soit utile pour le juge national, il résulte de l’article
+         du règlement de procédure et d’une jurisprudence constante que la demande de décision préjudicielle doit contenir un exposé
+         sommaire des faits pertinents, tels qu’ils ont été constatés par la juridiction de renvoi, ou, à tout le moins, un exposé
+         des données factuelles sur lesquelles les questions sont fondées. Elle doit également comprendre la teneur des dispositions
+         nationales susceptibles de s’appliquer en l’espèce et, le cas échéant, la jurisprudence nationale pertinente. Enfin, la juridiction
+         de renvoi doit exposer les raisons qui l’ont conduite à s’interroger sur l’interprétation ou la validité de certaines dispositions
+         du droit de l’Union ainsi que le lien qu’elle établit entre ces dispositions et la législation nationale applicable au litige
+         au principal (voir, notamment, arrêts du décembre 2005, ABNA e.a., C-453/03, C-11/04, C-12/et C-194/04, Rec. p. I‑10423,
+         points et 46, ainsi que du avril 2007, Asemfo, C‑295/05, Rec. p. I-2999, points à 33).
+      
+Il importe de souligner que les informations contenues dans les décisions de renvoi servent non seulement à permettre à la
+         Cour de fournir des réponses utiles, mais également à donner aux gouvernements des États membres ainsi qu’aux autres intéressés
+         la possibilité de présenter des observations conformément à l’article du statut de la Cour de justice de l’Union européenne.
+         Il incombe à cette dernière de veiller à ce que cette possibilité soit sauvegardée, compte tenu du fait que, en vertu de cette
+         disposition, seules les décisions de renvoi sont notifiées aux intéressés (arrêts du 1er avril 1982, Holdijk e.a., 141/à 143/81, Rec. p. 1299, point 6, ainsi que du novembre 2007, Schwibbert, C-20/05, Rec.
+         p. I‑9447, point 21).
+      
+À cet égard, s’agissant de la première question, force est de constater que la Commissione tributaria provinciale di Parma
+         a transmis à la Cour des éléments qui ne figuraient pas dans les décisions de renvoi qui ont fait l’objet des ordonnances
+         d’irrecevabilité visées par la Commission. Ainsi, la décision de renvoi comprend un bref exposé des faits en cause au principal
+         et un résumé des dispositions nationales applicables qui permet d’identifier leur contenu. En outre, la juridiction de renvoi
+         a clairement désigné la disposition de droit de l’Union dont elle demande l’interprétation tout en expliquant le lien qu’elle
+         établit entre l’interprétation demandée, les règles nationales concernées et l’issue du litige au principal.
+      
+Ces éléments sont suffisants au regard des règles rappelées aux points et de la présente ordonnance. Il s’ensuit que
+         la première question est recevable.
+      
+S’agissant des deuxième à quatrième questions, il convient, en revanche, de constater que les informations figurant dans la
+         décision de renvoi ne permettent pas de déterminer avec certitude la nature de la différence de traitement évoquée par la
+         juridiction de renvoi. Il ressort d’ailleurs des observations écrites du gouvernement espagnol que celui-ci ne parvient pas
+         à discerner une telle différence en analysant les règles pertinentes en droit espagnol.
+      
+En outre, le résumé des dispositions nationales figurant dans la décision de renvoi porte uniquement sur le mode de calcul
+         du droit à déduction de la TVA. La juridiction de renvoi ne fournit donc aucune précision quant à la teneur de la réglementation
+         nationale régissant l’exonération de TVA des activités en cause au principal. Il est de ce fait impossible de comparer cette
+         réglementation avec les dispositions de la sixième directive ou avec les règles applicables dans d’autres États membres. 
+      
+Par ailleurs, la Commissione tributaria provinciale di Parma n’explique ni les raisons qui l’ont conduite à s’interroger sur
+         la différence de traitement susmentionnée, ni l’importance que pourrait revêtir ladite différence pour déterminer la solution
+         du litige au principal.
+      
+Dès lors, il y a lieu de constater, en application de l’article 53, paragraphe 2, du règlement de procédure, que les deuxième
+         à quatrième questions sont manifestement irrecevables.
+      
+ Sur le fond
+En vertu de l’article du règlement de procédure, lorsque la réponse à une question posée à titre préjudiciel ne laisse
+         place à aucun doute raisonnable, la Cour peut statuer par voie d’ordonnance motivée.
+      
+Par sa première question, la juridiction de renvoi demande, en substance, si l’article 17, paragraphe 2, sous a), de la sixième
+         directive doit être interprété en ce sens qu’il s’oppose à une réglementation nationale, telle que celle en cause au principal,
+         qui n’autorise pas la déduction de la TVA acquittée en amont pour l’acquisition de biens et de services utilisés pour les
+         besoins d’activités exonérées et qui prévoit, en conséquence, que le droit à déduction de la TVA d’un assujetti mixte est
+         calculé sur la base d’un prorata correspondant au rapport entre le montant des opérations ouvrant droit à déduction et le
+         montant total des opérations effectuées au cours de l’année, y compris les prestations médico-sanitaires exonérées.
+      
+Il importe de rappeler, à titre liminaire, que le régime de déductions établi par la sixième directive vise à soulager entièrement
+         l’entrepreneur du poids de la TVA due ou acquittée dans le cadre de toutes ses activités économiques. Ainsi, le système commun
+         de TVA cherche à garantir la parfaite neutralité quant à la charge fiscale de toutes les activités économiques, quels que
+         soient leurs buts ou leurs résultats, à condition que lesdites activités soient, en principe, elles-mêmes soumises à la TVA
+         (arrêts du février 2001, Abbey National, C‑408/98, Rec. p. I-1361, point 24, et du octobre 2009, NCC Construction Danmark,
+         C‑174/08, Rec. p. I-10567, point 27).
+      
+Au demeurant, il résulte clairement du libellé de l’article 17, paragraphe 2, de ladite directive que le droit à déduction
+         de la TVA ne porte que sur les biens et les services qui sont utilisés pour les besoins des opérations taxées de l’assujetti.
+      
+C’est pourquoi la Cour a itérativement jugé que, lorsque des biens ou des services acquis par un assujetti sont utilisés pour
+         les besoins d’opérations exonérées, il ne saurait y avoir ni perception de la taxe en aval ni déduction de celle-ci en amont
+         (voir, notamment, arrêts du septembre 2006, Wollny, C-72/05, Rec. p. I-8297, point 20; du décembre 2008, Royal Bank
+         of Scotland, C-488/07, Rec. p. I‑10409, point 16, et du février 2009, Vereniging Noordelijke Land- en Tuinbouw Organisatie,
+         C-515/07, Rec. p. I-839, point 27).
+      
+La sixième directive exclut donc, en principe, la déduction de la TVA acquittée en amont pour l’acquisition de biens et de
+         services utilisés pour les besoins d’activités exonérées. Ce principe est limité par les exceptions strictement circonscrites
+         figurant à l’article 17, paragraphe 3, de la sixième directive. Toutefois, comme le relève la Commission, il ressort manifestement
+         de la décision de renvoi que ces exceptions n’entretiennent aucun rapport avec les faits en cause dans la procédure au principal.
+      
+Par ailleurs, l’article 17, paragraphe 5, de la sixième directive établit le régime applicable au droit à déduction de la
+         TVA, lorsque celle-ci se rapporte à des biens ou à des services qui sont utilisés par l’assujetti «pour effectuer à la fois
+         des opérations ouvrant droit à déduction visées aux paragraphes et et des opérations n’ouvrant pas droit à déduction».
+         Dans un tel cas, la déduction n’est admise que pour la partie de la TVA qui est proportionnelle au montant des premières opérations
+         taxées (arrêts Abbey National, précité, point 37; du septembre 2001, Cibo Participations, C-16/00, Rec. p. I-6663, point
+         34, et Royal Bank of Scotland, précité, point 17).
+      
+Dans cette situation, le droit à déduction est, en vertu de l’article 17, paragraphe 5, deuxième alinéa, de la sixième directive,
+         calculé selon un prorata déterminé conformément à l’article de cette directive. Si le troisième alinéa de ladite disposition
+         autorise les États membres à déroger à cette règle en prévoyant l’application de l’une des autres méthodes de détermination
+         du droit à déduction énumérées à cet alinéa, il ne s’agit que d’une faculté et non d’une obligation.
+      
+L’article 19, paragraphe 1, de la sixième directive prévoit, quant à lui, que le prorata de déduction résulte d’une fraction
+         comportant, au numérateur, le montant total du chiffre d’affaires afférent aux opérations ouvrant droit à déduction et, au
+         dénominateur, le montant total du chiffre d’affaires afférent aux opérations figurant au numérateur ainsi qu’aux opérations
+         n’ouvrant pas droit à déduction.
+      
+Dans la mesure où il résulte des considérations figurant aux points à de la présente ordonnance que les opérations exonérées
+         n’ouvrent pas droit, en principe, à déduction, il s’ensuit que l’article 19, paragraphe 1, de la sixième directive prévoit
+         l’inclusion du chiffre d’affaires afférent auxdites opérations dans le dénominateur de la fraction permettant de calculer
+         le prorata de déduction. Le fait que ces opérations exonérées soient constituées par des prestations médico-sanitaires ne
+         conduit pas à modifier cette analyse.
+      
+En conséquence, il y a lieu de répondre à la première question que les articles 17, paragraphes et 5, ainsi que de la
+         sixième directive doivent être interprétés en ce sens qu’ils ne s’opposent pas à une réglementation nationale, telle que celle
+         en cause au principal, qui n’autorise pas la déduction de la TVA acquittée en amont pour l’acquisition de biens et de services
+         utilisés pour les besoins d’activités exonérées et qui prévoit, en conséquence, que le droit à déduction de cette taxe d’un
+         assujetti mixte est calculé sur la base d’un prorata correspondant au rapport entre le montant des opérations ouvrant droit
+         à déduction et le montant total des opérations effectuées au cours de l’année, y compris les prestations médico-sanitaires
+         exonérées.
+      
+ Sur les dépens
+La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi,
+         il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que
+         ceux desdites parties, ne peuvent faire l’objet d’un remboursement.
+      
+Par ces motifs, la Cour (quatrième chambre) dit pour droit:
+Les articles 17, paragraphes et 5, ainsi que de la sixième directive 77/388/CEE du Conseil, du mai 1977, en matière
+            d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun de taxe
+            sur la valeur ajoutée: assiette uniforme, doivent être interprétés en ce sens qu’ils ne s’opposent pas à une réglementation
+            nationale, telle que celle en cause au principal, qui n’autorise pas la déduction de la taxe sur la valeur ajoutée acquittée
+            en amont pour l’acquisition de biens et de services utilisés pour les besoins d’activités exonérées et qui prévoit, en conséquence,
+            que le droit à déduction de cette taxe d’un assujetti mixte est calculé sur la base d’un prorata correspondant au rapport
+            entre le montant des opérations ouvrant droit à déduction et le montant total des opérations effectuées au cours de l’année,
+            y compris les prestations médico-sanitaires exonérées.
+Signatures
+* Langue de procédure: l’italien.
+      
+Top  
+ 

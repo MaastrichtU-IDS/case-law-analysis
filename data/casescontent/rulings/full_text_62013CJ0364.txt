@@ -1,0 +1,130 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+December (
+*)
+‛Reference for a preliminary ruling — Directive 98/44/EC — Article 6(2)(c) — Legal protection of biotechnological inventions — Parthenogenetic activation of oocytes — Production of human embryonic stem cells — Patentability — Exclusion of ‘uses of human embryos for industrial or commercial purposes’ — Concepts of ‘human embryo’ and ‘organism capable of commencing the process of development of a human being’’
+In Case C‑364/13,
+REQUEST for a preliminary ruling under Article TFEU from the High Court of Justice (England & Wales), Chancery Division (Patents Court) (United Kingdom), made by decision of April 2013, received at the Court on June 2013, in the proceedings
+International Stem Cell Corporation
+v
+Comptroller General of Patents, Designs and Trade Marks,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, K. Lenaerts, Vice-President, A. Tizzano, R. Silva de Lapuerta, M. Ilešič and C. Vajda, Presidents of Chambers, A. Rosas, A. Borg Barthet, J. Malenovský, C. Toader, M. Safjan (Rapporteur), D. Šváby and F. Biltgen, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on April 2014,
+after considering the observations submitted on behalf of:
+—
+International Stem Cell Corporation, by P. Acland QC, and A. Cooke, Solicitor,
+—
+the United Kingdom Government, by S. Brighouse, acting as Agent, and by T. Mitcheson, Barrister,
+—
+the French Government, by D. Colas and F.-X. Bréchot, acting as Agents,
+—
+the Polish Government, by B. Majczyna, acting as Agent,
+—
+the Portuguese Government, by L. Inez Fernandes and R. Solnado Cruz, acting as Agents,
+—
+the Swedish Government, by A. Falk, L. Swedenborg and C. Meyer-Seitz, acting as Agents,
+—
+the European Commission, by F. W. Bulst, J. Samnadda and T. van Rijn, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2014,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 6(2)(c) of Directive 98/44/EC of the European Parliament and of the Council of July on the legal protection of biotechnological inventions (OJ L 213, p. 13).
+The request has been made in proceedings between International Stem Cell Corporation (‘ISCO’) and the Comptroller General of Patents, Designs and Trade Marks (‘the Comptroller’) concerning the refusal to register national patents on the ground that the applications for registration, relating to parthenogenetic activation of oocytes, concern the use of ‘human embryos’, within the meaning of Directive 98/44.
+Legal context
+EU law
+Recitals to 3, 16, to 39, and in the preamble to Directive 98/are worded as follows:
+‘(1)
+Whereas biotechnology and genetic engineering are playing an increasingly important role in a broad range of industries and the protection of biotechnological inventions will certainly be of fundamental importance for the Community’s industrial development;
+(2)
+Whereas, in particular in the field of genetic engineering, research and development require a considerable amount of high-risk investment and therefore only adequate legal protection can make them profitable;
+(3)
+Whereas effective and harmonised protection throughout the Member States is essential in order to maintain and encourage investment in the field of biotechnology;
+…
+(16)
+Whereas patent law must be applied so as to respect the fundamental principles safeguarding the dignity and integrity of the person; whereas it is important to assert the principle that the human body, at any stage in its formation or development, including germ cells, and the simple discovery of one of its elements or one of its products, including the sequence or partial sequence of a human gene, cannot be patented; whereas these principles are in line with the criteria of patentability proper to patent law, whereby a mere discovery cannot be patented;
+…
+(37)
+Whereas the principle whereby inventions must be excluded from patentability where their commercial exploitation offends against ordre public or morality must also be stressed in this Directive;
+(38)
+Whereas the operative part of this Directive should also include an illustrative list of inventions excluded from patentability so as to provide national courts and patent offices with a general guide to interpreting the reference to ordre public and morality; whereas this list obviously cannot presume to be exhaustive; whereas processes, the use of which offend against human dignity, such as processes to produce chimeras from germ cells or totipotent cells of humans and animals, are obviously also excluded from patentability;
+(39)
+Whereas ordre public and morality correspond in particular to ethical or moral principles recognised in a Member State, respect for which is particularly important in the field of biotechnology in view of the potential scope of inventions in this field and their inherent relationship to living matter; whereas such ethical or moral principles supplement the standard legal examinations under patent law regardless of the technical field of the invention;
+…
+(42)
+Whereas, moreover, uses of human embryos for industrial or commercial purposes must also be excluded from patentability; whereas in any case such exclusion does not affect inventions for therapeutic or diagnostic purposes which are applied to the human embryo and are useful to it;
+(43)
+Whereas pursuant to Article F(2) of the Treaty on European Union, the Union is to respect fundamental rights, as guaranteed by the European Convention for the Protection of Human Rights and Fundamental Freedoms signed in Rome on November and as they result from the constitutional traditions common to the Member States, as general principles of Community law; …’
+Article of that directive provides:
+‘1.   Member States shall protect biotechnological inventions under national patent law. They shall, if necessary, adjust their national patent law to take account of the provisions of this Directive.
+2.   This Directive shall be without prejudice to the obligations of the Member States pursuant to international agreements, and in particular the TRIPs Agreement [on Trade-Related Aspects of Intellectual Property Rights] and the Convention on Biological Diversity.’
+Article of that directive provides:
+‘1.   For the purposes of this Directive, inventions which are new, which involve an inventive step and which are susceptible of industrial application shall be patentable even if they concern a product consisting of or containing biological material or a process by means of which biological material is produced, processed or used.
+2.   Biological material which is isolated from its natural environment or produced by means of a technical process may be the subject of an invention even if it previously occurred in nature.’
+Article 5(1) and (2) of that directive provides:
+‘1.   The human body, at the various stages of its formation and development, and the simple discovery of one of its elements, including the sequence or partial sequence of a gene, cannot constitute patentable inventions.
+2.   An element isolated from the human body or otherwise produced by means of a technical process, including the sequence or partial sequence of a gene, may constitute a patentable invention, even if the structure of that element is identical to that of a natural element.’
+Article of Directive 98/is worded as follows:
+‘1.   Inventions shall be considered unpatentable where their commercial exploitation would be contrary to ordre public or morality; however, exploitation shall not be deemed to be so contrary merely because it is prohibited by law or regulation.
+2.   On the basis of paragraph 1, the following, in particular, shall be considered unpatentable:
+…
+(c)
+uses of human embryos for industrial or commercial purposes;
+…’
+United Kingdom law
+Paragraph 3(d) of Schedule Ato the Patents Act 1977, which implements Article 6(2)(c) of Directive 98/44, reads:
+‘The following are not patentable inventions —
+…
+(d)
+uses of human embryos for industrial or commercial purposes.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+It is apparent from the order for reference that ISCO submitted two applications for registration of national patents (‘the applications for registration’) at the United Kingdom Intellectual Property Office.
+Those applications were the following:
+—
+Application GB0621068.6, entitled ‘Parthenogenetic activation of oocytes for the production of human embryonic stem cells’, claiming methods of producing pluripotent human stem cell lines from parthenogenetically-activated oocytes and stem cell lines produced according to the claimed methods, and
+—
+Application GB0621069.4, entitled ‘Synthetic cornea from retinal stem cells’, claiming methods of producing synthetic cornea or corneal tissue, which involve the isolation of pluripotent stem cells from parthenogenetically-activated oocytes, and product-by-process claims to synthetic cornea or corneal tissue produced by these methods.
+By decision of August 2012, the Hearing Officer of the United Kingdom Intellectual Property Office, acting for the Comptroller, refused to register those applications.
+In that regard, the Hearing Officer held that the inventions disclosed in the applications for registration related to unfertilised human ova whose division and further development have been stimulated by parthenogenesis and that such ova were ‘capable of commencing the process of development of a human being just as an embryo created by fertilisation of an ovum can do so’, within the meaning of paragraph of the judgment in Brüstle (C‑34/10, EU:C:2011:669).
+Therefore, according to the Hearing Officer, those inventions constituted ‘uses of human embryos for industrial or commercial purposes’, within the meaning of paragraph 3(d) of Schedule Ato the Patents Act 1977, which implements Article 6(2)(c) of Directive 98/44, and, as a result, were excluded from patentability.
+ISCO brought an appeal against that decision of the Hearing Officer before the High Court of Justice (England & Wales), Chancery Division (Patents Court).
+In that appeal, ISCO claimed that, in the judgment in Brüstle (EU:C:2011:669), the Court had intended to exclude from patentability only organisms capable of commencing the process of development which leads to a human being. However, organisms such as those which are the subject of the applications for registration cannot undergo such a development process. Consequently, they should be capable of being patented on the basis of Directive 98/44.
+For his part, the Comptroller states that the key issue is what the Court meant in the judgment in Brüstle (EU:C:2011:669) by organism ‘capable of commencing the process of development of a human being just as an embryo created by fertilisation of an ovum can do so’. He observes that the written observations lodged with the Court in that case may have inaccurately presented the scientific and technical background relating to parthenogenesis.
+The referring court states that parthenogenesis consists in the activation of an oocyte, in the absence of sperm, by a variety of chemical and electrical techniques. That oocyte, referred to as a ‘parthenote’, is capable of dividing and further developing. However, according to current scientific knowledge, mammalian parthenotes can never develop to term because, in contrast to a fertilised ovum, they do not contain any paternal DNA, which is required for the development of extra-embryonic tissue. Human parthenotes have been shown to develop only to the blastocyst stage, over about five days.
+The referring court states that, before the Hearing Officer, ISCO amended its applications for registration to exclude the prospect of the use of any method aimed, through additional genetic manipulation, at overcoming the inability of a parthenote to develop into a human being.
+According to the referring court, to exclude parthenotes from patentability does not strike a balance at all between, on the one hand, research in the field of biotechnology which is to be encouraged by means of patent law and, on the other hand, respect for the fundamental principles safeguarding the dignity and integrity of the person, objectives which are set out in particular in recitals and in the preamble to Directive 98/44.
+In those circumstances, the High Court of Justice (England & Wales), Chancery Division (Patents Court), decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Are unfertilised human ova whose division and further development have been stimulated by parthenogenesis, and which, in contrast to fertilised ova, contain only pluripotent cells and are incapable of developing into human beings, included in the term ‘human embryos’ in Article 6(2)(c) of Directive 98/...?’
+Consideration of the question referred
+By its question, the national court asks, in essence, whether Article 6(2)(c) of Directive 98/must be interpreted as meaning that an unfertilised human ovum whose division and development to a certain stage have been stimulated by parthenogenesis constitutes a ‘human embryo’ within the meaning of that provision.
+The Court notes as a preliminary point that the purpose of Directive 98/is not to regulate the use of human embryos in the context of scientific research and that it is limited to the patentability of biotechnological inventions (see judgment in Brüstle, EU:C:2011:669, paragraph 40).
+Moreover, ‘human embryo’, within the meaning of Article 6(2)(c) of that directive, must be regarded as designating an autonomous concept of EU law which must be interpreted in a uniform manner throughout the territory of the Union (see judgment in Brüstle, EU:C:2011:669, paragraph 26).
+As regards that interpretation, the Court held, in paragraph of the judgment in Brüstle (EU:C:2011:669), that, as follows from the context and aim of Directive 98/44, the EU legislature intended to exclude any possibility of patentability where respect for human dignity could thereby be affected and that it follows that the concept of ‘human embryo’ within the meaning of Article 6(2)(c) of that directive must be understood in a wide sense.
+In paragraph of that judgment, the Court stated that, accordingly, any human ovum must, as soon as fertilised, be regarded as a ‘human embryo’ within the meaning and for the purposes of the application of Article 6(2)(c) of that directive, since that fertilisation is such as to commence the process of development of a human being.
+The Court specified, in paragraph of that judgment, that that classification must also apply to a non-fertilised human ovum into which the cell nucleus from a mature human cell has been transplanted and a non-fertilised human ovum whose division and further development have been stimulated by parthenogenesis. The Court added that, although those organisms have not, strictly speaking, been the object of fertilisation, due to the effect of the technique used to obtain them they are, as is apparent from the written observations presented to the Court in the judgment in Brüstle (EU:C:2011:669), capable of commencing the process of development of a human being just as an embryo created by fertilisation of an ovum can do so.
+It thus follows from the judgment in Brüstle (EU:C:2011:669) that a non-fertilised human ovum must be classified as a ‘human embryo’, within the meaning of Article 6(2)(c) of Directive 98/44, in so far as that organism is ‘capable of commencing the process of development of a human being’.
+As the Advocate General observed, in essence, in point of his Opinion in the present case, that term must be understood as meaning that, in order to be classified as a ‘human embryo’, a non-fertilised human ovum must necessarily have the inherent capacity of developing into a human being.
+Consequently, where a non-fertilised human ovum does not fulfil that condition, the mere fact that that organism commences a process of development is not sufficient for it to be regarded as a ‘human embryo’, within the meaning and for the purposes of the application of Directive 98/44.
+By contrast, where such an ovum does have the inherent capacity of developing into a human being, it should, in the light of Article 6(2)(c) of that directive, be treated in the same way as a fertilised human ovum, at all stages of its development.
+In the judgment in Brüstle (EU:C:2011:669), it was apparent from the written observations presented to the Court that an unfertilised human ovum whose division and further development have been stimulated by parthenogenesis did have the capacity to develop into a human being.
+This is precisely why, on the basis of those observations, the Court held, in that judgment, that, in order to define the term ‘human embryo’, within the meaning of Article 6(2)(c) of Directive 98/44, a non-fertilised human ovum whose division and further development have been stimulated by parthenogenesis should be treated in the same way as a fertilised ovum and, therefore, be classified as an ‘embryo’.
+However, in the present case, the referring court, as is apparent from paragraph of this judgment, stated in essence that, according to current scientific knowledge, a human parthenote, due to the effect of the technique used to obtain it, is not as such capable of commencing the process of development which leads to a human being. That assessment is shared by all of the interested parties who submitted written observations to the Court.
+Moreover, as was observed in paragraph of this judgment, in the case in the main proceedings, ISCO amended its applications for registration to exclude the prospect of the use of additional genetic manipulation.
+In those circumstances, the case in the main proceedings relates solely to the classification, in the light of Article 6(2)(c) of Directive 98/44, of a human parthenote in itself, and not of a parthenote which is the subject of additional manipulation falling within the scope of genetic engineering.
+It is for the referring court to determine whether or not, in the light of knowledge which is sufficiently tried and tested by international medical science (see, by analogy, judgment in Smits and Peerbooms, C‑157/99, EU:C:2001:404, paragraph 94), human parthenotes, such as those which are the subject of the applications for registration in the case in the main proceedings, have the inherent capacity of developing into a human being.
+If the referring court were to find that those parthenotes do not have such a capacity, it should infer from this that they do not constitute ‘human embryos’, within the meaning of Article 6(2)(c) of Directive 98/44.
+In view of the foregoing considerations, the answer to the question referred is that Article 6(2)(c) of Directive 98/must be interpreted as meaning that an unfertilised human ovum whose division and further development have been stimulated by parthenogenesis does not constitute a ‘human embryo’, within the meaning of that provision, if, in the light of current scientific knowledge, that ovum does not, in itself, have the inherent capacity of developing into a human being, this being a matter for the national court to determine.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Grand Chamber) hereby rules:
+ 
+Article 6(2)(c) of Directive 98/44/EC of the European Parliament and of the Council of July on the legal protection of biotechnological inventions must be interpreted as meaning that an unfertilised human ovum whose division and further development have been stimulated by parthenogenesis does not constitute a ‘human embryo’, within the meaning of that provision, if, in the light of current scientific knowledge, it does not, in itself, have the inherent capacity of developing into a human being, this being a matter for the national court to determine.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

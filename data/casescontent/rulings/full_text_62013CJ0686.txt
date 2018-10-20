@@ -1,0 +1,127 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+June (
+*)
+‛Reference for a preliminary ruling — Article TFEU — Freedom of establishment — Tax legislation — Corporation tax — Holdings for business purposes — Legislation of a Member State exempting capital gains and, by the same token, excluding deduction of capital losses — Transfer by a resident company of shares in a non-resident subsidiary — Capital loss resulting from a currency loss’
+In Case C‑686/13,
+Request for a preliminary ruling under Article TFEU from the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden), made by decision of December 2013, received at the Court on December 2013, in the proceedings
+X AB
+v
+Skatteverket,
+THE COURT (Second Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, J.-C. Bonichot (Rapporteur), A. Arabadjiev, J.L. da Cruz Vilaça and C. Lycourgos, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+X AB, by R. Persson Österman, advokat,
+—
+Skatteverket, by A. Berg, acting as Agent,
+—
+the Swedish Government, by A. Falk, C. Meyer-Seitz, U. Persson and K. Sparrman and by E. Karlsson, L. Swedenborg and C. Hagerman, acting as Agents,
+—
+the Danish Government, by C. Thorning and M. Wolff, acting as Agents,
+—
+the German Government, by T. Henze and J. Möller, acting as Agents,
+—
+the Spanish Government, by L. Banciella Rodríguez-Miñón, acting as Agent,
+—
+the French Government, by D. Colas and J.-S. Pilczer, acting as Agents,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and by P. Gentili, avvocato dello Stato,
+—
+the Netherlands Government, by M. Bulterman and M. Gijzen, acting as Agents,
+—
+the Portuguese Government, by L. Inez Fernandes and J. Martins da Silva and by M. Rebelo, acting as Agents,
+—
+the Finnish Government, by J. Heliskoski, acting as Agent,
+—
+the United Kingdom Government, by L. Christie, acting as Agent, and R. Hill, Barrister,
+—
+European Commission, by W. Roels and J. Enegren, acting as Agents,
+after hearing the Opinion of the Advocate General at the hearing on January 2015,
+gives the following
+Judgment
+The request for a preliminary ruling concerns the interpretation of Articles TFEU and TFEU.
+That request has been presented in proceedings between X AB, a company incorporated under Swedish law, and the Skattverket (Tax Authority) concerning the refusal of the latter to grant X AB a deduction in respect of a currency loss resulting from the disposal of holdings for business purposes in a subsidiary based in the United Kingdom.
+Swedish law
+Paragraph of Chapter of Law (1229:1999) on income tax (inkomstskattelagen (1999:1229) (‘IL’)) defines the concept of (‘holdings for business purposes’) as follows:
+‘A share in a limited company or a cooperative society constitutes a holding for business purposes, if it satisfies the conditions set out in Paragraph and is owned by a legal person (company owning the shares) which is:
+1.
+a Swedish limited company or cooperative society that is not an investment fund,
+2.
+a Swedish non-profit association or foundation not falling within the scope of the provisions on exemptions from tax liability in Chapter 7,
+3.
+a Swedish savings bank,
+4.
+a Swedish mutual insurance undertaking, or
+5.
+a foreign company resident in a State within the European Economic Area analogous to one of the Swedish undertakings referred to in points to above.’
+Paragraph of the same Chapter of the IL provides:
+‘the holding for business purposes must be a capital asset and meet one of the following conditions:
+1.
+The holding must not be listed.
+2.
+The total number of voting rights attached to all the shares held by the company owning the shares in the company owned corresponds to at least per cent of the total number of voting rights attached to all the shares in that company.
+3.
+The share is held for the purpose of the activities of the holding company or by an undertaking which, having regard to the conditions of ownership or of organisation, can be regarded as being close to that company.
+…’
+Chapter 25a of IL, concerning shares held for business purposes, provides in paragraph 5:
+‘A capital gain shall be taxed only in the circumstances set out in paragraph 9.
+…
+(2)   A capital loss may be deducted only if a corresponding capital gain must be taxed.
+…’
+Under the combined provisions of Articles and of Chapter 25a, by way of derogation from the general rule established under Article of that Chapter, capital gains on holdings for business purposes are subject to corporation tax when the transfer concerns holdings in a front company or certain types of acquisition.
+The dispute in the main proceedings and the question referred for preliminary ruling
+During the year 2003, X AB, which has its seat in Sweden, formed a subsidiary in the United Kingdom, Y Ltd, whose shares were issued in US dollars.
+Between and 2009, Y Ltd received capital contributions by means of issues reserved to X AB. The latter then, on two occasions, transferred shares it held in Y Ltd to its own parent company. Following those transfers, X AB held approximately 45% of the shares in Y Ltd in the form of capital and of voting rights.
+It is not disputed that those shares are ‘holdings for business purposes’ within the meaning of paragraph of Chapter of IL.
+X AB, wishing to put an end to Y Ltd’s activities, planned to transfer those shares. This transaction, however, presented a risk of currency loss owing to the fact that, between the years and 2009, X AB had contributed capital, in cash, to Y Ltd at an exchange rate more favourable than that existing at the time of the transfers. X AB therefore first investigated whether that potential loss was deductible but was confronted with the Swedish tax law, in accordance with which capital losses on ‘holdings for business purposes’ are not, in principle, deductible from the basis of assessment for corporation tax.
+X AB therefore requested a ruling from the Skatterättsnämnden (Revenue Law Commission) on whether such an exclusion was compatible with EU Law when it applied to a capital loss resulting from a currency loss on a ‘holding for business purposes’ in a company resident in another Member State of the European Union.
+In a ruling on March 2013, the Skatterättsnämnden replied in the negative, on the grounds that, in Swedish tax law, neither capital gains nor capital losses on the shares constituting ‘holdings for business purposes’ are, in principle, taken into account in the calculation of the basis of assessment for corporation tax.
+X AB contested that decision before the Högsta förvaltningsdomstolen (Supreme Administrative Court).
+In support of its request before the national court, X AB in essence contended that, on account of the Swedish legislation, the investments that it made in Y Ltd were more risky than comparable domestic investments. Its argument is based mainly on the idea that an investment in Swedish Krona made in a Swedish limited company would not be subject to any uncertainty equivalent to the exchange risk to which an investment in another Member State can be subject. The Swedish tax system would, on that account, constitute an impediment to the free movement of capital and to the freedom of establishment, as the Court held in the judgment in Deutsche Shell (C‑293/06, EU:C:2008:129) the reasoning in which can be applied to the case in the main proceedings.
+In those circumstances, the Högsta förvaltningsdomstolen decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Do Article TFEU and Article TFEU preclude national legislation under which the Member State in which an undertaking is resident does not permit that undertaking to deduct a currency loss inherent in a capital loss on its holdings for business purposes in a company resident in another Member State, when the Member State of residence of the first undertaking applies a system that does not take into account the capital gains and losses on such holdings in the calculation of the basis of assessment for tax?’
+The question referred for a preliminary ruling
+Preliminary observations
+The question referred for a preliminary ruling referring both to freedom of establishment and to the free movement of capital, affirmed in Articles TFEU and TFEU, respectively, it is first necessary to examine which of those two freedoms is liable to be affected by national legislation such as that at issue in the main proceedings.
+In that regard, it is clear from the Court’s settled case-law that the purpose of the legislation concerned must be taken into consideration (judgments in Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, paragraph and the case-law cited and Hervis Sport- és Divatkereskedelmi, C‑385/12, EU:C:2014:47, paragraph 21).
+National legislation intended to apply only to those shareholdings which enable the holder to exert a definite influence on a company’s decisions and to determine its activities falls within the scope of Article TFEU on freedom of establishment (judgments in Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, paragraph and the case-law cited and Hervis Sport- és Divatkereskedelmi, C‑385/12, EU:C:2014:47, paragraph 22).
+On the other hand, national provisions which apply to shareholdings acquired solely with the intention of making a financial investment without any intention to influence the management and control of the undertaking must be examined exclusively in light of the free movement of capital (judgment in Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, paragraph and the case-law cited).
+Concerning the Swedish legislation at issue in the main proceedings, it appears that the category ‘holdings for business purposes’ consists not only of shares with voting rights corresponding to at least 10% of the total shareholding, but also of unlisted shares with no condition of a minimum percentage.
+Furthermore, it has previously been held that a holding of at least 10% of the shares or voting rights does not necessarily imply that the owner of the holding exerts a definite influence over the decisions of the company in which it is a shareholder (see, to that effect, judgments in Test Claimants in the FII Group Litigation, C‑446/04, EU:C:2006:744, paragraph and Itelcar, C‑282/12, EU:C:2013:629, paragraph 22).
+Consequently, the purpose of the national law at issue in the main proceedings does not in itself allow it to be determined whether that law falls predominantly within the scope of Article TFEU or that of Article TFEU.
+Likewise, it is settled case-law that the Court must take account of the facts of the case in point in order to determine whether the situation to which the dispute in the main proceedings relates falls within the scope of one or the other of those provisions (see, to that effect, judgment in Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, paragraphs and and the case-law cited).
+In that regard, it is apparent from the documents before the Court that X AB holds 45% of the shares in Y Ltd, in both capital and voting rights. It has already been held that a holding at this level, in principle, confers a ‘definite influence’ over the decisions and activities of the company concerned, within the meaning of the case-law cited at paragraph above (see, by analogy, judgment in SGI, C‑311/08, EU:C:2010:26, paragraph 35).
+In those circumstances, the request for a preliminary ruling must be regarded as relating to the interpretation of the provisions of TFEU on freedom of establishment.
+The existence of a restriction of the freedom of establishment
+By its question the national court asks, in essence, whether Article TFEU is to be interpreted as precluding tax legislation of a Member State that exempts capital gains on holdings from corporation tax and, by the same token, excludes the deduction of capital losses in respect of such holdings, even where such losses result from currency losses.
+It is to be noted that Article TFEU requires the abolition of restrictions on the freedom of establishment. Therefore, even though, according to their wording, the provisions of TFEU on freedom of establishment are directed to ensuring that foreign nationals and companies are treated in the host Member State in the same way as nationals of that State, they also prohibit the Member State of origin from hindering the establishment in another Member State of one of its nationals or of a company incorporated under its legislation (judgments in Marks & Spencer, C‑446/03, EU:C:2005:763, paragraph 31; National Grid Indus, C‑371/10, EU:C:2011:785, paragraph 35; and Bouanich, C‑375/12, EU:C:2014:138, paragraph 57).
+It is also settled case-law that all measures which prohibit, impede or render less attractive the exercise of the freedom of establishment must be regarded as such restrictions (see judgments in National Grid Indus, C‑371/10, EU:C:2011:785, paragraph 36; DI. VI. Finanziaria di Diego della Valle & C., C‑380/11, EU:C:2012:552, paragraph 33; and Bouanich, C‑375/12, EU:C:2014:138, paragraph 58).
+The Court has held that such restrictive effects may arise in particular where, on account of a tax law, a company may be deterred from setting up subsidiary bodies such as permanent establishments in other Member States and from carrying on its activities through such bodies (judgments in Marks & Spencer, C‑446/03, EU:C:2005:763, paragraphs and 33; Keller Holding, Case C‑471/04, EU:C:2006:143, paragraph 35; and Deutsche Shell, C‑293/06, EU:C:2008:129, paragraph 29).
+In that regard it is to be observed that the Swedish tax law at issue in the main proceedings excludes, in principle, from the calculation of corporation tax capital gains realised on the transfer of ‘holdings for business purposes’, for the purposes of the IL. Likewise, that legislation does not provide for any deduction of capital losses incurred in such operations, irrespective of whether the companies whose ‘holdings for business purposes’ are transferred or are not established in Sweden.
+Accordingly, capital losses on the transfer of ‘holdings for business purposes’ having their origin in a currency loss cannot be deducted either in the situation in which, as in the case in the main proceedings, the shares are held in a company established in another Member State or in that in which they are held in a company established in Sweden — whether the capital of the latter be denominated in Swedish Krona or in any other currency permitted by the national legislation.
+Therefore, contrary to what the applicant submits in the main proceedings, investments in ‘holdings for business purposes’ in a Member State other than Sweden are not, having regard to the non-deductibility of currency losses, treated more unfavourably than similar investments effected in Sweden.
+In that regard, it should be added that, even assuming that such non-deductibility might be likely to disadvantage a company having invested in ‘holdings for business purposes’ in a company established in another Member State by the fact of its exposure to currency losses when, as in the case in the main proceedings, that investment is made in shares denominated in a currency other than that of the host Member State, it follows from the Member States’ competence in tax matters that the freedom of companies to choose between different Member States of establishment by no means implies that the latter are required to adapt their own tax systems to the different taxation systems of other Member States so as to ensure that a company that has chosen to establish itself in one Member State is taxed at national level in the same way as a company having chosen to establish itself in another Member State, it being the case that that choice can, in the circumstances, be more or less advantageous or disadvantageous for that company (see, to that effect, judgments in Deutsche Shell, C‑293/06, EU:C:2008:129, paragraph 43, and Krankenheim Ruhesitz am Wannsee-Seniorenheimstatt, C‑157/07, EU:C:2008:588, paragraph 50).
+In the same way, as EU law now stands concerning direct taxation, the provisions of the FEU Treaty relating to freedom of establishment cannot be interpreted as requiring the Member States to adapt their own tax systems so as to take account of possible exchange risks faced by companies because of the continued existence within the European Union of a diversity of currencies between which there is no fixed exchange rate or of national laws permitting, as is the case in the main proceedings, the capital of companies to be denominated in the currencies of third countries.
+It follows that a national law such as that at issue in the main proceedings is not liable to restrict freedom of establishment.
+That finding cannot be called into question by the statements in the judgment in Deutsche Shell (C‑293/06, EU:C:2008:129) which X AB relies upon.
+In that judgment, the Court ruled that the provisions of the FEU Treaty concerning freedom of establishment preclude a Member State from excluding, for the determination of the national basis of assessment, a currency loss incurred by a company, having its registered office in that State, at the time of the repatriation of endowment capital that it had allocated to a permanent establishment belonging to it situated in another Member State.
+However, the Court reached that conclusion in a legal context different from that arising from the application of the national law in the main proceedings. As the referring court observed, the national legislation at issue in the case giving rise to the judgment in Deutsche Shell (C‑293/06, EU:C:2008:129) provided that, as a general rule, currency gains were taxed and, at the same time, currency losses were deductible unless a convention to prevent double taxation stipulated otherwise.
+However, that is not the case in the main proceedings, since, as has been stated at paragraph above, the Swedish tax law at issue in the main proceedings is, in principle, indifferent to the results of capital transactions on ‘holdings for business purposes’, in respect of which the Kingdom of Sweden has chosen, as a general rule, not to exercise its powers of taxation.
+In those circumstances, it cannot be inferred from the provisions of the FEU Treaty concerning freedom of establishment that that Member State would be required to exercise — asymmetrically, moreover — its taxation powers so as to permit the deduction of losses from operations whose results, if they were positive, would not in any event be taxed.
+Having regard to the foregoing, the answer to the question referred is that Article TFEU must be interpreted as meaning that it does not preclude the tax legislation of a Member State which, in principle, exempts capital gains on holdings for business purposes from corporation tax and, by the same token, excludes the deduction of capital losses on such holdings, even where those capital losses are due to currency losses.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article of the TFEU must be interpreted as meaning that it does not preclude the tax legislation of a Member State which, in principle, exempts capital gains on holdings for business purposes from corporation tax and, by the same token, excludes the deduction of capital losses on such holdings, even where those capital losses are due to currency losses.
+ 
+[Signatures]
+(
+*)   Language of the case: Swedish.
+Top  
+ 

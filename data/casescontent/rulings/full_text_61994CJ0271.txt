@@ -1,0 +1,424 @@
+
+         				Arrêt de la Cour
+         			
+      
+Case C-271/European ParliamentvCouncil of the European Union
+«(Council Decision 94/445/EC – Edicom – Telematic networks – Legal basis)»
+Opinion of Advocate General La Pergola delivered on November Judgment of the Court, March Summary of the Judgment
+1..
+Acts of the institutions – Choice of legal basis – Criteria – Practice of an institution – Irrelevant in regard to the rules of the Treaty  
+2..
+Trans-European networks – Measures necessary in order to ensure interoperability of networks – Council Decision on inter-administration telematic networks for statistics relating to the trading of goods between Member
+                     States – Legal basis – Article 129d of the Treaty – Ancillary effects on the functioning of the internal market – No effect – Annulment on account of the use of Article of the Treaty as the legal basis – Temporal effects  
+                  (EC Treaty, Arts 100a, 129c, 129d, and 235; Council Decision 94/445/EC) 
+1.
+ In the context of the organization of the powers of the Community the choice of the legal basis for a measure must be based
+         on objective factors which are amenable to judicial review.  Those factors include in particular the aim and content of the
+         measure. A mere practice on the part of the Council cannot derogate from the rules laid down in the Treaty and therefore cannot create
+         a precedent binding on the Community institutions where, prior to the adoption of a measure, they have to determine its correct
+         legal basis. 
+         
+2.
+ Decision 94/on inter-administration telematic networks for statistics relating to the trading of goods between Member
+         States is principally intended to ensure the interoperability of national telematic networks by means of technical measures
+         of an operational character.  Such measures are measures which, as such and irrespective of the establishment of Community
+         guidelines on the matter pursuant to the first indent of Article 129c(1) of the Treaty, are covered by the second indent of
+         Article 129c(1) and should be adopted under the third paragraph of Article 129d. Recourse cannot be made to Article 100a of the Treaty rather than the third paragraph of Article 129d on the ground that the
+         decision also serves objectives of the internal market, since those objectives are merely ancillary and the mere fact that
+         the establishment or the functioning of the internal market is affected is not sufficient for Article 100a to apply.  Since
+         Decision 94/was wrongly adopted on the basis of Article of the Treaty, whose use as the legal basis for a measure
+         is justified only where no other provision of the Treaty gives the Community institutions the necessary power to adopt the
+         measure in question, it must be annulled. However, in order to avert discontinuity in measures already started and for important reasons of legal certainty, comparable
+         to those which arise where certain regulations are annulled, there appears to be justification for the Court's exercising
+         the power expressly conferred upon it by the second paragraph of Article of the Treaty where a regulation is annulled
+         and deciding to maintain the effects of Commission decisions already adopted on the basis of the annulled decision until such
+         time as a decision adopted on the appropriate legal basis enters into force. 
+      
+  
+  
+JUDGMENT OF THE COURTMarch (1)
+((Council Decision 94/445/EC – Edicom – Telematic networks – Legal basis))
+In Case C-271/94, 
+ European Parliament , represented by Gregorio Garzón Clariana, Jurisconsult, Johann Schoo, Head of Division, and José Luis Rufas Quintana, of
+            its Legal Service, acting as Agents, with an address for service in Luxembourg at the General Secretariat of the European
+            Parliament, Kirchberg,
+            
+applicant, supported by Commission of the European Communities , represented by Georgios Kremlis, of its Legal Service, acting as Agent, with an address for service in Luxembourg at the
+            office of Carlos Gómez de la Cruz, of its Legal Service, Wagner Centre, Kirchberg,
+            
+intervener, 
+v
+ Council of the European Union , represented by Antonio Sacchettini, Director in its Legal Service, and Amadeu Lopes Sabino, Adviser in its Legal Service,
+            with an address for service in Luxembourg at the office of Bruno Eynard, Director of the Legal Affairs Directorate of the
+            European Investment Bank, Boulevard Konrad Adenauer,
+            
+defendant, 
+APPLICATION for the annulment of Council Decision 94/445/EC of July on inter-administration telematic networks for
+            statistics relating to the trading of goods between Member States (Edicom) (OJ L 183, p. 42),
+            
+THE COURT,,
+composed of: G.C. Rodríguez Iglesias, President, C.N. Kakouris and G. Hirsch (Presidents of Chambers), G.F. Mancini, F.A. Schockweiler, J.C. Moitinho de Almeida, C. Gulmann, J.L. Murray, P. Jann, H. Ragnemalm and L. Sevón (Rapporteur), Judges, 
+            
+Advocate General: A. La Pergola, Registrar: H. von Holstein, Deputy Registrar, 
+            
+having regard to the Report for the Hearing,after hearing oral argument from the parties at the hearing on October 1995,
+            
+after hearing the Opinion of the Advocate General at the sitting on November 1995, 
+gives the following
+Judgment
+            
+By application lodged at the Court Registry on September 1994, the European Parliament brought an action under Article
+         of the EC Treaty for the annulment of Council Decision 94/445/EC of July on inter-administration telematic networks
+         for statistics relating to the trading of goods between Member States (Edicom) (OJ L 183, p. 42,  
+         the decision). 
+         
+            
+Article of the decision provides as follows: A set of measures, hereinafter referred to as  
+         Edicom (Electronic Data Interchange on Commerce), shall be implemented to facilitate the conversion of regional, national and Community
+         systems towards interoperable systems at European level, as a first stage, for the collection of returns on the trading of
+         goods between Member States from businesses, the validation and pre-processing of such returns and the dissemination of the
+         statistics derived therefrom.These systems shall be based on distributed information systems at regional, national and Community levels, the interoperability
+         of which shall be guaranteed by the development and use of harmonized standards and communication procedures.These systems shall be based in particular on the use of electronic data interchange (EDI) for the transmission of statistical
+         returns.  Computerized procedures may be made available to the competent national and Community authorities and to the parties
+         responsible for providing statistical information by agreement with the competent national authorities.These systems shall be developed in a way which takes account of the requirements associated with compiling statistics on
+         internal trade.
+         
+            
+The measures referred to in Article are described in Article of the decision.  They consist in particular of measures
+         for the design, development and promotion of software and formats for the exchange of information and of measures for the
+         design, documentation and promotion of the methods, procedures and agreements to be used in the exchange of information. 
+         They also cover the provision of assistance. 
+         
+            
+Article of the decision sets out the general aims to be taken into account in implementing the measures.  Article 5(1) provides
+         that the Commission is to be responsible for the implementation of Edicom.  Community financing is provided for in Article
+         8. 
+         
+            
+The preamble to the directive refers in particular: 
+         
+─
+to the need, on account of the completion of the internal market, to bring about a satisfactory level of information on the
+            trading of goods between Member States by means other than those involving checks at internal frontiers and, consequently,
+            to collect the necessary data directly from consignors and consignees, using methods and techniques which will ensure that
+            they are exhaustive, reliable and up-to-date (first and second recitals); 
+         
+─
+to Council Regulation (EEC) No 3330/of November on the statistics relating to the trading of goods between Member
+            States (OJ L 316, p. 1), which provides that the conditions should be created for increased use of automatic data processing
+            and electronic data transmission for the purpose of facilitating the task of the parties responsible for providing information
+            (third recital); 
+         
+─
+to the aim of easing the burden placed by returns on businesses, while improving the circulation of statistical information
+            with a view to the creation of a European information market (fourth recital); 
+         
+─
+to the future Council decision adopting a multiannual Community programme to support the implementation of trans-European
+            information networks for the interchange of data between administrations (IDA), which should be supplemented by measures of
+            an operational character, particularly in the statistical sphere (fifth recital); 
+         
+─
+to the compilation of harmonized statistics, the promotion of the use of harmonized standards and concepts at European level
+            and the standardization carried out at international level in the sphere of electronic data interchange (sixth, seventh and
+            eighth recitals); 
+         
+─
+to the fact that the establishment of common statistical standards for the production of harmonized information is an activity
+            which can be carried out effectively only at Community level, in collaboration with the Member States, where those standards
+            will be implemented (ninth recital). 
+         
+            
+It appears from the case-file that the Commission's initial proposal submitted on March (OJ C 87, p. 10) was
+         based on Article 100a of the EEC Treaty.  In accordance with that article, the Council consulted the Parliament on that proposal.
+          The Parliament approved it on October 1993, subject to an amendment not relating to the legal basis (OJ C 315, p.
+         133). 
+         
+            
+By letter dated March 1994, the Council consulted the Parliament again with a view to replacing the legal basis of the
+         proposal by Article of the EC Treaty.  It stated in that letter that at its meeting on December 1993, at the end of
+         its deliberations on the proposal for a decision, the  
+         position had emerged that the decision should be based on Article of the Treaty and that it had  
+         considered in particular that, since the decision consists of a set of measures and does not embody any genuine harmonizing
+         measures, there were no powers other than those provided for in Article 235.  The Council enclosed with that letter the text of the draft decision as it emerged from its proceedings.  Following that
+         fresh consultation, the Parliament adopted on May a resolution in which it contested the validity of the legal basis
+         proposed by the Council and expressed the view that the Commission's proposal should be based on the third paragraph of Article
+         129d of the EC Treaty. 
+         
+            
+Since the Council adopted the decision pursuant to Article of the Treaty, the Parliament has brought this application
+         for its annulment. 
+         
+            
+By order of the President of the Court of January 1995, the Commission was given leave to intervene in support of the form
+         of order sought by the Parliament. 
+         
+            
+In support of its application, the Council argues that the decision should have been based on the third paragraph of Article
+         129d of the Treaty or, in the alternative, on Article 100a.  It points out that those provisions provide, respectively, for
+         the cooperation and co-decision procedures, whereas Article 235, the legal basis used to adopt the decision, merely provides
+         for the Parliament to be consulted. 
+         
+            
+The Commission supports the Parliament's submissions by which it seeks the annulment of the decision.  However, it takes the
+         view that Article 100a should be given preference over the third paragraph of Article 129d as the correct legal basis for
+         the decision. 
+         
+            
+For its part, the Council considers that neither the third paragraph of Article 129d nor Article 100a was capable of being
+         the basis for the decision and that, in the absence of specific powers, Article was the only appropriate legal basis.
+         
+         
+Justification of the action
+            
+It should be recalled  
+          in limine  that the Court has consistently held that the use of Article as the legal basis for a measure is justified only where
+         no other provision of the Treaty gives the Community institutions the necessary power to adopt the measure in question (see,
+         in particular, Case 45/Commission  v  
+          Council  [1987] ECR 1493, paragraph 13, and Case C-350/Spain  v  
+          Council  [1995] ECR I-1985, paragraph 26).
+         
+            
+It should further be recalled that in the context of the organization of the powers of the Community the choice of the legal
+         basis for a measure must be based on objective factors which are amenable to judicial review.  Those factors include in particular
+         the aim and content of the measure (see, in particular, Case C-300/Commission  v  
+          Council  [1991] ECR I-2867, paragraph 10, and Case C-426/Germany  v  
+          Council  [1995] ECR I-3723, paragraph 29). 
+         
+            
+It must therefore be examined whether the contested decision could have been based on the third paragraph of Article 129d
+         or on Article 100a. 
+         
+            
+The Parliament submits that the decision comes under the powers governed by the second indent of Article 129c(1), according
+         to which  
+         In order to achieve the objectives referred to in Article 129b, the Community ... shall implement any measures that may prove
+         necessary to ensure the interoperability of the networks, in particular in the field of technical standardization.  The third paragraph of Article 129d lays down the procedure to be followed in adopting such measures. 
+         
+            
+The Council observes in the first place that the purpose of the decision is not to create a network, but to take ad hoc measures
+         of an operational nature, with the result that it is only concerned indirectly with networks.  The Council maintains that
+         the creation of networks is the essence of Article 129b. 
+         
+            
+It goes on to argue that the decision follows on from the preceding CADDIA, INSIS and TEDIS programmes, which were introduced
+         respectively by Council Decision 85/214/EEC of March concerning the coordination of the activities of the Member States
+         and the Commission related to the implementation of a long-term programme for the use of telematics for Community information
+         systems concerned with imports/exports and the management and financial control of agricultural market organizations (OJ L 96, p. 35), Council Decision 82/869/EEC of December relating to the coordination of the activities of the Member
+         States and Community institutions with a view to assessing the need for, and preparing proposals for setting up, a Community
+         inter-institutional information system (OJ L 368, p. 40) and Council Decision 87/499/EEC of October introducing
+         a communications network Community programme on trade electronic data interchange systems (TEDIS) (OJ L 285, p. 35).
+          Since those decisions were adopted on the basis of Article of the Treaty, the Council maintains that that article also
+         constitutes the proper legal basis for the contested decision. 
+         
+            
+Lastly, the Council argues that it appears from the wording and structure of Article 129c(1) that the Community action provided
+         for by that provision breaks down into consecutive stages.  Initially, it is a question of establishing guidelines and identifying
+         projects of common interest (first indent of Article 129c(1)).  In the second stage, the Community legislature is to implement
+         any measures which may prove necessary to ensure the interoperability of the networks (second indent of Article 129c(1)).
+          Lastly, the Community may finance projects of common interest (third indent of Article 129c(1)).  Consequently, measures
+         designed to ensure the interoperability of the networks are dependent upon the definition of the measures contemplated by
+         the guidelines.  Since in this case no prior guidelines had been established, the decision could not have been based on Article
+         129d. 
+         
+            
+The Council's reasoning cannot be upheld. 
+         
+            
+As the Advocate General observed in point of his Opinion, in the context of the functioning of the internal market and the
+         management of common policies, numerous Community measures aim at securing a satisfactory level of information on the trading
+         of goods between Member States by means not involving checks at internal frontiers.  Accordingly, the data are collected directly
+         from consignors and consignees.  Increased use of automatic data processing and electronic data transmission and the requirement
+         for compatible systems constitute technical methods which will assist the proper functioning of data collection whilst easing
+         the burden on the parties responsible for providing information, in particular businesses. 
+         
+            
+The decision does in fact serve that aim.  It appears from the first, second and fourth recitals in the preamble thereto that
+         it aims at developing the direct collection of the necessary data on the trading of goods between Member States from consignors
+         and consignees by using methods and techniques ensuring that the data are exhaustive, reliable and up-to-date.  In addition,
+         the third recital refers to Regulation No 3330/91, which provides that the conditions should be created for increased use
+         of automatic data processing and electronic data transmission for the purpose of facilitating the task of the parties responsible
+         for providing information.  Lastly, the fifth recital states that the future Council decision adopting a multiannual Community
+         programme to support the implementation of trans-European information networks for the interchange of data between administrations
+         (IDA) should be  
+         supplemented by measures of an operational character, particularly in the statistical sphere. 
+         
+            
+The very content of the decision confirms that it is intended to assure the interoperability of national telematic networks
+         and thereby to foster their convergence towards a trans-European telematic network for the collection and transmission of
+         information between administrations.  The first paragraph of Article provides for the implementation of a  
+         set of measures ... to facilitate the conversion of regional, national and Community systems towards interoperable systems
+         at European level.  According to the second paragraph of that article, those  
+         systems shall be based on distributed information systems at regional, national and Community levels, the interoperability
+         of which shall be guaranteed by the development and use of harmonized standards and communication procedures.  The Edicom measures described in Article of the decision consist in particular of technical measures designed to create
+         the conditions in order that the national networks may constitute a trans-European telematic network. 
+         
+            
+As for the argument based on previous practice, suffice it to say that a mere practice on the part of the Council cannot derogate
+         from the rules laid down in the Treaty and therefore cannot create a precedent binding on the Community institutions with
+         regard to the correct legal basis (see, in particular, Case 68/United Kingdom  v  
+          Council  [1988] ECR 855, paragraph 24).  Moreover, the CADDIA, INSIS and TEDIS programmes, referred to by the Council, were established
+         before Title XII on trans-European networks was introduced by the Treaty on European Union, hence before Article 129d entered
+         into force. 
+         
+            
+As for the question of the relationship between the various indents of Article 129c(1), it should be observed that paragraph
+         of Article 129b, which sets out the objectives of the Community measures provided for in Article 129c, provides that  
+         the Community shall contribute to the establishment and development of trans-European networks and paragraph of that article that  
+         action by the Community shall aim at promoting the interconnection and interoperability of national networks as well as access
+         to such networks.  Next, on the one hand, the first indent of Article 129c(1) provides for the establishment of a series of guidelines covering
+         the objectives, priorities and broad lines of measures envisaged and its third indent contains a provision on Community support
+         for the financial efforts made by the Member States for projects of common interest financed by Member States, which are identified
+         in the framework of guidelines referred to in the first indent.  On the other hand, the second indent of Article 129c(1) provides
+         for the implementation by the Community of any measures that may prove necessary to ensure the interoperability of the networks,
+         in particular in the field of technical standardization. 
+         
+            
+Whilst it is uncontestable that the establishment and development of trans-European telecommunication networks necessitate
+         the interconnection and interoperability of the national networks, together with access to those networks, and that the establishment
+         of the guidelines provided for in the first indent of Article 129c(1) covers those objectives, it nevertheless appears from
+         the structure and wording of that paragraph that any Community measure seeking to ensure the interoperability of the national
+         networks does not necessarily have to be preceded by the establishment of guidelines in accordance with the provisions of
+         the first indent of Article 129c(1).  This will be so in particular where, as in this case, it is merely a question of the
+         adoption of operational measures designed to ensure the interoperability of the existing national networks in order to make
+         them technically compatible for the purpose of integrating them into a trans-European network.  Moreover, as the Advocate
+         General observes in point of his Opinion, several Community measures, adopted before the Treaty on European Union entered
+         into force, had already defined the guidelines within which the decision falls. 
+         
+            
+It follows that the Edicom measures constitute measures covered by the second indent of Article 129c(1) and that the prior
+         establishment of guidelines as referred to in the first indent of that provision is unnecessary in circumstances of the sort
+         obtaining in this case. 
+         
+            
+It is further necessary to consider the Commission's principal argument that Article 100a is the correct legal basis for the
+         decision. 
+         
+            
+The Commission avers that the main objective of the Edicom measures is to guarantee the sound functioning of the internal
+         market.  It maintains that those measures use the telematic network simply as a medium serving that objective.  Accordingly,
+         the decision seeks to harmonize collection systems and the statistical data to be collected on the trading of goods within
+         the internal market.  In this connection, the Commission refers in particular to the preamble to the decision and to the first
+         two paragraphs of Article 1.  The Commission also adverts to the close links between the Edicom decision and Regulation No
+         3330/91, which is based on Article 100a.  Lastly, the Commission observes that all the measures introduced by Edicom could
+         have been incorporated in Regulation No 3330/or have ensued from it in common with the other implementing regulations,
+         in which case Article 100a would have to have been used as the legal basis. 
+         
+            
+Parliament considers that the decision also has certain features associated with the establishment and functioning of the
+         internal market.  It takes the view, however, that Article 129d is a more specific provision than Article 100a as regards
+         the matters falling within its scope.  In its opinion, the more specific legal basis should be chosen. 
+         
+            
+The Commission's argument cannot be accepted. 
+         
+            
+As has been mentioned in paragraphs and of this judgment, the decision's main aim is to ensure the interoperability
+         of national networks by means of operational measures of a technical nature.  Whilst it is true that the decision also serves
+         objectives of the internal market, those objectives are merely ancillary in relation to the main objective, with the result
+         that Article 100a cannot constitute the proper legal basis for its adoption.  In this regard, it should be recalled that the
+         Court has already held that the mere fact that the establishment or the functioning of the internal market is affected is
+         not sufficient for Article 100a of the Treaty to apply (see, in particular, Case C-70/Parliament  v  
+          Council  [1991] ECR I-4529, paragraph 17). 
+         
+            
+In addition, it should be noted that, according to the very wording of Article 129b, to which Article 129c refers, trans-European
+         networks are intended,  
+          inter alia , to achieve the objectives referred to in Article 7a, namely the establishment of the internal market.  As far as the interoperability
+         of networks in relation to the establishment of the internal market in particular is concerned, the second indent of Article
+         129c(1) constitutes a more specific provision than Article 100a.  Consequently, even though the second indent of Article 129c(1)
+         also covers objectives pursued by Article 100a, the existence of Article 100a cannot be used as an argument for restricting
+         the scope of that provision. 
+         
+            
+As for the Commission's reference to Regulation No 3330/91, reference should also be made to the case-law cited in paragraph
+         24, according to which a mere practice on the part of an institution cannot derogate from the rules laid down in the Treaty
+         and therefore cannot create a precedent binding on the institutions. 
+         
+            
+It follows from the foregoing that the decision should have been adopted on the basis of the third paragraph of Article 129d
+         and hence must be annulled. 
+         Maintenance of the effects of the decision
+            
+In its defence, the Council asked the Court that, in the event that the decision should be annulled, its effects should be
+         maintained in view of the disturbance which its retroactive annulment would cause and of the need to guarantee continuity
+         of the service.  The Commission associated itself with this request.  In answer to a question from the Court they stated that,
+         since the decision entered into force, the two work programmes for and have resulted in the initiation or achievement
+         of measures covered by Commission Decisions 94/765/EC of November (OJ L 304, p. 41), 95/126/EC of April
+         (OJ L 84, p. 10) and 95/234/EC of June (OJ L 156, p. 80).  The two institutions therefore submit that
+         an interruption in the continuity of the Edicom measures owing to the break in the flows of data collected from businesses
+         would make it impossible for the Member States to establish, on the basis of telematics, statistics on the trading of goods
+         within the Community.  The Commission states that in that event it would be necessary to revert to collecting information
+         by means of forms. 
+         
+            
+At the hearing, the Parliament intimated that it had no objection to that request as regards effects antedating annulment
+         by the Court.  However, it opposed the application of the decision after the Court's judgment until such time as a new decision
+         was adopted, since it considered that to maintain the future effects of the decision would deprive the judgment of its effectiveness.
+         
+         
+            
+In response to that objection, the Commission argued that to maintain only the effects which the decision had prior to the
+         Court's judgment would nevertheless be seriously detrimental to measures already put in train, which could therefore not continue
+         in being. 
+         
+            
+It appears from the information provided by the Council and the Commission that, in order to avert discontinuity in Edicom
+         measures already started and for important reasons of legal certainty, the effects of the Commission decisions already adopted
+         pursuant to the annulled decision should be maintained.  In contrast, as regards the other effects of the annulled decision,
+         neither the Council nor the Commission has given any particulars of the difficulties which the annulment of the decision would
+         have in this regard.  In the absence of such particulars, the Court is unable to assess the degree and extent of those difficulties
+         and to accede to that aspect of the two institutions' request. 
+         
+            
+In view of the particular circumstances of the case and for important reasons of legal certainty, comparable to those which
+         arise where certain regulations are annulled, there appears to be justification for the Court's exercising the power expressly
+         conferred upon it by the second paragraph of Article of the EC Treaty where a regulation is annulled and indicating the
+         effects of the annulled decision which must be conserved.  Consequently, the effects of the Commission decisions already adopted
+         pursuant to the annulled decision should be maintained until such time as a decision adopted on the appropriate legal basis
+         enters into force.
+         
+Costs
+            
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party's pleadings.  The Parliament has asked for the Council to be ordered to pay the costs.
+          Since the Council has been unsuccessful, it must be ordered to pay the costs.  In accordance with the first subparagraph
+         of Article 69(4) of those Rules, the Commission, which intervened in the proceedings, must be ordered to bear its own costs.
+         
+         
+On those grounds, 
+THE COURT
+hereby:  
+         
+1.
+ Annuls Council Decision 94/445/EC of July on inter-administration telematic networks for statistics relating to the
+               trading of goods between Member States (Edicom);
+2.
+ Maintains the effects of the Commission decisions already adopted pursuant to the annulled decision until such time as a decision
+               adopted on the appropriate legal basis enters into force;
+3.
+ Orders the Council to pay the costs; 
+4.
+ Orders the Commission to bear its own costs. 
+Rodríguez Iglesias
+Kakouris 
+Hirsch 
+Mancini
+Schockweiler 
+Moitinho de Almeida 
+Gulmann
+Murray 
+Jann 
+Ragnemalm
+Sevón
+ Delivered in open court in Luxembourg on March 1996. 
+         
+R. Grass
+G.C. Rodríguez Iglesias  
+Registrar
+President
+ –
+            
+ Language of the case: French.
+Top  
+ 

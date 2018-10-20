@@ -1,0 +1,292 @@
+
+Case C-397/Scheuten Solar Technology GmbH
+v
+Finanzamt Gelsenkirchen-Süd
+(Reference for a preliminary ruling from the Bundesfinanzhof)
+(Taxation – Directive 2003/49/EC – Common system of taxation applicable to interest and royalty payments made between associated companies of different Member
+         States – Business tax – Determination of the basis of assessment)
+      
+Summary of the Judgment
+Approximation of laws – Common system of taxation applicable to interest and royalty payments made between associated companies
+            of different Member States – Directive 2003/– Scope
+(Council Directive 2003/49, Art. 1(1))
+Article 1(1) of Directive 2003/on a common system of taxation applicable to interest and royalty payments made between
+         associated companies of different Member States must be interpreted as not precluding a provision of national tax law under
+         which loan interest paid by a company established in one Member State to an associated company in another Member State is
+         incorporated into the basis of assessment of the business tax payable by the former company.
+      
+That provision, read in the light of recitals to in the preamble to that directive, aims to avoid legal double taxation
+         of cross-border payments of interest by prohibiting the taxation of interest in the source Member State to the detriment of
+         the actual beneficial owner. It thus concerns solely the tax position of the interest creditor. The provisions of national
+         law on the basis of assessment of the payer of the interest, such as the rules on the deductibility of certain expenditure
+         and the nature of that expenditure, thus form part of the fiscal policy of each Member State.
+      
+So, in the absence of a provision governing the rules for calculating the basis of assessment of the payer of interest, the
+         scope of Article 1(1) of Directive 2003/cannot extend beyond the exemption it lays down.
+      
+(see paras 28, 33-34, 36, operative part)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+July (*)
+      
+(Taxation – Directive 2003/49/EC – Common system of taxation applicable to interest and royalty payments made between associated companies of different Member
+         States – Business tax – Determination of the basis of assessment)
+      
+In Case C‑397/09,
+REFERENCE for a preliminary ruling under Article EC from the Bundesfinanzhof (Germany), made by decision of May 2009,
+         received at the Court on October 2009, in the proceedings
+      
+Scheuten Solar Technology GmbH
+v
+Finanzamt Gelsenkirchen-Süd,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, D. Šváby, R. Silva de Lapuerta (Rapporteur), E. Juhász and T. von Danwitz,
+         Judges,
+      
+Advocate General: E. Sharpston,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on September 2010,
+after considering the observations submitted on behalf of:
+–        Scheuten Solar Technology GmbH, by K. von Brocke, Rechtsanwalt, and A. Küntscher, Steuerberaterin,
+–        Finanzamt Gelsenkirchen-Süd, by R. Rasche, acting as Agent,
+–        the German Government, by J. Möller and C. Blaschke, acting as Agents,
+–        the Belgian Government, by M. Jacobs and J.‑C. Halleux, acting as Agents,
+–        the Danish Government, by V. Pasternak Jørgensen and C. Vang, acting as Agents,
+–        the Estonian Government, by M. Linntam, acting as Agent,
+–        the Italian Government, by G. Palmieri, acting as Agent, and S. Fiorentino, avvocato dello Stato,
+–        the Netherlands Government, by C. Wissels and J. Langer, acting as Agents,
+–        the Portuguese Government, by L. Inez Fernandes, acting as Agent,
+–        the Swedish Government, by A. Falk and S. Johannesson, acting as Agents,
+–        the United Kingdom Government, by L. Seeboruth, acting as Agent,
+–        the European Commission, by R. Lyal and W. Mölls, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2011,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article of Council Directive 2003/49/EC of June
+         on a common system of taxation applicable to interest and royalty payments made between associated companies of different
+         Member States (OJ L 157, p. 49).
+      
+The reference has been made in proceedings between Scheuten Solar Technology GmbH (‘SST’) and Finanzamt Gelsenkirchen-Süd
+         (Gelsenkirchen-Süd Tax Office, ‘the Finanzamt’) concerning the determination of the basis of calculation of business tax.
+      
+ Legal context
+ European Union law
+Article of Directive 2003/provides:
+      
+‘1.      Interest or royalty payments arising in a Member State shall be exempt from any taxes imposed on those payments in that State,
+         whether by deduction at source or by assessment, provided that the beneficial owner of the interest or royalties is a company
+         of another Member State or a permanent establishment situated in another Member State of a company of a Member State.
+      
+2.      A payment made by a company of a Member State or by a permanent establishment situated in another Member State shall be deemed
+         to arise in that Member State, hereafter referred to as the “source State”.
+      
+…
+4.      A company of a Member State shall be treated as the beneficial owner of interest or royalties only if it receives those payments
+         for its own benefit and not as an intermediary, such as an agent, trustee or authorised signatory, for some other person.
+      
+…
+7.      This Article shall apply only if the company which is the payer, or the company whose permanent establishment is treated as
+         the payer, of interest or royalties is an associated company of the company which is the beneficial owner, or whose permanent
+         establishment is treated as the beneficial owner, of that interest or those royalties.
+      
+…
+10.      A Member State shall have the option of not applying this Directive to a company of another Member State or to a permanent
+         establishment of a company of another Member State in circumstances where the conditions set out in Article 3(b) have not
+         been maintained for an uninterrupted period of at least two years.
+      
+…’
+Article of that directive provides:
+      
+‘For the purposes of this Directive:
+(a)      the term “interest” means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying
+         a right to participate in the debtor’s profits, and in particular, income from securities and income from bonds or debentures,
+         including premiums and prizes attaching to such securities, bonds or debentures; penalty charges for late payment shall not
+         be regarded as interest;
+      
+…’
+Article 3(b) of that directive provides:
+      
+‘For the purposes of this Directive:
+…
+(b)      a company is an “associated company” of a second company if, at least:
+(i)      the first company has a direct minimum holding of 25% in the capital of the second company, or
+(ii)      the second company has a direct minimum holding of 25% in the capital of the first company, or
+(iii) a third company has a direct minimum holding of 25% both in the capital of the first company and in the capital of the second
+         company.
+      
+Holdings must involve only companies resident in Community territory.
+…’
+Article of the directive reads as follows:
+      
+‘1.      The source State shall not be obliged to ensure the benefits of this Directive in the following cases:
+(a)      payments which are treated as a distribution of profits or as a repayment of capital under the law of the source State;
+…
+2.      Where, by reason of a special relationship between the payer and the beneficial owner of interest or royalties, or between
+         one of them and some other person, the amount of the interest or royalties exceeds the amount which would have been agreed
+         by the payer and the beneficial owner in the absence of such a relationship, the provisions of this Directive shall apply
+         only to the latter amount, if any.’
+      
+ National law
+Under Paragraph of the Law on business tax of (Gewerbesteuergesetz 2002, BGBl. I, p. 4167), in the material version
+         for the main proceedings (‘the Law on business tax’), all business operations, in addition to income or corporation tax, are
+         subject to business tax if they are carried on in national territory.
+      
+Paragraph 2(1) and (2) read as follows:
+      
+‘1.      Every fixed business operation is subject to business tax if it is operated in Germany. Business operation means a commercial
+         undertaking within the meaning of the Law on income tax. A business operation is operated in Germany if a place of business
+         is maintained for it in Germany or on board a merchant ship registered in a German register of shipping.
+      
+2.      The activity of capital companies (in particular share companies, partnerships limited by shares, limited liability companies)
+         … is always regarded in its entirety as a business operation. …’
+      
+Under Paragraph of that law, the basis of assessment of business tax is the business profit of the taxpayer.
+      
+Business profit is defined as follows in Paragraph 7(1) of the law:
+      
+‘Business profit is the profit, to be ascertained in accordance with the provisions of the Law on income tax or the Law on
+         corporation tax, from the business operation … increased and reduced by the amounts indicated in Paragraphs and 9.’
+      
+Paragraph of the law, ‘Additions’, states:
+      
+‘The following amounts are added back to the profit from the business operation (Paragraph 7) if they have been deducted when
+         ascertaining the profit:
+      
+1.      Half of the payments for debts which are connected economically with the foundation or acquisition of the operation (or part
+         operation) or a share in the operation or with the expansion or improvement of the operation or serve the non-temporary increase
+         of operating capital’.
+      
+Paragraph 10a of the law provides that, to determine the basis of assessment of business tax, losses are to be deducted from
+         the profit calculated in accordance with Paragraph of the law.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+SST is a limited liability company incorporated under German law and established in Gelsenkirchen. It is wholly owned by Scheuten
+         Solar Systems BV, a Netherlands limited liability company established in Venlo (Netherlands).
+      
+From August to December 2004, under a number of successive contracts, SST obtained loans from its parent company
+         amounting in total to EUR 000. For those loans SST in paid its parent company EUR as interest. That amount
+         was deducted by SST from its profit, as operating expenditure.
+      
+The Finanzamt, in its decision assessing the basis of calculation of business tax for 2004, taken pursuant to Paragraph 8(1)
+         of the Law on business tax, found, however, that SST was entitled to deduct from its profit only 50% of that interest, so
+         that half of the sum of EUR was added to SST’s business profit.
+      
+SST brought proceedings against the Finanzamt’s decision, arguing that the addition of half the interest constituted taxation
+         contrary to Article 1(1) of Directive 2003/49.
+      
+By judgment of February 2008, the Finanzgericht Münster (Finance Court, Münster) dismissed the action.
+      
+SST thereupon appealed on a point of law to the Bundesfinanzhof (Federal Finance Court).
+      
+The Bundesfinanzhof, raising the question of the compatibility of the relevant provisions of national law with Directive 2003/49,
+         decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+      
+‘(1)      Does Article 1(1) of [Directive 2003/49] preclude a provision under which loan interest paid by a company of one Member State
+         to an associated company of another Member State is added to the basis of assessment to business tax for the first company?
+      
+(2)      If so, is Article 1(10) of Directive 2003/to be interpreted as meaning that a Member State has the option of not applying
+         the directive where the conditions set out in Article 3(b) in relation to the existence of an associated company have not
+         yet been maintained for an uninterrupted period of at least two years at the time of payment of the interest?
+      
+Can the Member States rely, in respect of the paying company, directly on Article 1(10) of Directive 2003/in those circumstances?’
+ Consideration of the questions referred
+ Question By this question the referring court asks essentially whether Article 1(1) of Directive 2003/must be interpreted as precluding
+         a provision of national tax law under which loan interest paid by a company established in one Member State to an associated
+         company in another Member State is incorporated into the basis of assessment of the business tax payable by the former company.
+      
+The Court begins by noting that, in the case at issue in the main proceedings, SST was charged business tax on its business
+         profit. In determining the basis of assessment of that tax, the Finanzamt, in accordance with the national legislation at
+         issue in the main proceedings, added to SST’s profit half the interest paid by that company to its parent company in the Netherlands.
+      
+According to SST, that effectively constitutes an imposition of tax, so that the national legislation at issue in the main
+         proceedings leads to economic double taxation of the interest that is not compatible with Article 1(1) of Directive 2003/49.
+         By contrast, the other parties which have submitted observations to the Court all consider that that legislation does not
+         fall within the scope of that provision, and consequently propose that the question should be answered in the negative.
+      
+In those circumstances, the Court must determine the scope of that provision.
+      
+Recitals to in the preamble to Directive 2003/state that the aim of the directive is that double taxation should be
+         eliminated with respect to interest and royalty payments between associated companies of different Member States, and that
+         such payments should be subject to tax once in a single Member State. According to those recitals, the abolition of all taxation
+         of those payments in the Member State where they arise is the most appropriate means of ensuring equality of tax treatment
+         as between national and cross-border transactions.
+      
+The scope of Directive 2003/49, as defined in Article 1(1) of the directive, thus concerns the exemption of interest and royalty
+         payments arising in their source Member State, provided that the beneficial owner is a company of another Member State or
+         a permanent establishment situated in another Member State of a company of a Member State.
+      
+The rule laid down in that provision seeks to ensure that the beneficial owner of the interest and royalties arising in a
+         Member State other than that in which it is established is exempted from all taxation in the source State of those payments.
+         The wording of Article 1(1) of Directive 2003/49, with its use of the subordinate conjunction ‘provided that’, sets up a link
+         between the payment of such interest and royalties in one Member State and the receipt of those payments by the beneficial
+         owner in another Member State.
+      
+In this respect, Article 2(a) of Directive 2003/defines that interest as ‘income from debt-claims of every kind’. Only
+         the actual beneficial owner can receive interest which constitutes income from such claims.
+      
+It follows that Article 1(1) of Directive 2003/49, read in the light of recitals to in the preamble to the directive,
+         aims to avoid legal double taxation of cross-border payments of interest by prohibiting the taxation of interest in the source
+         Member State to the detriment of the actual beneficial owner. That provision thus concerns solely the tax position of the
+         interest creditor.
+      
+It should be added that that interpretation of Article 1(1) of Directive 2003/is borne out by Article 1(10), which authorises
+         the Member States, on certain conditions, not to grant the exemption provided for in Article 1(1). The entities to which Article
+         1(10) of the directive is capable of applying are identified there as a ‘company of another Member State or … a permanent
+         establishment of a company of another Member State’. There is no reference in that provision to the payer of the interest.
+         It therefore follows from that derogation that it is the beneficial owner of the interest or royalties in another Member State
+         which is concerned by the derogation, not the entity which owes the interest or royalties.
+      
+National legislation such as that at issue in the main proceedings does not lead to a reduction of the creditor’s income.
+         It does not subject the interest paid to any taxation in the hands of the beneficial owner of the interest. The legislation
+         at issue relates only to the determination of the basis of assessment of the business tax to be paid in this case by the debtor
+         of the interest.
+      
+It must be pointed out here that the method of calculating the basis of assessment of the payer of the interest and the elements
+         to be taken into account for that purpose, such as the taking of certain expenditure into consideration when performing that
+         calculation, are not the subject of Article 1(1) of Directive 2003/49.
+      
+As regards the national legislation at issue in the main proceedings, the particular features of the business tax at issue
+         are that the business profit is first determined in accordance with the Law on income tax and the Law on corporation tax,
+         and that certain amounts are then added or deducted. The additions relate only to amounts which were deducted in the first
+         stage of the calculation.
+      
+The provisions of national law on the basis of assessment of the payer of the interest, such as the rules on the deductibility
+         of certain expenditure and the nature of that expenditure, follow particular legislative policies which form part of the fiscal
+         policy of each Member State.
+      
+So, in the absence of a provision governing the rules for calculating the basis of assessment of the payer of interest, the
+         scope of Article 1(1) of Directive 2003/cannot extend beyond the exemption it lays down.
+      
+Finally, as to the possible relevance of the Court’s case-law on Council Directive 90/435/EEC of July on the common
+         system of taxation applicable in the case of parent companies and subsidiaries of different Member States (OJ L 225,
+         p. 6), it suffices to note that, as the Advocate General observes in points to of her Opinion, there is nothing in the
+         judgments in Case C‑294/Athinaiki Zithopiia [2001] ECR I‑and Case C‑284/Burda [2008] ECR I‑that could be of assistance in the interpretation of Article 1(1) of Directive 2003/in relation to national
+         legislation such as that at issue in the main proceedings. In those cases, it was the distribution of profits by a subsidiary
+         to its parent company that was the event that gave rise to the tax in question. By contrast, the payments of interest at issue
+         in the main proceedings do not constitute chargeable events for tax. The provisions of national law at issue in the main proceedings
+         concern only the deductibility of such payments as expenditure for the purpose of calculating the basis of assessment of business
+         tax.
+      
+It follows from all the foregoing that the answer to Question is that Article 1(1) of Directive 2003/must be interpreted
+         as not precluding a provision of national tax law under which loan interest paid by a company established in one Member State
+         to an associated company in another Member State is incorporated into the basis of assessment of the business tax payable
+         by the former company.
+      
+ Question In view of the answer to Question 1, there is no need to answer Question 2.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+Article 1(1) of Council Directive 2003/49/EC of June on a common system of taxation applicable to interest and royalty
+            payments made between associated companies of different Member States must be interpreted as not precluding a provision of
+            national tax law under which loan interest paid by a company established in one Member State to an associated company in another
+            Member State is incorporated into the basis of assessment of the business tax payable by the former company.
+[Signatures]
+*  Language of the case: German.
+      
+Top  
+ 

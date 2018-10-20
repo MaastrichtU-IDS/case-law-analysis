@@ -1,0 +1,429 @@
+
+Case C-203/Sporting Exchange Ltd, trading as ‘Betfair’
+v
+Minister van Justitie
+(Reference for a preliminary ruling from the Raad van State)
+(Article EC – Restrictions on the freedom to provide services – Games of chance – Offer of games of chance via the internet – Legislation reserving a licence to a single operator – Renewal of licence without subjecting the matter to competition – Principle of equal treatment and obligation of transparency – Application in the field of games of chance)
+Summary of the Judgment
+1.        Freedom to provide services – Restrictions – Games of chance
+(Art. EC)
+2.        Freedom to provide services – Restrictions – Games of chance
+(Art. EC)
+1.        Article EC must be interpreted as not precluding legislation of a Member State under which exclusive rights to organise
+         and promote games of chance are conferred on a single operator, and which prohibits any other operator, including an operator
+         established in another Member State, from offering via the internet services within the scope of that regime in the territory
+         of the first Member State.
+      
+Since the internet gaming industry has not been the subject of harmonisation within the European Union, a Member State is
+         entitled to take the view that the mere fact that an operator lawfully offers services in that sector via the internet in
+         another Member State, in which it is established and where it is in principle already subject to statutory conditions and
+         controls on the part of the competent authorities in that State, cannot be regarded as amounting to a sufficient assurance
+         that national consumers will be protected against the risks of fraud and crime, in the light of the difficulties liable to
+         be encountered in such a context by the authorities of the Member State of establishment in assessing the professional qualities
+         and integrity of operators. In addition, because of the lack of direct contact between consumer and operator, games of chance
+         accessible via the internet involve different and more substantial risks of fraud by operators against consumers compared
+         with the traditional markets for such games. In the light of the specific features associated with the provision of games
+         of chance via the internet, that restriction may therefore be regarded as justified by the objective of combating fraud and
+         crime.
+      
+(see paras 33-34, 36-37, operative part 1)
+2.        Article EC must be interpreted as meaning that the principle of equal treatment and the consequent obligation of transparency
+         are applicable to procedures for the grant of a licence to a single operator or for the renewal thereof in the field of games
+         of chance, in so far as the operator in question is not a public operator whose management is subject to direct State supervision
+         or a private operator whose activities are subject to strict control by the public authorities.
+      
+As European Union law now stands, service concession contracts are not governed by any of the directives by which the Union
+         legislature has regulated the field of public procurement. However, if a prior administrative authorisation scheme such as
+         one prohibiting the organisation or promotion of games of chance without such authorisation and granting only one licence
+         in respect of each of the games authorised is to be justified, even though it derogates from a fundamental freedom, it must
+         be based on objective, non-discriminatory criteria known in advance, in such a way as to circumscribe the exercise of the
+         authorities’ discretion so that it is not used arbitrarily. Furthermore, any person affected by a restrictive measure based
+         on such a derogation must have an effective judicial remedy available to them.
+      
+(see paras 39, 43, 50, 62, operative part 2)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+June (*)
+      
+(Article EC – Restrictions on the freedom to provide services – Games of chance – Offer of games of chance via the internet – Legislation reserving a licence to a single operator – Renewal of licence without subjecting the matter to competition – Principle of equal treatment and obligation of transparency – Application in the field of games of chance)
+In Case C‑203/08,
+REFERENCE for a preliminary ruling under Article EC from the Raad van State (Netherlands), made by decision of May
+         2008, received at the Court on May 2008, in the proceedings
+      
+Sporting Exchange Ltd, trading as ‘Betfair’,
+      
+v
+Minister van Justitie,
+intervening party:
+Stichting de Nationale Sporttotalisator,
+THE COURT (Second Chamber),
+composed of J.N. Cunha Rodrigues (Rapporteur), President of the Chamber, P. Lindh, A. Rosas, U. Lõhmus and A. Arabadjiev,
+         Judges,
+      
+Advocate General: Y. Bot,
+Registrar: R. Şereş, Administrator,
+having regard to the written procedure and further to the hearing on November 2009,
+after considering the observations submitted on behalf of:
+–        Sporting Exchange Ltd, trading as ‘Betfair’, by I. Scholten-Verheijen, O. Brouwer, A. Stoffer and J. Franssen, advocaten,
+–        Stichting de Nationale Sporttotalisator, by W. Geursen, E. Pijnacker Hordijk and M. van Wissen, advocaten,
+–        the Netherlands Government, by C. Wissels, M. de Grave and Y. de Vries, acting as Agents,
+–        the Belgian Government, by A. Hubert and L. Van den Broeck, acting as Agents, and by P. Vlaemminck, advocaat,
+–        the Danish Government, by J. Bering Liisberg and V. Pasternak Jørgensen, acting as Agents,
+–        the German Government, by M. Lumma, acting as Agent,
+–        the Greek Government, by M. Tassopoulou, Z. Chatzipavlou and A. Samoni-Rantou, acting as Agents,
+–        the Spanish Government, by F. Díez Moreno, acting as Agent,
+–        the Austrian Government, by C. Pesendorfer, acting as Agent,
+–        the Portuguese Government, by L. Inez Fernandes, P. Mateus Calado and A. Barros, acting as Agents,
+–        the Finnish Government, by A. Guimaraes-Purokoski and J. Heliskoski, acting as Agents,
+–        the Norwegian Government, by P. Wennerås and K. Moen, acting as Agents,
+–        the Commission of the European Communities, by E. Traversa, A. Nijenhuis and S. Noë, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2009,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article EC.
+      
+The reference has been made in proceedings between Sporting Exchange Ltd, a company trading as ‘Betfair’ established in the
+         United Kingdom (‘Betfair’), and the Minister van Justitie (Minister for Justice; ‘the Minister’) concerning the latter’s rejection
+         of (i) Betfair’s applications for a licence to organise games of chance in the Netherlands, and (ii) Betfair’s objections
+         to licences granted to two other operators.
+      
+ National legal context
+Article of the Law on games of chance (Wet op de kansspelen; ‘the Wok’) provides:
+      
+‘Subject to the provisions of Title Va of this Law, the following are prohibited:
+(a)      providing an opportunity to compete for prizes if the winners are designated by means of any calculation of probability over
+         which the participants are generally unable to exercise a dominant influence, unless a licence therefor has been granted pursuant
+         to this Law;
+      
+(b)      promoting participation either in an opportunity as referred to under (a), provided without a licence pursuant to this Law,
+         or in a similar opportunity, provided outside the Kingdom of the Netherlands in Europe, or to maintain a stock of materials
+         intended to publicise or disseminate knowledge of such opportunities; …’
+      
+Article 16(1) of the Wok is worded as follows:
+      
+‘The Minister for Justice and the Minister for Welfare, Public Health and Culture may grant to one legal person with full
+         legal capacity a licence, for a period to be determined by them, to organise sports-related prize competitions in the interests
+         of bodies operating for public benefit, particularly in the area of sport and physical education, culture, social welfare
+         and public health.’
+      
+Article of the Wok states:
+      
+‘1.      A licence to organise a totalisator may be granted only in accordance with the provisions of this Title.
+2.      “Totalisator” shall mean any opportunity provided to bet on the outcome of trotting or other horse races, on the understanding
+         that the total stake, apart from any deduction permitted by or by virtue of the law, will be distributed among those who have
+         bet on the winner or on one of the prize winners.’
+      
+According to Article of the Wok, the Minister for Agriculture and Fisheries and the Minister for Justice may grant to one
+         legal person with full legal capacity a licence to organise a totalisator for a period to be determined by them.
+      
+Article of the Wok provides:
+      
+‘1.      The Ministers referred to in Article shall impose certain conditions on a licence to organise a totalisator.
+2.      Those conditions relate, inter alia, to:
+a.      the number of trotting and other horse races;
+b.      the maximum stake per person;
+c.      the percentage retained before distribution among the winners and the particular use of that percentage;
+d.      the supervision of the application of the Law by the authorities;
+e.      the obligation to prevent or take measures to prevent, so far as possible, unauthorised betting or the use of intermediaries
+         at venues where trotting or other horse races take place.
+      
+3.      The conditions may be amended or supplemented.’
+Under Article of the Wok:
+      
+‘A licence granted in accordance with Article may be withdrawn before its expiry by the Ministers referred to in that article
+         in the event of a breach of the conditions imposed pursuant to Article 25.’
+      
+Article of the Wok prohibits the offer or provision to the public of an intermediary service in the placing of bets with
+         the operator of a totalisator.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+Netherlands legislation in relation to games of chance is based on a system of exclusive licences under which (i) the organisation
+         or promotion of games of chance is prohibited unless an administrative licence for that purpose has been issued, and (ii)
+         only one licence is granted by the national authorities in respect of each of the games of chance authorised.
+      
+Furthermore, it is apparent from the case-file in the main proceedings as supplied to the Court by the referring court that
+         there is no possibility at all of offering games of chance interactively via the internet in the Netherlands.
+      
+The Stichting de Nationale Sporttotalisator (‘De Lotto’), which is a non-profit-making foundation governed by private law,
+         has held the licence for the organisation of sports-related prize competitions, the lottery and numbers games since 1961.
+         The licence for the organisation of a totalisator on the outcome of horse races was granted to a limited company, Scientific
+         Games Racing BV (‘SGR’), which is a subsidiary of Scientific Games Corporation Inc., a company established in the United States.
+      
+It is apparent from the case-file submitted to the Court that, according to De Lotto’s constitution, its objects are the collection
+         of funds by means of the organisation of games of chance and the distribution of those funds among institutions working in
+         the public interest, particularly in the fields of sport, physical education, general welfare, public health and culture.
+         De Lotto is managed by a five-member commission whose chairman is appointed by the Minister. The other members are designated
+         by the Stichting Aanwending Loterijgelden Nederland (Foundation for the Use of Lottery Funds) and by the Nederlands Olympisch
+         Comité/Nederlandse Sport Federatie (Netherlands Olympic Committee/Netherlands Sports Federation).
+      
+Betfair operates within the gaming sector. Its services are provided solely via the internet and by telephone. From the United
+         Kingdom, it provides the recipients of its services with a platform for betting on sporting events and horse races, known
+         as a ‘betting exchange’, on the basis of British and Maltese licences. Betfair has no office or sales outlet in the Netherlands.
+      
+As Betfair wished actively to offer its services on the Netherlands market, it requested the Minister to determine whether
+         it required a licence in order to carry on such activities. It also applied to the Minister for a licence to organise sports-related
+         prize competitions and a totalisator on the outcome of horse races, whether or not via the internet. By decision of April
+         2004, the Minister refused those requests.
+      
+The objection lodged in respect of that decision was dismissed by the Minister on August 2004. In particular, the Minister
+         took the view that the Wok provides for a closed system of licences which does not allow for the possibility of licences being
+         granted to provide opportunities for participating in games of chance via the internet. As Betfair could not obtain a licence
+         for its current internet activities under the Wok, it was prohibited from offering those services to recipients established
+         in the Netherlands.
+      
+Betfair also lodged two objections to the Minister’s decisions of December and June concerning the renewal
+         of licences granted to De Lotto and to SGR, respectively.
+      
+Those objections were dismissed by decisions of the Minister dated March and November 2005, respectively.
+      
+By judgment of December 2006, the Rechtbank ’s-Gravenhage (District Court, The Hague) declared Betfair’s appeals against
+         the dismissal decisions referred to above to be unfounded. Betfair subsequently appealed against that judgment to the Raad
+         van State (Council of State).
+      
+In its appeal, Betfair submitted, in essence, that the Netherlands authorities were obliged (i) to recognise the licence which
+         it held in the United Kingdom, and (ii) on the basis of the judgment in Case C‑260/Commission v Italy [2007] ECR I‑7083, to respect the principle of transparency when granting a licence for the provision of games of chance.
+      
+The Raad van State took the view that an interpretation of European Union law was required to enable it to determine the dispute
+         before it, and decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary
+         ruling:
+      
+‘(1)      Should Article EC be interpreted as meaning that, where a closed licensing system is applied in a Member State to the provision
+         of services relating to games of chance, the application of that article precludes the competent authority of that Member
+         State from prohibiting a service provider to whom a licence has already been granted in another Member State to provide those
+         services via the internet from also offering those services via the internet in the first Member State?
+      
+(2)      Is the interpretation which the Court of Justice has given to Article EC, and in particular to the principle of equality
+         and the obligation of transparency arising therefrom, in a number of individual cases concerning concessions applicable to
+         the procedure for the granting of a licence to offer services relating to games of chance under a statutorily established
+         single-licence system?
+      
+(3)      (a)   Under a statutorily established single-licence system, can the extension of the licence of the existing licence-holder, without
+         potential applicants being given an opportunity to compete for that licence, be a suitable and proportionate means of meeting
+         the overriding reasons in the public interest which the Court of Justice has recognised as justifying restriction of the freedom
+         to provide services in respect of games of chance? If so, under what conditions?
+      
+         (b)   Does it make a difference to the answer to Question 3(a) whether Question is answered in the affirmative or the negative?’
+ Consideration of the questions referred
+ The first question
+By its first question, the national court asks, in essence, whether Article EC must be interpreted as precluding legislation
+         of a Member State, such as the legislation at issue in the main proceedings, under which exclusive rights to organise and
+         promote games of chance are conferred on a single operator, and which prohibits any other operator, including an operator
+         established in another Member State, from offering via the internet services within the scope of that regime in the territory
+         of the first Member State.
+      
+Article EC requires the abolition of all restrictions on the freedom to provide services, even if those restrictions apply
+         without distinction to national providers of services and to those from other Member States, when they are liable to prohibit,
+         impede or render less advantageous the activities of a service provider established in another Member State where it lawfully
+         provides similar services. The freedom to provide services is for the benefit of both providers and recipients of services
+         (Case C‑42/Liga Portuguesa de Futebol Profissional and Bwin International [2009] ECR I‑0000, paragraph and the case-law cited).
+      
+It is common ground that legislation of a Member State such as the legislation at issue in the main proceedings constitutes
+         a restriction on the freedom to provide services enshrined in Article EC (see, to that effect, Liga Portuguesa de Futebol Profissional and Bwin International, paragraph 52, and Case C‑258/Ladbrokes Betting & Gaming and Ladbrokes International [2010] ECR I‑0000, paragraph 16).
+      
+However, it is necessary to assess whether such a restriction may be allowed as a derogation expressly provided for by Articles
+         EC and EC, applicable in this area by virtue of Article EC, or justified, in accordance with the case-law of the
+         Court, by overriding reasons in the public interest (see, to that effect, Liga Portuguesa de Futebol Profissional and Bwin International, paragraph 55).
+      
+Article 46(1) EC allows restrictions justified on grounds of public policy, public security or public health. A certain number
+         of overriding reasons in the public interest which may also justify such restrictions have been recognised by the case-law
+         of the Court, including, in particular, the objectives of consumer protection and the prevention of both fraud and incitement
+         to squander money on gambling, as well as the general need to preserve public order (Liga Portuguesa de Futebol Profissional and Bwin International, paragraph 56).
+      
+In that context, moral, religious or cultural factors, as well as the morally and financially harmful consequences for the
+         individual and for society associated with betting and gaming, may serve to justify a margin of discretion for the national
+         authorities, sufficient to enable them to determine what is required in order to ensure consumer protection and the preservation
+         of public order (Case C‑243/Gambelli and Others [2003] ECR I‑13031, paragraph 63, and Joined Cases C‑338/04, C‑359/and C‑360/Placanica and Others [2007] ECR I‑1891, paragraph 47).
+      
+The Member States are free to set the objectives of their policy on betting and gambling according to their own scale of values
+         and, where appropriate, to define in detail the level of protection sought. The restrictive measures that they impose must,
+         however, satisfy the conditions laid down in the case-law of the Court, in particular as regards their proportionality (see,
+         to that effect, Placanica and Others, paragraph 48, and Liga Portuguesa de Futebol Profissional and Bwin International, paragraph 59).
+      
+According to the case-law of the Court, it is for the national courts to determine whether Member States’ legislation actually
+         serves the objectives which might justify it and whether the restrictions it imposes do not appear disproportionate in the
+         light of those objectives (Gambelli and Others, paragraph 75, and Placanica and Others, paragraph 58).
+      
+Referring specifically to the judgments in Gambelli and Others and Placanica and Others, the national court found that the objectives – of ensuring the protection of consumers and combating both crime and gambling
+         addiction – underpinning the system of exclusive licences provided for by the Wok can be regarded as overriding reasons in
+         the public interest within the meaning of the case-law of the Court.
+      
+The national court also considers that the restrictions which result from that system are neither disproportionate nor applied
+         in a discriminatory way. As regards proportionality, specifically, it states that the fact that only one operator is licensed
+         simplifies not only the supervision of that operator, thus enabling monitoring of the rules associated with licences to be
+         more effective, but also prevents strong competition from arising between licensees and resulting in an increase in gambling
+         addiction. The national court adds that no distinction is made in the application of the prohibition against anyone other
+         than the licensee offering games of chance as between undertakings established in the Netherlands and those whose seats are
+         in other Member States.
+      
+The national court’s doubts arise from the fact that, in the main proceedings, Betfair claims that it does not need to be
+         the holder of a licence issued by the Netherlands authorities in order to offer its sports betting services via the internet
+         to betters residing in the Netherlands. The Kingdom of the Netherlands is obliged to recognise the licences which have been
+         granted to Betfair by other Member States.
+      
+It should be noted in that regard that the internet gaming industry has not been the subject of harmonisation within the European
+         Union. A Member State is therefore entitled to take the view that the mere fact that an operator such as Betfair lawfully
+         offers services in that sector via the internet in another Member State, in which it is established and where it is in principle
+         already subject to statutory conditions and controls on the part of the competent authorities in that State, cannot be regarded
+         as amounting to a sufficient assurance that national consumers will be protected against the risks of fraud and crime, in
+         the light of the difficulties liable to be encountered in such a context by the authorities of the Member State of establishment
+         in assessing the professional qualities and integrity of operators (see, to that effect, Liga Portuguesa de Futebol Profissional and Bwin International, paragraph 69).
+      
+In addition, because of the lack of direct contact between consumer and operator, games of chance accessible via the internet
+         involve different and more substantial risks of fraud by operators against consumers compared with the traditional markets
+         for such games (Liga Portuguesa de Futebol Profissional and Bwin International, paragraph 70).
+      
+The fact that an operator who offers games of chance via the internet does not pursue an active sales policy in the Member
+         State concerned, particularly because he is not making use of advertising in that State, cannot be regarded as running counter
+         to the considerations set out in the two preceding paragraphs. Those considerations are based solely on the effects of the
+         mere accessibility of games of chance via the internet and not on the potentially different consequences of the active or
+         passive provision of services by that operator.
+      
+It follows that, in the light of the specific features associated with the provision of games of chance via the internet,
+         the restriction at issue in the main proceedings may be regarded as justified by the objective of combating fraud and crime
+         (Liga Portuguesa de Futebol Profissional and Bwin International, paragraph 72).
+      
+Therefore, the answer to the first question is that Article EC must be interpreted as not precluding legislation of a Member
+         State, such as the legislation at issue in the main proceedings, under which exclusive rights to organise and promote games
+         of chance are conferred on a single operator, and which prohibits any other operator, including an operator established in
+         another Member State, from offering via the internet services within the scope of that regime in the territory of the first
+         Member State.
+      
+ The second and third questions
+By its second and third questions, which should be examined together, the national court asks whether the case-law developed
+         by the Court in relation to the interpretation of Article EC and to the principle of equal treatment, and the consequent
+         obligation of transparency, in the field of service concessions is applicable to the procedure for the grant of a licence
+         to a single operator in the field of games of chance. Moreover, it asks whether the renewal of that licence without competitive
+         tendering can be a suitable and proportionate means of meeting objectives based on overriding reasons in the public interest.
+      
+As European Union law now stands, service concession contracts are not governed by any of the directives by which the Union
+         legislature has regulated the field of public procurement. However, the public authorities concluding them are bound to comply
+         with the fundamental rules of the EC Treaty in general, including Article EC and, in particular, the principles of equal
+         treatment and of non-discrimination on the ground of nationality and with the consequent obligation of transparency (see,
+         to that effect, Case C‑324/Telaustria and Telefonadress [2000] ECR I‑10745, paragraphs to 62; Case C‑206/Eurawasser [2009] ECR I‑0000, paragraph 44; and Case C‑91/Wall [2010] ECR I‑0000, paragraph 33). 
+      
+That obligation of transparency applies where the service concession in question may be of interest to an undertaking located
+         in a Member State other than that in which the concession is awarded (see, to that effect, Case C‑231/Coname [2005] ECR I‑7287, paragraph 17, and Wall, paragraph 34).
+      
+Without necessarily implying an obligation to launch an invitation to tender, that obligation of transparency requires the
+         concession-granting authority to ensure, for the benefit of any potential concessionaire, a degree of advertising sufficient
+         to enable the service concession to be opened up to competition and the impartiality of the procurement procedures to be reviewed
+         (see, to that effect, Case C‑324/Coditel Brabant [2008] ECR I‑8457, paragraph 25, and Wall, paragraph 36).
+      
+It follows both from the order for reference and from the wording of the second question put by the national court that the
+         intervention of the Netherlands public authorities that is designed to enable certain economic operators to provide services
+         in the field of games of chance in the Netherlands is considered by that court to be the issue of a single licence.
+      
+As indicated in paragraph of the present judgment, the Wok is based on a system of exclusive licences under which (i) the
+         organisation or promotion of games of chance is prohibited unless an administrative licence for that purpose has been issued,
+         and (ii) only one licence is granted by the national authorities in respect of each of the games of chance authorised.
+      
+The single licence constitutes an intervention by the public authorities, the purpose of which is to regulate the pursuit
+         of an economic activity which, in the present case, is the organisation of games of chance.
+      
+The decision granting the licence includes conditions imposed by those authorities relating, inter alia, to the maximum number
+         of sports-related prize competitions permitted per year, to the amounts thereof, to the distribution of net funds to bodies
+         operating for public benefit and to the relevant operator’s own income, inasmuch as the latter may keep only the amount of
+         costs incurred without making any profit. That operator is also authorised to establish a reserve fund every year, corresponding
+         to no more than 2.5% of funds obtained in the previous calendar year, in order to ensure the continuity of his activities.
+      
+The fact that the issue of a single licence is not the same as a service concession contract does not, in itself, justify
+         any failure to have regard to the requirements arising from Article EC, in particular the principle of equal treatment
+         and the obligation of transparency, when granting an administrative licence such as that at issue in the main proceedings.
+      
+As the Advocate General stated in points and of his Opinion, the obligation of transparency appears to be a mandatory
+         prior condition of the right of a Member State to award to an operator the exclusive right to carry on an economic activity,
+         irrespective of the method of selecting that operator. Such an obligation should apply in the context of a system whereby
+         the authorities of a Member State, by virtue of their public order powers, grant a licence to a single operator, because the
+         effects of such a licence on undertakings established in other Member States and potentially interested in that activity are
+         the same as those of a service concession contract.
+      
+As the answer to the first question shows, the Member States have sufficient discretion to determine the level of protection
+         sought in relation to games of chance and, consequently, it is open to them to choose a single-operator licensing system,
+         as in the case underlying the main proceedings.
+      
+Nevertheless, such a system cannot render legitimate discretionary conduct on the part of the national authorities which is
+         liable to negate the effectiveness of provisions of European Union law, in particular those relating to a fundamental freedom
+         such as the freedom to provide services.
+      
+It has consistently been held that if a prior administrative authorisation scheme is to be justified, even though it derogates
+         from a fundamental freedom, it must be based on objective, non-discriminatory criteria known in advance, in such a way as
+         to circumscribe the exercise of the authorities’ discretion so that it is not used arbitrarily (Case C‑389/Commission v France [2008] ECR I‑5397, paragraph 94, and Case C‑169/Hartlauer [2009] ECR I‑1721, paragraph 64). Furthermore, any person affected by a restrictive measure based on such a derogation must
+         have a judicial remedy available to them (see, to that effect, Case C‑205/Analir and Others [2001] ECR I‑1271, paragraph 38).
+      
+Compliance with the principle of equal treatment and with the consequent obligation of transparency necessarily means that
+         the objective criteria enabling the Member States’ competent authorities’ discretion to be circumscribed must be sufficiently
+         advertised.
+      
+With regard to the procedure for extending the exclusive licences granted pursuant to the Wok, the Netherlands Government
+         explained in its written observations that licences are always granted on a temporary basis, generally for periods of five
+         years. That approach is adopted in the interests of continuity, with fixed reference dates allowing decisions to be taken
+         as to whether any adjustment of the licence conditions may be justified.
+      
+It is common ground that, by the decisions of December and June 2005, the Minister renewed the licence granted
+         to De Lotto for a period of five years, and that granted to SGR for a period of three years, without any competitive tendering
+         procedure.
+      
+In that regard, there is no need to draw a distinction according to whether the restrictive effects of a single licence arise
+         from the grant of that licence in disregard of the requirements set out in paragraph of the present judgment or from the
+         renewal of such a licence under the same conditions.
+      
+A licence renewal procedure, such as that at issue in the main proceedings, which does not fulfil those conditions, in principle
+         precludes other operators from being able to express their interest in carrying on the activity concerned and, as a result,
+         those operators are prevented from enjoying their rights under European Union law, in particular the freedom to provide services
+         that is enshrined in Article EC.
+      
+The Netherlands Government observes that the referring court found that the restrictions resulting from the system of granting
+         licences to a single operator are justified by overriding reasons in the public interest, and that they are appropriate and
+         proportionate.
+      
+It should be pointed out, however, that the findings of the national court to which the Netherlands Government refers relate,
+         in general, to a system of exclusive licences as provided for by the Wok and not, specifically, to the procedure for the renewal
+         of a licence granted to an operator who has the exclusive right to organise and promote games of chance.
+      
+As the Advocate General observed in point of his Opinion, it is important to distinguish the effects of competition in
+         the market for games of chance, the detrimental nature of which may justify a restriction on the activity of economic operators,
+         from the effects of a call for tenders for the award of the contract in question. The detrimental nature of competition in
+         the market, that is to say, between several operators authorised to operate the same game of chance, arises from the fact
+         that those operators would be led to compete with each other in inventiveness in making what they offer more attractive and,
+         in that way, increasing consumers’ expenditure on gaming and the risks of their addiction. On the other hand, such consequences
+         are not to be feared at the stage of issuing a licence.
+      
+In any event, the restrictions on the fundamental freedom enshrined in Article EC which arise specifically from the procedures
+         for the grant of a licence to a single operator or for the renewal thereof, such as those at issue in the main proceedings,
+         may be regarded as being justified if the Member State concerned decides to grant a licence to, or renew the licence of, a
+         public operator whose management is subject to direct State supervision or a private operator whose activities are subject
+         to strict control by the public authorities (see, to that effect, Case C‑124/Läärä and Others [1999] ECR I‑6067, paragraphs and 42, and Liga Portuguesa de Futebol Profissional and Bwin International, paragraphs and 67).
+      
+In such situations, the grant to such an operator of exclusive rights to operate games of chance, or the renewal of such rights,
+         without any competitive tendering procedure would not appear to be disproportionate in the light of the objectives pursued
+         by the Wok.
+      
+It is for the national court to ascertain whether the holders of licences in the Netherlands for the organisation of games
+         of chance satisfy the conditions set out in paragraph of the present judgment.
+      
+In the light of the foregoing considerations, the answer to the second and third questions is that Article EC must be interpreted
+         as meaning that the principle of equal treatment and the consequent obligation of transparency are applicable to procedures
+         for the grant of a licence to a single operator or for the renewal thereof in the field of games of chance, in so far as the
+         operator in question is not a public operator whose management is subject to direct State supervision or a private operator
+         whose activities are subject to strict control by the public authorities.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+1.      Article EC must be interpreted as not precluding legislation of a Member State, such as the legislation at issue in the
+            main proceedings, under which exclusive rights to organise and promote games of chance are conferred on a single operator,
+            and which prohibits any other operator, including an operator established in another Member State, from offering via the internet
+            services within the scope of that regime in the territory of the first Member State.
+2.      Article EC must be interpreted as meaning that the principle of equal treatment and the consequent obligation of transparency
+            are applicable to procedures for the grant of a licence to a single operator or for the renewal thereof in the field of games
+            of chance, in so far as the operator in question is not a public operator whose management is subject to direct State supervision
+            or a private operator whose activities are subject to strict control by the public authorities.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 

@@ -1,0 +1,160 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+June (
+*)
+‛Copyright — Information Society — Directive 2001/29/EC — Article 5(1) and (5) — Reproduction — Exceptions and limitations — Creation of copies of an internet site on-screen and in the cache of the hard disk in the course of browsing the internet — Temporary act of reproduction — Transient or incidental act — Integral and essential part of a technological process — Lawful use — Independent economic significance’
+In Case C‑360/13,
+REQUEST for a preliminary ruling under Article TFEU from the Supreme Court of the United Kingdom (United Kingdom), made by decision of June 2013, received at the Court on June 2013, in the proceedings
+Public Relations Consultants Association Ltd
+v
+Newspaper Licensing Agency Ltd and Others,
+THE COURT (Fourth Chamber),
+composed of L. Bay Larsen, President of the Chamber, M. Safjan, J. Malenovský (Rapporteur), A. Prechal and K. Jürimäe, Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Public Relations Consultants Association Ltd, by M. Hart, Solicitor,
+—
+Newspaper Licensing Agency Ltd and Others, by S. Clark, Solicitor,
+—
+the United Kingdom Government, by L. Christie, acting as Agent,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and by M. Santoro, avvocato dello Stato,
+—
+the Polish Government, by B. Majczyna, acting as Agent,
+—
+the European Commission, by J. Samnadda, acting as Agent,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 5(1) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167, p. 10).
+The request has been made in proceedings between Public Relations Consultants Association Ltd (‘the PRCA’) and Newspaper Licensing Agency Ltd and Others (‘the NLA’) concerning the obligation to obtain authorisation from the copyright holders for the viewing of websites where this involves copies of those sites being made on the user’s computer screen and in the internet cache of that computer’s hard disk.
+Legal context
+EU law
+Recitals 5, 9, and in the preamble to Directive 2001/are worded as follows:
+‘(5)
+Technological development has multiplied and diversified the vectors for creation, production and exploitation. While no new concepts for the protection of intellectual property are needed, the current law on copyright and related rights should be adapted and supplemented to respond adequately to economic realities such as new forms of exploitation.
+…
+(9)
+Any harmonisation of copyright and related rights must take as a basis a high level of protection, since such rights are crucial to intellectual creation. …
+…
+(31)
+A fair balance of rights and interests between the different categories of rightholders, as well as between the different categories of rightholders and users of protected subject-matter, must be safeguarded. …
+…
+(33)
+The exclusive right of reproduction should be subject to an exception to allow certain acts of temporary reproduction, which are transient or incidental reproductions, forming an integral and essential part of a technological process and carried out for the sole purpose of enabling either efficient transmission in a network between third parties by an intermediary, or a lawful use of a work or other subject-matter to be made. The acts of reproduction concerned should have no separate economic value on their own. To the extent that they meet these conditions, this exception should include acts which enable browsing as well as acts of caching to take place, including those which enable transmission systems to function efficiently, provided that the intermediary does not modify the information and does not interfere with the lawful use of technology, widely recognised and used by industry, to obtain data on the use of the information. A use should be considered lawful where it is authorised by the rightholder or not restricted by law.’
+Article 2(a) of that directive states:
+‘Member States shall provide for the exclusive right to authorise or prohibit direct or indirect, temporary or permanent reproduction by any means and in any form, in whole or in part:
+(a)
+for authors, of their works …’.
+Under Article 5(1) and (5) of Directive 2001/29:
+‘1.   Temporary acts of reproduction referred to in Article 2, which are transient or incidental, which are an integral and essential part of a technological process and whose sole purpose is to enable:
+(a)
+a transmission in a network between third parties by an intermediary, or
+(b)
+lawful use
+of a work or other subject-matter to be made, and which have no independent economic significance, shall be exempted from the reproduction right provided for in Article 2.
+…
+5.   The exceptions and limitations provided for in paragraphs 1, 2, and shall only be applied in certain special cases which do not conflict with a normal exploitation of the work or other subject-matter and do not unreasonably prejudice the legitimate interests of the rightholder.’
+United Kingdom law
+Article 5(1) of Directive 2001/was transposed into national law by section 28A of the Copyright, Designs and Patents Act 1988.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+The PRCA is an association of public relations professionals. Those professionals use the media monitoring service offered by the Meltwater group of companies (‘Meltwater’), which makes available to them, online, monitoring reports on press articles published on the internet, those reports being compiled on the basis of key words provided by the customers.
+The NLA is a body set up by the publishers of newspapers in the United Kingdom for the purpose of providing collective licensing of newspaper content.
+The NLA took the view that Meltwater and its customers were required to obtain authorisation from the copyright holders for, respectively, providing and receiving the media monitoring service.
+Meltwater agreed to enter into a web database licence. The PRCA, however, maintained that the online receipt of the monitoring reports by Meltwater’s customers not require a licence.
+Seised of the dispute, the High Court of Justice (England & Wales), Chancery Division, and the Court of Appeal (England & Wales) held that the members of the PRCA were required to obtain a licence or consent from the NLA in order to receive Meltwater’s service.
+The PRCA brought an appeal against that decision before the Supreme Court of the United Kingdom, claiming, in particular, that its members do not need authorisation from rights holders when they confine themselves to viewing the monitoring reports on Meltwater’s website.
+The NLA contended that that activity requires the authorisation of the copyright holders, in so far as viewing the website leads to copies being made on the user’s computer screen (‘the on-screen copies’) and in the internet ‘cache’ of that computer’s hard disk (‘the cached copies’). It contends that those copies constitute ‘reproductions’, within the meaning of Article of Directive 2001/29, that do not come within the exemption provided for in Article 5(1) of that directive.
+The referring court observes that the proceedings before it concern the question whether internet users who view websites on their computers without downloading or printing them out are committing infringements of copyright by reason of the creation of on-screen copies and cached copies, unless they have the authorisation of the rights holders to make such copies.
+In this connection, the referring court states, first of all, that when an internet user views a website on his computer, without downloading it, the technical processes involved require the copies in question to be made. The creation of those copies is the automatic result of browsing the internet and requires no human intervention other than the decision to access the website in question. The on-screen copies and the cached copies are retained only for the ordinary duration of the processes associated with internet usage. In addition, the deletion of those copies does not require any human intervention. It is true that the cached copies may be deleted deliberately by the internet user concerned. However, if the internet user does not do this, those copies are normally replaced by other content after a certain time, which depends on the capacity of the cache and the extent and frequency of internet usage by the internet user concerned.
+Next, the referring court states that the on-screen copy is an essential part of the technology involved, without which the website cannot be viewed, and remains on the screen until the internet user moves away from the site in question. The internet cache is a universal feature inherent in current internet-browsing technology, without which the internet would be unable to cope with current volumes of online data transmission and would not function properly. The creation of on-screen copies and cached copies is therefore indispensable to the correct and efficient operation of the technical processes involved in internet browsing.
+Lastly, the referring court points out that, ordinarily, when an internet user browses the internet, he does not set out to make a copy of the image unless he chooses to download it or to print it out. His aim is to view the content of the website selected. The on-screen copies and the cached copies are therefore merely the incidental consequence of the use of his computer to view a website.
+In the light of those considerations, the referring court concluded that on-screen copies and cached copies satisfy the conditions laid down in Article 5(1) of Directive 2001/29. None the less, a request for a preliminary ruling to the Court would, it found, be desirable for the purpose of ensuring the uniform application of EU law throughout the territory of the European Union.
+In this connection, it explains that it is uncertain as to whether those copies are temporary, whether they are transient or incidental in nature and whether they are an integral part of the technological process. By contrast, it takes the view that such copies are bound to satisfy the other conditions laid down in Article 5(1) of Directive 2001/29.
+In those circumstances, the Supreme Court of the United Kingdom decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘In circumstances where:
+—
+an end-user views a web-page without downloading, printing or otherwise setting out to make a copy of it;
+—
+copies of that web-page are automatically made on screen and in the internet “cache” on the end-user’s [computer] hard disk;
+—
+the creation of those copies is indispensable to the technical processes involved in correct and efficient internet browsing;
+—
+the screen copy remains on screen until the end-user moves away from the relevant web-page, when it is automatically deleted by the normal operation of the computer;
+—
+the cached copy remains in the cache until it is overwritten by other material as the end-user views further web-pages, when it is automatically deleted by the normal operation of the computer; and
+—
+the copies are retained for no longer than the ordinary processes associated with internet use referred to [in the fourth and fifth indents] continue;
+are such copies (i) temporary, (ii) transient or incidental and (iii) an integral and essential part of the technological process within the meaning of Article 5(1) of Directive 2001/29/EC?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Article of Directive 2001/must be interpreted as meaning that the on-screen copies and the cached copies made by an end-user in the course of viewing a website satisfy the conditions that those copies must be temporary, that they must be transient or incidental in nature and that they must constitute an integral and essential part of a technological process, and, if so, whether those copies may be made without the authorisation of the copyright holders.
+Preliminary observations
+Under Article 5(1) of Directive 2001/29, an act of reproduction is exempted from the reproduction right provided for in Article of that directive on condition that:
+—
+it is temporary;
+—
+it is transient or incidental;
+—
+it is an integral and essential part of a technological process;
+—
+its sole purpose is to enable a transmission in a network between third parties by an intermediary or a lawful use of a work or other subject-matter to be made, and
+—
+it has no independent economic significance.
+According to the case-law of the Court, the conditions set out above must be interpreted strictly, because Article 5(1) of Directive 2001/is a derogation from the general rule established by that directive that the copyright holder must authorise any reproduction of his protected work (Case C‑5/Infopaq International, EU:C:2009:465, paragraphs and 57, and Joined Cases C‑403/and C‑429/Football Association Premier League and Others, EU:C:2011:631, paragraph 162).
+None the less, it is apparent from that same case-law that the exemption provided for in that provision must allow and ensure the development and operation of new technologies, and safeguard a fair balance between the rights and interests of rights holders and of users of protected works who wish to avail themselves of those technologies (see Football Association Premier League and Others, EU:C:2011:631, paragraph 164).
+Whether the conditions laid down in Article 5(1) of Directive 2001/are satisfied
+The referring court has stated that the on-screen copies and cached copies satisfy the fourth and fifth conditions set out in Article 5(1) of Directive 2001/29; accordingly, the present reference relates solely to whether the first three conditions are satisfied.
+As regards the first condition, under which the act of reproduction must be temporary, it is apparent from the documents before the Court, first, that the on-screen copies are deleted when the internet user moves away from the website viewed. Secondly, the cached copies are normally automatically replaced by other content after a certain time, which depends on the capacity of the cache and on the extent and frequency of internet usage by the internet user concerned. It follows that those copies are temporary in nature.
+In those circumstances, it must be held that those copies satisfy the first condition set out in Article 5(1) of Directive 2001/29.
+Under the third condition, which it is appropriate to examine in second place, the acts of reproduction in question must be an integral and essential part of a technological process. That condition requires that two criteria both be fulfilled, namely that, first, the acts of reproduction are carried out entirely in the context of the implementation of a technological process and, secondly, the completion of those acts of reproduction is necessary, in that the technological process could not function correctly and efficiently without those acts (see Infopaq International, EU:C:2009:465, paragraph 61, and order in Case C‑302/Infopaq International, EU:C:2012:16, paragraph 30).
+Concerning, first of all, the first of those two criteria, it should be pointed out that, in the case in the main proceedings, the on-screen copies and the cached copies are created and deleted by the technological process used for viewing websites, with the result that they are made entirely in the context of that process.
+It is irrelevant, in this regard, that the process in question is activated by the internet user and that it is terminated by a temporary act of reproduction such as the on-screen copy.
+It follows from the case-law of the Court that, since Article 5(1) of Directive 2001/does not specify at which stage of the technological process the acts of temporary reproduction are deemed to be carried out, it cannot be excluded that such acts can initiate or terminate that process (order Infopaq International, EU:C:2012:16, paragraph 31).
+Furthermore, it is apparent from the case-law that Article 5(1) of Directive 2001/does not preclude the technological process from involving human intervention and, in particular, from being activated or completed manually (see, to that effect, order Infopaq International, EU:C:2012:16, paragraph 32).
+It follows that the on-screen copies and the cached copies must be regarded as being an integral part of the technological process at issue in the main proceedings.
+Next, as regards the second of the criteria mentioned in paragraph above, it is apparent from the order for reference that, even if the process at issue in the main proceedings can be implemented without the acts of reproduction concerned taking place, the fact remains that, in those circumstances, the process cannot function correctly and efficiently.
+According to the order for reference, the cached copies greatly facilitate browsing on the internet, since without those copies, the internet would be unable to cope with current volumes of data transmitted online. Without the creation of such copies, the process used for viewing websites would be considerably less efficient and would not be able to function properly.
+Concerning the on-screen copies, it has not been disputed that, at present, the technology for the viewing of websites on computers requires such copies to be made if it is to function correctly and efficiently.
+Consequently, the on-screen copies and the cached copies must be regarded as being an essential part of the technological process at issue in the main proceedings.
+It follows that the two categories of copies satisfy the third condition laid down in Article 5(1) of Directive 2001/29.
+The second condition, which it is appropriate to examine in third place, comprises alternative criteria. The act of reproduction must be either transient or incidental.
+As regards the first of the two criteria, it should be recalled that an act will be held to be ‘transient’, in the light of the technological process used, if its duration is limited to what is necessary for that process to work properly, it being understood that that process must be automated inasmuch as it deletes such an act automatically, without human intervention, once its function of enabling the completion of such a process has come to an end (see, to that effect, Infopaq International, EU:C:2009:465, paragraph 64).
+Nevertheless, the requirement of automatic deletion does not preclude such a deletion from being preceded by human intervention directed at terminating the use of the technological process. As stated in paragraph above, it is permissible for the technological process at issue in the main proceedings to be activated and completed manually.
+Therefore, contrary to what the NLA contends, an act of reproduction does not lose its transient nature merely because the deletion by the system of the copy generated is preceded by the intervention of the end-user designed to terminate the technological process concerned.
+As regards the other criterion mentioned in paragraph above, an act of reproduction can be regarded as ‘incidental’ if it neither exists independently of, nor has a purpose independent of, the technological process of which it forms part.
+In the case in the main proceedings, as regards, first, the on-screen copies, it should be recalled that these are automatically deleted by the computer at the moment when the internet user moves away from the website concerned and, therefore, at the moment when he terminates the technological process used for viewing that site.
+In this connection, it is irrelevant, contrary to what the NLA contends, that the on-screen copy remains in existence for as long as the internet user keeps his browser open and stays on the website concerned because, during that period, the technological process used for viewing that site remains active.
+Accordingly, it must be held that the period during which the on-screen copies remain in existence is limited to what is necessary for the proper functioning of the technological process used for viewing the website concerned. Consequently, those copies must be regarded as ‘transient’.
+Next, so far as concerns the cached copies, it is true that, unlike the on-screen copies, they are not deleted at the time when the internet user terminates the technological process used for viewing the website concerned, since they are retained in the cache for the purposes of a possible subsequent viewing of that site.
+However, it is not necessary that such copies be categorised as ‘transient’ once it has been established that they are incidental in nature in the light of the technological process used.
+In this connection, it should be pointed out, first, that the technological process in question wholly determines the purpose for which those copies are created and used, although, as is apparent from paragraph above, that process can function, albeit less efficiently, without such copies being made. Secondly, it is apparent from the documents before the Court that internet users employing the technological process at issue in the main proceedings cannot create the cached copies outside of that process.
+It follows that the cached copies neither exist independently of, nor have a purpose independent of, the technological process at issue in the main proceedings and must, for that reason, be regarded as ‘incidental’.
+In those circumstances, it must be held that the on-screen copies and the cached copies satisfy the second condition laid down in Article 5(1) of Directive 2001/29.
+In the light of the foregoing, it must be held that the copies at issue in the main proceedings satisfy the first three conditions set out in Article 5(1) of Directive 2001/29.
+Nevertheless, in order for it to be possible to rely on the exception laid down in that provision, as interpreted in paragraph above, those copies must also satisfy the conditions laid down in Article 5(5) of Directive 2001/(see, to that effect, Football Association Premier League and Others, EU:C:2011:631, paragraph 181).
+Whether the conditions laid down in Article 5(5) of Directive 2001/are satisfied
+Under Article 5(5) of Directive 2001/29, the carrying-out of a temporary act of reproduction is exempt from the reproduction right only in certain special cases which do not conflict with a normal exploitation of the work and do not unreasonably prejudice the legitimate interests of the rights holders.
+In this connection, it should be stated, first of all, that, since the on-screen copies and the cached copies are created only for the purpose of viewing websites, they constitute, on that basis, a special case.
+Next, although the copies make it possible, in principle, for internet users to access works displayed on websites without the authorisation of the copyright holders, the copies do not unreasonably prejudice the legitimate interests of those rights holders.
+In this connection, it must be pointed out that the works are made available to internet users by the publishers of the websites, those publishers being required, under Article 3(1) of Directive 2001/29, to obtain authorisation from the copyright holders concerned, since that making available constitutes a communication to the public within the meaning of that article.
+The legitimate interests of the copyright holders concerned are thus properly safeguarded.
+In those circumstances, there is no justification for requiring internet users to obtain another authorisation allowing them to avail themselves of the same communication as that already authorised by the copyright holder in question.
+Lastly, it must be held that the creation of the on-screen copies and the cached copies does not conflict with a normal exploitation of the works.
+In this connection, it should be pointed out that the viewing of websites by means of the technological process at issue represents a normal exploitation of the works which makes it possible for internet users to avail themselves of the communication to the public made by the publisher of the website concerned. Given that the creation of the copies in question forms part of such viewing, it cannot operate to the detriment of such an exploitation of the works.
+It follows from the foregoing that the on-screen copies and the cached copies satisfy the conditions laid down in Article 5(5) of Directive 2001/29.
+In those circumstances, the answer to the question referred is that Article of Directive 2001/must be interpreted as meaning that the on-screen copies and the cached copies made by an end-user in the course of viewing a website satisfy the conditions that those copies must be temporary, that they must be transient or incidental in nature and that they must constitute an integral and essential part of a technological process, as well as the conditions laid down in Article 5(5) of that directive, and that they may therefore be made without the authorisation of the copyright holders.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Article of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society must be interpreted as meaning that the copies on the user’s computer screen and the copies in the internet ‘cache’ of that computer’s hard disk, made by an end-user in the course of viewing a website, satisfy the conditions that those copies must be temporary, that they must be transient or incidental in nature and that they must constitute an integral and essential part of a technological process, as well as the conditions laid down in Article 5(5) of that directive, and that they may therefore be made without the authorisation of the copyright holders.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

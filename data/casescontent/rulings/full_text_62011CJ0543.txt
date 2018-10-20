@@ -1,0 +1,106 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+January (
+*)
+‛Value added tax — Directive 2006/112/EC — Article 135(1)(k), read in conjunction with Article 12(1) and (3) — Land which has not been built on — Building land — Definitions — Demolition work for the purposes of future construction — Exemption from VAT’
+In Case C-543/11,
+REQUEST for a preliminary ruling under Article TFEU from the Hoge Raad der Nederlanden (Netherlands), made by decision of September 2011, received at the Court on October 2011, in the proceedings
+Woningstichting Maasdriel
+v
+Staatssecretaris van Financiën,
+THE COURT (Eighth Chamber),
+composed of E. Jarašiūnas, President of the Chamber, C. Toader (Rapporteur) and C.G. Fernlund, Judges,
+Advocate General: N. Wahl,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on November 2012,
+after considering the observations submitted on behalf of:
+—
+Woningstichting Maasdriel, by H. de Kat, advocaat,
+—
+the Netherlands Government, by J. Langer and C. Wissels, acting as Agents,
+—
+the European Commission, by L. Lozano Palacios and P. van Nuffel, acting as Agents.
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 135(1)(k) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1) (the ‘VAT Directive’) read in conjunction with Article 12(1) and (3) therein.
+The request has been made in the context of proceedings between the Woningstichting Maasdriel (‘Woningstichting’) and the Staatssecretaris van Financiën (‘Secretary of State for Finances’) concerning an exemption from transfer duty on the acquisition of a property, an exemption which, under Netherlands law, is linked to whether the acquisition is subject to value added tax (‘VAT’).
+Legal context
+European Union law
+Article 12(1) and (3) of the VAT Directive reads as follows:
+‘1.   Member States may regard as a taxable person anyone who carries out, on an occasional basis, a transaction relating to the activities referred to in the second subparagraph of Article 9(1) and in particular one of the following transactions:
+...
+(b)
+the supply of building land.
+...
+3.   For the purposes of paragraph 1(b), “building land” shall mean any unimproved or improved land defined as such by the Member States.’
+Article 135(1)(k) of that directive states:
+‘1.   Member States shall exempt the following transactions:
+...
+(k)
+the supply of land which has not been built on other than the supply of building land as referred to in point (b) of Article 12(1);
+…’
+Netherlands law
+Article of the Law on turnover tax (Wet op de omzetbelasting 1968) of June (Staatsblad 1968, No 329), in the version applicable to the case in the main proceedings (‘the Law on VAT’), states:
+‘1.   Subject to conditions to be laid down by public administrative regulation the following shall be exempt from tax:
+(a)
+the supply of immovable property and rights over such property, with the exception of:
+(1)
+the supply before or, at most, two years after, first occupation of buildings or parts of buildings and the land on which they stand as well as the supply of building land;
+…
+4.   For the purposes of applying Point of Paragraph 1(a), “building land” is to be taken to mean any land not built on:
+(a)
+on which work is being or has been carried out;
+(b)
+which is being or has been improved for the purposes of exclusive use of the land;
+(c)
+in the vicinity of which improvements are being or have been made; or
+(d)
+for which a building permit has been granted;
+for the purposes of constructing buildings on the land.’
+Article 2(1) of the Law on the taxation of legal transactions (Wet op belastingen van rechtsverkeer) provides that ‘“[t]ransfer duty” is a tax levied in respect of the acquisition of immovable property located in the Netherlands or of rights over such immovable property’.
+As provided in Article 15(1)(a) of that law, subject to conditions laid down by public administrative regulation, there is an exemption from transfer duty for the acquisition ‘by way of supply within the meaning of Point of Article 11(1)(a) of the [Law on VAT] … which is subject to turnover tax, unless the property is used to create revenue and the purchaser can deduct turnover tax in part or in full, in accordance with Article of the [Law on VAT]’.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+On November 2006, the Woningstichting entered into an agreement for the sale of a plot of land with the municipality of Maasdriel (the ‘vendor’). At that time there was a building on the land which had been used as a library (‘the building’). Next to the building there was a public, surfaced car park.
+The contract of sale stipulated that ‘the property sold shall be supplied in an improved condition’ in view of the Woningstichting’s intention to have homes built on the land, possibly combined with offices with parking facilities. It was agreed that the vendor would be responsible for the demolition of the building as well as for the removal of the surface of the car park. The agreed price for the plot was EUR (excluding VAT), together with the cost of the demolition, estimated at EUR (excluding VAT).
+In the months of January and February the vendor had the building demolished and the resulting building rubble removed.
+The land was supplied to the Woningstichting at the time of the transfer of ownership by notarial act of March 2007. On that date, the car park was still in use, as the surface had yet to be removed and the Woningstichting had not yet obtained the necessary planning permission for its construction plans for the land, which was still at the planning and design stage.
+Under Netherlands law, in order to avoid double taxation, if a purchase of real estate is subject to VAT, it is exempted from the transfer duty calculated on the sale price. The supply of building land is subject to VAT. By contrast, the supply of land which ‘has not been built on’ is exempt from VAT and remains subject to transfer duty.
+The Woningstichting paid VAT to the vendor for the supply of the land at issue, as it considered that it was building land and was, accordingly, subject to VAT, meaning that transfer duties were not due.
+The tax inspector, however, considered that the supply at issue concerned land which had not been built on, exempting it as such from VAT and thus subjecting it to the payment of transfer duty. The Woningstichting received an assessment of the outstanding transfer duty. When the objection lodged against that assessment was rejected by decision of the tax inspector, the Woningstichting brought an action against that decision before the Rechtbank te Arnhem (District Court, Arnhem). That court dismissed the action.
+The Woningstichting brought an appeal against that decision before the Gerechtshof te Arnhem (Court of Appeal, Arnhem), which rejected the appeal.
+Referring to the judgment of November in Case C-461/Don Bosco Onroerend Goed [2009] ECR I-11079, the Gerechtshof held that the vendor had supplied land which ‘had not been built on’ since, at the time of the supply, the building had already been totally demolished and the parties had agreed that the surfacing of the car park would be removed at the expense of the vendor after the supply. The court also held that the plot could not be regarded as building land because the demolition of the building and the removal of the surfacing of the car park could not be regarded as ‘work’ within the meaning of Article 11(4)(a) of the Law on VAT. In addition, the parties had not agreed to any other work. Furthermore, the Gerechtshof considered that the existing improvements in the vicinity of the plot which could be useful to the new construction were not improvements as referred to in Article 11(4)(c) of the Law on VAT.
+The Woningstichting brought an appeal on a point of law against that judgment before the Hoge Raad der Nederlanden (Supreme Court of the Netherlands).
+The referring court states that, according to the case-law of the Hoge Raad, Article 11(4)(a) of the Law on VAT should be interpreted as meaning that when a building is totally demolished, the land which becomes available can only be regarded as building land if, after the demolition of the building, work has been carried out to the ground for the purposes of constructing new buildings. It explains that, according to that case-law, demolition is not ‘work’ within the meaning of Article 11(4)(a) of the Law on VAT even where the demolition is carried out for the purposes of later constructing new buildings on the land which has been cleared. It points out that, despite the intention of the parties to use the land for constructing new buildings, the demolition work by itself does not have the effect of allowing that land to be classified as ‘building land’.
+In that respect, it notes that the Court of Justice has already held, in its judgments in Case C-468/Gemeente Emmen ([1996] ECR I-1721, paragraphs and 25) and Don Bosco Onroerend Goed (paragraph 43) that ‘it is for [the Member States] to define what land is to be regarded as being building land, …, while having regard to the objective pursued by the [Sixth VAT Directive], which seeks to exempt from VAT only supplies of land which has not been built on and is not intended to support a building’.
+Taking into account the case law of the Court of Justice, the referring court wonders whether the freedom of the Member States to define the concept of ‘building land’ allows a Member State to exempt from VAT the supply of land which ‘has not been built on’ obtained by demolition of the previously existing building, even if the demolition took place for the purposes of constructing new buildings on the land. It also wonders whether, in order to assess if the supply in question concerns ‘land which has not been built on and is not intended to support a building’ within the meaning of the judgment in Gemeente Emmen, it can restrict itself to take into consideration circumstances from the time when the land becomes land which has not been built on, without taking into account previous demolition works.
+In those circumstances, the Hoge Raad der Nederlanden decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Must Article 135(1)(k) of the VAT Directive …, read in conjunction with Article 12(1) and (3) of therein, be interpreted as precluding in all cases the exemption from VAT of the supply of land “which has not been built on” which has been obtained by the demolition of existing buildings thereon, demolition which was carried out for the purposes of constructing new buildings?’
+The question referred for a preliminary ruling
+By its question the referring court asks, in essence, whether Article 135(1)(k) of the VAT Directive, read in conjunction with Article 12(1) and (3) therein, must be interpreted as meaning that the exemption from VAT provided for in Article 135(1)(k) covers a supply, such as that at issue in the main proceedings, of land which ‘has not been built on’, following the demolition of the building situated on it, even where, at the time of that supply, improvement works on the land, apart from that demolition, had not been carried out, but the land at issue was intended to be built on.
+The Netherlands government submits that, in the present case, there were no improvement works within the meaning of Netherlands law and argues against any account being taken of the intention of the parties in order to assess whether the land at issue in the main proceedings, was ‘not built on’ or was ‘building land’.
+By contrast, according to the Woningstichting and the European Commission, the conditions set out in the Netherlands national legislation seeking to define building land are too restrictive and do not cover all the situations in which land could be considered as being intended to be built on. They also argue that, in the light of the evidence on file, it is clear that the land at issue in the main proceedings could objectively be considered as intended to be built on.
+It should be noted at the outset that, according to settled case-law, the terms used to specify exemptions such as that set out in Article of the VAT Directive are to be interpreted strictly, since they constitute exceptions to the general principle that VAT is to be levied on all goods and services supplied for consideration by a taxable person. Nevertheless, the interpretation of those terms must be consistent with the objectives pursued by those exemptions and comply with the requirements of the principle of fiscal neutrality inherent in the common system of VAT. Thus, the requirement of strict interpretation does not mean that the terms used to define the exemptions referred to in Article should be construed in such a way as to deprive the exemptions of their intended effect (see, to that effect, Case C-326/J.J. Komen en Zonen Beheer Heerhugowaard [2012] ECR, paragraph and the case-law cited).
+Under Article 135(1)(k) of the VAT Directive, the supply of land which has not been built on other than the supply of building land as referred to in Article 12(1)(b) of that directive is exempted from VAT. According to Article 12(3) of that directive, for the purposes of that paragraph 1(b), ‘building land’ means any unimproved or improved land defined as such by the Member States.
+It follows that supplies of building land are subject to VAT and do not fall within the category of exemptions referred to in Article of the VAT Directive, which are to be interpreted strictly.
+Article 11(4)(a) of the Law on VAT transposes the provisions of the VAT Directive into Netherlands law and defines as ‘building land’, inter alia, all land which has not been built on, on which work is carried out or has been carried out for the purposes of constructing buildings.
+According to the national case-law cited by the referring court, the concept of ‘work’ used in that provision of national law is interpreted as not including demolition work even if it is not in dispute that that demolition work was carried out for the purposes of reconstruction.
+First of all, it must be recalled that the Member States, when defining what land is to be regarded as being ‘building land’, must have regard to the objective pursued by Article 135(1)(k) of the VAT Directive, which seeks to exempt from VAT only supplies of land which has not been built on and is not intended to support a building (see, to that effect, Gemeente Emmen, paragraphs and and Don Bosco Onroerend Goed, paragraph 43).
+To ensure compliance with the principle of fiscal neutrality, a fundamental principle of the common system of VAT, which precludes treating similar supplies of goods, which are thus in competition with each other, differently for VAT purposes and precludes economic operators who carry out the same activities from being treated differently as far as the levying of VAT is concerned (Case C-29/SKF [2009] ECR I-10413, paragraph and the case-law cited), it is therefore necessary that all land which has not been built on, and which is intended to support a building and, therefore, intended to be built on, be covered by that national definition.
+Second, it must be noted that the declared intention of the parties concerning the VAT liability of a transaction must be taken into consideration in the course of an overall assessment of the circumstances of a transaction, provided that it is supported by objective evidence (J.J. Komen en Zonen Beheer Heerhugowaard, paragraph and the case-law cited).
+Accordingly, as the Court has already held that such evidence includes the extent to which the transformation work carried out by the vendor had advanced at the time of supply (J.J. Komen en Zonen Beheer Heerhugowaard, paragraph 34), the completion before the time of supply, by the vendor, of demolition work for the purposes of a future construction, or the vendor’s understanding to carry out such demolition work with a view to future construction, can also form part of such evidence.
+In the present case, it should be noted that, as is clear from the order for reference, in the case in the main proceedings, it is not disputed that, at the time of supply, the demolition work of the building had been carried out or, as regards the car park, would be carried out, for the purposes of reconstruction.
+It is, in any event, for the referring court to carry out an overall assessment of the factual circumstances surrounding the transaction at issue in the main proceedings and prevailing at the time of supply, including the intention of the parties, provided that it is supported by objective evidence, in order to determine whether or not the transaction at issue in the main proceedings concerns building land.
+Having regard to the foregoing considerations, the answer to the question referred is that Article 135(1)(k) of the VAT Directive, read in conjunction with Article 12(1) and (3) therein, must be interpreted as meaning that the exemption from VAT provided for in Article 135(1)(k) does not cover the supply, such as that at issue in the main proceedings, of land which has not been built on following the demolition of the building situated on it, even where, at the time of that supply, improvement works on the land, apart from that demolition, had not been carried out, where it is apparent from an overall assessment of the factual circumstances surrounding that transaction and prevailing at the time of supply, including the intention of the parties when it is supported by objective evidence, that, at that time, the land at issue was in fact intended to be built on, a matter which is for the referring court to determine.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+Article 135(1)(k) of Council Directive 2006/112/EC of November on the common system of value added tax, read in conjunction with Article 12(1) and (3) therein, must be interpreted as meaning that the exemption from value added tax provided for in Article 135(1)(k) does not cover the supply, such as that at issue in the main proceedings, of land which has not been built on following the demolition of the building situated on it, even where, at the time of that supply, improvement works on the land, apart from that demolition, had not been carried out, where it is apparent from an overall assessment of the factual circumstances surrounding that transaction and prevailing at the time of supply, including the intention of the parties when it is supported by objective evidence, that, at that time, the land at issue was in fact intended to be built on, a matter which is for the referring court to determine.
+ 
+[Signatures]
+(
+*)   Language of the case: Dutch.
+Top  
+ 

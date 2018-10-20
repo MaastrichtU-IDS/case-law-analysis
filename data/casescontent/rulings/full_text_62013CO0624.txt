@@ -1,0 +1,784 @@
+
+ORDONNANCE DE LA COUR (neuvième chambre)
+février (*)
+      
+«Pourvoi – Article du règlement de procédure de la Cour – Aides d’État – Compensation de charges de service public pour l’établissement et l’exploitation d’un réseau de communications électroniques
+         à très haut débit»
+      
+Dans l’affaire C‑624/P,
+ayant pour objet un pourvoi au titre de l’article du statut de la Cour de justice de l’Union européenne, introduit le novembre 2013,
+      
+Iliad SA, établie à Paris (France),
+      
+Free infrastructure SAS, établie à Paris,
+      
+Free SAS, établie à Paris,
+      
+représentées par Me T. Cabot, avocat,
+      
+parties requérantes,
+les autres parties à la procédure étant:
+Commission européenne, représentée par MM. B. Stromsky et C. Urraca Caviedes, en qualité d’agents, ayant élu domicile à Luxembourg,
+      
+partie défenderesse en première instance,
+République française, représentée par M. D. Colas et Mme J. Bousin, en qualité d’agents,
+      
+République de Pologne,
+Département des Hauts-de-Seine, représenté par Me G. O’Mahony, avocat,
+      
+parties intervenantes en première instance,
+LA COUR (neuvième chambre),
+composée de Mme K. Jürimäe, président de chambre, M. M. Safjan et Mme A. Prechal (rapporteur), juges,
+      
+avocat général: M. N. Wahl,
+greffier: M. A. Calot Escobar,
+vu la décision prise, l’avocat général entendu, de statuer par voie d’ordonnance motivée, conformément à l’article du
+         règlement de procédure de la Cour,
+      
+rend la présente
+Ordonnance
+Par leur pourvoi, Iliad SA, Free infrastructure SAS et Free SAS (ci-après, ensemble, «Iliad e.a.») demandent l’annulation
+         de l’arrêt du Tribunal de l’Union européenne Iliad e.a./Commission (T‑325/10, EU:T:2013:472, ci-après l’«arrêt attaqué»),
+         par lequel celui-ci a rejeté leur recours contre la décision C(2009) final de la Commission, du septembre 2009, relative
+         à la compensation de charges de service public pour l’établissement et l’exploitation d’un réseau de communications électroniques
+         à très haut débit dans le département des Hauts-de-Seine (aide d’État N 331/– France) (ci-après la «décision litigieuse»).
+      
+ Le cadre juridique
+Aux termes de l’article 4, paragraphes et 5, du règlement (CE) nº 659/du Conseil, du mars 1999, portant modalités
+         d’application de l’article du traité CE (JO L 83, p. 1):
+      
+«2.      Si la Commission constate, après un examen préliminaire, que la mesure notifiée ne constitue pas une aide, elle le fait savoir
+         par voie de décision.
+      
+[...]
+5.      Les décisions visées aux paragraphes 2, et sont prises dans un délai de deux mois. Celui-ci court à compter du jour suivant
+         celui de la réception d’une notification complète. La notification est considérée comme complète si, dans les deux mois de
+         sa réception ou de la réception de toute information additionnelle réclamée, la Commission ne réclame pas d’autres informations.
+         Le délai peut être prorogé par accord mutuel entre la Commission et l’État membre concerné. [...]»
+      
+L’article dudit règlement prévoit:
+      
+«1.      Si la Commission considère que les informations fournies par l’État membre concerné au sujet d’une mesure notifiée [...] sont
+         incomplètes, elle demande tous les renseignements complémentaires dont elle a besoin. [...]
+      
+2.      Si l’État membre ne fournit pas les renseignements demandés dans le délai imparti par la Commission, ou les lui fournit de
+         façon incomplète, celle-ci lui adresse un rappel, en fixant un délai supplémentaire adéquat dans lequel les renseignements
+         doivent être communiqués.
+      
+3.      Si les renseignements demandés ne sont pas fournis dans le délai fixé, la notification est réputée avoir été retirée, à moins
+         que le délai n’ait été prorogé avant son expiration par accord mutuel entre la Commission et l’État membre concerné [...].
+         Si la notification est réputée retirée, la Commission en informe l’État membre.»
+      
+ Les antécédents du litige
+Le juin 2008, les autorités françaises ont notifié à la Commission un projet d’octroi à un groupement d’entreprises, ayant
+         pris la forme d’une société commerciale Sequalum SAS, choisi à l’issue d’une mise en concurrence, d’une compensation de charges
+         de service public de millions d’euros pour l’établissement et l’exploitation d’un réseau de communications électroniques
+         à très haut débit dans le département des Hauts-de-Seine (ci-après le «projet THD 92»). Cette notification a été complétée
+         par les autorités françaises le juillet 2008.
+      
+S’agissant du déroulement de la procédure ayant conduit à l’adoption de la décision litigieuse par la Commission, le Tribunal
+         a procédé aux constats suivants aux points à de l’arrêt attaqué: 
+      
+«Le juillet 2008, la Commission a reçu un courrier confidentiel envoyé par un opérateur de communications électroniques,
+         exerçant son activité sur le territoire des Hauts-de-Seine, soutenant que le projet THD n’était pas compatible avec le
+         marché commun.
+      
+Ce courrier a été suivi, le 1er août 2008, par des courriers dans lesquels deux opérateurs de réseaux et de services des communications électroniques, l’une
+         des requérantes dans la présente affaire, Free [SAS], et Colt Télécommunications France, ainsi que le syndicat intercommunal
+         de la périphérie de Paris pour l’électricité et les réseaux de communication (ci-après le ‘Sipperec’) ont contesté auprès
+         de la Commission la compatibilité du projet THD avec les règles applicables aux aides d’État. Le septembre 2008, France
+         Télécom, opérateur historique des communications électroniques en France, a également envoyé à la Commission des observations
+         sur certains aspects du projet THD 92. Une version non confidentielle de ces observations a été envoyée aux autorités françaises
+         le octobre 2008.
+      
+Le août 2008, la Commission a demandé des informations complémentaires aux autorités françaises. Après avoir sollicité
+         de la Commission deux prorogations des délais de réponse, dont la dernière aux fins de pouvoir prendre en compte les observations
+         de France Télécom, les autorités françaises ont transmis à la Commission le novembre les renseignements sollicités
+         et ont complété leur réponse par un courrier du novembre 2008.
+      
+Par courriers des novembre et février 2009, le Sipperec a présenté de nouvelles observations à la Commission sur
+         certains aspects du projet THD 92.
+      
+Le janvier 2009, la Commission a envoyé aux autorités françaises une nouvelle demande d’informations. Après avoir demandé
+         des délais de réponse supplémentaires, par lettres des février et mars 2009, les autorités françaises ont répondu aux
+         questions posées par la Commission le mai 2009. Cette réponse a été complétée par l’envoi de sept annexes le juin 2009.
+      
+Dans l’intervalle, le février 2009, France Télécom a communiqué à la Commission ses prévisions relatives au déploiement
+         de son réseau à très haut débit dans les Hauts-de-Seine.
+      
+Par courriers des novembre, et décembre 2008, et janvier, et lfévrier, mars, mai, et juin 2009,
+         Free [SAS] a exprimé son opposition au projet THD 92, estimant qu’il constituait une aide incompatible avec le marché commun.
+      
+Le mai 2009, la Commission a demandé aux autorités françaises de lui présenter leurs observations éventuelles relatives
+         au courrier de Free [SAS] du mai mentionné au point ci-dessus. Ces observations lui sont parvenues le juin 2009.
+      
+Le juillet 2009, Colt Télécommunications France a une nouvelle fois informé la Commission de son opposition au projet THD
+         92.
+      
+Par courrier reçu par la Commission le août 2009, les autorités françaises ont déposé un complément à leurs réponses précédentes.»
+         
+      
+Par la décision litigieuse, la Commission a constaté que la mesure en cause ne constituait pas une aide d’État, au sens de
+         l’article 87, paragraphe 1, CE, devenu l’article 107, paragraphe 1, TFUE.
+      
+Dans cette décision, la Commission a considéré, à cet égard, que le service d’intérêt économique général (ci-après «SIEG»)
+         en l’occurrence institué était conforme aux exigences posées par l’arrêt Altmark Trans et Regierungspräsidium Magdeburg (C‑280/00,
+         EU:C:2003:415) pour qu’une telle mesure échappe à la qualification d’aide d’État. En particulier, la Commission a estimé que
+         Sequalum SAS avait effectivement été chargée de l’exécution d’obligations de service public clairement définies, que les paramètres
+         du financement public avaient été préalablement établis de façon objective et transparente, que la compensation prévue ne
+         dépassait pas ce qui était nécessaire pour couvrir les coûts occasionnés par l’exécution des obligations de service public
+         et que la délégation de service public avait été attribuée à l’issue d’une procédure ayant effectivement permis de sélectionner
+         le candidat capable de fournir ce service au moindre coût pour la collectivité.
+      
+ La procédure devant le Tribunal et l’arrêt attaqué
+Par requête déposée au greffe du Tribunal le août 2010, Iliad e.a. ont introduit un recours tendant à l’annulation de la
+         décision litigieuse au soutien duquel elles ont invoqué trois moyens. Jugeant ceux-ci non fondés, le Tribunal a rejeté ledit
+         recours par l’arrêt attaqué.
+      
+Par leur premier moyen, Iliad e.a. ont fait valoir que lorsque, comme en l’occurrence, la Commission se trouve, à l’occasion
+         de l’examen préliminaire visé à l’article 88, paragraphe 3, CE, devenu l’article 108, paragraphe 3, TFUE, en présence de difficultés
+         sérieuses pour apprécier si une mesure est constitutive d’une aide d’État, ladite institution est tenue, ainsi qu’il ressort
+         d’une jurisprudence constante, d’ouvrir la procédure formelle d’examen prévue à l’article 88, paragraphe 2, CE, devenu l’article
+         108, paragraphe 2, TFUE. Or, en ayant adopté la décision litigieuse sans avoir procédé à l’ouverture d’une telle procédure
+         formelle d’examen, la Commission aurait violé les droits procéduraux qu’Iliad e.a. tirent de cette dernière disposition.
+      
+À l’appui dudit moyen, Iliad e.a. ont notamment invoqué divers indices censés révéler l’existence de telles difficultés sérieuses
+         dans le cas d’espèce. 
+      
+Trois de ces indices étaient relatifs à la procédure préliminaire d’examen. Il s’agissait, premièrement, de la durée de ladite
+         procédure, deuxièmement, du nombre élevé d’objections argumentées formulées par les opérateurs concurrents s’étant manifestés
+         et, troisièmement, de la fréquence et de la teneur des échanges intervenus entre la Commission et les autorités françaises.
+      
+S’agissant, tout d’abord, de la durée de la procédure d’examen, Iliad e.a. ont notamment fait valoir, ainsi qu’il ressort
+         du point de l’arrêt attaqué, que la Commission avait adopté la décision litigieuse au terme d’une instruction de quinze
+         mois, excédant largement le délai de deux mois prévu à l’article 4, paragraphe 5, du règlement nº 659/1999.
+      
+À cet égard, le Tribunal a jugé, au point de l’arrêt attaqué, qu’Iliad e.a. n’étaient pas fondées à prétendre que, en l’espèce,
+         la durée de l’examen préliminaire avait notablement dépassé celle normalement nécessaire pour procéder à un tel examen, de
+         sorte que cette durée ne saurait être regardée comme un indice de difficultés sérieuses prétendument rencontrées par la Commission
+         dans son appréciation du caractère d’«aide d’État» de la compensation de charges de service public en cause.
+      
+Aux fins de parvenir à cette conclusion, le Tribunal a jugé ce qui suit aux points à de l’arrêt attaqué:
+      
+«Selon une jurisprudence constante, la durée de l’examen préliminaire peut, avec d’autres éléments, constituer un indice des
+         difficultés sérieuses rencontrées par la Commission, si elle excède notablement ce qu’implique normalement un tel examen [...]
+      
+En vertu de l’article 4, paragraphe 1, du règlement n° 659/1999, l’examen préliminaire débute dès la réception de la notification
+         de la mesure concernée.
+      
+L’article 4, paragraphe 5, du règlement n° 659/prévoit que les décisions clôturant l’examen préliminaire sont prises
+         dans un délai de deux mois. Selon cette disposition, ce délai court à compter du jour suivant celui de la réception d’une
+         notification complète.
+      
+[...]
+Il convient de préciser à cet égard que, en vertu de l’article 2, paragraphe 2, du règlement n° 659/1999, une notification
+         n’est complète que si elle permet à la Commission de prendre une décision conformément à la procédure d’examen préliminaire
+         et à la procédure formelle d’examen. En outre, aux termes de l’article 4, paragraphe 5, de ce même règlement, ‘[l]a notification
+         est considérée comme complète si, dans les deux mois de sa réception ou de la réception de toute information additionnelle
+         réclamée, la Commission ne réclame pas d’autres informations’.
+      
+Il résulte de ces dispositions combinées qu’une notification ne peut être regardée comme complète qu’à la réception par la
+         Commission de l’ensemble des informations lui permettant de se forger une première opinion sur la nature et les effets de
+         la mesure concernée. Ces informations sont réputées contenues dans la notification si la Commission ne présente aucune demande
+         d’informations additionnelles dans les deux mois de sa réception. En revanche, si la Commission présente des demandes d’informations
+         additionnelles, la notification doit être regardée comme complète à la date de réception des dernières informations demandées,
+         de sorte que le délai de deux mois prévu à l’article 4, paragraphe 5, du règlement n° 659/ne commence à courir qu’à partir
+         de cette date [...]
+      
+En l’espèce, la République française a notifié le projet THD à la Commission le juin 2008. Cette notification a été
+         complétée le juillet [...]
+      
+Cette notification n’a pas été considérée comme complète par la Commission. En effet, celle-ci a demandé à la République française
+         des informations complémentaires par lettres du août [...] et du janvier [...] ainsi que ses observations
+         sur un courrier de Free [SAS] par lettre du mai [...]
+      
+Les autorités françaises ont répondu à ces demandes par courriers reçus par la Commission, respectivement, les et novembre
+         [...], les mai et juin [...] et le juin [...]. Le août 2009, les autorités françaises ont déposé
+         un complément à leurs réponses précédentes [...]
+      
+C’est ainsi au plus tôt à compter de la réception des dernières informations complémentaires envoyées par les autorités françaises,
+         à savoir le août 2009, qu’il convient de calculer la durée de la procédure d’examen préliminaire, et non, comme le soutiennent
+         les requérantes, à partir de la notification initiale du juin 2008. Dès lors, ni les délais antérieurs à la notification
+         initiale ni ceux intervenus entre celle-ci et la dernière réponse des autorités françaises n’entrent dans le calcul de la
+         durée de la procédure préliminaire d’examen.
+      
+Partant, il convient de considérer que, contrairement à ce que font valoir les requérantes, la décision [litigieuse], datée
+         du septembre 2009, a été adoptée dans le délai de deux mois prescrit par le règlement n° 659/1999, qui a commencé à courir
+         le jour suivant le août 2009, et non dans le délai de quinze mois allégué par les requérantes.»
+      
+Ensuite, quant à l’indice tiré des objections formulées par des opérateurs concurrents, le Tribunal a notamment relevé, au
+         point de l’arrêt attaqué, que «les requérantes ne font valoir aucun élément du contenu de ces objections qui révélerait
+         en l’espèce l’existence de difficultés sérieuses et se limitent à souligner le nombre de ces objections» avant de conclure,
+         au point de ce même arrêt, que «les objections des opérateurs privés, si nombreuses et concordantes soient-elles, ne sont
+         pas en tant que telles, de nature à révéler l’existence de difficultés sérieuses».
+      
+S’agissant, enfin, de l’indice tenant aux échanges intervenus entre la Commission et les autorités françaises, le Tribunal
+         a notamment jugé, au point de l’arrêt attaqué, que «ces échanges ne contiennent pas d’éléments susceptibles de révéler
+         l’existence de difficultés sérieuses». 
+      
+Aux fins d’étayer cette appréciation, le Tribunal a notamment considéré ce qui suit aux points à de l’arrêt attaqué:
+      
+«En effet, d’une part, la demande d’informations du août comprend, certes, près de questions attestant de l’étendue
+         du champ d’investigation de la Commission, portant sur plusieurs aspects précis des marchés concernés, de l’état de la concurrence
+         sur ces marchés (questions nos à 18), de la couverture actuelle et future du territoire départemental par des réseaux à très haut débit (questions nos à 7), du risque de surcompensation (questions nos à 28), du montant de la subvention et de ses modalités d’octroi (questions nos à 36) ainsi que des conditions d’accès au réseau THD (questions nos et 38). Toutefois, l’ensemble des éléments susvisés abordés dans la demande d’informations du août et dans les
+         réponses données par les autorités françaises les et novembre portaient sur le seul projet THD 92, tel que notifié
+         par les autorités françaises, sans dépasser le champ dudit projet. Ils visaient, en effet, à déterminer si le projet en cause
+         remplissait les conditions posées par l’arrêt [Altmark Trans et Regierungspräsidium Magdeburg (EU:C:2003:415)], pour échapper
+         à la qualification d’aide d’État, telles que l’existence d’un SIEG, du fait notamment de la défaillance du marché et de l’absence
+         de surcompensation [...], et ont été, à ce titre, repris en substance dans la décision [litigieuse]. Dans ces conditions,
+         le nombre et l’étendue des questions posées par la Commission ne sauraient, à eux seuls et en l’absence d’autres indices concordants,
+         révéler l’existence de difficultés sérieuses [...]
+      
+D’autre part, la demande d’informations du janvier ne comprend que neuf questions. Celles-ci visent, essentiellement,
+         à une actualisation des données nécessaires à l’appréciation de la mesure notifiée compte tenu du temps écoulé, de la modification
+         du cadre législatif français, des modifications apportées à la convention de [délégation de service public (ci-après la «DSP»)]
+         et des observations reçues de la part d’opérateurs tiers. Ces questions visent, également, à obtenir des précisions relatives
+         aux réponses données par les autorités françaises à la première demande d’informations sur deux points précis, à savoir le
+         traitement discriminatoire des concurrents des sociétés actionnaires du délégataire pour l’accès aux nœuds de raccordement
+         optique et le montant de millions d’euros payé par le délégataire à son principal actionnaire en contrepartie de l’usage
+         de certaines infrastructures. Ainsi, l’examen de cette demande ne permet pas de constater l’existence de difficultés sérieuses
+         suscitées par le projet THD 92, dès lors qu’elle ne réitère pas simplement des questions déjà posées et que les demandes de
+         précisions qu’elle contient ne portent que sur un nombre très limité de points déjà abordés dans la première demande d’informations.
+      
+Par ailleurs, n’est pas non plus considéré par la jurisprudence comme étant révélateur de difficultés sérieuses le fait que
+         plusieurs questions posées dans les demandes d’informations des août et janvier laissent entrevoir les doutes
+         que semblait éprouver la Commission à l’égard de la mesure notifiée au regard des dispositions relatives aux aides d’État,
+         dès lors que ces doutes ont pu être dissipés à la suite des réponses des autorités françaises auxdites demandes [...]»
+      
+Iliad e.a. ont, par ailleurs, invoqué deux indices tirés du contenu de la décision litigieuse. À cet égard, il ressort du
+         point de l’arrêt attaqué qu’elles ont fait valoir, premièrement, que ladite décision faisait état de ce que les autorités
+         françaises ont été amenées à prendre de nombreux engagements futurs sur des aspects essentiels de la subvention, de sorte
+         que la Commission se serait ainsi fondée sur autant d’éléments inexistants au moment où la décision d’instituer le SIEG en
+         cause a été adoptée. Deuxièmement, la décision litigieuse révélerait que le champ d’investigation couvert par la Commission
+         a été très étendu et que la Commission n’a pas effectué un examen suffisant et complet de la subvention litigieuse à l’aune
+         des critères énoncés dans l’arrêt Altmark Trans et Regierungspräsidium Magdeburg (EU:C:2003:415).
+      
+S’agissant du premier indice ainsi invoqué par Iliad e.a., le Tribunal a jugé, au point de l’arrêt attaqué, que les engagements
+         pris par les autorités françaises mentionnés dans la décision litigieuse ne sauraient être considérés comme révélateurs de
+         difficultés sérieuses posées par l’examen du projet THD 92.
+      
+Aux fins de parvenir à cette conclusion, le Tribunal a jugé ce qui suit aux points à dudit arrêt:
+      
+«À cet égard, il convient de rappeler que, en vertu d’une jurisprudence constante, si la Commission ne dispose d’aucun pouvoir
+         discrétionnaire quant à la décision d’engager la procédure formelle d’examen lorsqu’elle constate l’existence de telles difficultés,
+         elle jouit néanmoins d’une certaine marge d’appréciation dans la recherche et dans l’examen des circonstances de l’espèce
+         afin de déterminer si celles-ci soulèvent des difficultés sérieuses. Conformément à la finalité de l’article 88, paragraphe
+         3, CE et au devoir de bonne administration qui lui incombe, la Commission peut engager un dialogue avec l’État membre notifiant
+         ou des tiers afin de surmonter, au cours de la procédure préliminaire, des difficultés éventuellement rencontrées (voir [arrêt
+         3F/Commission, T‑30/RENV, EU:T:2011:534], point 54, et la jurisprudence citée).
+      
+La décision [litigieuse] fait état, aux paragraphes 88, et 114, d’un certain nombre d’engagements des autorités françaises
+         visant à modifier par voie d’avenant la convention de DSP en vue notamment d’augmenter les possibilités de contrôle du département,
+         d’éviter toute confusion entre les intérêts du délégataire et ceux de ses actionnaires, d’assurer l’adaptation du réseau THD
+         aux besoins du marché ou encore de davantage maîtriser le risque d’exclusion des concurrents des actionnaires du délégataire.
+         Ces engagements ont été proposés par les autorités françaises en réponse aux interrogations ou aux doutes émis par la Commission
+         dans ses demandes d’informations (voir points et ci-dessus).
+      
+Ainsi, en l’espèce, comme le soulignent à juste titre la Commission et le département des Hauts-de-Seine, les engagements
+         pris par les autorités françaises ont permis d’écarter un certain nombre de doutes quant à la qualification d’aide du projet
+         THD et ont pour cette raison été mentionnés dans la décision [litigieuse] comme des éléments venant au soutien de la conclusion
+         de la Commission relative à l’absence d’aide d’État.
+      
+Or, considérer, comme le font les requérantes, de tels engagements comme étant révélateurs de difficultés sérieuses revient
+         à méconnaître la finalité de l’article 88, paragraphe 3, CE et de la procédure préliminaire d’examen qu’il prévoit. En effet,
+         une telle considération remet en cause la possibilité pour la Commission d’engager un dialogue avec l’État notifiant au cours
+         de la procédure préliminaire afin de surmonter les difficultés éventuellement rencontrées pour se prononcer sur la mesure
+         notifiée sans qu’il y ait lieu d’ouvrir la procédure formelle d’examen, en méconnaissance de la jurisprudence citée au point
+         ci-dessus.»
+      
+En ce qui concerne le second indice invoqué par Iliad e.a. tenant à l’examen incomplet et insuffisant des conditions posées
+         par l’arrêt Altmark Trans et Regierungspräsidium Magdeburg (EU:C:2003:415), le Tribunal a notamment considéré ce qui suit
+         aux points et à de l’arrêt attaqué:
+      
+«Les requérantes renvoient à leurs arguments invoqués dans le cadre du deuxième moyen pour soutenir qu’il ressort de la décision
+         [litigieuse] que non seulement le champ d’investigation couvert par la Commission lors de la procédure préliminaire d’examen
+         a été très étendu, mais également que la Commission n’a pas, en tout état de cause, effectué d’examen suffisant et complet
+         de la subvention litigieuse. Dans la réplique, les requérantes précisent qu’attesteraient du caractère insuffisant de l’examen
+         de la Commission en particulier le fait que cette dernière s’est fondée sur une information incomplète pour apprécier la défaillance
+         du marché ainsi que l’erreur de calcul dans le montant de la subvention litigieuse correspondant à la première phase du projet
+         THD et celle portant sur le ratio entre prises adressables et prises raccordables.
+      
+[...]
+[...] [D]ans la réplique, les requérantes précisent leur argumentation en désignant deux séries d’arguments, soulevés au titre
+         du deuxième moyen, qui seraient, selon elles, de nature à démontrer l’existence de difficultés sérieuses justifiant l’ouverture
+         de la procédure formelle d’examen. D’une part, les requérantes font valoir que la Commission a apprécié l’existence d’une
+         défaillance du marché en se fondant sur des informations anciennes et incomplètes. D’autre part, elles invoquent deux erreurs
+         de calcul commises par la Commission dans la décision [litigieuse].
+      
+Il y a lieu, dès lors, d’examiner si ces trois indices sont de nature à révéler l’existence de difficultés sérieuses.
+Premièrement, s’agissant de l’examen prétendument insuffisant de l’existence d’une défaillance du marché, il convient d’observer
+         que, au titre du présent moyen, les requérantes contestent le caractère complet et actuel des informations sur lesquelles
+         la Commission a fondé son appréciation de l’existence d’une telle défaillance, sans toutefois remettre en cause, à ce stade,
+         le bien-fondé de la conclusion tirée par la Commission de cette appréciation. Cette conclusion est, en revanche, contestée
+         au titre du deuxième moyen. Dans ces conditions, compte tenu de la teneur de l’argument soulevé au titre du présent moyen,
+         il n’y a pas lieu de se prononcer, à ce stade, sur le bien-fondé de cette conclusion, ni, en particulier, sur la question
+         de savoir si la Commission s’est conformée à l’arrêt [Altmark Trans et Regierungspräsidium Magdeburg (EU:C:2003:415)], qui
+         relèvent de l’examen du bien-fondé du deuxième moyen soulevé par les requérantes.
+      
+Il ressort de la décision [litigieuse] que la Commission a examiné l’état de la couverture actuelle et projetée du département
+         des Hauts-de-Seine par des réseaux à très haut débit (paragraphe de la décision [litigieuse]). À cet égard, la Commission
+         a notamment pris en compte, outre les données datant de et de auxquelles les requérantes font référence, les déclarations
+         successives faites par Free [SAS], en dernier lieu dans son courrier du mai 2009, les prévisions de déploiement de France
+         Télécom, telles que présentées dans sa lettre du février 2009, ainsi que les données fournies par l’Autorité de régulation
+         des communications électroniques et des postes (ARCEP) dans sa réponse du février 2009, formulée à la suite d’une demande
+         d’avis quant à ce courrier de France Télécom (paragraphes à de la décision [litigieuse]).
+      
+Tout d’abord, il découle de ce rappel de la décision [litigieuse] que, contrairement à ce que font valoir les requérantes,
+         la Commission ne s’est pas contentée de prendre en considération des données anciennes, datant de et de 2005, pour apprécier
+         l’existence d’une défaillance du marché. Au contraire, la Commission a pris en considération des données actualisées existant
+         au moment où elle a adopté la décision [litigieuse].
+      
+Ensuite, il y a lieu de constater que la Commission ne s’est pas davantage limitée aux prévisions de déploiement de France
+         Télécom, dès lors qu’elle a pris en considération, notamment, celles de Free [SAS] ainsi que les données fournies par l’ARCEP
+         dans sa réponse du février 2009. En particulier, cette dernière réponse a pris en considération, ainsi que cela ressort
+         du paragraphe de la décision [litigieuse], l’état du déploiement des opérateurs alternatifs.
+      
+[...]
+Par conséquent, il ne saurait être soutenu que la Commission ne disposait pas d’informations actualisées et suffisantes pour
+         conclure à l’existence de difficultés sérieuses de nature à justifier l’ouverture de la procédure formelle d’examen.
+      
+Deuxièmement, s’agissant des erreurs de calcul alléguées par les requérantes, il suffit de relever, sans qu’il soit besoin
+         d’examiner, à ce stade, l’incidence de ces arguments sur la question de savoir si les conditions de l’arrêt [Altmark Trans
+         et Regierungspräsidium Magdeburg (EU:C:2003:415)] sont remplies en l’espèce, que ces arguments ne sont pas de nature à révéler
+         l’existence de difficultés sérieuses justifiant l’ouverture de la procédure formelle d’examen.» 
+      
+Le deuxième moyen invoqué par Iliad e.a. à l’appui de leur recours devant le Tribunal était tiré de la violation de l’article
+         87, paragraphe 1, CE, devenu l’article 107, paragraphe 1, TFUE. Au soutien de ce moyen comportant quatre branches, Iliad e.a.
+         soutenaient que, contrairement à ce que la Commission a considéré dans la décision litigieuse, aucun des quatre critères cumulatifs
+         posés par la Cour dans son arrêt Altmark Trans et Regierungspräsidium Magdeburg (EU:C:2003:415) n’était rempli en l’occurrence,
+         de sorte que ladite décision aurait conclu à tort à l’inexistence d’une aide d’État. 
+      
+Dans l’arrêt attaqué, le Tribunal a rejeté, successivement, chacune de ces quatre branches et a, en conséquence, rejeté le
+         second moyen dans son intégralité.
+      
+La première branche de ce moyen était tirée de ce que la Commission aurait considéré à tort que la condition selon laquelle
+         le groupement bénéficiaire de la mesure en cause doit être chargé de l’exécution d’obligations de service public clairement
+         définies était remplie en l’occurrence. Cette branche a été examinée et rejetée par le Tribunal aux points à de l’arrêt
+         attaqué.
+      
+Dans le cadre de cet examen, le Tribunal s’est notamment penché, aux points à de l’arrêt attaqué, sur l’argument d’Iliad
+         e.a. selon lequel la Commission aurait reconnu à tort l’existence d’une défaillance du marché alléguée par les autorités françaises.
+      
+Les points à et de cet arrêt sont rédigés comme suit:
+      
+«Dans la décision [litigieuse], la Commission a appliqué le critère de la défaillance du marché au cas d’espèce. Elle a considéré,
+         sous le titre ‘Mesures justifiées par une mission de service public d’intérêt économique général’, que les services en question
+         n’étaient pas fournis à l’heure actuelle par des opérateurs tiers d’une façon complète et satisfaisante sur le marché concerné.
+         En effet, aucun opérateur commercial n’aurait à ce jour déployé dans les Hauts-de-Seine un réseau de desserte à très haut
+         débit couvrant l’ensemble des usagers résidentiels et professionnels du département (paragraphe de la décision [litigieuse]).
+      
+La Commission a ainsi rejeté les allégations d’opérateurs privés tiers formulées au cours de la procédure administrative,
+         selon lesquels il n’existerait aucune raison justifiant une intervention publique, les besoins du public étant sur le point
+         d’être satisfaits par des déploiements de réseaux en fibre entrepris par eux-mêmes. Elle a notamment constaté que, lors de
+         la procédure d’attribution de la DSP, tous les groupements ayant présenté une candidature se sont fondés sur l’existence,
+         dans le département, de zones non rentables dont la couverture aurait nécessité l’octroi d’une subvention publique. De même,
+         il ressortirait d’une réponse de l’ARCEP à une demande d’avis formulée par les autorités françaises à l’instigation de la
+         Commission à la suite d’un courrier de France Télécom du février qu’aucun opérateur n’a à ce jour déployé un réseau
+         universel en fibre optique dans les Hauts-de-Seine. Enfin, quant au courrier de Free [SAS] du mai 2009, selon lequel cet
+         opérateur aurait déployé d’ici à la fin de un réseau à très haut débit couvrant les communes du département, la Commission
+         a constaté que les autorités françaises l’avaient considéré comme étant dépourvu de crédibilité, dès lors que les objectifs
+         de couverture précédents annoncés par cet opérateur en n’avaient pas été atteints (paragraphes à de la décision
+         [litigieuse]).
+      
+C’est à la lumière de ces rappels qu’il convient d’examiner les arguments des requérantes, dont aucun n’apparaît de nature
+         à remettre en cause les considérations émises par la Commission, dans la décision [litigieuse], quant à l’existence d’une
+         défaillance du marché.
+      
+Ainsi, en premier lieu, doivent être rejetés les arguments des requérantes visant à contester les données prises en compte
+         par la Commission dans le cadre de son appréciation de la défaillance du marché (voir point ci-dessus).
+      
+À cet égard, il y a lieu de préciser que l’existence d’une défaillance du marché doit être appréciée au moment où le service
+         destiné à pallier cette défaillance est institué. Cette appréciation doit également comporter une analyse prospective de la
+         situation du marché pour toute la durée d’application du SIEG, pendant laquelle la défaillance du marché doit également être
+         vérifiée, ainsi que cela ressort en substance également du point de l’[arrêt Olsen/Commission (T‑17/02, EU:T:2005:218)]
+         cité par la République française. Néanmoins, dès lors que, en vertu d’une jurisprudence constante, les appréciations portées
+         par la Commission ne doivent être examinées qu’en fonction des seuls éléments dont elle disposait au moment où elle les a
+         effectuées ([arrêts Belgique/Commission, C‑197/P, EU:C:2003:444], point 86, et [EDF/Commission, T‑156/04, EU:T:2009:505],
+         point 125), l’appréciation de la défaillance du marché est nécessairement limitée aux éléments dont la Commission disposait
+         à la date d’adoption de la décision [litigieuse].
+      
+Dans ces conditions, en l’espèce, premièrement, il convient de relever que les requérantes ne sauraient reprocher à la Commission
+         de s’être fondée sur des données anciennes, puisque datant de et de 2005. En effet, ces données correspondent à la période
+         pendant laquelle le département des Hauts-de-Seine procédait à des études en vue d’instituer un SIEG dans le secteur des communications
+         électroniques à très haut débit, avant le vote de la délibération à l’origine de la procédure de DSP datant du mars 2006.
+      
+[...]
+Ainsi, premièrement, quant au déploiement de France Télécom, la Commission indique, aux paragraphes et à de la
+         décision [litigieuse], ce qui suit: 
+      
+[...]»
+ Les conclusions des parties devant la Cour
+Par leur pourvoi, Iliad e.a. demandent à la Cour:
+      
+–        d’annuler l’arrêt attaqué;
+–        de faire droit à leur conclusions présentées en première instance, si la Cour considère que le litige est en état d’être jugé,
+         ou, à défaut, de renvoyer l’affaire devant le Tribunal, et
+      
+–        de condamner la Commission aux dépens si la Cour se prononce sur l’affaire et de réserver ceux-ci si elle renvoie l’affaire
+         devant le Tribunal.
+      
+La Commission, la République française et le département des Hauts-de-Seine demandent à la Cour de rejeter le pourvoi et de
+         condamner Iliad e.a. aux dépens.
+      
+ Sur le pourvoi
+En vertu de l’article du règlement de procédure de la Cour, lorsque le pourvoi est, en tout ou en partie, manifestement
+         irrecevable ou manifestement non fondé, cette dernière peut, à tout moment, sur proposition du juge rapporteur, l’avocat général
+         entendu, décider de rejeter ce pourvoi totalement ou partiellement par voie d’ordonnance motivée.
+      
+Il y a lieu de faire application de cette disposition dans le cadre du présent pourvoi.
+      
+Au soutien de leur pourvoi, les requérantes soulèvent six moyens.
+      
+ Sur le premier moyen, tiré d’une violation de l’obligation de motivation 
+Par leur premier moyen, les requérantes soutiennent que le Tribunal a méconnu l’obligation de motivation en ne répondant pas,
+         ou en répondant de manière insuffisante, à leur argument invoqué en première instance selon lequel les nombreux engagements
+         pris par les autorités françaises constituent l’un des indices témoignant de l’existence de difficultés sérieuses de nature
+         à exiger l’ouverture, par la Commission, d’une procédure formelle d’examen au titre de l’article 88, paragraphe 2, CE.
+      
+En se contentant de juger, aux points à de l’arrêt attaqué, qu’accueillir ledit argument reviendrait à remettre en cause
+         la possibilité dont dispose la Commission d’engager un dialogue avec les autorités nationales en vue de surmonter les difficultés
+         qui se présentent, le Tribunal ne se serait pas prononcé sur la substance de cet argument portant sur le fait que les engagements
+         susmentionnés ont impliqué des modifications substantielles de la subvention envisagée aux fins d’assurer la compatibilité
+         de celle-ci avec le droit de l’Union.
+      
+S’agissant, en premier lieu, de la recevabilité de ce moyen, il y a lieu de constater que, contrairement à ce que soutient
+         le département des Hauts-de-Seine, les requérantes ne visent pas, en l’occurrence, à solliciter de la Cour un simple réexamen
+         par celle-ci de leurs arguments avancés devant le Tribunal. En effet, ainsi qu’il ressort de ce qui précède, aux termes dudit
+         moyen, les requérantes reprochent au Tribunal une absence ou une insuffisance de motivation de l’arrêt attaqué du fait que
+         celui-ci ne répondrait pas, ou de manière insuffisante, à l’un de leurs arguments.
+      
+Or, il y a lieu de rappeler, à cet égard, que, aux termes d’une jurisprudence constante de la Cour, la question de savoir
+         si la motivation d’un arrêt du Tribunal est insuffisante constitue une question de droit pouvant être, en tant que telle,
+         invoquée dans le cadre d’un pourvoi (voir, notamment, arrêt FIAMM e.a./Conseil et Commission, C‑120/P et C‑121/P, EU:C:2008:476,
+         point et jurisprudence citée). Il s’ensuit que le moyen est recevable.
+      
+En second lieu, sur le fond, il convient de relever, d’une part, que les requérantes ne contestent pas que le Tribunal a,
+         au point de l’arrêt attaqué, correctement fait état de leur argument susvisé, tel qu’exposé en première instance.
+      
+D’autre part, il ressort de la jurisprudence constante de la Cour que la motivation d’un arrêt doit faire apparaître de façon
+         claire et non équivoque le raisonnement du Tribunal, de manière à permettre aux intéressés de connaître les justifications
+         de la décision prise et à la Cour d’exercer son contrôle juridictionnel (voir, notamment, arrêt General Química e.a./Commission,
+         C‑90/P, EU:C:2011:21, point et jurisprudence citée). En revanche, le fait que le Tribunal parvienne, sur le fond, à
+         une conclusion différente de celle des requérantes ne saurait en soi entacher l’arrêt attaqué d’un défaut de motivation (voir,
+         notamment, arrêt Gogos/Commission, C‑583/P, EU:C:2010:287, point et jurisprudence citée). 
+      
+Or, en l’occurrence, et ainsi que l’on fait valoir tant la Commission que le gouvernement français, le Tribunal a indiqué,
+         aux points à de l’arrêt attaqué, au terme d’un raisonnement clair et non équivoque, les raisons pour lesquelles l’argument
+         avancé par Iliad e.a. devait, selon ladite juridiction, être rejeté.
+      
+En effet, le Tribunal a, tout d’abord, exposé, au point de cet arrêt, que la Commission jouissait d’une certaine marge
+         d’appréciation dans la recherche et dans l’examen des circonstances de l’espèce afin de déterminer si celles-ci soulèvent
+         des difficultés, en rappelant la faculté de dialogue dont dispose ladite institution dans cette perspective. Le Tribunal a,
+         de même, souligné, à cet égard, notamment par renvoi au point de son arrêt 3F/Commission (EU:T:2011:534), qu’une telle
+         faculté de dialogue, qui est destinée à permettre de surmonter les difficultés éventuellement rencontrées par la Commission
+         dans le cadre de son appréciation, présuppose que cette institution puisse adapter sa position en fonction des résultats du
+         dialogue engagé, sans que cette adaptation doive être a priori interprétée comme établissant l’existence de difficultés sérieuses.
+         
+      
+Ensuite, le Tribunal a fait état, ainsi qu’il ressort du point de l’arrêt attaqué, des engagements concrets en l’occurrence
+         proposés par les autorités françaises, avant de juger, au point de cet arrêt que, en l’espèce, les engagements ainsi pris
+         avaient permis d’écarter un certain nombre de doutes quant à la qualification d’«aide» du projet THD en précisant que ces
+         engagements avaient, pour cette raison, été mentionnés dans la décision litigieuse comme des éléments venant au soutien de
+         la conclusion de la Commission relative à l’absence d’aide d’État.
+      
+Ce n’est qu’après avoir ainsi procédé auxdits rappels jurisprudentiels et examiné les engagements concrets en l’occurrence
+         proposés par les autorités françaises et mentionnés dans la décision litigieuse que le Tribunal a, enfin, jugé, au point de l’arrêt attaqué, que considérer que de tels engagements seraient révélateurs de difficultés sérieuses reviendrait à méconnaître
+         la finalité de l’article 88, paragraphe 3, CE et de la procédure préliminaire d’examen qu’il prévoit en méconnaissance de
+         la jurisprudence mentionnée au point de la présente ordonnance.
+      
+Dans ces conditions, il y a lieu de constater que la motivation de l’arrêt attaqué permet, à suffisance de droit, de connaître
+         les raisons pour lesquelles le Tribunal a, en l’occurrence, considéré devoir rejeter l’argument soulevé par les requérantes.
+      
+Eu égard à ces considérations, le premier moyen doit être rejeté comme étant manifestement non fondé.
+      
+ Sur le deuxième moyen, tiré d’erreurs de droit dans l’interprétation et l’application de dispositions du règlement n° 659/Par leur deuxième moyen, les requérantes font valoir, en substance, que, à l’occasion de l’examen de leur argument selon lequel
+         la longueur de la procédure ayant conduit à l’adoption de la décision litigieuse constituait l’un des indices objectifs et
+         concordants témoignant de l’existence de difficultés sérieuses de nature à justifier l’ouverture d’une procédure formelle
+         d’examen, le Tribunal a commis des erreurs de droit dans l’interprétation et l’application de certaines dispositions du règlement
+         n° 659/et, en particulier, de l’article 4, paragraphe 5, de ce dernier.
+      
+Elles rappellent à cet égard que cette disposition du règlement n° 659/prévoit, d’une part, que la décision de la Commission
+         constatant, après un examen préliminaire, que la mesure notifiée n’est pas une aide doit être prise dans un délai de deux
+         mois à compter du jour suivant celui de la réception d’une notification complète,et, d’autre part, que la notification est
+         considérée comme complète si, dans les deux mois de sa réception ou de la réception de toute information additionnelle réclamée,
+         la Commission ne réclame pas d’autres informations.
+      
+Or, les requérantes soutiennent, d’une part, que, dès lors qu’il ressort de l’arrêt attaqué que, après avoir reçu des informations
+         complémentaires des autorités françaises en date du novembre 2008, la Commission n’a formulé aucune nouvelle demande d’informations
+         complémentaires dans les deux mois qui ont suivi, le Tribunal aurait dû considérer, conformément à ce que prévoit l’article
+         4, paragraphe 5, du règlement n° 659/1999, que la notification était complète dès le novembre 2008. Ce serait, dès lors,
+         à tort que le Tribunal a également pris en considération, aux fins de déterminer la date à laquelle la notification devait
+         être tenue pour complète, la réponse complémentaire des autorités françaises du novembre 2008.
+      
+D’autre part, les requérantes font valoir, à titre subsidiaire, que c’est également erronément que le Tribunal a considéré
+         que le courrier du mai de la Commission par lequel cette institution a invité les autorités françaises non pas à lui
+         fournir des renseignements complémentaires concernant la mesure notifiée, ainsi que le prévoit l’article 5, paragraphe 1,
+         du règlement n° 659/1999, mais à lui faire part de leurs observations en réaction à un courrier reçu d’un opérateur concurrent,
+         avait eu pour conséquence que la notification n’était pas encore complète, au sens de l’article 4, paragraphe 5, de ce même
+         règlement.
+      
+Ces erreurs d’interprétation du règlement n° 659/auraient amené le Tribunal à considérer, erronément, au point de
+         l’arrêt attaqué, que la date à laquelle la notification devait être considérée comme complète au sens de l’article 4, paragraphe
+         5, dudit règlement était celle du août 2009. De ce fait, ce serait également à tort que ladite juridiction en a déduit,
+         aux points et de cet arrêt, que la décision litigieuse avait bien été adoptée dans le délai de deux mois prévu par cette
+         même disposition et que la durée de la procédure ne saurait dès lors être constitutive d’un indice de l’existence de difficultés
+         sérieuses.
+      
+S’agissant, en premier lieu, de la recevabilité de ce moyen, il y a lieu de constater que, contrairement à ce que soutiennent
+         le gouvernement français et le département des Hauts-de-Seine, les requérantes ne se bornent nullement à remettre en cause
+         des appréciations factuelles effectuées par le Tribunal aux fins d’établir la date à laquelle la notification de la mesure
+         en cause devait être tenue pour complète.
+      
+En effet, il ressort de ce qui précède que les requérantes ont clairement exposé les raisons pour lesquelles elles considéraient
+         que l’application faite par le Tribunal des dispositions du règlement n° 659/1999, en particulier de l’article 4, paragraphe
+         5, de celui-ci, reposait, selon elles, sur une interprétation erronée de cette disposition, ayant conduit ladite juridiction
+         à donner aux faits dont elle se trouvait saisie une qualification juridique erronée.
+      
+Or, il convient de rappeler à cet égard que, aux termes d’une jurisprudence constante de la Cour, lorsque le Tribunal a constaté
+         ou apprécié des faits, la Cour est, pour sa part, compétente pour exercer un contrôle sur la qualification juridique de ces
+         faits et sur les conséquences juridiques qui en ont été tirées par le Tribunal (voir, notamment, arrêt BAI et Commission/Bayer,
+         C‑2/P et C‑3/P, EU:C:2004:2, point et jurisprudence citée).
+      
+Il s’ensuit que le moyen est recevable.
+      
+En second lieu, s’agissant du fond du deuxième moyen, il y a lieu de relever, d’emblée, que, ainsi que l’a notamment fait
+         valoir à bon droit la Commission, celui-ci ne saurait, même à le supposer fondé, conduire à une annulation de l’arrêt attaqué.
+      
+En effet, il convient de rappeler que, selon une jurisprudence constante de la Cour, la procédure prévue à l’article 88, paragraphe
+         2, CE revêt un caractère indispensable dès lors que la Commission éprouve des difficultés sérieuses pour apprécier si une
+         aide est compatible avec le marché commun (voir, notamment, arrêt Bouygues et Bouygues Télécom/Commission, C‑431/P, EU:C:2009:223,
+         point et jurisprudence citée).
+      
+La jurisprudence de la Cour est également bien établie en ce sens que la notion de difficultés sérieuses revêtant un caractère
+         objectif, l’existence de celles-ci doit être recherchée non seulement dans les circonstances de l’adoption de l’acte attaqué,
+         mais également dans les appréciations sur lesquelles s’est fondée la Commission (arrêts Bouygues et Bouygues Télécom/Commission,
+         EU:C:2009:223, point et jurisprudence citée, ainsi que Belgique/Deutsche Post et DHL International, C‑148/P, EU:C:2011:603,
+         point 79), la preuve de l’existence de telles difficultés pouvant ainsi être rapportée à partir d’un faisceau d’indices concordants
+         (arrêt 3F/Commission, C‑646/P, EU:C:2013:36, point et jurisprudence citée).
+      
+À cet égard, si la durée de la procédure préliminaire d’examen, et notamment une durée excédant le délai de deux mois prévu
+         à l’article 4, paragraphe 5, du règlement n° 659/1999, ainsi que le nombre de demandes de renseignements adressées aux autorités
+         nationales concernées peuvent notamment constituer des indices de ce que la Commission a pu avoir des doutes en ce qui concerne
+         la compatibilité de l’aide en cause avec le marché commun, ces éléments ne sauraient à eux seuls permettre de déduire que
+         la Commission aurait dû ouvrir la procédure formelle d’examen (arrêts Belgique/Deutsche Post et DHL International, EU:C:2011:603,
+         point 81, et 3F/Commission, EU:C:2013:36, point et jurisprudence citée).
+      
+Or, il y a lieu de relever que, en l’occurrence, l’ensemble des éléments tenant aux appréciations sur lesquelles s’est fondée
+         la Commission dans la décision litigieuse qu’ont invoqués les requérantes devant le Tribunal au soutien de leur premier moyen
+         en tant qu’indices prétendus de l’existence de difficultés sérieuses ont été écartés par celui-ci aux points 79, et de l’arrêt attaqué comme n’étant pas révélateurs de telles difficultés.
+      
+Aux points et dudit arrêt, le Tribunal a, par ailleurs, jugé, à propos des objections en l’occurrence formulées par
+         les opérateurs privés, que celles-ci n’étaient pas de nature à révéler l’existence de telles difficultés. Enfin, il ressort
+         des points et de ce même arrêt que le Tribunal a, de même, jugé que les échanges intervenus entre la Commission et les
+         autorités françaises ne contenaient pas d’éléments susceptibles de révéler l’existence de difficultés sérieuses.
+      
+Il découle de ce qui précède que, à supposer même qu’il faille considérer, à la différence de ce qu’a jugé le Tribunal aux
+         points et de l’arrêt attaqué, que la longueur de la procédure d’examen préliminaire aurait excédé le délai prévu à l’article
+         4, paragraphe 5, du règlement n° 659/et que pareille circonstance soit dès lors susceptible de constituer un indice de
+         l’existence de difficultés sérieuses, un tel constat n’aurait, en l’occurrence, toutefois pas été de nature à permettre au
+         Tribunal de faire droit au premier moyen d’Iliad e.a., tiré d’une violation de l’article 88, paragraphe 2, CE, en décidant
+         que la Commission aurait dû ouvrir la procédure formelle d’examen.
+      
+Le deuxième moyen du pourvoi n’étant ainsi pas apte à entraîner l’annulation de l’arrêt attaqué que poursuivent les requérantes,
+         il doit être rejeté comme étant manifestement inopérant (voir en ce sens, notamment, arrêts EFMA/Conseil, C‑46/P, EU:C:2000:474,
+         point 38, ainsi que Bouygues et Bouygues Télécom/Commission, EU:C:2009:223, point 148), sans qu’il y ait lieu d’examiner si
+         le Tribunal a commis d’éventuelles erreurs de droit dans l’interprétation et l’application des dispositions du règlement n° 659/1999,
+         ainsi que l’allèguent les requérantes.
+      
+ Sur le troisième moyen, tiré d’une violation de l’obligation de soulever d’office les moyens d’ordre public
+Par leur troisième moyen, les requérantes soutiennent que le Tribunal a commis une erreur de droit en ne relevant pas d’office
+         la circonstance que la Commission était en l’occurrence sans compétence pour déclarer la compensation de charges de service
+         public en cause compatible avec le traité. Un tel moyen étant d’ordre public, il appartiendrait, de même, à la Cour de l’examiner,
+         le cas échéant d’office, dans le cadre du pourvoi.
+      
+Les requérantes font plus précisément valoir que, à la suite de la demande de renseignements complémentaires de la Commission
+         datant du août et alors que le délai prorogé pour répondre à celle-ci avait expiré le novembre 2008, les autorités
+         françaises n’ont répondu à ladite demande que le novembre 2008. Or, il résulterait de l’article 5, paragraphe 3, du règlement
+         n° 659/que du fait de cette absence de réponse dans le délai imparti, la notification du projet THD aurait dû être
+         considérée comme retirée, de sorte que la Commission n’aurait plus été compétente pour se prononcer sur celui-ci. 
+      
+À cet égard, et sans même qu’il soit nécessaire de se prononcer sur la question de savoir si un tel moyen pourrait, le cas
+         échéant, être qualifié d’«ordre public», il suffit de relever que, ainsi que l’ont fait valoir tant la Commission que le gouvernement
+         français, ce moyen, qui repose en l’occurrence sur une lecture manifestement erronée de l’article du règlement n° 659/1999,
+         ne saurait, en tout état de cause, prospérer.
+      
+En effet, ainsi qu’il ressort clairement des paragraphes à de cet article 5, ce n’est que dans l’hypothèse où la Commission
+         a procédé, conformément au paragraphe dudit article, à l’envoi d’une lettre de rappel avec fixation d’un délai supplémentaire
+         aux fins d’obtenir des informations complémentaires précédemment demandées et ne lui ayant pas été fournies ou lui ayant été
+         fournies de manière incomplète et, en cas d’absence de réponse à une telle lettre de rappel dans le délai ainsi fixé, que
+         la notification est réputée être retirée en vertu du paragraphe de ce même article.
+      
+Or, il ne ressort aucunement de l’arrêt attaqué que la lettre du août à laquelle se réfèrent les requérantes serait
+         une lettre de rappel adressée aux autorités françaises sur le fondement de l’article 5, paragraphe 2, du règlement n° 659/1999,
+         en vue d’obtenir de celles-ci la communication de renseignements complémentaires précédemment demandés et qui n’auraient pas
+         été transmis à la Commission ou lui auraient été transmis de manière incomplète.
+      
+Au contraire, aux points et de l’arrêt attaqué, le Tribunal constate, d’une part, que ladite lettre avait pour objet
+         même une demande d’informations complémentaires et qu’elle constituait, en outre, la première demande de ce type adressée
+         par la Commission aux autorités françaises et, d’autre part, que la prorogation de délai en l’occurrence accordée par la Commission
+         à ces autorités l’a été non pas dans le cadre d’un rappel adressé auxdites autorités, mais à la demande de ces dernières.
+      
+Par ailleurs, dans leur pourvoi, les requérantes ne critiquent pas lesdits constats qui, étant d’ordre factuel, ne sauraient,
+         en tout état de cause, l’être dans le cadre d’un pourvoi.
+      
+Pour autant que de besoin, il convient en effet de rappeler que, en vertu de l’article 256, paragraphe 1, second alinéa, TFUE
+         et de l’article 58, premier alinéa, du statut de la Cour de justice de l’Union européenne, le pourvoi contre les décisions
+         du Tribunal est limité aux questions de droit. Au regard de ces dispositions, il est de jurisprudence constante de la Cour
+         que le Tribunal est seul compétent pour constater et apprécier les faits et, en principe, pour examiner les preuves qu’il
+         retient à l’appui de ces faits. Cette appréciation ne constitue donc pas, sous réserve du cas de la dénaturation de ces éléments,
+         une question de droit soumise, comme telle, au contrôle de la Cour (voir, notamment, ordonnance Albergo Quattro Fontane e.a./Commission,
+         C‑227/P à C‑239/P, EU:C:2014:2177, point et jurisprudence citée).
+      
+Il découle des considérations qui précèdent que le troisième moyen doit être rejeté comme étant manifestement non fondé.
+      
+ Sur le quatrième moyen, tiré d’une première erreur de droit dans l’appréciation de l’existence d’une défaillance du marché
+Par leur quatrième moyen, les requérantes font valoir qu’il résulte des points 165, et de l’arrêt attaqué que le Tribunal
+         s’est erronément abstenu de relever l’erreur manifeste qu’a commise la Commission dans la décision litigieuse en n’appliquant
+         pas, dans son appréciation de l’existence d’une défaillance du marché, le test idoine à cet effet. En effet, au lieu de vérifier
+         si les concurrents du service qualifié de SIEG n’avaient pas déjà développé ou n’étaient pas en passe de développer des services
+         analogues, la Commission aurait retenu un test plus strict en exigeant que lesdits concurrents développent des services universels.
+      
+Dans leur mémoire en réplique, les requérantes soutiennent, en outre, que le Tribunal a commis une seconde erreur de droit
+         en considérant que, à la date à laquelle il a statué, le réseau départemental en cause revêtait un caractère universel.
+      
+S’agissant de cette seconde erreur de droit prétendue, il suffit de constater d’emblée, ainsi que l’a fait valoir à bon droit
+         le gouvernement français, que, dès lors qu’il ne figure pas dans la requête introductive d’instance, la production d’un tel
+         moyen nouveau en cours d’instance est en principe interdite en vertu de l’article du règlement de procédure de la Cour,
+         rendu applicable à la procédure sur pourvoi par l’article de ce même règlement, de telle sorte que ce moyen doit être
+         jugé irrecevable. 
+      
+Quant au moyen tel qu’il se trouve formulé dans la requête introductive d’instance, force est de constater que, ainsi que
+         l’a fait valoir à bon droit le département des Hauts-de-Seine, Iliad e.a. n’ont pas allégué devant le Tribunal que la décision
+         litigieuse devrait être annulée du chef d’avoir fait application d’un tel test trop strict en exigeant que les concurrents
+         développent des services universels. Il s’ensuit que par leur quatrième moyen, les requérantes invoquent en réalité, pour
+         la première fois au stade du pourvoi, un moyen qui, n’ayant pas été soulevé au soutien de leur recours en première instance,
+         doit également être rejeté comme irrecevable (voir, par analogie, notamment, arrêt FENIN/Commission, C‑205/P, EU:C:2006:453,
+         points et 22).
+      
+À cet égard, il convient en effet de rappeler que, conformément à une jurisprudence constante de la Cour, permettre à une
+         partie de soulever pour la première fois devant celle-ci un moyen et des arguments qu’elle n’a pas soulevés devant le Tribunal
+         reviendrait à l’autoriser à saisir la Cour, dont la compétence en matière de pourvoi est limitée, d’un litige plus étendu
+         que celui dont a eu à connaître le Tribunal. Dans le cadre d’un pourvoi, la compétence de la Cour est donc limitée à l’appréciation
+         de la solution légale qui a été donnée aux moyens et aux arguments débattus devant les premiers juges (voir, notamment, arrêt
+         Suède e.a./API et Commission, C‑514/P, C‑528/P et C‑532/P, EU:C:2010:541, point et jurisprudence citée).
+      
+Dans leur mémoire en réplique, les requérantes, qui ne contestent pas ne pas avoir soulevé ce moyen en première instance à
+         l’encontre de la décision litigieuse, font toutefois valoir que, dès lors qu’il vise à contester une appréciation que le Tribunal
+         a lui-même cautionnée dans l’arrêt attaqué, ledit moyen n’aurait pas pu être formulé en première instance.
+      
+Il y a toutefois lieu de rappeler, d’une part, que, dans leur requête, les requérantes identifient elles-mêmes expressément
+         l’erreur de droit qu’elles reprochent au Tribunal comme ayant consisté à ne pas relever que la Commission avait, dans la décision
+         litigieuse, commis une erreur d’appréciation manifeste. Il est, du reste, symptomatique, à cet égard, que, aux termes des
+         trois seuls points de l’arrêt attaqué critiqués par les requérantes dans le cadre de leur quatrième moyen, à savoir les points
+         165, et de cet arrêt, le Tribunal se borne en substance à faire état d’éléments contenus dans la décision litigieuse.
+      
+D’autre part, il convient de relever que l’argumentation ainsi développée par les requérantes dans leur mémoire en réplique
+         revient, en substance, à prétendre qu’un moyen afférent à la validité d’un acte non soulevé en première instance dans le cadre
+         d’un recours en annulation dirigé contre cet acte peut être avancé au soutien d’un pourvoi dirigé contre l’arrêt du Tribunal
+         rendu sur un tel recours au motif que ladite juridiction n’a pas, dans ledit arrêt, elle-même soulevé d’office ledit moyen
+         et annulé, de ce chef, l’acte attaqué. Or, il relève de l’évidence que, hormis l’hypothèse où un tel moyen relèverait de l’ordre
+         public, ce que n’allèguent pas les requérantes en l’occurrence, la jurisprudence constante rappelée au point de la présente
+         ordonnance conduit à devoir écarter une telle argumentation.
+      
+Eu égard aux considérations qui précèdent, le quatrième moyen doit être rejeté comme étant manifestement irrecevable.
+      
+ Sur le cinquième moyen, tiré d’une seconde erreur de droit dans l’appréciation de l’existence d’une défaillance du marché
+Par leur cinquième moyen, les requérantes soutiennent que le Tribunal a commis une erreur de droit en jugeant, au point de l’arrêt attaqué, que, aux fins d’apprécier l’existence d’une défaillance du marché, la Commission avait valablement pu
+         se fonder exclusivement sur les données datant des années et 2005, lesdites données correspondant à la période pendant
+         laquelle le département des Hauts-de-Seine procédait à des études en vue d’instituer le SIEG litigieux par délibération du
+         mars 2006.
+      
+Ce faisant, le Tribunal se serait limité à vérifier l’une des conditions rappelées au point de l’arrêt attaqué en omettant
+         de s’assurer, par une analyse prospective, que la défaillance était vérifiée pendant toute la durée d’application du SIEG.
+         Or, si le Tribunal avait pris en compte les données disponibles entre l’année et la date d’adoption de la décision litigieuse,
+         il aurait pu considérer que la défaillance de marché n’était pas établie durant toute cette durée.
+      
+S’agissant, en premier lieu, de la recevabilité d’un tel moyen, il convient de constater que, contrairement à ce que soutiennent
+         le gouvernement français et le département des Hauts-de-Seine, les requérantes ne se bornent pas, par ce moyen, à remettre
+         en cause des appréciations de fait qu’aurait effectué le Tribunal dans l’appréciation de l’existence d’une défaillance du
+         marché. En effet, il résulte de ce qui précède que celles-ci reprochent en substance à ladite juridiction de ne pas s’être
+         assurée que la Commission avait bien mené, sur la base des données actualisées dont elle disposait, une analyse prospective
+         du marché aux fins de vérifier que ladite défaillance perdurerait pendant toute la durée d’application du SIEG. Il s’ensuit
+         que le moyen est recevable.
+      
+En second lieu, quant au fond, il suffit de relever que, ainsi que l’ont notamment fait valoir la Commission et le gouvernement
+         français, il ressort des points à de l’arrêt attaqué et, en particulier, du point de celui-ci que, contrairement
+         à ce que soutiennent les requérantes, le Tribunal a, en l’occurrence, jugé que, dans la décision litigieuse, la Commission
+         avait bien procédé à une analyse prospective aux fins de s’assurer que la défaillance de marché était vérifiée pendant toute
+         la durée d’application du SIEG et qu’elle avait tenu compte, à cet égard, de l’ensemble des éléments actualisés dont elle
+         disposait à la date de l’adoption de ladite décision, sans se contenter de prendre en considération les données datant des
+         années et dont il est également question au point dudit arrêt.
+      
+Dans leur pourvoi, les requérantes perdent ainsi de vue lesdites appréciations du Tribunal qui, pour les motifs exposés par
+         ladite juridiction aux points et de l’arrêt attaqué, ont été formulées dès le stade du traitement de leur premier moyen
+         tiré d’une violation de l’article 88, paragraphe 2, CE.
+      
+Eu égard aux considérations qui précèdent, le cinquième moyen doit être écarté comme étant manifestement non fondé. 
+      
+ Sur le sixième moyen, tiré de l’existence de contradictions dans les motifs de l’arrêt attaqué 
+Par leur sixième moyen, les requérantes font valoir que les motifs de l’arrêt attaqué sont entachés de deux contradictions.
+         Une première contradiction tiendrait en ce que le Tribunal a affirmé, d’une part, au point de l’arrêt attaqué, que les
+         échanges intervenus entre la Commission et les autorités françaises n’avaient pas pu constituer un indice de difficultés sérieuses
+         justifiant l’ouverture d’une procédure formelle d’examen, tout en relevant, d’autre part, au point de ce même arrêt, que
+         la demande d’informations de la Commission comportant questions attestait de l’étendue du champ d’investigation de la Commission.
+      
+La seconde contradiction ressortirait du point de l’arrêt attaqué dans lequel le Tribunal a jugé, d’une part, que la demande
+         d’informations de la Commission du janvier ne réitérait pas des questions déjà posées précédemment, tout en constatant,
+         d’autre part, que les demandes de précisions contenues dans cette demande d’informations ne concernaient qu’un nombre limité
+         de points déjà abordés dans la première demande.
+      
+Or, ces contradictions dans le raisonnement tenu par le Tribunal auraient amené ladite juridiction à ne pas tirer les conclusions
+         qui s’imposaient quant à l’existence de difficultés sérieuses prétendument mises en exergue par les échanges intervenus entre
+         la Commission et les autorités françaises.
+      
+Il y a lieu de constater que, ainsi que l’ont fait valoir tant la Commission que le gouvernement français et le département
+         des Hauts-de-Seine, les contradictions ainsi alléguées par les requérantes ne sont aucunement avérées.
+      
+Il est en effet manifeste, en premier lieu, que le fait, pour le Tribunal, d’avoir jugé, au point de l’arrêt attaqué, que,
+         nonobstant le nombre et l’étendue des questions posées, l’examen du contenu et de l’objet de celles-ci n’était en l’occurrence
+         pas propre à révéler l’existence de difficultés sérieuses n’emporte aucune contradiction de motifs.
+      
+Par ailleurs, il convient de rappeler que, ainsi, qu’il résulte de la jurisprudence constante de la Cour rappelée au point
+         de la présente ordonnance, le fait que le Tribunal parvienne, ce faisant, sur le fond, à une conclusion différente de celle
+         des requérantes ne saurait en soi entacher l’arrêt attaqué d’un défaut de motivation.
+      
+En second lieu, les affirmations contenues dans la quatrième phrase du point de l’arrêt attaqué, selon lesquelles, d’une
+         part, la demande d’informations examinée ne réitère pas simplement des questions déjà posées et, d’autre part, les demandes
+         de précisions qu’elle contient ne portent que sur un nombre très limité de points déjà abordés dans la première demande d’informations,
+         n’induisent pas davantage de contradiction, si l’on prend soin de les lire à la lumière des constatations opérées par le Tribunal
+         dans les trois premières phrases de ce même point de l’arrêt attaqué. En effet, le Tribunal y relève expressément que les
+         questions que comporte ladite demande d’informations ont, pour l’essentiel, un autre objet que celui de la première demande
+         d’informations et que, sur deux points précis seulement, elles visent à obtenir des précisions relatives aux réponses données
+         par les autorités françaises à cette première demande.
+      
+Eu égard aux considérations qui précèdent, le moyen doit être rejeté comme étant manifestement non fondé.
+      
+Les six moyens invoqués par les requérantes au soutien de leur pourvoi ayant ainsi été écartés, il y a lieu de rejeter celui-ci
+         comme étant, en partie, manifestement irrecevable et, en partie, manifestement non fondé.
+      
+ Sur les dépens
+En vertu de l’article 184, paragraphe 2, de son règlement de procédure, lorsque le pourvoi n’est pas fondé, la Cour statue
+         sur les dépens. 
+      
+Aux termes de l’article 138, paragraphe 1, de ce règlement, rendu applicable à la procédure de pourvoi en vertu de l’article
+         184, paragraphe 1, du même règlement, toute partie qui succombe est condamnée aux dépens, s’il est conclu en ce sens.
+      
+S’agissant des parties intervenantes en première instance, l’article 184, paragraphe 4, du règlement de procédure prévoit,
+         notamment, que lorsqu’une telle partie n’a pas, elle-même, formé le pourvoi, mais qu’elle participe à la phase écrite ou orale
+         devant la Cour, cette dernière peut décider que ladite partie supporte ses propres dépens. En l’occurrence, la Cour considère
+         toutefois qu’il n’y a pas lieu de prendre une telle décision en ce qui concerne les dépens encourus par la République française
+         et le département des Hauts-de-Seine.
+      
+La Commission, la République française et le département des Hauts-de-Seine ayant conclu à la condamnation des requérantes
+         aux dépens et celles-ci ayant succombé en leurs moyens, il y a lieu, eu égard à ce qui précède, de condamner ces dernières
+         à supporter l’ensemble desdits dépens.
+      
+Par ces motifs, la Cour (neuvième chambre) ordonne:
+1)      Le pourvoi est rejeté.
+2)      Iliad SA, Free Infrastructure SAS et Free SAS sont condamnées à supporter les dépens de la Commission européenne, de la République
+            française et du département des Hauts-de-Seine.
+Signatures
+* Langue de procédure: le français.
+      
+Top  
+ 

@@ -1,0 +1,315 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+December (*)
+      
+(Article 88(3) EC – State aid – Aid granted in the form of a guarantee to a lender for the purpose of enabling the latter to grant a loan to a borrower – Infringement of procedural rules – Obligation to recover – Nullity – Powers of the national court)
+In Case C‑275/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Hoge Raad der Nederlanden (Netherlands), made by decision
+         of May 2010, received at the Court on June 2010, in the proceedings 
+      
+Residex Capital IV CV
+v
+Gemeente Rotterdam,
+      
+THE COURT (First Chamber),
+composed of A. Tizzano (Rapporteur), President of the Chamber, M. Safjan, A. Borg-Barthet, E. Levits and J.‑J. Kasel, Judges,
+Advocate General: J. Kokott,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on April 2011,
+after considering the observations submitted on behalf of:
+–        Residex Capital IV CV, by M. Scheltema and E. Schotanus, advocaten,
+–        the Gemeente Rotterdam, by J. van den Brande and M. Custers, advocaten,
+–        the Netherlands Government, by M. Noort, acting as Agent,
+–        the Danish Government, by C. Vang, acting as Agent,
+–        the German Government, by T. Henze and K. Petersen, acting as Agents,
+–        the European Commission, by H. van Vliet and S. Thomas, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2011,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 88(3) EC. 
+      
+The reference has been made in the course of proceedings between Residex Capital IV CV (‘Residex’) and the Gemeente Rotterdam
+         (Municipality of Rotterdam) concerning a guarantee granted by the Gemeentelijk Havenbedrijf Rotterdam (Municipal Port Authority
+         of Rotterdam; the ‘GHR’) to Residex for the purpose of covering a loan granted by Residex to a borrower. 
+      
+ Legal context 
+ European Union law 
+Recital in the preamble to Council Regulation (EC) No 659/of March laying down detailed rules for the application
+         of Article [88] of the EC Treaty (OJ L 83, p. 1) reads as follows: 
+      
+‘… in cases of unlawful aid which is not compatible with the common market, effective competition should be restored; … for
+         this purpose it is necessary that the aid, including interest, be recovered without delay; … it is appropriate that recovery
+         be effected in accordance with the procedures of national law; …’ 
+      
+Article of that regulation provides:
+      
+‘For the purpose of this Regulation: 
+…
+(f)      “unlawful aid” shall mean new aid put into effect in contravention of Article [88](3) of the Treaty;
+…’
+The Commission Notice on the enforcement of State aid law by national courts (OJ C 85, p. 1) states in paragraph 28,
+         under the heading ‘Preventing the payment of unlawful aid’:
+      
+‘… As part of their duties under Article 88(3) of the Treaty, national courts must safeguard the rights of individuals against
+         possible disregard of those rights. …’ 
+      
+Paragraph of that notice, under the heading ‘Recovery of unlawful aid’, reads as follows:
+      
+‘Where a national court is confronted with unlawfully granted aid, it must draw all legal consequences from this unlawfulness
+         under national law. The national court must therefore in principle order the full recovery of unlawful State aid from the
+         beneficiary … . Ordering the full recovery of unlawful aid is part of the national court’s obligation to protect the individual
+         rights of the claimant (such as the competitor) under Article 88(3) of the Treaty. The recovery obligation of the national
+         court is thus not dependent on the compatibility of the aid measure with Article 87(2) or (3) of the Treaty.’ 
+      
+Section 2.1., third paragraph, of the Commission Notice on the application of Articles and of the EC Treaty to State
+         aid in the form of guarantees (OJ C 155, p. 10; ‘the Guarantee Notice’) states that:
+      
+‘… The benefit of a State guarantee is that the risk associated with the guarantee is carried by the State. Such risk-carrying
+         by the State should normally be remunerated by an appropriate premium. Where the State forgoes all or part of such a premium,
+         there is both a benefit for the undertaking and a drain on the resources of the State. …’ 
+      
+Under section 2.of that notice:
+      
+‘Usually, the aid beneficiary is the borrower. … In some cases, the borrower would not, without a State guarantee, find a
+         financial institution prepared to lend on any terms. ... Likewise, a State guarantee may help a failing firm remain active
+         instead of being eliminated or restructured, thereby possibly creating distortions of competition.’
+      
+Under the heading ‘Aid to the lender’, section 2.of that notice reads as follows:
+      
+‘2.3.Even if usually the aid beneficiary is the borrower, it cannot be ruled out that under certain circumstances the lender, too,
+         will directly benefit from the aid. In particular, for example, if a State guarantee is given ex post in respect of a loan or other financial obligation already entered into without the terms of this loan or financial obligation
+         being adjusted, or if one guaranteed loan is used to pay back another, non-guaranteed loan to the same credit institution,
+         then there may also be aid to the lender, in so far as the security of the loans is increased. …
+      
+2.3.Guarantees differ from other State aid measures, such as grants or tax exemptions, in that, in the case of a guarantee, the
+         State also enters into a legal relationship with the lender. Therefore, consideration has to be given to the possible consequences
+         for third parties of State aid that has been illegally granted. … The question whether the illegality of the aid affects the
+         legal relations between the State and third parties is a matter which has to be examined under national law. …’
+      
+Section 3.of the Guarantee Notice, entitled ‘Individual guarantees’, states:
+      
+‘Regarding an individual State guarantee, the Commission considers that the fulfilment of all the following conditions will
+         be sufficient to rule out the presence of State aid. 
+      
+…
+(c)      The guarantee does not cover more than 80% of the outstanding loan or other financial obligation; …
+The Commission considers that if a financial obligation is wholly covered by a State guarantee, the lender has less incentive
+         to properly assess, secure and minimise the risk arising from the lending operation, and in particular to properly assess
+         the borrower’s creditworthiness. ... This lack of incentive to minimise the risk of non-repayment of the loan might encourage
+         lenders to contract loans with a greater than normal commercial risk … . 
+      
+…’
+Section 4.of that notice states:
+      
+‘… As a matter of principle, the State aid element will be deemed to be the difference between the appropriate market price
+         of the guarantee provided individually or through a scheme and the actual price paid for that measure.
+      
+…
+When calculating the aid element in a guarantee, the Commission will devote special attention to the following elements:
+(a)      whether, in the case of individual guarantees, the borrower is in financial difficulty. …
+The Commission notes that for companies in difficulty, a market guarantor, if any, would, at the time the guarantee is granted,
+         charge a high premium given the expected rate of default. If the likelihood that the borrower will not be able to repay the
+         loan becomes particularly high, this market rate may not exist and in exceptional circumstances the aid element of the guarantee
+         may turn out to be as high as the amount effectively covered by that guarantee; 
+      
+…’
+ Netherlands law 
+Article 3:40(2) of the Netherlands Civil Code reads as follows:
+      
+‘Infringement of a mandatory statutory provision renders a legal transaction null and void; however, if the provision serves
+         solely to protect one of the parties to a multilateral legal transaction, such a transaction is merely voidable; in both cases
+         this is on condition that nothing to the contrary is to be inferred from the objective of the provision.’
+      
+ The dispute in the main proceedings and the question referred for a preliminary ruling 
+In Residex acquired shares in the company MD Helicopters Holding NV (‘MDH’), a subsidiary of the company RDM Aerospace
+         NV (‘Aerospace’). In the context of that acquisition, Residex had obtained an option entitling it to sell back its holding
+         in MDH to Aerospace. In February 2003, after rejecting a request to extend its shareholding in MDH, or alternatively that
+         it grant MDH or Aerospace a loan, Residex exercised that option. 
+      
+However, Residex did not obtain payment of the sale price of its shares, amounting to approximately EUR 8.million, which
+         it ought to have received on exercising that option. It is apparent from the order for reference that, in those circumstances,
+         the chief executive officer of the GHR proposed to Residex that it should convert its claim into a loan and add that amount
+         to a loan of USD million (equivalent, at the time, to some EUR 405) to be granted by Residex to Aerospace. By way
+         of consideration, the GHR undertook to provide a guarantee to cover the amount of that loan. 
+      
+By an agreement of March 2003, supplemented in May 2003, the loan was concluded for EUR 657.03, including interest
+         and costs. By agreement of the same date, the GHR undertook to act as guarantor to Residex for a maximum amount of EUR 510,
+         plus interest and costs relating to the loan.
+      
+It is common ground that Aerospace repaid a part of that loan, in an amount of EUR 000. Having noted that Aerospace
+         had failed to repay the balance of the loan together with the interest owed, Residex, by letter of December addressed
+         to the Gemeente Rotterdam, invoked the guarantee against the latter and requested payment of EUR 252, plus interest
+         and costs. As the Gemeente Rotterdam refused to pay that amount, Residex brought an action before the Netherlands courts.
+      
+By judgment of January 2007, the Rechtbank Rotterdam (Rotterdam District Court) declared the defence of the Gemeente Rotterdam,
+         to the effect that the guarantee was null and void on the ground that it infringed European Union law on State aid, to be
+         well founded and consequently dismissed the claim made by Residex. The appeal brought by Residex against that judgment was
+         dismissed by the Gerechtshof te ‘s-Gravenhage (Regional Court of Appeal, The Hague) by judgment of July 2008. 
+      
+Residex thereupon lodged an appeal in cassation against that judgment before the Hoge Raad der Nederlanden (Supreme Court
+         of the Netherlands). The Hoge Raad held that, in the proceedings in cassation, there was no dispute as to the finding of the
+         Gerechtshof te ‘s-Gravenhage that, as the guarantee constituted aid within the meaning of Article EC, it should have been
+         notified to the Commission pursuant to Article 88(3) EC. 
+      
+Residex criticises the Gerechtshof te ‘s-Gravenhage, in particular, for failing to take account of the fact that Article 88(3) EC
+         affects the validity of implementing measures that are in conflict with that provision only where the nullity of those measures
+         leads to the withdrawal of the unlawful aid granted to the beneficiary and, consequently, to the removal of the distortions
+         in competition to which the implementation of the aid measure gave rise, that is to say, in the present case, to the recovery
+         of the loan granted to Aerospace.
+      
+Basing itself on, inter alia, the judgments in Case C-390/Banks [2001] ECR I‑6117, paragraphs to 80, and in Case C‑199/CELF and Ministre de la Culture et de la Communication [2008] ECR I‑469, paragraphs to 55, the Hoge Raad takes the view that the withdrawal of unlawful aid by way of recovery
+         is the logical consequence of a finding that it is unlawful and that the national courts must in principle allow an application
+         for repayment of aid granted in breach of Article 88(3) EC. 
+      
+Accordingly, in the present case, contrary to Residex’s contention, the Gerechtshof te ‘s-Gravenhage was, in the view of the
+         Hoge Raad, authorised to annul, on the basis of Article 3:40(2) of the Netherlands Civil Code, a legal act entailing implementation
+         of that aid measure if it was contrary to that provision of the EC Treaty. The Hoge Raad der Nederlanden notes, moreover,
+         that in a similar matter, in Case C-404/Commission v Portugal [2000] ECR I‑4897, the Court found that the guarantee was invalid and held that it should therefore be cancelled by the national
+         court within the framework of its obligation to remedy the consequences of an unlawful aid measure. 
+      
+However, the Hoge Raad is uncertain whether cancellation of the guarantee is an effective measure by which to restore the
+         situation which existed before the loan was granted, in particular with a view to protecting the interests of the parties
+         affected by a distortion of competition resulting from the granting of that loan. It states in that regard that cancellation
+         of the guarantee did not, however, remove its distorting effect on competition, that is to say, the fact that Aerospace obtained
+         a loan which, under normal market conditions, would not have been available to that company. In order to remove that effect,
+         it would be necessary to recover the gains obtained by Aerospace from that competitive advantage. 
+      
+In those circumstances, the Hoge Raad der Nederlanden decided to stay the proceedings and to refer the following question
+         to the Court for a preliminary ruling:
+      
+‘Does the provision in the last sentence of Article 88(3) EC, now Article 108(3) TFEU, mean that, in a case such as the present,
+         where the unlawful aid measure was implemented by granting the lender a guarantee which enabled the borrower to obtain a loan
+         from the lender which would not have been available to it under normal market conditions, the national courts, within the
+         framework of their obligation to remedy the consequences of the unlawful aid measure, are obliged, or at any rate authorised,
+         to cancel the guarantee, even if that does not result in the cancellation of the loan granted under the guarantee?’ 
+      
+ The question referred for a preliminary ruling 
+By its question, the referring court seeks to ascertain, essentially, first, whether the national courts of the Member States
+         have jurisdiction to cancel a guarantee in a situation such as that in the main proceedings, in which that guarantee was provided
+         by a public authority in order to cover a loan granted by a finance company to an undertaking which would not have been able
+         to obtain such financing under normal market conditions and, second, if so, whether European Union law requires those national
+         courts to cancel a guarantee obtained in such conditions.
+      
+In order to answer the first part of that question, it should be noted that implementation of the system for supervision of
+         State aid, resulting from Article EC and the case-law of the Court on the subject, is a matter, on the one hand, for the
+         Commission and, on the other, for the national courts (Case C-368/Transalpine Ölleitung in Österreich and Others [2006] ECR I‑9957, paragraph 36). 
+      
+In that regard, the national courts and the Commission fulfil distinct but complementary roles (see Case C‑39/SFEI and Others [1996] ECR I‑3547, paragraph 41; Joined Cases C-261/and C-262/van Calster and Others [2003] ECR I‑12249, paragraph 74; and Transalpine Ölleitung in Österreich and Others, paragraph 37). 
+      
+Whilst assessment of the compatibility of aid measures with the common market falls within the exclusive competence of the
+         Commission, subject to review by the European Union Courts, it is for the national courts to ensure that the rights of individuals
+         are safeguarded where the obligation to give prior notification of State aid to the Commission pursuant to Article 88(3) EC
+         has been infringed (van Calster and Others, paragraph 75, and Transalpine Ölleitung in Österreich and Others, paragraph 38). 
+      
+In that context, it should be noted that an aid measure which is put into effect in infringement of the obligations arising
+         from Article 88(3) EC is unlawful (see Case C-354/Fédération nationale du commerce extérieur des produits alimentaires and Syndicat national des négociants et transformateurs
+            de saumon [1991] ECR I‑5505, paragraph 17, and Joined Cases C‑266/to C‑270/04, C‑276/and C‑321/to C‑325/Distribution Casino France and Others [2005] ECR I‑9481, paragraph 30). That interpretation is confirmed, moreover, by Article 1(f) of Regulation No 659/1999.
+      
+In that regard, the Court has repeatedly stated that it is for the national courts to draw all the necessary conclusions of
+         the infringement of Article 88(3) EC in accordance with their national law, with regard to both the validity of the acts giving
+         effect to the aid and the recovery of financial support granted in breach of that provision (van Calster and Others, paragraph 64; Case C‑71/Xunta de Galicia [2005] ECR I‑7419, paragraph 49; and CELF and Ministre de la Culture et de la Communication, paragraph 41). 
+      
+In the dispute in the main proceedings, the referring court takes the view that the guarantee granted to Residex constitutes
+         non-notified aid and is, therefore, unlawful. 
+      
+If so, it follows that the national courts of the Kingdom of the Netherlands have jurisdiction to draw all of the conclusions
+         of that unlawfulness, in accordance with their national law, including with regard to the validity of the acts which gave
+         effect to that guarantee. 
+      
+By the second part of its question, the national court is asking whether European Union law requires national courts to cancel
+         a guarantee provided in conditions such as those in the main proceedings.
+      
+In order to answer that second part of the question, it should be noted that, according to settled case-law of the Court,
+         the logical consequence of a finding that aid is unlawful is to remove it by means of recovery in order to restore the situation
+         previously obtaining (see, inter alia, Joined Cases C‑328/and C‑399/Italy and SIM Multimedia v Commission [2003] ECR I‑4035, paragraph 66; judgment of July in Case C‑403/P Mediaset v Commission, paragraph 122). 
+      
+Accordingly, the main objective pursued in recovering unlawfully paid State aid is to eliminate the distortion of competition
+         caused by the competitive advantage which such aid affords (Case C‑277/Germany v Commission [2004] ECR I‑3925, paragraph 76, and Case C-520/P Commission v MTU Friedrichshafen [2009] ECR I‑8555, paragraph 57). By repaying the aid, the beneficiary forfeits the advantage which it had over its competitors
+         on the market, and the situation prior to payment of the aid is restored (Case C‑350/Commission v Italy [1995] ECR I‑699, paragraph 22). 
+      
+It is only in exceptional circumstances that it would be inappropriate to order repayment of the aid (Case C-5/Commission v Germany [1990] ECR I‑3437, paragraph 16; SFEI and Others, paragraph 70; and CELF and Ministre de la Culture et de la Communication, paragraph 42). 
+      
+In the case in the main proceedings, it is not apparent from the documents before the Court that such exceptional circumstances
+         have been invoked before the courts of the Kingdom of the Netherlands, with the result that the latter are required to order
+         repayment of the aid in question in the main proceedings in accordance with their national law. 
+      
+In order to carry out this repayment, it is essential that the national courts identify the beneficiary or, as the case may
+         be, the beneficiaries of the aid. In the case where aid is granted in the form of a guarantee, the beneficiaries of that aid
+         may be either the borrower or the lender or, in certain cases, both of them together. 
+      
+In that regard, it should, admittedly, be noted that the national court takes the view that, in the case before it, the beneficiary
+         of that aid is Aerospace.
+      
+In the case where the loan granted by a credit institution to a borrower is guaranteed by the public authorities of a Member
+         State, that borrower normally obtains a financial advantage and thus benefits from aid within the meaning of Article 87(1) EC,
+         inasmuch as the financial cost that it bears is less than that which it would have borne if it had had to obtain that same
+         financing and that same guarantee at market prices.
+      
+However, as is clear from the submissions made during the hearing before the Court, and as the Advocate General has noted
+         in point of her Opinion, it emerges from certain factual findings in the order for reference that, in the main proceedings,
+         Residex would also have been liable to procure an economic advantage from the guarantee in question.
+      
+According to the Hoge Raad, the financial situation of Aerospace was such that it would not have been able to obtain a loan
+         on the capital markets. As a result, it was only by means of the guarantee provided by the Gemeente Rotterdam that Residex
+         granted Aerospace a loan at a rate that was preferential in comparison with that in force on the market. Furthermore, it is
+         not apparent from the documents before the Court that Residex paid the Gemeente Rotterdam under normal market conditions in
+         consideration for the benefit that it was deemed to draw from the guarantee. 
+      
+In those circumstances, and in the light of the facts set out in paragraph of the present judgment, it cannot be excluded
+         at the outset that the guarantee in question was granted for the needs of an existing claim of Residex, in the context of
+         a restructuring of Aerospace’s debt. If that were so, Residex would have obtained its own economic advantage by means of that
+         guarantee since, as is also stated at subsection 2.3.of the Guarantee Notice, the security of its claim increased as a result
+         of being guaranteed by the public authority, with no amendment, moreover, to the conditions of the guaranteed loan. 
+      
+It follows that it is for the national court, taking account of all the particular features of the present case, to identify
+         the beneficiary or, as the case may be, the beneficiaries of that guarantee and to effect, pursuant to the principles set
+         out in paragraphs 33, and of this judgment, recovery of the total amount of the aid in question. 
+      
+That stated, it should be noted that, with regard to cancellation of the guarantee, and irrespective of who the beneficiary
+         of the aid may be, European Union law does not impose any specific conclusion that the national courts must necessarily draw
+         with regard to the validity of the acts relating to implementation of the aid. 
+      
+However, as follows from paragraph of this judgment, given that the objective of the measures that the national courts
+         are bound to take in the event of infringement of Article 88(3) EC is, essentially, to restore the competitive situation existing
+         prior to the payment of the aid in question, those courts must ensure that the measures which they take with regard to the
+         validity of the abovementioned acts make it possible for such an objective to be achieved. 
+      
+Accordingly, it is for the national court to determine whether cancellation of the guarantee may, given the circumstances
+         specific to the dispute before it, be a more effective means of achieving that restoration than other measures.
+      
+There may be situations in which the cancellation of a contract, in so far as this is liable to lead to the mutual restitution
+         of the services performed by the parties or the disappearance of an advantage for the future, may be better able to achieve
+         the objective of restoring the competitive situation which existed before the aid was granted. 
+      
+It follows that, in the main proceedings, the Hoge Raad may, in the absence of less onerous procedural measures, declare the
+         cancellation of the guarantee granted by the Gemeente Rotterdam to Residex if it takes the view that, regard being had to
+         the circumstances specific to the present case, that cancellation may lead to or facilitate the restoration of the competitive
+         situation which existed before that guarantee was provided. 
+      
+In the light of all of the foregoing, the answer to the question referred is that the last sentence of Article 88(3) EC must
+         be interpreted as meaning that the national courts have jurisdiction to cancel a guarantee in a situation such as that in
+         the main proceedings, in which unlawful aid was implemented by means of a guarantee provided by a public authority in order
+         to cover a loan granted by a finance company to an undertaking which would not have been able to secure such financing under
+         normal market conditions. When exercising that jurisdiction, those courts are required to ensure that the aid is recovered
+         and, to that end, they can cancel the guarantee, in particular where, in the absence of less onerous procedural measures,
+         that cancellation is such as to lead to or facilitate the restoration of the competitive situation which existed before that
+         guarantee was provided.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+The last sentence of Article 88(3) EC must be interpreted as meaning that the national courts have jurisdiction to cancel
+            a guarantee in a situation such as that in the main proceedings, in which unlawful aid was implemented by means of a guarantee
+            provided by a public authority in order to cover a loan granted by a finance company to an undertaking which would not have
+            been able to secure such financing under normal market conditions. When exercising that jurisdiction, those courts are required
+            to ensure that the aid is recovered and, to that end, they can cancel the guarantee, in particular where, in the absence of
+            less onerous procedural measures, that cancellation is such as to lead to or facilitate the restoration of the competitive
+            situation which existed before that guarantee was provided. 
+[Signatures] 
+* Language of the case: Dutch.
+      
+Top  
+ 

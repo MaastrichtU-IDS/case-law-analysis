@@ -1,0 +1,529 @@
+
+Case C-426/TeleTelecommunication GmbH
+v
+Telekom-Control-Kommission
+(Reference for a preliminary ruling from the Verwaltungsgerichtshof (Austria))
+(Electronic communications – Networks and services – Common regulatory framework – Articles and of Directive 2002/21/EC (Framework Directive) – Appeals – Administrative market analysis procedure)
+Summary of the Judgment
+1.        Approximation of laws – Electronic communications networks and services – Regulatory framework – Directive 2002/(European Parliament and Council Directive 2002/21, Arts 4(1) and 16(3))
+2.        Approximation of laws – Electronic communications networks and services – Regulatory framework – Directive 2002/(European Parliament and Council Directive 2002/21, Art. 4)
+1.        The terms user ‘affected’ or undertaking ‘affected’ for the purposes of Article 4(1) of Directive 2002/on a common regulatory
+         framework for electronic communications networks and services, which grants any user or undertaking providing such networks
+         and/or services a right to appeal against a decision taken by a national regulatory authority by which it is affected, and
+         the term party ‘affected’ within the meaning of Article 16(3) of that directive, which grants to the latter, in the case of
+         a decision to withdraw obligations placed on the undertaking (formerly) having significant power on the relevant market, the
+         right to be given an appropriate period of notice of that withdrawal, must be interpreted as being applicable not only to
+         an undertaking (formerly) having significant power on the relevant market which is subject to a decision of a national regulatory
+         authority taken in the context of a market analysis procedure referred to in Article of that directive and which is the
+         addressee of that decision, but also to users and undertakings in competition with such an undertaking which are not themselves
+         addressees of that decision, but the rights of which are adversely affected by it. 
+      
+(see paras 43, 48, operative part 1)
+2.        A provision of national law which, in the context of non-adversarial market analysis proceedings, grants party status only
+         to undertakings (formerly) having significant power on the relevant market and in respect of which specific regulatory obligations
+         are imposed, amended or withdrawn is not, in principle, contrary to Article of Directive 2002/on a common regulatory
+         framework for electronic communications networks and services. However, it is for the national court to ensure that national
+         procedural law guarantees the safeguarding of the rights which users and undertakings in competition with an undertaking (formerly)
+         having significant power on the relevant market derive from the Community legal order in a manner which is not less favourable
+         than that in which comparable domestic rights are safeguarded and which does not prejudice the effectiveness of the legal
+         protection of those users and undertakings guaranteed in Article of that directive.
+      
+(see para. 57, operative part 2)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+February (*)
+      
+(Electronic communications – Networks and services – Common regulatory framework – Articles and of Directive 2002/21/EC (Framework Directive) – Appeals – Administrative market analysis procedure)
+In Case C‑426/05,
+REFERENCE for a preliminary ruling under Article EC from the Verwaltungsgerichtshof (Austria), made by decision of November 2005, received at the Court on December 2005, in the proceedings
+      
+TeleTelecommunication GmbH, formerly TeleUTA Telecommunication GmbH,
+      
+v
+Telekom-Control-Kommission,
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of the Chamber, L. Bay Larsen, K. Schiemann, P. Kūris (Rapporteur) and J.-C. Bonichot,
+         Judges,
+      
+Advocate General: M. Poiares Maduro,
+Registrar: J. Swedenborg, Administrator,
+having regard to the written procedure and further to the hearing on December 2006,
+after considering the observations submitted on behalf of:
+–        TeleTelecommunication GmbH, by M. Parschalk, Rechtsanwalt,
+–        the Austrian Government, by C. Pesendorfer and W. Bauer, acting as Agents,
+–        the Belgian Government, by A. Hubert, acting as Agent,
+–        the Danish Government, by J. Molde, N. Holst-Christensen and B. Weis Fogh, acting as Agents,
+–        the Italian Government, by I.M. Braguglia, acting as Agent, assisted by P. Gentili, avvocato dello Stato,
+–        the Slovene Government, by T. Mihelič, acting as Agent,
+–        the Commission of the European Communities, by C. Ladenburger and M. Shotter, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on February 2007,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles and of Directive 2002/21/EC of the European
+         Parliament and of the Council of March on a common regulatory framework for electronic communications networks and
+         services (Framework Directive) (OJ L 108, p. 33; ‘the Framework Directive’). 
+      
+The reference has been made in the context of a dispute between TeleTelecommunication GmbH, formerly TeleUTA Telecommunication
+         GmbH, an Austrian undertaking providing electronic communications networks and services (‘Tele2’) and the Telekom-Control-Kommission
+         (Telecommunications Control Commission; ‘the TCK’) by reason of the latter’s refusal to grant the former the status of a party
+         in administrative market analysis proceedings. 
+      
+ Legal context
+ Community law
+Pursuant to recital in the preamble to the Framework Directive: 
+      
+‘Any party who is the subject of a decision by a national regulatory authority should have the right to appeal to a body that
+         is independent of the parties involved. This body may be a court. …’
+      
+Article of the Framework Directive, entitled ‘Right of appeal’, states:
+      
+‘1.      Member States shall ensure that effective mechanisms exist at national level under which any user or undertaking providing
+         electronic communications networks and/or services who is affected by a decision of a national regulatory authority has the
+         right of appeal against the decision to an appeal body that is independent of the parties involved. This body, which may be
+         a court, shall have the appropriate expertise available to it to enable it to carry out its functions. Member States shall
+         ensure that the merits of the case are duly taken into account and that there is an effective appeal mechanism. Pending the
+         outcome of any such appeal, the decision of the national regulatory authority shall stand, unless the appeal body decides
+         otherwise.
+      
+2.      Where the appeal body referred to in paragraph is not judicial in character, written reasons for its decision shall always
+         be given. Furthermore, in such a case, its decision shall be subject to review by a court or tribunal within the meaning of
+         Article of the Treaty.’ 
+      
+Article of the Framework Directive, entitled ‘Consultation and transparency mechanism’, provides: 
+      
+‘Except in cases falling within Articles 7(6), or 21, Member States shall ensure that where national regulatory authorities
+         intend to take measures in accordance with this Directive or the Specific Directives which have a significant impact on the
+         relevant market, they give interested parties the opportunity to comment on the draft measure within a reasonable period.
+         National regulatory authorities shall publish their national consultation procedures. Member States shall ensure the establishment
+         of a single information point through which all current consultations can be accessed. The results of the consultation procedure
+         shall be made publicly available by the national regulatory authority, except in the case of confidential information in accordance
+         with Community and national law on business confidentiality.’
+      
+Article of the Framework Directive, entitled ‘Consolidating the internal market for electronic communications’, states:
+      
+‘…
+3.      In addition to the consultation referred to in Article 6, where a national regulatory authority intends to take a measure
+         which:
+      
+(a)       falls within the scope of Articles or of this Directive, Articles or of Directive 2002/19/EC [of the European Parliament
+         and of the Council of March on access to, and interconnection of, electronic communications networks and associated
+         facilities] (Access Directive) [OJ L 108, p. 7] or Article of Directive 2002/22/EC [of the European Parliament and
+         of the Council of March on universal service and users’ rights relating to electronic communications networks and services]
+         (Universal Service Directive) [OJ L 108, p. 51], and
+      
+(b)      would affect trade between Member States,
+it shall at the same time make the draft measure accessible to the Commission and the national regulatory authorities in other
+         Member States, together with the reasoning on which the measure is based, in accordance with Article 5(3), and inform the
+         Commission and other national regulatory authorities thereof. National regulatory authorities and the Commission may make
+         comments to the national regulatory authority concerned only within one month or within the period referred to in Article
+         if that period is longer. The one-month period may not be extended.
+      
+4.      Where an intended measure covered by paragraph aims at:
+(a)      defining a relevant market which differs from those defined in the recommendation in accordance with Article 15(1), or
+(b)      deciding whether or not to designate an undertaking as having, either individually or jointly with others, significant market
+         power, under Article 16(3), (4) or (5),
+      
+and would affect trade between Member States and the Commission has indicated to the national regulatory authority that it
+         considers that the draft measure would create a barrier to the single market or if it has serious doubts as to its compatibility
+         with Community law and in particular the objectives referred to in Article 8, then the draft measure shall not be adopted
+         for a further two months. This period may not be extended. Within this period the Commission may, in accordance with the procedure
+         referred to in Article 22(2), take a decision requiring the national regulatory authority concerned to withdraw the draft
+         measure. This decision shall be accompanied by a detailed and objective analysis of why the Commission considers that the
+         draft measure should not be adopted together with specific proposals for amending the draft measure.
+      
+5.      The national regulatory authority concerned shall take the utmost account of comments of other national regulatory authorities
+         and the Commission and may, except in cases covered by paragraph 4, adopt the resulting draft measure and, where it does so,
+         shall communicate it to the Commission.
+      
+…’
+Article of the Framework Directive, entitled ‘Policy objectives and regulatory principles’, states in paragraph 2:
+      
+‘The national regulatory authorities shall promote competition in the provision of electronic communications networks, electronic
+         communications services and associated facilities and services by inter alia:
+      
+(a)      ensuring that users, including disabled users, derive maximum benefit in terms of choice, price, and quality;
+(b)      ensuring that there is no distortion or restriction of competition in the electronic communications sector;
+(c)      encouraging efficient investment in infrastructure, and promoting innovation; and
+(d)      encouraging efficient use and ensuring the effective management of radio frequencies and numbering resources.’
+Article of the Framework Directive, entitled ‘Market analysis procedure’, provides:
+      
+‘1.      As soon as possible after the adoption of the recommendation or any updating thereof, national regulatory authorities shall
+         carry out an analysis of the relevant markets, taking the utmost account of the guidelines. Member States shall ensure that
+         this analysis is carried out, where appropriate, in collaboration with the national competition authorities.
+      
+2.      Where a national regulatory authority is required under Articles 16, 17, or of [the Universal Service Directive], or
+         Articles or of [the Access Directive] to determine whether to impose, maintain, amend or withdraw obligations on undertakings,
+         it shall determine on the basis of its market analysis referred to in paragraph of this Article whether a relevant market
+         is effectively competitive.
+      
+3.      Where a national regulatory authority concludes that the market is effectively competitive, it shall not impose or maintain
+         any of the specific regulatory obligations referred to in paragraph of this Article. In cases where sector specific regulatory
+         obligations already exist, it shall withdraw such obligations placed on undertakings in that relevant market. An appropriate
+         period of notice shall be given to parties affected by such a withdrawal of obligations.
+      
+4.      Where a national regulatory authority determines that a relevant market is not effectively competitive, it shall identify
+         undertakings with significant market power on that market in accordance with Article and the national regulatory authority
+         shall on such undertakings impose appropriate specific regulatory obligations referred to in paragraph of this Article or
+         maintain or amend such obligations where they already exist.
+      
+…
+6.      Measures taken according to the provisions of paragraphs 3, and of this Article shall be subject to the procedures referred
+         to in Articles and 7.’
+      
+ National law
+ The General Law on Administrative Procedure
+Paragraph of the General Law on Administrative Procedure (Allgemeines Verwaltungsverfahrensgesetz 1991, BGBl. No 51/1991),
+         in the version published during (BGBl. I No 10/2004), provides: 
+      
+‘Persons who avail themselves of an activity of the authority or to whom the activity of the authority relates shall be interested
+         parties and, in so far as they are interested by virtue of a legal entitlement or a legal interest, they shall be parties
+         to the proceedings.’
+      
+ The Law on Telecommunications 
+Paragraph of the Law on Telecommunications (Telekommunikationsgesetz 2003, BGBl. I No 70/2003; ‘the TKG’), entitled
+         ‘Market analysis procedure’, aims to implement Article of the Framework Directive. That paragraph states the following:
+         
+      
+‘1.      The regulatory authority shall, of its own motion, carry out at regular intervals, but at least every two years, an analysis
+         of the relevant markets established by the regulation pursuant to Paragraph 36(1), taking account of the provisions of the
+         European Communities. The objective of this procedure shall be, after it has been decided whether, on a specific relevant
+         market, one or more undertakings have significant market power or whether effective competition exists on that market, to
+         withdraw, maintain, amend or impose specific obligations.
+      
+2.      Where the regulatory body decides in this procedure that one or more undertakings have significant market power on the relevant
+         market and consequently no effective competition exists, it shall impose on that undertaking or those undertakings appropriate
+         specific obligations pursuant to Paragraphs to or Paragraph 47(1). Existing specific obligations on undertakings shall,
+         in so far as they concern the relevant markets, be amended or re-imposed by the regulatory authority in accordance with the
+         results of the procedure, taking account of the regulatory objectives.
+      
+3.      Where the regulatory authority decides on the basis of the procedure that effective competition exists on the relevant market
+         and consequently no undertaking has significant market power, it may not – with the exception of Paragraph 47(2) – impose
+         any obligations under subparagraph 2. In this case, the procedure relating to this market shall be discontinued by order of
+         the regulatory authority without any formality having to be completed and that order shall be published. In so far as specific
+         obligations exist on this market, they shall be withdrawn by that order. An appropriate period of no more than six months,
+         laying down the time from which the withdrawal is effective, shall also be laid down in that order.
+      
+…
+5.      Only undertakings in respect of which specific obligations are imposed, amended or withdrawn shall have the status of parties
+         to these proceedings.
+      
+…’
+Paragraph of the TKG, entitled ‘Consultation procedure’, states:
+      
+‘1.      The Federal Minister for Transport, Innovation and Technology and the regulatory authority shall give interested persons the
+         opportunity to comment, within a reasonable period, on draft implementing measures adopted pursuant to this Federal Law which
+         will have a significant impact on the relevant market. Measures adopted pursuant to Paragraphs 91(4), and shall be
+         excluded. The consultation procedure and the results thereof shall be made publicly available, save where Paragraph stipulates
+         otherwise.
+      
+…
+4.      The Federal Minister for Transport, Innovation and Technology and the regulatory authority shall give interested persons the
+         opportunity to comment, within a reasonable period, on matters concerning the rights of end users or consumers in connection
+         with public communications services. They shall take account of these comments in so far as is appropriate, in particular
+         where significant impact on the market is to be expected.
+      
+…’
+ The case in the main proceedings and the questions referred for a preliminary ruling 
+In the context of administrative market analysis proceedings conducted by the TCK, on July Telerequested the latter
+         to grant it party status and access to the file pursuant to Paragraph of the TKG. 
+      
+By decision of September the TCK turned down that request on the ground that, under Paragraph 37(5) of the TKG, only
+         undertakings in respect of which specific obligations were imposed, amended or withdrawn, and no other, could be party to
+         market analysis proceedings. In its view, that was precisely not the case with regard to Tele2. 
+      
+Telelodged an appeal against that decision before the Verwaltungsgerichtshof (Higher Administrative Court) as it was of
+         the view that a decision taken by the TCK in market analysis proceedings constitutes a decision for the purposes of the Framework
+         Directive which affects not only the undertaking in respect of which specific obligations have been imposed, amended or withdrawn,
+         but also its competitors. According to Tele2, that is because the rights which a competitor of the dominant undertaking has
+         in respect of that undertaking depend directly on the result of that market analysis. 
+      
+It is in those circumstances that the Verwaltungsgerichtshof decided to stay the proceedings and to refer the following two
+         questions to the Court of Justice for a preliminary ruling:
+      
+‘(1)      Are Articles and of [the Framework Directive] to be interpreted as meaning that the term “parties affected” [(betroffenen)]
+         includes undertakings operating as competitors on the relevant market in respect of which specific obligations are not imposed,
+         maintained or amended in market analysis proceedings?
+      
+(2)       In the event that the first question is answered in the affirmative, does Article of [the Framework] Directive … preclude
+         a national provision which provides that only the undertaking in respect of which specific obligations are imposed, amended
+         or withdrawn has the status of a party to market analysis proceedings?’
+      
+ The questions 
+ The first question
+By its first question the national court asks, in essence, whether the terms user ‘affected’ or undertaking ‘affected’ (betroffen)
+         for the purposes of Article 4(1) of the Framework Directive and the term party ‘affected’ (betroffene) within the meaning
+         of Article 16(3) of that directive must be interpreted as covering not only an undertaking (formerly) having significant power
+         on the relevant market which is the subject of a decision of a national regulatory authority taken in the context of a market
+         analysis procedure referred to in Article of that directive, and which is the addressee of that decision, but also users
+         and undertakings in competition with such an undertaking (formerly) having significant power which are not themselves addressees
+         of that decision but the rights of which are adversely affected by it. 
+      
+It should be noted, at the outset, that, as is apparent from the decision making the reference, at issue in the case in the
+         main proceedings is the right to be a party in non-adversarial administrative proceedings, in this case market analysis proceedings
+         conducted by the TCK pursuant to Paragraph of the TKG, which implements Article of the Framework Directive. However,
+         Article of that directive, also raised by the referring court, regulates an issue of adversarial administrative‑law proceedings.
+         That article states that Member States are to ensure that effective mechanisms exist at national level under which any user
+         or undertaking providing electronic communications networks and/or services which is affected by a decision of a national
+         regulatory authority has the right of appeal against that decision to an appeal body which is independent of the parties involved,
+         and which may be a court. Where the appeal body is not judicial in character, written reasons for its decision must always
+         be given and, furthermore, in such a case, its decision is to be subject to review by a court or tribunal within the meaning
+         of Article EC.
+      
+In addition, it is apparent from the decision making the reference that, under Austrian procedural law, the status of party
+         to market analysis proceedings confers the right to participate in those proceedings, as well as the right to consult the
+         file in the administrative proceedings, the right to be heard, the right to be informed of the results of the procedure for
+         administration of the evidence and to comment on it, and the right to appeal against the decision taken at the end of such
+         proceedings. 
+      
+In the light of the wording of Article of the Framework Directive, as noted in paragraph above, it is necessary to assess
+         the scope of the terms user ‘affected’ or undertaking ‘affected’ by a decision of a national regulatory authority for the
+         purposes of that article in order to answer the first question referred by the national court.
+      
+First, it must be pointed out that the Framework Directive does not define that term. 
+      
+According to the Belgian Government, the fact that, in the English and German versions of that directive, Articles 4(1) and
+         16(3) use the same term, namely ‘affected’ and ‘betroffen’ respectively, indicates that those two provisions concern the same
+         idea and that, consequently, the Dutch versions ‘getroffen’ (affected) and ‘die gevolgen ondervinden’ (literally, ‘incurring
+         consequences’), given in Articles 4(1) and 16(3) respectively, have the same meaning. 
+      
+The national court also takes the view that, since, in the German version, Articles 4(1) and 16(3) of the Framework Directive
+         both use the expression ‘betroffenen’, their scope must be deemed to be the same. 
+      
+However, the answer to the question referred by the national court cannot be deduced from those findings. 
+      
+Several language versions of the Framework Directive, namely the Bulgarian, Czech, Danish, English, German, Greek, Italian,
+         Latvian, Lithuanian, Polish, Slovak, Spanish and Swedish and versions, use one and the same term in Articles 4(1) and 16(3)
+         of that directive, whereas in other language versions of the same provisions two different terms are used, such as user ‘affecté’
+         or undertaking ‘affectée’ and parties ‘concernées’ in the French version. 
+      
+It is settled case‑law that the different language versions of a provision of Community law must be uniformly interpreted,
+         and thus, in the case of divergence between those versions, the provision in question must be interpreted by reference to
+         the purpose and general scheme of the rules of which it forms part (Case C‑420/W.N. [2000] ECR I‑2847, paragraph 21, and Case C‑56/Euro Tex [2007] ECR I‑4859, paragraph 27).
+      
+It is also settled case‑law that the need for a uniform application of Community law and the principle of equality require
+         that the terms of a provision of Community law which makes no express reference to the law of the Member States for the purpose
+         of determining its meaning and scope must normally be given an independent and uniform interpretation throughout the Community,
+         having regard to the context of the provision and the objective pursued by the legislation in question (see, inter alia, Case
+         327/Ekro [1984] ECR 107, paragraph 11; Case C‑287/Linster [2000] ECR I‑6917, paragraph 43; and Case C‑195/Österreichischer Rundfunk [2007] ECR I‑0000, paragraph 24). 
+      
+Accordingly, the scope which the Community legislature intended to confer on the terms user ‘affected’ or undertaking ‘affected’
+         by a decision of a national regulatory authority for the purposes of Article 4(1) of the Framework Directive must be assessed
+         in the light of the purpose of that article within the context of that directive. 
+      
+It must, however, be noted that, even if one assumes that an undertaking in a situation similar to that of the applicant in
+         the main proceedings falls within Article 16(3) of the Framework Directive, it does not automatically follow that that undertaking
+         may fall within the scope of Article 4(1) thereof. As pointed out by the Advocate General in point of his Opinion, Article
+         4(1) of the Framework Directive pursues objectives which are very distinct from those pursued by Article 16(3) thereof. 
+      
+The consequence of the applicability of Article 4(1) to an undertaking is that that undertaking is granted a right to appeal
+         against a decision taken by a national regulatory authority by which it is affected, whereas Article 16(3) grants it the right,
+         in the case of a decision to withdraw obligations placed on the undertaking (formerly) having significant power on the relevant
+         market, to be given an appropriate period of notice of that withdrawal. 
+      
+As stated by the Advocate General in point of his Opinion, Article of the Framework Directive follows from the principle
+         of effective judicial protection, which is a general principle of Community law stemming from the constitutional traditions
+         common to the Member States and which has been enshrined in Articles and of the European Convention for the Protection
+         of Human Rights and Fundamental Freedoms, signed in Rome on November (Case C‑432/Unibet [2007] ECR I‑2271, paragraph and the case‑law cited), pursuant to which it is for the courts of the Member States to ensure
+         judicial protection of an individual’s rights under Community law (Unibet, paragraph and the case‑law cited).
+      
+In the case covered by Article of the Framework Directive, the Member States are required to provide for a right of appeal
+         before an appellate body in order to protect the rights which users and undertakings derive from the Community legal order.
+         
+      
+It follows that the requirement to provide effective judicial protection, which is at the origin of Article of the Framework
+         Directive, must apply to both users and undertakings which may derive rights from the Community legal order, in particular
+         from telecommunications directives, and whose rights are affected by a decision taken by a national regulatory authority.
+         
+      
+It is thus necessary to determine whether the users and undertakings operating in competition with an undertaking (formerly)
+         having significant power on the relevant market may derive rights from the Community legal order, in particular from telecommunications
+         directives, and whether their rights may be affected by a decision taken by a national regulatory authority which is not addressed
+         to them. If that is the case, they should be entitled to a right of appeal in order to make that decision amenable to judicial
+         review. 
+      
+As pointed out by the Advocate General in point of his Opinion, and as submitted by the applicant in the main proceedings
+         and the Commission, certain specific obligations imposed on the undertaking with significant power on the relevant market
+         in accordance with Article 16(3) and (4) of the Framework Directive and the provisions of the Access Directive which are cited
+         therein are protective measures adopted in the interest of users and undertakings in competition with that undertaking with
+         significant market power and are therefore capable of conferring rights on them. Those protective measures include, for example,
+         those which may be adopted by national regulatory authorities under Article of the Access Directive and the obligations
+         of non‑discrimination between competitors and the obligations to give competitors access to specific network facilities and
+         the use of such facilities, laid down respectively in Articles and of the latter directive. 
+      
+As regards, inter alia, those obligations to provide access to network facilities and the use of those facilities, Article
+         12(1) of the Access Directive provides that ‘a national regulatory authority may, in accordance with the provisions of Article
+         8, impose obligations on operators to meet reasonable requests for access to, and use of, specific network elements and associated
+         facilities, inter alia in situations where the national regulatory authority considers that denial of access or unreasonable
+         terms and conditions having a similar effect would hinder the emergence of a sustainable competitive market at the retail
+         level, or would not be in the end-user’s interest’. As in the case of the obligation of non‑discrimination laid down in Article
+         of that directive, those obligations concerning the access of competitors to specific network facilities and the use thereof
+         seek to enable interested competitors to benefit from such access. 
+      
+It follows that users or undertakings competing with an undertaking with significant power on the relevant market must be
+         considered to be potential beneficiaries of the rights corresponding to the specific regulatory obligations imposed by a national
+         regulatory authority on that undertaking with significant market power pursuant to Article of the Framework Directive and
+         the telecommunications directives cited therein. Consequently, those users and undertakings may be regarded as being ‘affected’,
+         within the meaning of Article 4(1) of the Framework Directive, by decisions of that authority which amend or withdraw those
+         obligations. 
+      
+Next, it should be pointed out that, under Article 8(2) of the Framework Directive, the national regulatory authorities must
+         promote competition in the provision of electronic communications networks, electronic communications services and associated
+         facilities and services by, inter alia, ensuring that there is no distortion or restriction of competition in the electronic
+         communications sector.
+      
+As noted by the Advocate General in point of his Opinion, and as submitted by the Danish Government, a strict interpretation
+         of Article 4(1) of the Framework Directive to the effect that that provision confers a right of appeal only on persons to
+         whom the decisions of the national regulatory authorities are addressed would be difficult to reconcile with the general objectives
+         and regulatory principles resulting, for those authorities, from Article of that directive, particularly with the objective
+         of promoting competition. 
+      
+It follows that Article 4(1) of the Framework Directive must be interpreted as granting a right of appeal also to persons
+         other than the addressees of a decision taken by a national regulatory authority in the context of a market analysis. Thus,
+         users and undertakings competing with an undertaking (formerly) having significant power on the market concerned must be regarded
+         as being ‘affected’ for the purposes of that provision when their rights are potentially affected by such a decision. 
+      
+As regards, next, the third sentence of Article 16(3) of the Framework Directive, that provision provides that the parties
+         ‘affected’ by the withdrawal of sector‑specific regulatory obligations are to be given an appropriate period of notice. An
+         undertaking (formerly) having significant power on the market concerned is an addressee of the decision withdrawing such obligations,
+         with the result that it is self‑evident that that undertaking must be notified of the decision. The same applies with regard
+         to decisions imposing such obligations on such an undertaking, irrespective of the fact that Article 16(4) of that directive
+         does not state so expressly. By contrast, the period of notice laid down in Article 16(3) of that directive acquires its full
+         significance in relation to competing undertakings which, for their part, benefit from the obligations the withdrawal of which
+         has been decided. It follows that, in providing that a period of notice must be given, the Community legislature sought to
+         protect, above all, competitors of the undertaking (formerly) having significant power on the market in their capacity as
+         ‘affected’ parties. Furthermore, in that provision the Community legislature would otherwise have used the term ‘undertaking’,
+         as in the second sentence of that provision, and not the term parties ‘affected’. 
+      
+Consequently, the rights of the competitors of an undertaking (formerly) having significant power on the relevant market are
+         covered by Article 16(3) of the Framework Directive and those rights must therefore be regarded as stemming from both that
+         provision and Article 4(1) of that directive. 
+      
+It must also be pointed out that, pursuant to Article 16(6) of the Framework Directive, measures taken under that provision
+         are subject to the procedures laid down in, inter alia, Article of that directive and that that latter provision contains,
+         among other things, a right for the interested parties to comment on the draft measure within a reasonable period.
+      
+It follows from all of the foregoing that the terms user ‘affected’ or undertaking ‘affected’ for the purposes of Article
+         4(1) of the Framework Directive and the term party ‘affected’ within the meaning of Article 16(3) of that directive must be
+         interpreted as being applicable not only to an undertaking (formerly) having significant power on the relevant market which
+         is subject to a decision of a national regulatory authority taken in the context of a market analysis procedure referred to
+         in Article of that directive and to which that decision is addressed, but also users and undertakings in competition with
+         such an undertaking which are not themselves addressees of that decision but the rights of which are adversely affected by
+         it. 
+      
+Consequently, the submission of the Austrian and Slovene Governments that reading Article 4(1) of the Framework Directive
+         in conjunction with recital in the preamble thereto justifies, on its own, the finding that that directive grants the possibility
+         of bringing an appeal only to the person who is actually the subject of the decision of the national regulatory authority
+         and who is the addressee thereof cannot be upheld. 
+      
+Admittedly, that recital states that ‘[a]ny party who is the subject of a decision by a national regulatory authority should
+         have the right to appeal to a body that is independent of the parties involved. This body may be a court’. Thus, that recital
+         merely raises the possibility, for whoever is concerned by a decision of a national regulatory authority, of appealing against
+         that decision. However, the mere fact that that recital raises the possibility for the addressee of a decision to appeal against
+         it in no way implies that such an appeal is excluded in relation to other undertakings, such as those in competition with
+         the addressee. 
+      
+The Austrian and Slovene Governments also submit that, for the interpretation of the provisions concerned by the present reference
+         for a preliminary ruling, account must be taken of the principle of effectiveness, inherent in Community law, which also encompasses
+         the aspect relating to the speed at which specific regulatory decisions are implemented. Those governments thus appear to
+         be attempting to demonstrate that the possibility of granting ‘interested parties’, within the meaning of Paragraph of the
+         General Law on Administrative Procedure, in the version published during 2004, rights reserved to ‘parties’ may extend
+         significantly the total duration of the market analysis procedure, whereas the national regulatory authority must react as
+         quickly as possible in order to cancel out imbalances liable to arise in markets with rapidly changing conditions. 
+      
+That argument cannot be upheld. As has been pointed out in paragraph above, Article of the Framework Directive lays down
+         the obligation to provide for a judicial or non‑judicial right of appeal, but in no way concerns the non-adversarial administrative
+         procedure which precedes the bringing of such an appeal. 
+      
+In the light of all of the foregoing considerations, the answer to the first question referred must be that the terms user
+         ‘affected’ or undertaking ‘affected’ for the purposes of Article 4(1) of the Framework Directive and the term party ‘affected’
+         within the meaning of Article 16(3) of that directive must be interpreted as being applicable not only to an undertaking (formerly)
+         having significant power on the relevant market which is subject to a decision of a national regulatory authority taken in
+         the context of a market analysis procedure referred to in Article of that directive and which is the addressee of that
+         decision, but also to users and undertakings in competition with such an undertaking which are not themselves addressees of
+         that decision but the rights of which are adversely affected by it.
+      
+ The second question
+By its second question the national court asks, essentially, whether it follows from Article of the Framework Directive
+         that, when it has a right to appeal against decisions taken by a national regulatory authority following administrative market
+         analysis proceedings, an undertaking such as the applicant in the main proceedings must for that reason also be granted the
+         status of a party to the non-adversarial market analysis proceedings. 
+      
+In that regard, Article of the Framework Directive does not state which are the parties to the non-adversarial administrative
+         proceedings referred to in Article of that directive. The wording of that provision also does not provide any indication
+         to the effect that an undertaking such as the applicant in the main proceedings must have a right to participate, as a party,
+         in those market analysis proceedings. The third sentence of Article 16(3) of the Framework Directive merely affirms that the
+         parties affected by the withdrawal of specific regulatory obligations must be given an appropriate period of notice. 
+      
+Thus, in the absence of Community rules governing a matter, it is for the domestic legal system of each Member State to designate
+         the courts and tribunals having jurisdiction and to lay down the detailed procedural rules governing actions before the courts
+         for safeguarding rights which individuals derive from the direct effect of Community law (see, inter alia, Case C‑312/Peterbroeck [1995] ECR I‑4599, paragraph and the case‑law cited, and Case C‑255/Grundig Italiana [2002] ECR I‑8003, paragraph and the case‑law cited).
+      
+It follows that Community law does not, a priori, require the Member States to permit all users and undertakings in competition with an undertaking (formerly) having significant
+         power on the relevant market to participate in a market analysis procedure referred to in Article of the Framework Directive
+         as a party for the purposes of the applicable Austrian procedural law with the rights described in paragraph of the present
+         judgment. It is thus for the national legislature to specify whether an undertaking such as the applicant in the main proceedings
+         has the status of a party to those non-adversarial administrative proceedings and, if so, to decide whether that undertaking
+         may be granted procedural rights other than those laid down expressly in Article of the Framework Directive and rights
+         inherent in the consultation procedure laid down expressly in Article of that directive. 
+      
+Consequently, a provision of national law which, in the context of such proceedings, grants party status only to undertakings
+         (formerly) having significant power on the relevant market in respect of which specific regulatory obligations are imposed,
+         amended or withdrawn is not, in principle, contrary to Article of the Framework Directive. 
+      
+However, the detailed national procedural rules governing actions for safeguarding rights which individuals derive from the
+         direct effect of Community law must not be less favourable than those governing similar domestic actions (principle of equivalence)
+         or render virtually impossible or excessively difficult the exercise of the rights conferred by Community law (principle of
+         effectiveness) (see, to that effect, inter alia, Peterbroeck, paragraph and the case‑law cited, and Grundig Italiana, paragraph and the case‑law cited).
+      
+As regards the principle of effectiveness, on which the applicant in the main proceedings relies for the purpose of claiming
+         entitlement to participate in the administrative market analysis proceedings in question, it is clear from the Court’s case-law
+         that each case which raises the question whether a national procedural provision renders the exercise of rights conferred
+         on individuals by the Community legal order impossible or excessively difficult must be analysed by reference to the role
+         of that provision in the procedure, its progress and its special features, viewed as a whole, before the various national
+         instances. In that context, it is necessary to take into consideration, where relevant, the principles which lie at the basis
+         of the national legal system, such as the protection of the rights of the defence, the principle of legal certainty and the
+         proper conduct of the proceedings (see, to that effect, Peterbroeck, paragraph 14, and Joined Cases C‑222/to C‑225/van der Weerd and Others [2007] ECR I‑4233, paragraph 33).
+      
+It is thus for the national court to ensure that national procedural law guarantees the safeguarding of the rights which users
+         and undertakings in competition with an undertaking (formerly) having significant power on the relevant market derive from
+         the Community legal order in a manner which is not less favourable than that in which comparable domestic rights are safeguarded
+         and which does not prejudice the effectiveness of the legal protection of those users and undertakings guaranteed in Article
+         of the Framework Directive.
+      
+In those circumstances, the answer to the second question referred must be that a provision of national law which, in the
+         context of non-adversarial market analysis proceedings, grants party status only to undertakings (formerly) having significant
+         power on the relevant market and in respect of which specific regulatory obligations are imposed, amended or withdrawn is
+         not, in principle, contrary to Article of the Framework Directive. However, it is for the national court to ensure that
+         national procedural law guarantees the safeguarding of the rights which users and undertakings in competition with an undertaking
+         (formerly) having significant power on the relevant market derive from the Community legal order in a manner which is not
+         less favourable than that in which comparable domestic rights are safeguarded and which does not prejudice the effectiveness
+         of the legal protection of those users and undertakings guaranteed in Article of the Framework Directive.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+1.      The terms user ‘affected’ or undertaking ‘affected’ for the purposes of Article 4(1) of Directive 2002/21/EC of the European
+            Parliament and of the Council of March on a common regulatory framework for electronic communications networks and
+            services (Framework Directive) and the term party ‘affected’ within the meaning of Article 16(3) of that directive must be
+            interpreted as being applicable not only to an undertaking (formerly) having significant power on the relevant market which
+            is subject to a decision of a national regulatory authority taken in the context of a market analysis procedure referred to
+            in Article of that directive and which is the addressee of that decision, but also to users and undertakings in competition
+            with such an undertaking which are not themselves addressees of that decision but the rights of which are adversely affected
+            by it.
+2.      A provision of national law which, in the context of non-adversarial market analysis proceedings, grants party status only
+            to undertakings (formerly) having significant power on the relevant market and in respect of which specific regulatory obligations
+            are imposed, amended or withdrawn is not, in principle, contrary to Article of Directive 2002/21. However, it is for the
+            national court to ensure that national procedural law guarantees the safeguarding of the rights which users and undertakings
+            in competition with an undertaking (formerly) having significant power on the relevant market derive from the Community legal
+            order in a manner which is not less favourable than that in which comparable domestic rights are safeguarded and which does
+            not prejudice the effectiveness of the legal protection of those users and undertakings guaranteed in Article of Directive
+            2002/21. 
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

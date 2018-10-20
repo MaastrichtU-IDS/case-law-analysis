@@ -1,0 +1,113 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+July (
+*)
+‛Taxation — VAT — Directive 77/388/EEC — Article 17(5), third subparagraph, point (c) — Article — Deduction of input tax — Leasing transactions — Mixed use goods and services — Rule for determining the amount of the VAT deduction — Derogation — Conditions’
+In Case C‑183/13,
+REQUEST for a preliminary ruling under Article TFEU from the Supremo Tribunal Administrativo (Portugal), made by decision of January 2013, received at the Court on April 2013, in the proceedings
+Fazenda Pública
+v
+Banco Mais SA,
+THE COURT (Fourth Chamber),
+composed of L. Bay Larsen, President of the Chamber, K. Lenaerts, Vice-President of the Court, acting as Judge of the Fourth Chamber, M. Safjan, J. Malenovský (Rapporteur) and K. Jürimäe, Judges,
+Advocate General: M. Szpunar,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on March 2014,
+after considering the observations submitted on behalf of:
+—
+the Portuguese Government, by L. Inez Fernandes and R. Laires, acting as Agents,
+—
+the Finnish Government, by J. Heliskoski, acting as Agent,
+—
+the United Kingdom Government, by J. Beeko and V. Kaye, acting as Agents, assisted by O. Thomas and R. Hill, Barristers,
+—
+the European Commission, by M. Afonso and C. Soulay, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1, as amended by Council Directive 95/7/EC of April 1995, OJ L 102, p. 18) (the ‘Sixth Directive’).
+The request has been made in proceedings between Fazenda Pública (the Treasury) and Banco Mais SA, a leasing company, concerning the calculation rule to be used in order to determine the right of deduction in respect of value added tax (‘VAT’) due or paid upon the acquisition of goods or services used to carry out both transactions in respect of which VAT is deductible and transactions in respect of which VAT is not deductible (‘mixed use goods and services’).
+Legal context
+EU law
+Article of the Sixth Directive, entitled ‘Origin and scope of the right to deduct’, provides at paragraphs and thereof:
+‘2.   In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be entitled to deduct from the tax which he is liable to pay:
+(a)
+[VAT] due or paid within the territory of the country in respect of goods or services supplied or to be supplied to him by another taxable person;
+...
+5.   As regards goods and services to be used by a taxable person both for transactions covered by paragraphs and 3, in respect of which [VAT] is deductible, and for transactions in respect of which [VAT] is not deductible, only such proportion of the [VAT] shall be deductible as is attributable to the former transactions.
+This proportion shall be determined, in accordance with Article 19, for all the transactions carried out by the taxable person.
+However, Member States may:
+(a)
+authorise the taxable person to determine a proportion for each sector of his business, provided that separate accounts are kept for each sector;
+(b)
+compel the taxable person to determine a proportion for each sector of his business and to keep separate accounts for each sector;
+(c)
+authorise or compel the taxable person to make the deduction on the basis of the use of all or part of the goods and services;
+(d)
+authorise or compel the taxable person to make the deduction in accordance with the rule laid down in the first subparagraph, in respect of all goods and services used for all transactions referred to therein;
+(e)
+provide that where the [VAT] which is not deductible by the taxable person is insignificant it shall be treated as nil.’
+Article 19(1) of the Sixth Directive, entitled ‘Calculation of the deductible proportion’, provides:
+‘The proportion deductible under the first subparagraph of Article 17(5) shall be made up of a fraction having:
+—
+as numerator, the total amount, exclusive of [VAT], of turnover per year attributable to transactions in respect of which [VAT] is deductible under Article 17(2) and (3),
+—
+as denominator, the total amount, exclusive of [VAT], of turnover per year attributable to transactions included in the numerator and to transactions in respect of which [VAT] is not deductible. The Member States may also include in the denominator the amount of subsidies, other than those specified in Article 11A(1)(a).
+The proportion shall be determined on an annual basis, fixed as a percentage and rounded up to a figure not exceeding the next unit.’
+Portuguese law
+Article of the Code on Value Added Tax (Código do Imposto sobre o Valor Acrescentado), in the version applicable to the tax year (‘the CIVA’), provides:
+‘1.   Where the taxable person, in the course of his business, makes supplies of goods or services some of which do not give rise to the right to deduct, input tax shall be deductible only in direct proportion to the annual amount of the transactions which give rise to the right to deduct.
+2.   Notwithstanding the provisions of the previous paragraph, the taxable person may make the deduction in accordance with the actual use of all or part of the goods and services used, provided that prior notice is given to the Directorate-General for Taxes, without prejudice to the possibility for the latter to impose special conditions on it or to terminate that procedure in the event of significant distortions in the taxation.
+3.   The tax authorities may compel the taxable person to act in accordance with the previous paragraph:
+(a)
+where the taxable person carries out separate economic activities;
+(b)
+where the application of the procedure referred to in paragraph l results in significant distortion in the taxation.
+4.   The specific proportion of deduction referred to in paragraph shall be made up of a fraction having, as numerator, the amount, exclusive of VAT, of turnover per year attributable to the supply of goods and provision of services in respect of which VAT is deductible under Articles and 20(1) and, as denominator, the amount, exclusive of VAT, of turnover per year of all the transactions carried out by the taxable person, including exempt transactions and those outside the scope of the tax, particularly grants not subject to VAT which are not subsidies for plant or equipment.
+5.   However, the computation referred to in the preceding paragraph shall not include supplies of fixed assets which have been used in the business or real estate and financial transactions that are incidental to the taxable person’s business.
+...’
+The order for reference and the question referred for preliminary ruling
+Banco Mais is a bank which carries out leasing activities in the automotive sector and other financial activities.
+It is apparent from the Court’s file that, as part of those activities, Banco Mais carries out both transactions in respect of which VAT is deductible and transactions in respect of which VAT is not deductible. In so doing, Banco Mais uses goods and services used exclusively for one or other of those categories of transactions, and mixed use goods and services, for the acquisition of which it must pay VAT.
+For the tax year, Banco Mais made a full deduction of the VAT paid upon the acquisition of the goods and services used exclusively for the purpose of carrying out transactions in respect of which VAT is deductible, which included the acquisition of vehicles to meet the needs of that bank’s leasing activities.
+As regards the mixed use goods and services, Banco Mais calculated its deductible proportion on the basis of a fraction containing, as a numerator, the payments collected from the financial transactions in respect of which VAT is deductible, to which the turnover from the leasing transactions in respect of which VAT is deductible was added, and, as a denominator, the payments collected from all financial transactions, to which the turnover from all leasing transactions was added. In practice, that method led Banco Mais to consider that 39% of the VAT due or paid on those goods and services was deductible.
+Following a tax audit carried out in in relation to the tax year, Banco Mais was required, by decision of the Fazenda Pública of February 2008, to pay arrears of VAT together with compensatory interest, on the grounds that the method used by Banco Mais to determine its right of deduction had led to a significant distortion in the determination of the amount of tax due.
+In that decision, the Fazenda Pública did not call into question the possibility left open to Banco Mais to calculate its deductible proportion, in relation to credit transactions other than leasing transactions, by reference, in essence, to the part of the payments collected in relation to transactions in respect of which VAT is deductible. However, the Fazenda Pública took the view, as regards the leasing transactions, that using as a criterion the part of the turnover from transactions in respect of which VAT is deductible, without excluding from that turnover the part of the rental payments offsetting the acquisition cost of the vehicles, had had the effect of distorting the calculation of the deductible proportion.
+By application lodged on May 2008, Banco Mais challenged the decision of the Fazenda Pública of February before the tribunal tributário de Lisboa (Lisbon Tax Court).
+That court upheld the action brought by Banco Mais, on the ground that the tax authorities had made a contra legem interpretation of Article 23(4) of the CIVA, since that provision required, without mentioning an exception with regard to leasing activities, that the proportion to be used for mixed use goods and services be calculated by reference to the share of the turnover relating to transactions in respect of which VAT is deductible. Under that provision, Banco Mais should have been allowed to take account of the whole of the rental payments made by lessees.
+The Fazenda Pública appealed to the referring court against the judgment at first instance, arguing, essentially, that the dispute does not relate to the interpretation of paragraph of Article of the CIVA, which clarifies the deduction rule under paragraph of that article, but to the possibility left open to the authorities to require a taxable person to determine the scope of his right to deduct in accordance with the use of the goods and services at issue in order to remedy a significant distortion in taxation. Indeed, the method used by Banco Mais — which was to include, in the numerator and denominator of the fraction that it used to determine its deductible proportion, the whole of the rental payments made by customers under their leasing agreements — leads to such a distortion, since, in particular, the part of the rental payments offsetting the acquisition of vehicles does not reflect the actual part of the expenditure on mixed use goods and services that may be attributed to taxed transactions.
+In those circumstances, the Supremo Tribunal Administrativo decided to stay the proceedings and refer the following question to the Court of Justice for a preliminary ruling:
+‘In a financial leasing contract under which the customer makes rental payments, the latter comprising redemption payments, interest and other charges, does the rent paid fall to be taken into account, in its entirety, in the denominator of the deductible proportion or, on the contrary, must only the interest be taken into account, since it constitutes the remuneration or profit accruing to the bank under the leasing contract?’
+The question referred for a preliminary ruling
+It is apparent from the documents before the Court that the dispute in the main proceedings relates to the lawfulness of the Fazenda Pública’s decision to recalculate Banco Mais’s right of deduction, as regards mixed use goods and services, by applying the deduction scheme provided for under Article 23(2) of the CIVA.
+According to that provision, read in conjunction with Article 23(3) of the CIVA, in the event of significant distortions in taxation, a taxable person may be required to make the deduction of VAT in accordance with the actual use of all or part of the goods and services used.
+That provision, in essence, reproduces the rule for determining the right to deduct set out in point (c) of the third subparagraph of Article 17(5) of the Sixth Directive, which constitutes a derogation from the rule provided for under the first subparagraph of Article 17(5) and Article 19(1) of that directive.
+The Court therefore considers, as confirmed by the Portuguese Government at the hearing, Article 23(2) of the CIVA to be a transposition into Portuguese national law of point (c) of the third subparagraph of Article 17(5) of the Sixth Directive.
+In those circumstances, the question referred should be understood as relating, in essence, to whether point (c) of the third subparagraph of Article 17(5) of the Sixth Directive must be interpreted as precluding a Member State, in circumstances such as those in the main proceedings, from requiring a bank which, inter alia, carries out leasing activities, to include in the numerator and denominator of the fraction used to determine a single deductible proportion for all of its mixed use goods and services, just the part of the rental payments made by customers under their leasing agreements that corresponds to interest.
+According to settled case-law, in interpreting a provision of EU law, it is necessary to consider the wording of that provision, the context in which that provision arises and the objectives pursued by the rules of which it is part (judgment in SGAE, C‑306/05, EU:C:2006:764, paragraph 34).
+In this case, point (c) of the third subparagraph of Article 17(5) of the Sixth Directive provides that a Member State may authorise or compel a taxable person to make the deduction of VAT on the basis of the use of all or part of the goods and services.
+Given the wording of that provision, it is permissible for a Member State to provide for a deduction scheme that takes into account the specific use of all or part of the goods and services concerned.
+In the absence of any indication in the Sixth Directive as to the rules that may be used on that occasion, it is for Member States to prescribe them (see, to that effect, judgments in Royal Bank of Scotland, C‑488/07, EU:C:2008:750, paragraph 25, and Crédit Lyonnais, C‑388/11, EU:C:2013:541, paragraph 31).
+Firstly, as is apparent from the wording of Articles 17(5) and 19(1) of the Sixth Directive, the latter provision refers only to the deductible proportion provided for in the first subparagraph of Article 17(5) of the directive and therefore sets out a detailed calculation rule only for the case referred to in the first subparagraph of Article 17(5) (see, to that effect, judgment in Royal Bank of Scotland, EU:C:2008:750, paragraph 22).
+Secondly, while the second subparagraph of Article 17(5) of the Sixth Directive provides that the calculation rule applies to all mixed use goods and services acquired by a taxable person, the third subparagraph of Article 17(5), which also contains the provision in point (c), begins with the word ‘however’, which implies the existence of exceptions to that rule (judgment in Royal Bank of Scotland, EU:C:2008:750, paragraph 23).
+However, in the exercise of the option, provided for under point (c) of the third subparagraph of Article 17(5) of the Sixth Directive, to derogate from the calculation rule provided for under the directive, all Member States must comply with the purpose and general system of that directive, and the principles on which the common system of VAT is based (judgments in BLC Baumarkt, C‑511/10, EU:C:2012:689, paragraph 22, and Crédit Lyonnais, EU:C:2013:541, paragraph 52).
+In that regard, the Court noted that the deduction system is meant to relieve the trader entirely of the burden of the VAT payable or paid in the course of all his economic activities. The common system of VAT must consequently ensure complete neutrality of taxation of all economic activities, whatever their purpose or results, provided that they are themselves subject, in principle, to VAT (judgment in Royal Bank of Scotland, EU:C:2008:750, paragraph 15).
+Furthermore, the Court held that the purpose of the third subparagraph of Article 17(5) of the Sixth Directive is to allow Member States to take account of the specific characteristics of some activities of taxable persons in order to achieve greater accuracy in determining the extent of the right to deduct (see, to that effect, judgments in Royal Bank of Scotland, EU:C:2008:750, paragraph 24, and BLC Baumarkt, EU:C:2012:689, paragraphs and 24).
+It follows from the foregoing that having regard to, first, the purpose of point (c) of the third subparagraph of Article 17(5) of the Sixth Directive, secondly, the context of which that provision forms part, thirdly, the principles of fiscal neutrality and proportionality and, fourthly, the purpose of the third subparagraph of Article 17(5) of that directive, any Member State that exercises the option provided for under point (c) of the third subparagraph of Article 17(5) of the Sixth Directive must ensure that the method for calculating the right to deduct makes it possible to ascertain with the greatest possible precision the portion of VAT relating to transactions in respect of which VAT is deductible (see, to that effect, judgment in BLC Baumarkt, EU:C:2012:689, paragraph 23).
+The principle of neutrality, which forms an integral part of the common system of VAT, requires that the method by which the deduction is calculated objectively reflects the actual share of the expenditure resulting from the acquisition of mixed use goods and services that may be attributed to transactions in respect of which VAT is deductible (see, to that effect, judgment in Securenta, C‑437/06, EU:C:2008:166, paragraph 37).
+To that end, the Sixth Directive does not preclude Member States from using, for a given transaction, a method or formula other than the turnover-based method, provided that the method used guarantees a more precise determination of the deductible proportion of the input VAT than that arising from application of the turnover-based method (see, to that effect, judgment in BLC Baumarkt, EU:C:2012:689, paragraph 24).
+In that regard, it should be noted that while the carrying out, by a bank, of leasing transactions in the automotive sector such as those at issue in the main proceedings may require the use of certain mixed use goods or services, such as buildings, electricity consumption or certain cross-cutting services, most often that use is primarily a consequence of the financing and management of the contracts entered into by the lessor and its customers, not of the provision of the vehicles. It is for the national court to determine whether that is the case in the dispute in the main proceedings.
+In those circumstances, calculating the right of deduction by applying the turnover-based method, which takes account of the amounts relating to the part of the rental payments that customers make to offset the provision of the vehicles, leads to a determination of the deductible proportion of the input VAT that is less accurate than that arising from the method used by the Fazenda Pública, which is based on just the part of the rental payments representing the interest that constitutes the consideration for the lessor’s costs of financing and managing the contracts, since those two activities occasion the major part of the mixed use goods and services used with a view to carrying out leasing transactions in the automotive sector.
+In the light of the foregoing, the answer to the question is that point (c) of the third subparagraph of Article 17(5) of the Sixth Directive must be interpreted as not precluding a Member State, in circumstances such as those in the main proceedings, from requiring a bank, which, inter alia, carries out leasing activities, to include in the numerator and denominator of the fraction used to determine a single deductible proportion for all of its mixed use goods and services just the part of the rental payments made by customers as part of their leasing agreements that corresponds to interest, where that use of the goods and services is primarily caused by the financing and management of those contracts, that being a matter for the national court to ascertain.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Point (c) of the third subparagraph of Article 17(5) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment, must be interpreted as not precluding a Member State, in circumstances such as those in the main proceedings, from requiring a bank, which, inter alia, carries out leasing activities, to include in the numerator and denominator of the fraction used to determine a single deductible proportion for all of its mixed use goods and services just the part of the rental payments made by customers as part of their leasing agreements that corresponds to interest, where that use of the goods and services is primarily caused by the financing and management of those contracts, that being a matter for the national court to ascertain.
+ 
+[Signatures]
+(
+*)   Language of the case: Portuguese.
+Top  
+ 

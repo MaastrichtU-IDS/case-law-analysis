@@ -1,0 +1,126 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+June (
+*)
+‛Reference for a preliminary ruling — Free movement of capital — Articles and TFEU — Article TEU — Direct taxation — Taxation of dividends — Bilateral convention for the avoidance of double taxation — Third State — Scope’
+In Case C‑176/15,
+REQUEST for a preliminary ruling under Article TFEU from the tribunal de première instance de Liège (Court of First Instance, Liège, Belgium), made by decision of March 2015, received at the Court on April 2015, in the proceedings
+Guy Riskin,
+Geneviève Timmermans
+v
+État belge,
+THE COURT (Sixth Chamber),
+composed of A. Arabadjiev, President of the Chamber, C.G. Fernlund (Rapporteur) and S. Rodin, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of
+—
+Mr Riskin and Ms Timmermans, by J.-P. Douny and R. Douny, avocats,
+—
+the Belgian Government, by M. Jacobs and J.-C. Halleux, acting as Agents,
+—
+the German Government, by T. Henze and B. Beutler, acting as Agents,
+—
+the United Kingdom Government, by S. Simmons and L. Christie, acting as Agents, and by S. Ford, Barrister,
+—
+the European Commission, by W. Roels and C. Soulay, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on April 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles TFEU and TFEU, read in conjunction with Article TEU.
+The request has been made in proceedings between (1) Mr Guy Riskin and Ms Geneviève Timmermans and (2) the État belge (Belgian State) concerning the taxation, in Belgium, of dividends received from a company established in Poland which were subject to withholding tax in Poland.
+Legal context
+Belgian law
+Article of the Income Tax Code (Code des impôts sur les revenus) (‘the CIR 1992’) provides:
+‘Residents of the Kingdom shall be liable to personal income tax on all their taxable income covered by this Code, even if part of that income has been generated or received abroad.’
+Article of the CIR provides:
+‘Taxable income shall comprise the entire net income, less deductible expenses.
+The entire net income shall be equal to the sum of net income of the following categories:
+1.
+income from immovable property;
+2.
+income from capital and movable property;
+3.
+professional income;
+4.
+miscellaneous income.’
+According to Article 17(1) of the CIR 1992:
+‘Income from capital and movable property shall mean all the proceeds of movable assets however deployed, namely:
+1.
+dividends;
+…’
+Article of the CIR provides:
+‘As regards income from capital and movable property ..., a fixed percentage of foreign tax shall be allowed as a credit against tax where that income has been subject abroad to a tax similar to personal income tax, corporate income tax or income tax on non-residents, and where such capital and property are applied in Belgium in the conduct of a professional activity.
+…’
+Article of the CIR 1992, in the version applicable to the fiscal year at issue in the case in the main proceedings, provides:
+‘The fixed percentage of foreign tax shall be 15/85ths of net income, before deduction of withholding tax and, where applicable, of a levy for the State of residence.
+…’
+The Convention between Belgium and Poland for the avoidance of double taxation
+The Convention between the Kingdom of Belgium and the Republic of Poland for the avoidance of double taxation and the prevention of tax evasion with respect to taxes on income and capital, and Protocol, signed in Warsaw on August (‘the Belgium-Poland Convention’), provides in Article 10:
+‘1.   Dividends paid by a company which is a resident of a contracting State to a resident of the other contracting State may be taxed in that other State.
+2.   However, such dividends may also be taxed in the contracting State of which the company paying the dividends is a resident, and according to the laws of that State, but if the beneficial owner of the dividends is a resident of the other contracting State, the tax so charged shall not exceed:
+(a)
+per cent of the gross amount of the dividends if the beneficial owner is a company (other than a partnership):
+—
+which directly controls at least per cent of the capital of the company paying the dividends, or
+—
+which directly controls at least per cent of the capital of the company paying the dividends, where the holding has an investment value of at least EUR or its equivalent in another currency;
+(b)
+per cent of the gross amount of the dividends in all other cases.
+This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
+3.   The term “dividends” as used in this Article means income from shares, “jouissance” shares or “jouissance” rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income — even if paid in the form of interest — which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
+…’
+Article 23(1)(b) of the Belgium-Poland Convention provides:
+‘1.   In the case of Belgium, double taxation shall be avoided as follows:
+…
+(b)
+Subject to the provisions of Belgian legislation regarding the allowance as a credit against Belgian tax of tax paid abroad, where a resident of Belgium receives items of income which are included in his total income subject to Belgian tax and which consist of dividends not exempted from Belgian tax under (c) below, interest or royalties, the Polish tax charged on that income shall be allowed as a credit against Belgian tax relating to such income.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mr Riskin and Ms Timmermans, Belgian residents, hold shares in a company established in Poland. In 2009, they received dividends in respect of that shareholding, on which a tax of 15% was deducted at source by Poland.
+In 2012, the fiscal control services of the Belgian tax authority sent Mr Riskin and Ms Timmermans a correction notice in respect of their personal income tax return for the tax year. According to the tax authority, in accordance with Article of the Belgium-Poland Convention and Articles 5, and 17(1) of the CIR 1992, dividends derived from the company established in Poland were taxable in Belgium at a rate of 25%.
+Mr Riskin and Ms Timmermans challenged that correction, arguing that, in accordance with Article of the Belgium-Poland Convention, the tax paid in Poland should be allowed as a credit against the tax payable in Belgium.
+The tax authority replied that Article of that convention provided for Polish tax to be allowed as a credit against Belgian tax subject to the application of Belgian law, namely Article of the CIR 1992, under which such a set-off could be made only if the capital and property that had generated the dividends concerned were applied in Belgium in the conduct of a professional activity. The Belgian tax authority took the view that that was not the case here, refused to allow the Polish tax deducted at source as a credit against Belgian tax and accordingly rejected their claim.
+Mr Riskin and Ms Timmermans brought an action before the referring court against the tax authority’s decision, claiming that, unlike the Belgium-Poland Convention, other double taxation conventions concluded between Belgium and certain third States that are not members of the European Union do not provide for reference to be made to Belgian law and thus allow tax paid in those third States to be allowed as a credit against Belgian tax, without any account being taken of the conditions laid down by Belgian law. They submit that it cannot reasonably be accepted that Belgium can accord more favourable fiscal treatment to a third State than that which it accords to Member States.
+In those circumstances, the tribunal de première instance de Liège (Court of First Instance, Liège, Belgium) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘1.
+Is the rule laid down in Article of the CIR 1992, implicitly endorsing the double taxation of foreign dividends in the case of a natural person residing in Belgium, consistent with the principles of EU law enshrined in Article TFEU, read in conjunction with Article TEU, in so far as it enables Belgium to give advantage as it sees fit — according to the provisions of Belgian law to which the double taxation convention negotiated by Belgium refers (Article which lays down the conditions for tax credits or Article which merely prescribes the fixed percentage of tax that may be allowed as a credit) — to investment in third countries (United States), to the detriment of possible investment in the Member States of the European Union (Poland)?
+2.
+In so far as it makes the possibility of allowing foreign tax as a credit against Belgian tax conditional upon the capital and property from which the income is derived being applied in Belgium in the conduct of professional activity, is Article of the CIR not contrary to Articles TFEU, TFEU and TFEU?’
+Consideration of the questions referred
+Admissibility of the second question
+The Belgian Government submits that the second question referred, concerning the possibility of allowing foreign tax as a credit against Belgian tax on condition that the capital and property from which the income is derived is applied in Belgium in the conduct of professional activity, is inadmissible in so far as the outcome of the dispute pending before the referring court does not depend on any answer to that question.
+It must be borne in mind in that regard that, according to the settled case-law of the Court, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of May in Verder LabTec, C‑657/13, EU:C:2015:331, paragraph and the case-law cited).
+In the present case, it is clear from the file submitted to the Court that the capital or property from which the dividends at issue in the main proceedings are derived were not applied in the conduct of a professional activity, whether in Belgium or in the territory of another Member State. In those circumstances, the second question referred must be regarded as hypothetical and is, therefore, inadmissible.
+The first question
+As a preliminary point, it should be noted that it has not been claimed that the difference in treatment alleged concerns dividends derived from a company established in Poland and dividends derived from a company established in Belgium. By contrast, it has been argued that that difference in treatment concerns dividends derived from a company established in Poland and dividends derived from a company established in a third State.
+It is common ground that, unlike the Belgium-Poland Convention, which refers back to Belgian law for the purpose of laying down the conditions subject to which tax deducted at source in Poland may be allowed as a credit against tax payable in Belgium, other double taxation conventions concluded between the Kingdom of Belgium and certain third States do not provide for such reference and thus allow tax deducted at source in those third States to be allowed as a credit against tax payable in Belgium, without any account being taken of the conditions laid down by Belgian law.
+As regards the case in the main proceedings, the effect of the reference to Belgian law is that the tax on dividends deducted at source in Poland cannot be allowed as a credit against tax payable in Belgium because the condition laid down in Article of the CIR — that is the condition that the capital and property from which the dividends concerned are derived be applied in the conduct of a professional activity in Belgium — is not satisfied, whereas that set-off would have been granted, without any need for that condition to be fulfilled, if the dividends had been derived from a third State with which the Kingdom of Belgium had concluded a double taxation convention providing an unconditional right to such set-off.
+Thus, by its first question, the referring court asks, in essence, whether the Treaty provisions on the free movement of capital, read in conjunction with Article TEU, must be interpreted as precluding a Member State from not extending, in a situation such as that at issue in the main proceedings, the benefit of the advantageous treatment accorded to a resident shareholder as a result of a bilateral double taxation convention concluded between that Member State and a third State — by which tax deducted at source by the third State is allowed unconditionally as a credit against tax payable in the shareholder’s Member State of residence — to a resident shareholder in receipt of dividends from a Member State with which that Member State of residence has concluded a bilateral double taxation convention under which the granting of such a set-off is subject to compliance with additional conditions provided for by national law.
+In accordance with the settled case-law of the Court, the measures prohibited by Article 63(1) TFEU as restrictions on the movement of capital include those that are such as to discourage non-residents from making investments in a Member State or to discourage that Member State’s residents from doing so in other States (judgment of September in Miljoen and Others, C‑10/14, C‑14/and C‑17/14, EU:C:2015:608, paragraph and the case-law cited).
+In the present case, it is not disputed that the situation of Belgian residents, such as Mr Riskin and Ms Timmermans, who receive dividends derived from Member States, such as the Republic of Poland, and who, in order to benefit from tax deducted at source being allowed as a credit against Belgian tax, must satisfy the condition laid down in Article of the CIR 1992, is less favourable than that of Belgian residents who receive dividends from a third State with which the Kingdom of Belgium has concluded a bilateral convention providing for an unconditional right to such a set-off.
+Such disadvantageous treatment is liable to discourage Belgian residents from investing in the Member States with which the Kingdom of Belgium has not concluded a bilateral convention providing for an unconditional right to have tax deducted at source allowed as a credit against Belgian tax and, accordingly, constitutes a restriction on the free movement of capital that is prohibited, in principle, by Article 63(1) TFEU.
+However, under Article 65(1)(a) TFEU, ‘the provisions of Article [TFEU] shall be without prejudice to the right of Member States ... to apply the relevant provisions of their tax law which distinguish between taxpayers who are not in the same situation with regard to their place of residence or with regard to the place where their capital is invested’.
+That derogation, which is to be strictly interpreted, is itself restricted by Article 65(3) TFEU, which provides that the national provisions referred to in paragraph of that article ‘shall not constitute a means of arbitrary discrimination or a disguised restriction on the free movement of capital and payments as defined in Article [TFEU]’ (judgment of March in Bouanich, C‑375/12, EU:C:2014:138, paragraph and the case-law cited).
+Therefore, the unequal treatment permitted under Article 65(1)(a) TFEU must be distinguished from the discrimination prohibited by Article 65(3) TFEU. According to the Court’s case-law, for a national tax provision which distinguishes between taxpayers depending on the place where their capital is invested to be capable of being regarded as compatible with the Treaty provisions on the free movement of capital, the difference in treatment must apply to situations which are not objectively comparable or be justified by overriding reasons in the public interest (judgment of March in Bouanich, C‑375/12, EU:C:2014:138, paragraph and the case-law cited).
+In that respect, it must be borne in mind that it is for the Member States to organise, in compliance with EU law, their systems for taxing distributed profits and to define, in that context, the tax base and the tax rate which apply to the shareholder receiving them, and that, in the absence of any unifying or harmonising EU measures, Member States retain the power to define, by treaty or unilaterally, the criteria for allocating their powers of taxation (see, to that effect, judgment of May in Orange European Smallcap Fund, C‑194/06, EU:C:2008:289, paragraph 48).
+Consequently, given the resulting disparities between the tax laws of the various Member States, a Member State may find it necessary, by treaty or unilaterally, to treat dividends from the various Member States differently so as to take account of those disparities (see, to that effect, judgment of May in Orange European Smallcap Fund, C‑194/06, EU:C:2008:289, paragraph 49).
+In the context of bilateral tax conventions, it follows from the case-law of the Court that the scope of such a convention is limited to the natural or legal persons defined by it. Likewise, the benefits granted by it are an integral part of all the rules under the convention and contribute to the overall balance of mutual relations between the two contracting States (see, to that effect, judgments of July in D., C‑376/03, EU:C:2005:424, paragraphs and to 62, and of May in Orange European Smallcap Fund, C‑194/06, EU:C:2008:289, paragraphs to 51). It must be noted, as the Advocate General did at point of her Opinion, that that situation is the same with regard to double taxation conventions concluded with Member States or with third States.
+As regards the case in the main proceedings, it must be noted that the situations in which the benefit of an unconditional set-off is granted are those in which the Kingdom of Belgium is committed, in the context of bilateral double taxation conventions concluded with certain third States deducting tax from dividends at source, to enabling Belgian residents to have that deduction allowed as a credit against tax payable in Belgium.
+It follows from this that the scope of such a convention is limited to Belgian residents receiving dividends from such a third State and having had tax deducted at source by that third State. The fact that the benefit in question is granted only to Belgian residents falling within the scope of that convention cannot be classified as a benefit that is separable from that convention, given that, as has been mentioned in paragraph of the present judgment, that benefit is an integral part of the convention rules and contributes to the overall balance of mutual relations between the two contracting States to that convention.
+In those circumstances, Belgian residents, such as those involved in the main proceedings, who receive dividends from Member States, such as the Republic of Poland, and who, in order to benefit from tax deducted at source being allowed as a credit against Belgian tax, must satisfy the condition laid down in Article of the CIR 1992, are not in a situation that is objectively comparable to that of Belgian residents who receive dividends from a third State with which the Kingdom of Belgium has concluded a bilateral double taxation convention providing for an unconditional right to such a set-off.
+It follows from this that disadvantageous treatment, such as that at issue in the main proceedings, does not constitute a restriction prohibited by the Treaty provisions on the free movement of capital.
+Lastly, as regards the sincere cooperation prescribed by Article TEU, it is sufficient to note that that article cannot be interpreted as giving rise to any independent obligations on Member States beyond those arising from Articles TFEU and TFEU (see, to that effect, order of September in Levy and Sebbag, C‑540/11, not published, EU:C:2012:581, paragraphs to 29).
+Having regard to the foregoing considerations, the answer to the first question is that Articles TFEU and TFEU, read in conjunction with Article TEU, must be interpreted as not precluding a Member State from not extending, in a situation such as that at issue in the main proceedings, the benefit of the advantageous treatment accorded to a resident shareholder as a result of a bilateral double taxation convention concluded between that Member State and a third State — by which tax deducted at source by the third State is allowed unconditionally as a credit against tax payable in the shareholder’s Member State of residence — to a resident shareholder in receipt of dividends from a Member State with which that Member State of residence has concluded a bilateral double taxation convention under which the granting of such a set-off is subject to compliance with additional conditions provided for by national law.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Articles TFEU and TFEU, read in conjunction with Article TEU, must be interpreted as not precluding a Member State from not extending, in a situation such as that at issue in the main proceedings, the benefit of the advantageous treatment accorded to a resident shareholder as a result of a bilateral double taxation convention concluded between that Member State and a third State — by which tax deducted at source by the third State is allowed unconditionally as a credit against tax payable in the shareholder’s Member State of residence — to a resident shareholder in receipt of dividends from a Member State with which that Member State of residence has concluded a bilateral double taxation convention under which the granting of such a set-off is subject to compliance with additional conditions provided for by national law.
+ 
+[Signatures]
+(
+*)	Language of the case: French.
+Top  
+ 

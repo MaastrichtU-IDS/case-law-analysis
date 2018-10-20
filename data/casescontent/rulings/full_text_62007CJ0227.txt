@@ -1,0 +1,608 @@
+
+Case C-227/Commission of the European Communities
+v
+Republic of Poland
+(Failure of a Member State to fulfil obligations – Electronic communications – Networks and services – Directive 2002/19/EC (Access Directive) – Article 4(1) and the first subparagraph of Article 5(1) – Incorrect transposition)
+Summary of the Judgment
+1.        Approximation of laws – Electronic communications networks and services – Access to, and interconnection of, electronic communications
+            networks and associated facilities – Directive 2002/– Obligation on operators to negotiate interconnection with each other
+(European Parliament and Council Directive 2002/19, Arts 4(1), 8(2), and 12(1)(b))
+2.        Approximation of laws – Electronic communications networks and services – Access to, and interconnection of, electronic communications
+            networks and associated facilities – Directive 2002/– Power of the national regulatory authority to encourage and where
+            appropriate ensure adequate access and interconnection 
+(European Parliament and Council Directive 2002/19, Art. 5(1), first subpara.)
+1.        By imposing on operators of public communications networks a general obligation to negotiate agreements for access to the
+         telecommunications network, a Member State does not correctly transpose Article 4(1) of Directive 2002/on access to, and
+         interconnection of, electronic communications networks and associated facilities, which concerns the obligation to negotiate
+         interconnection with each other, and on that basis fails to fulfil its obligations under that directive.
+      
+The second sentence of Article 4(1) of that directive allows operators to offer access and interconnection to other undertakings
+         on terms and conditions consistent with obligations imposed by the national regulatory authority. Those obligations include
+         the obligations which that authority may impose under Article 8(2) of that directive on an operator designated as having significant
+         market power on a specific market following a market analysis. In that regard, it is apparent from reading together Articles
+         and 12(1)(b) of that directive that an obligation to negotiate an agreement with undertakings in good faith may be imposed
+         by national regulatory authorities on operators with significant market power, following an analysis of that market. However,
+         the national law is not based on two sets of rules depending on the market power of the undertakings; rather, it leads to
+         equal treatment of all operators, without allowing the national regulatory authority to take account of the specific context
+         before intervening or in the course of its examination of the request by the undertaking seeking access to a telecommunications
+         network. The consequence of the obligation provided for under national law to negotiate access agreements in good faith is
+         to impose such an obligation without prior evaluation of the degree of effective competition on the market concerned. The
+         national law also does not allow the obligation to be withdrawn or amended where competition in the market intensifies.
+      
+Moreover, according to recital of that directive, whilst increasing competition, intervention by national regulatory authorities
+         must balance the rights of an infrastructure owner to exploit its infrastructure for its own benefit and the rights of other
+         service providers to access facilities that are essential for the provision of competing services.
+      
+Furthermore, under Article 12(2) of Directive 2002/19, intervention by national regulatory authorities is circumscribed by
+         the need take account of the factors set out in that provision, including the need to safeguard competition in the long term
+         and to assess the proportionality of obligations which that authority intends to impose as regards access to specific network
+         elements and their use in relation to the objectives set out in Article of Directive 2002/on a common regulatory framework
+         for electronic communications networks and services. By not providing for intervention by the national regulatory authority
+         prior to imposition of an obligation to negotiate access agreements, the national law does not allow for any assessment of
+         the circumstances in accordance with the factors set out in Article 12(2).
+      
+(see paras 37-44, 49, operative part 1)
+2.        The first subparagraph of Article 5(1) of Directive 2002/on access to, and interconnection of, electronic communications
+         networks and associated facilities, which concerns the power of the national regulatory authority to encourage and where appropriate
+         ensure, in accordance with the directive’s provisions, adequate access and interconnection, and interoperability of services,
+         is limited to providing for a general power for the national regulatory authorities for the purpose of achieving the objectives
+         of Article of Directive 2002/on a common regulatory framework for electronic communications networks and services.
+      
+(see para. 65)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+November (*)
+      
+(Failure of a Member State to fulfil obligations – Electronic communications – Networks and services – Directive 2002/19/EC (Access Directive) – Article 4(1) and the first subparagraph of Article 5(1) – Incorrect transposition)
+In Case C‑227/07,
+ACTION under Article EC for failure to fulfil obligations, brought on May 2007,
+Commission of the European Communities, represented by M. Shotter and K. Mojzesowicz, acting as Agents, with an address for service in Luxembourg,
+      
+applicant,
+v
+Republic of Poland, represented initially by E. Ośniecka-Tamecka and T. Nowakowski, and subsequently by M. Dowgielewicz, acting as Agents,
+      
+defendant,
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of Chamber, K. Schiemann, P. Kūris (Rapporteur), L. Bay Larsen and C. Toader, Judges,
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: R. Grass,
+having regard to the written procedure,
+after hearing the Opinion of the Advocate General at the sitting on June 2008,
+gives the following
+Judgment
+By its application, the Commission of the European Communities requests that the Court declare that the Republic of Poland,
+         by failing to transpose correctly into national law Directive 2002/19/EC of the European Parliament and of the Council of
+         March on access to, and interconnection of, electronic communications networks and associated facilities (‘the Access
+         Directive’), and, in particular, Article 4(1) thereof relating to an obligation to negotiate interconnection with each other,
+         and the first subparagraph of Article 5(1) thereof relating to the power of the national regulatory authority to encourage
+         and where appropriate ensure, in accordance with the directive’s provisions, adequate access and interconnection, and interoperability
+         of services, the Republic of Poland has failed to fulfil its obligations under that directive. 
+      
+ Legal context
+ Community law
+Recital in the preamble to that directive states:
+      
+‘In markets where there continue to be large differences in negotiating power between undertakings, and where some undertakings
+         rely on infrastructure provided by others for delivery of their services, it is appropriate to establish a framework to ensure
+         that the market functions effectively. National regulatory authorities should have the power to secure, where commercial negotiation
+         fails, adequate access and interconnection and interoperability of services in the interest of end-users. In particular, they
+         may ensure end-to-end connectivity by imposing proportionate obligations on undertakings that control access to end-users.
+         Control of means of access may entail ownership or control of the physical link to the end‑user (either fixed or mobile),
+         and/or the ability to change or withdraw the national number or numbers needed to access an end-user’s network termination
+         point. This would be the case for example if network operators were to restrict unreasonably end-user choice for access to
+         Internet portals and services.’
+      
+Recital states:
+      
+‘Directive 97/33/EC laid down a range of obligations to be imposed on undertakings with significant market power, namely transparency,
+         non‑discrimination, accounting separation, access, and price control including cost orientation. This range of possible obligations
+         should be maintained but, in addition, they should be established as a set of maximum obligations that can be applied to undertakings,
+         in order to avoid over-regulation. Exceptionally, in order to comply with international commitments or Community law, it may
+         be appropriate to impose obligations for access or interconnection on all market players, as is currently the case for conditional
+         access systems for digital television services.’
+      
+According to recital of the directive:
+      
+‘Mandating access to network infrastructure can be justified as a means of increasing competition, but national regulatory
+         authorities need to balance the rights of an infrastructure owner to exploit its infrastructure for its own benefit, and the
+         rights of other service providers to access facilities that are essential for the provision of competing services. Where obligations
+         are imposed on operators that require them to meet reasonable requests for access to and use of networks elements and associated
+         facilities, such requests should only be refused on the basis of objective criteria such as technical feasibility or the need
+         to maintain network integrity. Where access is refused, the aggrieved party may submit the case to the dispute resolutions
+         procedure referred to in Articles and of Directive 2002/21/EC [of the European Parliament and of the Council of March
+         on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L
+         108, p. 33; “the Framework Directive”)]. An operator with mandated access obligations cannot be required to provide types
+         of access which are not within its powers to provide. The imposition by national regulatory authorities of mandated access
+         that increases competition in the short-term should not reduce incentives for competitors to invest in alternative facilities
+         that will secure more competition in the long-term. The Commission has published a Notice on the application of the competition
+         rules to access agreements in the telecommunications sector (OJ C 265, p. 2) which addresses these issues. National regulatory
+         authorities may impose technical and operational conditions on the provider and/or beneficiaries of mandated access in accordance
+         with Community law. In particular the imposition of technical standards should comply with Directive 98/34/EC of the European
+         Parliament and of the Council of June laying down a procedure for the provision of information in the field of technical
+         standards and regulations and of rules of Information Society services (OJ L 204, p. 37), as amended by European Parliament
+         and Council Directive 98/48/EC (OJ L 217, p. 18).’
+      
+Article of the directive contains the following definitions: 
+      
+‘...
+(a)      “access” means the making available of facilities and/or services, to another undertaking, under defined conditions, on either
+         an exclusive or non‑exclusive basis, for the purpose of providing electronic communications services. It covers inter alia:
+         access to network elements and associated facilities, which may involve the connection of equipment, by fixed or non‑fixed
+         means (in particular this includes access to the local loop and to facilities and services necessary to provide services over
+         the local loop), access to physical infrastructure including buildings, ducts and masts; access to relevant software systems
+         including operational support systems, access to number translation or systems offering equivalent functionality, access to
+         fixed and mobile networks, in particular for roaming, access to conditional access systems for digital television services;
+         access to virtual network services;
+      
+(b)      “interconnection” means the physical and logical linking of public communications networks used by the same or a different
+         undertaking in order to allow the users of one undertaking to communicate with users of the same or another undertaking, or
+         to access services provided by another undertaking. Services may be provided by the parties involved or other parties who
+         have access to the network. Interconnection is a specific type of access implemented between public network operators; 
+      
+ …’
+Article 4(1) of the Access Directive provides as follows:
+      
+‘Operators of public communications networks shall have a right and, when requested by other undertakings so authorised, an
+         obligation to negotiate interconnection with each other for the purpose of providing publicly available electronic communications
+         services, in order to ensure provision and interoperability of services throughout the Community. Operators shall offer access
+         and interconnection to other undertakings on terms and conditions consistent with obligations imposed by the national regulatory
+         authority pursuant to Articles 5, 6, and 8.’
+      
+Article of that directive, which sets out the powers and responsibilities of the national regulatory authorities with regard
+         to access and interconnection, provides:
+      
+‘1. National regulatory authorities shall, acting in pursuit of the objectives set out in Article of [the Framework Directive],
+         encourage and where appropriate ensure, in accordance with the provisions of this Directive, adequate access and interconnection,
+         and interoperability of services, exercising their responsibility in a way that promotes efficiency, sustainable competition,
+         and gives the maximum benefit to end-users. 
+      
+In particular, without prejudice to measures that may be taken regarding undertakings with significant market power in accordance
+         with Article 8, national regulatory authorities shall be able to impose:
+      
+(a)      to the extent that is necessary to ensure end-to-end connectivity, obligations on undertakings that control access to end-users,
+         including in justified cases the obligation to interconnect their networks where this is not already the case;
+      
+(b)      to the extent that is necessary to ensure accessibility for end-users to digital radio and television broadcasting services
+         specified by the Member State, obligations on operators to provide access to the other facilities referred to in Annex I,
+         Part II on fair, reasonable and non-discriminatory terms. 
+      
+2.      When imposing obligations on an operator to provide access in accordance with Article 12, national regulatory authorities
+         may lay down technical or operational conditions to be met by the provider and/or beneficiaries of such access, in accordance
+         with Community law, where necessary to ensure normal operation of the network. Conditions that refer to implementation of
+         specific technical standards or specifications shall respect Article of [the Framework Directive].
+      
+3.      Obligations and conditions imposed in accordance with paragraphs and shall be objective, transparent, proportionate and
+         non-discriminatory, and shall be implemented in accordance with the procedures referred to in Articles and of [the Framework
+         Directive].
+      
+4.      With regard to access and interconnection, Member States shall ensure that the national regulatory authority is empowered
+         to intervene at its own initiative where justified or, in the absence of agreement between undertakings, at the request of
+         either of the parties involved, in order to secure the policy objectives of Article of the [Framework] Directive 2002/21/EC,
+         in accordance with the provisions of this Directive and the procedures referred to in Articles and 7, and of the [Framework]
+         Directive.’
+      
+Articles and of the Access Directive, which fall under Chapter III, entitled ‘Obligations on operators and market review
+         procedures’, concern, first, conditional access systems to digital television and radio services broadcast to viewers and
+         listeners, and, secondly, the required review of former obligations for access and interconnection.
+      
+Article 8(2) and (3) of the Access Directive state: 
+      
+‘2.      Where an operator is designated as having significant market power on a specific market as a result of a market analysis carried
+         out in accordance with Article of the [Framework] Directive, national regulatory authorities shall impose the obligations
+         set out in Articles to of this Directive as appropriate.
+      
+3.      Without prejudice to: 
+–        the provisions of Articles 5(1), 5(2) and 6, 
+–        the provisions of Articles and of the [Framework] Directive, Condition in Part B of the Annex to Directive 2002/20/EC
+         [of the European Parliament and of the Council of March on the authorisation of electronic communications networks
+         and services (Authorisation Directive) [OJ L 108, p. 21] as applied by virtue of Article 6(1) of [the latter] Directive,
+         Articles 27, and of Directive 2002/22/EC [of the European Parliament and of the Council of March on universal
+         service and users’ rights relating to electronic communications networks and services (Universal Service Directive) [(OJ L 108, p. 51; “the Universal Service Directive”)] and the relevant provisions of Directive 97/66/EC of the European Parliament
+         and of the Council of December concerning the processing of personal data and the protection of privacy in the telecommunications
+         sector [(OJ L 24, p. 1)] containing obligations on undertakings other than those designated as having significant market
+         power, or
+      
+–        the need to comply with international commitments, 
+national regulatory authorities shall not impose the obligations set out in Articles to on operators that have not been
+         designated in accordance with paragraph 2. 
+      
+…’
+Article of the Access Directive, headed ‘Obligations of access to, and use of, specific network facilities’, provides:
+      
+‘1.      A national regulatory authority may, in accordance with the provisions of Article 8, impose obligations on operators to meet
+         reasonable requests for access to, and use of, specific network elements and associated facilities, inter alia in situations
+         where the national regulatory authority considers that denial of access or unreasonable terms and conditions having a similar
+         effect would hinder the emergence of a sustainable competitive market at the retail level, or would not be in the end-user’s
+         interest.
+      
+Operators may be required inter alia: 
+…
+(b)      to negotiate in good faith with undertakings requesting access;
+…
+2.      When national regulatory authorities are considering whether to impose the obligations referred in paragraph 1, and in particular
+         when assessing whether such obligations would be proportionate to the objectives set out in Article of the Framework Directive,
+         they shall take account in particular of the following factors:
+      
+(a)      the technical and economic viability of using or installing competing facilities, in the light of the rate of market development,
+         taking into account the nature and type of interconnection and access involved;
+      
+(b)      the feasibility of providing the access proposed, in relation to the capacity available;
+(c)      the initial investment by the facility owner, bearing in mind the risks involved in making the investment;
+(d)      the need to safeguard competition in the long-term;
+(e)      where appropriate, any relevant intellectual property rights;
+(f)      the provision of pan-European services.’
+Article of the Framework Directive sets out the policy objectives and regulatory principles which the national regulatory
+         authorities must ensure are observed.
+      
+ National law
+Article of the Polish Law on telecommunications (Prawo Telekomunikacyjne), of July (Dz. U. 2004, No 171, position
+         1800; ‘the Law on telecommunications’) sets out the rules applicable to the supply of telecommunications services, the provision
+         of telecommunications networks or associated facilities (‘the telecommunications activities’).
+      
+Paragraph thereof provides that:
+      
+‘The aim of this Law is to create conditions:
+(1)      for fair and effective competition in telecommunications services;
+(2)      for the development and use of modern telecommunications infrastructures;
+(3)      to ensure that the use of numbering, radio frequencies and orbital resources is properly managed;
+(4)      to ensure that users derive maximum benefit in terms of choice, price and quality of telecommunications services;
+(5)      to ensure technological neutrality.
+ …’
+Article of the Law on telecommunications states as follows:
+      
+‘1.      If another telecommunications undertaking or body referred to in Article 4(1), (2), (4), (5), (7) and (8), so requests, the
+         operator of a public telecommunications network shall conduct negotiations on the conclusion of an access agreement with a
+         view to providing publicly-available telecommunications services and to ensuring their interoperability.
+      
+2.      Telecommunications undertaking, when negotiating the clauses of access agreements, shall take account of the obligations imposed
+         on them.
+      
+3.      Information obtained in the course of the negotiations may be used only in accordance with its intended purpose and is subject
+         to the confidentiality obligation, unless otherwise provided.
+      
+4.      Unless otherwise provided, the provisions of this chapter in relation to telecommunications undertakings shall apply to the
+         entities referred to in Article 4(1), (2), (4), (5), (7) and (8) respectively.
+      
+5.      Where an operator of a Member State applying for access to a telecommunications network does not perform any telecommunications
+         activities in the territory of Poland, it shall not be required to make an entry in the register referred to in Article 10.’
+      
+Under Article of the Law on telecommunications:
+      
+‘1.      The President of the [(Urząd Komunikacji Elektronicznej (‘UKE’) (Office of Electronic Comunications)] may, of his own motion
+         or upon written request by each party to negotiations for the conclusion of an access agreement, by order, lay down a time-limit
+         for closing negotiations, which must not exceed days from the day of submission of the request for the conclusion of an
+         access agreement.
+      
+2.      If the negotiations do not commence, if access is refused by the operator required to grant such access, or if the agreement
+         is not concluded within the time‑limit referred to in paragraph 1, any party may request the president of UKE to adopt a decision
+         regarding the points in dispute or to define the terms of cooperation.
+      
+3.      The request referred to in paragraph shall include the draft access agreement and set out the respective positions of the
+         parties to the extent specified by the Law and refer to those clauses in the agreement on which the parties were unable to
+         agree.
+      
+4.      At the request of the President of UKE, the parties shall submit to him, within days, their respective positions on the
+         points of dispute and the documents necessary to examine the request.’
+      
+Article of the Law is worded as follows:
+      
+‘1.      The President of UKE shall make his decision on the grant of access within days of the date of the submission of the request
+         referred to in Article 27(2), taking account of the following criteria:
+      
+(1)      the interest of users of telecommunications networks;
+(2)      the obligations imposed on telecommunications undertakings;
+(3)      the promotion of modern telecommunications services;
+(4)      the nature of existing points at issue and the practical possibility, having regard to the technical and economic aspects
+         of access, of implementing the solutions proposed by telecommunications undertakings which were party to the negotiations
+         or possible alternative solutions;
+      
+(5)      ensuring:
+(a)      the integrity of the network and interoperability of services,
+(b)      non-discriminatory terms of access,
+(c)      the development of a competitive market for telecommunications services;
+(6)      the market power of telecommunications undertakings whose networks are interconnected;
+(7)      the public interest, including protection of the environment;
+(8)      the continuity of universal services.
+2.      The President of UKE shall make the decision on grant of access to the entities referred to in Article 4(1), (2), (4), (5),
+         (7) and (8) within days of the date of the submission of the request referred to in Article 27(2), taking account of the
+         criteria referred to in paragraph of this article, points (1) to (4), (5)(a) and (c) and (6) to (8), of the needs of national
+         defence, State security and public order and safety, as well as the specific nature of the tasks performed by those entities.
+         
+      
+3.      The decision on grant of access for the purposes of network interconnection may include the [mandatory and variable] provisions
+         [according to the type of interconnected networks].
+      
+4.      The decision on granting access shall replace that part of the access agreement covered by the decision.
+5.      If the interested parties conclude an access agreement, the provisions of the decision on access which are covered by that
+         agreement shall expire by operation of law.
+      
+6.      The decision on access may be modified by the President of UKE at the request of any party concerned or ex officio, where
+         this is justified by the need to protect the interests of end-users, to ensure effective competition or interoperability of
+         services.
+      
+7.      In the event of financial claims for non-performance or inadequate performance of obligations which result from the decision
+         on access, judicial proceedings shall be commenced.
+      
+8.      The President of UKE shall issue a decision on access which includes all the provisions necessary to ensure access if one
+         of the parties is a telecommunications undertaking on which an obligation has been imposed, particularly under Article 45.’
+      
+According to Article of the Law: 
+      
+‘The President of UKE may, ex officio, modify the content of an access agreement or require the parties to modify it where
+         this is justified by the need to protect the interests of end-users and to ensure effective competition or interoperability
+         of services.’
+      
+Article of the Law on telecommunications provides that ‘Articles to … shall apply mutatis mutandis to the modification of access agreements’.
+      
+Under Article 45:
+      
+‘The President of UKE may, taking account of the appropriateness of a given obligation to the problem identified, the principle
+         of proportionality and the objectives referred to in Article 1(2), and having regard to Article 1(3), adopt a decision which
+         imposes on a telecommunications undertaking which controls access to end-users regulatory obligations necessary to ensure
+         that the end-users of that telecommunications undertaking can communicate with the users of another telecommunications undertaking,
+         including the obligation of network interconnection.’
+      
+Article of the Law provides: 
+      
+‘1.      The President of UKE may, by means of a decision, impose an obligation on telecommunications undertakings to grant access
+         to the following associated facilities:
+      
+(1)      software interfaces,
+(2)      electronic programme guides.
+2.      The provisions on consultation and consolidation proceedings shall apply to a decision referred to in paragraph 1.
+3.      The President of UKE shall issue a decision referred to in paragraph 1, based on the principles of equality and non-discrimination.’
+ The pre-litigation procedure 
+By letter of formal notice sent on March 2005, the Commission informed the Republic of Poland of its concerns regarding
+         the transposition into national law of Article 4(1) and the first subparagraph of Article 5(1) of the Access Directive. That
+         Member State replied to it by letter of May 2005. 
+      
+On July 2006, the Commission issued a reasoned opinion requesting that Member State to take the measures necessary to comply
+         with the opinion within two months of its receipt. The Polish authorities replied to that opinion on September 2006. As
+         it was not satisfied with that reply, the Commission decided to institute these proceedings.
+      
+ The action
+ The first complaint, alleging non-conformity of Article of the Law on telecommunications with Article 4(1) of the Access
+            Directive 
+ Arguments of the parties
+In its first plea, the Commission contends that the obligation to negotiate interconnection laid down in Article 4(1) of the
+         Access Directive applies to all operators of public telecommunications networks and concerns the interconnection of networks.
+         The latter is a particular type of access which is implemented between the various operators of public networks and does not
+         involve any other form of access. The national regulatory authority only intervenes in exceptional circumstances.
+      
+In the Commission’s view, it follows from recitals and and Articles 8(3), 5(1) and of the Access Directive that, first
+         of all, an evaluation must be carried out to determine whether the market concerned is subject to ex ante regulation and to assess the level of competition on that market. Secondly, the national regulatory authorities are required
+         to take account of a range of factors and to examine the impact of the access obligation on long-term competition in that
+         market. Thirdly, under Article 5(1) of the Access Directive, national regulatory authorities must be expressly empowered to
+         impose an obligation to negotiate access to telecommunications networks on all operators, including those without significant
+         market power. Fourthly, one of the basic tenets of the Community legal framework for electronic communications is the principle
+         that intervention by national regulatory authorities is limited to those cases where free market mechanisms are not functioning
+         or are not leading to satisfactory results.
+      
+According to the Commission, however, Article 26(1) of the Law on telecommunications has the effect of imposing a general
+         obligation to negotiate in good faith agreements on access to telecommunications networks.
+      
+In the Commission’s view, the significance of such an obligation being imposed by statute is not only that the regulatory
+         authority is not required to ascertain whether the imposition of that obligation encourages access to telecommunications networks,
+         but also that it entails no weighing-up of the interests of the operator of the network concerned and of the undertakings
+         seeking access to that network and no assessment of the effect of imposing that obligation in a particular market. The authority
+         is also not required to indicate whether the conditions laid down in Article 5(1) of the Access Directive have been satisfied.
+      
+Furthermore, the Commission maintains that the Republic of Poland’s position is based on two false premises. The first is
+         that the Access Directive provides that the regulatory authority may require any operator of a telecommunications network
+         to negotiate access to that network, without taking account of the actual situation. The second is that the fact of holding
+         negotiations is not very onerous for operators of telecommunications networks, since it has no effect on their investment
+         decisions and thus on the conditions of competition. 
+      
+Finally, the Commission submits, first, that the approach under the Polish Law on telecommunications does not enable the principle
+         of legal certainty to be implemented more effectively than the approach under the Access Directive, and, furthermore, that
+         the latter directive does not provide for a right to require negotiations to be opened, but merely for the national regulatory
+         authority to be empowered to impose, following a market analysis, an obligation to negotiate on operators of telecommunications
+         networks with significant market power or, in certain cases, on any operator. 
+      
+The Republic of Poland contests the merits of this first complaint. It submits that interpreting the Access Directive on the
+         basis of its purpose and function leads to the conclusion that, by laying down an obligation to enter into negotiations not
+         only for the purposes of interconnection of telecommunications networks, but also for the purpose of access to those networks,
+         the provisions of Article of the Law on telecommunications are not contrary to Article 4(1) of that directive. 
+      
+In that regard, that Member State maintains, first of all, that requiring an operator of a telecommunications network to enter
+         into negotiations with an undertaking which seeks access to that network constitutes a form of encouraging access to telecommunications
+         networks, since maximum utilisation of existing infrastructures by all interested parties can thereby be achieved.
+      
+The Member State further maintains that the approach by which national bodies are given powers to require such an operator
+         to enter into negotiations at the request of an undertaking wishing to access the network in question and its own approach
+         of guaranteeing to such an undertaking the right to require that negotiations will be entered into lead to similar results
+         for that operator.
+      
+Secondly, the Republic of Poland takes the view that its approach is the best way of implementing the principle of legal certainty,
+         since operators are able to ascertain precisely the extent of their obligations under the Law on telecommunications.
+      
+The Member State also submits that it can be inferred from recital six and from the first subparagraph of Article 5(1) of
+         the Access Directive that any undertaking has the de facto right to request the operator of a public telecommunications network to hold negotiations on access to that network and that,
+         if it fails to do so, the undertaking can apply to the regulatory authority. As a result, the decision of the regulatory authority
+         by which the operator concerned is required to enter into negotiations may be regarded as declaratory in nature since it confirms
+         the existence of an obligation on the operator to that effect, and thus the undertaking’s corresponding right to require access.
+         Therefore, this right and the symmetrical obligation on operators to which it gives rise are fully justified by the purpose
+         of the directive. 
+      
+Finally, according to the Member State, during the three years in which the Law on telecommunications has been in force, there
+         have been no undesirable effects either on operators or on the development of competition as a result of it.
+      
+ Findings of the Court
+It should be noted at the outset that the Republic of Poland accepts that Article 26(1) of the Law on telecommunications is
+         a general statutory provision requiring any operator of a public telecommunications network to negotiate in good faith the
+         conclusion of an agreement on access to that network at the request of any undertaking wishing to obtain such access, since
+         such negotiations relate not only to agreements on interconnection but also to agreements governing access to the network.
+      
+It must be borne in mind that the obligation on all operators of public telecommunications networks to negotiate when requested
+         by other undertakings so authorised, as is apparent from Article 4(1) of the Access directive, concerns interconnection which,
+         in accordance with the definition provided in Article 2(b) of that directive, ‘is a specific type of access implemented between
+         public network operators’. Contrary to Article of the Law on telecommunications, this obligation therefore does not concern
+         other forms of access to networks, such as those defined in Article 2(a) of the directive and those provided for in the Law
+         on telecommunications.
+      
+It must also be pointed out that the second sentence of Article 4(1) of the Access Directive allows operators to offer access
+         and interconnection to other undertakings on terms and conditions consistent with obligations imposed by the national regulatory
+         authority. Those obligations include the obligations which that authority may impose under Article 8(2) of the Access Directive
+         on an operator designated as having significant market power on a specific market following a market analysis.
+      
+In that regard, it is apparent from reading together Articles and 12(1)(b) of the Access Directive that an obligation to
+         negotiate an agreement with undertakings in good faith may be imposed by national regulatory authorities on operators with
+         significant market power, following an analysis of that market.
+      
+As the Advocate General has pointed out in point of his Opinion, Article of the Law on telecommunications is not based
+         on two sets of rules depending on the market power of the undertakings; rather, it leads to equal treatment of all operators,
+         without allowing the national regulatory authority to take account of the specific context before intervening or in the course
+         of its examination of the request by the undertaking seeking access to a telecommunications network. 
+      
+The consequence of the obligation provided in the Law on telecommunications to negotiate access agreements in good faith is
+         to impose such an obligation without prior evaluation of the degree of effective competition on the market concerned. The
+         Law also does not allow the obligation to be withdrawn or amended where competition in the market intensifies.
+      
+Moreover, according to recital of the Access Directive, whilst increasing competition, intervention by national regulatory
+         authorities must balance the rights of an infrastructure owner to exploit its infrastructure for its own benefit and the rights
+         of other service providers to access facilities that are essential for the provision of competing services.
+      
+Furthermore, under Article 12(2) of the Access Directive, intervention by national regulatory authorities is circumscribed
+         by the need take account of the factors set out in that provision, including the need to safeguard competition in the long‑term
+         and to assess the proportionality of obligations which that authority intends to impose as regards access to specific network
+         elements and their use in relation to the objectives set out in Article of the Framework Directive.
+      
+By not providing for intervention by the national regulatory authority prior to imposition of an obligation to negotiate access
+         agreements, the Law on telecommunications does not allow for any assessment of the circumstances in accordance with the factors
+         set out in Article 12(2).
+      
+It follows that, by imposing on operators of public communications networks a general obligation to negotiate agreements for
+         access to the telecommunications network, the Republic of Poland has not correctly transposed Article 4(1) of the Access Directive.
+      
+This finding is not undermined by the Member State’s argument to the effect that a more dynamic and purposive approach to
+         interpreting the directive would enable a more rapid development of technologies to take place.
+      
+Indeed, the national regulatory authority should intervene only to ensure efficient functioning of the market. To that end,
+         the first subparagraph of Article 5(1) of the Access Directive provides that the authority is under a duty to promote efficiency
+         and sustainable competition and to give the maximum benefit to end-users. 
+      
+As regard the Member State’s argument that the Law on telecommunications strengthens observance of the principle of legal
+         certainty, it suffices to state that this principle does not permit any derogation from the rules laid down by the Access
+         Directive. 
+      
+It follows from the foregoing that the first complaint is well founded.
+      
+Accordingly, it must be held that by not transposing Article 4(1) of the Access Directive correctly, the Republic of Poland
+         has failed to fulfil its obligations under that directive. 
+      
+ The second complaint, based on non-conformity of the Law on telecommunications with the first subparagraph of Article 5(1)
+            of the Access Directive
+ Arguments of the parties
+By its second complaint, the Commission submits that Articles to of the Law on telecommunications do not ensure correct
+         transposition of first subparagraph of Article 5(1) of the Access Directive. It is apparent from those Articles to and
+         from Articles and of the Law that all operators of public communications networks are required to negotiate access
+         to those networks and that the president of the national regulatory authority may decide on the time-limit for closure of
+         this type of negotiations and that, if the parties fail to reach an agreement, the president may, at the request of one of
+         the parties, adopt a decision granting access which will replace the access agreement on the points to which the decision
+         relates and may thus impose obligations on undertakings irrespective of their position in the market. 
+      
+In this regard, the Commission maintains, first of all, that Article 5(1) of the Access Directive cannot be implemented by
+         a general statutory provision, since it requires national regulatory authorities to be empowered to act only in certain cases.
+         This power is limited by the reference to the objectives set out in Article of the Framework Directive and by the requirements
+         imposed under Article 5(3) of the Access Directive. Article 5(1) is not a mere programmatic provision, but a provision indicating
+         the decisions which the national regulatory authorities must be empowered to take. It is an exception to the general principle
+         enshrined in Article of the Access Directive, which must be interpreted restrictively.
+      
+Secondly, it submits that Article 5(4) of the Access Directive does not by itself permit regulatory obligations to be imposed
+         on all undertakings, but only on those with significant market power, or, irrespective of their market power, in the circumstances
+         mentioned in Article 8(3) of the directive. The obligations referred to in Articles to of the directive cannot be imposed
+         on the basis of the procedure described in Article 5(4).
+      
+Thirdly, the Commission asserts that Article 5(1) of the Access Directive does not make the national regulatory authority’s
+         power dependent on the existence of any dispute between undertakings.
+      
+The Republic of Poland challenges that complaint. It submits, first, that the two rules deriving from the first subparagraph
+         of Article 5(1) of the Access Directive, under which the national regulatory authority is required to encourage, and where
+         appropriate, ensure network access, interconnection and interoperability of services, are very general in nature and constitute
+         programmatic norms. Such rules are binding on the Member States only as to the objective to be attained, the achievement of
+         which they are required to ensure in the framework of their policy on access to telecommunications networks.
+      
+This interpretation is confirmed by the general scheme of the Access Directive, since Article is inserted in Chapter II
+         thereof, under the heading ‘General Provisions’. 
+      
+The defendant Member State also argues that the objectives set out in Article of the Framework Directive are defined generally
+         such that the fact of referring to them leaves the national regulatory authorities a wide discretion. In addition, even if
+         the objectives of the authorities’ activities were precisely defined, this would not ensure that the undertakings operating
+         in the market could foresee the obligations to which they would be subject. The principle of legal certainty, however, requires
+         rules of law to be clear and precise.
+      
+The general regulatory powers are also not limited by the criteria set out in Article 5(3) of the Access directive, which
+         concern the obligations and requirements imposed under Article 5(1) and (2) thereof.
+      
+The Member State concludes that transposition of the said Article cannot be effected verbatim, by providing for a general
+         power for national regulatory authorities to encourage and ensure access to telecommunications networks.
+      
+The Republic of Poland submits, secondly, that this complaint relates only to the non-conformity of Polish law with the first
+         subparagraph of Article 5(1) of the Access Directive and not with the second subparagraph.
+      
+It further asserts that the Commission does not take account of the fact that the first subparagraph of Article 5(1) contains
+         two legal rules. The first of those rules, establishing a general obligation to encourage access, interconnection and interoperability
+         of services in each case, irrespective of the circumstances, which is why the national regulatory authority must act on an
+         on-going basis, is implemented by Chapter of the Law on telecommunications. The second relates to the obligation to ensure
+         network access, which is laid down in Articles and of the Law.
+      
+ Findings of the Court
+By its second complaint, the Commission requests that the Court declare that the first subparagraph of Article 5(1) of the
+         Access Directive, requiring national regulatory authorities to be given the power to intervene specifically in order to ensure
+         compliance with the objectives of Article of the Framework Directive, has not been correctly transposed by the Law on telecommunications.
+      
+It must be pointed out, first, that the regulatory tasks of the national regulatory authority are set out in Articles to
+         of the Framework Directive. Article 8(1) thereof provides that Member States are to ensure that, in carrying out those
+         tasks, the national regulatory authorities take all reasonable measures which are aimed at achieving the objectives set out
+         in paragraphs to of that article.
+      
+Furthermore, the Court has interpreted Article as placing on the Member States the obligation to ensure that the national
+         regulatory authorities take all reasonable measures aimed at promoting competition in the provision of electronic communications
+         services, ensuring that there is no distortion or restriction of competition in the electronic communications sector and removing
+         remaining obstacles to the provision of those services at European level (Case C‑380/Centro Europa [2008] ECR I-0000, paragraph 81). 
+      
+Secondly, the first subparagraph of Article 5(1) of the Access Directive refers to the powers and responsibilities of the
+         national regulatory authorities in respect of access and interconnection. It provides that, acting in pursuit of the objectives
+         set out in Article of the Framework Directive, those authorities are to encourage and where appropriate ensure adequate
+         access and interconnection, and interoperability of services, while promoting efficiency, sustainable competition, and giving
+         the maximum benefit to end-users.
+      
+It follows that the first subparagraph of Article 5(1) of the Access Directive is limited to providing for a general power
+         for the national regulatory authorities for the purpose of achieving the objectives of Article of the Framework Directive
+         in the specific context of access and interconnection.
+      
+Thirdly, as the Advocate General has observed in point of his Opinion, Articles to of the Polish Law on telecommunications
+         afford the national regulatory authority wide powers of intervention. 
+      
+Fourthly, it is to be remembered that, according to settled case-law, in proceedings for failure to fulfil obligations it
+         is incumbent upon the Commission to prove the alleged failure. It is the Commission’s responsibility to place before the Court
+         the information needed to enable the Court to establish that the obligation has not been fulfilled, (Case C-387/Commission v Finland [2008] ECR I-0000, paragraph and the case-law cited). 
+      
+It must be held that by doing no more than submitting that the first subparagraph of Article 5(1) of the Access Directive
+         cannot be implemented by a general statutory provision, but only by wording which sets out decisions which the national regulatory
+         authority is empowered to take, without showing that the relevant provisions of the Law on telecommunications do not achieve
+         the objectives of the Framework Directive, the Commission has not sufficiently established that those provisions do not ensure
+         the correct transposition of the first subparagraph of Article 5(1) of the Access Directive.
+      
+It follows that the second complaint must be rejected.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party’s pleadings. Under the first subparagraph of Article 69(3) of those rules, the Court may
+         nevertheless order that the costs be shared or that the parties bear their own costs where each party succeeds on some and
+         fails on other heads, or where the circumstances are exceptional. Since the Commission and the Republic of Poland have each
+         been partially unsuccessful in their pleadings, they should bear their own costs.
+      
+On those grounds, the Court (Second Chamber) hereby:
+1.      Declares that, by failing to transpose correctly Article 4(1) of Directive 2002/19/EC of the European Parliament and of the
+            Council of March on access to, and interconnection of, electronic communications networks and associated facilities
+            (Access Directive), the Republic of Poland has failed to fulfil its obligations under that Directive;
+2.      Dismisses the action as to the remainder;
+3.      Orders the Commission of the European Communities and the Republic of Poland to bear their own costs. 
+[Signatures]
+* Language of the case: Polish.
+      
+Top  
+ 

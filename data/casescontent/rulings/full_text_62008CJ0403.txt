@@ -1,0 +1,1646 @@
+
+Joined Cases C-403/and C-429/Football Association Premier League Ltd and Others 
+v
+QC Leisure and Others 
+(References for a preliminary ruling from the High Court of Justice of England and Wales, Chancery Division, and from the
+         High Court of Justice of England and Wales, Queen’s Bench Division (Administrative Court))
+      
+(Satellite broadcasting – Broadcasting of football matches – Reception of the broadcast by means of satellite decoder cards – Satellite decoder cards lawfully placed on the market in one Member State and used in another Member State – Prohibition on marketing and use in a Member State – Visualisation of broadcasts in disregard of the exclusive rights granted – Copyright – Television broadcasting right – Exclusive licences to broadcast in a single Member State – Freedom to provide services – Article TFEU – Competition – Article TFEU – Restriction of competition by object – Protection of services based on conditional access – Illicit device – Directive 98/84/EC – Directive 2001/29/EC – Reproduction of works within the memory of a satellite decoder and on a television screen – Exception to the reproduction right – Communication of works to the public in public houses – Directive 93/83/EEC)
+Summary of the Judgment
+1.        Freedom to provide services – Legal protection of services based on, or consisting of, conditional access – Directive 98/– Illicit device – Meaning – Decoding devices lawfully placed on the market in one Member State and used in another Member
+            State – Not included
+(European Parliament and Council Directive 98/84, Art. 2(e))
+2.        Freedom to provide services – Legal protection of services based on, or consisting of, conditional access – Directive 98/– Scope – National legislation prohibiting the use of foreign decoding devices – Not included
+(European Parliament and Council Directive 98/84, Art. 3(2))
+3.        Freedom to provide services – Free movement of goods – National legislation relating to these two fundamental freedoms – Examination
+            in the light of the one that is predominant
+(Art. TFEU)
+4.        Freedom to provide services – Restrictions – Decoding devices lawfully placed on the market in one Member State and used in
+            another Member State for the purpose of the broadcasting of sporting events
+(Art. TFEU)
+5.        Competition – Agreements, decisions and concerted practices – Agreements between undertakings – Adverse effect on competition
+            – Exclusive licence between a holder of intellectual property rights and a broadcaster – Prohibition on supplying devices
+            for decoding the broadcasts outside the territory covered by the licence agreement – Not permissible
+(Art. TFEU)
+6.        Approximation of laws – Copyright and related rights – Directive 2001/– Harmonisation of certain aspects of copyright and
+            related rights in the information society – Reproduction right – Partial reproduction – Scope
+(European Parliament and Council Directive 2001/29, Art. 2(a))
+7.        Approximation of laws – Copyright and related rights – Directive 2001/– Harmonisation of certain aspects of copyright and
+            related rights in the information society – Reproduction right – Exceptions and limitations
+(European Parliament and Council Directive 2001/29, Art. 5(1))
+8.        Approximation of laws – Copyright and related rights – Directive 2001/– Harmonisation of certain aspects of copyright and
+            related rights in the information society – Communication to the public – Meaning
+(European Parliament and Council Directive 2001/29, Art. 3(1))
+9.        Approximation of laws – Copyright and related rights – Directive 93/– Effects – Lawfulness of the acts of reproduction
+            performed within the memory of a satellite decoder and on a television screen – No effects
+(Council Directive 93/83)
+1.        ‘Illicit device’ within the meaning of Article 2(e) of Directive 98/on the legal protection of services based on, or consisting
+         of, conditional access must be interpreted as not covering foreign decoding devices (devices which give access to the satellite
+         broadcasting services of a broadcaster, are manufactured and marketed with that broadcaster’s authorisation, but are used,
+         in disregard of its will, outside the geographical area for which they have been issued), foreign decoding devices procured
+         or enabled by the provision of a false name and address or foreign decoding devices which have been used in breach of a contractual
+         limitation permitting their use only for private purposes.
+      
+That provision defines ‘illicit device’ as any equipment or software ‘designed’ or ‘adapted’ to give access to a protected
+         service in an intelligible form without the authorisation of the service provider. This wording is thus limited solely to
+         equipment which has been the subject of manual or automated operations prior to commencement of its use and enables protected
+         services to be received without the consent of providers of those services. Consequently, the wording refers only to equipment
+         that has been manufactured, manipulated, adapted or readjusted without the authorisation of the service provider, and the
+         provision does not cover the use of foreign decoding devices.
+      
+By contrast, the aforementioned devices are manufactured and placed on the market with the authorisation of the service provider,
+         they do not allow access free of charge to protected services and they do not enable or facilitate the circumvention of a
+         technological measure designed to protect the remuneration of those services, given that remuneration has been paid in the
+         Member State where they have been placed on the market.
+      
+(see paras 63-64, 66-67, operative part 1)
+2.        Article 3(2) of Directive 98/on the legal protection of services based on, or consisting of, conditional access does not
+         preclude national legislation which prevents the use of foreign decoding devices, including those procured or enabled by the
+         provision of a false name and address or those used in breach of a contractual limitation permitting their use only for private
+         purposes, since such legislation does not fall within the field coordinated by that directive.
+      
+(see para. 74, operative part 2)
+3.        Where a national measure relates to both the free movement of goods and the freedom to provide services, the Court will in
+         principle examine it in the light of one only of those two fundamental freedoms if it is apparent that one of them is entirely
+         secondary in relation to the other and may be considered together with it. Although, in the field of telecommunications, those
+         two aspects are often intimately linked, one not capable of being regarded as entirely secondary in relation to the other,
+         that is not the case where national legislation is not directed at decoding devices in order to determine the requirements
+         which they must meet or to lay down conditions under which they can be marketed, but deals with them only as an instrument
+         enabling subscribers to obtain the encrypted broadcasting services.
+      
+(see paras 78-79, 82)
+4.        Article TFEU must be interpreted as precluding legislation of a Member State which makes it unlawful to import into and
+         sell and use in that State foreign decoding devices which give access to an encrypted satellite broadcasting service from
+         another Member State that includes subject-matter protected by the legislation of that first State. This conclusion is affected
+         neither by the fact that the foreign decoding device has been procured or enabled by the giving of a false identity and a
+         false address, with the intention of circumventing the territorial restriction in question, nor by the fact that it is used
+         for commercial purposes although it was restricted to private use.
+      
+That prohibition cannot be justified in light of the objective of protecting intellectual property rights.
+It is true that sporting events, as such, have a unique and, to that extent, original character which can transform them into
+         subject-matter that is worthy of protection comparable to the protection of works. However, since safeguarding of the rights
+         which constitute the specific subject-matter of the intellectual property concerned guarantees the right holders concerned
+         only appropriate remuneration and not the highest possible remuneration for the commercial exploitation of the protected subject-matter,
+         those rights are safeguarded where the right holders are remunerated for the broadcasting of the protected subject-matter
+         from the Member State of broadcast in which the act of broadcasting is deemed to take place – in accordance with Article 1(2)(b)
+         of Directive 93/on the coordination of certain rules concerning copyright and rights related to copyright applicable to
+         satellite broadcasting and cable retransmission – and in which the appropriate remuneration is therefore payable and they
+         may ask, in that Member State, for an amount which takes account of the actual audience and the potential audience both in
+         the Member State of broadcast and in any other Member State in which the broadcasts including the protected subject-matter
+         are also received.
+      
+The premium paid by broadcasters in order to be granted territorial exclusivity is such as to result in artificial price differences
+         between the partitioned national markets. Such partitioning and such an artificial price difference are irreconcilable with
+         the fundamental aim of the Treaty, which is completion of the internal market. In those circumstances, that premium cannot
+         be regarded as forming part of the appropriate remuneration which the right holders concerned must be ensured and, consequently,
+         its payment goes beyond what is necessary to ensure appropriate remuneration for those right holders.
+      
+(see paras 100, 106-108, 113-117, 125, 131, operative part 3)
+5.        The clauses of an exclusive licence agreement concluded between a holder of intellectual property rights and a broadcaster
+         constitute a restriction on competition prohibited by Article TFEU where they oblige the broadcaster not to supply decoding
+         devices enabling access to that right holder’s protected subject-matter with a view to their use outside the territory covered
+         by that licence agreement.
+      
+(see para. 146, operative part 4)
+6.        Article 2(a) of Directive 2001/on the harmonisation of certain aspects of copyright and related rights in the information
+         society must be interpreted as meaning that the reproduction right extends to transient fragments of the works within the
+         memory of a satellite decoder and on a television screen, provided that those fragments contain elements which are the expression
+         of the authors’ own intellectual creation, and the unit composed of the fragments reproduced simultaneously must be examined
+         in order to determine whether it contains such elements.
+      
+(see para. 159, operative part 5)
+7.        Acts of reproduction which are performed within the memory of a satellite decoder and on a television screen fulfil the conditions
+         laid down in Article 5(1) of Directive 2001/on the harmonisation of certain aspects of copyright and related rights in
+         the information society and may therefore be carried out without the authorisation of the copyright holders concerned. 
+      
+(see para. 182, operative part 6)
+8.        ‘Communication to the public’ within the meaning of Article 3(1) of Directive 2001/on the harmonisation of certain aspects
+         of copyright and related rights in the information society must be interpreted as covering transmission of the broadcast works,
+         via a television screen and speakers, to the customers present in a public house.
+      
+Where a broadcast work is transmitted, in a place accessible to the public, for a public which is additional to the owners
+         of television sets who, either personally or within their own private or family circles, receive the signal and follow the
+         broadcasts and which is permitted by the owner of a television set to hear or see the work, an intentional intervention of
+         that kind must be regarded as an act by which the work in question is communicated to a new public. That is so when the works
+         broadcast are transmitted by the proprietor of a public house to the customers present in that establishment, because those
+         customers constitute an additional public which was not considered by the authors when they authorised the broadcasting of
+         their works.
+      
+In addition, so far as concerns transmission of the broadcast work to a ‘public not present at the place where the communication
+         originates’, within the meaning of recital in the preamble to Directive 2001/29, that directive, like the Berne Convention
+         for the Protection of Literary and Artistic Works, does not cover ‘direct representation or performance’, in other words,
+         interpretation of the works before the public that is in direct physical contact with the actor or performer of those works.
+         Such an element of direct physical contact is specifically absent in the case of transmission, in a place such as a public
+         house, of a broadcast work, via a television screen and speakers, to the public which is present at the place of that transmission,
+         but which is not present at the place where the communication originates within the meaning of recital in the preamble
+         to Directive 2001/29, that is to say, at the place of the representation or performance which is broadcast.
+      
+(see paras 198-203, 207, operative part 7)
+9.        Directive 93/on the coordination of certain rules concerning copyright and rights related to copyright applicable to satellite
+         broadcasting and cable retransmission must be interpreted as not having a bearing on the lawfulness of the acts of reproduction
+         performed within the memory of a satellite decoder and on a television screen.
+      
+(see para. 210, operative part 8)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+October (*)
+      
+Table of contents
+I –  Legal context
+A –  International law
+B –  European Union law
+1.  Broadcasting directives
+2.  Intellectual property directives
+C –  National legislation
+II –  The disputes in the main proceedings and the questions referred for a preliminary ruling
+A –  Licensing of the broadcasting rights for Premier League matches
+B –  Broadcasting of Premier League matches
+III –  Consideration of the questions referred
+A –  Rules relating to the reception of encrypted broadcasts from other Member States
+1.  Introductory remarks
+2.  Conditional Access Directive
+a)  Interpretation of ‘illicit device’ within the meaning of Article 2(e) of the Conditional Access Directive (Question in Case C-403/and Questions and in Case C‑429/08)
+      
+b)  Interpretation of Article 3(2) of the Conditional Access Directive (Question in Case C-429/08)
+c)  The other questions concerning the Conditional Access Directive
+3.  Rules of the FEU Treaty concerning free movement of goods and services
+a)  Prohibition on the import, sale and use of foreign decoding devices (Question 8(b) and the first part of Question in
+         Case C-403/and Question 6(i) in Case C-429/08)
+      
+i)  Identification of the applicable provisions
+ii)  Existence of a restriction on the freedom to provide services
+iii)  Justification of a restriction on the freedom to provide services by an objective of protecting intellectual property
+         rights
+      
+–  Observations submitted to the Court
+–  The Court’s response
+iv)  Justification of a restriction on the freedom to provide services by the objective of encouraging the public to attend
+         football stadiums
+      
+b)  Use of foreign decoding devices following the giving of a false identity and a false address and use of such devices for
+         commercial purposes (Question 8(c) in Case C‑403/and Question 6(ii) and (iii) in Case C-429/08)
+      
+c)  The other questions relating to free movement (the second part of Question in Case C‑403/and Question in Case C‑429/08)
+4.  Rules of the FEU Treaty concerning competition
+B –  Rules relating to the use of the broadcasts once they are received
+1.  Introductory remarks
+2.  The reproduction right provided for in Article 2(a) of the Copyright Directive (Question in Case C‑403/08)
+3.  The exception in Article 5(1) of the Copyright Directive to the reproduction right (Question in Case C-403/08)
+a)  Introductory remarks
+b)  Compliance with the conditions laid down in Article 5(1) of the Copyright Directive
+4.  ‘Communication to the public’ within the meaning of Article 3(1) of the Copyright Directive (Question in Case C-403/08)
+5.  Effect of the Satellite Broadcasting Directive (Question in Case C‑403/08)
+IV –  Costs
+(Satellite broadcasting – Broadcasting of football matches – Reception of the broadcast by means of satellite decoder cards – Satellite decoder cards lawfully placed on the market in one Member State and used in another Member State – Prohibition on marketing and use in a Member State – Visualisation of broadcasts in disregard of the exclusive rights granted – Copyright – Television broadcasting right – Exclusive licences to broadcast in a single Member State – Freedom to provide services – Article TFEU – Competition – Article TFEU – Restriction of competition by object – Protection of services based on conditional access – Illicit device – Directive 98/84/EC – Directive 2001/29/EC – Reproduction of works within the memory of a satellite decoder and on a television screen – Exception to the reproduction right – Communication of works to the public in public houses – Directive 93/83/EEC)
+In Joined Cases C‑403/and C‑429/08,
+REFERENCES for a preliminary ruling under Article EC from the High Court of Justice of England and Wales, Chancery Division,
+         and from the High Court of Justice of England and Wales, Queen’s Bench Division (Administrative Court), made by decisions
+         of and July 2008, received at the Court on and September respectively, in the proceedings
+      
+Football Association Premier League Ltd,
+NetMed Hellas SA,
+Multichoice Hellas SA 
+v
+QC Leisure,
+David Richardson,
+AV Station plc,
+Malcolm Chamberlain,
+Michael Madden,
+SR Leisure Ltd,
+Philip George Charles Houghton,
+Derek Owen (C-403/08)
+      
+and
+Karen Murphy 
+v
+Media Protection Services Ltd (C-429/08),
+      
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, A. Tizzano, J.N. Cunha Rodrigues, K. Lenaerts, J.-C. Bonichot, A. Arabadjiev and J.-J.
+         Kasel, Presidents of Chambers, A. Borg Barthet, M. Ilešič, J. Malenovský (Rapporteur) and T. von Danwitz, Judges,
+      
+Advocate General: J. Kokott,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on October 2010,
+after considering the observations submitted on behalf of:
+–        Football Association Premier League Ltd, NetMed Hellas SA and Multichoice Hellas SA, by J. Mellor QC, N. Green QC, C. May
+         and A. Robertson, Barristers, and S. Levine, M. Pullen and R. Hoy, Solicitors, 
+      
+–        QC Leisure, Mr Richardson, AV Station plc, Mr Chamberlain, Mr Madden, SR Leisure Ltd, Mr Houghton and Mr Owen, by M. Howe
+         QC, A. Norris, S. Vousden, T. St Quentin and M. Demetriou, Barristers, and P. Dixon and P. Sutton, Solicitors, 
+      
+–        Ms Murphy, by M. Howe QC, W. Hunter QC, M. Demetriou, Barrister, and P. Dixon, Solicitor,
+–        Media Protection Services Ltd, by J. Mellor QC, N. Green QC, H. Davies QC and C. May, A. Robertson and P. Cadman, Barristers,
+         
+      
+–        the United Kingdom Government, by V. Jackson and S. Hathaway, acting as Agents, and J. Stratford QC,
+–        the Czech Government, by K. Havlíčková, acting as Agent,
+–        the Spanish Government, by N. Díaz Abad, acting as Agent,
+–        the French Government, by G. de Bergues and B. Beaupère-Manokha, acting as Agents,
+–        the Italian Government, by G. Palmieri, acting as Agent, and L. D’Ascia, avvocato dello Stato,
+–        the European Parliament, by J. Rodrigues and L. Visaggio, acting as Agents,
+–        the Council of the European Union, by F. Florindo Gijón and G. Kimberley, acting as Agents,
+–        the European Commission, by X. Lewis, H. Krämer, I.V. Rogalski, J. Bourke and J. Samnadda, acting as Agents,
+–        the EFTA Surveillance Authority, by O.J. Einarsson and M. Schneider, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on February 2011,
+gives the following
+Judgment
+These references for a preliminary ruling concern the interpretation of:
+      
+–        Directive 98/84/EC of the European Parliament and of the Council of November on the legal protection of services based
+         on, or consisting of, conditional access (OJ L 320, p. 54; ‘the Conditional Access Directive’),
+      
+–        Council Directive 93/83/EEC of September on the coordination of certain rules concerning copyright and rights related
+         to copyright applicable to satellite broadcasting and cable retransmission (OJ L 248, p. 15; ‘the Satellite Broadcasting
+         Directive’),
+      
+–        Council Directive 89/552/EEC of October on the coordination of certain provisions laid down by law, regulation or administrative
+         action in Member States concerning the pursuit of television broadcasting activities  (OJ L 298, p. 23), as amended by
+         Directive 97/36/EC of the European Parliament and of the Council of June (OJ L 202, p. 60) (‘the Television without
+         Frontiers Directive’), 
+      
+–        Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects
+         of copyright and related rights in the information society (OJ L 167, p. 10, corrigendum at OJ L 6, p. 70; ‘the
+         Copyright Directive’) and
+      
+–        Articles TFEU, TFEU, TFEU and TFEU. 
+The references have been made in proceedings between Football Association Premier League Ltd (‘FAPL’), NetMed Hellas SA (‘NetMed
+         Hellas’) and Multichoice Hellas SA (‘Multichoice Hellas’) (collectively ‘FAPL and others’) and QC Leisure, Mr Richardson,
+         AV Station plc (‘AV Station’), Mr Chamberlain, Mr Madden, SR Leisure Ltd, Mr Houghton and Mr Owen (collectively ‘QC Leisure
+         and others’) (in Case C-403/08), and between Ms Murphy and Media Protection Services Ltd (‘MPS’) (in Case C‑429/08), concerning
+         the marketing and use in the United Kingdom of decoding devices which give access to the satellite broadcasting services of
+         a broadcaster, are manufactured and marketed with that broadcaster’s authorisation, but are used, in disregard of its will,
+         outside the geographical area for which they have been issued (‘foreign decoding devices’). 
+      
+I –  Legal context
+A –  International law
+The Agreement on Trade-Related Aspects of Intellectual Property Rights, which constitutes Annex C to the Agreement establishing
+         the World Trade Organisation, signed in Marrakech on April 1994, was approved by Council Decision 94/800/EC of December
+         concerning the conclusion on behalf of the European Community, as regards matters within its competence, of the agreements
+         reached in the Uruguay Round multilateral negotiations (1986-1994) (OJ L 336, p. 1). 
+      
+Article 9(1) of the Agreement on Trade-Related Aspects of Intellectual Property Rights provides:
+      
+‘Members shall comply with Articles through of the Berne Convention (1971) and the Appendix thereto. However, Members
+         shall not have rights or obligations under this Agreement in respect of the rights conferred under Article 6bis of that Convention or of the rights derived therefrom.’
+      
+Article 11(1) of the Berne Convention for the Protection of Literary and Artistic Works (Paris Act of July 1971), as amended
+         on September (‘the Berne Convention’), states:
+      
+‘Authors of dramatic, dramatico-musical and musical works shall enjoy the exclusive right of authorising:
+(i)      the public performance of their works, including such public performance by any means or process;
+(ii)      any communication to the public of the performance of their works.’
+Article 11bis(1) of the Berne Convention provides:
+      
+‘Authors of literary and artistic works shall enjoy the exclusive right of authorising:
+(i)      the broadcasting of their works or the communication thereof to the public by any other means of wireless diffusion of signs,
+         sounds or images;
+      
+(ii)      any communication to the public by wire or by rebroadcasting of the broadcast of the work, when this communication is made
+         by an organisation other than the original one;
+      
+(iii)      the public communication by loudspeaker or any other analogous instrument transmitting, by signs, sounds or images, the broadcast
+         of the work.’
+      
+The World Intellectual Property Organisation (WIPO) adopted in Geneva on December the WIPO Performances and Phonograms
+         Treaty (‘the Performances and Phonograms Treaty’) and the WIPO Copyright Treaty (‘the Copyright Treaty’). Those two treaties
+         were approved on behalf of the Community by Council Decision 2000/278/EC of March (OJ L 89, p. 6).
+      
+Article 2(g) of the Performances and Phonograms Treaty provides:
+      
+‘For the purposes of this Treaty:
+...
+(g)      “communication to the public” of a performance or a phonogram means the transmission to the public by any medium, otherwise
+         than by broadcasting, of sounds of a performance or the sounds or the representations of sounds fixed in a phonogram. For
+         the purposes of Article 15, “communication to the public” includes making the sounds or representations of sounds fixed in
+         a phonogram audible to the public.’
+      
+Article 15(1) of that treaty states:
+      
+‘Performers and producers of phonograms shall enjoy the right to a single equitable remuneration for the direct or indirect
+         use of phonograms published for commercial purposes for broadcasting or for any communication to the public.’
+      
+Article 1(4) of the Copyright Treaty provides that Contracting Parties are to comply with Articles to of and the Appendix
+         to the Berne Convention.
+      
+B –  European Union law
+1.           Broadcasting directives
+The third recital in the preamble to the Television without Frontiers Directive states:
+      
+‘... broadcasts transmitted across frontiers by means of various technologies are one of the ways of pursuing the objectives
+         of the Community; … measures should be adopted to permit and ensure the transition from national markets to a common programme
+         production and distribution market and to establish conditions of fair competition without prejudice to the public interest
+         role to be discharged by the television broadcasting services’.
+      
+Recital in the preamble to Directive 97/states:
+      
+‘… events of major importance for society should, for the purposes of this Directive, meet certain criteria, that is to say
+         be outstanding events which are of interest to the general public in the European Union or in a given Member State or in an
+         important component part of a given Member State and are organised in advance by an event organiser who is legally entitled
+         to sell the rights pertaining to that event’. 
+      
+Recitals 3, 5, 7, 14, and in the preamble to the Satellite Broadcasting Directive state:
+      
+‘(3)      … broadcasts transmitted across frontiers within the Community, in particular by satellite and cable, are one of the most
+         important ways of pursuing [the] Community objectives, which are at the same time political, economic, social, cultural and
+         legal;
+      
+…
+(5)      … holders of rights are exposed to the threat of seeing their works exploited without payment of remuneration or that the
+         individual holders of exclusive rights in various Member States block the exploitation of their rights; … the legal uncertainty
+         in particular constitutes a direct obstacle in the free circulation of programmes within the Community;
+      
+…
+(7)      … the free broadcasting of programmes is further impeded by the current legal uncertainty over whether broadcasting by a satellite
+         whose signals can be received directly affects the rights in the country of transmission only or in all countries of reception
+         together; …
+      
+…
+(14)      … the legal uncertainty regarding the rights to be acquired which impedes cross-border satellite broadcasting should be overcome
+         by defining the notion of communication to the public by satellite at a Community level; … this definition should at the same
+         time specify where the act of communication takes place; … such a definition is necessary to avoid the cumulative application
+         of several national laws to one single act of broadcasting; …
+      
+(15)      … the acquisition on a contractual basis of exclusive broadcasting rights should comply with any legislation on copyright
+         and rights related to copyright in the Member State in which communication to the public by satellite occurs;
+      
+…
+(17)      … in arriving at the amount of the payment to be made for the rights acquired, the parties should take account of all aspects
+         of the broadcast, such as the actual audience, the potential audience and the language version’.
+      
+Article 1(2)(a) to (c) of the Satellite Broadcasting Directive states:
+      
+‘(a)      For the purpose of this Directive, “communication to the public by satellite” means the act of introducing, under the control
+         and responsibility of the broadcasting organisation, the programme-carrying signals intended for reception by the public into
+         an uninterrupted chain of communication leading to the satellite and down towards the earth.
+      
+(b)      The act of communication to the public by satellite occurs solely in the Member State where, under the control and responsibility
+         of the broadcasting organisation, the programme-carrying signals are introduced into an uninterrupted chain of communication
+         leading to the satellite and down towards the earth.
+      
+(c)      If the programme-carrying signals are encrypted, then there is communication to the public by satellite on condition that
+         the means for decrypting the broadcast are provided to the public by the broadcasting organisation or with its consent.’
+      
+Article of the Satellite Broadcasting Directive provides:
+      
+‘Member States shall provide an exclusive right for the author to authorise the communication to the public by satellite of
+         copyright works, subject to the provisions set out in this chapter.’
+      
+Recitals 2, 3, and in the preamble to the Conditional Access Directive state: 
+      
+‘(2)      … the cross-border provision of broadcasting and information society services may contribute, from the individual point of
+         view, to the full effectiveness of freedom of expression as a fundamental right and, from the collective point of view, to
+         the achievement of the objectives laid down in the Treaty;
+      
+(3)      … the Treaty provides for the free movement of all services which are normally provided for remuneration; … this right, as
+         applied to broadcasting and information society services, is also a specific manifestation in Community law of a more general
+         principle, namely freedom of expression as enshrined in Article of the European Convention for the Protection of Human
+         Rights and Fundamental Freedoms; … that Article explicitly recognises the right of citizens to receive and impart information
+         regardless of frontiers and … any restriction of that right must be based on due consideration of other legitimate interests
+         deserving of legal protection;
+      
+…
+(6)      … the opportunities offered by digital technologies provide the potential for increasing consumer choice and contributing
+         to cultural pluralism, by developing an even wider range of services within the meaning of Articles [TFEU and TFEU];
+         … the viability of those services will often depend on the use of conditional access in order to obtain the remuneration of
+         the service provider; … accordingly, the legal protection of service providers against illicit devices which allow access
+         to these services free of charge seems necessary in order to ensure the economic viability of the services;
+      
+…
+(13)      … it seems necessary to ensure that Member States provide appropriate legal protection against the placing on the market,
+         for direct or indirect financial gain, of an illicit device which enables or facilitates without authority the circumvention
+         of any technological measures designed to protect the remuneration of a legally provided service’.
+      
+Article of the Conditional Access Directive provides:
+      
+‘For the purposes of this Directive:
+(a)      protected service shall mean any of the following services, where provided against remuneration and on the basis of conditional access:
+      
+–        television broadcasting, as defined in Article 1(a) of [the Television without Frontiers Directive],
+…
+(b)      conditional access shall mean any technical measure and/or arrangement whereby access to the protected service in an intelligible form is made
+         conditional upon prior individual authorisation;
+      
+(c)      conditional access device shall mean any equipment or software designed or adapted to give access to a protected service in an intelligible form;
+      
+…
+(e)      illicit device shall mean any equipment or software designed or adapted to give access to a protected service in an intelligible form without
+         the authorisation of the service provider;
+      
+(f)      field coordinated by this Directive shall mean any provision relating to the infringing activities specified in Article 4.’
+      
+As set out in Article of the Conditional Access Directive:
+      
+‘1.      Each Member State shall take the measures necessary to prohibit on its territory the activities listed in Article 4, and to
+         provide for the sanctions and remedies laid down in Article 5.
+      
+2.      Without prejudice to paragraph 1, Member States may not:
+(a)      restrict the provision of protected services, or associated services, which originate in another Member State; or
+(b)      restrict the free movement of conditional access devices; 
+for reasons falling within the field coordinated by this Directive.’
+Article of the Conditional Access Directive states:
+      
+‘Member States shall prohibit on their territory all of the following activities:
+(a)      the manufacture, import, distribution, sale, rental or possession for commercial purposes of illicit devices;
+(b)      the installation, maintenance or replacement for commercial purposes of an illicit device;
+(c)      the use of commercial communications to promote illicit devices.’
+2.           Intellectual property directives
+Recitals 9, 10, 15, 20, 23, and in the preamble to the Copyright Directive state:
+      
+‘(9)      Any harmonisation of copyright and related rights must take as a basis a high level of protection, since such rights are crucial
+         to intellectual creation. …
+      
+(10)      If authors or performers are to continue their creative and artistic work, they have to receive an appropriate reward for
+         the use of their work …
+      
+…
+(15)      … This Directive … serves to implement a number of the new international obligations [arising from the Copyright Treaty and
+         the Performances and Phonograms Treaty].
+      
+…
+(20)      This Directive is based on principles and rules already laid down in the Directives currently in force in [the area of intellectual
+         property], in particular [Council Directive 92/100/EEC of November on rental right and lending right and on certain
+         rights related to copyright in the field of intellectual property (OJ L 346, p. 61)], and it develops those principles
+         and rules and places them in the context of the information society. The provisions of this Directive should be without prejudice
+         to the provisions of those Directives, unless otherwise provided in this Directive.
+      
+...
+(23)      This Directive should harmonise further the author’s right of communication to the public. This right should be understood
+         in a broad sense covering all communication to the public not present at the place where the communication originates. This
+         right should cover any such transmission or retransmission of a work to the public by wire or wireless means, including broadcasting.
+         This right should not cover any other acts.
+      
+…
+(31)      A fair balance of rights and interests between the different categories of rightholders, as well as between the different
+         categories of rightholders and users of protected subject-matter must be safeguarded …
+      
+…
+(33)      The exclusive right of reproduction should be subject to an exception to allow certain acts of temporary reproduction, which
+         are transient or incidental reproductions, forming an integral and essential part of a technological process and carried out
+         for the sole purpose of enabling either efficient transmission in a network between third parties by an intermediary, or a
+         lawful use of a work or other subject-matter to be made. The acts of reproduction concerned should have no separate economic
+         value on their own. To the extent that they meet these conditions, this exception should include acts which enable browsing
+         as well as acts of caching to take place, including those which enable transmission systems to function efficiently, provided
+         that the intermediary does not modify the information and does not interfere with the lawful use of technology, widely recognised
+         and used by industry, to obtain data on the use of the information. A use should be considered lawful where it is authorised
+         by the rightholder or not restricted by law.’
+      
+As set out in Article 2(a) and (e) of the Copyright Directive:
+      
+‘Member States shall provide for the exclusive right to authorise or prohibit direct or indirect, temporary or permanent reproduction
+         by any means and in any form, in whole or in part:
+      
+(a)      for authors, of their works;
+…
+(e)      for broadcasting organisations, of fixations of their broadcasts, whether those broadcasts are transmitted by wire or over
+         the air, including by cable or satellite.’
+      
+Article 3(1) of the Copyright Directive provides:
+      
+‘Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of
+         their works, by wire or wireless means, including the making available to the public of their works in such a way that members
+         of the public may access them from a place and at a time individually chosen by them.’
+      
+Article of the Copyright Directive states:
+      
+‘1.      Temporary acts of reproduction referred to in Article 2, which are transient or incidental, which are an integral and essential
+         part of a technological process and the sole purpose of which is to enable:
+      
+(a)      a transmission in a network between third parties by an intermediary, or
+(b)      a lawful use
+of a work or other subject-matter to be made, and which have no independent economic significance, shall be exempted from
+         the reproduction right provided for in Article 2.
+      
+…
+3.      Member States may provide for exceptions or limitations to the rights provided for in Articles and in the following cases:
+…
+(i)      incidental inclusion of a work or other subject-matter in other material;
+…
+5.      The exceptions and limitations provided for in paragraphs 1, 2, and shall only be applied in certain special cases which
+         do not conflict with a normal exploitation of the work or other subject-matter and do not unreasonably prejudice the legitimate
+         interests of the rightholder.’
+      
+According to recital in the preamble to Directive 2006/115/EC of the European Parliament and of the Council of December
+         on rental right and lending right and on certain rights related to copyright in the field of intellectual property (codified
+         version) (OJ L 376, p. 28; ‘the Related Rights Directive’):
+      
+‘The creative and artistic work of authors and performers necessitates an adequate income as a basis for further creative
+         and artistic work, and the investments required particularly for the production of phonograms and films are especially high
+         and risky. …’
+      
+Under Article 7(2) of the Related Rights Directive, Member States are to provide for broadcasting organisations the exclusive
+         right to authorise or prohibit the fixation of their broadcasts, whether these broadcasts are transmitted by wire or over
+         the air, including by cable or satellite.
+      
+Article 8(3) of the Related Rights Directive is worded as follows:
+      
+‘Member States shall provide for broadcasting organisations the exclusive right to authorise or prohibit the rebroadcasting
+         of their broadcasts by wireless means, as well as the communication to the public of their broadcasts if such communication
+         is made in places accessible to the public against payment of an entrance fee.’
+      
+Recital in the preamble to, and Articles 7(2) and 8(3) of, the Related Rights Directive essentially reproduce the seventh
+         recital in the preamble to, and Articles 6(2) and 8(3) of, Directive 92/100.
+      
+C –  National legislation 
+Section 297(1) of the Copyright, Designs and Patents Act (‘the Copyright, Designs and Patents Act’) provides:
+      
+‘A person who dishonestly receives a programme included in a broadcasting  service provided from a place in the United Kingdom
+         with intent to avoid payment of any charge applicable to the reception of the programme commits an offence and is liable on
+         summary conviction to a fine not exceeding level on the standard scale.’
+      
+Section of the Copyright, Designs and Patents Act states:
+      
+‘(1)      A person who–
+(a)      makes charges for the reception of programmes included in a broadcasting  service provided from a place in the United Kingdom
+         or any other Member State,
+      
+(b)      sends encrypted transmissions of any other description from a place in the United Kingdom or any other Member State, or
+…
+is entitled to the following rights and remedies.
+(2)      He has the same rights and remedies against a person–
+(a)      who–
+(i)      makes, imports, distributes, sells or lets for hire, offers or exposes for sale or hire, or advertises for sale or hire,
+(ii)      has in his possession for commercial purposes, or
+(iii) instals, maintains or replaces for commercial purposes,
+any apparatus designed or adapted to enable or assist persons to access the programmes or other transmissions or circumvent
+         conditional access technology related to the programmes or other transmissions when they are not entitled to do so, …
+      
+…
+as a copyright owner has in respect of an infringement of copyright.
+…’
+II –  The disputes in the main proceedings and the questions referred for a preliminary ruling
+FAPL runs the Premier League, the leading professional football league competition for football clubs in England.
+      
+FAPL’s activities include organising the filming of Premier League matches and exercising in their regard television broadcasting
+         rights, that is to say, rights to make the audiovisual content of sporting events available to the public by means of television
+         broadcasting (‘broadcasting rights’).
+      
+A –  Licensing of the broadcasting rights for Premier League matches
+FAPL grants licences in respect of those broadcasting rights for live transmission, on a territorial basis and for three-year
+         terms. In that regard, FAPL’s strategy is to bring the competition to viewers throughout the world while maximising the value
+         of the rights to its members, the clubs.
+      
+Those rights are thus awarded to broadcasters under an open competitive tender procedure which begins with the invitation
+         to tenderers to submit bids on a global, regional or territorial basis. Demand then determines the territorial basis on which
+         FAPL sells its international rights. However, as a rule, that basis is national since there is only a limited demand from
+         bidders for global or pan-European rights, given that broadcasters usually operate on a territorial basis and serve the domestic
+         market either in their own country or in a small cluster of neighbouring countries with a common language.
+      
+Where a bidder wins, for an area, a package of broadcasting rights for the live transmission of Premier League matches, it
+         is granted the exclusive right to broadcast them in that area. This is necessary, according to FAPL, in order to realise the
+         optimum commercial value of all of the rights, broadcasters being prepared to pay a premium to acquire that exclusivity as
+         it allows them to differentiate their services from those of their rivals and therefore enhances their ability to generate
+         revenue.
+      
+In order to protect the territorial exclusivity of all broadcasters, they each undertake, in their licence agreement with
+         FAPL, to prevent the public from receiving their broadcasts outside the area for which they hold the licence. This requires,
+         first, each broadcaster to ensure that all of its broadcasts capable of being received outside that territory – in particular
+         those transmitted by satellite – are encrypted securely and cannot be received in unencrypted form. Second, broadcasters must
+         ensure that no device is knowingly authorised so as to permit anyone to view their transmissions outside the territory concerned.
+         Therefore, broadcasters are in particular prohibited from supplying decoding devices that allow their broadcasts to be decrypted
+         for the purpose of being used outside the territory for which they hold the licence.
+      
+B –  Broadcasting of Premier League matches
+As part of its activities, FAPL is also responsible for organising the filming of Premier League matches and transmission
+         of the signal to the broadcasters that have the rights for those matches.
+      
+For this purpose, the images and ambient sound captured at the match are transmitted to a production facility which adds logos,
+         video sequences, on-screen graphics, music and English commentary.
+      
+The signal is sent, by satellite, to a broadcaster which adds its own logo and possibly some commentary. The signal is then
+         compressed and encrypted, and then transmitted by satellite to subscribers, who receive the signal using a satellite dish.
+         The signal is, finally, decrypted and decompressed in a satellite decoder which requires a decoding device such as a decoder
+         card for its operation.
+      
+In Greece, the holder of the sub-licence to broadcast Premier League matches is NetMed Hellas. The matches are broadcast via
+         satellite on SuperSport channels on the NOVA platform, the owner and operator of which is Multichoice Hellas.
+      
+Viewers who have subscribed to the NOVA satellite package have access to those channels. Every subscriber must have been able
+         to provide a name, a Greek address and a Greek telephone number. Subscriptions can be taken out for private or commercial
+         purposes.
+      
+In the United Kingdom, at the material time the licensee for live Premier League broadcasting was BSkyB Ltd. Where a natural
+         or legal person wishes to screen Premier League matches in the United Kingdom, he may take out a commercial subscription from
+         that company.
+      
+However, in the United Kingdom certain restaurants and bars have begun to use foreign decoding devices to access Premier League
+         matches. They buy from a dealer a card and a decoder box which allow them to receive a satellite channel broadcast in another
+         Member State, such as the NOVA channels, the subscription to which is less expensive than BSkyB Ltd’s subscription. Those
+         decoder cards have been manufactured and marketed with the authorisation of the service provider, but they are subsequently
+         used in an unauthorised manner, since the broadcasters have made their issue subject to the condition – in accordance with
+         the undertakings set out in paragraph of the present judgment – that customers do not use them outside the national territory
+         concerned.
+      
+FAPL has taken the view that such activities are harmful to its interests because they undermine the exclusivity of the rights
+         granted by licence in a given territory and hence the value of those rights. Indeed, according to FAPL, the broadcaster selling
+         the cheapest decoder cards has the potential to become, in practice, the broadcaster at European level, which would result
+         in broadcast rights in the European Union having to be granted at European level. This would lead to a significant loss in
+         revenue for both FAPL and the broadcasters, and would thus undermine the viability of the services that they provide.
+      
+Consequently, FAPL and others have brought, in Case C-403/08, what they consider to be three test cases before the High Court
+         of Justice of England and Wales, Chancery Division. Two of the actions are against QC Leisure, Mr Richardson, AV Station and
+         Mr Chamberlain, suppliers to public houses of equipment and satellite decoder cards that enable the reception of programmes
+         of foreign broadcasters, including NOVA, which transmit live Premier League matches.
+      
+The third action is brought against Mr Madden, SR Leisure Ltd, Mr Houghton and Mr Owen, licensees or operators of four public
+         houses that have screened live Premier League matches by using a foreign decoding device.
+      
+FAPL and others allege that those persons are infringing their rights protected by section of the Copyright, Designs and
+         Patents Act by trading in or, in the case of the defendants in the third action, being in possession for commercial purposes
+         of foreign decoding devices designed or adapted to give access to the services of FAPL and others without authorisation.
+      
+In addition, the defendants in the third action have allegedly infringed their copyrights by creating copies of the works
+         in the internal operation of the satellite decoder and by displaying the works on screen, as well as by performing, playing
+         or showing the works in public and communicating them to the public.
+      
+Furthermore, QC Leisure and AV Station have allegedly infringed the copyrights by authorising the acts perpetrated by the
+         defendants in the third action, as well as by other persons to whom they have supplied decoder cards.
+      
+In the view of QC Leisure and others, the actions are unfounded because they are not using pirate decoder cards, all of the
+         cards in question having been issued and placed upon the market, in another Member State, by the relevant satellite broadcaster.
+      
+In Case C‑429/08, Ms Murphy, manager of a public house, procured a NOVA decoder card to screen Premier League matches.
+      
+Agents from MPS, a body mandated by FAPL to conduct a campaign of prosecutions against public house managers using foreign
+         decoding devices, found that Ms Murphy was receiving, in her public house, broadcasts of Premier League matches transmitted
+         by NOVA.
+      
+Consequently, MPS brought Ms Murphy before Portsmouth Magistrates’ Court, which convicted her of two offences under section
+         297(1) of the Copyright, Designs and Patents Act on the ground that she had dishonestly received a programme included in a
+         broadcasting service provided from a place in the United Kingdom with intent to avoid payment of any charge applicable to
+         the reception of the programme.
+      
+After Portsmouth Crown Court had essentially dismissed her appeal, Ms Murphy brought an appeal by way of case stated before
+         the High Court of Justice, taking a position similar to that adopted by QC Leisure and others.
+      
+In those circumstances, the High Court of Justice of England and Wales, Chancery Division, decided to stay proceedings and
+         to refer the following questions to the Court for a preliminary ruling in Case C-403/08:
+      
+‘(1)      (a)   Where a conditional access device is made by or with the consent of a service provider and sold subject to a limited authorisation
+         to use the device only to gain access to the protected service in particular circumstances, does that device become an “illicit
+         device” within the meaning of Article 2(e) of [the Conditional Access Directive] if it is used to give access to that protected
+         service in a place or in a manner or by a person outside the authorisation of the service provider?
+      
+(b)      What is the meaning of “designed or adapted” within Article 2(e) of the Directive?
+(2)      When a first service provider transmits programme content in encoded form to a second service provider who broadcasts that
+         content on the basis of conditional access, what factors are to be taken into account in determining whether the interests
+         of the first provider of a protected service are affected, within the meaning of Article of [the Conditional Access Directive]?
+      
+In particular:
+Where a first undertaking transmits programme content (comprising visual images, ambient sound and English commentary) in
+         encoded form to a second undertaking which in turn broadcasts to the public the programme content (to which it has added its
+         logo and, on occasion, an additional audio commentary track):
+      
+(a)      Does the transmission by the first undertaking constitute a protected service of “television broadcasting” within the meaning
+         of Article 2(a) of [the Conditional Access Directive] and Article 1(a) of [the Television without Frontiers Directive]?
+      
+(b)      Is it necessary for the first undertaking to be a broadcaster within the meaning of Article 1(b) of [the Television without
+         Frontiers Directive] in order to be considered as providing a protected service of “television broadcasting” within the first
+         indent of Article 2(a) of [the Conditional Access Directive]?
+      
+(c)      Is Article of [the Conditional Access Directive] to be interpreted as conferring a civil right of action on the first undertaking
+         in respect of illicit devices which give access to the programme as broadcast by the second undertaking, either:
+      
+(i)      because such devices are to be regarded as giving access via the broadcast signal to the first undertaking’s own service;
+         or
+      
+(ii)      because the first undertaking is the provider of a protected service whose interests are affected by an infringing activity
+         (because such devices give unauthorised access to the protected service provided by the second undertaking)?
+      
+(d)      Is the answer to (c) affected by whether the first and second service providers use different decryption systems and conditional
+         access devices? 
+      
+(3)      Does “possession for commercial purposes” in Article 4(a) of the [Conditional Access] Directive relate only to possession
+         for the purposes of commercial dealings in (for example, sales of) illicit devices, or does it extend to the possession of
+         a device by an end user in the course of a business of any kind?
+      
+(4)      Where sequential fragments of a film, musical work or sound recording (in this case frames of digital video and audio) are
+         created (i) within the memory of a decoder or (ii) in the case of a film on a television screen, and the whole work is reproduced
+         if the sequential fragments are considered together but only a limited number of fragments exist at any point in time:
+      
+(a)      Is the question of whether those works have been reproduced in whole or in part to be determined by the rules of national
+         copyright law relating to what constitutes an infringing reproduction of a copyright work, or is it a matter of interpretation
+         of Article of [the Copyright Directive]?
+      
+(b)      If it is a matter of interpretation of Article of [the Copyright Directive], should the national court consider all of the
+         fragments of each work as a whole, or only the limited number of fragments which exist at any point in time? If the latter,
+         what test should the national court apply to the question of whether the works have been reproduced in part within the meaning
+         of that Article?
+      
+(c)      Does the reproduction right in Article extend to the creation of transient images on a television screen?
+(5)      (a)   Are transient copies of a work created within a satellite television decoder box or on a television screen linked to the decoder
+         box, and whose sole purpose is to enable a use of the work not otherwise restricted by law, to be regarded as having “independent
+         economic significance” within the meaning of Article 5(1) of [the Copyright Directive] by reason of the fact that such copies
+         provide the only basis upon which the rights holder can extract remuneration for the use of his rights?
+      
+(b)      Is the answer to Question 5(a) affected by (i) whether the transient copies have any inherent value; or (ii) whether the transient
+         copies comprise a small part of a collection of works and/or other subject-matter which otherwise may be used without infringement
+         of copyright; or (iii) whether the exclusive licensee of the rights holder in another Member State has already received remuneration
+         for use of the work in that Member State?
+      
+(6)      (a)   Is a copyright work communicated to the public by wire or wireless means within the meaning of Article of [the Copyright
+         Directive] where a satellite broadcast is received at a commercial premises (for example a bar) and communicated or shown
+         at those premises via a single television screen and speakers to members of the public present in those premises?
+      
+(b)      Is the answer to Question 6(a) affected if:
+(i)      the members of the public present constitute a new public not contemplated by the broadcaster (in this case because a domestic
+         decoder card for use in one Member State is used for a commercial audience in another Member State)?
+      
+(ii)      the members of the public are not a paying audience according to national law?
+(iii) the television broadcast signal is received by an aerial or satellite dish on the roof of or adjacent to the premises where
+         the television is situated?
+      
+(c)      If the answer to any part of (b) is yes, what factors should be taken into account in determining whether there is a communication
+         of the work which has originated from a place where members of the audience are not present?
+      
+(7)      Is it compatible with [the Satellite Broadcasting Directive] or with Articles and or of the EC Treaty if national
+         copyright law provides that when transient copies of works included in a satellite broadcast are created inside a satellite
+         decoder box or on a television screen, there is an infringement of copyright under the law of the country of reception of
+         the broadcast? Does it affect the position if the broadcast is decoded using a satellite decoder card which has been issued
+         by the provider of a satellite broadcasting service in another Member State on the condition that the satellite decoder card
+         is only authorised for use in that other Member State?
+      
+(8)      (a)   If the answer to [Question 1] is that a conditional access device made by or with the consent of the service provider becomes
+         an “illicit device” within the meaning of Article 2(e) of [the Conditional Access Directive] when it is used outside the scope
+         of the authorisation of the service provider to give access to a protected service, what is the specific subject-matter of
+         the right by reference to its essential function conferred by the Conditional Access Directive?
+      
+(b)      Do Articles or of the EC Treaty preclude enforcement of a provision of national law in a first Member State which makes
+         it unlawful to import or sell a satellite decoder card which has been issued by the provider of a satellite broadcasting service
+         in another Member State on the condition that the satellite decoder card is only authorised for use in that other Member State?
+      
+(c)      Is the answer affected if the satellite decoder card is authorised only for private and domestic use in that other Member
+         State but used for commercial purposes in the first Member State?
+      
+(9)      Do Articles and or of the EC Treaty preclude enforcement of a provision of national copyright law which makes it
+         unlawful to perform or play in public a musical work where that work is included in a protected service which is accessed[,]
+         and [that work is] played in public[,] by use of a satellite decoder card where that card has been issued by the service provider
+         in another Member State on the condition that the decoder card is only authorised for use in that other Member State? Does
+         it make a difference if the musical work is an unimportant element of the protected service as a whole and the showing or
+         playing in public of the other elements of the service are not prevented by national copyright law?
+      
+(10)      Where a programme content provider enters into a series of exclusive licences each for the territory of one or more Member
+         States under which the broadcaster is licensed to broadcast the programme content only within that territory (including by
+         satellite) and a contractual obligation is included in each licence requiring the broadcaster to prevent its satellite decoder
+         cards which enable reception of the licensed programme content from being used outside the licensed territory, what legal
+         test should the national court apply and what circumstances should it take into consideration in deciding whether the contractual
+         restriction contravenes the prohibition imposed by Article 81(1) [EC]?
+      
+In particular:
+(a)      must Article 81(1) [EC] be interpreted as applying to that obligation by reason only of it being deemed to have the object
+         of preventing, restricting or distorting competition? 
+      
+(b)      if so, must it also be shown that the contractual obligation appreciably prevents, restricts or distorts competition in order
+         to come within the prohibition imposed by Article 81(1) [EC]?’
+      
+In Case C-429/08, the High Court of Justice of England and Wales, Queen’s Bench Division (Administrative Court), decided to
+         stay proceedings and to refer the following questions to the Court for a preliminary ruling: 
+      
+‘(1)      In what circumstances is a conditional access device an “illicit device” within the meaning of Article 2(e) of [the Conditional
+         Access Directive]?
+      
+(2)      In particular, is a conditional access device an “illicit device” if it is acquired in circumstances where:
+(i)      the conditional access device was made by or with the consent of a service provider and originally supplied subject to limited
+         contractual authorisation to use the device to gain access to a protected service only in a first Member State and was used
+         to gain access to that protected service received in another Member State? and/or
+      
+(ii)      the conditional access device was made by or with the consent of a service provider and was originally procured and/or enabled
+         by the provision of a false name and residential address in the first Member State thereby overcoming contractual territorial
+         restrictions imposed on the export of such devices for use outside the first Member State? and/or
+      
+(iii) the conditional access device was made by or with the consent of a service provider and was originally supplied subject to
+         a contractual condition that it be used only for domestic or private use rather than commercial use (for which a higher subscription
+         charge is payable), but was used in the United Kingdom for commercial purposes, namely showing live football broadcasts in
+         a public house?
+      
+(3)      If the answer to any part of Question is “no”, does Article 3(2) of that Directive preclude a Member State from invoking
+         a national law that prevents use of such conditional access devices in the circumstances set out in Question above?
+      
+(4)      If the answer to any part of Question is “no”, is Article 3(2) of that Directive invalid:
+(a)      for the reason that it is discriminatory and/or disproportionate; and/or
+(b)      for the reason that it conflicts with free movement rights under the Treaty; and/or
+(c)      for any other reason?
+(5)      If the answer to Question is “yes”, are Articles 3(1) and of that Directive invalid for the reason that they purport to
+         require the Member States to impose restrictions on the importation from other Member States of and other dealings with “illicit
+         devices” in circumstances where those devices may lawfully be imported and/or used to receive cross-border satellite broadcasting
+         services by virtue of the rules on the free movement of goods under Articles and of the EC Treaty and/or the freedom
+         to provide and receive services under Article of the EC Treaty?
+      
+(6)      Do Articles 28, and/or EC preclude enforcement of a national law (such as section of the [Copyright, Designs and
+         Patents Act]) which makes it a criminal offence dishonestly to receive a programme included in a broadcasting service provided
+         from a place in the United Kingdom with intent to avoid payment of any charge applicable to the reception of the programme,
+         in any of the following circumstances:
+      
+(i)      where the conditional access device was made by or with the consent of a service provider and originally supplied subject
+         to limited contractual authorisation to use the device to gain access to a protected service only in a first Member State
+         and was used to gain access to that protected service received in another Member State (in this case the UK)? and/or
+      
+(ii)      where the conditional access device was made by or with the consent of a service provider and was originally procured and/or
+         enabled by the provision of a false name and residential address in the first Member State thereby overcoming contractual
+         territorial restrictions imposed on the export of such devices for use outside the first Member State? and/or
+      
+(iii) where the conditional access device was made by or with the consent of a service provider and was originally supplied subject
+         to a contractual condition that it be used only for domestic or private use rather than commercial use (for which a higher
+         subscription charge is payable), but was used in the United Kingdom for commercial purposes, namely showing live football
+         broadcasts in a public house?
+      
+(7)      Is enforcement of the national law in question in any event precluded on the ground of discrimination contrary to Article
+         EC or otherwise, because the national law applies to programmes included in a broadcasting service provided from a place
+         in the United Kingdom but not from any other Member State?
+      
+(8)      Where a programme content provider enters into a series of exclusive licences each for the territory of one or more Member
+         States under which the broadcaster is licensed to broadcast the programme content only within that territory (including by
+         satellite) and a contractual obligation is included in each licence requiring the broadcaster to prevent its satellite decoder
+         cards which enable reception of the licensed programme content from being used outside the licensed territory, what legal
+         test should the national court apply and what circumstances should it take into consideration in deciding whether the contractual
+         restriction contravenes the prohibition imposed by Article 81(1) [EC]?
+      
+In particular:
+(a)      must Article 81(1) [EC] be interpreted as applying to that obligation by reason only of it being deemed to have the object
+         of preventing, restricting or distorting competition?
+      
+(b)      if so, must it also be shown that the contractual obligation appreciably prevents, restricts or distorts competition in order
+         to come within the prohibition imposed by Article 81(1) [EC]?’ 
+      
+By order of the President of the Court of December 2008, Cases C-403/and C-429/were joined for the purposes of the
+         written and oral procedure and the judgment.
+      
+III –  Consideration of the questions referred 
+A –  Rules relating to the reception of encrypted broadcasts from other Member States 
+1.           Introductory remarks
+First of all, it should be made clear that the present cases concern only the satellite broadcasting of Premier League matches
+         to the public by broadcasting organisations, such as Multichoice Hellas. Thus, the only part of the audiovisual communication
+         that is relevant here is the part which consists in the transmission of those broadcasts by the broadcasting organisations
+         to the public in accordance with Article 1(2)(a) and (b) of the Satellite Broadcasting Directive, that operation being carried
+         out from the Member State where the programme-carrying signals are introduced into a chain of satellite communication (‘the
+         Member State of broadcast’), in this instance the Hellenic Republic in particular. 
+      
+On the other hand, the upstream part of the communication, between FAPL and those broadcasters, which consists in the transmission
+         of audiovisual data containing those matches, is irrelevant here, that communication indeed being capable of being effected
+         by means of telecommunication other than those used by the parties to the main proceedings. 
+      
+Second, it is apparent from the documents before the Court that, under the licence agreements between FAPL and the broadcasters
+         concerned, the broadcasts in question are intended solely for the public of the Member State of broadcast and that those broadcasters
+         must therefore ensure that their satellite transmissions can be received only in that State. Consequently, the broadcasters
+         must encrypt their transmissions and supply decoding devices only to persons resident in the Member State of broadcast.
+      
+Finally, it is not in dispute that proprietors of public houses use such decoding devices outside that Member State and therefore
+         they use them in disregard of the broadcasters’ will. 
+      
+It is in this context that the referring courts inquire, by the first part of their questions, whether such use of decoding
+         devices falls within the Conditional Access Directive and what its effect is on that use. Next, should this aspect not be
+         harmonised by the Conditional Access Directive, they seek to ascertain whether Articles TFEU, TFEU, TFEU and TFEU preclude national legislation and licence agreements that prohibit the use of foreign decoding devices. 
+      
+2.           Conditional Access Directive
+a)            Interpretation of ‘illicit device’ within the meaning of Article 2(e) of the Conditional Access Directive (Question in
+         Case C-403/and Questions and in Case C‑429/08)
+      
+By these questions, the referring courts ask, in essence, whether ‘illicit device’ within the meaning of Article 2(e) of the
+         Conditional Access Directive must be interpreted as also covering foreign decoding devices, including those procured or enabled
+         by the provision of a false name and address and those used in breach of a contractual limitation permitting their use only
+         for private purposes.
+      
+First, Article 2(e) of the Conditional Access Directive defines ‘illicit device’ as any equipment or software ‘designed’ or
+         ‘adapted’ to give access to a protected service in an intelligible form without the authorisation of the service provider.
+         
+      
+This wording is thus limited solely to equipment which has been the subject of manual or automated operations prior to commencement
+         of its use and enables protected services to be received without the consent of providers of those services. Consequently,
+         the wording refers only to equipment that has been manufactured, manipulated, adapted or readjusted without the authorisation
+         of the service provider, and it does not cover the use of foreign decoding devices.  
+      
+Second, recitals and in the preamble to the Conditional Access Directive, which contain explanation of the concept of
+         ‘illicit device’, refer to the need to combat both illicit devices ‘which allow access … free of charge’ to protected services
+         and the placing on the market of illicit devices which enable or facilitate ‘without authority the circumvention of any technological
+         measures’ designed to protect the remuneration of a legally provided service. 
+      
+Neither of those categories covers foreign decoding devices, foreign decoding devices procured or enabled by the provision
+         of a false name and address or foreign decoding devices which have been used in breach of a contractual limitation permitting
+         their use only for private purposes. All those devices are manufactured and placed on the market with the authorisation of
+         the service provider, they do not allow access free of charge to protected services and they do not enable or facilitate the
+         circumvention of a technological measure designed to protect the remuneration of those services, given that remuneration has
+         been paid in the Member State where they have been placed on the market.
+      
+In light of the foregoing, the answer to the questions referred is that ‘illicit device’ within the meaning of Article 2(e)
+         of the Conditional Access Directive must be interpreted as not covering foreign decoding devices, foreign decoding devices
+         procured or enabled by the provision of a false name and address or foreign decoding devices which have been used in breach
+         of a contractual limitation permitting their use only for private purposes. 
+      
+b)           Interpretation of Article 3(2) of the Conditional Access Directive (Question in Case C-429/08)
+By this question, the referring court asks, in essence, whether Article 3(2) of the Conditional Access Directive precludes
+         national legislation which prevents the use of foreign decoding devices, including those procured or enabled by the provision
+         of a false name and address or those which have been used in breach of a contractual limitation permitting their use only
+         for private purposes. 
+      
+Under Article 3(2) of the Conditional Access Directive, Member States may not restrict the free movement of protected services
+         and conditional access devices for reasons falling within the field coordinated by that directive, without prejudice to the
+         obligations flowing from Article 3(1).
+      
+Article 3(1) of the Conditional Access Directive imposes obligations in the field coordinated by the directive – which is
+         defined in Article 2(f) as any provision relating to the infringing activities specified in Article – by requiring in particular
+         that the Member States prohibit the activities listed in Article 4.
+      
+However, Article concerns only activities which are infringing because they result in the use of illicit devices within
+         the meaning of the directive. 
+      
+Foreign decoding devices, including those procured or enabled by the provision of a false name and address and those used
+         in breach of a contractual limitation permitting their use only for private purposes, do not constitute such illicit devices,
+         as is apparent from paragraphs to of the present judgment. 
+      
+Consequently, neither activities resulting in the use of those devices nor national legislation prohibiting those activities
+         fall within the field coordinated by the Conditional Access Directive. 
+      
+Accordingly, the answer to the question referred is that Article 3(2) of the Conditional Access Directive does not preclude
+         national legislation which prevents the use of foreign decoding devices, including those procured or enabled by the provision
+         of a false name and address or those used in breach of a contractual limitation permitting their use only for private purposes,
+         since such legislation does not fall within the field coordinated by that directive.
+      
+c)           The other questions concerning the Conditional Access Directive
+In light of the answers to Question in Case C‑403/and to Questions 1, and in Case C-429/08, there is no need to examine
+         Questions 2, and 8(a) in Case C‑403/or Questions and in Case C‑429/08.
+      
+3.           Rules of the FEU Treaty concerning free movement of goods and services 
+a)           Prohibition on the import, sale and use of foreign decoding devices (Question 8(b) and the first part of Question in Case
+         C-403/and Question 6(i) in Case C-429/08) 
+      
+By these questions, the referring courts ask in essence whether, on a proper construction of Articles TFEU, TFEU and
+         TFEU, those articles preclude legislation of a Member State which makes it unlawful to import into and sell and use in
+         that State foreign decoding devices which give access to an encrypted satellite broadcasting service from another Member State
+         that includes subject-matter protected by the legislation of that first State.
+      
+i)           Identification of the applicable provisions 
+National legislation such as that at issue in the main proceedings concerns both the cross-border provision of encrypted broadcasting
+         services and the movement within the European Union of foreign decoding devices which enable those services to be decoded.
+         In those circumstances, the question arises whether the legislation must be examined from the point of view of the freedom
+         to provide services or from that of the free movement of goods. 
+      
+It is clear from  the case-law that, where a national measure relates to both the free movement of goods and the freedom to
+         provide services, the Court will in principle examine it in the light of one only of those two fundamental freedoms if it
+         is apparent that one of them is entirely secondary in relation to the other and may be considered together with it (see Case
+         C‑275/Schindler [1994] ECR I‑1039, paragraph 22, and Case C-108/Ker-Optika [2010] ECR I-0000, paragraph 43).
+      
+However, in the field of telecommunications, those two aspects are often intimately linked, one not capable of being regarded
+         as entirely secondary in relation to the other. That is so in particular where national legislation governs the supply of
+         telecommunications equipment, such as decoding devices, in order to specify the requirements which that equipment must meet
+         or to lay down the conditions under which it can be marketed, so that it is appropriate, in such a case, to examine both fundamental
+         freedoms simultaneously (see, to this effect, Case C‑390/Canal Satélite Digital [2002] ECR I-607, paragraphs to 33). 
+      
+That said, where legislation concerns, in this field, an activity in respect of which the services provided by the economic
+         operators are particularly prominent, whilst the supply of telecommunications equipment is related thereto in only a purely
+         secondary manner, it is appropriate to examine that activity in the light of the freedom to provide services alone. 
+      
+That is so, inter alia, where making such equipment available constitutes only a specific step in the organisation or operation
+         of a service and that activity does not display an end in itself, but is intended to enable the service to be obtained. In
+         those circumstances, the activity which consists in making such equipment available cannot be assessed independently of the
+         activity linked to the service to which that first activity relates (see, by analogy, Schindler, paragraphs and 25).
+      
+In the main proceedings, the national legislation is not directed at decoding devices in order to determine the requirements
+         which they must meet or to lay down conditions under which they can be marketed. It deals with them only as an instrument
+         enabling subscribers to obtain the encrypted broadcasting services. 
+      
+Given that the national legislation thus concerns, above all, the freedom to provide services, whilst the free movement of
+         goods aspect is entirely secondary in relation to the freedom to provide services, that legislation must be assessed from
+         the point of view of the latter freedom. 
+      
+It follows that such legislation must be examined in the light of Article TFEU.
+      
+ii)        Existence of a restriction on the freedom to provide services 
+Article TFEU requires the abolition of all restrictions on the freedom to provide services, even if those restrictions
+         apply without distinction to national providers of services and to those from other Member States, when they are liable to
+         prohibit, impede or render less advantageous the activities of a service provider established in another Member State where
+         it lawfully provides similar services. Moreover, the freedom to provide services is for the benefit of both providers and
+         recipients of services (see Case C-42/Liga Portuguesa de Futebol Profissional and Bwin International [2009] ECR I‑7633, paragraph and the case-law cited). 
+      
+In the main proceedings, the national legislation prohibits foreign decoding devices – which give access to satellite broadcasting
+         services from another Member State – from being imported into, and sold and used in, national territory.
+      
+Given that access to satellite transmission services such as those at issue in the main proceedings requires possession of
+         such a device whose supply is subject to the contractual limitation that it may be used only in the Member State of broadcast,
+         the national legislation concerned prevents those services from being received by persons resident outside the Member State
+         of broadcast, in this instance those resident in the United Kingdom. Consequently, that legislation has the effect of preventing
+         those persons from gaining access to those services. 
+      
+It is true that the actual origin of the obstacle to the reception of such services is to be found in the contracts concluded
+         between the broadcasters and their customers, which in turn reflect the territorial restriction clauses included in contracts
+         concluded between those broadcasters and the holders of intellectual property rights. However, as the legislation confers
+         legal protection on those restrictions and requires them to be complied with on pain of civil-law and pecuniary sanctions,
+         it itself restricts the freedom to provide services. 
+      
+Consequently, the legislation concerned constitutes a restriction on the freedom to provide services that is prohibited by
+         Article TFEU unless it can be objectively justified. 
+      
+iii)        Justification of a restriction on the freedom to provide services by an objective of protecting intellectual property rights
+–       Observations submitted to the Court
+FAPL and others, MPS and the United Kingdom, French and Italian Governments submit that the restriction underlying the legislation
+         at issue in the main proceedings can be justified in light of the rights of holders of intellectual property rights, because
+         it is necessary in order to ensure that those holders remain appropriately remunerated; this requires that they be entitled
+         to demand appropriate remuneration for the use of their works or other subject-matter in each Member State and to grant territorial
+         exclusivity in respect of their use. 
+      
+Those parties contend in particular in this regard that, if there were no protection of that territorial exclusivity, the
+         holder of intellectual property rights would no longer be able to obtain appropriate licence fees from the broadcasters given
+         that the live broadcast of sporting events would have lost part of its value. Broadcasters are not interested in acquiring
+         licences outside the territory of the Member State of broadcast. Acquiring licences for all the national territories where
+         potential customers reside is not financially attractive, because of the extremely high cost of such licences. Thus, broadcasters
+         acquire licences to transmit the works concerned in the territory of a single Member State. They are prepared to pay a substantial
+         premium provided that they are guaranteed territorial exclusivity, because that exclusivity enables them to stand out from
+         their competitors and thereby to attract additional customers. 
+      
+QC Leisure and others, Ms Murphy, the Commission and the EFTA Surveillance Authority contend that such a restriction on the
+         freedom to provide broadcasting services cannot be justified, because it results in a partitioning of the internal market.
+      
+–       The Court’s response
+When examining the justification for a restriction, such as that at issue in the main proceedings, it is to be recalled that
+         a restriction on fundamental freedoms guaranteed by the Treaty cannot be justified unless it serves overriding reasons in
+         the public interest, is suitable for securing the attainment of the public interest objective which it pursues and does not
+         go beyond what is necessary in order to attain it (see, to this effect, Case C-222/UTECA [2009] ECR I‑1407, paragraph and the case-law cited). 
+      
+As regards the justifications which are capable of being accepted, it is apparent from settled case-law that such a restriction
+         may be justified, in particular, by overriding reasons in the public interest which consist in the protection of intellectual
+         property rights (see, to this effect, Case 62/Coditel and Others (‘Coditel I’) [1980] ECR 881, paragraphs and 16, and Joined Cases 55/and 57/Musik-Vertrieb membran and K-tel International [1981] ECR 147, paragraphs and 12).
+      
+It should thus be determined at the outset whether FAPL can invoke such rights capable of justifying the fact that the national
+         legislation at issue in the main proceedings establishes in its favour protection which constitutes a restriction on the freedom
+         to provide services. 
+      
+FAPL cannot claim copyright in the Premier League matches themselves, as they cannot be classified as works. 
+      
+To be so classified, the subject-matter concerned would have to be original in the sense that it is its author’s own intellectual
+         creation (see, to this effect, Case C‑5/Infopaq International [2009] ECR I‑6569, paragraph 37). 
+      
+However, sporting events cannot be regarded as intellectual creations classifiable as works within the meaning of the Copyright
+         Directive. That applies in particular to football matches, which are subject to rules of the game, leaving no room for creative
+         freedom for the purposes of copyright. 
+      
+Accordingly, those events cannot be protected under copyright. It is, moreover, undisputed that European Union law does not
+         protect them on any other basis in the field of intellectual property. 
+      
+None the less, sporting events, as such, have a unique and, to that extent, original character which can transform them into
+         subject-matter that is worthy of protection comparable to the protection of works, and that protection can be granted, where
+         appropriate, by the various domestic legal orders. 
+      
+In this regard, it is to be noted that, under the second subparagraph of Article 165(1) TFEU, the European Union is to contribute
+         to the promotion of European sporting issues, while taking account of the specific nature of sport, its structures based on
+         voluntary activity and its social and educational function.
+      
+Accordingly, it is permissible for a Member State to protect sporting events, where appropriate by virtue of protection of
+         intellectual property, by putting in place specific national legislation, or by recognising, in compliance with European Union
+         law, protection conferred upon those events by agreements concluded between the persons having the right to make the audiovisual
+         content of the events available to the public and the persons who wish to broadcast that content to the public of their choice.
+         
+      
+It should be added that the European Union legislature has envisaged exercise of that power by a Member State inasmuch as
+         it refers, in recital in the preamble to Directive 97/36, to events organised by an organiser who is legally entitled to
+         sell the rights pertaining to that event. 
+      
+Therefore, if the national legislation concerned is designed to confer protection on sporting events – a matter which it is
+         for the referring court to establish – European Union law does not preclude, in principle, that protection and such legislation
+         is thus capable of justifying a restriction on the free movement of services such as that at issue in the main proceedings.
+         
+      
+However, it is also necessary that such a restriction does not go beyond what is necessary in order to attain the objective
+         of protecting the intellectual property at issue (see, to this effect, UTECA, paragraphs and 36). 
+      
+In this regard, it should be pointed out that derogations from the principle of free movement can be allowed only to the extent
+         to which they are justified for the purpose of safeguarding the rights which constitute the specific subject-matter of the
+         intellectual property concerned (see, to this effect, Case C‑115/Rioglass and Transremar [2003] ECR I‑12705, paragraph and the case-law cited). 
+      
+It is clear from settled case-law that the specific subject-matter of the intellectual property is intended in particular
+         to ensure for the right holders concerned protection of the right to exploit commercially the marketing or the making available
+         of the protected subject-matter, by the grant of licences in return for payment of remuneration (see, to this effect, Musik-Vertrieb membran and K-tel International, paragraph 12, and Joined Cases C‑92/and C‑326/Phil Collins and Others [1993] ECR I‑5145, paragraph 20).
+      
+However, the specific subject-matter of the intellectual property does not guarantee the right holders concerned the opportunity
+         to demand the highest possible remuneration. Consistently with its specific subject-matter, they are ensured – as recital
+         in the preamble to the Copyright Directive and recital in the preamble to the Related Rights Directive envisage – only
+         appropriate remuneration for each use of the protected subject-matter.
+      
+In order to be appropriate, such remuneration must be reasonable in relation to the economic value of the service provided.
+         In particular, it must be reasonable in relation to the actual or potential number of persons who enjoy or wish to enjoy the
+         service (see, by analogy, Case C-61/FDV [1998] ECR I-5171, paragraph 15, and Case C-52/Kanal and TV [2008] ECR I-9275, paragraphs to 38). 
+      
+Thus, with regard to television broadcasting, such remuneration must in particular – as recital in the preamble to the
+         Satellite Broadcasting Directive confirms – be reasonable in relation to parameters of the broadcasts concerned, such as their
+         actual audience, their potential audience and the language version (see, to this effect, Case C-192/Lagardère Active Broadcast [2005] ECR I‑7199, paragraph 51).
+      
+In this context, it is to be noted, first of all, that the right holders at issue in the main proceedings are remunerated
+         for the broadcasting of the protected subject-matter from the Member State of broadcast in which the act of broadcasting is
+         deemed to take place, in accordance with Article 1(2)(b) of the Satellite Broadcasting Directive, and in which the appropriate
+         remuneration is therefore payable.
+      
+Next, when such remuneration is agreed between the right holders concerned and the broadcasters in an auction, there is nothing
+         to prevent the right holder from asking, at that time, for an amount which takes account of the actual audience and the potential
+         audience both in the Member State of broadcast and in any other Member State in which the broadcasts including the protected
+         subject-matter are also received. 
+      
+In this regard, it should be borne in mind in particular that reception of a satellite broadcast, such as that at issue in
+         the main proceedings, requires possession of a decoding device. Consequently, it is possible to determine with a very high
+         degree of precision the total number of viewers who form part of the actual and potential audience of the broadcast concerned,
+         hence of the viewers residing within and outside the Member State of broadcast.
+      
+Finally, as regards the premium paid by broadcasters in order to be granted territorial exclusivity, it admittedly cannot
+         be ruled out that the amount of the appropriate remuneration also reflects the particular character of the broadcasts concerned,
+         that is to say, their territorial exclusivity, so that a premium may be paid on that basis. 
+      
+None the less, here such a premium is paid to the right holders concerned in order to guarantee absolute territorial exclusivity
+         which is such as to result in artificial price differences between the partitioned national markets. Such partitioning and
+         such an artificial price difference to which it gives rise are irreconcilable with the fundamental aim of the Treaty, which
+         is completion of the internal market. In those circumstances, that premium cannot be regarded as forming part of the appropriate
+         remuneration which the right holders concerned must be ensured. 
+      
+Consequently, the payment of such a premium goes beyond what is necessary to ensure appropriate remuneration for those right
+         holders.
+      
+Having regard to the foregoing, it is to be concluded that the restriction which consists in the prohibition on using foreign
+         decoding devices cannot be justified in light of the objective of protecting intellectual property rights.
+      
+Doubt is not cast on this conclusion by the judgment in Coditel I, which has been relied upon by FAPL and others and by MPS in support of their arguments. It is true that, in paragraph of that judgment, the Court held that the rules of the Treaty cannot in principle constitute an obstacle to the geographical
+         limits which the parties to a contract of assignment of intellectual property rights have agreed upon in order to protect
+         the author and his assigns and that the mere fact that the geographical limits in question coincide, in some circumstances,
+         with the frontiers of the Member States does not require a different view.
+      
+However, those statements were made in a context which is not comparable to that of the main proceedings. In the case which
+         led to the judgment in Coditel I, the cable television broadcasting companies communicated a work to the public without having, in the Member State of the
+         place of origin of that communication, an authorisation from the right holders concerned and without having paid remuneration
+         to them. 
+      
+By contrast, in the main proceedings the broadcasters carry out acts of communication to the public while having in the Member
+         State of broadcast, which is the Member State of the place of origin of that communication, an authorisation from the right
+         holders concerned and by paying them remuneration – which can, moreover, take account of the actual and potential audience
+         in the other Member States. 
+      
+Finally, account should be taken of the development of European Union law that has resulted, in particular, from the adoption
+         of the Television without Frontiers Directive and the Satellite Broadcasting Directive which are intended to ensure the transition
+         from national markets to a single programme production and distribution market. 
+      
+iv)        Justification of a restriction on the freedom to provide services by the objective of encouraging the public to attend football
+         stadiums
+      
+FAPL and others and MPS submit, in the alternative, that the restriction at issue in the main proceedings is necessary in
+         order to ensure compliance with the ‘closed period’ rule which prohibits the broadcasting in the United Kingdom of football
+         matches on Saturday afternoons. This rule is stated to have the objective of encouraging the public to attend stadiums to
+         watch football matches, particularly those in the lower divisions; according to FAPL and others and MPS, the objective could
+         not be achieved if television viewers in the United Kingdom were able freely to watch the Premier League matches which broadcasters
+         transmit from other Member States. 
+      
+In that regard, even if the objective of encouraging such attendance of stadiums by the public were capable of justifying
+         a restriction on the fundamental freedoms, suffice it to state that compliance with the aforementioned rule can be ensured,
+         in any event, by incorporating a contractual limitation in the licence agreements between the right holders and the broadcasters,
+         under which the latter would be required not to broadcast those Premier League matches during closed periods. It is indisputable
+         that such a measure proves to have a lesser adverse effect on the fundamental freedoms than application of the restriction
+         at issue in the main proceedings. 
+      
+It follows that the restriction which consists in the prohibition on using foreign decoding devices cannot be justified by
+         the objective of encouraging the public to attend football stadiums.
+      
+In light of all the foregoing, the answer to the questions referred is that, on a proper construction of Article TFEU,
+         that article precludes legislation of a Member State which makes it unlawful to import into and sell and use in that State
+         foreign decoding devices which give access to an encrypted satellite broadcasting service from another Member State that includes
+         subject-matter protected by the legislation of that first State. 
+      
+b)           Use of foreign decoding devices following the giving of a false identity and a false address and use of such devices for commercial
+         purposes (Question 8(c) in Case C‑403/and Question 6(ii) and (iii) in Case C-429/08)
+      
+By their questions, the referring courts ask, in essence, whether the conclusion set out in paragraph of the present judgment
+         is affected by the fact, first, that the foreign decoding device has been procured or enabled by the giving of a false identity
+         and a false address, with the intention of circumventing the territorial restriction at issue in the main proceedings, and
+         second, that it is used for commercial purposes although it was restricted to private use.
+      
+So far as concerns the first circumstance, it is admittedly liable to produce effects in the contractual relations between
+         the purchaser who has given the false identity and the false address and the person supplying the foreign decoding device,
+         who may in particular claim damages from the purchaser should the false identity and the false address given by the latter
+         cause him loss or render him liable to a body such as FAPL. On the other hand, such a circumstance does not affect the conclusion
+         set out in paragraph of the present judgment, because it has no impact on the number of users who have paid for reception
+         of the broadcasts.
+      
+The same is true of the second circumstance, where the decoding device is used for commercial purposes although it was restricted
+         to private use. 
+      
+In this regard, it should be stated that there is nothing to prevent the amount of the remuneration agreed between the right
+         holders concerned and the broadcasters from being calculated on the basis of the fact that some customers use the decoding
+         devices commercially whereas others use them privately.
+      
+Passing this on to its customers, the broadcaster may thus demand a different fee for access to its services according to
+         whether the access is for commercial or for private purposes. 
+      
+However, the risk that certain persons will use foreign decoding devices in disregard of the purpose to which they are restricted
+         is comparable to the risk which arises when decoding devices are used in purely internal situations, that is to say, when
+         they are used by customers resident in the Member State of broadcast. Accordingly, the second circumstance cannot justify
+         a territorial restriction on the freedom to provide services and therefore it does not affect the conclusion set out in paragraph
+         of the present judgment. This is, however, without prejudice to the legal assessment – from the point of view of copyright
+         – of the use of the satellite broadcasts for commercial purposes following their reception, an assessment which is carried
+         out in the second part of the present judgment.
+      
+Having regard to the foregoing, the answer to the questions referred is that the conclusion set out in paragraph of the
+         present judgment is affected neither by the fact that the foreign decoding device has been procured or enabled by the giving
+         of a false identity and a false address, with the intention of circumventing the territorial restriction in question, nor
+         by the fact that it is used for commercial purposes although it was restricted to private use.
+      
+c)           The other questions relating to free movement (the second part of Question in Case C‑403/and Question in Case C‑429/08)
+In light of the answer to Question 8(b) and the first part of Question in Case C‑403/and Question 6(i) in Case C-429/08,
+         there is no need to examine the second part of Question in Case C-403/or Question in Case C-429/08. 
+      
+4.           Rules of the FEU Treaty concerning competition 
+By Question in Case C-403/and Question in Case C-429/08, the referring courts ask, in essence, whether the clauses
+         of an exclusive licence agreement concluded between a holder of intellectual property rights and a broadcaster constitute
+         a restriction on competition prohibited by Article TFEU where they oblige the broadcaster not to supply decoding devices
+         giving access to that right holder’s protected subject-matter outside the territory covered by the licence agreement concerned.
+         
+      
+First of all, it should be recalled that an agreement falls within the prohibition laid down in Article 101(1) TFEU when it
+         has as its object or effect the prevention, restriction or distortion of competition. The fact that the two criteria are alternatives
+         means that it is appropriate, first and foremost, to determine whether just one of them is satisfied, here the criterion concerning
+         the object of the agreement. It is only secondarily, when the analysis of the content of the agreement does not reveal a sufficient
+         degree of impairment of competition, that the consequences of the agreement should be considered, and for it to be open to
+         prohibition it is necessary to find that those factors are present which show that competition has in fact been prevented,
+         restricted or distorted to an appreciable extent (see, to this effect, Case C‑8/T‑Mobile Netherlands and Others [2009] ECR I‑4529, paragraph 28, and Joined Cases C‑501/P, C‑513/P, C‑515/P and C‑519/P GlaxoSmithKline Services and Others v Commission and Others [2009] ECR I‑9291, paragraph 55). 
+      
+In order to assess whether the object of an agreement is anti-competitive, regard must be had inter alia to the content of
+         its provisions, the objectives it seeks to attain and the economic and legal context of which it forms a part (see, to this
+         effect, GlaxoSmithKline Services and Others v Commission and Others, paragraph and the case-law cited). 
+      
+As regards licence agreements in respect of intellectual property rights, it is apparent from the Court’s case-law that the
+         mere fact that the right holder has granted to a sole licensee the exclusive right to broadcast protected subject-matter from
+         a Member State, and consequently to prohibit its transmission by others, during a specified period is not sufficient to justify
+         the finding that such an agreement has an anti-competitive object (see, to this effect, Case 262/Coditel and Others (‘Coditel II’) [1982] ECR 3381, paragraph 15).
+      
+That being so, and in accordance with Article 1(2)(b) of the Satellite Broadcasting Directive, a right holder may in principle
+         grant to a sole licensee the exclusive right to broadcast protected subject-matter by satellite, during a specified period,
+         from a single Member State of broadcast or from a number of Member States. 
+      
+None the less, regarding the territorial limitations upon exercise of such a right, it is to be pointed out that, in accordance
+         with the Court’s case-law, an agreement which might tend to restore the divisions between national markets is liable to frustrate
+         the Treaty’s objective of achieving the integration of those markets through the establishment of a single market. Thus, agreements
+         which are aimed at partitioning national markets according to national borders or make the interpenetration of national markets
+         more difficult must be regarded, in principle, as agreements whose object is to restrict competition within the meaning of
+         Article 101(1) TFEU (see, by analogy, in the field of medicinal products, Joined Cases C-468/to C-478/Sot. Lélos kai Sia and Others [2008] ECR I-7139, paragraph 65, and GlaxoSmithKline Services and Others v Commission and Others, paragraphs and 61). 
+      
+Since that case-law is fully applicable to the field of the cross-border provision of broadcasting services, as follows inter
+         alia from paragraphs to of the present judgment, it must be held that, where a licence agreement is designed to prohibit
+         or limit the cross-border provision of broadcasting services, it is deemed to have as its object the restriction of competition,
+         unless other circumstances falling within its economic and legal context justify the finding that such an agreement is not
+         liable to impair competition.
+      
+In the main proceedings, the actual grant of exclusive licences for the broadcasting of Premier League matches is not called
+         into question. Those proceedings concern only the additional obligations designed to ensure compliance with the territorial
+         limitations upon exploitation of those licences that are contained in the clauses of the contracts concluded between the right
+         holders and the broadcasters concerned, namely the obligation on the broadcasters not to supply decoding devices enabling
+         access to the protected subject-matter with a view to their use outside the territory covered by the licence agreement.
+      
+Such clauses prohibit the broadcasters from effecting any cross-border provision of services that relates to those matches,
+         which enables each broadcaster to be granted absolute territorial exclusivity in the area covered by its licence and, thus,
+         all competition between broadcasters in the field of those services to be eliminated. 
+      
+Also, FAPL and others and MPS have not put forward any circumstance falling within the economic and legal context of such
+         clauses that would justify the finding that, despite the considerations set out in the preceding paragraph, those clauses
+         are not liable to impair competition and therefore do not have an anticompetitive object. 
+      
+Accordingly, given that those clauses of exclusive licence agreements have an anticompetitive object, it is to be concluded
+         that they constitute a prohibited restriction on competition for the purposes of Article 101(1) TFEU.
+      
+It should be added that while, in principle, Article 101(1) TFEU does not apply to agreements which fall within the categories
+         specified in Article 101(3) TFEU, clauses of licence agreements such as the clauses at issue in the main proceedings do not
+         meet the requirements laid down by the latter provision for reasons stated in paragraphs to of the present judgment
+         and therefore the possibility of Article 101(1) TFEU being inapplicable does not arise.
+      
+In light of the foregoing, the answer to the questions referred is that the clauses of an exclusive licence agreement concluded
+         between a holder of intellectual property rights and a broadcaster constitute a restriction on competition prohibited by Article
+         TFEU where they oblige the broadcaster not to supply decoding devices enabling access to that right holder’s protected
+         subject-matter with a view to their use outside the territory covered by that licence agreement.
+      
+B –  Rules relating to the use of the broadcasts once they are received
+1.           Introductory remarks
+The second part of the questions referred for a preliminary ruling is designed to ascertain whether the reception of the broadcasts
+         containing Premier League matches and the associated works is subject to restriction pursuant to the Copyright Directive and
+         the Related Rights Directive by reason of the fact that it results in reproductions of those works within the memory of a
+         satellite decoder and on a television screen and by reason of the showing of those works in public by the proprietors of the
+         public houses in question. 
+      
+It is to be noted that, as is apparent from paragraphs and of the present judgment, two categories of persons can assert
+         intellectual property rights relating to television broadcasts such as the broadcasts at issue in the main proceedings, namely,
+         first, the authors of the works concerned and, secondly, the broadcasters.
+      
+First, authors can rely on the copyright which attaches to the works exploited within the framework of those broadcasts. In
+         the main proceedings, it is common ground that FAPL can assert copyright in various works contained in the broadcasts, that
+         is to say, in particular, the opening video sequence, the Premier League anthem, pre-recorded films showing highlights of
+         recent Premier League matches, or various graphics.
+      
+Secondly, broadcasters such as Multichoice Hellas can invoke the right of fixation of their broadcasts which is provided for
+         in Article 7(2) of the Related Rights Directive, the right of communication of their broadcasts to the public which is laid
+         down in Article 8(3) of that directive, or the right to reproduce fixations of their broadcasts which is confirmed by Article
+         2(e) of the Copyright Directive. 
+      
+None the less, the questions referred in the main proceedings do not relate to such rights. 
+      
+Accordingly, the Court’s examination should be limited to Articles 2(a), 3(1) and 5(1) of the Copyright Directive which protect
+         copyright in the works exploited within the framework of the television broadcasts at issue in the main proceedings, that
+         is to say, in particular, the opening video sequence, the Premier League anthem, pre-recorded films showing highlights of
+         recent Premier League matches, or various graphics. 
+      
+2.           The reproduction right provided for in Article 2(a) of the Copyright Directive (Question in Case C‑403/08) 
+By this question, the referring court asks, in essence, whether Article 2(a) of the Copyright Directive must be interpreted
+         as meaning that the reproduction right extends to the creation of transient sequential fragments of the works within the memory
+         of a satellite decoder and on a television screen which are immediately effaced and replaced by the next fragments. In this
+         context, the referring court is uncertain, in particular, whether it must conduct its appraisal by reference to all the fragments
+         as a whole or only by reference to those which exist at a given moment. 
+      
+First of all, the term ‘reproduction’ in Article of the Copyright Directive is a concept of European Union law which must
+         be given an autonomous and uniform interpretation throughout the European Union (Infopaq International, paragraphs to 29). 
+      
+As regards its meaning, it has already been observed, in paragraph of the present judgment, that copyright for the purposes
+         of Article 2(a) of the Copyright Directive can apply only in relation to subject-matter which is its author’s own intellectual
+         creation (Infopaq International, paragraph 37). 
+      
+The Court has thus stated that the various parts of a work enjoy protection under that provision, provided that they contain
+         elements which are the expression of the intellectual creation of the author of the work (Infopaq International, paragraph 39). 
+      
+This means that the unit composed of the fragments reproduced simultaneously – and therefore existing at a given moment –
+         should be examined in order to determine whether it contains such elements. If it does, it must be classified as partial reproduction
+         for the purposes of Article 2(a) of the Copyright Directive (see, to this effect, Infopaq International, paragraphs and 46). In this regard, it is not relevant whether a work is reproduced by means of linear fragments which
+         may have an ephemeral existence because they are immediately effaced in the course of a technical process.
+      
+It is in the light of the foregoing that the referring court must determine whether the creation of transient fragments of
+         the works within the memory of a satellite decoder and on a television screen results in reproductions for the purposes of
+         Article 2(a) of the Copyright Directive. 
+      
+Consequently, the answer to the question referred is that Article 2(a) of the Copyright Directive must be interpreted as meaning
+         that the reproduction right extends to transient fragments of the works within the memory of a satellite decoder and on a
+         television screen, provided that those fragments contain elements which are the expression of the authors’ own intellectual
+         creation, and the unit composed of the fragments reproduced simultaneously must be examined in order to determine whether
+         it contains such elements.
+      
+3.           The exception in Article 5(1) of the Copyright Directive to the reproduction right (Question in Case C-403/08)
+By its question, the referring court asks, in essence, whether acts of reproduction such as those at issue in Case C-403/08,
+         performed within the memory of a satellite decoder and on a television screen, fulfil the conditions laid down in Article
+         5(1) of the Copyright Directive and, therefore, whether those acts may be carried out without the copyright holders’ authorisation.
+         
+      
+a)           Introductory remarks 
+Under Article 5(1) of the Copyright Directive, an act of reproduction is to be exempted from the reproduction right provided
+         for in Article thereof if it fulfils five conditions, that is to say, where:
+      
+–        it is temporary;
+–        it is transient or incidental; 
+–        it is an integral and essential part of a technological process;
+–        its sole purpose is to enable a transmission in a network between third parties by an intermediary, or a lawful use, of a
+         work or other subject-matter; and 
+      
+–        it has no independent economic significance. 
+It is clear from the case-law that the conditions set out above must be interpreted strictly, because Article 5(1) of the
+         Copyright Directive is a derogation from the general rule established by that directive that the copyright holder must authorise
+         any reproduction of his protected work (Infopaq International, paragraphs and 57). 
+      
+None the less, the interpretation of those conditions must enable the effectiveness of the exception thereby established to
+         be safeguarded and permit observance of the exception’s purpose as resulting in particular from recital in the preamble
+         to the Copyright Directive and from Common Position (EC) No 48/adopted by the Council on September with a view
+         to adopting that directive (OJ C 344, p. 1). 
+      
+In accordance with its objective, that exception must allow and ensure the development and operation of new technologies and
+         safeguard a fair balance between the rights and interests of right holders, on the one hand, and of users of protected works
+         who wish to avail themselves of those new technologies, on the other. 
+      
+b)           Compliance with the conditions laid down in Article 5(1) of the Copyright Directive
+It is undisputed that the acts of reproduction concerned satisfy the first three conditions laid down in Article 5(1) of the
+         Copyright Directive, because they are temporary, transient and form an integral part of a technological process carried out
+         by means of a satellite decoder and a television set in order to enable the broadcasts transmitted to be received.
+      
+It therefore remains solely to determine whether the fourth and fifth conditions are complied with.
+      
+As regards, first of all, the fourth condition, it is to be stated at the outset that the acts of reproduction concerned are
+         not intended to enable transmission in a network between third parties by an intermediary. Thus, it must be examined alternatively
+         whether their sole purpose is to enable a lawful use to be made of a work or other subject-matter. 
+      
+As is apparent from recital in the preamble to the Copyright Directive, a use should be considered lawful where it is authorised
+         by the right holder or where it is not restricted by the applicable legislation. 
+      
+Since in the main proceedings the use of the works at issue is not authorised by the copyright holders, it must be determined
+         whether the acts in question are intended to enable a use of works which is not restricted by the applicable legislation.
+         
+      
+In this regard, it is undisputed that those ephemeral acts of reproduction enable the satellite decoder and the television
+         screen to function correctly. From the television viewers’ standpoint, they enable the broadcasts containing protected works
+         to be received. 
+      
+Mere reception as such of those broadcasts – that is to say, the picking up of the broadcasts and their visual display – in
+         private circles does not reveal an act restricted by European Union legislation or by that of the United Kingdom, as indeed
+         follows from the wording of Question in Case C-403/08, and that act is therefore lawful. Furthermore, it follows from paragraphs
+         to of the present judgment that such reception of the broadcasts must be considered lawful in the case of broadcasts
+         from a Member State other than the United Kingdom when it is brought about by means of a foreign decoding device. 
+      
+Accordingly, the acts of reproduction have the sole purpose of enabling a ‘lawful use’ of the works within the meaning of
+         Article 5(1)(b) of the Copyright Directive. 
+      
+Acts of reproduction such as those at issue in the main proceedings thus satisfy the fourth condition laid down by that provision.
+         
+      
+So far as concerns, finally, the fifth condition laid down by that provision, these acts of reproduction carried out in the
+         course of a technological process make access to the protected works possible. Since the latter have an economic value, access
+         to them necessarily has economic significance. 
+      
+However, if the exception laid down in Article 5(1) of the Copyright Directive is not to be rendered redundant, that significance
+         must also be independent in the sense that it goes beyond the economic advantage derived from mere reception of a broadcast
+         containing protected works, that is to say, beyond the advantage derived from the mere picking up of the broadcast and its
+         visual display.
+      
+In the main proceedings, the temporary acts of reproduction, carried out within the memory of the satellite decoder and on
+         the television screen, form an inseparable and non-autonomous part of the process of reception of the broadcasts transmitted
+         containing the works in question. Furthermore, they are performed without influence, or even awareness, on the part of the
+         persons thereby having access to the protected works.
+      
+Consequently, those temporary acts of reproduction are not capable of generating an additional economic advantage going beyond
+         the advantage derived from mere reception of the broadcasts at issue. 
+      
+It follows that the acts of reproduction at issue in the main proceedings cannot be regarded as having independent economic
+         significance. Consequently, they fulfil the fifth condition laid down in Article 5(1) of the Copyright Directive. 
+      
+This finding, and the finding set out in paragraph of the present judgment, are moreover borne out by the objective of
+         that provision, which is intended to ensure the development and operation of new technologies. If the acts at issue were not
+         considered to comply with the conditions set by Article 5(1) of the Copyright Directive, all television viewers using modern
+         sets which, in order to work, need those acts of reproduction to be carried out would be prevented from receiving broadcasts
+         containing broadcast works, in the absence of an authorisation from copyright holders. That would impede, and even paralyse,
+         the actual spread and contribution of new technologies, in disregard of the will of the European Union legislature as expressed
+         in recital in the preamble to the Copyright Directive. 
+      
+In light of the foregoing, it must be concluded that acts of reproduction such as those at issue in the main proceedings fulfil
+         all five conditions laid down in Article 5(1) of the Copyright Directive. 
+      
+Nevertheless, in order for the exception laid down by that provision to be capable of being relied upon, those acts must also
+         fulfil the conditions of Article 5(5) of the Copyright Directive. In this regard, suffice it to state that, in view of the
+         considerations set out in paragraphs to of the present judgment, the acts also satisfy those conditions. 
+      
+Consequently, the answer to the question referred is that acts of reproduction such as those at issue in Case C-403/08, which
+         are performed within the memory of a satellite decoder and on a television screen, fulfil the conditions laid down in Article
+         5(1) of the Copyright Directive and may therefore be carried out without the authorisation of the copyright holders concerned.
+      
+4.           ‘Communication to the public’ within the meaning of Article 3(1) of the Copyright Directive (Question in Case C-403/08)
+By its question, the referring court asks, in essence, whether ‘communication to the public’ within the meaning of Article
+         3(1) of the Copyright Directive must be interpreted as covering transmission of the broadcast works, via a television screen
+         and speakers, to the customers present in a public house. 
+      
+It should be noted at the outset that Article 3(1) of the Copyright Directive does not define the concept of ‘communication
+         to the public’ (Case C‑306/SGAE [2006] ECR I‑11519, paragraph 33). 
+      
+In those circumstances, and in accordance with settled-case law, its meaning and its scope must be determined in light of
+         the objectives pursued by the Copyright Directive and of the context in which the provision being interpreted is set (SGAE, paragraph and the case-law cited). 
+      
+In this regard, it is to be noted first of all that the principal objective of the Copyright Directive is to establish a high
+         level of protection of authors, allowing them to obtain an appropriate reward for the use of their works, including on the
+         occasion of communication to the public. It follows that ‘communication to the public’ must be interpreted broadly, as recital
+         in the preamble to the directive indeed expressly states (see SGAE, paragraph 36).
+      
+Second, in accordance with recital in its preamble, the Copyright Directive is based on principles and rules already laid
+         down in the directives in force in the area of intellectual property, such as Directive 92/which has been codified by
+         the Related Rights Directive (see Infopaq International, paragraph 36). 
+      
+In those circumstances, and given the requirements of unity of the European Union legal order and its coherence, the concepts
+         used by that body of directives must have the same meaning, unless the European Union legislature has, in a specific legislative
+         context, expressed a different intention.
+      
+Finally, Article 3(1) of the Copyright Directive must, so far as possible, be interpreted in a manner that is consistent with
+         international law, in particular taking account of the Berne Convention and the Copyright Treaty. The Copyright Directive
+         is intended to implement that treaty which, in Article 1(4), obliges the Contracting Parties to comply with Articles to
+         of the Berne Convention. The same obligation is, moreover, laid down in Article 9(1) of the Agreement on Trade-Related
+         Aspects of Intellectual Property Rights (see, to this effect, SGAE, paragraphs 35, and and the case-law cited). 
+      
+It is in the light of those three factors that ‘communication to the public’ within the meaning of Article 3(1) of the Copyright
+         Directive should be interpreted and that it should be assessed whether that concept covers transmission of the broadcast works,
+         via a television screen and speakers, to the customers present in a public house.
+      
+As regards, first, the concept of communication, it is apparent from Article 8(3) of the Related Rights Directive and Articles
+         2(g) and of the Performance and Phonograms Treaty that such a concept includes ‘making the sounds or representations of
+         sounds fixed in a phonogram audible to the public’ and that it encompasses broadcasting or ‘any communication to the public’.
+      
+More specifically, as Article 11bis(1)(iii) of the Berne Convention expressly indicates, that concept encompasses communication by loudspeaker or any other instrument
+         transmitting, by signs, sounds or images, covering – in accordance with the explanatory memorandum accompanying the proposal
+         for a copyright directive (COM(97) final) – a means of communication such as display of the works on a screen. 
+      
+That being so, and since the European Union legislature has not expressed a different intention as regards the interpretation
+         of that concept in the Copyright Directive, in particular in Article thereof (see paragraph of the present judgment),
+         the concept of communication must be construed broadly, as referring to any transmission of the protected works, irrespective
+         of the technical means or process used. 
+      
+The Court, proceeding on the basis of such an interpretation, has already held that a hotel proprietor carries out an act
+         of communication when he gives his customers access to the broadcast works via television sets, by distributing in the hotel
+         rooms, with full knowledge of the position, the signal received carrying the protected works. The Court has pointed out that
+         such intervention is not just a technical means to ensure or improve reception of the original broadcast in the catchment
+         area, but an act without which those customers are unable to enjoy the broadcast works, although physically within that area
+         (see, to this effect, SGAE, paragraph 42). 
+      
+In Case C-403/08, the proprietor of a public house intentionally gives the customers present in that establishment access
+         to a broadcast containing protected works via a television screen and speakers. Without his intervention the customers cannot
+         enjoy the works broadcast, even though they are physically within the broadcast’s catchment area. Thus, the circumstances
+         of such an act prove comparable to those in SGAE. 
+      
+Accordingly, it must be held that the proprietor of a public house effects a communication when he intentionally transmits
+         broadcast works, via a television screen and speakers, to the customers present in that establishment.
+      
+That said, in order for there to be a ‘communication to the public’ within the meaning of Article 3(1) of the Copyright Directive
+         in circumstances such as those of the main proceedings, it is also necessary for the work broadcast to be transmitted to a
+         new public, that is to say, to a public which was not taken into account by the authors of the protected works when they authorised
+         their use by the communication to the original public (see, to this effect, SGAE, paragraphs and 42, and the order of March in Case C-136/Organismos Sillogikis Diacheirisis Dimiourgon Theatrikon kai Optikoakoustikon Ergon, paragraph 38). 
+      
+When those authors authorise a broadcast of their works, they consider, in principle, only the owners of television sets who,
+         either personally or within their own private or family circles, receive the signal and follow the broadcasts. Where a broadcast
+         work is transmitted, in a place accessible to the public, for an additional public which is permitted by the owner of the
+         television set to hear or see the work, an intentional intervention of that kind must be regarded as an act by which the work
+         in question is communicated to a new public (see, to this effect, SGAE, paragraph 41, and Organismos Sillogikis Diacheirisis Dimiourgon Theatrikon kai Optikoakoustikon Ergon, paragraph 37). 
+      
+That is so when the works broadcast are transmitted by the proprietor of a public house to the customers present in that establishment,
+         because those customers constitute an additional public which was not considered by the authors when they authorised the broadcasting
+         of their works.
+      
+In addition, in order for there to be communication to the public, the work broadcast must be transmitted to a ‘public not
+         present at the place where the communication originates’, within the meaning of recital in the preamble to the Copyright
+         Directive. 
+      
+In this regard, it is apparent from Common Position No 48/that this recital follows from the proposal of the European
+         Parliament, which wished to specify, in the recital, that communication to the public within the meaning of that directive
+         does not cover ‘direct representation or performance’, a concept referring to that of ‘public performance’ which appears in
+         Article 11(1) of the Berne Convention and encompasses interpretation of the works before the public that is in direct physical
+         contact with the actor or performer of those works (see the Guide to the Berne Convention, an interpretative document drawn
+         up by WIPO which, without being binding, nevertheless assists in interpreting that convention, as the Court observed in SGAE, paragraph 41). 
+      
+Thus, in order to exclude such direct public representation and performance from the scope of the concept of communication
+         to the public in the context of the Copyright Directive, recital in its preamble explained that communication to the public
+         covers all communication to the public not present at the place where the communication originates. 
+      
+Such an element of direct physical contact is specifically absent in the case of transmission, in a place such as a public
+         house, of a broadcast work via a television screen and speakers to the public which is present at the place of that transmission,
+         but which is not present at the place where the communication originates within the meaning of recital in the preamble
+         to the Copyright Directive, that is to say, at the place of the representation or performance which is broadcast (see, to
+         this effect, SGAE, paragraph 40).
+      
+Finally, it is to be observed that it is not irrelevant that a ‘communication’ within the meaning of Article 3(1) of the Copyright
+         Directive is of a profit-making nature (see, to this effect, SGAE, paragraph 44). 
+      
+In a situation such as that in the main proceedings, it is indisputable that the proprietor transmits the broadcast works
+         in his public house in order to benefit therefrom and that that transmission is liable to attract customers to whom the works
+         transmitted are of interest. Consequently, the transmission in question has an effect upon the number of people going to that
+         establishment and, ultimately, on its financial results. 
+      
+It follows that the communication to the public in question is of a profit-making nature. 
+      
+In light of all the foregoing, the answer to the question referred is that ‘communication to the public’ within the meaning
+         of Article 3(1) of the Copyright Directive must be interpreted as covering transmission of the broadcast works, via a television
+         screen and speakers, to the customers present in a public house. 
+      
+5.           Effect of the Satellite Broadcasting Directive (Question in Case C‑403/08) 
+By its question, the referring court asks, in essence, whether the Satellite Broadcasting Directive has a bearing on the lawfulness
+         of the acts of reproduction performed within the memory of a satellite decoder and on a television screen.
+      
+The Satellite Broadcasting Directive provides only for minimum harmonisation of certain aspects of protection of copyright
+         and related rights in the case of communication to the public by satellite or cable retransmission of broadcasts from other
+         Member States. Unlike the Copyright Directive, this minimum harmonisation does not provide criteria to determine the lawfulness
+         of the acts of reproduction performed within the memory of a satellite decoder and on a television screen (see, by analogy,
+         Case C-293/Egeda [2000] ECR I-629, paragraphs and 26, and SGAE, paragraph 30). 
+      
+Consequently, the answer to the question referred is that the Satellite Broadcasting Directive must be interpreted as not
+         having a bearing on the lawfulness of the acts of reproduction performed within the memory of a satellite decoder and on a
+         television screen.
+      
+IV –  Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+1.      ‘Illicit device’ within the meaning of Article 2(e) of Directive 98/84/EC of the European Parliament and of the Council of
+            November on the legal protection of services based on, or consisting of, conditional access must be interpreted as
+            not covering foreign decoding devices  (devices which give access to the satellite broadcasting services of a broadcaster,
+            are manufactured and marketed with that broadcaster’s authorisation, but are used, in disregard of its will, outside the geographical
+            area for which they have been issued), foreign decoding devices procured or enabled by the provision of a false name and address
+            or foreign decoding devices which have been used in breach of a contractual limitation permitting their use only for private
+            purposes. 
+2.      Article 3(2) of Directive 98/does not preclude national legislation which prevents the use of foreign decoding devices,
+            including those procured or enabled by the provision of a false name and address or those used in breach of a contractual
+            limitation permitting their use only for private purposes, since such legislation does not fall within the field coordinated
+            by that directive. 
+3.      On a proper construction of Article TFEU:
+–        that article precludes legislation of a Member State which makes it unlawful to import into and sell and use in that State
+            foreign decoding devices which give access to an encrypted satellite broadcasting service from another Member State that includes
+            subject-matter protected by the legislation of that first State; 
+–        this conclusion is affected neither by the fact that the foreign decoding device has been procured or enabled by the giving
+            of a false identity and a false address, with the intention of circumventing the territorial restriction in question, nor
+            by the fact that it is used for commercial purposes although it was restricted to private use.
+4.      The clauses of an exclusive licence agreement concluded between a holder of intellectual property rights and a broadcaster
+            constitute a restriction on competition prohibited by Article TFEU where they oblige the broadcaster not to supply decoding
+            devices enabling access to that right holder’s protected subject-matter with a view to their use outside the territory covered
+            by that licence agreement.
+5.      Article 2(a) of  Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects
+            of copyright and related rights in the information society must be interpreted as meaning that the reproduction right extends
+            to transient fragments of the works within the memory of a satellite decoder and on a television screen, provided that those
+            fragments contain elements which are the expression of the authors’ own intellectual creation, and the unit composed of the
+            fragments reproduced simultaneously must be examined in order to determine whether it contains such elements.
+6.      Acts of reproduction such as those at issue in Case C-403/08, which are performed within the memory of a satellite decoder
+            and on a television screen, fulfil the conditions laid down in Article 5(1) of Directive 2001/and may therefore be carried
+            out without the authorisation of the copyright holders concerned.
+7.      ‘Communication to the public’ within the meaning of Article 3(1) of Directive 2001/must be interpreted as covering transmission
+            of the broadcast works, via a television screen and speakers, to the customers present in a public house.
+8.      Council Directive 93/83/EEC of September on the coordination of certain rules concerning copyright and rights related
+            to copyright applicable to satellite broadcasting and cable retransmission must be interpreted as not having a bearing on
+            the lawfulness of the acts of reproduction performed within the memory of a satellite decoder and on a television screen.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

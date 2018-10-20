@@ -1,0 +1,311 @@
+
+Case C-276/Everything Everywhere Ltd, formerly T-Mobile (UK) Ltd 
+v
+Commissioners for Her Majesty’s Revenue and Customs
+(Reference for a preliminary ruling from the 
+High Court of Justice of England and Wales, Chancery Division)
+(Sixth VAT Directive – Exemption – Article 13B(d)(1) and (3) – Negotiation of credit – Transactions concerning payments and transfers – Existence of two separate supplies of services or of a single supply – Additional charges invoiced where certain methods of payment are used for mobile telephone services)
+Summary of the Judgment
+Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Supply of services – Transactions
+            comprising several elements
+(Council Directive 77/388, Art. 2(1), and 13B(d)(1) and 3)
+For the purposes of collecting value added tax, the additional charges invoiced by a provider of telecommunications services
+         to its customers, where the latter pay for those services not by Direct Debit or by Bankers’ Automated Clearing System (BACS)
+         transfer but by credit card, debit card, cheque or cash over the counter at a bank or authorised payment agent acting on behalf
+         of that service provider, do not constitute consideration for a supply of services distinct and independent from the principal
+         supply of services consisting in the supply of telecommunications services.
+      
+Such an activity, which customers are unable to access separately from the use of telecommunications services, can offer such
+         customers nothing that is independent of the telecommunications service concerned.
+      
+A service must be regarded as ancillary to a principal service if it does not constitute for customers an aim in itself, but
+         a means of better enjoying the principal service supplied.
+      
+(see paras 25, 27, 32, operative part)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+December (*)
+      
+(Sixth VAT Directive – Exemption – Article 13B(d)(1) and (3) – Negotiation of credit – Transactions concerning payments and transfers – Existence of two separate supplies of services or of a single supply – Additional charges invoiced where certain methods of payment are used for mobile telephone services)
+In Case C‑276/09,
+REFERENCE for a preliminary ruling under Article EC from the High Court of Justice of England and Wales, Chancery Division
+         (United Kingdom), made by decision of April 2009, received at the Court on July 2009, in the proceedings
+      
+Everything Everywhere Ltd, formerly T-Mobile (UK) Ltd
+      
+v
+Commissioners for Her Majesty’s Revenue and Customs,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, R. Silva de Lapuerta, G. Arestis, J. Malenovský and T. von Danwitz (Rapporteur),
+         Judges,
+      
+Advocate General: P. Cruz Villalón,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on September 2010,
+after considering the observations submitted on behalf of:
+–        Everything Everywhere Ltd, formerly T-Mobile (UK) Ltd, by J. Peacock, QC, and M. Angiolini, Barrister,
+–        the United Kingdom Government, by H. Walker, acting as Agent, and by R. Hill, Barrister,
+–        the Greek Government, by S. Spyropoulos, M. Germani and V. Karra, acting as Agents,
+–        Ireland, by D. O’Hagan, acting as Agent, and B. Doherty, Barrister-at-Law,
+–        the European Commission, by R. Lyal and M. Afonso, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 13B(d)(1) and (3) of Sixth Council Directive
+         77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system
+         of value added tax: uniform basis of assessment (OJ L 145, p. 1) (‘the Sixth Directive’), which provides for exemption
+         from value added tax (‘VAT’) inter alia for the negotiation of credit and for transactions concerning payments and transfers
+      
+The reference has been made in proceedings between Everything Everywhere Ltd, formerly T-Mobile (UK) Ltd, (‘Everything Everywhere’)
+         and the Commissioners for Her Majesty’s Revenue and Customs (‘the Commissioners’) concerning the treatment as regards VAT
+         of charges invoiced by Everything Everywhere to its customers when they choose certain methods by which to settle their monthly
+         bills.
+      
+ Legal context
+ European Union legislation 
+Article 2(1) of the Sixth Directive provides that ‘the supply of goods or services effected for consideration within the territory
+         of the country by a taxable person acting as such’ are to be subject to VAT.
+      
+Article 13B of the Sixth Directive, headed ‘Other exemptions’, provides:
+      
+‘Without prejudice to other Community provisions, Member States shall exempt the following under conditions which they shall
+         lay down for the purpose of ensuring the correct and straightforward application of the exemptions and of preventing any possible
+         evasion, avoidance or abuse:
+      
+…
+(d)      the following transactions:
+1.      the granting and the negotiation of credit and the management of credit by the person granting it;
+…
+3.      transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other
+         negotiable instruments, but excluding debt collection and factoring;
+      
+…’
+ National legislation
+The exemption provided for in Article 13B(d)(1) and (3) of the Sixth Directive was transposed in the United Kingdom by Items
+         and of Group of Schedule to the Value Added Tax Act 1994, which exempt from VAT
+      
+‘1.      [t]he issue, transfer or receipt of, or any dealing with, money, any security for money or any note or order for the payment
+         of money;
+      
+...
+5.      [t]he provision of intermediary services in relation to any transaction comprised in item 1, 2, 3, or (whether or not
+         any such transaction is finally concluded) by a person acting in an intermediary capacity’.
+      
+Notes (5) to (5B) of Group of Schedule to the Value Added Tax Act provide:
+      
+‘(5)      For the purposes of item “intermediary services” consist of bringing together, with a view to the provision of financial
+         services
+      
+(a)      persons who are or may be seeking to receive financial services, and
+(b)      persons who provide financial services
+together with (in the case of financial services falling within item 1, 2, or 4) the performance of work preparatory to
+         the conclusion of contracts for the provision of those financial services, but do not include the supply of any market research,
+         product design, advertising, promotional or similar services or the collection, collation and provision of information in
+         connection with such activities.
+      
+(5A)      For the purposes of item a person is “acting in an intermediary capacity” wherever he is acting as an intermediary, or one
+         of the intermediaries, between
+      
+(a)      a person who provides financial services, and
+(b)      a person who is or may be seeking to receive financial services,
+...
+(5B)      For the purposes of notes and 5A “financial services” means the carrying out of any transaction falling within item 1, 2,
+         3, or 6.’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+Everything Everywhere is a telecommunications company which provides mobile telephone services. In order to receive those
+         services, customers may pay in advance, by topping up the credit balance on their customer account, or at the end of a billing
+         period. In the latter case Everything Everywhere sends its customers a monthly bill, which they may settle by various methods.
+         Customers have a choice of payment:
+      
+–        by Direct Debit;
+–        by a transfer through the Bankers’ Automated Clearing System (BACS) (‘BACS transfer’); 
+–        by debit or credit card, via the telephone or internet;
+–        via a third party payment agent, for example, at a Post Office counter;
+–        by cheque sent by mail, or 
+–        over the counter at a branch of Everything Everywhere’s bank (HSBC Bank Plc) or of another other bank, for credit to Everything
+         Everywhere’s bank account. 
+      
+Where a customer pays his bill by Direct Debit or BACS transfer Everything Everywhere imposes no additional charge on him.
+      
+A Direct Debit payment requires a Direct Debit mandate, that is to say, a standing instruction given by the customer to his
+         bank to make payments at the request of Everything Everywhere. On the basis of that mandate, Everything Everywhere will endeavour
+         to obtain from the bank concerned a transfer of the amount payable by the customer via BACS each time a payment falls due.
+         A BACS transfer is initiated each time by the customer instructing his bank to transfer a particular sum of money from his
+         account to Everything Everywhere’s account.
+      
+A payment made by one of the other payment methods listed in paragraph above, however, will give rise the following month
+         to an additional charge of GBP 3, described by Everything Everywhere as a ‘separate payment handling charge’ (‘the SPHC’).
+      
+Thus, the SPHC is invoiced to a customer paying by debit or credit card who initiates, by telephone or by internet, an electronic
+         process resulting in the sum payable being transferred to Everything Everywhere’s account by the bank which issued the card.
+         The same applies where a cash payment is made over the counter at a bank or authorised payment agent (in particular the Post
+         Office) with which Everything Everywhere has entered into an agreement whereby such payments are received on its behalf. Everything
+         Everywhere also invoices the SPHC to customers paying for mobile telephone services by cheque, either by handing the cheque
+         over the counter at a bank of their choice or by sending a cheque to Everything Everywhere’s bank, using an envelope pre-addressed
+         to that bank.
+      
+Provision for the SPHC to be applied is made in Everything Everywhere’s Terms and Conditions. It is mentioned in the brochures
+         in which Everything Everywhere sets out its tariffs, and also on its website. About 28% of Everything Everywhere’s customers
+         choose to pay other than by Direct Debit or BACS transfer and thus incur the SPHC. 
+      
+The SPHC does not apply either to customers who pay in advance for all their mobile telephone services by topping up the credit
+         balance on their customer account or to business customers.
+      
+Everything Everywhere contends that the SPHC is to be regarded as consideration for a payment handling service effected for
+         consideration and that it is therefore exempt from VAT under Article 13B(d) of the Sixth Directive. In August 2005, Everything
+         Everywhere submitted a claim for a sum of GBP 228.08, which represented overpaid output tax for the period August to July in respect of the SPHC. The Commissioners refused that claim. Everything Everywhere appealed against that refusal
+         to the VAT and Duties Tribunal, which upheld the Commissioners’ decision and found that the SPHC was subject to VAT.
+      
+Everything Everywhere appealed against the decision of the VAT and Duties Tribunal to the referring court. The latter considers
+         that the dispute relates in essence to whether the SPHC is consideration for a supply of services which is separate from the
+         supply of telecommunications services and which falls within the exemption provided in Article 13B(d)(1) or (3) of the Sixth
+         Directive.
+      
+The referring court observes in particular that the parties to the main proceedings have recognised that Article 13B(d)(3)
+         of the Sixth Directive has previously been interpreted by the Court of Justice in its judgment in Case C‑2/SDC [1997] ECR I‑3017, in particular in paragraphs and of that judgment, in which the Court held that for ‘a transaction
+         concerning transfers’, the services provided must have the effect of transferring funds and entail changes in the legal and
+         financial situation. The parties differ, however, as to what is meant by those words.
+      
+As it took the view that resolution of the dispute in the main proceedings hinges on the interpretation of European Union
+         law, the High Court of Justice of England and Wales, Chancery Division, decided to stay the proceedings and refer the following
+         questions to the Court for a preliminary ruling:
+      
+‘(1)      What are the characteristics of an exempt service that has “the effect of transferring funds and entail[s] changes in the
+         legal and financial situation”? In particular:
+      
+(a)      Is the exemption applicable to services which would not otherwise have to be performed by any of the financial institutions
+         which (i) make a debit to one account, (ii) make a corresponding credit to another account, or (iii) perform an intervening
+         task between (i) or (ii)?
+      
+(b)      Is the exemption applicable to services which do not include the carrying out of tasks of making a debit to one account and
+         a corresponding credit to another account, but which may, where a transfer of funds results, be seen in retrospect as having
+         been the cause of that transfer?
+      
+(2)      Does the exemption in Article 13B(d)(3) of the Sixth Directive for “transactions … concerning … payments [or] transfers” apply
+         to a service of obtaining and processing payments by credit and debit cards, such as those performed by the taxpayer in the
+         present case? In particular, where the transmission of settlement files at the end of each day by the taxpayer has the effect
+         of automatically causing the customer’s account to be debited and the taxpayer’s account to be credited, will those services
+         fall within the scope of Article 13B(d)(3) [of the Sixth Directive]?
+      
+(3)      Does the answer to Question depend on whether the taxpayer itself obtains authorisation codes for onward transmission or
+         obtains those codes through the agency of its acquiring bank?
+      
+(4)      Does the exemption in Article 13B(d)(1) of the Sixth Directive for “the negotiation of credit” apply to services such as those
+         offered by the taxpayer in the present case in relation to credit card payments, whereby as a result of those services the
+         customer’s credit card account is debited with further amounts of credit?
+      
+(5)      Does the exemption for “transactions … concerning … payments [or] transfers” apply to services of accepting and processing
+         payments made using third party agents, such as those offered by the taxpayer through the Post Office and PayPoint in the
+         present case?
+      
+(6)      Does the exemption for “transactions … concerning … payments [or] transfers” apply to services of obtaining and processing
+         payments made by cheque sent to the taxpayer or his agent, which payments have to be processed by the taxpayer and its bank?
+      
+(7)      Does the exemption for “transactions … concerning … payments [or] transfers” apply to services, such as those offered by the
+         taxpayer in the present case, of receiving and processing payments made over the counter at a bank for credit, through the
+         banking system, to the taxpayer’s bank account?
+      
+(8)      What particular factors have to be taken into account when deciding whether a charge (such as the payment handling charge
+         in the present case) that is applied by a taxpayer to its customer in respect of the customer’s choice to make payment to
+         the taxpayer using a particular payment method, and which is individually identified in the contractual document and separately
+         itemised in invoices issued to customers, is a separate supply for VAT purposes?’
+      
+ Consideration of the questions referred
+By its questions, the referring court asks, in essence, whether, first, the SPHC constitutes consideration for a supply of
+         services by Everything Everywhere to its customers which falls within the VAT exemptions provided for in Article 13B(d)(1)
+         of the Sixth Directive (fourth question) or in Article 13B(d)(3) (first to third and fifth to seventh questions) and whether,
+         second, that supply is separate from the provision of mobile telephone services (eighth question).
+      
+Since, if such a supply of services is not separate from the supply of mobile telephone services, the SPHC would receive the
+         same tax treatment as the sums payable for the latter services (see, to that effect, Case C‑349/CPP [1999] ECR I‑973, paragraph 32, and Case C‑453/Ludwig [2007] ECR I‑5083, paragraph 20), it is appropriate to consider the eighth question first of all.
+      
+ The eighth question
+By that question, the national court asks, in essence, whether, for the purposes of collecting VAT and, in particular, of
+         applying the exemption provisions of the Sixth Directive, additional charges invoiced by a provider of telecommunications
+         services to its customers when they use certain methods of payment constitute consideration for a supply of payment handling
+         services by that provider to its customers which must be regarded as a supply that is separate from the supply of telecommunications
+         services.
+      
+It follows from Article of the Sixth Directive that every transaction must normally be regarded as distinct and independent
+         (see, inter alia, CPP, paragraph 29; Case C‑111/Aktiebolaget NN [2007] ECR I‑2697, paragraph 22; and Case C‑461/Don Bosco Onroerend Goed [2009] ECR I‑11079, paragraph 35).
+      
+However, a transaction which comprises a single supply from an economic point of view should not be artificially split, so
+         as not to distort the functioning of the VAT system (see, inter alia, CPP, paragraph 29; Aktiebolaget NN, paragraph 22; and Case C‑242/Swiss Re Germany Holding [2009] ECR I‑10099, paragraph 51).
+      
+Moreover, in certain circumstances, several formally distinct services, which could be supplied separately and thus give rise,
+         in turn, to taxation or exemption, must be considered to be a single transaction when they are not independent (see Case C‑425/Part Service [2008] ECR I‑897, paragraph 51; Case C‑572/RLRE Tellmer Property [2009] ECR I‑4983, paragraph 18; and Don Bosco Onroerend Goed, paragraph 36).
+      
+That is so in particular in cases where one or more elements are to be regarded as constituting the principal service, whilst
+         one or more elements are to be regarded, by contrast, as ancillary services which share the tax treatment of the principal
+         service (see, inter alia, CPP, paragraph 30; Case C‑34/Primback [2001] ECR I‑3833, paragraph 45; RLRE Tellmer Property, paragraph 18; and order of May in Joined Cases C‑231/and C‑232/Tiercé Ladbroke and Derby, paragraph 21).
+      
+In particular, a service must be regarded as ancillary to a principal service if it does not constitute for customers an aim
+         in itself, but a means of better enjoying the principal service supplied (see, inter alia, CPP, paragraph 30; Primback, paragraph 45; RLRE Tellmer Property, paragraph 18; and order in Tiercé Ladbroke and Derby, paragraph 21). 
+      
+In order to determine whether the taxable person is supplying the customer – envisaged as being a typical consumer – with
+         several distinct principal services or with a single service, the essential features of the transaction must be ascertained
+         and regard must be had to all the circumstances in which that transaction takes place (see, to that effect, CPP, paragraphs and 29; Aktiebolaget NN, paragraphs and 22; Ludwig, paragraph 17; and order in Tiercé Ladbroke and Derby, paragraphs and 20).
+      
+With regard to the main proceedings, it is to be noted that the principal service supplied to its customers by a provider
+         such as Everything Everywhere is a mobile telephone service. The activity engaged in by that undertaking in invoicing for
+         that service, in particular making available to customers an infrastructure enabling them to pay bills not only by Direct
+         Debit or by BACS transfer, but also by credit card, cheque or cash does not constitute for those customers an aim in itself.
+         The supposed supply of services, which those customers are unable to access separately from the use of the mobile telephone
+         service, can offer such consumers nothing that is independent of that service. It offers them only the opportunity to pay
+         mobile telephone bills using the method of payment that appears to them to be most convenient and, moreover, enables the provider
+         of the services to increase the volume of the service it supplies as its main service (see, to that effect, Primback, paragraph 47).
+      
+Moreover, the receipt of a payment and the handling of that payment are intrinsically linked to any supply of services provided
+         for consideration. It is inherent in such a supply that the provider should seek payment and make appropriate efforts to ensure
+         that the customer can make effective payment in consideration for the service supplied. In principle, any method of payment
+         for a supply of services involves the provider taking certain steps in the handling of the payment, even if the extent of
+         those steps may vary from one method of payment to another. According to the description of the different payment methods
+         given in the order for reference, even payment by Direct Debit requires, in order for payment actually to be made, that the
+         payee should take a particular step, namely that it should use the mandate given to it and request the bank of the customer
+         concerned to transfer the sum owing to it (see, to that effect, Case C‑175/AXA UK [2010] ECR I‑0000, paragraphs 9, and 33).
+      
+The fact, highlighted in the eighth question, that a separate price for the alleged financial service is identified as such
+         in the contract document and itemised separately in the invoices issued to customers is not of itself decisive. According
+         to the case-law of the Court, the fact that a single price is invoiced, or that separate prices were contractually stipulated,
+         has no decisive significance for the purposes of determining whether it is necessary to find that there are two or more distinct
+         and independent transactions or only a single economic transaction (see, to that effect, CPP, paragraph 31, and Case C-41/Levob Verzekeringen and OV Bank [2005] ECR I‑9433, paragraph 25).
+      
+It follows that Everything Everywhere’s customers who pay their mobile telephone bills using one of the payment methods which
+         incur the SPHC do not intend to purchase two distinct supplies, namely a supply of a mobile telephone service and a supply
+         whose purpose is to handle their payments. From the customer’s point of view, the supply of payment handling services supposedly
+         provided by the telecommunications services provider to its customers at the time those services are paid for using certain
+         payment methods must, in the circumstances such as those of the main proceedings, be regarded for VAT purposes, as being ancillary
+         to the principal supply of those telecommunications services (see, by analogy, Joined Cases C‑308/and C‑94/Madgett and Baldwin [1998] ECR I‑6229, paragraphs and 25).
+      
+That conclusion cannot be undermined by the principle of fiscal neutrality inherent in the common system of VAT, which precludes
+         treating similar supplies of services, which are thus in competition with each other, differently for VAT purposes (see, inter
+         alia, Case C‑94/Commission v France [2010] ECR I‑0000, paragraph 40, and Case C‑58/Leo-Libera [2010] ECR I‑0000, paragraph 34), since Everything Everywhere’s situation is entirely different from that of an economic operator
+         which provides financial services to its clients as the principle supply.
+      
+Consequently, the answer to the eighth question is that, for the purposes of collecting VAT, the additional charges invoiced
+         by a provider of telecommunications services to its customers, where the latter pay for those services not by Direct Debit
+         or by BACS transfer but by credit card, debit card, cheque or cash over the counter at a bank or authorised payment agent
+         acting on behalf of that service provider, do not constitute consideration for a supply of services distinct and independent
+         from the principal supply of services consisting in the supply of telecommunications services.
+      
+ The first to seventh questions
+In view of the answer given to the eighth question there is no need to answer the first to seventh questions.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+For the purposes of collecting value added tax, the additional charges invoiced by a provider of telecommunications services
+            to its customers, where the latter pay for those services not by Direct Debit or by Bankers’ Automated Clearing System transfer
+            but by credit card, debit card, cheque or cash over the counter at a bank or authorised payment agent acting on behalf of
+            that service provider, do not constitute consideration for a supply of services distinct and independent from the principal
+            supply of services consisting in the supply of telecommunications services. 
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

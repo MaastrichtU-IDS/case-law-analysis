@@ -1,0 +1,160 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Medical devices — Directive 93/42/EEC — Scope — ‘Medical device’ — CE marking — National legislation making drug prescription assistance software subject to a certification procedure laid down by a national authority)
+In Case C‑329/16,
+REQUEST for a preliminary ruling under Article TFEU from the Conseil d’État (France), made by decision of June 2016, received at the Court on June 2016, in the proceedings
+Syndicat national de l’industrie des technologies médicales (Snitem),
+Philips France
+v
+Premier ministre,
+Ministre des Affaires sociales et de la Santé
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz, President of the Chamber, C. Vajda, E. Juhász (Rapporteur), K. Jürimäe and C. Lycourgos, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: V. Giacobbo-Peyronnel, Administrator,
+having regard to the written procedure and further to the hearing on April 2017,
+after considering the observations submitted on behalf of:
+–
+the Syndicat national de l’industrie des technologies médicales (Snitem) and Philips France, by B. Geneste and S. Ledda-Noel, avocats,
+–
+the French Government, by J. Traband, D. Colas and E. de Moustier, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by M. Russo, avvocato dello Stato,
+–
+the European Commission, by P. Mihaylova and O. Beynet, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 1(1) and Article 1(2)(a) of Council Directive 93/42/EEC of June concerning medical devices (OJ L 169, p. 1), as amended by Directive 2007/47/EC of the European Parliament and of the Council of September (OJ L 247, p. 21) (‘Directive 93/42’).
+This request has been made in proceedings between the Syndicat national de l’industrie des technologies médicales (Snitem) and Philips France, on the one hand, and the Premier ministre (Prime Minister, France) and the ministre des Affaires sociales et de la Santé (Minister for Social Affairs and Health, France), on the other, concerning the legality of Article 1(3) and Article of décret No 2014-1359, du novembre 2014, relatif à l’obligation de certification des logiciels d’aide à la prescription médicale et des logiciels d’aide à la dispensation prévue à l’article L. 161-du code de la sécurité sociale (Decree No 2014-of November regarding the certification obligation for drug prescription assistance software and dispensation assistance software laid down in Article L. 161-of the Social Security Code) (JORF of November 2014, p. 19255; ‘Decree No 2014-1359’).
+Legal context
+European Union law
+The second to fourth recitals of Directive 93/state:
+‘Whereas the content and scope of the laws, regulations and administrative provisions in force in the Member States with regard to the safety, health protection and performance characteristics of medical devices are different; whereas the certification and inspection procedures for such devices differ from one Member State to another; whereas such disparities constitute barriers to trade within the Community;
+Whereas the national provisions for the safety and health protection of patients, users and, where appropriate, other persons, with regard to the use of medical devices should be harmonised in order to guarantee the free movement of such devices within the internal market;
+Whereas the harmonised provisions must be distinguished from the measures adopted by the Member States to manage the funding of public health and sickness insurance schemes relating directly or indirectly to such devices; whereas, therefore, the provisions do not affect the ability of the Member States to implement the abovementioned measures provided Community law is complied with.’
+Article of that directive, entitled ‘Definitions, scope’, provides as follows:
+‘1.   This Directive shall apply to medical devices and their accessories. For the purposes of this Directive, accessories shall be treated as medical devices in their own right. Both medical devices and accessories shall hereinafter be termed devices.
+2.   For the purposes of this Directive, the following definitions apply:
+(a)
+“medical device” means any instrument, apparatus, appliance, software, material or other article, whether used alone or in combination, including the software intended by its manufacturer to be used specifically for diagnostic and/or therapeutic purposes and necessary for its proper application, intended by the manufacturer to be used for human beings for the purpose of:
+–
+diagnosis, prevention, monitoring, treatment or alleviation of disease,
+–
+diagnosis, monitoring, treatment, alleviation of or compensation for an injury or handicap,
+–
+investigation, replacement or modification of the anatomy or of a physiological process,
+–
+control of conception,
+and which does not achieve its principal intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its function by such means;
+(b)
+“accessory” means an article which whilst not being a device is intended specifically by its manufacturer to be used together with a device to enable it to be used in accordance with the use of the device intended by the manufacturer of the device;
+…
+(g)
+“intended purpose” means the use for which the device is intended according to the data supplied by the manufacturer on the labelling, in the instructions and/or in promotional material;
+…’
+Article of that directive, entitled ‘Free movement, devices intended for special purposes’, provides in paragraph thereof:
+‘Member States shall not create any obstacle to the placing on the market or the putting into service within their territory of devices bearing the CE marking provided for in Article which indicate that they have been the subject of an assessment of their conformity in accordance with the provisions of Article 11.’
+Article of that directive, entitled ‘Reference to standards’, provides, in paragraph thereof:
+‘Member States shall presume compliance with the essential requirements … in respect of devices which are in conformity with the relevant national standards adopted pursuant to the harmonised standards the references of which have been published in the Official Journal of the European Communities; Member States shall publish the references of such national standards.’
+Article of Directive 93/42, entitled ‘Safeguard clause’, provides, in paragraph thereof:
+‘Where a Member State ascertains that the devices referred to in Article 4(1) and (2) second indent, when correctly installed, maintained and used for their intended purpose, may compromise the health and/or safety of patients, users or, where applicable, other persons, it shall take all appropriate interim measures to withdraw such devices from the market or prohibit or restrict their being placed on the market or put into service. The Member State shall immediately inform the Commission of any such measures, indicating the reasons for its decision and, in particular, whether non-compliance with this Directive is due to:
+(a)
+failure to meet the essential requirements referred to in Article 3;
+(b)
+incorrect application of the standards referred to in Article 5, in so far as it is claimed that the standards have been applied;
+(c)
+shortcomings in the standards themselves.’
+Article of that directive, entitled ‘Classification’, provides in paragraph thereof:
+‘Devices shall be divided into Classes I, IIa, IIb and III. Classification shall be carried out in accordance with Annex IX.’
+Article of that directive, entitled ‘CE marking’, provides in paragraph thereof:
+‘Devices, other than devices which are custom-made or intended for clinical investigations, considered to meet the essential requirements referred to in Article must bear the CE marking of conformity when they are placed on the market.’
+Annex IX to the same directive, entitled ‘Classification criteria’, states:
+‘I. Definitions
+1. Definitions for the classification rules
+…
+1.4.
+Active medical device
+… Stand-alone software is considered to be an active medical device.
+…
+II. Implementing rules
+2. Implementing rules
+…
+2.1.
+Application of the classification rules shall be governed by the intended purpose of the devices.
+2.2.
+If the device is intended to be used in combination with another device, the classification rules shall apply separately to each of the devices. Accessories are classified in their own right separately from the device with which they are used.
+2.3.
+Software, which drives a device or influences the use of a device, falls automatically in the same class.
+…’
+Recital of Directive 2007/47, the purpose of which was, inter alia, to include autonomous software in the definition of a ‘medical device’ provided for in Article 1(2)(a) of Directive 93/42, states:
+‘It is necessary to clarify that software in its own right, when specifically intended by the manufacturer to be used for one or more of the medical purposes set out in the definition of a medical device, is a medical device. Software for general purposes when used in a healthcare setting is not a medical device.’
+French law
+Article L. 161-of the code de la sécurité sociale (Social Security Code), in the version applicable to the main proceedings, provided:
+‘…
+II.
+[The Haute Autorité de santé (National Health Authority, France)] shall determine the certification procedure for drug prescription assistance software complying with a body of rules of good practice. It shall ensure that the rules of good practice are to specify that the software is to incorporate the medical and economic recommendations and opinions identified by the National Health Authority, enable direct prescription under international non-proprietary names, the display of product prices at the time of prescription and the total amount of the prescription, and the indication whether the product is included in the repertoire of generic drugs, as well as provide information concerning their designer and the nature of their funding.
+That certification procedure shall contribute to the improvement of drug prescription practice. It shall ensure that the software complies with the minimum requirements of security, conformity and efficiency of prescriptions.
+…
+IV.
+The certifications provided for in I to III shall be implemented and issued by certification bodies accredited by the French Accreditation Committee or by the competent body of another Member State of the European Union certifying compliance with the rules of good practice enacted by the National Health Authority.
+Those certifications are made compulsory for any software, of which at least one of the functions is to offer assistance in the prescription or dispensing of medicines under the conditions laid down by decree of the Conseil d’État (Council of State) and at the latest on January 2015.’
+Article 1(3) of Decree No 2014-inserted Articles R. 161-76-to R. 161-76-into the Social Security Code.
+Article R. 161-76-of that code is worded as follows:
+‘All software whose purpose is to offer support for carrying out drug prescription to prescribers practising in towns, a health establishment or a medico-social establishment, is subject to the certification obligation laid down in Article L. 161-38, without prejudice to the provisions of Article R. 5211-et seq. of the code de la santé publique (Public Health Code). Software incorporating functions other than supporting drug prescription is only subject to certification for that function.’
+Article R. 161-76-of that code provides:
+‘Drug prescription assistance software shall be certified by reference to a scheme established by the National Health Authority which provides for:
+(1)
+minimum requirements of security, relating in particular to the absence of any information extraneous to prescription or advertising of any kind, and to its ergonomic quality;
+(2)
+minimum requirements of conformity of the prescription with regulatory provisions and with the rules of good medical prescription practice;
+(3)
+minimum requirements of efficiency ensuring the reduction of the cost of treatment, for the same quality;
+(4)
+prescription under international non-proprietary names, as defined in the fifth paragraph of Article R. 5121-of the Public Health Code;
+(5)
+information on the drug taken from a database on drugs which satisfies a quality charter developed by the National Health Authority;
+(6)
+information on the software developer and the funding of the development of that software.’
+According to Article of Decree No 2014-1359:
+‘The certifications provided for in Articles R. 161-76-and R. 161-76-are mandatory as from January 2015.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Snitem brings together companies in the medical devices sector, such as Philips France, which operate in the healthcare field and market inter alia drug prescription assistance software.
+Snitem and Philips France brought an action before the Conseil d’État (Council of State, France) for the annulment of Article 1(3) and Article of Decree No 2014-1359. They claim that, to the extent that at least some drug prescription assistance software falls within the scope of Directive 93/42, the provisions of Article L. 161-of the Social Security Code and of that decree, in that they make certain software items subject to a certification requirement even though they bear the CE marking, do not comply with the objectives of Article of that directive, which prohibits Member States from preventing or restricting the placing on the market or the putting into service of devices bearing the CE marking.
+The applicants in the main proceedings also allege an infringement of Article of Directive 93/in that the certification requirement provided for under national law cannot be regarded as a safeguard clause within the meaning of that article. They further allege a breach of Article TFEU in so far as the requirement to adapt software to technical standards constitutes a measure having equivalent effect to quantitative restrictions on imports which, overlapping with the certification obligation for medical devices laid down in Directive 93/42, which is applicable to software, does not meet the requirements of necessity and proportionality.
+In the light of the foregoing, the Conseil d’État (Council of State) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Must Directive [93/42] be interpreted as meaning that software, the purpose of which is to offer to prescribers practising in towns, a health establishment or a medico-social establishment support for determining a drug prescription, in order to improve the safety of prescription, facilitate the work of the prescriber, encourage conformity of the prescription with national regulatory requirements and reduce the cost of treatment at the same quality, constitutes a medical device within the meaning of that directive, where that software has at least one function that permits the use of data specific to a patient to help his doctor issue his prescription, in particular by detecting contraindications, drug interactions and excessive doses, even though it does not itself act in or on the human body?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Article 1(1) and Article 1(2)(a) of Directive 93/must be interpreted as meaning that software, of which at least one of the functions makes it possible to use patient-specific data for the purposes, inter alia, of detecting contraindications, drug interactions and excessive doses, is, in respect of that function, a medical device within the meaning of those provisions, even if that software does not act directly in or on the human body.
+It is expressly apparent from Article 1(2)(a) of Directive 93/that software constitutes a medical device for the purposes of that directive where it satisfies the two cumulative conditions which must be met by any device of that nature, relating respectively to the objective pursued and the action resulting therefrom.
+As regards, first, the objective pursued, Article 1(2)(a) of that directive provides that a medical device must be intended by the manufacturer for use in humans for the purposes, in particular, of the diagnosis, prevention, monitoring, treatment or alleviation of a disease, and the diagnosis, monitoring, treatment, alleviation of or compensation for an injury or handicap.
+In that regard, it must be stated that the wording of Article 1(2)(a) of Directive 93/was amended by Article of Directive 2007/47, recital of which states that software is a medical device in its own right when specifically intended by the manufacturer to be used for one or more of the medical purposes set out in the definition of a medical device. That recital further states that software for general purposes, when used in a healthcare setting, is not a medical device. The EU legislature thus made unequivocally clear that, in order for software to fall within the scope of Directive 93/42, it is not sufficient that it be used in a medical context; it is also necessary that the intended purpose, defined by the manufacturer, is specifically medical (judgment of November 2012, Brain Products, C‑219/11, EU:C:2012:742, paragraphs and 17). Software which does not meet that condition may fall within the scope of that directive only if it is an accessory to a medical device within the meaning of Article 1(2)(b) thereof. That software should then be treated, for the purposes of that directive, in accordance with Article 1(1) thereof, as a medical device in its own right.
+In the present case, software that cross-references patient-specific data with the drugs that the doctor is contemplating prescribing, and is thus able to provide the doctor, in an automated manner, with an analysis intended to detect, in particular, possible contraindications, drug interactions and excessive dosages, is used for the purpose of prevention, monitoring, treatment or alleviation of a disease, and therefore pursues a specifically medical objective, making it a medical device within the meaning of Article 1(2)(a) of Directive 93/42.
+That is not the case, however, for software that, while intended for use in a medical context, has the sole purpose of archiving, collecting and transmitting data, like patient medical data storage software, the function of which is limited to indicating to the doctor providing treatment the name of the generic drug associated with the one he plans to prescribe, or software intended to indicate the contraindications mentioned by the manufacturer of that drug in its instructions for use.
+Secondly, as regards the condition relating to the action resulting from the objective pursued, the national court asks whether software which does not function automatically in or on the human body can be a medical device within the meaning of Article 1(2)(a) of Directive 93/42.
+In that respect, it should be noted that although that provision provides that the main action of the medical device ‘in or on the human body’ cannot be obtained exclusively by pharmacological or immunological means, or by metabolism, it does not require such a device to act directly in or on the human body.
+As is apparent from recital of Directive 2007/and paragraph of the present judgment, the EU legislature intended to focus, in order to classify software as a medical device, on the purpose of its use and not the manner in which the effect it is capable of producing on or in the human body is likely to materialise.
+Moreover, refusing to classify a device which does not act directly in or on the human body as a ‘medical device’ would in practice exclude from the scope of Directive 93/software which is specifically intended by the manufacturer to be used for one or more of the medical purposes set out in the definition of a medical device, even though the EU legislature intended, by Directive 2007/47, to include such software in that definition, whether or not the software works directly in or on the human body.
+The addition of such a requirement could therefore deprive Article 1(2)(a) of that directive in part of its effectiveness.
+Thus, it does not matter whether, in order to be classified as a medical device, software acts directly or indirectly on the human body, the essential point being that its purpose is specifically one of those referred to in paragraph of the present judgment.
+That interpretation is confirmed by the Commission Guidelines on the qualification and classification of stand-alone software used in healthcare within the regulatory framework of medical devices, Meddev 2.1/6, whose objective is to promote a uniform application of the provisions of Directive 93/within the European Union. Both in the version published in January and in the one published in July 2016, those guidelines indicate that software constitutes a medical device where it is specifically intended by the manufacturer to be used for one of the purposes set out in Article 1(2)(a) of Directive 93/and where it is intended to create or modify medical information, in particular by means of calculation, quantification or comparison of the recorded data against certain references, in order to provide information about a particular patient. Those guidelines further state that software that does not perform an action on data or performs an action limited to storage, archiving, lossless compression or, finally, simple search, that is to say, in the latter case, software that functions as a digital library and makes it possible to find information from metadata, without modifying or interpreting it, should not be considered a medical device.
+If follows that software, of which at least one of the functions makes it possible to use patient-specific data for the purposes, inter alia, of detecting contraindications, drug interactions and excessive doses, is, in respect of that function, a medical device, within the meaning of Article 1(2)(a) of Directive 93/42, even if such software does not act directly in or on the human body.
+Consequently, and to the extent that such software constitutes a medical device, it must, pursuant to Article 17(1) of that directive, compulsorily bear the CE marking of conformity when it is placed on the market. Once the marking has been obtained, the product, having regard to that function, may be placed on the market and circulate freely in the European Union without having to undergo any additional procedure, such as a new certification (see, to that effect, judgment of November 2009, Nordiska Dental, C‑288/08, EU:C:2009:718, paragraph 21).
+In respect of medical software comprising both modules that meet the definition of the term ‘medical device’ and others that do not meet it and that are not accessories within the meaning of Article 1(2)(b) of Directive 93/42, only the former fall within the scope of the directive and must be marked CE.
+In that regard, the Commission’s Guidelines, mentioned in paragraph of the present judgment, confirm in essence, in Title 4, entitled ‘Modules’, that, where software is composed of modules which satisfy the definition of the concept of ‘medical device’ and others not, only the former must bear the CE marking; the others are not subject to the provisions of the directive. Those guidelines state that it is the responsibility of the manufacturer to identify the limits and interfaces of the different modules which, in the case of modules subject to Directive 93/42, must be clearly identified by the manufacturer and based on the use which will be made of the product.
+As a result, the manufacturer of such software is required to identify which of the modules constitute medical devices, so that the CE marking can be affixed to those modules only.
+In the light of the foregoing, the answer to the question referred is that Article 1(1) and Article 1(2)(a) of Directive 93/must be interpreted as meaning that software, of which at least one of the functions makes it possible to use patient-specific data for the purposes, inter alia, of detecting contraindications, drug interactions and excessive doses, is, in respect of that function, a medical device within the meaning of those provisions, even if that software does not act directly in or on the human body.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Article 1(1) and Article 1(2)(a) of Council Directive 93/42/EEC of June concerning medical devices, as amended by Directive 2007/47/EC of the European Parliament and of the Council of September 2007, must be interpreted as meaning that software, of which at least one of the functions makes it possible to use patient-specific data for the purposes, inter alia, of detecting contraindications, drug interactions and excessive doses, is, in respect of that function, a medical device within the meaning of those provisions, even if that software does not act directly in or on the human body.
+ 
+[Signatures]
+(
+*)	Language of the case: French.
+Top  
+ 

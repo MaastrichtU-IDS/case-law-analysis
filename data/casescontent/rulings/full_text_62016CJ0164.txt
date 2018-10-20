@@ -1,0 +1,117 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+October (
+*)
+(Reference for a preliminary ruling — Value added tax (VAT) — Directive 2006/112/EC — Article 14(2)(b) — Supply of goods — Motor vehicles — Finance lease with an option to purchase)
+In Case C‑164/16,
+REQUEST for a preliminary ruling under Article TFEU from the Court of Appeal (England & Wales) (Civil Division), (United Kingdom), made by decision of January 2016, received at the Court on March 2016, in the proceedings
+Commissioners for Her Majesty’s Revenue & Customs
+v
+Mercedes-Benz Financial Services UK Ltd,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, J.-C. Bonichot (Rapporteur) and A. Arabadjiev, Judges,
+Advocate General: M. Szpunar,
+Registrar: X. Lopez Bancalari, Administrator,
+having regard to the written procedure and further to the hearing on January 2017,
+after considering the observations submitted on behalf of:
+–
+Mercedes-Benz Financial Services UK Ltd, by L. Allen, Barrister, and K. Prosser QC,
+–
+the United Kingdom Government, by G. Brown, J. Kraehling, S. Simmons and D. Robertson, acting as Agents, and by O. Thomas, Barrister,
+–
+the Netherlands Government, by M. Bulterman and M. de Ree, acting as Agents,
+–
+the European Commission, by L. Lozano Palacios and R. Lyal, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 14(2)(b) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1, ‘the VAT Directive’).
+The request has been made in proceedings between Mercedes-Benz Financial Services UK Ltd and the Commissioners for Her Majesty’s Revenue & Customs (‘HMRC’) concerning the classification of the handing over of vehicles pursuant to a standard agreement, with regard to transactions subject to valued added tax (VAT).
+Legal context
+EU law
+Article of the VAT Directive provides:
+‘1.   “Supply of goods” shall mean the transfer of the right to dispose of tangible property as owner.
+2.   In addition to the transaction referred to in paragraph 1, each of the following shall be regarded as a supply of goods:
+(a)
+the transfer, by order made by or in the name of a public authority or in pursuance of the law, of the ownership of property against payment of compensation;
+(b)
+the actual handing over of goods pursuant to a contract for the hire of goods for a certain period, or for the sale of goods on deferred terms, which provides that in the normal course of events ownership is to pass at the latest upon payment of the final instalment;
+(c)
+the transfer of goods pursuant to a contract under which commission is payable on purchase or sale.
+3.   Member States may regard the handing over of certain works of construction as a supply of goods.’
+According to Article 24(1) of the VAT Directive, a ‘supply of services’ is to mean any transaction which does not constitute a supply of goods.
+Article of that directive provides:
+‘The chargeable event shall occur and VAT shall become chargeable when the goods or the services are supplied.’
+Article 64(1) of the directive is worded as follows:
+‘Where it gives rise to successive statements of account or successive payments, the supply of goods, other than that consisting in the hire of goods for a certain period or the sale of goods on deferred terms, as referred to in point (b) of Article 14(2), or the supply of services shall be regarded as being completed on expiry of the periods to which such statements of account or payments relate.’
+United Kingdom law
+Paragraph of schedule to the Value Added Tax Act transposes Article 14(2)(b) of the VAT Directive.
+Under section of the Consumer Credit Act 1974, a ‘hire-purchase agreement’ is defined as an agreement under which goods are hired in return for periodical payments by the person to whom they are hired, and the property in the goods will pass to that person if the terms of the agreement are complied with and one or more specified events occurs, including the exercise of an option by that person.
+Section of the Consumer Credit Act provides that, at any time before the final payment by the debtor under a regulated hire-purchase agreement falls due, the debtor is entitled to terminate the agreement by giving notice. Section of the Act provides that, in that event, the debtor is to be liable, unless the agreement provides for a smaller payment, to pay to the creditor the amount, if any, by which one-half of the ‘total price’ exceeds the aggregate of the sums paid and the sums due in respect of the total price immediately before the termination.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mercedes-Benz Financial Services UK, which is a subsidiary of Daimler AG and has its seat in the United Kingdom, offers three types of standard contract for financing the use of motor vehicles: a standard hire agreement known as ‘Leasing’, a ‘Hire Purchase’ agreement, and a leasing agreement with an option to purchase called ‘Agility’, which combines certain features of the first two types of agreement and which allows customers to postpone choosing between leasing and purchase until after the vehicle has been handed over.
+Features common to all three standard agreements are the fact that ownership of the vehicle remains with Mercedes-Benz Financial Services UK throughout the term of the agreement and the making of monthly payments by the lessee.
+The agreements differ, however, as regards the possibility of acquiring the vehicle and the arrangements for doing so.
+The ‘Leasing’ agreement excludes any transfer of ownership and, moreover, sets a maximum mileage beyond which the customer is liable to pay a penalty.
+The ‘Hire Purchase’ and ‘Agility’ agreements, on the other hand, provide for a transfer of ownership, but on different terms.
+Under the ‘Hire Purchase’ agreement, the aggregate of the monthly payments made represents, as a rule, the total sale price of the vehicle, including the cost of financing. A modest additional fee (‘the option fee’) must be paid in order to acquire ownership of the vehicle at the end of the contract. That final payment is provided for in the agreement and does not depend on the option being exercised. The option fee is debited from the customer’s account at the same time as the last instalment, and the transfer of ownership is then complete. However, United Kingdom consumer protection legislation limits the amount which a seller can claim from a buyer under the terms of a hire purchase, and it is thus possible, in practice, for the customer to avoid making the final payment by terminating the contract prior to its expiry.
+Under an ‘Agility’ agreement, monthly instalments are, as a rule, lower than under a ‘Hire Purchase’ agreement; total instalments thus represent only approximately 60% of the vehicle sale price, including the cost of financing. If the user wishes to exercise the option to purchase the vehicle, he must therefore pay approximately 40% of the sale price. That ‘balloon’ payment represents the estimated average residual value of the vehicle at contract maturity. The customer is asked, three months before the end of the contract, whether he wishes to exercise the option. According to the findings of the referring court, around half of all lessees reply in the affirmative.
+With regard to VAT, it is not disputed that the ‘Leasing’ agreement falls within the category of ‘supply of services’ and, therefore, is subject to tax on each monthly instalment under Article of the VAT Directive, the taxable amount being the amount of the monthly payment. Nor is it disputed that, conversely, the ‘Hire Purchase’ agreement constitutes a ‘supply of goods’ within the meaning of Article 14(2)(b) of the VAT Directive. Consequently, under Article of that directive, VAT is chargeable in full upon the handing over of the vehicle, the taxable amount being the total price of the supply.
+According to HMRC, the ‘Agility’ agreement, like the ‘Hire Purchase’ agreement, constitutes a ‘supply of goods’ within the meaning of Article 14(2)(b) of the VAT Directive. HMRC therefore claimed full payment of VAT from Mercedes-Benz Financial Services UK upon the handing over of vehicles pursuant to the ‘Agility’ agreement.
+Mercedes-Benz Financial Services UK challenged that classification before the First-tier Tribunal (Tax Chamber), United Kingdom, arguing that the ‘Agility’ agreement, which does not necessarily provide for a transfer of ownership, had to be regarded as a ‘supply of services’ and that, therefore, VAT was chargeable only on each monthly instalment.
+The First-tier Tribunal (Tax Chamber) dismissed the application and Mercedes-Benz Financial Services UK appealed to the Upper Tribunal (Tax and Chancery Chamber), United Kingdom, which allowed its appeal.
+HMRC brought an appeal against that decision before the referring court. The referring court considers that resolution of the dispute requires the interpretation of EU law, specifically of Article 14(2)(b) of the VAT Directive.
+In those circumstances, the Court of Appeal (England & Wales) (Civil Division), United Kingdom, decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+What is the meaning of the words “a contract ... which provides that in the normal course of events ownership is to pass at the latest upon payment of the final instalment” in Article 14(2)(b) [of the VAT Directive]?
+(2)
+In particular, in the context of the present case, does the phrase “in the normal course of events” require a tax authority to do no more than to identify the existence of an option to purchase which can be exercised no later than upon payment of the final instalment?
+(3)
+Alternatively, does the phrase “in the normal course of events” require the national authority to go further and to determine the economic purpose of the contract?
+(4)
+If the answer to (3) is yes:
+(a)
+Should the interpretation of Article 14(2) [of the VAT Directive] be influenced by an analysis of whether the customer is likely to exercise such an option?
+(b)
+Is the size of the price payable on exercise of the option to purchase relevant for the purposes of determining the economic purpose of the contract?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court seeks, in essence, to establish whether, and to what extent, the words ‘contract for hire which provides that in the normal course of events ownership is to pass at the latest upon payment of the final instalment’, used in Article 14(2)(b) of the VAT Directive, must be interpreted as applying to a leasing contract with an option to purchase, such as the type of contract at issue in the main proceedings.
+It must, as a preliminary point, be noted that a contract for the leasing of a motor vehicle with an option to purchase such as the ‘Agility’ contract offered by Mercedes-Benz Financial Services UK is an agreement that might be referred to as a ‘finance lease’ or ‘hire purchase’.
+As the Advocate General explained in points and of his Opinion, it is a particular feature of such agreements that they serve as a substitute for the immediate acquisition of full ownership, the lessee having the use of the goods without being required to pay the full purchase price for them when they are handed over to him.
+That type of contract may have features which are comparable to the acquisition of goods, or it may not, since it is open to the parties to provide that the lessee has the option of acquiring or not acquiring those goods at the end of the lease period (see, to that effect, judgment of February 2012, Eon Aset Menidjmunt, C‑118/11, EU:C:2012:97, paragraphs and 37).
+The fact that a transfer of ownership is provided for on the expiry of the contract or the fact that the present value of the lease payments is practically identical to the market value of the property constitute, separately or together, criteria which permit a determination of whether a contract can be categorised as a ‘finance lease’ (see, to that effect, judgments of February 2012, Eon Aset Menidjmunt, C‑118/11, EU:C:2012:97, paragraph 38, and of July 2015, NLB Leasing, C‑209/14, EU:C:2015:440, paragraph 30).
+However, the classification of a contract as a ‘finance lease’ is not, in itself, sufficient for the actual handing over of goods pursuant to that contract to be categorised as a transaction subject to VAT. In order for such a contract to be considered a ‘supply of goods’ within the meaning of the VAT Directive, it is also necessary to determine whether the contract is a contract for ‘hire which provides that in the normal course of events ownership is to pass at the latest upon payment of the final instalment’, within the meaning of Article 14(2)(b) of that directive.
+That legal classification requires two conditions to be satisfied.
+First, that provision must be read as meaning that the agreement pursuant to which the goods are handed over contains a clause expressly relating to the transfer of ownership of those goods from the lessor to the lessee.
+As is apparent from its actual wording, Article 14(2)(b) of the VAT Directive refers not to the transfer of the power to dispose of property as owner, as in paragraph of that article, but, more explicitly, to the ‘passing of ownership’ of that property.
+In addition, it must be observed that that provision uses the term ‘instalments’, which is familiar in credit agreements but uncommon in pure lease agreements, which generally refer to ‘lease payments’.
+As the Advocate General noted in point of his Opinion, an agreement may be considered to contain an express ownership transfer clause where that agreement contains an option to purchase the leased asset.
+Second, it must be clear from the terms of the contract, as objectively assessed at the time when it is signed, that ownership of the goods is intended to be acquired automatically by the lessee if performance of the contract proceeds normally, over the full term of the contract.
+The only inference to be drawn from the words ‘in the normal course of events ownership is to pass at the latest upon payment of the final instalment’ is that the final payment of sums to be paid by the lessee under the terms of the contract results by operation of law in the transfer to that lessee of ownership of the goods to which the agreement relates.
+As regards, in particular, the fact that the agreement includes a clause which, as in the case of the standard agreement at issue in the main proceedings, provides for the lessee to be able to exercise an option to purchase, it must be stated that the phrase ‘in the normal course of events’ must be regarded as referring simply to the foreseeable performance of an agreement over its full term by the parties thereto, acting in good faith, in accordance with the principle that agreements must be kept.
+As the Advocate General noted in points and of his Opinion, this contractually determined outcome — of ownership being transferred — is incompatible with a genuine economic alternative for the lessee under which he may, at the appropriate time, opt either to acquire the goods, or to return them to the lessor, or to extend the lease, depending on his particular interests at the time when he is required to make that choice.
+The position would be different only if exercising the option to purchase, optional though it is in formal terms, appeared in fact, given the financial terms of the agreement, to be the only economically rational choice the lessee could make. That may in particular be the case where it is evident from the agreement that, when the possibility of exercising the option arises, the aggregate of the contractual instalments will correspond to the market value of the goods, including the cost of financing, and that the lessee will not be required, as a result of exercising the option, to pay a substantial additional sum.
+This interpretation of the wording of Article 14(2)(b) of the VAT Directive is confirmed in the light of the general scheme of that directive as regards the classification of taxable transactions.
+Any other interpretation would require national tax authorities, presented with contracts which, as in this instance, are not objectively linked to taxable transactions at the outset, to make follow-up inquiries to determine the intentions of the party contracting with the taxable person at the time when the option is exercised and, if necessary, to make adjustments.
+Such a requirement would, however, be contrary to the VAT system’s objectives of ensuring legal certainty and facilitating application of the tax by having regard, save in exceptional cases, to the objective character of the transaction in question (see, by analogy, judgment of April 1995, BLP Group, C‑4/94, EU:C:1995:107, paragraph 24).
+It is for the national court, which has sole jurisdiction to assess the facts, to determine, on a case-by-case basis and in the light of the circumstances of each individual case, whether the contract pursuant to which a vehicle was handed over to a user satisfies the conditions referred to in the present judgment.
+It follows from the foregoing that the words ‘contract for hire which provides that in the normal course of events ownership is to pass at the latest upon payment of the final instalment’, used in Article 14(2)(b) of the VAT Directive, must be interpreted as applying to a leasing contract with an option to purchase if it can be inferred from the financial terms of the contract that exercising the option appears to be the only economically rational choice that the lessee will be able to make at the appropriate time if the contract is performed for its full term, which it is for the national court to ascertain.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+The words ‘contract for hire which provides that in the normal course of events ownership is to pass at the latest upon payment of the final instalment’, used in Article 14(2)(b) of Council Directive 2006/112/EC of November on the common system of value added tax, must be interpreted as applying to a leasing contract with an option to purchase if it can be inferred from the financial terms of the contract that exercising the option appears to be the only economically rational choice that the lessee will be able to make at the appropriate time if the contract is performed for its full term, which it is for the national court to ascertain.
+ 
+Silva de Lapuerta
+Bonichot
+Arabadjiev
+Delivered in open court in Luxembourg on October 2017.
+A. Calot Escobar
+Registrar
+R. Silva de Lapuerta
+President of the First Chamber
+(
+*)	Language of the case: English.
+Top  
+ 

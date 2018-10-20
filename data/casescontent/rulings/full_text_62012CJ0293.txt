@@ -1,0 +1,360 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+April (
+*)
+‛Electronic communications — Directive 2006/24/EC — Publicly available electronic communications services or public communications networks services — Retention of data generated or processed in connection with the provision of such services — Validity — Articles 7, and of the Charter of Fundamental Rights of the European Union’
+In Joined Cases C‑293/and C‑594/12,
+REQUESTS for a preliminary ruling under Article TFEU from the High Court (Ireland) and the Verfassungsgerichtshof (Austria), made by decisions of January and November 2012, respectively, received at the Court on June and December 2012, in the proceedings
+Digital Rights Ireland Ltd (C‑293/12)
+v
+Minister for Communications, Marine and Natural Resources,
+Minister for Justice, Equality and Law Reform,
+Commissioner of the Garda Síochána,
+Ireland,
+The Attorney General,
+intervener:
+Irish Human Rights Commission,
+and
+Kärntner Landesregierung (C‑594/12),
+Michael Seitlinger,
+Christof Tschohl and others,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, K. Lenaerts, Vice-President, A. Tizzano, R. Silva de Lapuerta, T. von Danwitz (Rapporteur), E. Juhász, A. Borg Barthet, C.G. Fernlund and J.L. da Cruz Vilaça, Presidents of Chambers, A. Rosas, G. Arestis, J.-C. Bonichot, A. Arabadjiev, C. Toader and C. Vajda, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on July 2013,
+after considering the observations submitted on behalf of:
+—
+Digital Rights Ireland Ltd, by F. Callanan, Senior Counsel, and F. Crehan, Barrister-at-Law, instructed by S. McGarr, Solicitor,
+—
+Mr Seitlinger, by G. Otto, Rechtsanwalt,
+—
+Mr Tschohl and Others, by E. Scheucher, Rechtsanwalt,
+—
+the Irish Human Rights Commission, by P. Dillon Malone, Barrister-at-Law, instructed by S. Lucey, Solicitor,
+—
+Ireland, by E. Creedon and D. McGuinness, acting as Agents, assisted by E. Regan, Senior Counsel, and D. Fennelly, Barrister-at-Law,
+—
+the Austrian Government, by G. Hesse and G. Kunnert, acting as Agents,
+—
+the Spanish Government, by N. Díaz Abad, acting as Agent,
+—
+the French Government, by G. de Bergues and D. Colas and by B. Beaupère-Manokha, acting as Agents,
+—
+the Italian Government, by G. Palmieri, acting as Agent, assisted by A. De Stefano, avvocato dello Stato,
+—
+the Polish Government, by B. Majczyna and M. Szpunar, acting as Agents,
+—
+the Portuguese Government, by L. Inez Fernandes and C. Vieira Guerra, acting as Agents,
+—
+the United Kingdom Government, by L. Christie, acting as Agent, assisted by S. Lee, Barrister,
+—
+the European Parliament, by U. Rösslein and A. Caiola and by K. Zejdová, acting as Agents,
+—
+the Council of the European Union, by J. Monteiro and E. Sitbon and by I. Šulce, acting as Agents,
+—
+the European Commission, by D. Maidani, B. Martenczuk and M. Wilderspin, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2013,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the validity of Directive 2006/24/EC of the European Parliament and of the Council of March on the retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communications networks and amending Directive 2002/58/EC (OJ L 105, p. 54).
+The request made by the High Court (Case C‑293/12) concerns proceedings between (i) Digital Rights Ireland Ltd. (‘Digital Rights’) and (ii) the Minister for Communications, Marine and Natural Resources, the Minister for Justice, Equality and Law Reform, the Commissioner of the Garda Síochána, Ireland and the Attorney General, regarding the legality of national legislative and administrative measures concerning the retention of data relating to electronic communications.
+The request made by the Verfassungsgerichtshof (Constitutional Court) (Case C‑594/12) concerns constitutional actions brought before that court by the Kärntner Landesregierung (Government of the Province of Carinthia) and by Mr Seitlinger, Mr Tschohl and other applicants regarding the compatibility with the Federal Constitutional Law (Bundes-Verfassungsgesetz) of the law transposing Directive 2006/into Austrian national law.
+Legal context
+Directive 95/46/EC
+The object of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31), according to Article 1(1) thereof, is to protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with regard to the processing of personal data.
+As regards the security of processing such data, Article 17(1) of that directive provides:
+‘Member States shall provide that the controller must implement appropriate technical and organi[s]ational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.
+Having regard to the state of the art and the cost of their implementation, such measures shall ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be protected.’
+Directive 2002/58/EC
+The aim of Directive 2002/58/EC of the European Parliament and of the Council of July concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications), as amended by Directive 2009/136/EC of the European Parliament and of the Council of November (OJ L 337, p. 11, ‘Directive 2002/58), according to Article 1(1) thereof, is to harmonise the provisions of the Member States required to ensure an equivalent level of protection of fundamental rights and freedoms, and in particular the right to privacy and to confidentiality, with respect to the processing of personal data in the electronic communication sector and to ensure the free movement of such data and of electronic communication equipment and services in the European Union. According to Article 1(2), the provisions of that directive particularise and complement Directive 95/for the purposes mentioned in Article 1(1).
+As regards the security of data processing, Article of Directive 2002/provides:
+‘1.   The provider of a publicly available electronic communications service must take appropriate technical and organisational measures to safeguard security of its services, if necessary in conjunction with the provider of the public communications network with respect to network security. Having regard to the state of the art and the cost of their implementation, these measures shall ensure a level of security appropriate to the risk presented.
+1a.   Without prejudice to Directive 95/46/EC, the measures referred to in paragraph shall at least:
+—
+ensure that personal data can be accessed only by authorised personnel for legally authorised purposes,
+—
+protect personal data stored or transmitted against accidental or unlawful destruction, accidental loss or alteration, and unauthorised or unlawful storage, processing, access or disclosure, and,
+—
+ensure the implementation of a security policy with respect to the processing of personal data,
+Relevant national authorities shall be able to audit the measures taken by providers of publicly available electronic communication services and to issue recommendations about best practices concerning the level of security which those measures should achieve.
+2.   In case of a particular risk of a breach of the security of the network, the provider of a publicly available electronic communications service must inform the subscribers concerning such risk and, where the risk lies outside the scope of the measures to be taken by the service provider, of any possible remedies, including an indication of the likely costs involved.’
+As regards the confidentiality of the communications and of the traffic data, Article 5(1) and (3) of that directive provide:
+‘1.   Member States shall ensure the confidentiality of communications and the related traffic data by means of a public communications network and publicly available electronic communications services, through national legislation. In particular, they shall prohibit listening, tapping, storage or other kinds of interception or surveillance of communications and the related traffic data by persons other than users, without the consent of the users concerned, except when legally authorised to do so in accordance with Article 15(1). This paragraph shall not prevent technical storage which is necessary for the conveyance of a communication without prejudice to the principle of confidentiality.
+…
+3.   Member States shall ensure that the storing of information, or the gaining of access to information already stored, in the terminal equipment of a subscriber or user is only allowed on condition that the subscriber or user concerned has given his or her consent, having been provided with clear and comprehensive information, in accordance with Directive 95/46/EC, inter alia, about the purposes of the processing. This shall not prevent any technical storage or access for the sole purpose of carrying out the transmission of a communication over an electronic communications network, or as strictly necessary in order for the provider of an information society service explicitly requested by the subscriber or user to provide the service.’
+Article 6(1) of Directive 2002/states:
+‘Traffic data relating to subscribers and users processed and stored by the provider of a public communications network or publicly available electronic communications service must be erased or made anonymous when it is no longer needed for the purpose of the transmission of a communication without prejudice to paragraphs 2, and of this Article and Article 15(1).’
+Article of Directive 2002/states in paragraph 1:
+‘Member States may adopt legislative measures to restrict the scope of the rights and obligations provided for in Article 5, Article 6, Article 8(1), (2), (3) and (4), and Article of this Directive when such restriction constitutes a necessary, appropriate and proportionate measure within a democratic society to safeguard national security (i.e. State security), defence, public security, and the prevention, investigation, detection and prosecution of criminal offences or of unauthorised use of the electronic communication system, as referred to in Article 13(1) of Directive 95/46/EC. To this end, Member States may, inter alia, adopt legislative measures providing for the retention of data for a limited period justified on the grounds laid down in this paragraph. All the measures referred to in this paragraph shall be in accordance with the general principles of Community law, including those referred to in Article 6(1) and (2) of the Treaty on European Union.’
+Directive 2006/After having launched a consultation with representatives of law enforcement authorities, the electronic communications industry and data protection experts, on September the Commission presented an impact assessment of policy options in relation to the rules on the retention of traffic data (‘the impact assessment’). That assessment served as the basis for the drawing up of the proposal for a directive of the European Parliament and of the Council on the retention of data processed in connection with the provision of public electronic communication services and amending Directive 2002/58/EC (COM(2005) final, ‘the proposal for a directive’), also presented on September 2005, which led to the adoption of Directive 2006/on the basis of Article EC.
+Recital in the preamble to Directive 2006/states:
+‘Article 15(1) of Directive 2002/58/EC sets out the conditions under which Member States may restrict the scope of the rights and obligations provided for in Article 5, Article 6, Article 8(1), (2), (3) and (4), and Article of that Directive. Any such restrictions must be necessary, appropriate and proportionate within a democratic society for specific public order purposes, i.e. to safeguard national security (i.e. State security), defence, public security or the prevention, investigation, detection and prosecution of criminal offences or of unauthorised use of the electronic communications systems.’
+According to the first sentence of recital in the preamble to Directive 2006/24, ‘[s]everal Member States have adopted legislation providing for the retention of data by service providers for the prevention, investigation, detection, and prosecution of criminal offences’.
+Recitals to in the preamble to Directive 2006/read as follows:
+‘(7)
+The Conclusions of the Justice and Home Affairs Council of December underline that, because of the significant growth in the possibilities afforded by electronic communications, data relating to the use of electronic communications are particularly important and therefore a valuable tool in the prevention, investigation, detection and prosecution of criminal offences, in particular organised crime.
+(8)
+The Declaration on Combating Terrorism adopted by the European Council on March instructed the Council to examine measures for establishing rules on the retention of communications traffic data by service providers.
+(9)
+Under Article of the European Convention for the Protection of Human Rights and Fundamental Freedoms (ECHR) [signed in Rome on November 1950], everyone has the right to respect for his private life and his correspondence. Public authorities may interfere with the exercise of that right only in accordance with the law and where necessary in a democratic society, inter alia, in the interests of national security or public safety, for the prevention of disorder or crime, or for the protection of the rights and freedoms of others. Because retention of data has proved to be such a necessary and effective investigative tool for law enforcement in several Member States, and in particular concerning serious matters such as organised crime and terrorism, it is necessary to ensure that retained data are made available to law enforcement authorities for a certain period, subject to the conditions provided for in this Directive. …
+(10)
+On July 2005, the Council reaffirmed in its declaration condemning the terrorist attacks on London the need to adopt common measures on the retention of telecommunications data as soon as possible.
+(11)
+Given the importance of traffic and location data for the investigation, detection, and prosecution of criminal offences, as demonstrated by research and the practical experience of several Member States, there is a need to ensure at European level that data that are generated or processed, in the course of the supply of communications services, by providers of publicly available electronic communications services or of a public communications network are retained for a certain period, subject to the conditions provided for in this Directive.’
+Recitals 16, and in the preamble to Directive 2006/state:
+‘(16)
+The obligations incumbent on service providers concerning measures to ensure data quality, which derive from Article of Directive 95/46/EC, and their obligations concerning measures to ensure confidentiality and security of processing of data, which derive from Articles and of that Directive, apply in full to data being retained within the meaning of this Directive.
+(21)
+Since the objectives of this Directive, namely to harmonise the obligations on providers to retain certain data and to ensure that those data are available for the purpose of the investigation, detection and prosecution of serious crime, as defined by each Member State in its national law, cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale and effects of this Directive, be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+(22)
+This Directive respects the fundamental rights and observes the principles recognised, in particular, by the Charter of Fundamental Rights of the European Union. In particular, this Directive, together with Directive 2002/58/EC, seeks to ensure full compliance with citizens' fundamental rights to respect for private life and communications and to the protection of their personal data, as enshrined in Articles and of the Charter.’
+Directive 2006/lays down the obligation on the providers of publicly available electronic communications services or of public communications networks to retain certain data which are generated or processed by them. In that context, Articles to 9, and of the directive state:
+‘Article Subject matter and scope
+1.   This Directive aims to harmonise Member States’ provisions concerning the obligations of the providers of publicly available electronic communications services or of public communications networks with respect to the retention of certain data which are generated or processed by them, in order to ensure that the data are available for the purpose of the investigation, detection and prosecution of serious crime, as defined by each Member State in its national law.
+2.   This Directive shall apply to traffic and location data on both legal entities and natural persons and to the related data necessary to identify the subscriber or registered user. It shall not apply to the content of electronic communications, including information consulted using an electronic communications network.
+Article Definitions
+1.   For the purpose of this Directive, the definitions in Directive 95/46/EC, in Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework Directive) …, and in Directive 2002/58/EC shall apply.
+2.   For the purpose of this Directive:
+(a)
+“data” means traffic data and location data and the related data necessary to identify the subscriber or user;
+(b)
+“user” means any legal entity or natural person using a publicly available electronic communications service, for private or business purposes, without necessarily having subscribed to that service;
+(c)
+“telephone service” means calls (including voice, voicemail and conference and data calls), supplementary services (including call forwarding and call transfer) and messaging and multi-media services (including short message services, enhanced media services and multi-media services);
+(d)
+“user ID” means a unique identifier allocated to persons when they subscribe to or register with an Internet access service or Internet communications service;
+(e)
+“cell ID” means the identity of the cell from which a mobile telephony call originated or in which it terminated;
+(f)
+“unsuccessful call attempt” means a communication where a telephone call has been successfully connected but not answered or there has been a network management intervention.
+Article Obligation to retain data
+1.   By way of derogation from Articles 5, and of Directive 2002/58/EC, Member States shall adopt measures to ensure that the data specified in Article of this Directive are retained in accordance with the provisions thereof, to the extent that those data are generated or processed by providers of publicly available electronic communications services or of a public communications network within their jurisdiction in the process of supplying the communications services concerned.
+2.   The obligation to retain data provided for in paragraph shall include the retention of the data specified in Article relating to unsuccessful call attempts where those data are generated or processed, and stored (as regards telephony data) or logged (as regards Internet data), by providers of publicly available electronic communications services or of a public communications network within the jurisdiction of the Member State concerned in the process of supplying the communication services concerned. This Directive shall not require data relating to unconnected calls to be retained.
+Article Access to data
+Member States shall adopt measures to ensure that data retained in accordance with this Directive are provided only to the competent national authorities in specific cases and in accordance with national law. The procedures to be followed and the conditions to be fulfilled in order to gain access to retained data in accordance with necessity and proportionality requirements shall be defined by each Member State in its national law, subject to the relevant provisions of EU law or public international law, and in particular the ECHR as interpreted by the European Court of Human Rights.
+Article Categories of data to be retained
+1.   Member States shall ensure that the following categories of data are retained under this Directive:
+(a)
+data necessary to trace and identify the source of a communication:
+(1)
+concerning fixed network telephony and mobile telephony:
+(i)
+the calling telephone number;
+(ii)
+the name and address of the subscriber or registered user;
+(2)
+concerning Internet access, Internet e-mail and Internet telephony:
+(i)
+the user ID(s) allocated;
+(ii)
+the user ID and telephone number allocated to any communication entering the public telephone network;
+(iii)
+the name and address of the subscriber or registered user to whom an Internet Protocol (IP) address, user ID or telephone number was allocated at the time of the communication;
+(b)
+data necessary to identify the destination of a communication:
+(1)
+concerning fixed network telephony and mobile telephony:
+(i)
+the number(s) dialled (the telephone number(s) called), and, in cases involving supplementary services such as call forwarding or call transfer, the number or numbers to which the call is routed;
+(ii)
+the name(s) and address(es) of the subscriber(s) or registered user(s);
+(2)
+concerning Internet e-mail and Internet telephony:
+(i)
+the user ID or telephone number of the intended recipient(s) of an Internet telephony call;
+(ii)
+the name(s) and address(es) of the subscriber(s) or registered user(s) and user ID of the intended recipient of the communication;
+(c)
+data necessary to identify the date, time and duration of a communication:
+(1)
+concerning fixed network telephony and mobile telephony, the date and time of the start and end of the communication;
+(2)
+concerning Internet access, Internet e-mail and Internet telephony:
+(i)
+the date and time of the log-in and log-off of the Internet access service, based on a certain time zone, together with the IP address, whether dynamic or static, allocated by the Internet access service provider to a communication, and the user ID of the subscriber or registered user;
+(ii)
+the date and time of the log-in and log-off of the Internet e-mail service or Internet telephony service, based on a certain time zone;
+(d)
+data necessary to identify the type of communication:
+(1)
+concerning fixed network telephony and mobile telephony: the telephone service used;
+(2)
+concerning Internet e-mail and Internet telephony: the Internet service used;
+(e)
+data necessary to identify users’ communication equipment or what purports to be their equipment:
+(1)
+concerning fixed network telephony, the calling and called telephone numbers;
+(2)
+concerning mobile telephony:
+(i)
+the calling and called telephone numbers;
+(ii)
+the International Mobile Subscriber Identity (IMSI) of the calling party;
+(iii)
+the International Mobile Equipment Identity (IMEI) of the calling party;
+(iv)
+the IMSI of the called party;
+(v)
+the IMEI of the called party;
+(vi)
+in the case of pre-paid anonymous services, the date and time of the initial activation of the service and the location label (Cell ID) from which the service was activated;
+3)
+concerning Internet access, Internet e-mail and Internet telephony:
+(i)
+the calling telephone number for dial-up access;
+(ii)
+the digital subscriber line (DSL) or other end point of the originator of the communication;
+(f)
+data necessary to identify the location of mobile communication equipment:
+(1)
+the location label (Cell ID) at the start of the communication;
+(2)
+data identifying the geographic location of cells by reference to their location labels (Cell ID) during the period for which communications data are retained.
+2.   No data revealing the content of the communication may be retained pursuant to this Directive.
+Article Periods of retention
+Member States shall ensure that the categories of data specified in Article are retained for periods of not less than six months and not more than two years from the date of the communication.
+Article Data protection and data security
+Without prejudice to the provisions adopted pursuant to Directive 95/46/EC and Directive 2002/58/EC, each Member State shall ensure that providers of publicly available electronic communications services or of a public communications network respect, as a minimum, the following data security principles with respect to data retained in accordance with this Directive:
+(a)
+the retained data shall be of the same quality and subject to the same security and protection as those data on the network;
+(b)
+the data shall be subject to appropriate technical and organisational measures to protect the data against accidental or unlawful destruction, accidental loss or alteration, or unauthorised or unlawful storage, processing, access or disclosure;
+(c)
+the data shall be subject to appropriate technical and organisational measures to ensure that they can be accessed by specially authorised personnel only;
+and
+(d)
+the data, except those that have been accessed and preserved, shall be destroyed at the end of the period of retention.
+Article Storage requirements for retained data
+Member States shall ensure that the data specified in Article are retained in accordance with this Directive in such a way that the data retained and any other necessary information relating to such data can be transmitted upon request to the competent authorities without undue delay.
+Article Supervisory authority
+1.   Each Member State shall designate one or more public authorities to be responsible for monitoring the application within its territory of the provisions adopted by the Member States pursuant to Article regarding the security of the stored data. Those authorities may be the same authorities as those referred to in Article of Directive 95/46/EC.
+2.   The authorities referred to in paragraph shall act with complete independence in carrying out the monitoring referred to in that paragraph.
+…
+Article Amendment of Directive 2002/58/EC
+The following paragraph shall be inserted in Article of Directive 2002/58/EC:
+“1a.   Paragraph shall not apply to data specifically required by [Directive 2006/24/EC] to be retained for the purposes referred to in Article 1(1) of that Directive.”
+…
+Article Remedies, liability and penalties
+1.   Each Member State shall take the necessary measures to ensure that the national measures implementing Chapter III of Directive 95/46/EC providing for judicial remedies, liability and sanctions are fully implemented with respect to the processing of data under this Directive.
+2.   Each Member State shall, in particular, take the necessary measures to ensure that any intentional access to, or transfer of, data retained in accordance with this Directive that is not permitted under national law adopted pursuant to this Directive is punishable by penalties, including administrative or criminal penalties, that are effective, proportionate and dissuasive.’
+The actions in the main proceedings and the questions referred for a preliminary ruling
+Case C‑293/On August 2006, Digital Rights brought an action before the High Court in which it claimed that it owned a mobile phone which had been registered on June and that it had used that mobile phone since that date. It challenged the legality of national legislative and administrative measures concerning the retention of data relating to electronic communications and asked the national court, in particular, to declare the invalidity of Directive 2006/and of Part of the Criminal Justice (Terrorist Offences) Act 2005, which requires telephone communications service providers to retain traffic and location data relating to those providers for a period specified by law in order to prevent, detect, investigate and prosecute crime and safeguard the security of the State.
+The High Court, considering that it was not able to resolve the questions raised relating to national law unless the validity of Directive 2006/had first been examined, decided to stay proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Is the restriction on the rights of the [p]laintiff in respect of its use of mobile telephony arising from the requirements of Articles 3, … and of Directive 2006/24/EC incompatible with [Article 5(4)] TEU in that it is disproportionate and unnecessary or inappropriate to achieve the legitimate aims of:
+(a)
+Ensuring that certain data are available for the purposes of investigation, detection and prosecution of serious crime?
+and/or
+(b)
+Ensuring the proper functioning of the internal market of the European Union?
+2.
+Specifically,
+(i)
+Is Directive 2006/compatible with the right of citizens to move and reside freely within the territory of the Member States laid down in Article TFEU?
+(ii)
+Is Directive 2006/compatible with the right to privacy laid down in Article of the [Charter of Fundamental Rights of the European Union (“the Charter”)] and Article ECHR?
+(iii)
+Is Directive 2006/compatible with the right to the protection of personal data laid down in Article of the Charter?
+(iv)
+Is Directive 2006/compatible with the right to freedom of expression laid down in Article of the Charter and Article ECHR?
+(v)
+Is Directive 2006/compatible with the right to [g]ood [a]dministration laid down in Article of the Charter?
+3.
+To what extent do the Treaties — and specifically the principle of loyal cooperation laid down in [Article 4(3) TEU] — require a national court to inquire into, and assess, the compatibility of the national implementing measures for [Directive 2006/24] with the protections afforded by the [Charter], including Article thereof (as informed by Article of the ECHR)?’
+Case C–594/The origin of the request for a preliminary ruling in Case C‑594/lies in several actions brought before the Verfassungsgerichtshof by the Kärntner Landesregierung and by Mr Seitlinger, Mr Tschohl and other applicants, respectively, seeking the annulment of Paragraph 102a of the Law on telecommunications (Telekommunikationsgesetz 2003), which was inserted into that Law by the federal law amending it (Bundesgesetz, mit dem das Telekommunikationsgesetz — TKG geändert wird, BGBl I, 27/2011) for the purpose of transposing Directive 2006/into Austrian national law. They take the view, inter alia, that Article 102a of the Telekommunikationsgesetz infringes the fundamental right of individuals to the protection of their data.
+The Verfassungsgerichtshof wonders, in particular, whether Directive 2006/is compatible with the Charter in so far as it allows the storing of many types of data in relation to an unlimited number of persons for a long time. The Verfassungsgerichtshof takes the view that the retention of data affects almost exclusively persons whose conduct in no way justifies the retention of data relating to them. Those persons are exposed to a greater risk that authorities will investigate the data relating to them, become acquainted with the content of those data, find out about their private lives and use those data for multiple purposes, having regard in particular to the unquantifiable number of persons having access to the data for a minimum period of six months. According to the referring court, there are doubts as to whether that directive is able to achieve the objectives which it pursues and as to the proportionality of the interference with the fundamental rights concerned.
+In those circumstances the Verfassungsgerichtshof decided to stay proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Concerning the validity of acts of institutions of the European Union:
+Are Articles to of [Directive 2006/24] compatible with Articles 7, and of the [Charter]?
+2.
+Concerning the interpretation of the Treaties:
+(a)
+In the light of the explanations relating to Article of the Charter, which, according to Article 52(7) of the Charter, were drawn up as a way of providing guidance in the interpretation of the Charter and to which regard must be given by the Verfassungsgerichtshof, must [Directive 95/46] and Regulation (EC) No 45/of the European Parliament and of the Council [of December 2000] on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data [OJ L 8, p. 1] be taken into account, for the purposes of assessing the permissibility of interference, as being of equal standing to the conditions under Article 8(2) and Article 52(1) of the Charter?
+(b)
+What is the relationship between “Union law”, as referred to in the final sentence of Article 52(3) of the Charter, and the directives in the field of the law on data protection?
+(c)
+In view of the fact that [Directive 95/26] and Regulation … No 45/contain conditions and restrictions with a view to safeguarding the fundamental right to data protection under the Charter, must amendments resulting from subsequent secondary law be taken into account for the purpose of interpreting Article of the Charter?
+(d)
+Having regard to Article 52(4) of the Charter, does it follow from the principle of the preservation of higher levels of protection in Article of the Charter that the limits applicable under the Charter in relation to permissible restrictions must be more narrowly circumscribed by secondary law?
+(e)
+Having regard to Article 52(3) of the Charter, the fifth paragraph in the preamble thereto and the explanations in relation to Article of the Charter, according to which the rights guaranteed in that article correspond to those guaranteed by Article of the [ECHR], can assistance be derived from the case-law of the European Court of Human Rights for the purpose of interpreting Article of the Charter such as to influence the interpretation of that latter article?’
+By decision of the President of the Court of June 2013, Cases C‑293/and C‑594/were joined for the purposes of the oral procedure and the judgment.
+Consideration of the questions referred
+The second question, parts (b) to (d), in Case C‑293/and the first question in Case C‑594/By the second question, parts (b) to (d), in Case C‑293/and the first question in Case C‑594/12, which should be examined together, the referring courts are essentially asking the Court to examine the validity of Directive 2006/in the light of Articles 7, and of the Charter.
+The relevance of Articles 7, and of the Charter with regard to the question of the validity of Directive 2006/It follows from Article and recitals 4, 5, to 11, and of Directive 2006/that the main objective of that directive is to harmonise Member States’ provisions concerning the retention, by providers of publicly available electronic communications services or of public communications networks, of certain data which are generated or processed by them, in order to ensure that the data are available for the purpose of the prevention, investigation, detection and prosecution of serious crime, such as organised crime and terrorism, in compliance with the rights laid down in Articles and of the Charter.
+The obligation, under Article of Directive 2006/24, on providers of publicly available electronic communications services or of public communications networks to retain the data listed in Article of the directive for the purpose of making them accessible, if necessary, to the competent national authorities raises questions relating to respect for private life and communications under Article of the Charter, the protection of personal data under Article of the Charter and respect for freedom of expression under Article of the Charter.
+In that regard, it should be observed that the data which providers of publicly available electronic communications services or of public communications networks must retain, pursuant to Articles and of Directive 2006/24, include data necessary to trace and identify the source of a communication and its destination, to identify the date, time, duration and type of a communication, to identify users’ communication equipment, and to identify the location of mobile communication equipment, data which consist, inter alia, of the name and address of the subscriber or registered user, the calling telephone number, the number called and an IP address for Internet services. Those data make it possible, in particular, to know the identity of the person with whom a subscriber or registered user has communicated and by what means, and to identify the time of the communication as well as the place from which that communication took place. They also make it possible to know the frequency of the communications of the subscriber or registered user with certain persons during a given period.
+Those data, taken as a whole, may allow very precise conclusions to be drawn concerning the private lives of the persons whose data has been retained, such as the habits of everyday life, permanent or temporary places of residence, daily or other movements, the activities carried out, the social relationships of those persons and the social environments frequented by them.
+In such circumstances, even though, as is apparent from Article 1(2) and Article 5(2) of Directive 2006/24, the directive does not permit the retention of the content of the communication or of information consulted using an electronic communications network, it is not inconceivable that the retention of the data in question might have an effect on the use, by subscribers or registered users, of the means of communication covered by that directive and, consequently, on their exercise of the freedom of expression guaranteed by Article of the Charter.
+The retention of data for the purpose of possible access to them by the competent national authorities, as provided for by Directive 2006/24, directly and specifically affects private life and, consequently, the rights guaranteed by Article of the Charter. Furthermore, such a retention of data also falls under Article of the Charter because it constitutes the processing of personal data within the meaning of that article and, therefore, necessarily has to satisfy the data protection requirements arising from that article (Cases C‑92/and C‑93/Volker und Markus Schecke and Eifert
+EU:C:2010:662, paragraph 47).
+Whereas the references for a preliminary ruling in the present cases raise, in particular, the question of principle as to whether or not, in the light of Article of the Charter, the data of subscribers and registered users may be retained, they also concern the question of principle as to whether Directive 2006/meets the requirements for the protection of personal data arising from Article of the Charter.
+In the light of the foregoing considerations, it is appropriate, for the purposes of answering the second question, parts (b) to (d), in Case C‑293/and the first question in Case C‑594/12, to examine the validity of the directive in the light of Articles and of the Charter.
+Interference with the rights laid down in Articles and of the Charter
+By requiring the retention of the data listed in Article 5(1) of Directive 2006/and by allowing the competent national authorities to access those data, Directive 2006/24, as the Advocate General has pointed out, in particular, in paragraphs and of his Opinion, derogates from the system of protection of the right to privacy established by Directives 95/and 2002/with regard to the processing of personal data in the electronic communications sector, directives which provided for the confidentiality of communications and of traffic data as well as the obligation to erase or make those data anonymous where they are no longer needed for the purpose of the transmission of a communication, unless they are necessary for billing purposes and only for as long as so necessary.
+To establish the existence of an interference with the fundamental right to privacy, it does not matter whether the information on the private lives concerned is sensitive or whether the persons concerned have been inconvenienced in any way (see, to that effect, Cases C‑465/00, C‑138/and C‑139/Österreichischer Rundfunk and Others
+EU:C:2003:294, paragraph 75).
+As a result, the obligation imposed by Articles and of Directive 2006/on providers of publicly available electronic communications services or of public communications networks to retain, for a certain period, data relating to a person’s private life and to his communications, such as those referred to in Article of the directive, constitutes in itself an interference with the rights guaranteed by Article of the Charter.
+Furthermore, the access of the competent national authorities to the data constitutes a further interference with that fundamental right (see, as regards Article of the ECHR, Eur. Court H.R., Leander v. Sweden, March 1987, § 48, Series A no 116; Rotaru v. Romania [GC], no. 28341/95, § 46, ECHR 2000-V; and Weber and Saravia v. Germany (dec.), no. 54934/00, § 79, ECHR 2006-XI). Accordingly, Articles and of Directive 2006/laying down rules relating to the access of the competent national authorities to the data also constitute an interference with the rights guaranteed by Article of the Charter.
+Likewise, Directive 2006/constitutes an interference with the fundamental right to the protection of personal data guaranteed by Article of the Charter because it provides for the processing of personal data.
+It must be stated that the interference caused by Directive 2006/with the fundamental rights laid down in Articles and of the Charter is, as the Advocate General has also pointed out, in particular, in paragraphs and of his Opinion, wide-ranging, and it must be considered to be particularly serious. Furthermore, as the Advocate General has pointed out in paragraphs and of his Opinion, the fact that data are retained and subsequently used without the subscriber or registered user being informed is likely to generate in the minds of the persons concerned the feeling that their private lives are the subject of constant surveillance.
+Justification of the interference with the rights guaranteed by Articles and of the Charter
+Article 52(1) of the Charter provides that any limitation on the exercise of the rights and freedoms laid down by the Charter must be provided for by law, respect their essence and, subject to the principle of proportionality, limitations may be made to those rights and freedoms only if they are necessary and genuinely meet objectives of general interest recognised by the Union or the need to protect the rights and freedoms of others.
+So far as concerns the essence of the fundamental right to privacy and the other rights laid down in Article of the Charter, it must be held that, even though the retention of data required by Directive 2006/constitutes a particularly serious interference with those rights, it is not such as to adversely affect the essence of those rights given that, as follows from Article 1(2) of the directive, the directive does not permit the acquisition of knowledge of the content of the electronic communications as such.
+Nor is that retention of data such as to adversely affect the essence of the fundamental right to the protection of personal data enshrined in Article of the Charter, because Article of Directive 2006/provides, in relation to data protection and data security, that, without prejudice to the provisions adopted pursuant to Directives 95/and 2002/58, certain principles of data protection and data security must be respected by providers of publicly available electronic communications services or of public communications networks. According to those principles, Member States are to ensure that appropriate technical and organisational measures are adopted against accidental or unlawful destruction, accidental loss or alteration of the data.
+As regards the question of whether that interference satisfies an objective of general interest, it should be observed that, whilst Directive 2006/aims to harmonise Member States’ provisions concerning the obligations of those providers with respect to the retention of certain data which are generated or processed by them, the material objective of that directive is, as follows from Article 1(1) thereof, to ensure that the data are available for the purpose of the investigation, detection and prosecution of serious crime, as defined by each Member State in its national law. The material objective of that directive is, therefore, to contribute to the fight against serious crime and thus, ultimately, to public security.
+It is apparent from the case-law of the Court that the fight against international terrorism in order to maintain international peace and security constitutes an objective of general interest (see, to that effect, Cases C‑402/P and C‑415/P Kadi and Al Barakaat International Foundation v Council and Commission
+EU:C:2008:461, paragraph 363, and Cases C‑539/P and C‑550/P Al-Aqsa v Council
+EU:C:2012:711, paragraph 130). The same is true of the fight against serious crime in order to ensure public security (see, to that effect, Case C‑145/Tsakouridis
+EU:C:2010:708, paragraphs and 47). Furthermore, it should be noted, in this respect, that Article of the Charter lays down the right of any person not only to liberty, but also to security.
+In this respect, it is apparent from recital in the preamble to Directive 2006/that, because of the significant growth in the possibilities afforded by electronic communications, the Justice and Home Affairs Council of December concluded that data relating to the use of electronic communications are particularly important and therefore a valuable tool in the prevention of offences and the fight against crime, in particular organised crime.
+It must therefore be held that the retention of data for the purpose of allowing the competent national authorities to have possible access to those data, as required by Directive 2006/24, genuinely satisfies an objective of general interest.
+In those circumstances, it is necessary to verify the proportionality of the interference found to exist.
+In that regard, according to the settled case-law of the Court, the principle of proportionality requires that acts of the EU institutions be appropriate for attaining the legitimate objectives pursued by the legislation at issue and do not exceed the limits of what is appropriate and necessary in order to achieve those objectives (see, to that effect, Case C‑343/Afton Chemical
+EU:C:2010:419, paragraph 45; Volker und Markus Schecke and Eifert
+EU:C:2010:662, paragraph 74; Cases C‑581/and C‑629/Nelson and Others
+EU:C:2012:657, paragraph 71; Case C‑283/Sky Österreich
+EU:C:2013:28, paragraph 50; and Case C‑101/Schaible
+EU:C:2013:661, paragraph 29).
+With regard to judicial review of compliance with those conditions, where interferences with fundamental rights are at issue, the extent of the EU legislature’s discretion may prove to be limited, depending on a number of factors, including, in particular, the area concerned, the nature of the right at issue guaranteed by the Charter, the nature and seriousness of the interference and the object pursued by the interference (see, by analogy, as regards Article of the ECHR, Eur. Court H.R., S. and Marper v. the United Kingdom [GC], nos. 30562/and 30566/04, § 102, ECHR 2008-V).
+In the present case, in view of the important role played by the protection of personal data in the light of the fundamental right to respect for private life and the extent and seriousness of the interference with that right caused by Directive 2006/24, the EU legislature’s discretion is reduced, with the result that review of that discretion should be strict.
+As regards the question of whether the retention of data is appropriate for attaining the objective pursued by Directive 2006/24, it must be held that, having regard to the growing importance of means of electronic communication, data which must be retained pursuant to that directive allow the national authorities which are competent for criminal prosecutions to have additional opportunities to shed light on serious crime and, in this respect, they are therefore a valuable tool for criminal investigations. Consequently, the retention of such data may be considered to be appropriate for attaining the objective pursued by that directive.
+That assessment cannot be called into question by the fact relied upon in particular by Mr Tschohl and Mr Seitlinger and by the Portuguese Government in their written observations submitted to the Court that there are several methods of electronic communication which do not fall within the scope of Directive 2006/or which allow anonymous communication. Whilst, admittedly, that fact is such as to limit the ability of the data retention measure to attain the objective pursued, it is not, however, such as to make that measure inappropriate, as the Advocate General has pointed out in paragraph of his Opinion.
+As regards the necessity for the retention of data required by Directive 2006/24, it must be held that the fight against serious crime, in particular against organised crime and terrorism, is indeed of the utmost importance in order to ensure public security and its effectiveness may depend to a great extent on the use of modern investigation techniques. However, such an objective of general interest, however fundamental it may be, does not, in itself, justify a retention measure such as that established by Directive 2006/being considered to be necessary for the purpose of that fight.
+So far as concerns the right to respect for private life, the protection of that fundamental right requires, according to the Court’s settled case-law, in any event, that derogations and limitations in relation to the protection of personal data must apply only in so far as is strictly necessary (Case C‑473/IPI
+EU:C:2013:715, paragraph and the case-law cited).
+In that regard, it should be noted that the protection of personal data resulting from the explicit obligation laid down in Article 8(1) of the Charter is especially important for the right to respect for private life enshrined in Article of the Charter.
+Consequently, the EU legislation in question must lay down clear and precise rules governing the scope and application of the measure in question and imposing minimum safeguards so that the persons whose data have been retained have sufficient guarantees to effectively protect their personal data against the risk of abuse and against any unlawful access and use of that data (see, by analogy, as regards Article of the ECHR, Eur. Court H.R., Liberty and Others v. the United Kingdom, July 2008, no. 58243/00, § and 63; Rotaru v. Romania, § to 59, and S. and Marper v. the United Kingdom, § 99).
+The need for such safeguards is all the greater where, as laid down in Directive 2006/24, personal data are subjected to automatic processing and where there is a significant risk of unlawful access to those data (see, by analogy, as regards Article of the ECHR, S. and Marper v. the United Kingdom, § 103, and M. K. v. France, April 2013, no. 19522/09, § 35).
+As for the question of whether the interference caused by Directive 2006/is limited to what is strictly necessary, it should be observed that, in accordance with Article read in conjunction with Article 5(1) of that directive, the directive requires the retention of all traffic data concerning fixed telephony, mobile telephony, Internet access, Internet e-mail and Internet telephony. It therefore applies to all means of electronic communication, the use of which is very widespread and of growing importance in people’s everyday lives. Furthermore, in accordance with Article of Directive 2006/24, the directive covers all subscribers and registered users. It therefore entails an interference with the fundamental rights of practically the entire European population.
+In this respect, it must be noted, first, that Directive 2006/covers, in a generalised manner, all persons and all means of electronic communication as well as all traffic data without any differentiation, limitation or exception being made in the light of the objective of fighting against serious crime.
+Directive 2006/affects, in a comprehensive manner, all persons using electronic communications services, but without the persons whose data are retained being, even indirectly, in a situation which is liable to give rise to criminal prosecutions. It therefore applies even to persons for whom there is no evidence capable of suggesting that their conduct might have a link, even an indirect or remote one, with serious crime. Furthermore, it does not provide for any exception, with the result that it applies even to persons whose communications are subject, according to rules of national law, to the obligation of professional secrecy.
+Moreover, whilst seeking to contribute to the fight against serious crime, Directive 2006/does not require any relationship between the data whose retention is provided for and a threat to public security and, in particular, it is not restricted to a retention in relation (i) to data pertaining to a particular time period and/or a particular geographical zone and/or to a circle of particular persons likely to be involved, in one way or another, in a serious crime, or (ii) to persons who could, for other reasons, contribute, by the retention of their data, to the prevention, detection or prosecution of serious offences.
+Secondly, not only is there a general absence of limits in Directive 2006/but Directive 2006/also fails to lay down any objective criterion by which to determine the limits of the access of the competent national authorities to the data and their subsequent use for the purposes of prevention, detection or criminal prosecutions concerning offences that, in view of the extent and seriousness of the interference with the fundamental rights enshrined in Articles and of the Charter, may be considered to be sufficiently serious to justify such an interference. On the contrary, Directive 2006/simply refers, in Article 1(1), in a general manner to serious crime, as defined by each Member State in its national law.
+Furthermore, Directive 2006/does not contain substantive and procedural conditions relating to the access of the competent national authorities to the data and to their subsequent use. Article of the directive, which governs the access of those authorities to the data retained, does not expressly provide that that access and the subsequent use of the data in question must be strictly restricted to the purpose of preventing and detecting precisely defined serious offences or of conducting criminal prosecutions relating thereto; it merely provides that each Member State is to define the procedures to be followed and the conditions to be fulfilled in order to gain access to the retained data in accordance with necessity and proportionality requirements.
+In particular, Directive 2006/does not lay down any objective criterion by which the number of persons authorised to access and subsequently use the data retained is limited to what is strictly necessary in the light of the objective pursued. Above all, the access by the competent national authorities to the data retained is not made dependent on a prior review carried out by a court or by an independent administrative body whose decision seeks to limit access to the data and their use to what is strictly necessary for the purpose of attaining the objective pursued and which intervenes following a reasoned request of those authorities submitted within the framework of procedures of prevention, detection or criminal prosecutions. Nor does it lay down a specific obligation on Member States designed to establish such limits.
+Thirdly, so far as concerns the data retention period, Article of Directive 2006/requires that those data be retained for a period of at least six months, without any distinction being made between the categories of data set out in Article of that directive on the basis of their possible usefulness for the purposes of the objective pursued or according to the persons concerned.
+Furthermore, that period is set at between a minimum of months and a maximum of months, but it is not stated that the determination of the period of retention must be based on objective criteria in order to ensure that it is limited to what is strictly necessary.
+It follows from the above that Directive 2006/does not lay down clear and precise rules governing the extent of the interference with the fundamental rights enshrined in Articles and of the Charter. It must therefore be held that Directive 2006/entails a wide-ranging and particularly serious interference with those fundamental rights in the legal order of the EU, without such an interference being precisely circumscribed by provisions to ensure that it is actually limited to what is strictly necessary.
+Moreover, as far as concerns the rules relating to the security and protection of data retained by providers of publicly available electronic communications services or of public communications networks, it must be held that Directive 2006/does not provide for sufficient safeguards, as required by Article of the Charter, to ensure effective protection of the data retained against the risk of abuse and against any unlawful access and use of that data. In the first place, Article of Directive 2006/does not lay down rules which are specific and adapted to (i) the vast quantity of data whose retention is required by that directive, (ii) the sensitive nature of that data and (iii) the risk of unlawful access to that data, rules which would serve, in particular, to govern the protection and security of the data in question in a clear and strict manner in order to ensure their full integrity and confidentiality. Furthermore, a specific obligation on Member States to establish such rules has also not been laid down.
+Article of Directive 2006/24, read in conjunction with Article 4(1) of Directive 2002/and the second subparagraph of Article 17(1) of Directive 95/46, does not ensure that a particularly high level of protection and security is applied by those providers by means of technical and organisational measures, but permits those providers in particular to have regard to economic considerations when determining the level of security which they apply, as regards the costs of implementing security measures. In particular, Directive 2006/does not ensure the irreversible destruction of the data at the end of the data retention period.
+In the second place, it should be added that that directive does not require the data in question to be retained within the European Union, with the result that it cannot be held that the control, explicitly required by Article 8(3) of the Charter, by an independent authority of compliance with the requirements of protection and security, as referred to in the two previous paragraphs, is fully ensured. Such a control, carried out on the basis of EU law, is an essential component of the protection of individuals with regard to the processing of personal data (see, to that effect, Case C‑614/Commission v Austria
+EU:C:2012:631, paragraph 37).
+Having regard to all the foregoing considerations, it must be held that, by adopting Directive 2006/24, the EU legislature has exceeded the limits imposed by compliance with the principle of proportionality in the light of Articles 7, and 52(1) of the Charter.
+In those circumstances, there is no need to examine the validity of Directive 2006/in the light of Article of the Charter.
+Consequently, the answer to the second question, parts (b) to (d), in Case C‑293/and the first question in Case C‑594/is that Directive 2006/is invalid.
+The first question and the second question, parts (a) and (e), and the third question in Case C‑293/and the second question in Case C‑594/It follows from what was held in the previous paragraph that there is no need to answer the first question, the second question, parts (a) and (e), and the third question in Case C‑293/or the second question in Case C‑594/12.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national courts, the decision on costs is a matter for those courts. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Grand Chamber) hereby rules:
+ 
+Directive 2006/24/EC of the European Parliament and of the Council of March on the retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communications networks and amending Directive 2002/58/EC is invalid.
+ 
+[Signatures]
+(
+*)   Languages of the case: English and German.
+Top  
+ 

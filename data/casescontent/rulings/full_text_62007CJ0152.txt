@@ -1,0 +1,376 @@
+
+Joined Cases C-152/to C-154/Arcor AG & Co. KG and Others 
+v
+Bundesrepublik Deutschland
+(References for a preliminary ruling from the Bundesverwaltungsgericht)
+(Telecommunications – Networks and services – Tariff rebalancing – Article 4c of Directive 90/388/EEC – Article 7(2) of Directive 97/33/EC – Article 12(7) of Directive 98/61/EC – Regulatory authority – Direct effect of directives – Triangular situation)
+Summary of the Judgment
+1.        Approximation of laws – Telecommunications – Directives 90/and 97/(European Parliament and Council Directive 97/33, Art. 12(7); Commission Directives 90/388, Art. 4c, and 96/19, recitals and in the preamble)
+2.        Approximation of laws – Telecommunications – Directives 90/and 97/(European Parliament and Council Directive 97/33, Art. 12(7); Commission Directive 90/388, Art. 4c)
+3.        Acts of the institutions – Directives – Direct effect 
+(Art. EC)
+1.        Article 12(7) of Directive 97/on interconnection in telecommunications with regard to ensuring universal service and interoperability
+         through application of the principles of open network provision, as amended by Directive 98/61, and Article 4c of Directive
+         90/on competition in the markets for telecommunications services, as amended by Directive 96/19, the latter article read
+         in conjunction with recitals and in the preamble to Directive 96/19, must be interpreted as precluding a national regulatory
+         authority from requiring an operator of a network interconnected with a public network to pay to the market-dominant subscriber
+         network operator a connection charge which is additional to an interconnection charge and is intended to compensate the latter
+         operator for the deficit incurred as a result of providing the local loop for the year 2003.
+      
+First, such a connection charge is within the scope of Article 12(7) of Directive 97/and must therefore be subject to the
+         same pricing conditions as the interconnection charge stricto sensu, namely with due regard to the principle of the cost orientation of tariffs. That principle, laid down in Article 7(2) of
+         Directive 97/33, requires that the charge be derived from actual costs. Consequently, Article 12(7) of Directive 97/does
+         not allow a national regulatory authority to approve a connection charge the rate of which is not cost-oriented, when it has
+         the same characteristics as an interconnection charge and is levied as a supplement to such a charge.
+      
+Secondly, the effect of such a charge is only to protect the market-dominant subscriber network operator by enabling it to
+         maintain a cost for the calls of its own subscribers which is below the actual cost and, accordingly, to fund its own deficit
+         from the subscribers of the other operators of interconnected networks. Such funding, which is separate from any funding of
+         universal service obligations, is contrary to the principle of free competition.
+      
+Thirdly, the establishment of such a charge is not permissible when it comes after January 2000, the final date for completion
+         of tariff rebalancing by the Member States, as is clear from recital in the preamble to Directive 96/read in conjunction
+         with recital therein and from Article 4c of Directive 90/388.
+      
+(see paras 22-24, 28-33, operative part 1)
+2.        Article 4c of Directive 90/388, as amended by Directive 96/19, and Article 12(7) of Directive 97/on interconnection in
+         telecommunications with regard to ensuring universal service and interoperability through application of the principles of
+         open network provision, as amended by Directive 98/61, produce direct effect and can be relied on directly before a national
+         court by individuals to challenge a decision of the national regulatory authority. That applies to actions brought by private
+         persons against a Member State, represented by the national regulatory authority, which has sole competence to set the rates
+         of both the connection charge and the interconnection charge to which the former is added. That possibility is not affected
+         by the fact that the market-dominant subscriber network operator, a third party in relation to the dispute between the public
+         telecommunications network operators and the regulatory authority, is capable of suffering adverse repercussions because it
+         levied the connection charge and because, if that charge were removed, it would have to increase its own subscribers’ rates.
+      
+(see paras 37-38, operative part 2)
+3.        A directive cannot of itself impose obligations on an individual, but can only confer rights. Consequently, an individual
+         may not rely on a directive against a Member State where it is a matter of a State obligation directly linked to the performance
+         of another obligation falling, pursuant to that directive, on a third party. On the other hand, mere adverse repercussions
+         on the rights of third parties, even if the repercussions are certain, do not justify preventing an individual from relying
+         on the provisions of a directive against the Member State concerned.
+      
+(see paras 35-36, 40)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+July (*)
+      
+(Telecommunications – Networks and services – Tariff rebalancing – Article 4c of Directive 90/388/EEC – Article 7(2) of Directive 97/33/EC – Article 12(7) of Directive 98/61/EC – Regulatory authority – Direct effect of directives – Triangular situation)
+In Joined Cases C‑152/to C‑154/07,
+THREE REFERENCES for a preliminary ruling under Article EC from the Bundesverwaltungsgericht (Germany), made by decisions
+         of December 2006, received at the Court on March 2007, in the proceedings
+      
+Arcor AG & Co. KG (C‑152/07),
+      
+Communication Services TELEGmbH (C‑153/07),
+      
+Firma Telekom GmbH (C‑154/07)
+      
+v
+Bundesrepublik Deutschland,
+intervening party:
+Deutsche Telekom AG,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, P. Jann, C.W.A. Timmermans, A. Rosas, K. Lenaerts and L. Bay Larsen, Presidents of Chambers,
+         K. Schiemann, J. Makarczyk, P. Kūris (Rapporteur), E. Juhász, A. Ó Caoimh, P. Lindh and J.-C. Bonichot, Judges,
+      
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: K. Sztranc-Sławiczek, Administrator,
+having regard to the written procedure and further to the hearing on February 2008,
+after considering the observations submitted on behalf of:
+–        Arcor AG & Co. KG, by T. Bosch and D. Herrmann, Rechtsanwälte,
+–        Communication Services TELEGmbH, by P. Rädler, Rechtsanwalt,
+–        Firma Telekom GmbH, by M. Schütze and M. Salevic, Rechtsanwälte,
+–        the German Government, by J. Scherer and J. Hagelberg, Rechtsanwälte,
+–        Deutsche Telekom AG, by T. Mayen and U. Karpenstein, Rechtsanwälte,
+–        the United Kingdom Government, by V. Jackson and M. Hoskins, acting as Agents,
+–        the Commission of the European Communities, by G. Braun and K. Mojzesowicz, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on April 2008,
+gives the following
+Judgment
+These references for a preliminary ruling relate to the interpretation of, first, Commission Directive 90/388/EEC of June
+         on competition in the markets for telecommunications services (OJ L 192, p. 10), as amended by Commission Directive
+         96/19/EC of March (OJ L 74, p. 13) (‘Directive 90/388’), and, secondly, Directive 97/33/EC of the European Parliament
+         and of the Council of June on interconnection in telecommunications with regard to ensuring universal service and
+         interoperability through application of the principles of open network provision (ONP) (OJ L 199, p. 32), as amended
+         by Directive 98/61/EC of the European Parliament and of the Council of September (OJ L 268, p. 37) (‘Directive
+         97/33’).
+      
+The references were made in three sets of appeal proceedings on a point of law (‘Revision’) in which the parties were (i)
+         Arcor AG & Co. KG (‘Arcor’), (ii) Communication Services TELEGmbH (‘TELE2’) and (iii) Firma Telekom GmbH (‘Telekom’),
+         all operators of public telecommunications networks, on the one hand, the Bundesrepublik Deutschland, represented by the Bundesnetzagentur
+         für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Federal Agency for Electricity, Gas, Telecommunications, Post
+         and Rail Networks; ‘the regulatory authority’), on the other, and, as an intervening party, Deutsche Telekom AG (‘Deutsche
+         Telekom’), and which concerned a decision of the regulatory authority of April approving, as from July 2003, a connection
+         charge of EUR 0.per minute in respect of call charges for the provision of calls originating in Deutsche Telekom’s national
+         telephone network to an interconnection partner operating as a carrier for local calls (‘the Telekom-B(local) facility’).
+         
+      
+ Legal context
+ Community legislation
+Recital in the preamble to Directive 96/states:
+      
+‘... In order to allow telecommunications organisations to complete their preparation for competition and in particular to
+         pursue the necessary rebalancing of tariffs, Member States may continue the current special and exclusive rights regarding
+         the provision of voice telephony until January 1998. Member States with less developed networks or with very small networks
+         must be eligible for a temporary exception where this is warranted by the need to carry out structural adjustments and strictly
+         only to the extent necessary for those adjustments. Such Member States should be granted, upon request, an additional transitional
+         period respectively of up to five and of up to two years, provided it is necessary to complete the necessary structural adjustments.
+         The Member States which may request such an exception are Spain, Ireland, Greece and Portugal with regard to less developed
+         networks and Luxembourg with regard to very small networks. …’
+      
+Recital in the preamble to Directive 96/states:
+      
+‘... Member States should phase out as rapidly as possible all unjustified restrictions on tariff rebalancing by the telecommunications
+         organisations and in particular those preventing the adaptation of rates which are not in line with costs and increase the
+         burden of universal service provision. ...’
+      
+The third paragraph of Article 4c of Directive 90/388, inserted by Article 1(6) of Directive 96/19, provides:
+      
+‘Member States shall allow their telecommunications organisations to rebalance tariffs taking account of specific market conditions
+         and of the need to ensure the affordability of a universal service, and, in particular, Member States shall allow them to
+         adapt current rates which are not in line with costs and which increase the burden of universal service provision, in order
+         to achieve tariffs based on real costs. Where such rebalancing cannot be completed before January the Member States
+         concerned shall report to the Commission on the future phasing‑out of the remaining tariff imbalances. This shall include
+         a detailed timetable for implementation.’ 
+      
+Article 7(2) of Directive 97/is worded as follows:
+      
+‘Charges for interconnection shall follow the principles of transparency and cost orientation. The burden of proof that charges
+         are derived from actual costs including a reasonable rate of return on investment shall lie with the organisation providing
+         interconnection to its facilities. National regulatory authorities may request an organisation to provide full justification
+         for its interconnection charges, and where appropriate shall require charges to be adjusted. This paragraph shall also apply
+         to organisations set out in Part of Annex I which have been notified by national regulatory authorities as having significant
+         market power on the national market for interconnection.’
+      
+Article 12(7) of Directive 97/33, added by Directive 98/61, states:
+      
+‘National regulatory authorities shall require at least organisations operating public telecommunications networks as set
+         out in Part of Annex I and notified by national regulatory authorities as organisations having significant market power,
+         to enable their subscribers, including those using ISDN [integrated services digital network], to access the switched services
+         of any interconnected provider of publicly available telecommunications services. For this purpose facilities shall be in
+         place by January at the latest or, in those countries which have been granted an additional transition period, as soon
+         as possible thereafter, but no later than two years after any later date agreed for full liberalisation of voice telephony
+         services, which allow the subscriber to choose these services by means of preselection with a facility to override any preselected
+         choice on a call-by-call basis by dialling a short prefix. 
+      
+National regulatory authorities shall ensure that pricing for interconnection related to the provision of this facility is
+         cost-orientated and that direct charges to consumers, if any, do not act as a disincentive for the use of this facility.’
+      
+ National legislation
+Paragraph 43(6) of the Law on telecommunications (Telekommunikationsgesetz) of July (BGBl. I, p. 1120; the ‘TKG
+         1996’), as amended by the First Law amending the Law on telecommunications (Erste Gesetz zur Änderung des Telekommunikationsgesetzes)
+         of October (BGB1. I, p. 4186), provides:
+      
+‘Operators of public telecommunications networks in a dominant position within the meaning of Paragraph of the Law on restriction
+         of competition [(Gesetz gegen Wettbewerbsbeschränkungen)] must, pursuant to the third sentence, ensure on their networks that
+         each user has the opportunity to choose telecommunications services of all operators of public telecommunications networks
+         which are directly interconnected, either by selecting the carrier on an individual basis by dialling a given prefix or by
+         means of carrier preselection, provided however, in the latter case, that there is the facility on each call to override the
+         preselected choice by dialling the prefix of another carrier. The user must also be able to introduce different presettings
+         for local and long-distance calls. In the implementation of the interconnection of networks which must be carried out to meet
+         that obligation, it must be ensured that, when decisions are taken pursuant to the third, fourth and sixth parts of this Law,
+         there is no disincentive to effective investment in infrastructure equipment to guarantee stronger competition in the long
+         term and it must also be ensured that the existing network is used effectively through interconnection at the lowest level.
+         In doing so, it is necessary in particular to ensure that the network operator [carrier] chosen by the user bears a reasonable
+         share of the costs of the local loop provided to the user. The regulatory authority may suspend, in whole or in part, the
+         obligation laid down in the first sentence, for as long as and to the extent that this is technically justified. As regards
+         the operators of mobile telephone networks, the obligation to facilitate carrier selection or preselection shall be suspended.
+         That obligation will be reconsidered on transposition of the requirements of Article 19(2) of Directive 2002/22/EC of the
+         European Parliament and of the Council of March on universal service and users’ rights relating to electronic communications
+         networks and services [Universal Service Directive] (OJ L 108, p. 51).’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+It is clear from the orders for reference that, by decision of April 2003, upon application by Deutsche Telekom, the regulatory
+         authority approved, as from July until November 2003, a connection charge of EUR 0.per minute in respect of
+         call charges for the Telekom-B(local) facility. That approval extended to all the interconnections agreed or ordered up
+         to May 2003. The ground for that decision, taken on the basis of the fourth sentence of Paragraph 43(6) of the TKG 1996,
+         was the fact that the costs of the local loop would not have been covered by revenue derived from provision of the loop, with
+         the result that there would have been a deficit.
+      
+The regulatory authority, by decision of September 2003, revoked the decision of April 2003, on the ground that Deutsche
+         Telekom no longer had any connection cost deficit, since an increase in the price paid by the end‑user for provision of the
+         local loop had been approved in the interim.
+      
+Arcor, TELEand Telekom each brought an action against the decision of April before the Verwaltungsgericht
+         Köln (Administrative Court, Cologne).
+      
+By judgments of November 2005, that court annulled that decision.
+      
+Appeals on a point of law (‘Revision’) against those judgments were brought before the Bundesverwaltungsgericht (Federal Administrative
+         Court) by all the parties to the main proceedings in Case C‑152/and by the defendants and interveners in the main proceedings
+         in Cases C‑153/and C‑154/07.
+      
+In those circumstances, the Bundesverwaltungsgericht, in the three cases in the main proceedings, decided to stay proceedings
+         and to refer to the Court the following questions for a preliminary ruling:
+      
+‘(1)      Are Directive 90/… and Directive 97/… to be interpreted as precluding the national regulatory authority from requiring,
+         in 2003, the operator of a network interconnected with a public telecommunications subscriber network to pay a contribution
+         to the market-dominant operator of the subscriber network in order to compensate that operator for the deficit incurred as
+         a result of providing the local loop?
+      
+(2)      If the answer to the first question is in the affirmative, is the incompatibility with Community law of such a requirement,
+         which is a provision of domestic law, to be taken into account by the national court in proceedings concerning the approval
+         of a contribution by the interconnected network operator?’
+      
+By order of June 2007, the President of the Court ordered the joinder of Cases C‑152/to C‑154/for the purposes of
+         the written and oral procedure and the judgment.
+      
+ The questions referred for a preliminary ruling
+ The first question 
+By its first question, the referring court essentially asks whether Directives 90/and 97/preclude a national regulatory
+         authority from being able to require an operator of a network interconnected with a public network to pay to the market-dominant
+         subscriber network operator a charge intended to compensate the latter operator for the deficit incurred as a result of providing
+         the local loop.
+      
+It is undisputed that the connection charge at issue in the main proceedings, imposed pursuant to the fourth sentence of Paragraph
+         43(6) of the TKG 1996, is separate from and paid in addition to the interconnection charge, which is based on another provision
+         of the TKG 1996, namely Paragraph 39. The principle of that connection charge was introduced when Directive 98/was transposed
+         into German law. The amount of the connection charge is calculated by reference to the deficit incurred by Deutsche Telekom
+         as a result of the fact that revenue generated by provision of the local loop does not cover the costs associated with the
+         effective provision of that loop.
+      
+According to the referring court, the obligation to contribute to the costs of the local loop falls on the interconnected
+         network operator (carrier) chosen by the subscriber by direct selection or by preselection. That obligation can be seen however
+         as compensation for the deficit arising from the costs of provision of the local loop on the part of Deutsche Telekom, the
+         market-dominant subscriber network operator, and not as consideration for a service provided by Deutsche Telekom to the interconnected
+         network operator.
+      
+The purpose therefore of the connection charge at issue in the main proceedings is to provide additional remuneration in the
+         form of a contribution to the costs of providing the local loop which are not covered by ‘customer’ charges. The charge is
+         payable solely by the operators of networks which have concluded an interconnection agreement with Deutsche Telekom concerning
+         carrier direct selection or preselection services on the local networks.
+      
+It is clear from Article 12(7) of Directive 97/that national regulatory authorities are to ensure that pricing for interconnection
+         related to the provision of voice telephony services, which allow the subscriber to choose those services by means of preselection,
+         with a facility to override any preselected choice on a call‑by‑call basis by dialling a short prefix, is cost-oriented and
+         that direct charges do not act as a disincentive to the consumer for the use of this facility.
+      
+It is however clear that the connection charge at issue in the main proceedings, which is dependent on the existence of an
+         interconnection agreement in respect of carrier preselection services, is paid by the interconnected network operators and
+         that it comes at a time of increased liberalisation of the telecommunications market.
+      
+It follows that the charge is within the scope of Article 12(7) of Directive 97/and must therefore be subject to the same
+         pricing conditions as the interconnection charge stricto sensu, namely with due regard to the principle of the cost orientation of tariffs.
+      
+That principle, laid down in Article 7(2) of Directive 97/33, requires that charges be derived from actual costs.
+      
+Consequently, it is clear that Article 12(7) of Directive 97/does not allow a national regulatory authority to approve
+         a connection charge the rate of which is not cost-oriented, when it has the same characteristics as an interconnection charge
+         and is levied as a supplement to such a charge. 
+      
+Moreover, it is also undisputed that Deutsche Telekom’s tariff rebalancing, intended to adapt its rates to actual costs and
+         to bring to an end the form of cross‑subsidisation from subscriber line rental fees, as reported by the referring court, consisting
+         in the use of a proportion of the fees paid by end‑users for connection services as compensation for the deficit relating
+         to the costs of local loop provision, was initiated in 1996, but was not completed in 2002.
+      
+It is moreover equally uncontested that universal service obligations have not been defined in Germany and have therefore
+         not been imposed on Deutsche Telekom, since the needs to be met by such obligations have been met through normal market forces.
+      
+None the less, to ensure that those needs continue to be met through the forces of the free market, it is necessary to ensure
+         that the rules of competition are maintained and safeguarded.
+      
+It is evident, first, that the existence of a connection charge such as that at issue in the main proceedings makes it possible
+         in fact for the deficit of the market‑dominant subscriber network operator to be funded by the subscribers of the other operators
+         of interconnected networks and, secondly, that such funding, which is separate from any funding of universal service obligations,
+         is contrary to the principle of free competition.
+      
+Contrary to what is contended by Deutsche Telekom, it is not obvious that the charge serves to prevent distortions of competition
+         between operators which have invested in a telecommunications network and other operators which are new entrants to the local
+         market. It is not disputed that the effect of the connection charge at issue in the main proceedings is only to protect the
+         market-dominant subscriber network operator by enabling it to maintain a cost for the calls of its own subscribers which is
+         below the actual cost and, accordingly, to fund its own deficit.
+      
+Moreover, although Article 4c of Directive 90/does not lay down a period within which the obligation to rebalance tariffs
+         must be fulfilled, the fact remains that several elements of Directive 96/indicate that the rebalancing was to be carried
+         out at a sustained rate in order to facilitate the opening of the telecommunications market to competition. Indeed, it is
+         clear from recital in the preamble to Directive 96/in conjunction with recital therein, and from Article 4c of Directive
+         90/388, that the Member States were bound to bring an end to restrictions on rebalancing as soon as possible after the entry
+         into force of Directive 96/19, and at the latest by January (see Case C‑500/Commission v Spain [2004] ECR I‑583, paragraph 32). Failing completion of that rebalancing before January 1998, the Member States were bound
+         to send a report to the Commission on their plans for the phasing‑out of the remaining tariff imbalances, that report to contain
+         a detailed timetable for implementation of those plans. That phase was to be completed before January 2000.
+      
+However, it is clear that Paragraph 43(6) of the TKG 1996, in the version taking effect on December 2002, comes after January 2000, the final date for completion of that tariff rebalancing, while the Federal Republic of Germany has not submitted
+         any rebalancing plan to the Commission. In any event, a provision such as that in the fourth sentence of Paragraph 43(6) does
+         not encourage the subscriber network operator in receipt of the connection charge to take steps to eliminate the deficit incurred
+         by adjusting its rates.
+      
+It follows that Directive 90/does not allow a national regulatory authority to approve the levy, by the market-dominant
+         subscriber network operator, of a connection charge which is additional to the interconnection charge for the year 2003.
+      
+It follows from all of the foregoing that the answer to the first question must be that Article 12(7) of Directive 97/and
+         Article 4c of Directive 90/388, the latter read in conjunction with recitals and in the preamble to Directive 96/19,
+         must be interpreted as precluding a national regulatory authority from requiring an operator of a network interconnected with
+         a public network to pay to the market-dominant subscriber network operator a connection charge which is additional to an interconnection
+         charge and is intended to compensate the latter operator for the deficit incurred as a result of providing the local loop
+         for the year 2003.
+      
+ The second question
+In the light of the answer given to the first question, an answer must be given to the second question, by which the referring
+         court asks essentially whether, in circumstances such as those of the main proceedings, an individual can rely before that
+         court on Article 4c of Directive 90/and Article 12(7) of Directive 97/33.
+      
+It should be recalled that, according to settled case-law, a directive cannot of itself impose obligations on an individual,
+         but can only confer rights. Consequently, an individual may not rely on a directive against a Member State where it is a matter
+         of a State obligation directly linked to the performance of another obligation falling, pursuant to that directive, on a third
+         party (see Case C‑201/Wells [2004] ECR I‑723, paragraph and case‑law cited).
+      
+On the other hand, mere adverse repercussions on the rights of third parties, even if the repercussions are certain, do not
+         justify preventing an individual from relying on the provisions of a directive against the Member State concerned (see Wells, paragraph and case‑law cited).
+      
+In the main proceedings, as pointed out by the Advocate General at point of his Opinion, the actions before the referring
+         court have been brought by private persons against the Member State concerned, represented by the national regulatory authority
+         which made the contested decision and has sole competence to set the rates of both the connection charge at issue in the main
+         proceedings and the interconnection charge to which the former is added.
+      
+It is clear that Deutsche Telekom is a third party in relation to the dispute before the referring court and is capable only
+         of suffering adverse repercussions because it levied the connection charge at issue in the main proceedings and because, if
+         that charge were removed, it would have to increase its own subscribers’ rates. Such a removal of benefits cannot be regarded
+         as an obligation falling on a third party pursuant to the directives relied on before the referring court by the appellants
+         in the main proceedings.
+      
+Having regard to the foregoing, the Court must determine whether Article 4c of Directive 90/and Article 12(7) of Directive
+         97/fulfil the conditions necessary to produce direct effect.
+      
+It is clear from settled case-law that, whenever the provisions of a directive appear, so far as their subject-matter is concerned,
+         to be unconditional and sufficiently precise, they may be relied upon before the national courts by individuals against the
+         Member State where it has failed to implement the directive correctly (see Joined Cases C‑397/to C‑403/Pfeiffer and Others [2004] ECR I‑8835, paragraph and case‑law cited).
+      
+First, the third paragraph of Article 4c of Directive 90/satisfies those criteria, given that it is clear that tariff
+         rebalancing must, as a general rule, be completed before January or at the latest by January 2000, and that that
+         obligation is unconditional.
+      
+Secondly, the same is true of Article 12(7) of Directive 97/33, since that provision defines the restrictions to which charges
+         such as those at issue in the main proceedings are subject.
+      
+Consequently, the provisions of Article 4c of Directive 90/and Article 12(7) of Directive 97/fulfil all the conditions
+         necessary to produce direct effect.
+      
+It follows from all of the foregoing that the answer to the second question referred must be that Article 4c of Directive
+         90/and Article 12(7) of Directive 97/produce direct effect and can be relied on directly before a national court by
+         individuals to challenge a decision of the national regulatory authority.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the actions pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+1.      Article 12(7) of Directive 97/33/EC of the European Parliament and of the Council of June on interconnection in telecommunications
+            with regard to ensuring universal service and interoperability through application of the principles of open network provision
+            (ONP), as amended by Directive 98/61/EC of the European Parliament and of the Council of September 1998, and Article 4c
+            of Commission Directive 90/388/EEC of June on competition in the markets for telecommunications services, as amended
+            by Commission Directive 96/19/EC of March 1996, the latter article read in conjunction with recitals and in the preamble
+            to Directive 96/19, must be interpreted as precluding a national regulatory authority from requiring an operator of a network
+            interconnected with a public network to pay to the market-dominant subscriber network operator a connection charge which is
+            additional to an interconnection charge and is intended to compensate the latter operator for the deficit incurred as a result
+            of providing the local loop for the year 2003.
+2.      Article 4c of Directive 90/388, as amended by Directive 96/19, and Article 12(7) of Directive 97/33, as amended by Directive
+            98/61, produce direct effect and can be relied on directly before a national court by individuals to challenge a decision
+            of the national regulatory authority. 
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

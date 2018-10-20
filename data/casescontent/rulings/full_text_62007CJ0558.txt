@@ -1,0 +1,507 @@
+
+Case C-558/The Queen, on the application of: 
+S.P.C.M. SA and Others
+v
+Secretary of State for the Environment, Food and Rural Affairs
+(Reference for a preliminary ruling from the High Court of Justice (England and Wales), Queen’s Bench Division (Administrative
+         Court))
+      
+(Regulation (EC) No 1907/– Chemicals – Registration, evaluation, authorisation and restriction of chemicals (REACH) – Concept of ‘monomer substances’ – Validity – Proportionality – Equal treatment)
+Summary of the Judgment
+1.        Approximation of laws – Regulation, evaluation, authorisation and restriction of chemicals – REACH Regulation
+(European Parliament and Council Directive 1907/2006, Arts 2(9), 3(5) and (6), and 6(1) to (3))
+2.        Approximation of laws – Regulation, evaluation, authorisation and restriction of chemicals – REACH Regulation
+(European Parliament and Council Regulation No 1907/2006, Art. 6(3))
+1.        The concept of ‘monomer substances’ in Article 6(3) of Regulation No 1907/concerning the Registration, Evaluation, Authorisation
+         and Restriction of Chemicals (REACH) relates only to reacted monomers which are integrated in polymers.
+      
+Article of that regulation sets out a general principle of registration, irrespective of whether substances are manufactured
+         or imported. According to Article 6(1) and (2) unreacted monomers must be registered inasmuch as they constitute, under Article
+         3(6) of that regulation, substances on their own. By contrast, polymers are, in accordance with Article 2(9) of that regulation,
+         excluded from the registration obligation. Therefore, since, first, in accordance with Article 3(5), polymers are composed
+         of monomer units, second, a monomer is a ‘substance’ when it is in an unreacted form, and third, according to Article 6(3)
+         that registration concerns monomer substances or any other substances which are constituents of polymers, it follows that
+         registration concerns only reacted monomer substances. 
+      
+(see paras 20-21, 23-24, 27, 30-31, operative part 1)
+2.        The main purpose of the obligation to register laid down in Article 6(3) of Regulation No 1907/concerning the Registration,
+         Evaluation, Authorisation and Restriction of Chemicals is to ensure a high level of protection of human health and the environment.
+         As regards an area in which the Community legislature has a broad discretion, the legality of a measure adopted in that sphere
+         can be affected only if the measure is manifestly inappropriate. 
+      
+The obligation to register reacted monomers in polymers, first, serves to improve information for the public and professionals
+         down the supply chain as to the risks and consequently is a means of enhancing the protection of human health and the environment,
+         and second, prevents distortions of competition and thereby guarantees fair competition within the Community, since that obligation
+         is imposed on Community manufacturers as well as manufacturers not established in the Community and on importers, which must
+         follow an identical procedure whether the products are manufactured in the Community or outside it. It follows that the burden
+         is not heavier for manufacturers not established in the Community or importers than it is for Community manufacturers. Therefore,
+         that obligation is an appropriate means by which to realise the objective of the regulation and does not go beyond what is
+         necessary to attain them and Article 6(3) of that regulation is not invalid on the ground that it infringes the principle
+         of proportionality.
+      
+Article 6(3) is not invalid on the ground that that principle of equal treatment has been infringed. First, the obligation
+         to register is identical for Community manufacturers and for importers. Second, reacted monomer substances in polymers manufactured
+         or imported into the Community are in a comparable situation since they are interchangeable or identical. Third, Community
+         manufacturers and importers are in a different situation as the former have knowledge of their products, whereas the latter
+         are dependent on the provision of information by suppliers outside Community territory, nevertheless, the identical treatment
+         required in those different situations is objectively justified by compliance with the competition rules applicable in the
+         internal market. If importers of reacted monomer substances were to be treated differently from manufacturers of those same
+         substances within the Community, the former would be treated more favourably than the latter. 
+      
+(see paras 42, 45, 49, 56, 58, 63, 67, 72, 75-80, operative part 2)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+July (*)
+      
+(Regulation (EC) No 1907/– Chemicals – Registration, evaluation, authorisation and restriction of chemicals (REACH) – Concept of ‘monomer substances’ – Validity – Proportionality – Equal treatment)
+In Case C‑558/07,
+REFERENCE for a preliminary ruling under Article EC from the High Court of Justice (England & Wales), Queen’s Bench Division
+         (Administrative Court) (United Kingdom), made by decision of October 2007, received at the Court on December 2007, in
+         the proceedings
+      
+The Queen, on the application of:
+      
+S.P.C.M. SA,
+C.H. Erbslöh KG,
+Lake Chemicals and Minerals Ltd,
+Hercules Inc.
+v
+Secretary of State for the Environment, Food and Rural Affairs,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, C.W.A. Timmermans, A. Rosas, K. Lenaerts, M. Ilešič, Presidents of Chambers, A. Tizzano,
+         J. N. Cunha Rodrigues, R. Silva de Lapuerta, P. Kūris (Rapporteur), J. Malenovský, J. Klučka, U. Lõhmus and J.‑J. Kasel, Judges,
+      
+Advocate General: J. Kokott,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on January 2009,
+after considering the observations submitted on behalf of:
+–        S.P.C.M. SA and Hercules Inc., by D. Vaughan, QC, D. Scannell, Barrister, M. Lohn, K. Van Maldegem and R. Cana, Solicitors,
+         
+      
+–        C.H. Erbslöh KG and Lake Chemicals and Minerals Ltd, by H. Scheidmann, U. Karpenstein and F. Bredt, Rechtsanwälte,
+–        the Polish Government, by M. Dowgielewicz, acting as Agent,
+–        the European Parliament, by I. Anagnostopoulou and A. Neergaard, acting as Agents,
+–        the Council of the European Union, by F. Florindo Gijón and G. Kimberley, acting as Agents,
+–        the Commission of the European Communities, by P. Oliver, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on March 2009,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation and validity of Article 6(3) of Regulation (EC) No 1907/of the European Parliament and of the Council of December concerning the Registration, Evaluation, Authorisation and
+         Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council
+         Regulation (EEC) No 793/and Commission Regulation (EC) No 1488/as well as Council Directive 76/769/EEC and Commission
+         Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, p. 1, and corrigendum OJ L 136, p. 3) (‘the
+         REACH Regulation’).
+      
+The reference has been made in the course of proceedings between, on the one hand, S.P.C.M. SA., an undertaking established
+         in France which manufactures water-soluble polymers used in the wastewater treatment industries, C.H. Erbslöh KG, an undertaking
+         established in Germany which is a distributor and wholesaler of specialty and industrial chemicals, including preparations
+         and polymers, Lake Chemicals and Minerals Ltd, a company incorporated under English law which imports chemicals, including
+         polymers and preparations, and Hercules Inc., a holding corporation established in the United States which supplies water-
+         and organo-soluble polymer-based products, and, on the other hand, the Secretary of State for the Environment, Food and Rural
+         Affairs, concerning the registration requirements applicable to monomer substances. 
+      
+ Legal background
+Recital in the preamble to the REACH Regulation provides:
+      
+‘This Regulation should ensure a high level of protection of human health and the environment as well as the free movement
+         of substances, on their own, in preparations and in articles, while enhancing competitiveness and innovation. …’
+      
+Recital in the preamble to that regulation states: 
+      
+‘This Regulation lays down specific duties and obligations on manufacturers, importers and downstream users of substances
+         on their own, in preparations and in articles. This Regulation is based on the principle that industry should manufacture,
+         import or use substances or place them on the market with such responsibility and care as may be required to ensure that,
+         under reasonably foreseeable conditions, human health and the environment are not adversely affected.’
+      
+Under Recital in the preamble to the REACH Regulation: 
+      
+‘… the registration provisions should require manufacturers and importers to generate data on the substances they manufacture
+         or import, to use these data to assess the risks related to these substances and to develop and recommend appropriate risk
+         management measures. …’
+      
+Recital in the preamble to the REACH Regulation is worded as follows: 
+      
+‘For reasons of workability and because of their special nature, specific registration requirements should be laid down for
+         intermediates. Polymers should be exempted from registration and evaluation until those that need to be registered due to
+         the risks posed to human health or the environment can be selected in a practicable and cost-efficient way on the basis of
+         sound technical and valid scientific criteria.’
+      
+Article of the REACH Regulation provides:
+      
+‘1. The purpose of this Regulation is to ensure a high level of protection of human health and the environment, including
+         the promotion of alternative methods for assessment of hazards of substances, as well as the free circulation of substances
+         on the internal market while enhancing competitiveness and innovation.
+      
+…
+3.       This Regulation is based on the principle that it is for manufacturers, importers and downstream users to ensure that they
+         manufacture, place on the market or use such substances that do not adversely affect human health or the environment. Its
+         provisions are underpinned by the precautionary principle.’
+      
+The scope of the REACH Regulation is defined in Article thereof. Article 2(9) provides that ‘[t]he provisions of Titles
+         II and VI shall not apply to polymers’.
+      
+Article of the REACH Regulation states:
+      
+‘For the purposes of this Regulation:
+(1)       Substance: means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including
+         any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent
+         which may be separated without affecting the stability of the substance or changing its composition; 
+      
+(2)      Preparation: means a mixture or solution composed of two or more substances;
+…
+(5)      Polymer: means a substance consisting of molecules characterised by the sequence of one or more types of monomer units. Such
+         molecules must be distributed over a range of molecular weights wherein differences in the molecular weight are primarily
+         attributable to differences in the number of monomer units. A polymer comprises the following:
+      
+(a)      a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other
+         monomer unit or other reactant;
+      
+(b)       less than a simple weight majority of molecules of the same molecular weight.
+In the context of this definition a “monomer unit” means the reacted form of a monomer substance in a polymer;
+(6)       Monomer: means a substance which is capable of forming covalent bonds with a sequence of additional like or unlike molecules
+         under the conditions of the relevant polymer-forming reaction used for the particular process;
+      
+…
+(9)       Manufacturer: means any natural or legal person established within the Community who manufactures a substance within the Community;
+…
+(11)  Importer: means any natural or legal person established within the Community who is responsible for import;
+…’
+Article of the REACH Regulation, entitled ‘No data, no market’, provides:
+      
+‘Subject to Articles 6, 7, and 23, substances on their own, in preparations or in articles shall not be manufactured in
+         the Community or placed on the market unless they have been registered in accordance with the relevant provisions of this
+         Title where this is required.’
+      
+Article of that regulation, entitled ‘General obligation to register substances on their own or in preparations’, provides
+         as follows:
+      
+‘1. Save where this Regulation provides otherwise, any manufacturer or importer of a substance, either on its own or in one
+         or more preparation(s), in quantities of tonne or more per year shall submit a registration to the [European Chemicals]
+         Agency. 
+      
+…
+3. Any manufacturer or importer of a polymer shall submit a registration to the [European Chemicals] Agency for the monomer
+         substance(s) or any other substance(s) that have not already been registered by an actor up the supply chain, if both the
+         following conditions are met:
+      
+(a)       the polymer consists of 2% weight by weight (w/w) or more of such monomer substance(s) or other substance(s) in the form of
+         monomeric units and chemically bound substance(s);
+      
+(b)       the total quantity of such monomer substance(s) or other substance(s) makes up tonne or more per year.
+…’
+Article of the REACH Regulation states:
+      
+‘1.       A natural or legal person established outside the Community who manufactures a substance on its own, in preparations or in
+         articles, formulates a preparation or produces an article that is imported into the Community may by mutual agreement appoint
+         a natural or legal person established in the Community to fulfil, as his only representative, the obligations on importers
+         under this Title.
+      
+2.       The representative shall also comply with all other obligations of importers under this Regulation. …
+3.      If a representative is appointed in accordance with paragraphs and 2, the non-Community manufacturer shall inform the importer(s)
+         within the same supply chain of the appointment. These importers shall be regarded as downstream users for the purposes of
+         this Regulation.’ 
+      
+Article of the REACH Regulation provides:
+      
+‘1.       Where a substance has previously been registered less than years earlier …, the potential registrant:
+(a)       shall, in the case of information involving tests on vertebrate animals; and
+(b)       may, in the case of information not involving tests on vertebrate animals,
+request from the previous registrant(s) the information he requires … in order to register.
+2.       When a request for information has been made according to paragraph 1, the potential and the previous registrant(s) as referred
+         to in paragraph shall make every effort to reach an agreement on the sharing of the information requested by the potential
+         registrant(s) … Such an agreement may be replaced by submission of the matter to an arbitration board and acceptance of the
+         arbitration order.
+      
+3.       The previous registrant and potential registrant(s) shall make every effort to ensure that the costs of sharing the information
+         are determined in a fair, transparent and non-discriminatory way. This may be facilitated by following cost-sharing guidance
+         based on those principles which is adopted by the [European Chemicals] Agency … Registrants are only required to share in
+         the costs of information that they are required to submit to satisfy their registration requirements.
+      
+…’
+Article 138(2) of the REACH Regulation provides: 
+      
+‘The Commission may present legislative proposals as soon as a practicable and cost-efficient way of selecting polymers for
+         registration on the basis of sound technical and valid scientific criteria can be established, and after publishing a report
+         on the following:
+      
+(a)       the risks posed by polymers in comparison with other substances;
+(b)      the need, if any, to register certain types of polymer, taking account of competitiveness and innovation, on the one hand,
+         and the protection of human health and the environment, on the other.’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+According to the referring court, the applicant companies in the main proceedings are challenging the interpretation and also
+         the validity of Article 6(3) of the REACH Regulation.
+      
+Relying on two expert opinions compiled by the Netherlands Organisation for Applied Scientific Research (TNO), the applicants
+         in the main proceedings submit that reacted monomers cease to exhibit their own individual chemical characteristics and that
+         polymers are generally stable and safe. In their view, it follows that, if the words ‘monomer substances’ in Article 6(3)
+         of the REACH Regulation were to mean or include reacted monomers, it would make no sense to exempt polymers from registration
+         while requiring the registration of monomer substances. Moreover, such an interpretation would, they argue, be inconsistent
+         with the objectives of that regulation and would be discriminatory and disproportionate.
+      
+The High Court of Justice (England & Wales), Queen’s Bench Division (Administrative Court) granted leave to the applicants
+         in the main proceedings to apply for judicial review and decided to stay proceedings and to refer the following questions
+         to the Court of Justice for a preliminary ruling:
+      
+‘1.      In light of the fact that the registration requirements in Title II of the [REACH] regulation do not apply to polymers by
+         virtue of Article 2(9) of the regulation, does the reference to “monomer substances” in Article 6(3) mean:
+      
+(a)      reacted monomers, that is, monomers which have reacted together such that they are indissociable from the polymer of which
+         they form part;
+      
+(b)      unreacted monomers, that is, monomers that are residual to the polymerisation process and which retain their own chemical
+         identities and properties separate from the polymer after that process is complete; or
+      
+(c)      both reacted and unreacted monomers?
+2.       If the answer to Question is either (a) or (c), is the application of Article 6(3) of the [REACH] regulation to manufacturers
+         or importers of polymers unlawful by reason that the requirements are irrational, discriminatory or disproportionate?’ 
+      
+ The questions referred for a preliminary ruling
+ The first question
+By its first question, the referring court seeks clarification of the concept of ‘monomer substance’ as used in Article 6(3)
+         of the REACH Regulation.
+      
+As a preliminary point, it must first be observed that, under that provision, the manufacturer or importer of a polymer must
+         submit a registration for the monomer substance(s) or any other substance(s) that have not already been registered by an actor
+         up the supply chain, if the polymer consists of 2% w/w or more of such monomer substance(s) or other substance(s) in the form
+         of monomeric units and the total quantity of such monomer substance(s) or other substance(s) makes up tonne or more per
+         year.
+      
+Second, unreacted monomers must, according to Article 6(1) and (2) of the REACH Regulation, be registered inasmuch as they
+         constitute substances on their own. By contrast, polymers are, in accordance with Article 2(9) of that regulation, excluded
+         from the registration obligation.
+      
+Next, it must be observed, first, that it is clear from the wording of Article 3(5) of the REACH Regulation that polymers
+         are composed of monomer units, which are defined as monomer substances in a reacted form. 
+      
+Second, under Article 3(6) of the regulation, a monomer, by contrast, is a ‘substance’ within the meaning of Article 3(1)
+         when it is in an unreacted form.
+      
+Third, it follows from Article 6(3) of the REACH Regulation that registration concerns monomer substances or any other substances
+         which are constituents of polymers.
+      
+Consequently, account being taken of the definition of polymer given in Article 3(5) of the REACH Regulation set out in paragraph
+         of the present judgment, registration concerns reacted monomer substances.
+      
+The fact that the words ‘monomeric units’ are used in Article 6(3) of the REACH Regulation rather than the words ‘monomer
+         units’, which appear in Article 3(5) of the English and French versions of the REACH Regulation, cannot affect that finding.
+      
+It is clear from the document of the Council of the European Union of November (No 13788/04, p. 5) that those words
+         were added at the request of the Kingdom of Sweden. The Swedish-language version of the REACH Regulation uses the same words
+         ‘monomer units’ in Articles 3(5) and 6(3) of the regulation.
+      
+It follows that the concept of ‘monomer substances’ in Article 6(3) of the REACH Regulation relates only to reacted monomers
+         which are incorporated in polymers.
+      
+That finding cannot be called into question by the examination of the general scheme of the regulation.
+      
+Contrary to the submissions of the applicants in the main proceedings, the obligation to register monomer substances is not
+         an exception to the exemption from registration which applies to polymers.
+      
+First, a reading of Recital in the preamble to the REACH Regulation confirms the obligation to register substances, irrespective
+         of whether they are manufactured or imported.
+      
+Second, Article of the REACH Regulation, entitled ‘General obligation to register substances on their own or in preparations’,
+         sets out a general principle of registration, and not of exemption.
+      
+Furthermore, it is also necessary to reject the argument put forward by the applicants in the main proceedings that an interpretation
+         such as that adopted in paragraph of the present judgment would render meaningless the exemption for polymers from the
+         obligation to register laid down in Article 2(9) of the REACH Regulation.
+      
+In that connection, it must be observed that Article 6(3) of that regulation refers to monomer substances which have not yet
+         been registered up the supply chain.
+      
+It follows that it is not polymers which are affected by the registration obligation but only monomer substances with their
+         own characteristics as they existed before polymerisation.
+      
+Finally, the conclusion set out in paragraph of this judgment is confirmed by the objectives of the REACH Regulation, as
+         defined by Recital in the preamble and Article 1(1) of the regulation, which consist in ensuring a high level of protection
+         of human health and the environment and the free movement of substances while enhancing competitiveness and innovation.
+      
+The obligation to register monomer substances is designed to protect human health and the environment since those substances
+         have inherent characteristics liable to have an adverse effect on them.
+      
+The objective of free movement of substances in the internal market while enhancing competitiveness and innovation is liable,
+         not to call into question the definition of ‘monomer substances’, but to affect the validity of Article 6(3) of the REACH
+         Regulation, which is the subject of the second question.
+      
+It follows from all of the foregoing that the answer to the first question is that the concept of ‘monomer substances’ in
+         Article 6(3) of the REACH Regulation relates only to reacted monomers which are integrated in polymers.
+      
+ The second question
+By its second question, the referring court asks essentially whether Article 6(3) of the REACH Regulation is invalid in so
+         far as it requires manufacturers and importers of polymers to submit an application for registration of monomer substances,
+         as defined in paragraph of the present judgment.
+      
+ The irrationality of Article 6(3) of the REACH Regulation
+This complaint must be regarded as coming under the complaint relating to the infringement of the principle of proportionality.
+      
+ Infringement of the principle of proportionality
+According to settled case-law, the principle of proportionality, which is one of the general principles of Community law,
+         requires that measures implemented through Community provisions should be appropriate for attaining the objective pursued
+         and must not go beyond what is necessary to achieve it (Case C-491/British American Tobacco (Investments) and Imperial Tobacco [2002] ECR I‑11453, paragraph and the case-law cited).
+      
+With regard to judicial review of the conditions referred to in the previous paragraph, the Community legislature must be
+         allowed a broad discretion in an area such as that involved in the present case, which entails political, economic and social
+         choices on its part, and in which it is called upon to undertake complex assessments. The legality of a measure adopted in
+         that sphere can be affected only if the measure is manifestly inappropriate having regard to the objective which the competent
+         institution is seeking to pursue (British American Tobacco (Investments) and Imperial Tobacco, paragraph and the case-law cited).
+      
+In the present case, it is necessary to examine whether the obligation to register monomer substances, as defined in paragraph
+         of this judgment and satisfying the cumulative conditions laid down in Article 6(3) of the REACH Regulation, constitutes
+         a proportionate means to achieve the objectives of that regulation.
+      
+As has been stated in paragraph of the present judgment, the objectives of the REACH Regulation, set out in Article thereof,
+         are to ‘ensure a high level of protection of human health and the environment … as well as the free circulation of substances
+         on the internal market while enhancing competitiveness and innovation’.
+      
+However, regard being had to Recital in the preamble to the REACH Regulation, it must be stated that the Community legislature
+         established, as the main purpose of the obligation to register laid down in Article 6(3) thereof, the first of those three
+         objectives, namely to ensure a high level of protection of human health and the environment.
+      
+The means by which to achieve that objective is, as Recital in the preamble to the REACH Regulation states, the registration
+         obligation imposed on manufacturers and importers, which includes the obligation to generate data on the substances which
+         they manufacture or import, to use those data to assess the risks related to those substances and to develop and recommend
+         appropriate risk management measures.
+      
+Under the terms of Article 6(1) of the REACH Regulation, that registration obligation concerns all types of substances manufactured
+         or imported into the Community in quantities of one tonne or more per year. It also applies to substances whether or not they
+         are classified as dangerous, except where there is an express exemption.
+      
+Account being taken of the finding set out in paragraph of the present judgment, reacted monomers which are constituents
+         of polymers are subject to that obligation, whereas polymers are exempted.
+      
+With regard to the objective of protecting human health and the environment, it must be stated from the outset that the registration
+         of substances serves to improve information for the public and professionals down the supply chain as to the risks and that,
+         consequently, such registration must be regarded as a means of enhancing that protection.
+      
+In that connection, it must be observed that, although polymers are exempted from registration for practical reasons related
+         to their large number, that situation is liable to be reviewed in accordance with Article 138(2) of the REACH Regulation as
+         soon as it is possible to establish a practicable and cost-efficient way of selecting polymers.
+      
+Thus, the obligation to register monomer substances, which are less numerous than polymers, makes information available not
+         only on the risks specific to those substances but also on those of monomers found as residues after polymerisation or in
+         monomer form after the possible degradation of the polymer.
+      
+As the Advocate General observed in point of her Opinion, where polymers are manufactured in the Community the advantages
+         of registration of monomers is obvious, since monomer substances are used as unreacted monomers within the Community, with
+         the result that it is necessary that the registration information be known there in order to address potential risks. 
+      
+Furthermore, where polymers are imported into the Community, the obligation to register reacted monomers contributes, under
+         the same conditions, to the protection of human health and the environment, since that obligation also enables better knowledge
+         to be obtained of polymers.
+      
+In addition, such an obligation to register monomers satisfies the precautionary principle as referred to in Article 1(3)
+         of the REACH Regulation.
+      
+The registration obligation imposed on importers leads to a more equitable attribution of the costs of registration between
+         Community manufacturers and importers.
+      
+Such equality of treatment prevents distortions of competition and thereby guarantees fair competition within the Community.
+      
+As the Advocate General observed in point of her Opinion, protecting Community producers against competitive disadvantages
+         which might result from a different situation for importers is a permissible objective of the Community legislature.
+      
+It follows that the obligation to register reacted monomers in polymers is an appropriate means by which to realise the objectives
+         of the REACH Regulation.
+      
+However, whether that obligation goes beyond what is necessary in order to realise those objectives remains to be determined.
+      
+In order to ensure genuine competition within the Community, importers of monomer substances must be subject to the same obligations
+         as those to which manufacturers are subject or to similar obligations which lead to an adjustment of costs.
+      
+Any other arrangement designed to offset the absence of registration costs for importers would not necessarily be less restrictive
+         for those importers.
+      
+Likewise, any limitation on the registration obligation solely to monomers produced in the Community would be contrary to
+         the objective of competitiveness and innovation, since the importation of monomers at a lower price, without account being
+         taken of registration costs, would discourage any Community manufacturer from starting or pursuing research on those monomers.
+      
+It follows that the obligation to register reacted monomer substances which are components of polymers does not go beyond
+         that which is necessary to meet the objectives of the REACH Regulation.
+      
+However, the applicants in the main proceedings dispute the proportionality of that registration obligation, taking the view,
+         first, that importers are faced with serious practical difficulties arising, in particular, from the fact that they are unaware
+         of the composition of the imported polymer and, second, that the costs of the registration procedure are grossly disproportionate
+         in relation to the turnover achieved and the quantities of substances concerned.
+      
+In that connection, it must be observed, first of all, that Article 8(1) of the REACH Regulation provides for the possibility
+         of designating a sole representative for the manufacturer of substances on their own or contained in preparations or which
+         produces an article imported into the Community. 
+      
+That representative ensures compliance with all of the obligations applicable to importers, which are informed of this and
+         are thus regarded as downstream users. The registration obligations are consequently the responsibility of the representative,
+         who is designated by a manufacturer not established in the Community and whose trust he enjoys.
+      
+Second, as regards the costs generated by the registration procedure, the procedure is identical whether the products are
+         manufactured in the Community or outside it and, consequently, the burden is not heavier for manufacturers not established
+         in the Community or importers than it is for Community manufacturers.
+      
+Furthermore, as the Advocate General noted in point of her Opinion, the REACH Regulation provides for a sharing of information
+         in order to reduce the costs relating to substances between the various registrants with respect to the same substance.
+      
+Thus, Recital in the preamble to the REACH Regulation states that ‘[j]oint submission and the sharing of information on
+         substances should be provided for in order to increase the efficiency of the registration system, to reduce costs and to reduce
+         testing on vertebrate animals’.
+      
+The implementation of those objectives is guaranteed by Article 27(3) of the REACH Regulation, which provides for the sharing
+         of information in order to reduce the costs between the registrants.
+      
+Consequently, taking account of the limited number of potential monomer substances, the 12-year period of validity for a previous
+         registration of substances, as provided for in Article of the REACH Regulation, and the possibility of sharing information
+         in order to reduce costs, the burden deriving from the obligation to register reacted monomer substances in polymers does
+         not appear to be manifestly disproportionate in the light of the free movement of goods on the internal market open to fair
+         competition.
+      
+It follows that Article 6(3) of the REACH Regulation is not invalid on the ground that it infringes the principle of proportionality.
+      
+ Infringement of the principle of equal treatment
+The applicants in the main proceedings claim that, although the obligation to register monomer substances is identical, Community
+         manufacturers of polymers are in a position to register those substances more easily than are importers inasmuch as they know
+         the composition of their products, whereas importers are, for their part, subject to the good will of their suppliers outside
+         Community territory.
+      
+According to settled case-law, the principle of equal treatment or non-discrimination requires that comparable situations
+         must not be treated differently and that different situations must not be treated in the same way unless such treatment is
+         objectively justified (Case C-344/IATA and ELFAA [2006] ECR I‑403, paragraph and the case-law cited).
+      
+In that connection, it must be observed, first, that the obligation to register is identical for Community manufacturers and
+         for importers.
+      
+Second, reacted monomer substances in polymers manufactured or imported into the Community are in a comparable situation since
+         they are interchangeable or identical.
+      
+Third, Community manufacturers and importers are in a different situation as the former have knowledge of their products,
+         whereas the latter are dependent on the provision of information by suppliers outside Community territory.
+      
+Nevertheless, the identical treatment required in those different situations is objectively justified by compliance with the
+         competition rules applicable in the internal market.
+      
+If importers of reacted monomer substances were to be treated differently to manufacturers of those same substances within
+         the Community, the former would be treated more favourably than the latter.
+      
+It follows that no infringement of the principle of equal treatment can be found and, therefore, that Article 6(3) of the
+         REACH Regulation is not invalid on the ground that that principle has been infringed. 
+      
+It follows from all of the foregoing that examination of the second question has revealed no factor of such a kind as to affect
+         the validity of Article 6(3) of the REACH Regulation.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+1.      The concept of ‘monomer substances’ in Article 6(3) of Regulation (EC) No 1907/of the European Parliament and of the
+            Council of December concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing
+            a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/and Commission
+            Regulation (EC) No 1488/as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC
+            and 2000/21/EC relates only to reacted monomers which are integrated in polymers.
+2.      Examination of the second question has revealed no factor of such a kind as to affect the validity of Article 6(3) of Regulation
+            No 1907/2006.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

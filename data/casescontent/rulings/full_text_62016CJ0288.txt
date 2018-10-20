@@ -1,0 +1,76 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+June (
+*)
+‛Reference for a preliminary ruling — Directive 2006/112/EC — Value added tax (VAT) — Article 146(1)(e) — Exemptions on exportation — Supply of services directly connected with the exportation or the importation of goods — Meaning’
+In Case C‑288/16,
+REQUEST for a preliminary ruling under Article TFEU from the Augstākā tiesa (Supreme Court, Latvia), made by decision of May 2016, received at the Court on May 2016, in the proceedings
+‘L.Č.’ IK
+v
+Valsts ienemumu dienests,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta (Rapporteur), President of the Chamber, E. Regan, J.-C. Bonichot, A. Arabadjiev and C.G. Fernlund, Judges,
+Advocate General: E. Sharpston,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+the Latvian Government, by I. Kalniņš, D. Pelše and A. Bogdanova, acting as Agents,
+—
+the European Commission, by M. Owsiany-Hornung and E. Kalniņš, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 146(1)(e) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1).
+The request has been made in proceedings between ‘L.Č.’ IK and the Valsts ieņēmumu dienests (tax authorities, Latvia) concerning the application of value added tax (VAT) to freight transport transactions carried out in and 2010.
+Legal context
+Article of Directive 2006/provides:
+‘The exemptions provided for in Chapters to shall apply without prejudice to other Community provisions and in accordance with conditions which the Member States shall lay down for the purposes of ensuring the correct and straightforward application of those exemptions and of preventing any possible evasion, avoidance or abuse.’
+Article of that directive, in Chapter 6, entitled ‘Exemptions on exportation’, of Title IX thereof, provides, in paragraph 1:
+‘Member States shall exempt the following transactions:
+(a)
+the supply of goods dispatched or transported to a destination outside the Community by or on behalf of the vendor;
+…
+(e)
+the supply of services, including transport and ancillary transactions, but excluding the supply of services exempted in accordance with Articles and 135, where these are directly connected with the exportation or importation of goods covered by Article and Article 157(1)(a).’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On the basis of contracts concluded with several consignors, ‘Atek’ SIA undertook to ensure the transport of goods placed under a transit procedure, from the port of Riga (Latvia) to Belarus.
+Under another contract, ‘Atek’ assigned the effective performance of that freight transport to ‘L.Č.’.
+That transport was carried out with vehicles belonging to ‘Atek’ and leased to ‘L.Č.’, bearing in mind that, as regards the consignors of those goods, ‘Atek’ acted as the carrier. For its part, ‘L.Č.’, was responsible for driving the vehicle, repairs, refuelling, customs formalities at border points, surveillance of the goods, transferring the goods to the consignee and the necessary loading and unloading tasks.
+‘L.Č.’, considering that it had supplied services connected with transit, applied a VAT rate of 0% to those services.
+A tax inspection was carried out on ‘L.Č.’ in respect of the period from January to December 2010. Following that inspection, the tax authorities ordered that company to pay an additional VAT assessment, a fine and late payment interest to the revenue authorities.
+By decision of September the tax authorities confirmed that assessment, on the ground that ‘L.Č.’ was not entitled to apply a VAT rate of 0% to the services that it had provided in the context of its contract concluded with ‘Atek’, since (i) in the absence of a legal connection with the consignor or the consignee of the transported goods, those services could not be equated with the services of a carrier or a freight forwarder and (ii) since it did not hold the requisite licence under Latvian law, ‘L.Č.’ could not be regarded as a carrier and was therefore not authorised to transport freight.
+‘L.Č.’ brought an appeal against that decision before the Administratīvā rajona tiesa (District Administrative Court, Latvia) which upheld that appeal by judgment of December 2012.
+Ruling on an appeal brought against that judgment, the Administratīvā apgabaltiesa (Regional Administrative Court, Latvia), by a judgment of May 2014, partly upheld and partly dismissed that appeal. In particular, that court considered that, since there was no legal connection between the consignor or the consignee of the goods and ‘L.Č.’, the services supplied by the latter could not be regarded as consignment or freight-forwarding services, but rather constituted the supply of driver services consisting in providing a driver for a vehicle owned by a carrier which holds an international carriage licence, namely ‘Atek’, and that, since it lacks such a licence, ‘L.Č.’ also could not be regarded as a carrier. Consequently, according to that court, the VAT rate of 0% could not be applied to the services supplied by ‘L.Č.’.
+‘L.Č.’ brought an appeal in cassation against that judgment before the Augstākā tiesa (Supreme Court, Latvia), in so far as, by that judgment, the Administratīvā apgabaltiesa (Regional Administrative Court) had dismissed its appeal.
+The referring court considers that there are doubts concerning the interpretation of Article 146(1)(e) of Directive 2006/112. In particular, that court is uncertain whether, despite the fact that the services supplied by ‘L.Č.’ were connected with the goods transported in transit through Latvia, the circumstance that those services were supplied, not directly to the consignee or the consignor of those goods, with which ‘L.Č.’ had no legal connection, but to their contractual counterparty in Latvia, namely ‘Atek’, affects the application of the exemption laid down in that provision, which requires the existence of a direct connection between the supply of services and the exportation or importation of the goods in question.
+In those circumstances, the Augstākā tiesa (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Must Article 146(1)(e) of [Directive 2006/112] be interpreted as meaning that the exemption laid down therein is applicable only where there is a direct legal connection, that is to say a reciprocal contractual relationship between the services provider and the consignee or the consignor of the goods?
+(2)
+What criteria must be met by the direct connection referred to in the abovementioned provision in order for a service connected with the importation or exportation of goods to be exempt?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 146(1)(e) of Directive 2006/must be interpreted as meaning that the exemption laid down in that provision applies to a transaction such as that at issue in the main proceedings, namely a supply of services consisting in the transport of goods to a third country, where those services are not supplied directly to the consignor or the consignee of those goods.
+In particular, the referring court wishes to know whether the application of that exemption, which requires that the supply of services concerned must be ‘directly connected’ with the exportations or importations of goods referred to in that provision, is subject to the existence of a direct legal connection, such as a reciprocal contractual relationship, between the service provider and the consignor or the consignee of the goods concerned.
+In that respect, it must be recalled that Article of Directive 2006/concerns the exemption of exports outside the European Union from VAT. In the context of international business, such an exemption seeks to respect the principle that the relevant goods or services should be taxed at their place of destination. Every export and equivalent transaction should thus be exempt from VAT in order to ensure that the relevant transaction is taxed only in the place where the relevant products are consumed (see, as regards Article of the Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), judgments of October 2007, Navicon, C‑97/06, EU:C:2007:609, paragraph 29, and of December 2010, Feltgen and Bacino Charter Company, C‑116/10, EU:C:2010:824, paragraph 16).
+The exemption set out in Article 146(1)(e) of Directive 2006/supplements the exemption set out in Article 146(1)(a), and is intended, like the latter exemption, to ensure that the supply of services concerned is taxed at the place of destination of those services, that is to say the place where the exported products are consumed.
+To that end, Article 146(1)(e) provides, inter alia, that transport services directly connected with the exportation of goods outside the European Union are exempt from VAT.
+A broad interpretation of that provision, which included services that are not supplied directly to the exporter, the importer or the consignee of such goods, might lead, for the Member States and for the operators concerned, to constraints that would be irreconcilable with the correct and straightforward application of the exemptions laid down in Article of Directive 2006/112.
+Furthermore, according to settled case-law of the Court, VAT exemptions are to be interpreted strictly since they constitute exceptions to the general principle that VAT is to be levied on all services supplied for consideration by a taxable person (see, inter alia, judgments of June 1990, Velker International Oil Company, C‑185/89, EU:C:1990:262, paragraph 19; September 2004, Cimber Air, C‑382/02, EU:C:2004:534, paragraph 25; September 2006, Elmeka, C‑181/to C‑183/04, EU:C:2006:563, paragraphs and 20, and July 2012, A, C‑33/11, EU:C:2012:482, paragraph 49).
+Accordingly, it follows from the wording and from the objective of Article 146(1)(e) of Directive 2006/that that provision must be interpreted as meaning that the existence of a direct connection entails not only that, by their subject matter, the supply of services in question contributes to the actual performance of an importation or exportation transaction, but also that those services are supplied directly to, as the case may be, the exporter, the importer or the consignee of the goods referred to in that provision.
+In the present case, the services supplied by ‘L.Č.’ were indeed necessary to the actual performance of the exportation transaction at issue in the main proceedings. However, those services were not supplied directly to the consignee or to the exporter of those goods, but to a contractual counterparty of the latter, namely ‘Atek’.
+In addition, as can be seen from the order for reference, those services were supplied using vehicles owned by ‘Atek’, which acted as carrier as regards the consignors of those goods.
+Consequently, the services supplied by ‘L.Č.’ do not fall within the scope of the exemption laid down in Article 146(1)(e) of Directive 2006/112.
+In those circumstances, the answer to the questions referred is that Article 146(1)(e) of Directive 2006/must be interpreted as meaning that the exemption laid down in that provision does not apply to a supply of services, such as that at issue in the main proceedings, relating to a transaction consisting in the transport of goods to a third country, where those services are not provided directly to the consignor or the consignee of those goods.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Article 146(1)(e) of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that the exemption laid down in that provision does not apply to a supply of services, such as that at issue in the main proceedings, relating to a transaction consisting in the transport of goods to a third country, where those services are not provided directly to the consignor or the consignee of those goods.
+ 
+[Signatures]
+(
+*)	Language of the case: Latvian.
+Top  
+ 

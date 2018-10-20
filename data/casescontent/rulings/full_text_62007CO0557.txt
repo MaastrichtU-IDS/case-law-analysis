@@ -1,0 +1,395 @@
+
+ORDER OF THE COURT (Eighth Chamber)
+February (*)
+      
+(Article 104(3) of the Rules of Procedure – Information society – Copyright and related rights – Saving and disclosure of certain traffic data – Protecting the confidentiality of electronic communications – ‘Intermediaries’ within the meaning of Article 8(3) of Directive 2001/29/EC)
+In Case C‑557/07,
+REFERENCE for a preliminary ruling under Article EC, from the Oberster Gerichtshof (Austria), made by decision of November 2007,
+         received at the Court on December 2007, in the proceedings
+      
+LSG-Gesellschaft zur Wahrnehmung von Leistungsschutzrechten GmbH
+v
+TeleTelecommunication GmbH,
+THE COURT (Eighth Chamber), 
+composed of T. von Danwitz, President of the Chamber, G. Arestis and J. Malenovský (Rapporteur), Judges,
+Advocate General: Y. Bot,
+Registrar: R. Grass,
+proposing to give its decision on the second question by reasoned order in accordance with the first subparagraph of Article 104(3)
+         of the Rules of Procedure,
+      
+having informed the referring court that the Court proposes to give its decision on the first question by reasoned order in
+         accordance with the second subparagraph of Article 104(3) of the Rules of Procedure,
+      
+after calling on the interested persons referred to in Article of the Statute of the Court of Justice to submit their observations
+         in that regard,
+      
+after hearing the Advocate General,
+makes the following
+Order
+This reference for a preliminary ruling concerns the interpretation of Directive 2001/29/EC of the European Parliament and
+         of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society
+         (OJ L 167, p. 10), Directive 2002/58/EC of the European Parliament and of the Council of July concerning the
+         processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and
+         electronic communications) (OJ L 201, p. 37) and Directive 2004/48/EC of the European Parliament and of the Council of
+         April on the enforcement of intellectual property rights (OJ L 157, p. 45).
+      
+The reference has been made in the context of proceedings brought by LSG‑Gesellschaft zur Wahrnehmung von Leistungsschutzrechten
+         GmbH (‘LSG’) against TeleTelecommunication GmbH (‘Tele2’) concerning Tele2’s refusal to send LSG the names and addresses
+         of the persons for whom it provides Internet access.
+      
+ Legal context
+ Community legislation
+ The provisions concerning the information society and the protection of intellectual property, particularly copyright
+–       Directive 2000/31/EC
+Under Article 1(1) thereof, Directive 2000/of the European Parliament and of the Council of June on certain legal
+         aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic
+         commerce’) (OJ L 178, p. 1) seeks to contribute to the proper functioning of the internal market by ensuring the free
+         movement of information society services between the Member States. 
+      
+–       Directive 2001/Recital in the preamble to Directive 2001/states:
+      
+‘In the digital environment, in particular, the services of intermediaries may increasingly be used by third parties for infringing
+         activities. In many cases such intermediaries are best placed to bring such infringing activities to an end. Therefore, without
+         prejudice to any other sanctions and remedies available, rightholders should have the possibility of applying for an injunction
+         against an intermediary who carries a third party’s infringement of a protected work or other subject-matter in a network.
+         This possibility should be available even where the acts carried out by the intermediary are exempted under Article 5. The
+         conditions and modalities relating to such injunctions should be left to the national law of the Member States.’
+      
+Under Article 1(1) thereof, Directive 2001/concerns the legal protection of copyright and related rights in the framework
+         of the internal market, with particular emphasis on the information society.
+      
+Paragraph of Article of Directive 2001/29, which is entitled ‘Exceptions and limitations’, provides:
+      
+‘Temporary acts of reproduction referred to in Article 2, which are transient or incidental [and] an integral and essential
+         part of a technological process and whose sole purpose is to enable:
+      
+(a)      a transmission in a network between third parties by an intermediary, or
+(b)      a lawful use
+of a work or other subject-matter to be made, and which have no independent economic significance, shall be exempted from
+         the reproduction right provided for in Article 2.’
+      
+Article of Directive 2001/29, which is entitled ‘Sanctions and remedies’, provides:
+      
+‘1.      Member States shall provide appropriate sanctions and remedies in respect of infringements of the rights and obligations set
+         out in this Directive and shall take all the measures necessary to ensure that those sanctions and remedies are applied. The
+         sanctions thus provided for shall be effective, proportionate and dissuasive.
+      
+2.      Each Member State shall take the measures necessary to ensure that rightholders whose interests are affected by an infringing
+         activity carried out on its territory can bring an action for damages and/or apply for an injunction and, where appropriate,
+         for the seizure of infringing material as well as of devices, products or components referred to in Article 6(2).
+      
+3.      Member States shall ensure that rightholders are in a position to apply for an injunction against intermediaries whose services
+         are used by a third party to infringe a copyright or related right.’
+      
+–       Directive 2004/Article of Directive 2004/is worded as follows:
+      
+‘1.      Member States shall ensure that, in the context of proceedings concerning an infringement of an intellectual property right
+         and in response to a justified and proportionate request of the claimant, the competent judicial authorities may order that
+         information on the origin and distribution networks of the goods or services which infringe an intellectual property right
+         be provided by the infringer and/or any other person who:
+      
+(a)      was found in possession of the infringing goods on a commercial scale;
+(b)      was found to be using the infringing services on a commercial scale;
+(c)      was found to be providing on a commercial scale services used in infringing activities; or
+(d)      was indicated by the person referred to in point (a), (b) or (c) as being involved in the production, manufacture or distribution
+         of the goods or the provision of the services.
+      
+2.      The information referred to in paragraph shall, as appropriate, comprise:
+(a)      the names and addresses of the producers, manufacturers, distributors, suppliers and other previous holders of the goods or
+         services, as well as the intended wholesalers and retailers;
+      
+(b)      information on the quantities produced, manufactured, delivered, received or ordered, as well as the price obtained for the
+         goods or services in question.
+      
+3.      Paragraphs and shall apply without prejudice to other statutory provisions which:
+(a)      grant the rightholder rights to receive fuller information;
+(b)      govern the use in civil or criminal proceedings of the information communicated pursuant to this Article;
+(c)      govern responsibility for misuse of the right of information; or
+(d)      afford an opportunity for refusing to provide information which would force the person referred to in paragraph to admit
+         to his own participation or that of his close relatives in an infringement of an intellectual property right; or
+      
+(e)      govern the protection of confidentiality of information sources or the processing of personal data.’
+ The provisions concerning the protection of personal data
+–       Directive 95/46/EC
+Paragraph of Article of Directive 95/46/EC of the European Parliament and of the Council of October on the protection
+         of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31),
+         which is entitled ‘Exceptions and restrictions’, provides:
+      
+‘1.      Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles
+         6(1), 10, 11(1), and when such a restriction constitutes a necessary measure to safeguard:
+      
+(a)      national security;
+(b)      defence;
+(c)      public security;
+(d)      the prevention, investigation, detection and prosecution of criminal offences, or of breaches of ethics for regulated professions;
+(e)      an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and
+         taxation matters;
+      
+(f)      a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases
+         referred to in (c), (d) and (e);
+      
+(g)      the protection of the data subject or of the rights and freedoms of others.’
+–       Directive 2002/Article 5(1) of Directive 2002/provides:
+      
+‘Member States shall ensure the confidentiality of communications and the related traffic data by means of a public communications
+         network and publicly available electronic communications services, through national legislation. In particular, they shall
+         prohibit listening, tapping, storage or other kinds of interception or surveillance of communications and the related traffic
+         data by persons other than users, without the consent of the users concerned, except when legally authorised to do so in accordance
+         with Article 15(1). This paragraph shall not prevent technical storage which is necessary for the conveyance of a communication
+         without prejudice to the principle of confidentiality.’
+      
+Article of Directive 2002/provides:
+      
+‘1.      Traffic data relating to subscribers and users processed and stored by the provider of a public communications network or
+         publicly available electronic communications service must be erased or made anonymous when it is no longer needed for the
+         purpose of the transmission of a communication without prejudice to paragraphs 2, and of this Article and Article 15(1).
+      
+2.      Traffic data necessary for the purposes of subscriber billing and interconnection payments may be processed. Such processing
+         is permissible only up to the end of the period during which the bill may lawfully be challenged or payment pursued.
+      
+3.      For the purpose of marketing electronic communications services or for the provision of value added services, the provider
+         of a publicly available electronic communications service may process the data referred to in paragraph to the extent and
+         for the duration necessary for such services or marketing, if the subscriber or user to whom the data relate has given his/her
+         consent. Users or subscribers shall be given the possibility to withdraw their consent for the processing of traffic data
+         at any time.
+      
+…
+5.      Processing of traffic data, in accordance with paragraphs 1, 2, and 4, must be restricted to persons acting under the authority
+         of providers of the public communications networks and publicly available electronic communications services handling billing
+         or traffic management, customer enquiries, fraud detection, marketing electronic communications services or providing a value
+         added service, and must be restricted to what is necessary for the purposes of such activities.
+      
+6.      Paragraphs 1, 2, and shall apply without prejudice to the possibility for competent bodies to be informed of traffic data
+         in conformity with applicable legislation with a view to settling disputes, in particular interconnection or billing disputes.’
+      
+Under Article 15(1) of Directive 2002/58:
+      
+‘Member States may adopt legislative measures to restrict the scope of the rights and obligations provided for in Article 5,
+         Article 6, Article 8(1), (2), (3) and (4), and Article of this Directive when such restriction constitutes a necessary,
+         appropriate and proportionate measure within a democratic society to safeguard national security (i.e. State security), defence,
+         public security, and the prevention, investigation, detection and prosecution of criminal offences or of unauthorised use
+         of the electronic communication system, as referred to in Article 13(1) of Directive 95/46/EC. To this end, Member States
+         may, inter alia, adopt legislative measures providing for the retention of data for a limited period justified on the grounds
+         laid down in this paragraph. All the measures referred to in this paragraph shall be in accordance with the general principles
+         of Community law, including those referred to in Article 6(1) and (2) of the Treaty on European Union.’
+      
+ National legislation
+Paragraph of the Austrian Federal Law on copyright in literary and artistic works and related rights (Bundesgesetz über
+         das Urheberrecht an Werken der Literatur und der Kunst und über verwandte Schutzrechte), in the version published in BGBl. I, 81/(‘the Austrian Federal Law on Copyright’), provides:
+      
+‘(1)      A person who has suffered an infringement of any exclusive rights conferred by this Law, or who fears such an infringement,
+         shall be entitled to bring proceedings for a restraining injunction. Legal proceedings may also be brought against the proprietor
+         of a business if the infringement is committed in the course of the activities of his business by one of his employees or
+         by a person acting under his control, or if there is a danger that such an infringement will be committed.
+      
+1(a)      If the person who has committed such an infringement, or by whom there is a danger of such an infringement being committed,
+         uses the services of an intermediary for that purpose, the intermediary shall also be liable to an injunction under subparagraph (1).
+      
+…’
+Paragraph 87b(2) to (3) of the Austrian Federal Law on Copyright is worded as follows:
+      
+‘(2)      A person who has suffered an infringement of any exclusive rights conferred by this Law shall be entitled to require information
+         as regards the origin and distribution channels of infringing goods and services, to the extent that this would not be disproportionate
+         to the gravity of the infringement and would not infringe statutory obligations of confidentiality; the obligation to disclose
+         information is on the infringer and on any persons who in the course of business:
+      
+1.      have been in possession of infringing goods;
+2.      have received infringing services; or
+3.      have supplied services used for the infringement.
+(2a)      So far as is necessary, the obligation under subparagraph (2) to disclose information includes:
+1.      the names and addresses of the producers, distributors, suppliers and other previous holders of the goods or services, as
+         well as the intended wholesalers and retailers;
+      
+2.      the quantities produced, delivered, received or ordered, as well as the price paid for the goods or services in question.
+(3)      Intermediaries within the meaning of Paragraph 81(1a) shall give the person whose rights have been infringed information as
+         to the identity of the infringer (name and address) or the information necessary to identify the infringer, following an application
+         in writing by the person whose rights have been infringed, such application to include sufficient reasons. The reasons given
+         must include in particular sufficiently precise details as to the facts which give rise to a suspicion that there has been
+         an infringement of rights. The person whose rights have been infringed shall pay the intermediary reasonable compensation
+         for the costs incurred in the provision of that information.’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+LSG is a collecting society. It enforces as trustee the rights of recorded music producers in their worldwide recordings and
+         the rights of the recording artists in respect of the exploitation of those recordings in Austria. The rights concerned are,
+         in particular, the right to reproduce and distribute the recordings and the right to make them available to the public.
+      
+Teleis an Internet access provider which assigns to its clients Internet Protocol Addresses (‘IP addresses’), which are
+         most often dynamic rather than static. Teleis able to identify individual clients on the basis of the IP address and the
+         period or date when it was assigned.
+      
+The holders of the rights defended by LSG suffer financial loss as a result of the creation of file‑sharing systems which
+         make it possible for participants to exchange copies of saved data. In order to be able to bring civil proceedings against
+         the perpetrators, LSG applied for an order requiring Teleto send it the names and addresses of the persons to whom it had
+         provided an Internet access service and whose IP addresses, together with the day and time of the connection, were known.
+         Teletook the view that it was obliged to refuse that request for information. It stated that it is not an intermediary and
+         is not authorised to save access data.
+      
+By judgment of June 2006, the Handelsgericht Wien (Commercial Court, Vienna) granted LSG’s application, on the view that,
+         as an Internet access provider, Teleis an intermediary within the meaning of Paragraph 81(1a) of the Austrian Federal Law
+         on Copyright and that, as such, it is required to provide the information referred to in Paragraph 87b(3) thereof.
+      
+According to the order for reference, the decision at first instance was confirmed on appeal by the Oberlandesgericht Wien
+         (Higher Regional Court, Vienna) by judgment of April 2007, in respect of which an appeal on a point of law has been brought
+         before the Oberster Gerichtshof (Austrian Supreme Court).
+      
+Before the Oberster Gerichtshof, Teleclaims, first, that it is not an intermediary within the meaning of Paragraph 81(1a)
+         of the Austrian Federal Law on Copyright or Article 8(3) of Directive 2001/29, since, as Internet access provider, it indeed
+         enables the user to access the Internet, but it exercises no control, whether de iure or de facto, over the services which the user makes use of. Secondly, the tensions in the relationship between the right to information
+         entailed by the legal protection of copyright and the limits placed by data protection laws on the saving and disclosure of
+         personal data have been resolved, in favour of data protection, by the Community directives. 
+      
+The Oberster Gerichtshof is of the view that the Opinion of the Advocate General in Case C-275/Promusicae [2008] ECR I‑271, delivered after the present order for reference, raises doubts as to whether the right to information conferred
+         by Paragraph 87b(3) of the Austrian Federal Law on Copyright, read in conjunction with Paragraph 81(1a) thereof, is in conformity
+         with the directives adopted in the data protection field and, in particular, with Articles 5, and of Directive 2002/58.
+         The aforementioned provisions of Austrian law require private third parties to be provided with information on personal data
+         relating to Internet traffic, thereby imposing a duty to disclose, which presupposes that the Internet traffic data have first
+         been processed and saved.
+      
+In those circumstances, the Oberster Gerichtshof decided to stay the proceedings and to refer the following questions to the
+         Court of Justice for a preliminary ruling:
+      
+‘(1)      Is the term “intermediary” in Article 5(1)(a) and Article 8(3) of Directive [2001/29] to be interpreted as including an access
+         provider who merely provides a user with access to the network by allocating him a dynamic IP address but does not himself
+         provide him with any services such as email, FTP or file‑sharing services and does not exercise any control, whether de iure or de facto, over the services which the user makes use of?
+      
+(2)      If the first question is answered in the affirmative:
+Is Article 8(3) of Directive [2004/48], regard being had to Article and Article of Directive [2002/58], to be interpreted
+         (restrictively) as not permitting the disclosure of personal traffic data to private third parties for the purposes of civil
+         proceedings for alleged infringements of exclusive rights protected by copyright (rights of exploitation and use)?’
+      
+ The questions referred for a preliminary ruling
+Under Article 104(3) of the Rules of Procedure – that is to say, inter alia, where the answer to a question referred to the
+         Court for a preliminary ruling may be clearly deduced from existing case-law or where the answer to the question admits of
+         no reasonable doubt – the Court may give its decision by reasoned order.
+      
+ The second question
+By its second question, which it is appropriate to consider first, the national court essentially asks whether Community law,
+         in particular Article 8(3) of Directive 2004/48, read in conjunction with Articles and of Directive 2002/58, precludes
+         Member States from imposing an obligation to disclose to private third parties personal data relating to Internet traffic
+         in order to enable them to bring civil proceedings for copyright infringements.
+      
+The reply to that question can be clearly inferred from the case-law of the Court.
+      
+In paragraph of Promusicae, the Court stated that the exceptions provided for in Article 15(1) of Directive 2002/58, which refers expressly to Article 13(1)
+         of Directive 95/46, include measures which are necessary for the protection of the rights and freedoms of others. As it does
+         not specify the rights and freedoms covered by that exception, Directive 2002/must be interpreted as reflecting the intention
+         of the Community legislature not to exclude from its scope the protection of the right to property or situations in which
+         authors seek to obtain that protection through civil proceedings. 
+      
+The Court inferred from this, in paragraphs and of Promusicae, that Directive 2002/– in particular, Article 15(1) thereof – does not preclude the Member States from imposing an obligation
+         to disclose personal data in the context of civil proceedings, nor does it oblige them to impose such an obligation.
+      
+Moreover, the Court pointed out that the freedom which Member States retain to give priority to the right to privacy or to
+         the right to property is qualified by a number of requirements. Accordingly, when transposing Directives 2000/31, 2001/29,
+         2002/and 2004/into national law, it is for the Member States to ensure that they rely on an interpretation of those
+         directives which allows a fair balance to be struck between the various fundamental rights protected by the Community legal
+         order. Furthermore, when applying the measures transposing those directives, the authorities and courts of Member States must
+         not only interpret their national law in a manner consistent with those directives, but must also make sure that they do not
+         rely on an interpretation of those directives which would conflict with those fundamental rights or with the other general
+         principles of Community law, such as the principle of proportionality (Promusicae, paragraph 70). 
+      
+Accordingly, the answer to the second question is that Community law – in particular, Article 8(3) of Directive 2004/48, read
+         in conjunction with Article 15(1) of Directive 2002/– does not preclude Member States from imposing an obligation to disclose
+         to private third parties personal data relating to Internet traffic in order to enable them to bring civil proceedings for
+         copyright infringements. Community law nevertheless requires Member States to ensure that, when transposing Directives 2000/31,
+         2001/29, 2002/and 2004/into national law, they rely on an interpretation of those directives which allows a fair balance
+         to be struck between the various fundamental rights involved. Moreover, when applying the measures transposing those directives,
+         the authorities and courts of Member States must not only interpret their national law in a manner consistent with those directives,
+         but must also make sure that they do not rely on an interpretation of those directives which would conflict with those fundamental
+         rights or with the other general principles of Community law, such as the principle of proportionality.
+      
+ The first question
+By its first question, the national court asks, essentially, whether access providers which merely provide users with Internet
+         access, without offering other services or exercising any control, whether de iure or de facto, over the services which users make use of, are ‘intermediaries’ within the meaning of Articles 5(1)(a) and 8(3) of Directive 2001/29.
+      
+On the view that the answer to that question admits of no reasonable doubt, the Court informed the national court, in accordance
+         with the second paragraph of Article 104(3) of the Rules of Procedure, that it proposed to give its decision by reasoned order,
+         and called on the interested parties referred to in Article of the Statute of the Court of Justice to submit any observations
+         they might have in that regard.
+      
+LSG, the Spanish and United Kingdom Governments and the Commission of the European Communities indicated to the Court that
+         they had no objection to the Court’s proposal to give its decision by reasoned order.
+      
+Teleconfines its observations in that regard, essentially, to those matters already raised in its written pleadings. According
+         to Tele2, Community law accords Internet access providers privileged treatment, in terms of liability, which is incompatible
+         with an unlimited obligation to disclose information. However, those arguments are not such as to lead the Court to rule out
+         the procedural route envisaged.
+      
+It follows clearly both from the order for reference and from the wording of the questions referred that, by its first question,
+         the national court wishes to know whether Internet access providers who merely enable the user to access the Internet may
+         be required to provide the information referred to in the second question.
+      
+First, it should be pointed out that Article 5(1)(a) of Directive 2001/requires Member States to provide for exemptions
+         from reproduction rights.
+      
+The point at issue in the dispute before the referring court is whether LSG can rely on a right to information as against
+         Tele2, not whether Telehas infringed reproduction rights.
+      
+It follows that an interpretation of Article 5(1)(a) of Directive 2001/serves no purpose in relation to the outcome of
+         the dispute before the referring court.
+      
+Telemaintains, inter alia, that intermediaries must be in a position to bring copyright infringements to an end. Internet
+         access providers, on the other hand, in as much as they exercise no control, whether de iure or de facto, over the services accessed by the user, are not capable of bringing such infringements to an end and, accordingly, are not
+         ‘intermediaries’ within the meaning of Directive 2001/29. 
+      
+It should be noted at the outset that Promusicae concerned the communication by Telefónica de España SAU – a commercial undertaking engaged, inter alia, in the provision
+         of Internet access services – of the identities and physical addresses of certain persons to whom it provided such services
+         and whose IP addresses and dates and times of connection were known (Promusicae, paragraphs and 30).
+      
+It is common ground, as is apparent from the question referred and from the facts in Promusicae, that Telefónica de España SAU was an Internet access provider (Promusicae, paragraphs and 34).
+      
+Accordingly, in holding – in paragraph of Promusicae – that Directives 2000/31, 2001/29, 2002/and 2004/do not require the Member States to impose, in a situation such as
+         that in Promusicae, an obligation to communicate personal data in order to ensure effective protection of copyright in the context of civil
+         proceedings, the Court did not immediately rule out the possibility that Member States may, pursuant to Article 8(1) of Directive 2004/48,
+         place Internet access providers under a duty of disclosure.
+      
+It should also be pointed out that, under Article 8(3) of Directive 2001/29, Member States are to ensure that rightholders
+         are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe a
+         copyright or related right.
+      
+Access providers who merely enable clients to access the Internet, even without offering other services or exercising any
+         control, whether de iure or de facto, over the services which users make use of, provide a service capable of being used by a third party to infringe a copyright
+         or related right, inasmuch as those access providers supply the user with the connection enabling him to infringe such rights.
+      
+Moreover, according to Recital in the preamble to Directive 2001/29, rightholders should have the possibility of applying
+         for an injunction against an intermediary who ‘carries a third party’s infringement of a protected work or other subject-matter
+         in a network’. It is common ground that access providers, in granting access to the Internet, make it possible for such unauthorised
+         material to be transmitted between a subscriber to that service and a third party.
+      
+That interpretation is borne out by the aim of Directive 2001/which, as is apparent in particular from Article 1(1) thereof,
+         seeks to ensure the legal protection of copyright and related rights in the framework of the internal market. The protection
+         sought by Directive 2001/would be substantially diminished if ‘intermediaries’, within the meaning of Article 8(3) of that
+         directive, were to be construed as not covering access providers, which alone are in possession of the data making it possible
+         to identify the users who have infringed those rights.
+      
+In view of the foregoing, the answer to the first question is that access providers which merely provide users with Internet
+         access, without offering other services such as email, FTP or file‑sharing services or exercising any control, whether de iure or de facto, over the services which users make use of, must be regarded as ‘intermediaries’ within the meaning of Article 8(3) of Directive 2001/29.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable. 
+      
+On those grounds, the Court (Eighth Chamber) hereby rules:
+1.      Community law – in particular, Article 8(3) of Directive 2004/48/EC of the European Parliament and of the Council of April
+            on the enforcement of intellectual property rights, read in conjunction with Article 15(1) of Directive 2002/58/EC of
+            the European Parliament and of the Council of July concerning the processing of personal data and the protection of
+            privacy in the electronic communications sector (Directive on privacy and electronic communications) – does not preclude Member
+            States from imposing an obligation to disclose to private third parties personal data relating to Internet traffic in order
+            to enable them to bring civil proceedings for copyright infringements. Community law nevertheless requires Member States to
+            ensure that, when transposing into national law Directive 2000/31/EC of the European Parliament and of the Council of June
+            on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on
+            electronic commerce’), Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation
+            of certain aspects of copyright and related rights in the information society, and Directives 2002/and 2004/48, they rely
+            on an interpretation of those directives which allows a fair balance to be struck between the various fundamental rights involved.
+            Moreover, when applying the measures transposing those directives, the authorities and courts of Member States must not only
+            interpret their national law in a manner consistent with those directives but must also make sure that they do not rely on
+            an interpretation of those directives which would conflict with those fundamental rights or with the other general principles
+            of Community law, such as the principle of proportionality.
+2.      Access providers which merely provide users with Internet access, without offering other services such as email, FTP or file‑sharing
+            services or exercising any control, whether de iure or de facto, over the services which users make use of, must be regarded as ‘intermediaries’ within the meaning of Article 8(3) of Directive 2001/29.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

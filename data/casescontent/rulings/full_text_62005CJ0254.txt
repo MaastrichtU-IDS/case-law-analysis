@@ -1,0 +1,300 @@
+
+Case C-254/Commission of the European Communities
+v
+Kingdom of Belgium
+(Failure of a Member State to fulfil obligations – Articles EC and EC – Quantitative restrictions on imports – Measures having equivalent effect – Automatic fire detection systems with point detectors – Requirement of conformity to a national standard – National approval procedure)
+Opinion of Advocate General Mazák delivered on February Judgment of the Court (Fourth Chamber), June Summary of the Judgment
+Free movement of goods – Quantitative restrictions – Measures having equivalent effect 
+(Arts EC and EC)
+A Member State which requires automatic fire detection systems with point detectors which were lawfully manufactured or marketed
+         in another Member State but which do not have the EC marking:
+      
+–      to comply with a national rule containing technical requirements to be met by certain components of those systems;
+–      to be subject to approval by a certification body, that obstacle being made worse by the disproportionate costs which that
+         approval incurs; and
+      
+–      to undergo tests and checks in connection with that type approval which, essentially, duplicate the controls which have already
+         been carried out under other procedures in another Member State
+      
+fails to fulfil its obligations under Article EC.
+Even if it is applicable without distinction to all products, a requirement of conformity to a national standard hinders intra-Community
+         trade and constitutes a measure having an effect equivalent to a quantitative restriction on imports prohibited by Article
+         EC inasmuch as it may have the effect of forcing economic operators of other Member States to adapt their apparatus and
+         equipment to the requirements of standards or technical regulations of the Member State of importation and to bear the additional
+         costs associated with such adaptation, or of deterring them from marketing the products concerned in that Member State.
+      
+Furthermore, the requirement of prior approval attesting to a product’s fitness for a given use restricts access to the market
+         of the importing Member State and must therefore be regarded as a measure having an effect equivalent to a quantitative restriction
+         on imports within the meaning of Article EC. That requirement is disproportionate where, in the absence of a bilateral
+         agreement with the certification body of the Member State of origin of a product, the certification body does not take into
+         account the controls carried out in that other Member State. The testing and checking costs which that approval procedure
+         incurs must be regarded as disproportionate in so far as such a procedure does not preclude the imposition of tests and checks
+         which have already been carried out in the Member State of origin of the product concerned. 
+      
+Whilst, in the absence of harmonising rules, the Member States are free to decide on their intended level of protection of
+         health and life of humans, the fact remains that an exception to the principle of the free movement of goods may be justified
+         under Article EC only if the national authorities show that it is necessary in order to attain one or more objectives mentioned
+         in that article and that it is in conformity with the principle of proportionality. In that regard, the reasons which may
+         be invoked by a Member State by way of justification must be accompanied by appropriate evidence or by an analysis of the
+         appropriateness and proportionality of the restrictive measure adopted by that State, and precise evidence enabling its arguments
+         to be substantiated.
+      
+(see paras 29-30, 32, 35-36, 41-42, 45, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+June (*)
+      
+(Failure of a Member State to fulfil obligations – Articles EC and EC – Quantitative restrictions on imports – Measures having equivalent effect – Automatic fire detection systems with point detectors – Requirement of conformity to a national standard – National approval procedure)
+In Case C‑254/05,
+ACTION under Article EC for failure to fulfil obligations, brought on June 2005,
+Commission of the European Communities, represented by B. Stromsky, acting as Agent, with an address for service in Luxembourg,
+      
+applicant,
+v
+Kingdom of Belgium, represented by M. Wimmer, acting as Agent,
+      
+defendant,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Chamber, E. Juhász, R. Silva de Lapuerta (Rapporteur), G. Arestis and J. Malenovský,
+         Judges,
+      
+Advocate General: J. Mazák,
+Registrar: R. Grass,
+having regard to the written procedure,
+after hearing the Opinion of the Advocate General at the sitting on February 2007,
+gives the following
+Judgment
+By its application, the Commission of the European Communities seeks a declaration from the Court that, by requiring that
+         automatic fire detection systems with point detectors which were lawfully manufactured or marketed in another Member State
+         but which do not have the CE marking:
+      
+–       comply with Belgian standard NBN S 21‑relating to the design of general automatic fire detection systems with point detectors,
+         of September 1986, as modified by Addendum No thereto of August (‘standard NBN S 21‑100’),
+      
+–       be subject to approval by BOSEC (Belgian Organisation for Security Certification), an obstacle made worse by the disproportionate
+         costs which that approval incurs, and
+      
+–       undergo tests and checks in connection with that type approval which, essentially, duplicate the controls which have already
+         been carried out under other procedures in another Member State, 
+      
+the Kingdom of Belgium has failed to fulfil its obligations under Article EC.
+ Legal context
+Article of the Order of the Executive of the French Community of December laying down the detailed rules and procedure
+         for obtaining a safety certificate for establishments providing accommodation in existence on January and laying down
+         safety standards on fire protection specific to establishments providing accommodation (Moniteur Belge of June 1991, p. 13999; ‘the Order of December 1990’) provides:
+      
+‘Before an establishment providing accommodation may be put into use it must be issued with a safety certificate.’
+According to Article of that order, issue of the certificate is subject to meeting the safety standards on fire protection
+         which are specific to establishments providing accommodation, as provided for in Annex to that order.
+      
+According to point 7.4.of that annex, generalised installation of equipment for automatic fire detection by point detectors
+         is to be undertaken and checked in accordance with standard NBN S 21-and the equipment is to be the subject of a certificate
+         of conformity to that standard.
+      
+Article of the Decree of the Walloon Region of December relating to establishments providing tourist accommodation
+         (Moniteur belge of March 2004, p. 13669) repealed the Order of December in so far as it concerned the Walloon Region. The provisions
+         of that order still apply in relation to the Brussels Region.
+      
+Article of the Order of the Walloon Government of December implementing the Decree of June relating to convalescent
+         homes, serviced residences and day-care centres for the elderly and creating the Walloon Council for Retirement (‘the Order
+         of December 1998’) provides:
+      
+‘The standards relating to protection against fire and panic laid down in Annex I shall apply to convalescent homes, serviced
+         residences and day-care centres for the elderly.
+      
+… ’
+According to point 0.of Annex I to the Order of December 1998:
+‘where documentary evidence establishes that a product satisfies the requirements of the present order according to the equivalent
+         testing and classification methods in force in another Member State of the European Economic Community, that product shall
+         be considered to satisfy the technical specifications laid down in this annex.’
+      
+Point 7.7.of that annex states:
+‘Generalised automatic detection systems shall be checked in accordance with Belgian standard NBN S 21-“Design of systems
+         for automatic fire detection by point detectors”. However, the controls must be applied to all parts of the system (detectors,
+         exchanges, repeater signal panels, servo devices, etc. …).’
+      
+Standard NBN S 21-lays down the rules for the design of generalised systems for automatic fire detection by point detectors.
+Point 4.of that standard, headed ‘Description’, is worded as follows:
+‘An automatic fire detection system shall comprise mainly:
+–       sensors, sensitive to one of the characteristics specific to combustion, called detectors,
+–       a network of wires and electric cables,
+–       a control panel, designed to give the alarm and indicate the detection zone and the nature of the problem,
+–       power supplies.
+Such equipment shall be of a type which conforms to the specifications of the European CEN or Belgian standards and both the
+         fitter and the system must be certified by BOSEC. All the components in one and the same system must be compatible.
+      
+Repeaters, manual warning devices or any other servo device may be added to the system, provided that they meet the requirements
+         of this standard.
+      
+The detector-base assembly or connector shall be equipped with an optical alert signal.’
+Under point 4.3.of that standard, headed ‘Types of detectors’: 
+‘Every type of detector shall conform to the specifications of the Belgian standards.’
+Points 4.4.and 4.4.8.of standard NBN S 21-100, headed, respectively, ‘Power Supplies’ and ‘Cabling’, lay down the required
+         features for, first, the back-up of power supply and, secondly, the cables for systems for automatic fire detection by point
+         detectors.
+      
+ Facts and pre-litigation procedure
+Having been informed of the difficulties which a United Kingdom economic operator had encountered in marketing fire detection
+         equipment in Belgium, the Commission, by letter of January 2003, formally requested the Kingdom of Belgium to submit its
+         observations in respect of the rules on importation and marketing in Belgium of automatic fire detection systems with point
+         detectors.
+      
+The Belgian authorities submitted their observations by letter of September 2003.
+Taking the view that the Kingdom of Belgium had failed to fulfil its obligations under Article EC, the Commission issued
+         a reasoned opinion on July 2004, in which it invited the Kingdom of Belgium to take the measures necessary to comply with
+         that opinion within two months of its notification.
+      
+The Belgian authorities replied to that opinion by letter of September 2004.
+As the Commission was not satisfied with the answer provided by the Belgian authorities, it decided to bring the present action.
+ The action
+ Arguments of the parties
+The Commission submits that the Orders of December and December restrict the free movement of automatic fire
+         detection systems with point detectors which were lawfully manufactured or marketed in another Member State but which do not
+         have the CE marking.
+      
+By requiring compliance with standard NBN S 21‑100, the Belgian regulations in effect preclude from a part of the Belgian
+         market the use by establishments providing accommodation and retirement homes of the systems in question which do not conform
+         to that standard. Thus, economic operators manufacturing or marketing those products might refrain from putting their products
+         onto the Belgian market or be forced to adapt them in order to have access to that market.
+      
+The same applies to the municipal rules relating to fire protection which, according to the information provided by the Belgian
+         authorities, require that fire detectors conform to standard NBN S 21-and also to the administrative practice of the fire
+         services which refer to that standard when establishing fire prevention measures.
+      
+The Commission further submits that the requirement of conformity to standard NBN S 21‑laid down in the Belgian rules
+         has the effect that those systems are subject to approval by BOSEC.
+      
+Not only does such an approval procedure constitute in itself a measure having an effect equivalent to a quantative restriction
+         prohibited by Article EC but, in addition, that obstacle is made worse by the disproportionate time-limits and costs generated
+         by that procedure and by BOSEC’s refusal to take into account the tests and checks which have already been carried out in
+         other procedures in another Member State.
+      
+The Kingdom of Belgium does not dispute the fact that compliance with standard NBN S 21‑is required both by the rules
+         referred to by the Commission and by the practice of the fire services, but contends that, in the light of the proposals for
+         amendments, which were the subject of a public inquiry between March and September and, in particular, of
+         the proposal relating to the deletion of the reference to BOSEC as a certification body, standard NBN S 21‑does comply
+         with Article EC and no longer constitutes a barrier to the free movement of automatic fire detection systems with point
+         detectors which were lawfully manufactured or marketed in another Member State but which do not have the CE marking.
+      
+Furthermore, the Belgian authorities submit that that standard conforms to European standards and does not contain any additional
+         requirements necessitating the adaptation of modification of the products comprising the automatic fire detection systems.
+         In fact, the control imposed by that standard concerns not the components of those systems but only the functioning of those
+         systems as a whole.
+      
+In any event, such a control is justified on grounds of public security and the protection of health and life of humans and
+         animals.
+      
+In that regard, the Belgian authorities contend that the provisions of standard NBN S 21-are applicable without distinction
+         and that the control which they impose on fire detection installations and systems is necessary and proportionate to the objective
+         pursued.
+      
+ Findings of the Court
+As regards, in the first place, the requirement of conformity to standard NBN S 21‑imposed by the Belgian rules and by
+         the administrative practice of certain Belgian public services, it must be borne in mind that, according to settled case-law,
+         all commercial rules enacted by the Member States which are capable of hindering, directly or indirectly, actually or potentially,
+         intra-Community trade are to be regarded as measures having an effect equivalent to quantative restrictions prohibited by
+         Article EC (Case 8/Dassonville [1974] ECR 837, paragraph 5, and Case C-270/Commission v Italy [2004] ECR I‑1559, paragraph 18). 
+      
+Accordingly, in the absence of harmonisation of laws, obstacles to the free movement of goods which are the consequence of
+         applying, to goods coming from other Member States where they are lawfully manufactured and marketed, rules that lay down
+         requirements to be met by such goods, even if those rules apply without distinction to all products, constitute measures of
+         equivalent effect prohibited by Article EC (Joined Cases C‑267/and C‑268/Keck and Mithouard [1993] ECR I-6097, paragraph 15, and Case C‑217/Commission v Belgium [2000] ECR I-10251, paragraph 16).
+      
+In the present case, however, it is clear from the wording of points 4.2, 4.3.1, 4.4.and 4.4.8.of standard NBN S 21‑that that standard contains not only rules on control of the overall functioning of automatic fire detection systems with
+         point detectors, but also technical requirements to be met by certain components of those systems.
+      
+It follows that, as regards the marketing in one Member State of products or components lawfully manufactured and marketed
+         in another Member State, and in the absence of Community harmonisation, the requirement of conformity to standard NBN S 21-imposed by the Belgian regulations may have the effect of forcing economic operators of other Member States to adapt their
+         apparatus and equipment to the requirements of standards or technical regulations of the Member State of importation and to
+         bear the additional costs associated with such adaptation (Commission v Belgium, paragraph 17; Case C-14/ATRAL [2003] ECR I-4431, paragraph 63; and Commission v Italy, paragraph 19), or of deterring them from marketing the products concerned in Belgium (Case 45/Commission v Ireland [1988] ECR I- 4929, paragraph 19, and Commission v Belgium, paragraph 18).
+      
+In that regard, it is not possible to accept the Kingdom of Belgium’s argument that there is no need to adapt products lawfully
+         manufactured or marketed in other Member States to the Belgian market on the ground that standard NBN S 21‑merely reproduces
+         technical requirements contained in the EN-series of European standards, since, as is clear both from the reasoned opinion
+         and from the Commission’s application, the present action concerns only automatic fire detection systems with point detectors
+         which do not have the CE marking.
+      
+Consequently, even though it is applicable without distinction to all products, the requirement of conformity to a national
+         standard such as standard NBN S 21‑hinders intra-Community trade and constitutes a measure having an effect equivalent
+         to a quantitative restriction on imports prohibited by Article EC.
+      
+Such a measure may be justified only by one of the public-interest reasons laid down in Article EC or by one of the overriding
+         requirements referred to in the case-law of the Court, provided that, in either case, that measure is appropriate for securing
+         the attainment of the objective pursued and does not go beyond what is necessary in order to attain it (ATRAL, paragraph 64, and Case C‑432/Commission v Portugal [2005] ECR I‑9665, paragraph 42).
+      
+The Kingdom of Belgium contends that the requirement of conformity to standard NBN S 21‑is justified on grounds of public
+         security and the protection of health and life of humans and animals.
+      
+However, although it cannot be denied that such grounds are among those which, under Article EC, may be relied on by a
+         Member State in order to justify such an obligation, and that, in the absence of harmonising rules, the Member States are
+         free to decide on their intended level of protection of health and life of humans (Case C‑293/Brandsma [1996] ECR I-3159, paragraph 11, and Commission v Portugal, paragraph 44), the fact remains that an exception to the principle of the free movement of goods may be justified under
+         that article only if the national authorities show that it is necessary in order to attain one or more objectives mentioned
+         in that article and that it is in conformity with the principle of proportionality (Case 227/Van Bennekom [1983] ECR 3883, paragraph 40; Case C‑358/Morellato [1997] ECR I-1431, paragraph 14; ATRAL, paragraph 67; and Commission v Italy, paragraph 22).
+      
+In that regard, the reasons which may be invoked by a Member State by way of justification must be accompanied by appropriate
+         evidence or by an analysis of the appropriateness and proportionality of the restrictive measure adopted by that State, and
+         precise evidence enabling its arguments to be substantiated (Case C‑42/Lindman [2003] ECR I‑13519, paragraph 25; Case C‑8/Leichtle [2004] ECR I-2641, paragraph 45; Case C‑147/Commission v Austria [2005] ECR I‑5969, paragraph 63; Case C‑137/Rockler [2006] ECR I‑1441, paragraph 25; and Case C‑185/Öberg [2006] ECR I‑1453, paragraph 22).
+      
+In the present case, it should be pointed out that such evidence is lacking. In fact, the Belgian authorities do no more than
+         assert that the obligation in question is applicable without distinction to national and imported products and that it satisfies
+         the requirements of necessity and proportionality referred to above, and submit that the objective of standard NBN S 21‑is to verify that the design of the system is sound and to ensure that the system functions properly.
+      
+As regards, in the second place, the requirement that automatic fire detection systems with point detectors be subject to
+         approval by BOSEC, the Kingdom of Belgium relies on a proposal for the amendment of standard NBN S 21‑with the aim of
+         deleting the reference to that body.
+      
+In this regard it is sufficient to observe that according to settled case-law, the question whether a Member State has failed
+         to fulfil its obligations must be determined by reference to the situation prevailing in the Member State at the end of the
+         period laid down in the reasoned opinion and that the Court cannot take account of any subsequent changes (see, in particular,
+         Case C‑423/Commission v Belgium [2002] ECR I‑593, paragraph 14, and Case C‑433/Commission v Germany [2005] ECR I‑6985, paragraph 32).
+      
+However, in the present case it is common ground that, on expiry of the period prescribed in the reasoned opinion, the Kingdom
+         of Belgium had not adopted the proposal for the amendment of standard NBN S 21‑entailing the deletion of the reference
+         to BOSEC as a certification body for automatic fire detection systems with point detectors.
+      
+Furthermore, the Court has already held that the requirement of prior approval attesting to a product’s fitness for a given
+         use restricts access to the market of the importing Member State and must therefore be regarded as a measure having an effect
+         equivalent to a quantitative restriction on imports within the meaning of Article EC (Commission v Portugal, paragraph 41).
+      
+As regards the disproportionate nature of that requirement, it must held that during the pre-litigation procedure the Kingdom
+         of Belgium accepted that, at least at the time to which the present action relates, in the context of the approval issued
+         by reference to standard NBN S 21‑100, in the absence of a bilateral agreement with the certification body of the Member State
+         of origin of a product, BOSEC did not take into account the controls carried out in that other Member State. As the Commission
+         observes, the Kingdom of Belgium has not furnished evidence to demonstrate that that practice has been abandoned.
+      
+As regards the costs which that approval procedure incurs, it is sufficient to observe that, inasmuch as such a procedure
+         does not preclude the imposition of tests and checks which have already been carried out in the Member State of origin of
+         the product concerned, the costs associated with such tests and checks must be regarded as disproportionate.
+      
+Accordingly, the action brought by the Commission must be considered to be founded.
+Consequently, it must be held that, by requiring that automatic fire detection systems with point detectors which were lawfully
+         manufactured or marketed in another Member State but which do not have the CE marking:
+      
+–       conform with Belgian standard NBN S 21-100,
+–       be subject to approval by BOSEC, an obstacle made worse by the disproportionate costs which that approval incurs, and
+–       undergo tests and checks in connection with that type approval which, essentially, duplicate the controls which have already
+         been carried out under other procedures in another Member State, 
+      
+the Kingdom of Belgium has failed to fulfil its obligations under Article EC.
+ Costs
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party’s pleadings. Since the Commission has applied for costs and the Kingdom of Belgium has
+         been unsuccessful in its submissions, the latter must be ordered to pay the costs.
+      
+On those grounds, the Court (Fourth Chamber) hereby:
+1.      Declares that, by requiring that automatic fire detection systems with point detectors which were lawfully manufactured or
+            marketed in another Member State but which do not have the CE marking:
+–       conform with Belgian standard NBN S 21-relating to the design of general automatic fire detection systems with point detectors,
+            of September 1986, as modified by Addendum No thereto of August 1996,
+–       be subject to approval by BOSEC (Belgian Organisation for Security Certification), an obstacle made worse by the disproportionate
+            costs which that approval incurs, and
+–       undergo tests and checks in connection with that type approval which, essentially, duplicate the controls which have already
+            been carried out under other procedures in another Member State,
+the Kingdom of Belgium has failed to fulfil its obligations under Article EC;
+2.      Orders the Kingdom of Belgium to pay the costs.
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

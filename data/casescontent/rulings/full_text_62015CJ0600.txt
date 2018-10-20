@@ -1,0 +1,183 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+December (
+*)
+‛Reference for a preliminary ruling — Regulation (EEC) No 2658/— Customs union and Common Customs Tariff — Tariff classification — Combined Nomenclature — Headings 8539, 8541, 8543, and — Light-emitting diode bulbs (LED)’
+In Case C‑600/15,
+REQUEST for a preliminary ruling under Article TFEU from the Hoge Raad der Nederlanden (Supreme Court of the Netherlands), made by decision of November 2015, received at the Court on November 2015, in the proceedings
+Staatssecretaris van Financiën
+v
+Lemnis Lighting BV,
+THE COURT (Tenth Chamber),
+composed of A. Borg Barthet (Rapporteur), acting as President of the Tenth Chamber, E. Levits and F. Biltgen, Judges,
+Advocate General: Y. Bot,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Lemnis Lighting BV, by E. Mennes and B. Kalshoven, belastingadviseurs,
+—
+the Netherlands Government, by M.K. Bulterman and B. Koopman, acting as Agents,
+—
+the Hungarian Government, by M. Fehér and G. Koós and by A. Pálfy, acting as Agents,
+—
+the European Commission, by A. Caeiros and P. Vanden Heede, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of tariff headings 8539, 8541, 8543, and of the Combined Nomenclature in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 1214/of September (OJ L 286, p. 1); (‘the CN’).
+The request has been made in proceedings between the Staatssecretaris van Financiën (State Secretary for Finance, Netherlands, ‘the customs authorities’) and Lemnis Lighting BV concerning the tariff classification of light-emitting diode bulbs (‘LED bulbs’).
+Legal context
+Convention on the Harmonised System
+The Customs Cooperation Council, now the World Customs Organisation (WCO), was established by the international convention creating that council, concluded in Brussels on December 1950. The Harmonised Commodity Description and Coding System (‘the HS’) was drawn up by the WCO and established by the International Convention on the Harmonised Commodity Description and Coding System (‘the HS Convention’), concluded in Brussels on June and approved, with its amending protocol of June 1986, on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1).
+Under Article 3(1) of the HS Convention, each Contracting Party undertakes to ensure that its customs tariff and statistical nomenclatures will be in conformity with the HS, to use all the headings and subheadings of the HS without addition or modification, together with their related codes, and to follow the numerical sequence of that system. Each Contracting Party also undertakes to apply the general rules for the interpretation of the HS and all the section, chapter and subheading notes of the HS, and not to modify their scope.
+The WCO is to approve, under the conditions laid down in Article of the HS Convention, the Explanatory Notes and Classification Opinions adopted by the HS Committee.
+The Explanatory Notes concerning heading of the HS are worded as follows:
+‘(A) Diodes, transistors and similar semi-conductor devices;
+…
+They include:
+(I)
+Diodes which are two-terminal devices with a single p n junction; they allow current to pass in one direction (forward) but offer a very high resistance in the other (reverse). They are used for detection, rectification, switching, etc.
+The main types of diodes are signal diodes, power rectifier diodes, voltage regulator diodes, voltage reference diodes.
+(II)
+Transistors …
+(III)
+Similar semiconductor devices …
+The devices described above fall in this heading whether presented mounted, that is to say with their terminals or leads or packaged (components), unmounted (elements) or even in the form of undiced discs (wafers).
+…
+(B) PHOTOSENSITIVE SEMICONDUCTOR DEVICES
+…
+(C) LIGHT EMITTING DIODES
+Light emitting diodes, or electroluminescent diodes, (based, inter alia, on gallium arsenide or gallium phosphide) are devices which convert electric energy into visible, infra-red or ultra-violet rays. They are used, e.g., for displaying or transmitting data in control systems.
+…’
+Under the HS Explanatory Notes concerning heading of the HS:
+‘This heading covers all electrical appliances and apparatus, not falling in any other heading of this Chapter, nor covered more specifically by a heading of any other Chapter of the Nomenclature, nor excluded by the operation of a Legal Note to Section XVI or to this Chapter. The principal electrical goods covered more specifically by other Chapters are electrical machinery of Chapter and certain instruments and apparatus of Chapter 90.
+The electrical appliances and apparatus of this heading must have individual functions. The introductory provisions of the Explanatory Note to heading 84.concerning machines and mechanical appliances having individual functions apply, mutatis mutandis, to the appliances and apparatus of this heading.
+Most of the appliances of this heading consist of an assembly of electrical goods or parts (valves, transformers, capacitors, chokes, resistors, etc.) operating wholly electrically. However, the heading also includes electrical goods incorporating mechanical features provided that such features are subsidiary to the electrical function of the machine or appliance.’
+The Explanatory Notes concerning heading of the HS are worded as follows:
+‘This heading is restricted to machinery having individual functions, which:
+…
+(c)
+cannot be classified in any other particular heading of this Chapter since:
+…
+(i)
+no other heading covers it by reference to its method of functioning, description or type;
+…
+The machinery of this heading is distinguished from the parts of machinery, etc., that fall to be classified in accordance with the general provisions concerning parts, by the fact that it has individual functions.
+For this purpose the following are to be regarded as having “individual functions”:
+(A)
+Mechanical devices … whose function can be performed distinctly from and independently of any other machine or appliance. …
+(B)
+Mechanical devices which cannot perform their function unless they are mounted on another machine or appliance, or are incorporated in a more complex entity, provided that this function:
+(i)
+is distinct from that which is performed by the machine or appliance whereon they are to be mounted, or by the entity wherein they are to be incorporated, and
+(ii)
+does not play an integral and inseparable part in the operation of such machine, appliance or entity.
+…’
+The HS Explanatory Notes relating to heading are worded as follows:
+‘The heading also covers identifiable parts of lamps and lighting fittings, illuminated signs, illuminated name-plates and the like, not more specifically covered elsewhere …
+Separately presented electrical fittings (e.g., switches, lamp holders, flex, plugs, transformers, starters, ballasts) are excluded (Chapter 85).
+…
+This heading also excludes:
+…
+(h)
+Electric filament lamps, discharge lamps (including tubes in various complex forms such as scrolls, letters, figures, stars, etc.) and arc lamps (heading 85.39).
+…’
+The CN
+The customs classification for goods imported into the European Union is governed by the CN, which is based on the HS.
+Under Article 12(1) of Regulation No 2658/87, as amended by Council Regulation (EC) No 254/of January (OJ L 28, p. 16), the European Commission is required to adopt each year a regulation reproducing the complete version of the CN and the rates of customs duty, as they result from measures adopted by the Council of the European Union or by the Commission. That regulation is to apply from January of the following calendar year.
+The versions of the CN applicable to the facts at issue in the main proceedings, which took place between May and March 2011, are those resulting successively from Regulation No 1214/2007, Commission Regulation (EC) No 1031/of September (OJ L 291, p. 1), Commission Regulation (EC) No 948/of September (OJ L 287, p. 1) and Commission Regulation (EU) No 861/of October (OJ L 284, p. 1). Since the wording of the provisions of the CN applicable to those facts has not been affected by those successive amendments, reference should be made to the version of that nomenclature resulting from Regulation No 1214/2007.
+Part One of the CN contains ‘preliminary provisions’. In that part, under Section I, which contains the general rules, part A, entitled ‘General rules for the interpretation of the [CN]’, provides:
+‘Classification of goods in the [CN] shall be governed by the following principles.
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+…
+4.
+Goods which cannot be classified in accordance with the above rules shall be classified under the heading appropriate to the goods to which they are most akin.
+…
+6.
+For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, mutatis mutandis, to the above rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule, the relative section and chapter notes also apply, unless the context requires otherwise.’
+The second part of the CN, entitled ’Schedule of Customs Duties’, contains, inter alia, Section XVI, Note of which provides:
+‘Where a machine (including a combination of machines) consists of individual components (whether separate or interconnected by piping, by transmission devices, by electric cables or by other devices) intended to contribute together to a clearly defined function covered by one of the headings in Chapter or 85, then the whole falls to be classified in the heading appropriate to that function.’
+Section XVI of the CN contains Chapter 85, entitled: ‘Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles.’
+Note to Chapter states:
+‘For the purposes of headings and 8542:
+“Diodes, transistors and similar semiconductor devices” are semiconductor devices the operation of which depends on variations in resistivity on the application of an electric field.
+…
+For the classification of the articles defined in this note, headings and shall take precedence over any other heading in the nomenclature, except in the case of heading 8523, which might cover them by reference to, in particular, their function.’
+Note to Chapter states:
+‘For the purposes of heading 8548, “spent primary cells, spent primary batteries and spent electric accumulators” are those which are neither usable as such because of breakage, cutting-up, wear or other reasons, nor capable of being recharged.’
+CN Chapter includes the following tariff headings:
+‘Electric filament or discharge lamps, including sealed beam lamp units and ultraviolet or infra-red lamps; arc lamps
+ 
+ 
+…
+…
+Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes; mounted piezoelectric crystals
+ 
+ 
+…
+…
+Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter
+…
+…
+Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified or included elsewhere in this chapter
+…’
+Chapter of the CN, included in Section XX of that nomenclature, has the heading ‘Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings’. That chapter includes tariff heading 9405, which reads as follows:
+‘Lamps and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included:
+…’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+During the period from May to March 2011, Lemnis Lighting submitted declarations for release into free circulation for LED bulbs.
+The LED bulbs consist of various electronic components, a glass covering and a metal fitting. They are intended to be fitted into a lighting fixture and serve for area lighting.
+One of the electronic components is a printed circuit board (‘PCB’) of mm x mm, on which six light-emitting diodes (‘the light-emitting diodes’) are mounted. The light-emitting diodes convert electrical energy, coming from the electricity grid, into visible light as soon as an electric current passes in a forward direction through the diode.
+The PCB with the light-emitting diodes is covered by a glass sphere. In addition, the LED bulbs have a fitting with a so-called Edison screw having a diameter of mm (Efitting; ‘the fitting’). The LED bulbs may also be used in a lighting fixture.
+The light-emitting diodes require a constant power supply. That is why an electronic component, which has the function of absorbing current flow alternations occurring in the electricity grid, is placed between the fitting and the PCB. That component contains, among other things, diodes, transistors, resistors, capacitors and coils, as well as integrated circuits.
+Lemnis Lighting declared the LED bulbs as coming under CN subheading 10, subject to payment of customs duties at a rate of 0%.
+The customs authorities took the view that LED bulbs had to be classified under CN subheading 90, with a customs tariff of 3.7%, and sent Lemnis Lighting notices of payment of customs duties at the appropriate amount.
+Lemnis Lighting brought a complaint against that classification decision, which was rejected by the customs authorities. It then lodged an appeal against that rejection decision before the Rechtbank te Haarlem (District Court, Harlem) which declared it unfounded. Lemnis Lighting appealed against that judgment before the Gerechtshof Amsterdam (Amsterdam Court of Appeal, Netherlands).
+The Gerechtshof Amsterdam (Amsterdam Court of Appeal) held that the LED bulbs may be classified under CN subheading pursuant to Rule of the General Rules for the Interpretation of the CN, with a customs tariff of 2.7%, since the incandescent lamps, covered by CN heading 8539, are the closest to the LED bulbs.
+The customs authorities brought an appeal on a point of law against that judgment of the Gerechtshof Amsterdam (Amsterdam Court of Appeal) before the referring court, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) and Lemnis Lighting brought a cross-appeal against that judgment. The referring court expresses doubts as to the tariff classification of LED bulbs.
+It takes the view that, to the extent that none of CN headings 8539, and are, in its view, applicable under Rule of the General rules for the interpretation of CN, the classification of LED bulbs can be made using Rules 2, or possibly of those general rules. It also submits that if LED bulbs were to be regarded as ‘electrical parts of machinery or apparatus’ or as ‘lamps and lighting fittings … and parts thereof’, the question arises as to whether they are capable of coming under CN heading or 9405.
+In those circumstances, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Are CN headings 8539, 8541, 8543, and to be interpreted as meaning that products such as LED bulbs, which consist of light-emitting diodes and other [electrical] components, as well as a glass covering and an Edison screw base, and which serve to provide illumination after being fitted into a lighting fitting, must be classified under one of those headings? If so, under which of those headings are those products to be classified? If not, under which other heading must classification then be made?’
+Consideration of the question referred
+By its question the referring court asks in essence in which CN heading, 8539, 8541, 8543, or 9405, should goods such as the LED bulbs at issue in the main proceedings, be classified.
+As a preliminary point, it should be recalled that, when the Court is requested to give a preliminary ruling on a matter of classification for customs purposes, its task is to provide the national court with guidance on the criteria which will enable the latter to classify the products at issue correctly in the CN, rather than to effect that classification itself, a fortiori since the Court does not necessarily have available to it all the information which is essential in that regard. In any event, the national court is in a better position to do so (judgment of June 2014, Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph and the case-law cited).
+Therefore, it is for the national court to classify the goods at issue in the main proceedings in the light of the answers given by the Court to the question referred to it.
+In order to provide a helpful answer to the referring court, it must be stated at the outset that, as is apparent from paragraph above, first, the General rules for the interpretation of the CN provide that the classification of goods is to be determined according to the terms of the headings and any section or chapter notes, the titles of sections, chapters and sub-chapters being provided for ease of reference only.
+Second, according to the Court’s settled case-law, in the interests of legal certainty and ease of verification, the decisive criterion for the classification of goods for customs purposes is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and of the notes to the sections or chapters (judgment of June 2014, Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph and the case-law cited).
+As regards the Explanatory Notes to the HS, it should be added that, although they do not have legally binding force, they are an important means of ensuring the uniform application of the Common Customs Tariff and, as such, may be regarded as useful aids to its interpretation (judgment of March 2016, Sonos Europe, C‑84/15, EU:C:2016:184, paragraph and the case-law cited).
+In the present case, LED bulbs such as those at issue in the main proceedings are not expressly referred to in the wording of CN headings 8539, 8541, or 9405, in the notes to the CN sections or chapters, or by the CN or HS Explanatory Notes.
+It is necessary, however, to examine whether those LED bulbs are capable of being classified in one of those CN headings.
+As regards CN heading 8539, it is clear from its wording that it refers specifically and exclusively to ‘electric filament or discharge lamps, including sealed beam lamp units and ultraviolet or infra-red lamps; arc lamps’. Therefore, that heading applies only to lamps which use a particular technique in order to produce light.
+The objective characteristics and properties of goods such as those at issue in the main proceedings do not correspond to that wording. The LED bulbs emit light by means of light-emitting diodes, which is a process of diffusing light that is not covered by CN heading 8539.
+Consequently, goods such as those at issue in the main proceedings cannot come under CN heading 8539.
+As regards CN heading 8541, it relates in particular to ‘light-emitting diodes’. As is apparent from the order for reference and the observations lodged at the Court, it is common ground that the LED bulbs contain such diodes.
+It is important to note in that regard that, according to the HS Explanatory Notes to heading 8541, that heading includes, in particular, light-emitting diodes or electroluminescent diodes which are devices which convert electric energy into visible, infra-red or ultra-violet rays. They are used, for example, for displaying or transmitting data in control systems.
+It follows that CN heading includes light-emitting diodes which are not assembled with other electronic components. It is clear that the LED bulbs are made of not only light-emitting diodes, but also many other components, such as a glass blub, a PCB and a fitting.
+Consequently, the LED bulbs cannot come under CN heading 8541.
+As regards CN heading 8548, it must be stated that this includes in particular ‘electrical parts of machinery or apparatus’.
+It should be borne in mind that although the CN does not define ‘parts’ within the meaning of CN heading 8548, it is clear from the Court’s case-law, developed in the context of Chapters and of Section XVI and of Chapter of Section XVIII of the CN, that the notion of ‘parts’ implies a whole for the operation of which the part is essential. It follows from that case-law that, in order to classify an article as ‘parts’ within the meaning of those chapters, it is not sufficient to show that, without that article, the machine or apparatus is not able to carry out its intended functions. It must also be established that the mechanical or electrical functioning of the machine or apparatus in question is dependent on that article (judgment of December 2013, HARK, C‑450/12, EU:C:2013:824, paragraph and the case-law cited).
+In the present case, it is clear from the referring court’s factual findings that the LED bulbs at issue in the main proceedings may be fitted into a lighting fixture. In addition, the light-emitting diodes require a constant current. As the Commission submits in its written observations, although a lighting fixture without a bulb is not capable of diffusing light, the mechanical or electrical operation of the lighting fixture does not depend on the presence or absence of the LED bulb.
+Therefore, it should be noted that the LED bulb is not indispensable for the operation of a lighting fixture. Having regard to the case-law of the Court of Justice cited in paragraph of the present judgment, such a bulb is therefore not capable of being described as ‘parts’ of a lighting fixture and, accordingly, coming under CN heading 8548.
+In addition, LED bulbs cannot be regarded as ‘lamps and lighting fittings including searchlights and spotlights and parts thereof’ within the meaning of CN heading 9405.
+In the interests of a consistent and uniform application of the Common Customs Tariff, the notion of ‘parts’, within the meaning of CN heading 9405, must be given the same definition as that established by the Court’s case-law on other chapters of the CN, such as that referred to in paragraph of the present judgment.
+Consequently, LED bulbs cannot come under CN heading 9405, since they cannot, as is apparent from paragraphs and of the present judgment, be regarded as ‘parts’ of lamps and lighting fittings which are necessary for their operation.
+As regards CN heading 8543, it is clear from the wording of that heading that it covers ‘electrical machines and apparatus, having individual functions, not specified or included elsewhere in [Chapter of the CN]’. Thus, the classification of a product under the same heading is feasible only if it is not possible to classify that product under another heading of Chapter 85. It follows from paragraphs 42, and of the present judgment that that is not the case here (see, by analogy, judgment of February 2016, G. E. Security, C‑143/15, EU:C:2016:115, paragraph 71.
+Moreover, CN heading applies to an electrical machine or apparatus only if it has an individual function (judgment of November 2014, Rohm Semiconductor, C‑666/13, EU:C:2014:2388, paragraph 27).
+The HS Explanatory Notes to heading of that system state that the ‘electrical appliances and apparatus’ of that heading must have individual functions. Those notes also point out that most of the appliances of that heading consist of an assembly of electrical goods or parts (valves, transformers, capacitors, chokes, resistors, and so forth) operating wholly electrically but that the heading also includes electrical goods incorporating mechanical features provided that such features are subsidiary to the electrical function of the machine or appliance. In addition, that paragraph states that the introductory provisions of the HS Explanatory Notes to heading concerning machines and mechanical appliances having individual functions apply, mutatis mutandis, to the appliances and apparatus of HS heading 8543.
+In that regard, the HS Explanatory Notes to HS heading state, first, that it is restricted to machinery having individual functions which cannot be classified in any other particular heading of Chapter of the HS since no other heading covers it by reference to its method of functioning, description or type, and, second, the machinery of that heading is distinguished from the parts of machinery, and so forth, that fall to be classified in accordance with the general provisions concerning parts, by the fact that it has individual functions.
+In the present case, the LED bulbs have a lighting function. That function is provided by the light-emitting diodes through which a constant current flows. In that respect, those bulbs do not necessarily need to be integrated in a lighting fixture in order to perform the lighting function, since an electrical current is sufficient to make them work. Thus, LED bulbs have individual functions.
+Having regard to all of the foregoing considerations, the answer to the question put by the referring court is that the CN must be interpreted as meaning that goods such as the LED bulbs at issue in the main proceedings fall, subject to the referring court’s assessment of all the facts before it, under CN heading 8543.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+The Combined Nomenclature in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EC) No 1214/of September 2007, must be interpreted as meaning that goods such as the LED bulbs at issue in the main proceedings fall, subject to the referring court’s assessment of all the facts before it, under heading of that nomenclature.
+ 
+[Signatures]
+(
+*)	* Language of the case: Dutch.
+Top  
+ 

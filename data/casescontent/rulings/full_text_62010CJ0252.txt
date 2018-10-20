@@ -1,0 +1,428 @@
+
+JUDGMENT OF THE COURT (Seventh Chamber)
+July (*)
+      
+(Appeal – Public procurement – European Maritime Safety Agency (EMSA) – Call for tenders relating to the ‘SafeSeaNet’ application – Decision rejecting a tenderer’s bid – Contract award criteria – Sub-criteria – Obligation to state reasons)
+In Case C‑252/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on May 2010,
+Evropaïki Dynamiki – Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE, represented by N. Korogiannakis, dikigoros,
+      
+appellant,
+the other party to the proceedings being:
+European Maritime Safety Agency (EMSA), represented by J. Menze, acting as Agent, and by J. Stuyck and A.-M. Vandromme, advocaten,
+      
+defendant at first instance,
+THE COURT (Seventh Chamber),
+composed of D. Šváby, President of the Chamber, E. Juhász (Rapporteur) and T. von Danwitz, Judges,
+Advocate General: P. Mengozzi,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on February 2011,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its appeal, Evropaïki Dynamiki – Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE (‘Evropaïki Dynamiki’)
+         seeks to have set aside in part the judgment of the General Court of the European Union of March in Case T‑70/Evropaïki Dynamiki v EMSA [2010] ECR II-(‘the judgment under appeal’) in so far as the General Court dismissed its application for annulment of
+         the decision of the European Maritime Safety Agency (EMSA) not to accept the tender submitted by the appellant in tendering
+         procedure EMSA C‑1/01/04‑relating to the contract entitled ‘SafeSeaNet Validation and further development’ and to award
+         that contract to the successful tenderer (‘the contested decision’).
+      
+ Legal context
+Under Article of Council Regulation (EC, Euratom) No 1605/of June on the Financial Regulation applicable to
+         the general budget of the European Communities (OJ L 248, p. 1) (‘the Financial Regulation’), in the version applicable
+         at the material time:
+      
+‘1.      The selection criteria for evaluating the capability of candidates or tenderers and the award criteria for evaluating the
+         content of the tenders shall be defined in advance and set out in the call for tender.
+      
+2.      Contracts may be awarded by the automatic award procedure or by the best‑value-for-money procedure.’ 
+In that connection, Article of Commission Regulation (EC, Euratom) No 2342/of December laying down detailed
+         rules for the implementation of Regulation No 1605/(OJ L 357, p. 1) (‘the implementing rules’), relating to award
+         arrangements and criteria, in the version applicable at the material time, provides:
+      
+‘1.      Contracts shall be awarded in one of the following two ways:
+(a)      under the automatic award procedure, in which case the contract is awarded to the tender which, while being in order and satisfying
+         the conditions laid down, quotes the lowest price; 
+      
+(b)      under the best-value-for-money procedure.
+2.      The tender offering the best value for money shall be the one with the best price-quality ratio, taking into account criteria
+         justified by the subject of the contract such as the price quoted, technical merit, aesthetic and functional characteristics,
+         environmental characteristics, running costs, profitability, completion or delivery times, after-sales service and technical
+         assistance.
+      
+3.      The contracting authority shall specify, in the contract notice or in the [tender] specifications, the weighting it will apply
+         to each of the criteria for determining best value for money.
+      
+The weighting applied to price in relation to the other criteria must not result in the neutralisation of price in the choice
+         of contractor. 
+      
+If, in exceptional cases, weighting is technically impossible, particularly on account of the subject of the contract, the
+         contracting authority shall merely specify the decreasing order of importance in which the criteria are to be applied.’
+      
+Article 17(1) of Council Directive 92/50/EEC of June relating to the coordination of procedures for the award of public
+         service contracts (OJ L 209, p. 1), which was still in force at the relevant time in the context of the present case,
+         provided: 
+      
+‘The notices shall be drawn up in accordance with the models set out in Annexes III and IV and shall specify the information
+         requested in those models. The contracting authorities may not require any conditions other than those specified in Articles
+         and when requesting information concerning the economic and technical standards which they require of service providers
+         for their selection (section of Annex III B, section of Annex III C, and section of Annex III D).’
+      
+Article of Directive 2004/18/EC of the European Parliament and of the Council of March on the coordination of procedures
+         for the award of public works contracts, public supply contracts and public service contracts (OJ L 134, p. 114) provides:
+      
+‘Directive 92/50/EEC, except for Article thereof, and Directives 93/36/EEC and 93/37/EEC shall be repealed with effect
+         from the date shown in Article 80, without prejudice to the obligations of the Member States concerning the deadlines for
+         transposition and application set out in Annex XI.
+      
+References to the repealed Directives shall be construed as references to this Directive and shall be read in accordance with
+         the correlation table in Annex XII.’
+      
+ Background to the dispute
+By two contract notices dated and July 2004, EMSA launched two calls for tender, one relating to ‘SafeSeaNet validation
+         and further development’ under the reference EMSA C-1/01/04-(OJ S 126) (‘call for tenders C-1/01/04’) and the other
+         relating to the ‘Specification and development of a marine casualty database, network and management system (marine casualty
+         information platform)’ under the reference EMSA C-2/06/(OJ S 128) (‘call for tenders C‑2/06/04’). 
+      
+EMSA sent the invitations to tender and the tender specifications for calls for tenders C-1/01/and C-2/06/on and July respectively. 
+      
+As regards call for tenders C-1/01/04, point of the tender specifications states that ‘… The contract will be awarded to
+         the tenderer who submits the most economically advantageous bid’, and that this would be assessed on the basis of the following
+         factors:
+      
+‘(a)      Technical evaluation criteria in their order of importance as weighted by percentage:
+1.      Proposed methodology for the project – this includes the detailed proposals of how the project would be carried out including
+         milestones and deliverables (as defined in [point] [of the tender specifications]). (40%) 
+      
+2.      Understanding of the specifications in terms of reference and the succinct presentation of that understanding. (20%) 
+3.      Quality of the operational services (Helpdesk) (10%)
+(b)      Total price (30%)
+Only bids that have reached a total score of a minimum of 70% and a minimum score of 60% for each criteri[on] will be taken
+         into consideration for awarding the contract.’
+      
+With regard to the first of those three award criteria, point of the tender specifications, entitled ‘Reports and documents
+         to be submitted’, provided that tenders were to include detailed information regarding the project implementation structure,
+         each work package was to be clearly defined, and the project implementation structure was to include (as a minimum) the following:
+         horizontal activities (point 3.1); a description of the project management team and responsibilities (point 3.2); quality
+         control (point 3.3); deliverables on project management level (point 3.4); work package description and relations (point 3.5);
+         and other relevant information concerning the submission of reports (point 3.6). 
+      
+According to paragraphs to of the judgment under appeal:
+      
+‘The applicant claims that it sent to EMSA, by fax of July 2004, a request for additional information. It claims to have
+         repeated that request by fax of August 2004. 
+      
+By email of August 2004, EMSA informed the applicant that the fax of August 2004, containing that request for information,
+         had been received incomplete and asked it to resend its questions by email, which the applicant did that same day. In that
+         email, the applicant stated that it had tried to send the fax on July and again on August 2004, but that there seemed
+         to have been a problem in transmitting the fax. It therefore asked that its request be dealt with, since the last day for
+         submitting such requests, namely Saturday, July 2004, was not a working day. 
+      
+By email of August 2004, EMSA informed the applicant that its questions would not be answered on account of their late submission,
+         in accordance with point of the invitation to tender. By email of the same day, the applicant pointed out once more that
+         it had tried in vain to send that request for information on the days indicated and that, in any event, since the deadline
+         for submitting questions was Saturday, July 2004, it should have been extended to the next working day, namely, Monday
+         August 2004. 
+      
+On August 2004, the applicant submitted its tender.
+By letter of December 2004, EMSA informed the applicant that its tender had not been selected because its price/quality
+         ratio was worse than that of the successful tender. 
+      
+By fax of December 2004, the applicant asked EMSA for the name of the successful tenderer, the characteristics and relative
+         advantages [of its tender] and the scores given under each award criterion to both the applicant’s tender and that of the
+         successful tenderer, a copy of the evaluation committee report and a comparison between its financial offer and that of the
+         successful tenderer. 
+      
+By letter dated December 2004, which the applicant states it did not receive until January 2005, EMSA informed the applicant
+         of the scores achieved by its tender under each award criterion, as well as the total score of the successful tender. With
+         regard to the latter’s characteristics, EMSA stated as follows:
+      
+“clear approach in terms of methodology to be used for managing the whole project. The description of the tasks is realistic
+         (well completed with tables indicating the effort and resources affected, Gantt diagram and breakdown of tasks); the number
+         of man days offered is sufficient; deliverables have been assigned per type of task; good understanding of the project and
+         good approach in the management plan; the proposed Service Level Agreement complies with the requirements of the project.”
+         
+      
+On January 2005, the applicant sent a fax to EMSA stating that it had not been informed about the outcome of the contract
+         award process in respect of the two calls for tender within the time-limits imposed by the Financial Regulation. It also complained
+         that EMSA had proceeded to the signature of contracts with the selected tenderers and published this information in the Official
+         Journal. 
+      
+EMSA replied, by letter and fax of January 2005, attaching a copy of its letter of December 2004. 
+By fax of January 2005, the applicant pointed out that it had received the letter from EMSA dated December late.
+         It also complained that EMSA had infringed the Financial Regulation in that it had failed to answer the applicant’s request
+         for information within the time-limit, had not informed the applicant of the name of the successful tenderer, the amount of
+         its financial offer, or the technical evaluation of its tender in comparison to the applicant’s own, and had decided to proceed
+         to signature of the contract. Furthermore, it asserted that the reference made by EMSA, in its letter of December 2004,
+         to the score given to the applicant’s tender by the evaluation committee for each award criterion was not detailed and did
+         not include reasons for its decision. Finally, the applicant requested a number of clarifications with regard to the evaluation
+         committee’s assessment. 
+      
+By fax of February 2005, EMSA replied to the applicant, informing it of the name of the successful tenderer and stating
+         that the applicant had already received the result of the tender evaluation and that more detailed information, such as financial
+         and commercial details of the successful tenderer, would harm that party’s legitimate interests and could therefore not be
+         disclosed.’ 
+      
+As regards call for tenders C-2/06/04, by decision of September 2004, the tender opening board accepted the tender submitted
+         by SSPA Sweden AB (‘SSPA’), despite the fact that, as the General Court found in the judgment under appeal, that tender had
+         been received on August 2004, that is to say, one day after the deadline set for submitting tenders, and that the envelope
+         containing it was not postmarked. 
+      
+By letter of November 2004, EMSA informed the appellant that its tender in respect of call for tenders C-2/06/had not
+         been selected for the same reason as its tender relating to call for tenders C-1/01/04. 
+      
+ The procedure before the General Court and the judgment under appeal
+On February 2005, Evropaïki Dynamiki brought an action before the General Court for annulment of, firstly, EMSA’s decisions
+         not to accept its tenders relating to the two calls for tenders at issue and to award the contracts to the successful tenderers,
+         and, secondly, all of EMSA’s subsequent decisions relating to those calls for tenders. 
+      
+By the judgment under appeal, the General Court annulled EMSA’s decision to award the contract to the successful tenderer
+         in tendering procedure C-2/06/04, but dismissed the action in so far as it related to tendering procedure C-1/01/04.
+      
+In relation to tendering procedure C-2/06/04, the General Court noted that SSPA’s tender had reached EMSA on August 2004,
+         that is to say, one day after the deadline for submission of tenders, and that there was no post office stamp, either of despatch
+         or receipt, on the envelope containing the tender. Moreover, the envelope neither carried any indication that it had been
+         sent by registered mail, nor did it carry any date of submission at a post office. As a result, the General Court considered
+         that that procedural defect affected the validity of the procedure, since, if SSPA’s tender had been rejected, the administrative
+         procedure would clearly have had a different outcome. Consequently, the General Court found a breach of Article of the
+         implementing rules and point of the invitation to tender.
+      
+With regard to tendering procedure C-1/01/04, after having rejected the plea of inadmissibility alleging that it lacked jurisdiction
+         to hear an action brought on the basis of Article EC against an act of EMSA, and alleging exceptio obscuri libelli, put forward by EMSA, the General Court considered the appellant’s action.
+      
+In support of the action, the appellant raised four pleas in law, alleging, firstly, breach of the principles of good faith,
+         good administration and diligence, secondly, infringement of the Financial Regulation, the implementing rules and Directive
+         92/50, thirdly, manifest errors of assessment by EMSA and, fourthly, lack of relevant information and failure to state reasons.
+      
+All those pleas in law were rejected by the General Court as unfounded or inadmissible. 
+      
+ Procedure before the Court of Justice and forms of order sought by the parties
+By its appeal, the appellant claims that the Court should set aside the judgment under appeal in part, to the extent to which
+         that judgment dismissed its application for annulment of the contested decision, concerning call for tenders C‑1/01/04, and
+         order EMSA to pay the costs. 
+      
+EMSA contends that the Court should dismiss the appeal and order the appellant to pay the costs.
+      
+ Consideration of the appeal
+In support of its appeal, the appellant invokes three grounds alleging, respectively, an error of law consisting in misinterpretation
+         of Article of the Financial Regulation, Article 138(3) of the implementing rules and Article 17(1) of Directive 92/50,
+         breach of the obligation to state reasons on the part of the contracting authority and the General Court, and a manifest error
+         of assessment.
+      
+ First plea, alleging misinterpretation of Article of the Financial Regulation, Article 138(3) of the implementing rules
+            and Article 17(1) of Directive 92/Arguments of the parties
+Evropaïki Dynamiki submits that the General Court erred in law in misinterpreting Article of the Financial Regulation,
+         Article 138(3) of the implementing rules and Article 17(1) of Directive 92/50, to which the General Court referred in order
+         to assess the legality of the subdivision of the award criteria. That interpretation is claimed to be contrary to the judgment
+         in Case C‑532/Lianakis and Others [2008] ECR I‑in which the Court of Justice interpreted Directive 92/as meaning that a contracting authority cannot
+         apply, in respect of the award criteria, sub-criteria which it has not previously brought to the tenderers’ attention.
+      
+In that regard, the General Court found, at paragraphs and of the judgment under appeal, as follows:
+      
+‘… a contracting authority cannot apply sub-criteria for award criteria which it has not previously brought to the tenderers’
+         attention (see, to that effect and by analogy, Lianakis and Others, paragraph 38). 
+      
+In accordance with settled case-law, it is, none the less, possible for a contracting authority, after expiry of the period
+         for submission of tenders, to determine weighting coefficients for sub-criteria of award criteria previously established,
+         on three conditions, namely that that ex post determination, firstly, does not alter the criteria for the award of the contract
+         set out in the contract documents or the contract notice; secondly, does not contain elements which, if they had been known
+         at the time the tenders were prepared, could have affected that preparation; and, thirdly, was not adopted on the basis of
+         matters likely to give rise to discrimination against one of the tenderers (see, to that effect and by analogy, [Case C‑331/04]
+         ATI EAC e Viaggi di Maio and Others [[2005] ECR I‑10109], paragraph 32, and Lianakis and Others, …, paragraphs and 43.’
+      
+However, the General Court found, at paragraphs and of the judgment under appeal, that in this case the evaluation
+         committee had not subdivided the award criterion into sub-criteria which had not previously been brought to the tenderers’
+         attention. Those sub-criteria correspond, essentially, to the description of the first criterion, concerning methodology,
+         as specified in point 13.of the tender specifications, read in the light of point thereof. Therefore, the evaluation committee
+         merely weighted the points available for the first award criterion by dividing them fairly between those sub-criteria.
+      
+At paragraph of the judgment under appeal, the General Court rejected the appellant’s complaint as unfounded, noting that
+         the appellant had not shown that the decision of the contracting authority to introduce sub-criteria had led to an alteration
+         of the contract award criteria previously defined in the tender documents, or that it contained elements which could have
+         affected the preparation of the tenders, or that it had given rise to discrimination against the appellant or one of the tenderers.
+      
+According to the appellant, the General Court, in examining the first award criterion, ‘Proposed Methodology for the project’,
+         proceeded to compare it, improperly, with the two sub-criteria at issue, ‘repartition of tasks, manpower offered of quality
+         and man-days (roadmap)’ and ‘deliverables’, and concluded that the subdivision of the criterion in the course of the evaluation
+         of the tenders was lawful, in accordance with Lianakis and Others. In the appellant’s submission, due to the correspondence of those sub-criteria to the first award criterion, the General
+         Court incorrectly drew the conclusion that the evaluation committee had not subdivided that criterion into sub-criteria which
+         had not previously been brought to the attention of the tenderers.
+      
+The appellant infers from the comparison that it carries out between the present case and Lianakis and Others that the subdivision carried out by the contracting authority during the tendering procedure vitiated the procedure at issue
+         and that, had it wished to carry out such a subdivision, it should have done so before submission of the tenders. 
+      
+EMSA, the respondent in the present appeal, contends that Lianakis and Others, in which the Court interpreted provisions of Directive 92/50, does not apply to the present case, which concerns a public
+         contract awarded by the Community institutions. However, even if that earlier case is relevant, the circumstances of the present
+         case can be distinguished from those of the earlier case. The General Court thus correctly applied ATI EAC e Viaggi di Maio and Others, in which the Court accepted that it is possible to apply weighting to award criteria provided that the weighting does not
+         alter the criteria for the award of the contract set out in the contract documents, the weighted criteria do not contain elements
+         which, if they had been known at the time the tenders were prepared, could have led to their content being amended, and the
+         criteria were not adopted on the basis of considerations likely to give rise to discrimination against one of the tenderers.
+      
+ Findings of the Court
+It should be noted at the outset that, where a contract is to be awarded by the best-value-for-money procedure, in accordance
+         with Article 97(2) of the Financial Regulation and Article 138(1) of the implementing rules, the contracting authority must
+         define and specify in the tender specifications the award criteria enabling evaluation of the content of tenders. In addition,
+         those criteria must, in accordance with Article 138(2) of the implementing rules, be justified by the subject of the contract.
+         According to Article 138(3), the contracting authority must also specify, in the contract notice or in the tender specifications,
+         the weighting it will apply to each of the criteria for determining the best value for money. Those provisions seek to ensure
+         compliance with the principles of equal treatment and transparency at the stage of evaluation of tenders with a view to award
+         of the contract (see, by analogy, Case 31/Beentjes [1988] ECR 4635, paragraphs and 22, and Case C‑470/Universale-Bau and Others [2002] ECR I‑11617, paragraphs to 92).
+      
+Consequently, in order to ensure compliance with the principles of equal treatment and transparency, potential tenderers should
+         be aware of all the elements to be taken into account by the contracting authority in identifying the tender offering the
+         best value for money and, if possible, their relative importance, when they prepare their tenders (see, to that effect, ATI EAC e Viaggi di Maio and Others, paragraph 24; and Lianakis and Others, paragraph 36).
+      
+It follows that a contracting authority cannot apply, in respect of the award criteria, sub-criteria which it has not previously
+         brought to the tenderers’ attention (see, to that effect, Lianakis and Others, paragraph 38). 
+      
+It should be recalled that, at paragraphs and and in the operative part of Lianakis, the Court interpreted Directive 92/read in the light of the principle of equal treatment of economic operators and the
+         ensuing obligation of transparency. Accordingly, the legality of the use of sub-criteria and the corresponding weighting must
+         always be assessed on the basis of those principles. The Court did not establish a total or absolute ban on contracting authorities’
+         specifying in more detail a criterion previously brought to the tenderers’ attention and giving it weighting.
+      
+Accordingly, it is possible for a contracting authority to determine, after expiry of the time-limit for submitting tenders,
+         weighting factors for the sub-criteria which correspond in essence to the criteria previously brought to the tenderers’ attention,
+         provided that three conditions apply, namely, that that subsequent determination, firstly, does not alter the criteria for
+         the award of the contract set out in the contract documents or contract notice; secondly, does not contain elements which,
+         if they had been known at the time the tenders were prepared, could have affected that preparation; and, thirdly, was not
+         adopted on the basis of matters likely to give rise to discrimination against one of the tenderers (see, to that effect, ATI EAC e Viaggi di Maio and Others, paragraph 32, and Lianakis and Others, point 43).
+      
+It follows from paragraphs to of the judgment under appeal that the General Court assessed the disputed sub-criteria
+         in the light of that case-law and found that their application complied with that case-law. 
+      
+For that purpose, it must be considered that an evaluation committee must be able to have some leeway in carrying out its
+         task. Accordingly, it may, without amending the contract award criteria set out in the contract documents or the contract
+         notice, structure its own work of examining and analysing the submitted tenders.
+      
+Consequently, it must be found that the General Court did not err in law in that respect, with the result that the first plea
+         must be rejected as unfounded.
+      
+ The second plea, alleging breach of the obligation to state reasons
+The second plea is in two parts. These concern breach of the obligation to state reasons imposed on the contracting authority
+         and the General Court, respectively.
+      
+ The first part
+–       Arguments of the parties
+In support of the first part, the appellant refers to the Financial Regulation and the implementing rules as well as Directive
+         2004/18, which oblige the contracting authority to inform, upon request, the rejected tenderer ‘of the characteristics and
+         relative advantages of the tender selected as well as the name of the successful tenderer or the parties to the framework
+         agreement’. Evropaïki Dynamiki deduces from the General Court’s case-law that a contracting authority cannot be considered
+         to be released from its duty to state reasons and respect the principle of transparency when it refuses to disclose a copy
+         of the evaluation report to the tenderers which have requested it. Consequently, EMSA ought to have communicated to it, in
+         response to its written request, a full copy of the evaluation report in order for the appellant to be in a position to assess
+         the reasons for the rejection of its tender, and not, as occurred in the present case, during the course of the proceedings
+         before the General Court.
+      
+EMSA contends that, as part of the duty to state reasons, a contracting authority is under no obligation to communicate the
+         evaluation committee’s report to an unsuccessful tenderer. Under Article 100(2) of the Financial Regulation, the contracting
+         authority is merely obliged to notify those concerned of the characteristics and relative advantages of the successful tender
+         and of the name of the tenderer to whom the contract has been awarded.
+      
+In relation to the complaint that much of the information was communicated to the appellant only at the stage of submission
+         of EMSA’s statement of defence before the General Court, EMSA contends that that issue has nothing to do with the obligation
+         to state reasons and that it was raised in the context of tendering procedure C‑2/06/04, which is not the subject of the present
+         appeal.
+      
+–       Findings of the Court
+It is sufficient to note that the appellant, in the first part of the second plea, does not precisely determine the paragraph
+         of the judgment under appeal which it criticises and merely refers to the procedure relating to call for tenders C-2/06/04,
+         which is not the subject of the present appeal.
+      
+Therefore, the first part of the second plea must be rejected as inadmissible.
+      
+ The second part
+–       Arguments of the parties
+The appellant considers that the General Court did not give sufficient reasons in the judgment under appeal, which suggested
+         that the appellant was in a position to deduce the relative advantages of the successful tender. Accordingly, the General
+         Court interpreted the contracting authority’s obligation to state reasons in a fresh and wholly wrong manner, since it connected
+         that obligation to the personal qualities of the addressee of the decision without giving that addressee the actual opportunity
+         to understand the outcome of the evaluation and the relative advantages of the successful tender. This, it submits, is contrary
+         to Article of the Charter of Fundamental Rights of the European Union, in particular the right of any person to have access
+         to his or her file, and to Article of that Charter, which guarantees the fundamental right of any person to a fair and
+         public hearing. 
+      
+Moreover, the judgment under appeal is, in the appellant’s submission, at variance with the judgment in Case C-450/Varec [2008] ECR I-581, which should be applied by analogy. The obligation to communicate information relating to the award of
+         a contract means that access to that information should be refused only by way of exception, solely when such information
+         is deemed confidential or contains business secrets. Accordingly a balance must be struck, with priority being given to effective
+         protection of the parties’ own interests before the General Court. Furthermore, the General Court ought to have examined individually
+         the appellant’s arguments concerning the manifest error of assessment and, in particular, the arguments made separately for
+         each of the award criteria.
+      
+EMSA contends that the General Court gave sufficient reasons for its decision in noting that point 13.of the tender specifications
+         indicates the minimum total score (70%) and the minimum score for each award criterion (60%), which constitute the conditions
+         for awarding the contract. Furthermore, in its letter of December 2004, EMSA provided the appellant with sufficient information,
+         in providing it with its marks for each criterion, its total score, the total score of the successful tenderer as well as
+         the characteristics of the successful tender. The appellant should have understood on the basis of that information that it
+         could not in any event have been awarded the contract concerned, as it was excluded from the award phase because of its insufficient
+         score as regards the first and third award criteria.
+      
+ Findings of the Court
+According to settled case-law, the obligation of the General Court to state reasons, pursuant to the first sentence of Article
+         and the first paragraph of Article of the Statute of the Court of Justice of the European Union, does not require the
+         General Court to provide an account that follows exhaustively and point by point all the reasoning articulated by the parties
+         to the case. The reasons may therefore be implicit, provided that they enable the person affected by a decision of the General
+         Court to acquaint himself with the reasons for that decision and the Court of Justice to have sufficient information in order
+         to exercise its power of review (see, in particular, judgment of May in Case C-266/P Evonik Degussa v Commission, paragraph and case-law cited).
+      
+In relation to the extent of the grounds of the judgment under appeal, the right of access to information of an unsuccessful
+         economic operator following a procedure for the award of a public contract serves to protect his legal position in relation
+         to that procedure, in order to bring a possible action against the contracting authority’s decision, but it does not constitute
+         a legal basis for formulating criticisms of every kind, which are not capable of affecting that legal position. Therefore,
+         the General Court is not required to rule on such criticisms.
+      
+It follows from paragraphs to and to of the judgment under appeal that the General Court explained sufficiently
+         the reasons for which it considered, respectively, that the statement of reasons for the contested decision enabled the appellant
+         to infer the relative advantages of the successful tender compared with its own tender and that the appellant did not show
+         a manifest error of assessment of its tender on the part of the contracting authority. The appellant’s reliance on certain
+         provisions of the Charter of Fundamental Rights of the European Union is not such as to call that finding into question.
+      
+Accordingly, the second part of the second plea must be rejected as unfounded.
+      
+Consequently, the second plea must be rejected as being in part inadmissible and in part unfounded.
+      
+ The third plea, alleging an error in law in examining the existence of a manifest error of assessment 
+ Arguments of the parties
+Evropaïki Dynamiki maintains that the General Court did not examine individually the pleas alleging the manifest error of
+         assessment that it raised at first instance and that the General Court thereby erred in law.
+      
+There is, it claims, a contradiction in the judgment under appeal, in that the General Court finds that the limited information
+         provided to the appellant was sufficient for it to assert its rights, whilst in the same judgment requiring the appellant
+         to demonstrate how those alleged failures affected the conclusions of the evaluation report. The appellant thus adequately
+         showed that EMSA had made manifest errors of assessment such as to justify the annulment of the contested decision and the
+         appellant invites the Court to examine those errors again and thoroughly. 
+      
+EMSA considers that the appellant merely repeats facts and arguments which have already been submitted to the General Court
+         and cannot be examined on appeal. Moreover, the judgment under appeal, which shows that the General Court did in fact examine
+         the appellant’s arguments individually, rightly states that Evropaïki Dynamiki was unable to adduce evidence to support those
+         arguments. 
+      
+ Findings of the Court 
+It follows from Article TFEU, the first paragraph of Article of the Statute of the Court of Justice and Article 112(1)(c)
+         of the Rules of Procedure of the Court of Justice that an appeal must indicate precisely the contested elements of the judgment
+         which the appellant seeks to have set aside and also the legal arguments specifically advanced in support of the appeal. That
+         requirement is not satisfied by an appeal which, without even including an argument specifically identifying the error of
+         law allegedly vitiating the judgment under appeal, merely reproduces the pleas in law and arguments previously submitted to
+         the General Court. Such an appeal amounts in reality to no more than a request for re‑examination of the application submitted
+         to the General Court, which the Court of Justice does not have jurisdiction to undertake (see, in particular, Case C‑352/P
+         Bergaderm and Goupil v Commission [2000] ECR I‑5291, paragraphs and 35; Case C‑76/P Eurocoton and Others v Council [2003] ECR I‑10091, paragraphs and 47; and Case C‑280/P Deutsche Telekom v Commission [2010] ECR I‑0000, paragraph 24).
+      
+In this case, by the present plea, the appellant requests the Court of Justice in fact to re-examine the pleas and arguments
+         which it has already submitted to the General Court, referred to in paragraphs to of the judgment under appeal, and
+         which were considered in paragraphs to of that judgment.
+      
+Consequently, the third plea must be rejected as inadmissible.
+      
+It follows from all the foregoing that the appeal must be dismissed in its entirety.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, which applies to appeal proceedings by virtue of Article thereof, the unsuccessful
+         party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since EMSA has
+         applied for costs and the appellant has been unsuccessful, the latter must be ordered to pay the costs. 
+      
+On those grounds, the Court (Seventh Chamber) hereby:
+1.      Dismisses the appeal;
+2.      Orders Evropaïki Dynamiki – Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE to pay the costs.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

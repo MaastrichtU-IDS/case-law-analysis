@@ -1,0 +1,179 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+April (
+*)
+‛Directive 2007/64/EC — Payment services — Article 4.— Concept of payment instrument — Ordering transfers through online banking and by paper transfer order — Article 52(3) — Right of the payee to request from the payer charges for the use of a payment instrument — Power of Member States to lay down a general prohibition — Contract between a mobile phone operator and individuals’
+In Case C‑616/11,
+REQUEST for a preliminary ruling under Article TFEU from the Oberster Gerichtshof (Austria), made by decision of November 2011, received at the Court on November 2011, in the proceedings
+T-Mobile Austria GmbH
+v
+Verein für Konsumenteninformation,
+THE COURT (Fifth Chamber),
+composed of T. von Danwitz, President of the Chamber, E. Juhász, A. Rosas, D. Šváby and C. Vajda (Rapporteur), Judges,
+Advocate General: M. Wathelet,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on September 2013,
+after considering the observations submitted on behalf of:
+—
+T-Mobile Austria GmbH, by A. Egger, Rechtsanwalt,
+—
+the Verein für Konsumenteninformation, by S. Langer, Rechtsanwalt,
+—
+the Austrian Government, by C. Pesendorfer and P. Cede, acting as Agents,
+—
+the German Government, by T. Henze, J. Möller and J. Kemper, acting as Agents,
+—
+the French Government, by G. de Bergues and N. Rouam, acting as Agents,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and by S. Varone, avvocato dello Stato,
+—
+the Portuguese Government, by L. Inez Fernandes and L. Bigotte Chorão, acting as Agents,
+—
+the European Commission, by K.-P. Wojcik, J. Rius, M. Noll-Ehlers and C. Vrignon, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on October 2013,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 52(3) of Directive 2007/64/EC of the European Parliament and of the Council of November on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC (OJ L 319, p.1).
+The request has been made in proceedings between the Verein für Konsumenteninformation (Consumer Information Association; ‘the Verein’) and T-Mobile Austria GmbH (‘T-Mobile Austria’) concerning the latter’s pricing practice of requiring its clients to pay additional charges where payment is made through online banking or by way of paper transfer order.
+Legal context
+European Union law
+Under Title I of Directive 2007/64, entitled ‘Subject-matter, scope and definitions’, Article thereof, entitled ‘Subject-matter’, provides:
+‘1.   This Directive lays down the rules in accordance with which Member States shall distinguish the following six categories of payment service provider:
+...
+2.   This Directive also lays down rules concerning transparency of conditions and information requirements for payment services, and the respective rights and obligations of payment service users and payment service providers in relation to the provision of payment services as a regular occupation or business activity.’
+Article of that Directive, entitled ‘Definitions’, provides:
+‘For the purposes of this Directive, the following definitions shall apply:
+…
+3.
+“payment service” means any business activity listed in the Annex;
+…
+7.
+“payer” means a natural or legal person who holds a payment account and allows a payment order from that payment account, or, where there is no payment account, a natural or legal person who gives a payment order;
+8.
+“payee” means a natural or legal person who is the intended recipient of funds which have been the subject of a payment transaction;
+9.
+“payment service provider” means bodies referred to in Article 1(1) and legal and natural persons benefiting from the waiver under Article 26;
+10.
+“payment service user” means a natural or legal person making use of a payment service in the capacity of either payer or payee, or both;
+…
+16.
+“payment order” means any instruction by a payer or payee to his payment service provider requesting the execution of a payment transaction;
+…
+19.
+“authentication” means a procedure which allows the payment service provider to verify the use of a specific payment instrument, including its personalised security features;
+…
+23.
+“payment instrument” means any personalised device(s) and/or set of procedures agreed between the payment service user and the payment service provider and used by the payment service user in order to initiate a payment order;
+...’
+Under Title IV of that directive, concerning rights and obligations in relation to the provision and use of payment services, Article thereof, entitled ‘Charges applicable’, provides in paragraph 3:
+‘The payment service provider shall not prevent the payee from requesting from the payer a charge or from offering him a reduction for the use of a given payment instrument. However, Member States may forbid or limit the right to request charges taking into account the need to encourage competition and promote the use of efficient payment instruments.’
+Recital in the preamble to Directive 2007/64, which relates to the scope of Article 52(3) of that directive, is worded as follows:
+‘In order to promote transparency and competition, the payment service provider should not prevent the payee from requesting a charge from the payer for using a specific payment instrument. While the payee should be free to levy charges for the use of a certain payment instrument, Member States may decide whether they forbid or limit any such practice where, in their view, this may be warranted in view of abusive pricing or pricing which may have a negative impact on the use of a certain payment instrument taking into account the need to encourage competition and the use of efficient payment instruments.’
+Under Article of that directive, entitled ‘Derogation for low value payment instruments and electronic money’:
+‘1.   In the case of payment instruments which according to the framework contract, solely concern individual payment transactions not exceeding EUR or which either have a spending limit of EUR or store funds which do not exceed EUR at any time payment service providers may agree with their payment service users that:
+(a)
+Article 56(1)(b) and Article 57(1)(c) and (d) as well as Article 61(4) and (5) do not apply if the payment instrument does not allow its blocking or prevention of its further use;
+(b)
+Articles 59, and Article 61(1) and (2) do not apply if the payment instrument is used anonymously or the payment service provider is not in a position for other reasons which are intrinsic to the payment instrument to prove that a payment transaction was authorised;
+(c)
+by way of derogation from Article 65(1), the payment service provider is not required to notify the payment service user of the refusal of a payment order, if the non-execution is apparent from the context;
+(d)
+by way of derogation from Article 66, the payer may not revoke the payment order after transmitting the payment order or giving his consent to execute the payment transaction to the payee;
+(e)
+by way of derogation from Articles and 70, other execution periods apply.
+2.   For national payment transactions, Member States or their competent authorities may reduce or double the amounts referred to in paragraph 1. They may increase them for prepaid payment instruments up to EUR 500.
+3.   Articles and shall apply also to electronic money within the meaning of Article 1(3)(b) of Directive 2000/46/EC [of the European Parliament and of the Council of September on the taking up, pursuit of and prudential supervision of the business of electronic money institutions (OJ L 275, p.39)], except where the payer’s payment service provider does not have the ability to freeze the payment account or block the payment instrument. Member States may limit that derogation to payment accounts or payment instruments of a certain value.’
+Austrian law
+According to the referring court, Directive 2007/was transposed into Austrian law by the Payment Services Law (Zahlungsdienstegesetz, BGBl. I, 66/2009; ‘ZaDiG’), which entered into force on November 2009.
+Paragraph ZaDiG, entitled ‘Scope’, provides in subparagraph 1:
+‘This Federal Law lays down the conditions under which persons (payment service providers) may provide payment services in Austria as a business activity and regulates the rights and obligations of payment service providers and payment service users in relation to payment services provided for payment service users established in Austria or by payment service providers established in Austria, and access to payment systems.’
+Paragraph ZaDiG, entitled ‘Charges applicable’, provides in subparagraph for the transposition into Austrian law of Article 52(3) of Directive 2007/64. Paragraph 27(6) ZaDiG provides:
+‘The payment service provider shall not prevent the payee from offering the payer a reduction for the use of a given payment instrument. The payee is not permitted to charge for the use of a given payment instrument.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+T-Mobile Austria is one of the providers of mobile telephone services in Austria. In this respect, it concludes contracts for telecommunications services with consumers containing its general terms and conditions which it regularly updates. The following clause was included in the version of those general terms and conditions in force in November 2009:
+‘Article ...
+1.2.
+All forms of payment are recognised in settlement of outstanding debts. In the case of payment by means of a paper transfer order or by telebanking, however, we deduct a service charge — the amount is based on the tariff applicable in your case.’
+Pursuant to that clause, T-Mobile Austria charged an additional monthly fee of EUR to consumers subscribed to the ‘Call Europe’ tariff who opted for payment other than by direct debit or credit card, which include, in particular, payment through online banking or by means of a paper transfer order.
+The Verein brought an action before the first-instance court in the main proceedings claiming that T-Mobile Austria should be required to desist from, first, including that clause in the contracts it concludes with its customers and, secondly, making use of it in relation to existing contracts. In support of its action, the Verein claimed that the same clause is contrary to the mandatory provisions in the second sentence of Paragraph 27(6) ZaDiG.
+T-Mobile Austria sought for the action to be dismissed claiming, first, that it, T‑Mobile Austria, is not within the scope of Directive 2007/and the ZaDiG on the ground that it is not a payment service provider but a mobile telephone operator. Next, a transfer order form is not a ‘payment instrument’ within the meaning of Article 4.of that directive as it has no personalised security feature. Finally, the transposition of Article 52(3) of that directive by the second sentence of Paragraph 27(6) ZaDiG is not consistent with the directive because the Austrian legislature has failed to give reasons for prohibiting the levying of charges for the use of given payment instruments.
+The first-instance court granted the application by the Verein in its entirety. That judgment was upheld on appeal. The appellate court found that a transfer made by means of a paper order form is not a payment instrument within the meaning of Article 4.of Directive 2007/64. However, since Article 52(3) of that directive does not require full harmonisation of the legislation at issue, it is open to the national legislature to provide for a general prohibition of additional charges like that laid down in Paragraph 27(6) ZaDiG, covering payment instruments within the meaning of that directive as well as other payment transactions such as transfers carried out using a paper order form. In addition, that prohibition satisfies the objective, laid down in the second sentence of Article 52(3) of the same directive, of encouraging competition and the proper operation of the tariff system.
+T-Mobile Austria appealed on a point of law against that judgment to the referring court. That court, against whose decisions there is no judicial remedy under national law, found that the questions raised in the dispute in the main proceedings require an interpretation of the provisions of Directive 2007/64.
+In those circumstances, the Oberster Gerichtshof (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article 52(3) of Directive [2007/64] to be interpreted as meaning that it is also applicable to the contractual relationship between a mobile phone operator, as payee, and that operator’s private customer (the consumer), as payer?
+(2)
+Are a transfer order form signed by the payer in person and/or the procedure for ordering transfers based on a signed transfer order form and the agreed procedure for ordering transfers through online banking (telebanking) to be regarded as “payment instruments” within the meaning of Article 4.and Article 52(3) of Directive [2007/64]?
+(3)
+Is Article 52(3) of Directive [2007/64] to be interpreted as precluding the application of provisions of national law which prohibit a payee from levying charges in general and from levying different charges for different payment instruments in particular?’
+Consideration of the questions referred
+The first question
+By its first question the referring court asks, in essence, whether Article 52(3) of Directive 2007/must be interpreted as meaning that it is applicable to the use of a payment instrument in the course of the contractual relationship between a mobile phone operator, as payee, and that operator’s private customer, as payer.
+Admissibility
+First of all, the Verein raised a plea of inadmissibility against the first question, on the ground that a reply thereto is not ‘necessary’ within the meaning of Article TFEU in order for the referring court to resolve the dispute in the main proceedings.
+According to settled case-law, questions on the interpretation of European Union law referred by a national court in the factual and legislative context which that court is responsible for defining and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of European Union law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see, inter alia, Case C‑379/PreussenElektra
+EU:C:2001:160, paragraph 39; Joined Cases C‑222/to C‑225/van der Weerd and Others
+EU:C:2007:318, paragraph 22; and Case C‑5/Betriu Montull
+EU:C:2013:571, paragraph 34).
+In the present case, as the Advocate General notes in points to of his Opinion, it is not obvious that the interpretation of the second sentence of Article 52(3) of Directive 2007/that is sought by the referring court is not necessary for that court to resolve the dispute before it.
+In the context of the dispute in the main proceedings, Verein claims that T-Mobile Austria should be required to desist from including in the contracts which it concludes with its customers a clause providing for the billing of a service charge where payment is made by means of a transfer order form or through online banking and from making use of such a clause in connection with existing contracts. It is also apparent from the order for reference that Verein’s action is based on the second sentence of Paragraph 27(6) ZaDiG which transposes Article 52(3) of that directive into national law.
+Consequently, the first question is admissible.
+Substance
+The first sentence of Article 52(3) of Directive 2007/states that the payment service provider may not prevent the payee from requesting from the payer a charge or from offering him a reduction for the use of a given payment instrument. However, the second sentence of Article 52(3) of that directive gives Member States the power to forbid or limit the right of the payee to request a charge from the payer for the use of a given payment instrument, taking into account the need to encourage competition and promote the use of efficient payment instruments.
+In this respect, it must be noted that a mobile telephone operator may be considered to be a ‘payee’ within the meaning of Article 4.of Directive 2007/when it is the recipient of funds which have been the subject of a payment transaction. Furthermore, the customer of that mobile telephone operator may be considered to be a ‘payer’ within the meaning of Article 4.of that directive when he allows a payment order from a payment account which he holds or when he gives a payment order.
+However, it is apparent from the very wording of Article 52(3) of that directive, which governs the right of a payee to request from the payer a charge for the use of a given payment instrument, that that provision concerns the relationship between the payee and the payer. It follows that that provision applies to the use of a payment instrument in the course of the contractual relationship between a mobile phone operator, as payee, and that operator’s customer, as payer, as agreed by the Verein, the Austrian, German, French, Italian and Portuguese Governments and the European Commission.
+Furthermore, as the Advocate General notes in point of his Opinion, the power given to Member States by the second sentence of Article 52(3) of Directive 2007/would be rendered ineffective if it did not apply to the relationship between ‘payee’ and ‘payer’.
+In the light of all the foregoing considerations, the answer to the first question is that Article 52(3) of Directive 2007/must be interpreted as meaning that it is applicable to the use of a payment instrument in the course of the contractual relationship between a mobile phone operator, as payee, and that operator’s customer, as payer.
+The second question
+By its second question the referring court asks, in essence, whether Article 4.of Directive 2007/must be interpreted as meaning that, first, a transfer order form signed by the payer in person and/or the procedure for ordering transfers based on a signed transfer order form and, second, the procedure for ordering transfers through online banking constitute payment instruments within the meaning of that provision.
+Under Article 4.of that directive, a payment instrument consists of ‘any personalised device(s) and/or set of procedures agreed between the payment service user and the payment service provider and used by the payment service user in order to initiate a payment order’.
+As a preliminary point, it should be noted that there is some divergence between the different language versions of that provision, as the Advocate General notes in point of his Opinion. It is true that, in all language versions, the adjective ‘personalised’ describes the phrase ‘any ... device’. However, in the French version (‘tout dispositif personnalisé et/ou ensemble de procédures’), which is the same as, inter alia, the Spanish, Italian, Hungarian, Portuguese and Romanian versions, the adjective ‘personalised’ does not describe the phrase ‘set of procedures’. In contrast, in the German version (‘jedes personalisierte Instrument und/oder jeden personalisierten Verfahrensablauf’), the adjective‘personalised’ describes the phrase ‘set of procedures’. The English version (‘any personalised device(s) and/or set of procedures’), which is the same as, inter alia, the Danish, Greek, Dutch, Finnish and Swedish versions, lends itself to both readings.
+According to settled case-law, provisions of European Union law must be interpreted and applied uniformly in the light of the versions existing in all the languages of the European Union. Where there is divergence between two language versions of a European Union legal text, the provision in question must be interpreted by reference to the purpose and general scheme of the rules of which it forms part (see, inter alia, Case C‑89/Bark
+EU:C:2013:276, paragraph 40, and Case C‑309/Commission v Finland
+EU:C:2013:610, paragraph 49).
+In this respect, the Verein, the Austrian, German and French Governments and the Commission rightly point out that, a payment instrument must allow the payment service provider to verify that the payment order was initiated by a user authorised to do so in order for it to be considered to be personalised.
+However, as the French Government notes, some payment instruments expressly referred to in Article of Directive 2007/are not personalised. Thus, it is apparent, for example, from Article 53(1)(b) of that directive that some payment instruments are used anonymously, in which case the payment service providers are not required to prove that the transaction in question was authenticated in the situation referred to in Article of that directive.
+It necessarily follows from the existence of such non-personalised payment instruments that the concept of payment instrument defined in Article 4.of the directive is capable of covering a non-personalised set of procedures, agreed between the user and the payment service provider, and used by the user in order to initiate a payment order.
+It is in the light of that definition of the concept of payment instrument within the meaning of Article 4.of Directive 2007/that the second question submitted by the referring court should be answered.
+First, the referring court seeks to ascertain whether a transfer order form signed by the payer in person and/or the procedure for ordering transfers based on a signed transfer order form constitute payment instruments.
+As the Verein, the Austrian, French, Italian and Portuguese Governments and the Commission rightly claim, the ordering of a transfer by transfer order form signed by the payer in person represents a set of procedures agreed between the user and the payment service provider and used by the user in order to initiate a payment order, and therefore constitutes a payment instrument in accordance with the second definition set out in Article 4.of Directive 2007/64.
+In this respect, it is apparent from the documents before the Court that the ordering of transfers generally requires the payer to submit a sample of his handwritten signature to the credit institution when opening the payment account, to use particular transfer order forms, and to endorse them with his handwritten signature. That credit institution may authenticate the payment order within the meaning of Article 4.of that directive, by comparing the handwritten signature endorsed on the transfer order form with the sample handwritten signature lodged by the payer beforehand.
+Second, the referring court seeks to ascertain whether the procedure for ordering transfers through online banking constitutes a payment instrument.
+As noted by the Verein, the Austrian, German, French, Italian and Portuguese Governments and the Commission, ordering transfers through online banking represents a set of procedures agreed between the user and the payment service provider and used by the user in order to initiate a payment order, and therefore constitutes a payment instrument in accordance with the second definition set out in Article 4.of Directive 2007/64.
+It is apparent from the documents before the Court that ordering transfers through online banking requires the payer to enter various personalised codes, such as a personal identification number, a pin number and a transaction code, the use of which is agreed between the credit institution and the payer. The use of those different personalised codes by the payer enables the credit institution to authenticate the payment order in accordance with Article 4.of that directive.
+In those circumstances, it is not necessary to examine whether the procedure for ordering transfers by means of a transfer order form signed by the payer in person or the procedure for ordering transfers through online banking may be considered to be a ‘personalised device’ in accordance with the first definition set out in Article 4.of Directive 2007/64, given that they constitute a ‘set of procedures’ in accordance with the second definition set out in that provision.
+In the light of all the foregoing considerations, the answer to the second question is that Article 4.of Directive 2007/must be interpreted as meaning that both the procedure for ordering transfers by means of a transfer order form signed by the payer in person and the procedure for ordering transfers through online banking constitute payment instruments within the meaning of that provision.
+The third question
+By its third question the referring court asks, in essence, whether Article 52(3) of Directive 2007/must be interpreted as meaning that it gives Member States the power to prohibit generally payees from levying charges on the payer for the use of any payment instrument.
+As noted by the Verein, the Austrian, German, French, Italian and Portuguese Governments and the Commission, it is apparent from the very wording of Article 52(3) of that directive that the power given to Member States to prohibit payees from levying charges for the use of a payment instrument may be implemented with respect to some or all of the payment instruments used in their territory. The second sentence of that provision does not limit that power of Member States to the use of a given payment instrument.
+Furthermore, although Member States must take into account the need to encourage competition and the use of efficient payment instruments when they limit or prohibit the levying of charges for the use of a payment instrument, they nevertheless have a broad discretion in applying the power conferred on them by Article 52(3) of that directive, as is apparent, inter alia, from recital thereof.
+In the light of all the foregoing considerations, the answer to the third question is that Article 52(3) of Directive 2007/must be interpreted as meaning that it gives Member States the power to prohibit generally payees from levying charges on the payer for the use of any payment instrument, if the national legislation, as a whole, takes into account the need to encourage competition and the use of efficient payment instruments, which it is for the referring court to ascertain.
+Limitation of the temporal effects of the judgment
+T-Mobile Austria requests that the temporal effects of the judgment to be delivered be limited if the Court finds, first, that the procedures for ordering a transfer constitute payment instruments within the meaning of Article 4.of Directive 2007/and, second, that Article 52(3) of that directive gives Member States the power to prohibit generally payees from levying charges for the use of a payment instrument.
+According to settled case-law, the interpretation which the Court, in the exercise of the jurisdiction conferred on it by Article TFEU, gives to a rule of European Union law clarifies and defines the meaning and scope of that rule as it must be, or ought to have been, understood and applied from the time of its entry into force. It follows that the rule as thus interpreted may and must be applied by the courts to legal relationships arising and established before the judgment ruling on the request for interpretation, provided that in other respects the conditions for bringing before the courts having jurisdiction an action relating to the application of that rule are satisfied (see, inter alia, Case C‑92/RWE Vertrieb
+EU:C:2013:180, paragraph and the case-law cited).
+Furthermore, a limitation of the temporal effects of a judgment is an exceptional measure which assumes that there is a risk of serious economic repercussions owing in particular to the large number of legal relationships entered into in good faith on the basis of rules considered to be validly in force and that it appears that individuals and national authorities have been led to adopt practices which do not comply with European Union law by reason of objective, significant uncertainty regarding the implications of European Union provisions, to which the conduct of other Member States or the Commission may even have contributed (see, inter alia, Case C‑209/Endress
+EU:C:2013:864, paragraph and the case-law cited).
+In this respect, it must be stated that individuals and national authorities have not been led to adopt practices which do not comply with European Union law since the Austrian legislation applicable in the case in the main proceedings had correctly transposed the relevant provisions of Directive 2007/64.
+In addition, it must be noted that T-Mobile Austria merely refers to ‘serious financial consequences’ for undertakings in the telecommunications sector in the European Union, without adducing evidence or providing precise data in that respect, as noted by the Advocate General in point of his Opinion. In those circumstances, the existence of a risk of serious economic consequences has not been established (see, to that effect, Endress
+EU:C:2013:864, paragraph 37).
+Accordingly, there is no need to limit the temporal effects of the present judgment.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+1.
+Article 52(3) of Directive 2007/64/EC of the European Parliament and of the Council of November on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC must be interpreted as being applicable to the use of a payment instrument in the course of the contractual relationship between a mobile phone operator, as payee, and that operator’s customer, as payer.
+ 
+2.
+Article 4.of Directive 2007/must be interpreted as meaning that both the procedure for ordering transfers by means of a transfer order form signed by the payer in person and the procedure for ordering transfers through online banking constitute payment instruments within the meaning of that provision.
+ 
+3.
+Article 52(3) of Directive 2007/must be interpreted as meaning that it gives Member States the power to prohibit generally payees from levying charges on the payer for the use of any payment instrument, if the national legislation, as a whole, takes into account the need to encourage competition and the use of efficient payment instruments, which is for the referring court to ascertain.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

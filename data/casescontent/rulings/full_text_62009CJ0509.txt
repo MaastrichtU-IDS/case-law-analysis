@@ -1,0 +1,564 @@
+
+Joined Cases C-509/and C-161/eDate Advertising GmbH
+v
+X
+and
+Olivier Martinez and Robert Martinez
+v
+MGN Limited
+(References for a preliminary ruling from the Bundesgerichtshof and from the tribunal de grande instance de Paris)
+(Regulation (EC) No 44/– Jurisdiction and the enforcement of judgments in civil and commercial matters – Jurisdiction ‘in matters relating to tort, delict or quasi-delict’ – Directive 2000/31/EC – Publication of information on the internet – Adverse effect on personality rights – Place where the harmful event occurred or may occur – Law applicable to information society services)
+Summary of the Judgment
+1.        Judicial cooperation in civil matters – Jurisdiction and the enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Special jurisdiction – Jurisdiction in tort, delict or quasi-delict – Infringement of personality right by means
+            of content placed online on an internet website – Place where the harmful event occurs – Definition
+(Council Regulation No 44/2001, Art. 5(3))
+2.        Judicial cooperation in civil matters – Jurisdiction and the enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Special jurisdiction – Jurisdiction in tort, delict or quasi-delict – Infringement of personality right by means
+            of content placed online on an internet website 
+(Council Regulation No 44/2001, Art. 5(3))
+3.        Approximation of laws – Electronic commerce – Directive 2000/– Provisions concerning the internal market – Obligation,
+            for the Member States, not to make the suppliers of services subject to stricter requirements than those laid down by the
+            Member State in which that service provider is established – Scope
+(European Parliament and Council Directive 2000/31, Art. 3)
+1.        The rule of special jurisdiction laid down, by way of derogation from the principle of jurisdiction of the courts of the place
+         of domicile of the defendant, in Article 5(3) of Regulation No 44/on jurisdiction and the recognition and enforcement
+         of judgments in civil and commercial matters is based on the existence of a particularly close connecting factor between the
+         dispute and the courts of the place where the harmful event occurred, which justifies the attribution of jurisdiction to those
+         courts for reasons relating to the sound administration of justice and the efficacious conduct of proceedings.
+      
+However, when a victim relies on a personality right by means of content placed on an internet site, in so far as the scope
+         of the diffusion of content place online is in principle universal, the difficulties in giving effect to the criterion relating
+         to the occurrence of damage due to the diffusion of information require the connecting criteria to be adapted in such a way
+         that the victim of such an infringement may bring an action, in one forum in respect of all of the damage caused, depending
+         on the place in which the damage caused in the European Union by that infringement occurred. 
+      
+Given that the impact which material placed online is liable to have on an individual’s personality rights may best be assessed
+         by the court of the place where the alleged victim has his centre of interests, the attribution of jurisdiction to that court
+         corresponds to the objective of the sound administration of justice. That place corresponds in general to the habitual residence
+         of the victim, but it may also be a Member State where the victim does not habitually reside, in so far as other factors,
+         such as the pursuit of a professional activity, may establish the existence of a particularly close link with that State.
+         
+      
+The jurisdiction of the court of the place where the alleged victim has the centre of his interests is in accordance with
+         the aim of predictability of the rules governing jurisdiction also with regard to the defendant, given that the publisher
+         of harmful content is, at the time at which that content is placed online, in a position to know the centres of interests
+         of the persons who are the subject of that content. The view must therefore be taken that the centre-of-interests criterion
+         allows both the applicant easily to identify the court in which he may sue and the defendant reasonably to foresee before
+         which court he may be sued.
+      
+(see paras 40-41, 46-50)
+2.        Article 5(3) of Regulation No 44/on jurisdiction and the recognition and enforcement of judgments in civil and commercial
+         matters must be interpreted as meaning that, in the event of an alleged infringement of personality rights by means of content
+         placed online on an internet website, the person who considers that his rights have been infringed has the option of bringing
+         an action for liability, in respect of all the damage caused, either before the courts of the Member State in which the publisher
+         of that content is established or before the courts of the Member State in which the centre of his interests is based. That
+         person may also, instead of an action for liability in respect of all the damage caused, bring his action before the courts
+         of each Member State in the territory of which content placed online is or has been accessible. Those courts have jurisdiction
+         only in respect of the damage caused in the territory of the Member State of the court seised.
+      
+(see para. 52, operative part 1)
+3.        Article of Directive 2000/on certain legal aspects of information society services, in particular electronic commerce,
+         in the Internal Market, must be interpreted as not requiring transposition in the form of a specific conflict-of-laws rule.
+         Nevertheless, in relation to the coordinated field, Member States must ensure that, subject to the derogations authorised
+         in accordance with the conditions set out in Article 3(4) of that directive, the provider of an electronic commerce service
+         is not made subject to stricter requirements than those provided for by the substantive law applicable in the Member State
+         in which that service provider is established.
+      
+(see para. 68, operative part 2)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+October (*)
+      
+(Regulation (EC) No 44/– Jurisdiction and the enforcement of judgments in civil and commercial matters – Jurisdiction ‘in matters relating to tort, delict or quasi-delict’ – Directive 2000/31/EC – Publication of information on the internet – Adverse effect on personality rights – Place where the harmful event occurred or may occur – Law applicable to information society services)
+In Joined Cases C‑509/and C‑161/10,
+REFERENCES for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Germany) (C‑509/09) and the Tribunal
+         de grande instance de Paris (France) (C‑161/10), made by decisions of November and March 2010, received at the
+         Court, respectively, on December and April 2010, in the proceedings
+      
+eDate Advertising GmbH
+v
+X
+and
+Olivier Martinez,
+Robert Martinez
+v
+MGN Limited,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, A. Tizzano, J.N. Cunha Rodrigues, K. Lenaerts, J.-C. Bonichot, U. Lõhmus and M. Safjan
+         (Rapporteur), Presidents of Chambers, E. Levits, A. Ó Caoimh, L. Bay Larsen, and T. von Danwitz, Judges,
+      
+Advocate General: P. Cruz Villalón,
+Registrar: B. Fülöp, Administrator,
+having regard to the written procedure and further to the hearing on December 2010,
+after considering the observations submitted on behalf of:
+–        eDate Advertising GmbH, by H. Graupner and M. Dörre, Rechtsanwälte, 
+–        X, by A. Stopp, Rechtsanwalt,
+–        MGN Limited, by C. Bigot, avocat, 
+–        the German Government, by J. Möller and J. Kemper, acting as Agents,
+–        the French Government, by G. de Bergues and B. Beaupère‑Manokha, acting as Agents,
+–        the Danish Government, by C. Vang, acting as Agent,
+–        the Greek Government, by S. Chala, acting as Agent,
+–        the Italian Government, by W. Ferrante, acting as Agent,
+–        the Luxembourg Government, by C. Schiltz, acting as Agent,
+–        the Austrian Government, by C. Pesendorfer and E. Riedl, acting as Agents,
+–        the United Kingdom Government, by F. Penlington, acting as Agent, and by J. Stratford, QC,
+–        the European Commission, by M. Wilderspin, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on March 2011,
+gives the following
+Judgment
+The present references for a preliminary ruling concern the interpretation of Article 5(3) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1; ‘the Regulation’) and Article 3(1) and (2) of Directive 2000/31/EC of the European Parliament and of the Council
+         of June on certain legal aspects of information society services, in particular electronic commerce, in the Internal
+         Market (‘Directive on electronic commerce’) (OJ L 178, p. 1; ‘the Directive’).
+      
+The references have been made in two sets of proceedings, between, firstly, X and eDate Advertising GmbH (‘eDate Advertising’)
+         and, secondly, Olivier and Robert Martinez, on the one hand, and MGN Limited (‘MGN’), on the other hand, concerning the civil
+         liability of those defendants in respect of information and photographs published on the internet. 
+      
+ Legal context
+ The Regulation 
+Recital in the preamble to the Regulation states: 
+      
+‘The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on
+         the defendant’s domicile and jurisdiction must always be available on this ground save in a few well-defined situations in
+         which the subject-matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile
+         of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.’
+      
+Article 2(1) of the Regulation, which appears in Section (‘General provisions’) of Chapter II (‘Jurisdiction’) thereof,
+         provides as follows: 
+      
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts
+         of that Member State.’
+      
+Article 3(1) of the Regulation provides: 
+      
+‘Persons domiciled in a Member State may be sued in the courts of another Member State only by virtue of the rules set out
+         in Sections to of this Chapter.’
+      
+In Section 2, entitled ‘Special jurisdiction’, of Chapter II, Article 5(3) is worded as follows: 
+      
+‘A person domiciled in a Member State may, in another Member State, be sued:
+…
+3.      in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur.’
+ The Directive 
+The fourth clause in recital in the preamble to the Directive reads as follows: 
+      
+‘[M]oreover, in order to effectively guarantee freedom to provide services and legal certainty for suppliers and recipients
+         of services, such information society services should in principle be subject to the law of the Member State in which the
+         service provider is established.’
+      
+Recital in the preamble to the Directive states: 
+      
+‘This Directive neither aims to establish additional rules on private international law relating to conflicts of law nor does
+         it deal with the jurisdiction of Courts; provisions of the applicable law designated by rules of private international law
+         must not restrict the freedom to provide information society services as established in this Directive.’
+      
+Recital in the preamble to the Directive states: 
+      
+‘National courts, including civil courts, dealing with private law disputes can take measures to derogate from the freedom
+         to provide information society services in conformity with conditions established in this Directive.’
+      
+In accordance with Article 1(1) thereof, the Directive has as its objective to ‘contribute to the proper functioning of the
+         internal market by ensuring the free movement of information society services between the Member States.’
+      
+Article 1(4) of the Directive is worded as follows: 
+      
+‘This Directive does not establish additional rules on private international law nor does it deal with the jurisdiction of
+         Courts.’
+      
+Under Article 2(h)(i) of the Directive: 
+      
+‘The coordinated field concerns requirements with which the service provider has to comply in respect of:
+–        the taking-up of the activity of an information society service, such as requirements concerning qualifications, authorisation
+         or notification,
+      
+–        the pursuit of the activity of an information society service, such as requirements concerning the behaviour of the service
+         provider, requirements regarding the quality or content of the service, including those applicable to advertising and contracts,
+         or requirements concerning the liability of the service provider’.
+      
+Article 3(1) and (2) of the Directive provides: 
+      
+‘1.      Each Member State shall ensure that the information society services provided by a service provider established on its territory
+         comply with the national provisions applicable in the Member State in question which fall within the coordinated field.
+      
+2.      Member States may not, for reasons falling within the coordinated field, restrict the freedom to provide information society
+         services from another Member State.’
+      
+Article 3(4) of the Directive sets out the conditions under which Member States may take, in respect of a given information
+         society service, measures that derogate from Article 3(2). 
+      
+ The disputes in the main proceedings and the questions referred for a preliminary ruling
+ Case C-509/In 1993, X, who is domiciled in Germany, was sentenced by a German court, together with his brother, to life imprisonment
+         for the murder of a well‑known actor. He was released on parole in January 2008. 
+      
+eDate Advertising, which is established in Austria, operates an internet portal under the address ‘www.rainbow.at’. In the
+         section ‘Info‑News’, on the pages dedicated to old news, the defendant made access to a report, dated August 1999, available
+         for purposes of consultation until June 2007. That report, which named X and his brother, stated that they had both lodged
+         appeals against their conviction with the Bundesverfassungsgericht (Federal Constitutional Court) in Karlsruhe (Germany).
+         In addition to a brief description of the crime committed in 1990, the lawyer instructed by the convicted men is quoted as
+         saying that they intended to prove that several of the principal witnesses for the prosecution had not told the truth at the
+         trial. 
+      
+X called upon eDate Advertising to desist from reporting that matter and to give an undertaking that it would refrain from
+         future publication. eDate Advertising did not reply to that letter but, on June 2007, removed the disputed information
+         from its website. 
+      
+By his action before the German courts, X calls upon eDate Advertising to refrain from using his full name when reporting
+         about him in connection with the crime committed. The main contention of eDate Advertising is that the German courts have
+         no international jurisdiction in the matter. As the action was successful in both lower courts, eDate Advertising continues,
+         before the Bundesgerichtshof (German Federal Court of Justice), to seek to have the action dismissed. 
+      
+The Bundesgerichtshof notes that the outcome of the action is dependent on whether the lower courts were correct in holding
+         that they have international jurisdiction to rule on the dispute pursuant to Article 5(3) of the Regulation. 
+      
+If the international jurisdiction of the German courts is established, the Bundesgerichtshof states that the question then
+         arises as to whether German or Austrian law applies. That depends on the interpretation of Article 3(1) and (2) of the Directive.
+         
+      
+On the one hand, the country-of-origin principle may have a corrective effect on a substantive law level. The substantive
+         law outcome under the law declared to be applicable pursuant to the conflict-of-laws rules of the State in which the court
+         seised is situated is, in individual cases, altered in its content, where appropriate, and reduced to the less stringent requirements
+         of the law of the country of origin. According to this interpretation, the country-of-origin principle does not affect the
+         national conflict-of-laws rules of the State in which the court seised is situated and applies – in the same way as the fundamental
+         freedoms set out in the EC Treaty – only in the context of an individual cost/benefit comparison at a national law level.
+         
+      
+On the other hand, Article of the Directive may establish a general principle with regard to conflict-of-laws rules that
+         leads to the exclusive application of the law in force in the country of origin and the ousting of the national conflict-of-laws
+         rules. 
+      
+The Bundesgerichtshof states that if the country-of-origin principle were to be considered to be an obstacle to the application
+         of law on a substantive level, German private international law would be applicable and the decision under challenge would
+         then have to be set aside and the action ultimately dismissed, since the applicant’s claim seeking an injunction under German
+         law would have to be refused. By contrast, if the country-of-origin principle were to be treated as a conflict-of-laws rule,
+         X’s claim for an injunction would then have to be assessed according to Austrian law.
+      
+In those circumstances, the Bundesgerichtshof decided to stay the proceedings and to refer the following questions to the
+         Court for a preliminary ruling: 
+      
+‘1.      Is the phrase “the place where the harmful event ... may occur” in Article 5(3) of [the Regulation] to be interpreted as meaning,
+         in the event of (possible) infringements of the right to protection of personality by means of content on an internet website,
+      
+that the person concerned may also bring an action for an injunction against the operator of the website, irrespective of
+         the Member State in which the operator is established, in the courts of any Member State in which the website may be accessed,
+      
+      or
+does the jurisdiction of the courts of a Member State in which the operator of the website is not established require that
+         there be a special connection between the contested content or the website and the State of the court seised (domestic connecting
+         factor) going beyond technically possible accessibility?
+      
+2.      If such a special domestic connecting factor is necessary:
+      What are the criteria which determine that connection?
+Does it depend on whether the intention of the operator is that the contested website is specifically (also) targeted at the
+         internet users in the State of the court seised or is it sufficient for the information which may be accessed on the website
+         to have an objective connection to the State of the court seised, in the sense that in the circumstances of the individual
+         case, in particular on the basis of the content of the website to which the applicant objects, a collision of conflicting
+         interests – the applicant’s interest in respect for his right to protection of personality and the operator’s interest in
+         the design of his website and in news reporting – may actually have occurred or may occur in the State of the court seised?
+      
+Does the determination of the special domestic connecting factor depend upon the number of times the website to which the
+         applicant objects has been accessed from the State of the court seised?
+      
+3.      If no special domestic connecting factor is required in order to make a positive finding on jurisdiction, or if it is sufficient
+         for the presumption of such a special domestic connecting factor that the information to which the applicant objects has an
+         objective connection to the State of the court seised, in the sense that in the circumstances of the individual case, in particular
+         on the basis of the content of the website to which the applicant objects, a collision of conflicting interests may actually
+         have occurred or may occur in the State of the court seised and the existence of a special domestic connecting factor may
+         be presumed without requiring a finding as to a minimum number of times the website to which the applicant objects has been
+         accessed from the State of the court seised:
+      
+Must Article 3(1) and (2) of [the Directive] be interpreted as meaning: 
+that those provisions should be attributed with a conflict-of-laws character in the sense that for the field of private law
+         they also require the exclusive application of the law applicable in the country of origin, to the exclusion of national conflict-of-laws
+         rules,
+      
+      or
+do those provisions operate as a corrective at a substantive law level, by means of which the substantive law outcome under
+         the law declared to be applicable pursuant to the national conflict-of-laws rules is altered and reduced to the requirements
+         of the country of origin?
+      
+In the event that Article 3(1) and (2) of [the Directive] has a conflict-of-laws character:
+Do those provisions merely require the exclusive application of the substantive law applicable in the country of origin or
+         also the application of the conflict-of-laws rules applicable there, with the consequence that a renvoi under the law of the
+         country of origin to the law of the target State remains possible?’
+      
+ Case C‑161/Before the Tribunal de grande instance de Paris (Paris Regional Court), the French actor Olivier Martinez and his father,
+         Robert Martinez, complain of interference with their private lives and infringement of the right of Olivier Martinez to his
+         image by reason of the posting, on the website accessible at the internet address ‘www.sundaymirror.co.uk’, of a text in English,
+         dated February 2008, entitled ‘Kylie Minogue is back with Olivier Martinez’, with details of their meeting. 
+      
+On the basis of Article of the French Civil Code, which provides that ‘everyone has the right to respect for his private
+         life’, the present action has been brought against MGN, a company governed by English law, which publishes the website of
+         the British newspaper the Sunday Mirror. That company raises the objection that the Tribunal de grande instance de Paris lacks jurisdiction as there is no sufficient
+         connecting link between the act of placing the text and images at issue online and the alleged damage in French territory,
+         whereas the applicants, by contrast, take the view that such a connecting link is unnecessary and that, in any event, there
+         is such a link. 
+      
+The national court states that, where the internet is the medium for a harmful event, that harmful event can be deemed to
+         have occurred in the territory of a Member State only if there is a sufficient, substantial or significant link connecting
+         it with that territory. 
+      
+The national court takes the view that the answer to the question whether a court of a Member State has jurisdiction to deal
+         with an action alleging infringement of personality rights committed via the internet, from a website published by a person
+         domiciled in another Member State and essentially intended for the public in that other Member State, does not follow clearly
+         from the terms of Articles and 5(3) of the Regulation. 
+      
+In those circumstances, the Tribunal de grande instance de Paris decided to stay the proceedings and to refer the following
+         questions to the Court for a preliminary ruling:
+      
+‘Must Articles and 5(3) of [the Regulation] be interpreted to mean that a court or tribunal of a Member State has jurisdiction
+         to hear an action brought in respect of an infringement of personality rights allegedly committed by the placing online of
+         information and/or photographs on an internet site published in another Member State by a company domiciled in that second
+         State – or in a third Member State, but in any event a State other than the first Member State:
+      
+–        on the sole condition that the internet site can be accessed from the first Member State,
+–        on the sole condition that there is, between the harmful act and the territory of the first Member State, a link which is
+         sufficient, substantial or significant and, in that case, whether that link can be created by:
+      
+–        the number of hits on the page at issue made from the first Member State, as an absolute figure or as a proportion of all
+         hits on that page,
+      
+–        the residence, or nationality, of the person who complains of the infringement of his or her personality rights or, more generally,
+         of the persons concerned,
+      
+–        the language in which the information at issue is broadcast or any other factor which may demonstrate the site publisher’s
+         intention to address specifically the public of the first Member State,
+      
+–        the place where the events described occurred and/or where the photographic images put on line were taken,
+–        other criteria?’
+By order of October 2010, the President of the Court of Justice, in accordance with Article of the Rules of Procedure
+         of the Court, decided to join Cases C‑509/and C‑161/for the purposes of the oral hearing and the judgment.
+      
+ Admissibility
+The Italian Government expresses the view that the questions submitted in Case C‑509/should be declared inadmissible for
+         lack of relevance to the dispute in the main proceedings. An injunction, it argues, is an emergency judicial instrument and
+         therefore presupposes current harmful behaviour. It is, however, evident from the presentation of the facts in this case that
+         the behaviour regarded as harmful was no longer current at the time when the application for an injunction was made, given
+         that the operator of the website had already removed the information in dispute prior to the commencement of proceedings.
+      
+It should be recalled in this regard that, according to settled case-law, in proceedings under Article TFEU, it is solely
+         for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent
+         judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary
+         ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently,
+         where the questions referred concern the interpretation of European Union law, the Court of Justice is, in principle, bound
+         to give a ruling (see Case C‑52/TeliaSonera Sverige [2011] ECR I‑0000, paragraph and the case-law cited). 
+      
+The Court may refuse to rule on a question referred for a preliminary ruling from a national court only where it is quite
+         obvious that the interpretation of European Union law that is sought bears no relation to the actual facts of the main action
+         or its purpose, inter alia where the problem is hypothetical (see TeliaSonera Sverige, paragraph 16). 
+      
+It does not, however, appear that, in the case in the main proceedings, the application for an injunction became devoid of
+         purpose by reason of the fact that the website operator had already removed the information in dispute before proceedings
+         were commenced. Indeed, as is set out at paragraph of this judgment, the injunction application was successful in the two
+         lower courts. 
+      
+In any event, the Court has already noted that, in the light of its wording, Article 5(3) of the Regulation does not require
+         the current existence of damage (see, to that effect, Case C‑167/Henkel [2002] ECR I‑8111, paragraphs and 49). It follows that an action seeking to prevent a repetition of behaviour regarded
+         as wrongful comes within the scope of that provision. 
+      
+In those circumstances, the reference for a preliminary ruling must be held to be admissible. 
+      
+ Consideration of the questions referred
+ Interpretation of Article 5(3) of the Regulation
+By the first two questions in Case C‑509/and the single question in Case C‑161/10, which it is appropriate to examine together,
+         the national courts ask the Court, in essence, how the expression ‘the place where the harmful event occurred or may occur’,
+         used in Article 5(3) of the Regulation, is to be interpreted in the case of an alleged infringement of personality rights
+         by means of content placed online on an internet website. 
+      
+In order to answer those questions, it should be borne in mind, first, that, according to settled case-law, the provisions
+         of the Regulation must be interpreted independently, by reference to its scheme and purpose (see, inter alia, Case C‑189/Zuid‑Chemie [2009] ECR I‑6917, paragraph and the case-law cited).
+      
+Second, in so far as the Regulation now replaces, in the relations between Member States, the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters (OJ L 304, p. 36), as amended by the
+         successive conventions relating to the accession of new Member States to that convention (‘the Brussels Convention’), the
+         interpretation provided by the Court in respect of the provisions of the Brussels Convention is also valid for those of the
+         Regulation whenever the provisions of those Community instruments may be regarded as equivalent (Zuid‑Chemie, paragraph 18).
+      
+It is settled case-law that the rule of special jurisdiction laid down, by way of derogation from the principle of jurisdiction
+         of the courts of the place of domicile of the defendant, in Article 5(3) of the Regulation is based on the existence of a
+         particularly close connecting factor between the dispute and the courts of the place where the harmful event occurred, which
+         justifies the attribution of jurisdiction to those courts for reasons relating to the sound administration of justice and
+         the efficacious conduct of proceedings (Zuid‑Chemie, paragraph and the case-law cited). 
+      
+It must also be borne in mind that the expression ‘place where the harmful event occurred’ is intended to cover both the place
+         where the damage occurred and the place of the event giving rise to it. Those two places could constitute a significant connecting
+         factor from the point of view of jurisdiction, since each of them could, depending on the circumstances, be particularly helpful
+         in relation to the evidence and the conduct of the proceedings (see Case C‑68/Shevill and Others [1995] ECR I‑415, paragraphs and 21). 
+      
+In relation to the application of those two connecting criteria to actions seeking reparation for non-material damage allegedly
+         caused by a defamatory publication, the Court has held that, in the case of defamation by means of a newspaper article distributed
+         in several Contracting States, the victim may bring an action for damages against the publisher either before the courts of
+         the Contracting State of the place where the publisher of the defamatory publication is established, which have jurisdiction
+         to award damages for all of the harm caused by the defamation, or before the courts of each Contracting State in which the
+         publication was distributed and where the victim claims to have suffered injury to his reputation, which have jurisdiction
+         to rule solely in respect of the harm caused in the State of the court seised (Shevill and Others, paragraph 33).
+      
+In that regard, the Court has also stated that, while it is true that the limitation of the jurisdiction of the courts in
+         the State of distribution solely to damage caused in that State presents disadvantages, the plaintiff always has the option
+         of bringing his entire claim before the courts either of the defendant’s domicile or of the place where the publisher of the
+         defamatory publication is established (Shevill and Others, paragraph 32). 
+      
+Those considerations may, as was noted by the Advocate General at point of his Opinion, also be applied to other media
+         and means of communication and may cover a wide range of infringements of personality rights recognised in various legal systems,
+         such as those alleged by the applicants in the main proceedings. 
+      
+However, as has been submitted both by the referring courts and by the majority of the parties and interested parties which
+         have submitted observations to the Court, the placing online of content on a website is to be distinguished from the regional
+         distribution of media such as printed matter in that it is intended, in principle, to ensure the ubiquity of that content.
+         That content may be consulted instantly by an unlimited number of internet users throughout the world, irrespective of any
+         intention on the part of the person who placed it in regard to its consultation beyond that person’s Member State of establishment
+         and outside of that person’s control. 
+      
+It thus appears that the internet reduces the usefulness of the criterion relating to distribution, in so far as the scope
+         of the distribution of content placed online is in principle universal. Moreover, it is not always possible, on a technical
+         level, to quantify that distribution with certainty and accuracy in relation to a particular Member State or, therefore, to
+         assess the damage caused exclusively within that Member State. 
+      
+The difficulties in giving effect, within the context of the internet, to the criterion relating to the occurrence of damage
+         which is derived from Shevill and Others contrasts, as the Advocate General noted at point of his Opinion, with the serious nature of the harm which may be suffered
+         by the holder of a personality right who establishes that information injurious to that right is available on a world-wide
+         basis. 
+      
+The connecting criteria referred to in paragraph of the present judgment must therefore be adapted in such a way that a
+         person who has suffered an infringement of a personality right by means of the internet may bring an action in one forum in
+         respect of all of the damage caused, depending on the place in which the damage caused in the European Union by that infringement
+         occurred. Given that the impact which material placed online is liable to have on an individual’s personality rights might
+         best be assessed by the court of the place where the alleged victim has his centre of interests, the attribution of jurisdiction
+         to that court corresponds to the objective of the sound administration of justice, referred to in paragraph above. 
+      
+The place where a person has the centre of his interests corresponds in general to his habitual residence. However, a person
+         may also have the centre of his interests in a Member State in which he does not habitually reside, in so far as other factors,
+         such as the pursuit of a professional activity, may establish the existence of a particularly close link with that State.
+         
+      
+The jurisdiction of the court of the place where the alleged victim has the centre of his interests is in accordance with
+         the aim of predictability of the rules governing jurisdiction (see Case C‑144/BVG [2011] ECR I‑0000, paragraph 33) also with regard to the defendant, given that the publisher of harmful content is, at the
+         time at which that content is placed online, in a position to know the centres of interests of the persons who are the subject
+         of that content. The view must therefore be taken that the centre-of-interests criterion allows both the applicant easily
+         to identify the court in which he may sue and the defendant reasonably to foresee before which court he may be sued (see Case
+         C‑533/Falco Privatstiftung and Rabitsch [2009] ECR I‑3327, paragraph and the case-law cited). 
+      
+Moreover, instead of an action for liability in respect of all of the damage, the criterion of the place where the damage
+         occurred, derived from Shevill and Others, confers jurisdiction on courts in each Member State in the territory of which content placed online is or has been accessible.
+         Those courts have jurisdiction only in respect of the damage caused in the territory of the Member State of the court seised.
+         
+      
+Consequently, the answer to the first two questions in Case C‑509/and the single question in Case C‑161/is that Article
+         5(3) of the Regulation must be interpreted as meaning that, in the event of an alleged infringement of personality rights
+         by means of content placed online on an internet website, the person who considers that his rights have been infringed has
+         the option of bringing an action for liability, in respect of all the damage caused, either before the courts of the Member
+         State in which the publisher of that content is established or before the courts of the Member State in which the centre of
+         his interests is based. That person may also, instead of an action for liability in respect of all the damage caused, bring
+         his action before the courts of each Member State in the territory of which content placed online is or has been accessible.
+         Those courts have jurisdiction only in respect of the damage caused in the territory of the Member State of the court seised.
+      
+ Interpretation of Article of the Directive 
+By its third question in Case C‑509/09, the Bundesgerichtshof asks whether the provisions of Article 3(1) and (2) of the Directive
+         have the character of a conflict-of-laws rule in the sense that, for the field of private law, they also require the exclusive
+         application, for information society services, of the law in force in the country of origin, to the exclusion of national
+         conflict-of-laws rules, or whether they operate as a corrective to the law declared to be applicable pursuant to the national
+         conflict-of-laws rules in order to adjust it in accordance with the requirements of the country of origin. 
+      
+Those provisions must be analysed by taking account not only of their wording, but also of the context in which they occur
+         and the objectives pursued by the rules of which they are part (see Case C‑156/Germany v Commission [2000] ECR I‑6857, paragraph 50, Case C‑306/SGAE [2006] ECR I‑11519, paragraph 34, and Case C‑162/Lassal [2010] ECR I‑0000, paragraph 49). 
+      
+In that sense, the enacting terms of a European Union act are indissociably linked to the reasons given for it, so that, when
+         it has to be interpreted, account must be taken of the reasons which led to its adoption (Case C‑298/P Italy v Commission [2004] ECR I‑4087, paragraph and the case-law cited, and Lassal, paragraph 50). 
+      
+The Directive, which was adopted on the basis of Articles 47(2) EC, EC and EC, has the objective, as set out in Article
+         1(1) thereof, of contributing to the proper functioning of the internal market by ensuring the free movement of information
+         society services between the Member States. Recital in the preamble lists, as legal obstacles to the proper functioning
+         of the internal market in that field, divergences in legislation and legal uncertainty as regards which national rules apply
+         to such services. 
+      
+For the majority of the aspects of electronic commerce, however, the Directive is not intended to achieve harmonisation of
+         substantive rules, but defines a ‘coordinated field’ in the context of which the mechanism in Article must allow, according
+         to recital in the preamble to the Directive, information society services to be, in principle, subject to the law of the
+         Member State in which the service provider is established. 
+      
+In that regard, it must be noted, firstly, that the law of the Member State in which the service provider is established includes
+         the private law field, which is apparent from, inter alia, recital in the preamble to the Directive and from the fact that
+         the annex thereto sets out the private-law rights and obligations to which the Article mechanism does not apply. Secondly,
+         the application thereof to the liability of service providers is expressly provided for by the second indent of Article 2(h)(i)
+         of the Directive. 
+      
+A reading of Article 3(1) and (2) of the Directive in the light of the abovementioned provisions and objectives shows that
+         the mechanism provided for by the Directive prescribes, also in private law, respect for the substantive law requirements
+         in force in the country in which the service provider is established. In the absence of binding harmonisation provisions adopted
+         at European Union level, only the acknowledgement of the binding nature of the national law to which the legislature has decided
+         to make the service providers and their services subject can guarantee the full effect of the free provision of those services.
+         Article 3(4) of the Directive confirms such a reading in that it sets out the conditions under which Member States may derogate
+         from Article 3(2), which must be regarded as being exhaustive. 
+      
+The interpretation of Article of the Directive must, however, also take account of Article 1(4) thereof, according to which
+         the Directive does not establish additional rules on private international law relating to conflicts of laws. 
+      
+In that regard, it must be noted, firstly, that an interpretation of the internal market rule enshrined in Article 3(1) of
+         the Directive as meaning that it leads to the application of the substantive law in force in the Member State of establishment
+         does not determine its classification as a rule of private international law. That paragraph principally imposes on Member
+         States the obligation to ensure that the information society services provided by a service provider established on their
+         territory comply with the national provisions applicable in the Member States in question which fall within the coordinated
+         field. The imposition of such an obligation is not in the nature of a conflict-of-laws rule designed to resolve a specific
+         conflict between several laws which may be applicable. 
+      
+Secondly, Article 3(2) of the Directive prohibits Member States from restricting, for reasons falling within the coordinated
+         field, the freedom to provide information society services from another Member State. By contrast, it is apparent from Article
+         1(4) of the Directive, read in the light of recital in the preamble thereto, that host Member States are in principle free
+         to designate, pursuant to their private international law, the substantive rules which are applicable so long as this does
+         not result in a restriction of the freedom to provide electronic commerce services. 
+      
+It follows that Article 3(2) of the Directive does not require transposition in the form of a specific conflict-of-laws rule.
+         
+      
+The provisions of Article 3(1) and (2) of the Directive must, however, be interpreted in such a way as to guarantee that the
+         coordinated approach chosen by the European Union legislature will effectively allow the free movement of information society
+         services between the Member States. 
+      
+In this regard, it must be recalled that the Court has already ruled that it must be possible to apply mandatory provisions
+         of a directive that are necessary to achieve the objectives of the internal market notwithstanding a choice of different law
+         (see, to that effect, Case C‑381/Ingmar [2000] ECR I‑9305, paragraph 25, and Case C‑465/Honyvem Informazioni Commerciali [2006] ECR I‑2879, paragraph 23). 
+      
+In relation to the mechanism provided for by Article of the Directive, it must be held that the fact of making electronic
+         commerce services subject to the legal system of the Member State in which their providers are established pursuant to Article
+         3(1) does not allow the free movement of services to be fully guaranteed if the service providers must ultimately comply,
+         in the host Member State, with stricter requirements than those applicable to them in the Member State in which they are established.
+         
+      
+It follows that Article of the Directive precludes, subject to derogations authorised in accordance with the conditions
+         set out in Article 3(4), a provider of an electronic commerce service from being made subject to stricter requirements than
+         those provided for by the substantive law in force in the Member State in which that service provider is established. 
+      
+In light of the foregoing, the answer to the third question in Case C‑509/is that Article of the Directive must be interpreted
+         as not requiring transposition in the form of a specific conflict-of-laws rule. Nevertheless, in relation to the coordinated
+         field, Member States must ensure that, subject to the derogations authorised in accordance with the conditions set out in
+         Article 3(4) of the Directive, the provider of an electronic commerce service is not made subject to stricter requirements
+         than those provided for by the substantive law applicable in the Member State in which that service provider is established.
+         
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the actions pending before the national courts,
+         the decisions on costs are a matter for those courts. Costs incurred in submitting observations to the Court, other than the
+         costs of those parties, are not recoverable.
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+1.      Article 5(3) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement
+            of judgments in civil and commercial matters must be interpreted as meaning that, in the event of an alleged infringement
+            of personality rights by means of content placed online on an internet website, the person who considers that his rights have
+            been infringed has the option of bringing an action for liability, in respect of all the damage caused, either before the
+            courts of the Member State in which the publisher of that content is established or before the courts of the Member State
+            in which the centre of his interests is based. That person may also, instead of an action for liability in respect of all
+            the damage caused, bring his action before the courts of each Member State in the territory of which content placed online
+            is or has been accessible. Those courts have jurisdiction only in respect of the damage caused in the territory of the Member
+            State of the court seised.
+2.      Article of Directive 2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of
+            information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’),
+            must be interpreted as not requiring transposition in the form of a specific conflict-of-laws rule. Nevertheless, in relation
+            to the coordinated field, Member States must ensure that, subject to the derogations authorised in accordance with the conditions
+            set out in Article 3(4) of Directive 2000/31, the provider of an electronic commerce service is not made subject to stricter
+            requirements than those provided for by the substantive law applicable in the Member State in which that service provider
+            is established.
+[Signatures]
+* Languages of the cases: German and French.
+      
+Top  
+ 

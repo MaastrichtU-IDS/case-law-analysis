@@ -1,0 +1,162 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+February (
+*)
+‛Request for a preliminary ruling — VAT — Directive 2006/112/EC — Reverse charge procedure — Right to deduct — Payment of the tax to the service supplier — Omission of mandatory particulars — Payment of VAT not due — Loss of the right to deduct — Principle of fiscal neutrality — Principle of legal certainty’
+In Case C‑424/12,
+REQUEST for a preliminary ruling under Article TFEU from the Curtea de Apel Oradea (Romania), made by decision of June 2012, received at the Court on September 2012, in the proceedings
+SC Fatorie SRL
+v
+Direcţia Generală a Finanţelor Publice Bihor,
+THE COURT (Second Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, J.L. da Cruz Vilaça, G. Arestis (Rapporteur), J.-C. Bonichot and A. Arabadjiev, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+SC Fatorie SRL, by C. Costaş, avocat,
+—
+the Romanian Government, by R.H. Radu, V. Angelescu and I. Bara-Buşilă, acting as Agents,
+—
+the Estonian Government, by M. Linntam, acting as Agent,
+—
+the European Commission, by L. Keppenne and L. Lozano Palacios, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1) (‘the VAT Directive’), specifically the provisions relating to the right to deduct where the reverse charge system is applied, and the principles of fiscal neutrality in respect of value added tax (VAT) and legal certainty.
+The request has been made in proceedings between SC Fatorie SRL (‘Fatorie’) and the Direcţia Generală a Finanţelor Publice Bihor (the Directorate-General of Public Finance, Bihor) (‘the Direcţia’) regarding the refusal to grant Fatorie the right to deduct VAT on account of a failure to apply provisions relating to the reverse charge system.
+Legal context
+European Union law
+Article 178(a) and (f) of the VAT Directive provides as follows:
+‘In order to exercise the right of deduction, a taxable person must meet the following conditions:
+(a)
+for the purposes of deductions pursuant to Article 168(a), in respect of the supply of goods or services, he must hold an invoice drawn up in accordance with Articles to and Articles 238, and 240;
+…
+(f)
+when required to pay VAT as a customer where Articles to or Article apply, he must comply with the formalities as laid down by each Member State.’
+Article 199(1) of that directive provides that, in respect of certain supplies of services, Member States may provide that the person liable for payment of VAT is the taxable person to whom those supplies are made. That regime, known usually as the ‘reverse charge’ procedure, may in particular be applied, pursuant to Article 199(1)(a), to ‘the supply of construction work, including repair, cleaning, maintenance, alteration and demolition services in relation to immovable property, as well as the handing over of construction works …’.
+Article 226(11) of that directive is worded as follows:
+‘Without prejudice to the particular provisions laid down in this Directive, only the following details are required for VAT purposes on invoices issued pursuant to Articles and 221:
+…
+(11)
+in the case of an exemption or where the customer is liable for payment of VAT, reference to the applicable provision of this Directive, or to the corresponding national provision, or any other reference indicating that the supply of goods or services is exempt or subject to the reverse charge procedure.’
+Romanian law
+Article 146(1)(a) of Law No 571/on the Tax Code (Legea nr. 571/privind Codul fiscal) of December (Monitorul Oficial al României, Part I, No 927, December 2003) (‘the Tax Code’) states:
+‘In order to exercise the right to deduct the tax, a taxable person must meet the following conditions:
+(a)
+for tax due or paid on goods supplied or to be supplied to him, or on services supplied or to be supplied to him, he must hold an invoice that includes the information referred to in Article 155(5)’.
+Article 155(5)(n)(2) of the Tax Code provides as follows:
+‘The invoice shall be required to contain the following information:
+…
+2.
+if the tax is payable by the recipient in the circumstances provided for in Article 150(1)(b) to (d) and (g), a reference to the provisions of this Title or to Directive 2006/112, or the words “reverse charge procedure” in respect of the transactions referred to in Article 160.’
+Article of the Tax Code, in the version applicable at the date of the facts in the main proceedings, is worded as follows:
+‘(1)   The suppliers and recipients of the goods or services referred to in paragraph shall apply the simplification measures provided for in this article. Registration of both the supplier and the recipient for the purpose of VAT, in accordance with Article 153, shall be a necessary condition for the application of the simplification measures.
+(2)   The goods and services to the supply of which the simplification measures are to be applied shall be:
+…
+(b)
+buildings, parts of buildings and plots of all kinds, for the supply of which the tax regime is applicable;
+(c)
+construction and assembly works;
+…
+(3)   Suppliers shall include in invoices issued for the supply of goods mentioned in paragraph the words “reverse charge procedure”, without indicating the tax relating thereto. In invoices received from suppliers, recipients shall indicate the tax relating thereto, which is to be stated either as tax paid or as tax deductible in a tax return. No payment of the tax between supplier and recipient shall take place in respect of transactions subject to the simplification measures.
+…
+(5)   Both suppliers and recipients shall be responsible for applying the provisions of this article. If the supplier has not indicated “reverse charge procedure” in invoices issued for goods or services falling within paragraph 2, the recipient shall apply the reverse charge procedure, shall not pay the tax to the supplier, shall include on his own initiative in the invoice the words “reverse charge procedure” and perform the obligations laid down in paragraph 3.’
+Point of Government Decision No 44/on the procedure for the application of the Tax Code (hotărârea Guvernului nr 44/privind Normele metodologice de aplicare a Legii nr. 571/privind Codul fiscal), as in force at the time of the facts in the main proceedings, provides as follows:
+‘(1)
+The necessary condition laid down in Article 160(1) of the Tax Code for the application of simplification measures, that is, the reverse charge procedure, is that both the supplier and the recipient are persons registered for the purpose of VAT, in accordance with Article of the Tax Code, and that the relevant transaction is taxable. The simplification measures apply only in respect of transactions carried out within the country, within the meaning of Article of the Tax Code.
+…
+(3)
+In the case of the supplies of goods or services provided for in Article 160(2) of the Tax Code, including in respect of payments on account received, the suppliers shall issue invoices without tax and shall include on them the words “reverse charge procedure”. The tax is calculated by the recipient and recorded in the invoices and in the register of purchases, being reiterated in the tax return as collected tax and as deductible tax. For accounting purposes, the recipient will enter the corresponding amount of tax during the tax period under headings [deductible VAT] and [collected VAT].
+…
+(12)
+Where there are construction and assembly works for which payments on account have been received and/or invoices have been issued, in respect of all or part of the value subject to the reverse charge procedure, up to and including December 2007, but in respect of which the chargeable event occurs in (that is, the date on which progress reports are issued and, as the case may be, accepted by the recipients), the normal tax regime shall be applied only to the difference between the value of the works in respect of which the chargeable event for tax purposes occurs in and the value of the payments on account received or the amounts entered on the invoices issued up to and including December 2007. …’
+Article 105(1) and (3) of Government Order No 92/on the Tax Procedure Code (Ordonanţa Guvernului nr. 92/privind Codul de procedură fiscală), in the version published in Monitorul Oficial al României (Part I, No 513, July 2007), provides as follows:
+‘Rules concerning tax investigations
+(1)   A tax investigation seeks to examine all the factual and legal matters which are relevant for the purposes of the tax levied.
+…
+(3)   The tax investigation is carried out only once in respect of each tax, charge, contribution and/or other sums payable to the consolidated general budget and in respect of each tax period. In exceptional circumstances, the competent tax investigator may decide to carry out a new investigation concerning a particular period where additional information unknown to the tax investigators at the date of the investigation or errors in calculation having an effect on the results of that investigation come to light between the end of the tax investigation and the expiry of the limitation period.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On January 2007, Fatorie concluded a framework contract with SC Megasal Construcţii SRL (‘Megasal’) relating to works for the building and fitting out of pig-pens and for the modernisation of a pig‑rearing farm. The works were completed in February 2008.
+In the course of 2007, Megasal, as the services provider, issued several invoices for the payment of advances, under the reverse charge scheme, applying the simplification measures laid down in point of Government Decision No 44/on the procedure for the application of the Tax Code. The total amount of the invoices issued and drawn up excluding VAT was 834.Romanian lei (RON).
+On March 2008, Megasal issued an invoice restating the total value of the work carried out, which came to RON 840.10, RON of which constituted VAT and RON of which constituted the price of the work. Fatorie paid the VAT stated to Megasal.
+Following the application by Fatorie to the Romanian State for repayment of VAT, the Direcţia authorised, by a decision adopted on July 2008, repayment of VAT in the amount of RON 057, that sum including VAT of RON relating to the invoice of March 2008, in accordance with the tax investigation report of June concerning the period from July to March 2008.
+In 2009, following a second tax investigation on the VAT paid by Fatorie in respect of the period from January to March 2008, the Direcţia decided that the VAT attaching to the invoice of March should be recovered since the simplification measures governing the reverse charge system had not been observed. By a tax assessment of May 2009, the Direcţia thus ordered Fatorie to pay into the State budget the sum of RON 221, that is to say VAT in the sum of RON and default interest in the sum of RON 120.
+According to the information in the case file, Megasal was declared insolvent and did not pay to the Romanian tax authorities the VAT entered on the invoice of March which had been paid to it by Fatorie.
+On July 2009, Fatorie brought proceedings against the Direcţia seeking the annulment of the decision to recover the tax and of the tax assessment of May 2009.
+By a judgment of September 2010, the Tribunalul Bihor (Bihor Regional Court) dismissed the action as unfounded. By a judgment of March 2011, the appeal brought against that judgment was dismissed on the same ground and the judgment became irrevocable.
+On May 2011, Fatorie lodged an application for revision of the judgment of September on the ground that that judgment had been delivered contrary to European Union law. That application was dismissed as inadmissible by a judgment of November 2011.
+On January 2012, Fatorie lodged an appeal before the Curtea de Apel Oradea (Court of Appeal, Oradea) against that judgment.
+Fatorie claims that, inter alia, the Court’s case-law resulting from Case C-90/Bockemühl [2004] ECR I-should be applied to the case in the main proceedings, namely that, where the reverse charge mechanism is applicable, the fact that the conditions relating to invoices have not been satisfied does not affect the right to deduct. The irregularities committed by the supplier in drawing up the invoice of March and the failure by Fatorie to put that invoice in order are therefore not such as to affect Fatorie’s right to deduct the VAT to which that invoice relates.
+The Direcţia considers that Fatorie has lost the right to deduct the VAT referred to in the invoice of March because, first, the company which issued the invoice, Megasal, worded it incorrectly, applying the usual VAT rules whereas that invoice should have been drawn up according to the simplification measures laid down in Article 160(2)(b) of the Tax Code, and, secondly, Fatorie, by failing of its own initiative to enter the words ‘reverse charge procedure’ on the invoice and by paying the tax to the service supplier, did not fulfil the obligation under Article 160(5) of that code.
+In those circumstances, the Curtea de Apel Oradea decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Do the provisions of [the VAT Directive] allow the penalty of loss of the right to deduct to be applied to a taxable person, when:
+(a)
+the invoice produced by the taxable person for the purpose of exercising his right to deduct was incorrectly drawn up by a third party, failing to apply the simplification measures;
+(b)
+the taxable person has paid the VAT indicated in the invoice?
+2.
+Does the European law principle of legal certainty preclude an administrative practice of the Romanian tax authorities who have:
+(a)
+first, by irrevocable administrative decision, acknowledged the right to deduct VAT;
+(b)
+then reversed that decision, and made the taxable person liable to pay into the State budget the VAT for which the right to deduct was originally exercised, together with interest and default interest?
+3.
+In circumstances in which:
+(a)
+the taxable person has paid the VAT incorrectly indicated in the invoice by a third party;
+(b)
+the tax authorities have taken no active steps to request the third party to put right the incorrectly worded invoice;
+(c)
+at present, as a result of the third party’s insolvency, it is impossible for the invoice to be corrected; does the principle of the fiscal neutrality of VAT permit a taxable person to be deprived of the right to deduct VAT?’
+Admissibility of the request for a preliminary ruling
+The European Commission, without explicitly raising a plea of inadmissibility as regards the request for a preliminary ruling, nevertheless expresses doubts as regards its admissibility on the ground that it does not contain either a statement of the reasons which led the referring court to raise the issue of the interpretation or validity of certain provisions of European Union law, or the link drawn by that court between those provisions and the national legislation applicable to the dispute.
+It is settled case-law that the Court may refuse to rule on a request for a preliminary ruling made by a national court only where it is quite obvious that the interpretation of European Union law that is sought bears no relation to the facts of the main action or to its subject-matter, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (Case C-11/Eckelkamp and Others [2008] ECR I-6845, paragraph 28, and Case C-259/Rodopi-M [2013] ECR, paragraph 27).
+It is clear that that is not the case here. The interpretation sought concerning the scope of the right to deduct VAT and the principles of fiscal neutrality and legal certainty is directly connected with the subject-matter of the main proceedings, the genuineness of which appears incontestable. Furthermore, the order for reference contains sufficient factual and legal material for the Court to be able to give a useful answer to the questions submitted to it.
+The request for a preliminary ruling must therefore be declared admissible.
+Consideration of the questions referred
+The first and third questions
+By its first and third questions, which should be examined together, the referring court asks, in essence, whether the VAT Directive and the principle of fiscal neutrality preclude, in a transaction subject to the reverse charge regime, the recipient of the services from being deprived of the right to deduct the VAT not due which he paid to the service supplier on the basis of an incorrectly drawn up invoice, even where the correction of that error is impossible because that supplier is insolvent.
+It must be recalled to begin with that, under the reverse charge regime, no VAT payment takes place between the supplier and the recipient of the services, the recipient being liable, in respect of the transactions carried out, for the input VAT, while being able, in principle, to deduct that tax so that no amount is payable to the tax authorities.
+It must also be pointed out, first, that the right to deduct forms an integral part of the VAT mechanism and in principle cannot be limited (Bockemühl, paragraph 38, and Case C-368/Pannon Gép Centrum [2010] ECR I-7467, paragraph and the case-law cited).
+The rules governing deduction are meant to relieve the taxable person entirely of the burden of the VAT payable or paid in the course of all his economic activities. The common system of VAT consequently ensures neutrality of taxation of all economic activities, whatever their purpose or results, provided that those activities are themselves subject in principle to VAT (see Case C-408/Abbey National [2001] ECR I-1361, paragraph 24, and Joined Cases C-439/and C-440/Kittel and Recolta Recycling [2006] ECR I-6161, paragraph 48).
+As regards, secondly, the procedures for exercising the right to deduct VAT listed in Article of the VAT Directive, only that set out in Article 178(f) of that directive is applicable since a reverse charge procedure under Article 199(1)(a) of that directive is at issue.
+In this connection, a taxable person who is liable as the recipient of services for the VAT relating thereto is not obliged to hold an invoice drawn up in accordance with the formal requirements of the VAT Directive in order to be able to exercise his right to deduct, and only has to fulfil the formalities laid down by the Member State concerned in the exercise of the option conferred by Article 178(f) of that directive (see, to that effect, Bockemühl, paragraph 47).
+It is also apparent from the Court’s case-law that the scope of the formalities laid down by the Member State concerned, which must be complied with by a taxable person in order to be able to exercise the right to deduct VAT, should not exceed what is strictly necessary for the purposes of verifying the correct application of the reverse charge procedure and ensuring that the VAT is collected (see, to that effect, Bockemühl, paragraph 50, and Case C-392/Uszodaépítő [2010] ECR I-8791, paragraph 38).
+Thus, the Court has already held that, in the context of the reverse charge procedure, the principle of fiscal neutrality requires deduction of input tax to be allowed if the substantive requirements are satisfied, even if the taxable person has failed to comply with some of the formal requirements (Joined Cases C-95/and C-96/Ecotrade [2008] ECR I-3457, paragraph 63, and Uszodaépítő, paragraph 39).
+However, contrary to what Fatorie claims, the circumstances of the case in the main proceedings differ from those of Bockemühl.
+In the case in the main proceedings, it is apparent from the order for reference that the invoice of March does not contain the words ‘reverse charge procedure’, contrary to the requirements of Article 160(3) of the Tax Code, and that Fatorie did not take the measures necessary to put that omission in order as provided for in Article 160(5). Furthermore, Fatorie incorrectly paid the VAT, wrongly referred to in that invoice, to Megasal whereas, under the reverse charge regime, it should, as the recipient of the services, have paid the VAT to the tax authorities in accordance with Article of the VAT Directive. Thus, besides the fact that the invoice at issue does not meet the formal requirements provided for by the national legislation, a substantive condition of the reverse charge regime has not been satisfied.
+Such a situation prevented the tax authorities from investigating the application of the reverse charge regime and led to a risk of a loss of tax revenue for the Member State concerned.
+Moreover, it is settled case-law that the right to deduct can be exercised only in respect of taxes actually due, that is to say, the taxes corresponding to a transaction subject to VAT or paid in so far as they were due (Case C-342/Genius Holding [1989] ECR 4227, paragraph 13, and Case C-454/Schmeink & Cofreth and Strobel [2000] ECR I-6973, paragraph 53).
+Thus, since the VAT paid by Fatorie to Megasal was not due and that payment was made in breach of a substantive requirement of the reverse charge regime, Fatorie cannot claim the right to deduct that VAT.
+In this connection, the fact that Megasal is insolvent cannot call into question the refusal to allow deduction of VAT as a result of Fatorie’s failure to fulfil essential obligations for the application of the reverse charge regime.
+However, the recipient of the services which paid VAT that was not due to the service supplier can request repayment of the VAT from it in accordance with the national law.
+Regarding the fact that the tax authorities did not order Megasal to correct the incorrectly drawn-up invoice, it must be pointed out that the main proceedings concern the Direcţia’s refusal to grant the right to deduct to Fatorie, and that it is not necessary, in order to answer the questions raised, to rule on a potential obligation of the tax authorities to a third party.
+Having regard to the foregoing considerations, the answer to the first and third questions is that, in a transaction subject to the reverse charge regime, in circumstances such as those in the main proceedings, the VAT Directive and the principle of fiscal neutrality do not preclude the recipient of the services from being deprived of the right to deduct the VAT which he paid when that tax was not due to the service supplier on the basis of an incorrectly drawn-up invoice, even where the correction of that error is impossible because that supplier is insolvent.
+The second question
+By its second question, the referring court asks, in essence, whether the principle of legal certainty precludes an administrative practice of the national tax authorities whereby they revoke a decision by which they granted the taxable person the right to deduct VAT and then, following a fresh investigation, order him to pay that VAT together with default interest.
+First of all, it must be acknowledged that the principle of legal certainty, requires the tax position of the taxable person, having regard to his rights and obligations vis-à-vis the tax authorities, not to be open to challenge indefinitely (see, to that effect, Ecotrade, paragraph 44).
+In this connection, in its written observations the Romanian Government refers to Article 105(3) of Government Order No 92/on the Tax Procedure Code which allows, in exceptional circumstances, before the expiry of the limitation period, a new investigation to be carried out concerning a particular period where additional information unknown to the tax investigators at the date of the investigation or errors in calculation having an effect on the results of that investigation come to light.
+It must be conceded that such rules, the clarity of which and the predictability of which for the taxable person have not been seriously called into question, comply with the principle of legal certainty.
+It is, however, for the referring court to determine whether the provision of national legislation cited in paragraph above is applicable to the case before it.
+Concerning the default interest, it must be observed that, in the absence of harmonisation of European Union legislation in the field of the penalties applicable in cases where conditions laid down by arrangements under such legislation are not complied with, Member States retain the power to choose the penalties which seem to them to be appropriate. They must, however, exercise that power in accordance with European Union law and its general principles, and, consequently, in accordance with the principle of proportionality (see, to that effect, inter alia, Case C-210/Commission v Greece [1992] ECR I-6735, paragraph and the case-law cited; Case C-213/de Andrade [2000] ECR I-11083, paragraph 20; and Rodopi-M 91, paragraph 31).
+Having regard to the foregoing, the answer to the second question is that the principle of legal certainty does not preclude an administrative practice of the national tax authorities whereby, within a limitation period, they revoke a decision by which they granted the taxable person the right to deduct VAT and then, following a fresh investigation, order him to pay that VAT together with default interest.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+1.
+In a transaction subject to the reverse charge regime, in circumstances such as those in the main proceedings, Council Directive 2006/112/EC of November on the common system of value added tax and the principle of fiscal neutrality do not preclude the recipient of the services from being deprived of the right to deduct the value added tax which he paid when that tax was not due to the service supplier on the basis of an incorrectly drawn up invoice, even where the correction of that error is impossible because that supplier is insolvent.
+ 
+2.
+The principle of legal certainty does not preclude an administrative practice of the national tax authorities whereby, within a limitation period, they revoke a decision by which they granted the taxable person the right to deduct value added tax and then, following a fresh investigation, order him to pay that tax together with default interest.
+ 
+[Signatures]
+(
+*)   Language of the case: Romanian.
+Top  
+ 

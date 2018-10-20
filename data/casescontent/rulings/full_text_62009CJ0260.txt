@@ -1,0 +1,606 @@
+
+Case C-260/P
+Activision Blizzard Germany GmbH
+v
+European Commission
+(Appeal – Article EC and Article of the EEA Agreement – Market for Nintendo video games consoles and games cartridges – Limitation of parallel exports in that market – Agreement between a manufacturer and an exclusive distributor – Distribution agreement allowing passive sales – Proof of a concurrence of wills in the absence of direct documentary evidence that passive sales were to be restricted – Standard of proof necessary to establish the existence of a vertical agreement)
+Summary of the Judgment
+1.        Appeals – Grounds of appeal – Incorrect assessment of the facts – Inadmissibility – Review by the Court of the assessment
+            of the facts and evidence – Possible only where the evidence has been distorted
+(Art. EC; Statute of the Court of Justice, Art. 58(1))
+2.        Competition – Agreements, decisions and concerted practices – Agreements between undertakings – Proof of the existence of
+            an agreement
+(Art. 81(1) EC)
+3.        Competition – Agreements, decisions and concerted practices – Agreements between undertakings – Agreement intended to hinder
+            parallel exports
+(Art. 81(1) EC)
+4.        Appeals – Grounds of appeal – Inadequate statement of reasons – Reliance by the General Court on implicit reasoning – Whether
+            permissible – Conditions
+(Art. EC; Statute of the Court of Justice, Arts and 53; Rules of Procedure of the General Court, Art. 81)
+1.        It is clear from Article EC and the first paragraph of Article of the Statute of the Court of Justice that the Court
+         has no jurisdiction to establish the facts or, in principle, to examine the evidence which the General Court accepted in support
+         of those facts. Provided that the evidence has been properly obtained and that the general principles of law and the rules
+         of procedure relating to the burden of proof and the taking of evidence have been observed, it is for the General Court alone
+         to assess the value that should be attached to the evidence produced before it. Save where the clear sense of the evidence
+         has been distorted, that appraisal does not, therefore, constitute a point of law subject, as such, to review by the Court
+         of Justice. Furthermore, the distortion must be obvious from the documents in the Court’s file, without there being any need
+         to carry out a new assessment of the facts and the evidence.
+      
+(see paras 51, 53)
+2.        The standard of proof required for the purposes of establishing the existence of an anti-competitive agreement in the framework
+         of a vertical relationship is, as a matter of principle, no higher than that which is required in the framework of a horizontal
+         relationship. It is indeed true that factors which, in the context of a horizontal relationship, can sometimes suggest the
+         existence of an anti-competitive agreement between competitors may prove inadequate for the purposes of establishing the existence
+         of such an agreement in the framework of a vertical relationship between a manufacturer and a distributor, given that, in
+         such a relationship, a certain measure of contact is lawful. However, the fact none the less remains that, for the purposes
+         of assessing whether there is an illegal agreement, regard must be had to all the relevant factors, as well as to the economic
+         and legal context specific to each case. The question whether it can be inferred from certain evidence that an agreement contrary
+         to Article 81(1) EC has been concluded cannot therefore be addressed in abstract terms, according to whether the relationship
+         involved is vertical or horizontal, with that evidence being considered separately from the context and the other factors
+         characterising the case.
+      
+(see paras 71-72)
+3.        In order for the General Court to arrive at a finding that an agreement intended to hinder parallel exports and therefore
+         prohibited under Article 81(1) EC has been concluded, it is not necessary in all cases to determine whether a system for monitoring
+         and imposing penalties had been set up.
+      
+(see para. 77)
+4.        The obligation to state reasons does not require the General Court to provide an account which addresses exhaustively, one
+         after the other, all the arguments put forward by the parties to the case. The reasoning may therefore be implicit, on condition
+         that it enables the persons concerned to know the reasons for the General Court’s decision and provides the Court of Justice
+         with sufficient material for it to exercise its power of review.
+      
+(see para. 84)
+  
+  
+JUDGMENT OF THE COURT (First Chamber)
+February (*)
+      
+(Appeal – Article EC and Article of the EEA Agreement – Market for Nintendo video games consoles and games cartridges – Limitation of parallel exports in that market – Agreement between a manufacturer and an exclusive distributor – Distribution agreement allowing passive sales – Proof of a concurrence of wills in the absence of direct documentary evidence that passive sales were to be restricted – Standard of proof necessary to establish the existence of a vertical agreement)
+In Case C‑260/P,
+APPEAL under Article of the Statute of the Court of Justice, brought on July 2009,
+Activision Blizzard Germany GmbH, formerly CD-Contact Data GmbH, established in Burglengenfeld (Germany), represented by J.K. de Pree and E.N.M. Raedts, advocaten,
+      
+appellant,
+the other party to the proceedings being:
+European Commission, represented by S. Noë and F. Ronkes Agerbeek, acting as Agents, with an address for service in Luxembourg,
+      
+defendant at first instance,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, J.-J. Kasel, M. Ilešič (Rapporteur), E. Levits and M. Safjan, Judges,
+Advocate General: J. Mazák,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its appeal, Activision Blizzard Germany GmbH (‘Activision Blizzard’), acting as legal successor to CD-Contact Data GmbH
+         (‘CD-Contact Data’), seeks to have set aside the judgment in Case T‑18/CD-Contact Data GmbH v Commission [2009] ECR II‑1021(‘the judgment under appeal’), by which the Court of First Instance of the European Communities (now ‘the
+         General Court’) reduced the fine imposed on CD-Contact Data and dismissed the remainder of the action brought by that company
+         for annulment of Commission Decision 2003/675/EC of October relating to a proceeding pursuant to Article of the
+         EC Treaty and Article of the EEA Agreement (COMP/35.PO Video Games, COMP/35.PO Nintendo Distribution and COMP/36.Omega – Nintendo) (OJ L 255, p. 33; ‘the contested decision’). That decision related to a complex of agreements and concerted
+         practices designed to restrict parallel exports in the market for Nintendo video games consoles and games cartridges.
+      
+ Background to the dispute
+Nintendo Co., Ltd (‘Nintendo’), a publicly quoted company whose registered office is in Kyoto (Japan), is the head of the
+         Nintendo group of companies, which specialise in the production and distribution of video game consoles and video game cartridges
+         for use with those consoles. Nintendo’s business in the European Economic Area is conducted, in certain territories, by wholly
+         owned subsidiaries, of which the main one is Nintendo of Europe GmbH (‘NOE’). At the material time, NOE coordinated certain
+         business activities of Nintendo in Europe and was its exclusive distributor for Germany. In other sales territories, Nintendo
+         had appointed independent exclusive distributors.
+      
+CD-Contact Data was Nintendo’s exclusive distributor for Belgium and Luxembourg from April to December at least.
+      
+In March 1995, the Commission of the European Communities opened an investigation into the video games industry. In September
+         1995, as a result of its preliminary findings, the Commission opened an additional investigation specifically into Nintendo’s
+         distribution system. Following a complaint lodged by a company active in the importation and sale of electronic games, according
+         to which Nintendo was hindering parallel trade and was operating a resale price maintenance policy in the Netherlands, the
+         Commission extended its investigation. In its reply of May to a request for information from the Commission, Nintendo
+         acknowledged that some of its distribution agreements and some of its general terms had contained restrictions on parallel
+         trade within the European Economic Area. By letter of December 1997, Nintendo indicated to the Commission that it had become
+         aware of ‘a serious issue in relation to parallel trade within the Community’ and expressed the wish to cooperate with the
+         Commission. Following that acknowledgment, Nintendo took measures designed to ensure future compliance with European Union
+         (‘EU’) law and offered financial compensation to the third parties which had suffered financial harm as a result of its activities.
+      
+By letter of June 1999, the Commission asked CD-Contact Data to inform it whether the documents in the Commission files
+         concerning it contained confidential data. In that letter, it was also stated that the Commission was considering opening
+         formal proceedings against certain companies, including CD-Contact Data. On April 2000, the Commission sent a statement
+         of objections to Nintendo and the other undertakings concerned, including CD-Contact Data, alleging infringement of Article
+         81(1) EC and Article 53(1) of the Agreement on the European Economic Area of May (OJ L 1, p. 3). Nintendo did
+         not substantially contest the facts set out in the statement of objections.
+      
+On October 2002, the Commission adopted the contested decision, Article of which states:
+      
+‘The following undertakings have infringed Article 81(1) [EC] and Article 53(1) of the … Agreement [on the European Economic
+         Area] by participating, for the periods indicated, in a complex of agreements and concerted practices in the markets for game
+         consoles and game cartridges compatible with Nintendo manufactured game consoles with the object and effect of restricting
+         parallel exports in Nintendo game consoles and cartridges:
+      
+…
+[CD-Contact Data], from October to the end of December 1997.’
+Under Article of that decision, a fine of EUR million was imposed on CD-Contact Data.
+      
+In recitals and of the contested decision, the Commission states, as regards parallel exports from Belgium and Luxembourg,
+         that ‘[i]t was clear to [CD-Contact Data] that it was bound to ensure that its customers did not parallel export’. According
+         to the Commission, that is apparent from a fax sent by CD-Contact Data to NOE on October 1997, by which CD-Contact Data
+         gave assurances that it did not want to have any exports. In recital of the contested decision, the Commission states
+         that that letter shows that CD-Contact Data and Nintendo ‘had arrived at a “concurrence of wills” [that] no exports from [CD-Contact
+         Data’s] territory were to occur and that CD-Contact Data … would monitor supplies to customers … from whom exports could be
+         expected’. In recital of that decision, the Commission states that ‘[CD-Contact Data] has further submitted evidence that
+         it did not adhere to the agreement that parallel trade was to be restricted’ and that, according to CD-Contact Data, ‘it exported
+         the products itself and/or sold products to companies that it knew would export the same products’. The Commission, however,
+         finds in recital of the contested decision that the fact that, in practice, CD-Contact Data allowed parallel exports to
+         occur shows that CD-Contact Data itself ‘cheated’.
+      
+As regards parallel imports into Belgium, the Commission refers in recital of the contested decision to the fact that,
+         from September until December 1997, CD-Contact Data corresponded on various occasions with NOE about parallel imports into
+         its territory in the expectation that this ‘problem’ would be addressed. The Commission mentions in that regard three letters
+         dated September 1997, November and December respectively.
+      
+ The judgment under appeal
+By the judgment under appeal, the General Court varied the contested decision in so far as that decision did not grant CD-Contact
+         Data the benefit of the attenuating circumstance of its exclusively passive role in the infringement and, consequently, reduced
+         the fine imposed on that company to EUR 000. As to the remainder, the action for annulment of that decision was dismissed.
+      
+The first part of the first plea in law, alleging infringement of Article EC – the General Court’s examination of which
+         is criticised by Activision Blizzard in the present appeal – was rejected in paragraphs to of the judgment under appeal.
+      
+In paragraph of that judgment, the General Court stated that, in the analysis leading to its finding that an agreement
+         contrary to Article 81(1) EC existed, the Commission did not refer to the terms of the distribution agreement between Nintendo
+         and CD-Contact Data as such. According to the General Court, the Commission stated, in that regard, in recital of the
+         contested decision, that ‘[t]he text of the distributor agreement between [CD-Contact Data] and Nintendo allowed [CD-Contact
+         Data] to export passively’. The General Court pointed out, in that connection, that, by contrast with the findings made in
+         the case of some of the distributors to which the contested decision relates, the distribution agreement between CD-Contact
+         Data and Nintendo, which was concluded almost two years after the start of the Commission investigation concerning the distribution
+         system in question, did not as such contain any clause prohibited by Article 81(1) EC. 
+      
+After stating in paragraph of the judgment under appeal that, in the case of CD-Contact Data, the Commission referred only
+         to the conclusion of an agreement, the General Court pointed out in paragraph of that judgment that, in the absence of
+         any direct documentary evidence of a written agreement between Nintendo and CD-Contact Data concerning the restriction of
+         passive exports, the Commission had found that CD-Contact Data’s participation in an agreement contrary to Article 81(1) EC
+         was evidenced by its conduct, as expressed in its correspondence.
+      
+The General Court took the view in paragraph of the judgment under appeal that, accordingly, it was necessary to examine
+         whether, in view of the wording of the letters exchanged, the Commission had established to the requisite legal standard that
+         there was a concurrence of wills, as between CD-Contact Data and Nintendo, to limit parallel trade. In paragraph of that
+         judgment, the General Court pointed out in that regard that, in the contested decision, the Commission had referred to a body
+         of written evidence and, more specifically, to a fax sent by CD-Contact Data to NOE on October 1997.
+      
+In paragraph of the judgment under appeal, the General Court pointed out that CD-Contact Data had explained in that fax
+         that it had not been in a position to provide certain quantities of product to BEM, a wholesaler established in Belgium which
+         might potentially engage in parallel trade. The General Court stated in paragraph of that judgment that, contrary to the
+         submissions made by the Commission, it was not clear from the wording of that fax that CD-Contact Data was aware that it was
+         supposed to prevent parallel exports and that it wished to defend itself against Nintendo France’s allegations relating to
+         such parallel exports from Belgium. In particular, according to the General Court, it could not be inferred with the requisite
+         certainty that the ‘caution’ to which CD-Contact Data referred in relation to those of its customers which generally engaged
+         in exports showed that it had agreed to the policy of restricting the parallel trade in question. Furthermore, the General
+         Court considered it inappropriate to dismiss from the outset the interpretation argued for by CD-Contact Data, to the effect
+         that the reference to the limited quantities of product at its disposal had to be analysed as information showing that it
+         was materially impossible for CD-Contact Data to engage in active selling through a wholesaler established in Belgium.
+      
+The General Court observed in paragraph of the judgment under appeal that the fax sent by CD-Contact Data to NOE on October was, however, a direct response to the letter of October in which Nintendo France had complained about
+         parallel exports from Belgium – a territory for which CD-Contact Data was at the time the exclusive distributor of the products
+         concerned – and had asked NOE to take the measures necessary to remedy the ‘problems’ that those exports were causing it.
+         According to the General Court, CD-Contact Data had thus considered it necessary to justify itself in relation to the quantities
+         at its disposal and the circumstances in which it exported the products in question in response to the complaint concerning
+         those parallel exports.
+      
+In paragraph of the judgment under appeal, the General Court stated that, as regards the documents relating to parallel
+         imports into Belgium and Luxembourg, the Commission referred to the fact that a system for practical collaboration and the
+         exchange of information on parallel trade had been developed between Nintendo and certain of its authorised distributors,
+         including CD-Contact Data. CD-Contact Data’s participation in the information exchange system emerged, according to the General
+         Court, from several letters referred to in recital of the contested decision.
+      
+The General Court took the view, in paragraph of the judgment under appeal, that the wording of those various letters made
+         it possible, by a logical extension of the considerations set out in the preceding paragraphs of that judgment, to conclude
+         that the object of those letters was to denounce parallel imports of Nintendo products into Belgium and that they were part
+         of the information exchange system developed by Nintendo. In that connection, the General Court referred, in paragraphs to of that judgment, to: two letters sent from CD-Contact Data to NOE on September and November respectively;
+         a fax sent by CD-Contact Data to Nintendo France on November 1997; and a document of December 1997, which was sent by
+         NOE to CD-Contact Data.
+      
+In paragraph of the judgment under appeal, the General Court held that the fact that CD-Contact Data had, in practice,
+         participated in parallel trade by exporting goods to customers established outside Belgium and Luxembourg was not capable
+         of calling in question the conclusion set out in paragraph of that judgment. The General Court found in that regard that
+         the fact that an undertaking, whose participation in an unlawful concerted practice under Article 81(1) EC was established,
+         had not conducted itself in the market in the manner agreed with its competitors did not necessarily have to be taken into
+         account. According to the General Court, an undertaking which, despite colluding with its competitors, followed a policy that
+         departed from that agreed on could simply be trying to exploit the cartel for its own benefit.
+      
+Lastly, as regards proof of the prohibition of parallel imports into Belgium and Luxembourg, the General Court found, in paragraph
+         of the judgment under appeal, that CD-Contact Data could not claim that the letters relied on by the Commission had been
+         misinterpreted, in so far as, in those letters, CD-Contact Data merely sought to ensure that the price that it was paying
+         to Nintendo for the relevant products was not too high. In consequence, according to the General Court, it was clear from
+         all those letters – in particular, the fax of November sent by CD-Contact Data to Nintendo France – that they dealt
+         with the issue of the price of the relevant products in a more or less direct connection with the presence of parallel imports.
+      
+In paragraphs and of the judgment under appeal, the General Court deduced from those considerations that the Commission
+         had not erred in finding that CD-Contact Data had participated in an agreement which had as its object the limitation of parallel
+         trade and it consequently rejected the first part of the first plea raised by that company in its action.
+      
+ Forms of order sought by the parties before the Court of Justice
+Activision Blizzard claims that the Court should:
+      
+–        set aside the judgment under appeal in so far as it dismisses the action for annulment of the contested decision;
+–        annul the contested decision, at least in so far as it concerns Activision Blizzard;
+–        in the alternative, set aside the judgment under appeal in so far as dismisses the action for annulment of the contested decision
+         and refer the case back to the General Court;
+      
+–        order the Commission to pay the costs of both sets of proceedings.
+The Commission contends that the Court should dismiss the appeal and order the appellant to pay the costs of these proceedings.
+      
+ The appeal
+Activision Blizzard relies on three grounds of appeal, each relating to the examination by the General Court, in paragraphs
+         to of the judgment under appeal, of the first part of the first plea in law at first instance, alleging infringement
+         of Article 81(1) EC. 
+      
+ The first ground of appeal
+ Arguments of the parties
+Activision Blizzard’s first ground of appeal is that the General Court erred in law by basing its finding that there was an
+         illegal agreement for the purposes of Article 81(1) EC between NOE and CD-Contact Data on an incorrect legal categorisation
+         of the facts. That error is apparent from the fact that, in the course of examining the evidence relied on by the Commission,
+         the General Court did not consider the difference in legal effect as between a limitation of active parallel trade and a limitation
+         of passive parallel trade.
+      
+Activision Blizzard states in that regard that the distribution agreement concluded between Nintendo and CD-Contact Data prohibited
+         active parallel trade whilst allowing passive parallel trade. As the General Court confirmed in paragraph of the judgment
+         under appeal, that agreement is perfectly legal in the light of Article 81(1) EC.
+      
+Given the prohibition, laid down in the distribution agreement, on engaging in active parallel trade, it is not surprising
+         that CD-Contact Data exchanged information with NOE on parallel imports to Belgium, as is evidenced by the fax from CD-Contact
+         Data to Nintendo, dated October 1997, read in conjunction with the letters cited in recital of the contested decision.
+      
+In order to make a sound legal analysis of the facts, the General Court should, after establishing that CD-Contact Data was
+         involved in an exchange of information on parallel imports, have determined whether the conduct at issue related to the limitation
+         of active parallel sales, in accordance with the distribution agreement, or whether it also related to the illegal limitation
+         of passive parallel sales. According to Activision Blizzard, the General Court could not, without first establishing the existence
+         of an agreement which went further than the restriction of active sales, arrive at the conclusion that CD-Contact Data was
+         party to an agreement prohibited under Article 81(1) EC. 
+      
+Activision Blizzard concludes from this that, in so far as the General Court omitted to carry out that analysis, it could
+         not, without erring in law, hold that the Commission had sufficiently established that CD-Contact Data’s conduct was aimed
+         at limiting passive sales.
+      
+In the alternative, Activision Blizzard submits that, at the very least, the General Court breached its obligation to state
+         reasons, as the judgment under appeal in no respect sets out the reasons why the distinction between active and passive parallel
+         trade did not have to be taken into account in the circumstances of the case.
+      
+The Commission concedes that Commission Regulation (EEC) No 1983/of June on the application of Article 85(3) of
+         the Treaty to categories of exclusive distribution agreements (OJ L 173, p. 1), which was applicable ratione temporis to the facts of the case, makes it possible to prohibit the exclusive distributor from actively seeking customers outside
+         his territory and that the distribution agreement between CD-Contact Data and Nintendo included such a prohibition of active
+         sales, which was not, as such, contrary to Article 81(1) EC. The Commission states, however, that that regulation does not
+         apply where the parties agree to create a situation of absolute territorial protection under which exclusive distributors
+         are totally prohibited from making sales outside their territory or from selling to customers who intend to export. That was
+         the position in the present case.
+      
+The Commission contends that the General Court committed no error of law in upholding the contested decision on that point.
+         It argues inter alia that, since the General Court had established the existence of the agreement between CD-Contact Data
+         and Nintendo to limit parallel trade as such, it was not required to give further details in the grounds of its judgment as
+         regards the distinction between active and passive sales by distributors.
+      
+ Findings of the Court
+The first ground of appeal is, in essence, that the General Court erred in law by not examining whether CD-Contact Data’s
+         conduct, as reflected in the correspondence on which the contested decision is based, had the sole purpose of limiting active
+         parallel sales, in accordance with the distribution agreement between CD-Contact Data and Nintendo, or whether that conduct
+         also related to a limitation of passive parallel sales.
+      
+However, it must be held that, contrary to the assertions made by Activision Blizzard, the General Court carried out such
+         an examination in the judgment under appeal and that, consequently, this ground of appeal has no factual basis.
+      
+Thus, the General Court first of all stated, in paragraph of the judgment under appeal, that – by contrast with the distribution
+         agreements concluded previously with some of Nintendo’s other distributors – the distribution agreement between Nintendo and
+         CD-Contact Data did not, as such, contain any clause prohibited by Article 81(1) EC, since it allowed CD-Contact Data to export
+         passively.
+      
+The General Court went on to point out, in paragraphs and of that judgment, that, in the absence of any direct documentary
+         evidence of a written agreement concerning the limitation of passive exports, it was necessary to examine whether, in relying
+         on the correspondence between CD-Contact Data, NOE and Nintendo France, which is cited in the contested decision, the Commission
+         had established to the requisite legal standard that CD-Contact Data had participated in an agreement which was contrary to
+         Article 81(1) EC.
+      
+Lastly, the General Court expressly acknowledged in paragraph of the judgment under appeal that it was inappropriate to
+         dismiss at the outset CD-Contact Data’s interpretation of the fax sent by CD-Contact Data to NOE on October 1997, to the
+         effect that the reference to the limited quantities at CD-Contact Data’s disposal had to be construed as information showing
+         that it was materially impossible for CD-Contact Data to engage in active selling through a wholesaler established in Belgium.
+      
+It follows that the General Court assessed the evidence put forward by the Commission in the light of the fact that the distribution
+         agreement between CD-Contact Data and Nintendo provided for the prohibition – prima facie legal – of active parallel sales and by taking into account CD-Contact Data’s argument that this explained the content of
+         that fax.
+      
+Although, in paragraph of the judgment under appeal, the General Court nevertheless held that CD-Contact Data had participated
+         in an illegal agreement, that was because, on the basis of an analysis made in paragraphs to of that judgment of all
+         the correspondence relied on by the Commission, it had come to the conclusion that that correspondence showed that there was
+         a concurrence of wills, as between CD-Contact Data and Nintendo, with the object not only of limiting active sales but also
+         of limiting parallel trade generally.
+      
+In those circumstances, the first ground of appeal put forward by Activision Blizzard must be rejected as unfounded.
+      
+ The second ground of appeal
+ Arguments of the parties
+Activision Blizzard’s second ground of appeal is that the General Court distorted the evidence by considering that the documents
+         referred to in paragraphs to of the judgment under appeal indicated pursuit of an illegal object. Activision Blizzard
+         refers inter alia to the faxes of September and of and November 1997, in which CD-Contact Data complained about
+         exports to Belgium in infringement of the exclusive rights which had been granted to it in that territory by the distribution
+         agreement, using information relating to the prices of the imported goods as a bargaining tool to obtain a better purchase
+         price from NOE. It would be at odds with the wording of those documents to conclude that they concerned anything other than
+         a legal restriction on active sales in CD-Contact Data’s exclusive territory or the manner in which CD-Contact Data put pressure
+         on its supplier to lower its own purchasing price.
+      
+Activision Blizzard submits, in that connection, that it is apparent from the fax of November that CD-Contact Data
+         wanted to draw attention to the possibility that active sales, originating in Germany, were taking place on the Belgian market.
+      
+As regards the fax of November to Nintendo France, its content in no way indicates that CD-Contact Data was exerting
+         pressure to limit passive parallel imports. The reference to ‘grey imports’ implies inter alia that those imports were legal.
+         Furthermore, under Commission Regulation (EC) No 2790/of December on the application of Article 81(3) of the
+         Treaty to categories of vertical agreements and concerted practices (OJ L 336, p. 21), even the hindrance of passive
+         sales by Nintendo France would have been permitted, as Nintendo France was a subsidiary of the supplier.
+      
+The fax of September – in so far as it may constitute evidence notwithstanding the fact that it was sent prior to the
+         period in which the alleged infringement occurred – does not contain any evidence of an intention to hinder passive parallel
+         trade. On the contrary, it is apparent from that fax that CD-Contact Data tried to use the information relating to the prices
+         of the imported products as a bargaining tool in order to obtain a better price from NOE.
+      
+Activision Blizzard submits that the Commission is attempting to reverse the burden of proof by arguing that it is not apparent
+         from those documents that the authors made a distinction between active and passive sales – as if it were for CD-Contact Data
+         to prove that it had acted in compliance with Article EC. However, the Court clearly indicated in Joined Cases 56/and
+         58/Consten and Grundig v Commission [1966] ECR that a reversal of the burden of proof is not permitted in that regard.
+      
+Activision Blizzard also states that, by contrast with the previous contracts concluded between Nintendo and other parties
+         who actually admitted to having participated in the illegal system, the distribution agreement signed by CD-Contact Data was
+         consistent with the outcome of the discussions held between Nintendo and the Commission and prohibited only active sales.
+         In those circumstances and failing evidence to the contrary, it cannot be assumed that CD-Contact Data had interpreted that
+         agreement other than as precluding it from actively supplying products in territories assigned to other distributors and vice
+         versa. Furthermore, CD-Contact Data’s actions were consistent with that interpretation. CD-Contact Data thus facilitated passive
+         sales into France while alerting NOE to infringements of the prohibition on active trade set out in the distribution agreement.
+      
+The Commission contends that the second ground of appeal is inadmissible or, in the alternative, unfounded, since Activision
+         Blizzard has not produced any evidence establishing that the General Court distorted the clear sense of the evidence before
+         it.
+      
+The Commission maintains, inter alia, that there is nothing in any of the three documents referred to by Activision Blizzard
+         – the faxes of September and of and November – to suggest that those responsible for drawing up those documents
+         operated a distinction between active and passive sales. Furthermore, according to the Commission, the General Court did not
+         read those documents out of context, but considered them together with the other evidence. Taken together, the correspondence
+         at issue shows that CD-Contact Data had taken part in an information system intended to denounce all parallel imports and
+         thus confirms that CD-Contact Data had adhered to an agreement to limit parallel trade as such.
+      
+According to the Commission, it is necessary to consider the background against which the exchanges of information between
+         CD-Contact Data and Nintendo took place. Before CD-Contact Data entered Nintendo’s distribution network, Nintendo and some
+         of its distributors had already set up a scheme designed to upgrade the protection granted to exclusive distributors to the
+         level of absolute territorial protection, and the system for exchanging information on parallel trade was an essential feature
+         of that scheme. Moreover, Nintendo continued its illegal conduct even though it had become aware of the Commission’s investigation.
+      
+ Findings of the Court
+Activision Blizzard’s second ground of appeal is that the General Court distorted evidence, in particular, the faxes of September and of and November 1997, sent by CD-Contact Data to NOE and Nintendo France respectively.
+      
+It should be recalled at the outset that it is clear from Article EC and the first paragraph of Article of the Statute
+         of the Court of Justice that the Court has no jurisdiction to establish the facts or, in principle, to examine the evidence
+         which the General Court accepted in support of those facts. Provided that the evidence has been properly obtained and that
+         the general principles of law and the rules of procedure relating to the burden of proof and the taking of evidence have been
+         observed, it is for the General Court alone to assess the value which should be attached to the evidence produced before it.
+         Save where the clear sense of the evidence has been distorted, that appraisal does not, therefore, constitute a point of law
+         which is subject, as such, to review by the Court of Justice (see, inter alia, Case C-419/P Trubowest Handel and Makarov v Council and Commission [2010] ECR I‑0000, paragraphs and and the case-law cited).
+      
+In the present case, Activision Blizzard submits in a sufficiently detailed manner that the General Court’s assessment of
+         those faxes is at odds with their wording. In those circumstances, the second ground of appeal is – contrary to the assertions
+         made by the Commission – admissible.
+      
+As regards the merits of that ground of appeal, it should be pointed out that, according to settled case-law, the distortion
+         must be obvious from the documents in the Court’s file, without there being any need to carry out a new assessment of the
+         facts and the evidence (see Case C‑551/P General Motors v Commission [2006] ECR I-3173, paragraph 54; Trubowest Handel and Makarov v Council and Commission, paragraph 32; and Case C-399/P Commission v Deutsche Post [2010] ECR I-0000, paragraph 64).
+      
+Even though it would be possible to interpret the faxes in question in the manner argued for by Activision Blizzard, it should
+         nevertheless be stated that that is not the only way in which the wording of those faxes could be construed and that the different
+         interpretation of those faxes adopted by the General Court does not reveal any distortion of their content. In particular,
+         the line of argument set out by Activision Blizzard in support of its second ground of appeal does not bring to light any
+         substantive inaccuracy in the General Court’s reading of those faxes.
+      
+In that regard, it should be pointed out, in particular, that – contrary to what Activision Blizzard seems to suggest – it
+         is in no way obvious from the fax of November that CD-Contact Data intended by that fax only to bring attention to
+         a case of active sales made by another of Nintendo’s distributors in breach of the distribution agreement.
+      
+As regards the faxes of September and November 1997, Activision Blizzard disputes, in essence, their evidential
+         value by maintaining that it is not sufficiently clear from those faxes that they had an illegal object, but does not succeed
+         in showing that the way in which the General Court construed those faxes is obviously at odds with their content.
+      
+It should be borne in mind in that connection that the review carried out by the Court in order to assess the present ground
+         of appeal – that the evidence produced in the form of those faxes was distorted – is restricted to ascertaining that, in finding
+         on the basis of those faxes that CD-Contact Data had participated in an illegal agreement intended to limit parallel trade
+         in general, the General Court had not manifestly exceeded the limits of a reasonable assessment of those faxes. The task of
+         the Court of Justice in the present case is not, therefore, to assess independently whether the Commission has established
+         such participation to the requisite legal standard and thus discharged the burden of proof necessary to show that the rules
+         of competition law were infringed, but to determine whether, in finding that that was actually so, the General Court construed
+         those faxes in a manner manifestly at odds with their wording, which is not the case.
+      
+It follows from the foregoing that the second ground of appeal must be rejected as unfounded.
+      
+ The third ground of appeal
+ Arguments of the parties
+Activision Blizzard’s third ground of appeal is that, even if the Court of Justice were to hold that the documents referred
+         to in paragraphs to of the judgment under appeal go above and beyond the legal restriction of active trade, the General
+         Court made a manifest error of assessment in concluding that those documents constituted sufficient evidence of the existence
+         of an agreement, for the purposes of Article 81(1) EC, between CD-Contact Data and NOE. It is apparent from the case-law of
+         the General Court and from that of the Court of Justice that such an agreement requires first, a unilateral policy adopted
+         by NOE, with an anti-competitive goal, in the form of an implied or express invitation to CD-Contact Data to join in the pursuit
+         of that goal and, secondly, at least tacit acquiescence on the part of the latter. In the judgment under appeal, however,
+         the General Court applied those tests incorrectly or, at the very least, fell short of its obligation to state reasons in
+         that regard.
+      
+As regards the first test referred to, Activision Blizzard submits that the General Court based its conclusion that Nintendo
+         had unilaterally adopted a policy aimed at imposing on CD-Contact Data an obligation to hinder parallel sales on the simple
+         fact that, in 1991, Nintendo had developed an information exchange system for monitoring passive parallel imports. Activision
+         Blizzard maintains, in particular, that the General Court did not explain how Nintendo would have imposed that illegal policy
+         on CD-Contact Data by expressly or implicitly inviting it to participate.
+      
+Moreover, according to Activision Blizzard, the General Court failed to consider relevant issues, such as: the absence of
+         clear evidence that Nintendo had imposed that policy on CD-Contact Data; the absence of a monitoring system or of penalties
+         imposed on CD-Contact Data; the difference in the wording of the distribution agreement between Nintendo and CD-Contact Data
+         as compared with that of earlier agreements with other distributors; and, lastly, the fact that the relations between Nintendo
+         and its exclusive distributors were already being closely monitored by the Commission two years before Contact Data became
+         one of Nintendo’s distributors. These factors make it highly unlikely that Nintendo invited CD-Contact Data to join in the
+         illegal information exchange system or applied that system in the same fashion as it did in its relations with other distributors.
+      
+As regards the second test referred to, Activision Blizzard submits that the General Court was not correct in finding that
+         CD-Contact Data had acquiesced in the policy adopted unilaterally by Nintendo.
+      
+Activision Blizzard submits, in particular, that the General Court erroneously concluded in paragraph of the judgment under
+         appeal that the existence of a concurrence of wills could not be called into question by the fact that Contact Data had, in
+         practice, participated in passive parallel trade by exporting goods to customers outside Belgium and Luxembourg. By basing
+         its decision in that regard on its case-law relating to horizontal agreements, namely Case T-62/Union Pigments v Commission [2005] ECR II-5057, the General Court failed to have regard to the fact that it is settled law that, in the case of vertical
+         agreements, such exports may call into question the acquiescence by the distributor in an illegal policy on the part of the
+         supplier to hinder parallel trade.
+      
+Activision Blizzard maintains, furthermore, that factors which constitute sufficient evidence of the existence of a horizontal
+         agreement may not in all circumstances be regarded as sufficient evidence of the participation of an undertaking in a vertical
+         agreement, in particular where a concurrence of wills would have to be based on tacit acquiescence in a policy which was adopted
+         unilaterally.
+      
+First, by contrast with contacts between competitors, contacts between suppliers and distributors concerning business practices
+         is normal and even necessary, particularly in the context of exclusive distribution systems. Secondly, in vertical relationships,
+         agreements to hinder competition are not necessarily concluded in the interests of the distributor. Thirdly, in a vertical
+         relationship – unlike a relationship between competitors – distributors are dependent on supplies from their supplier and
+         are therefore in a weak position vis-à-vis the supplier, which makes it more difficult for those distributors to dissociate
+         themselves overtly from the policy adopted by the supplier.
+      
+In those circumstances, the fact that a distributor does not dissociate himself overtly from the policy followed by his supplier
+         should not too readily be regarded as acquiescence on the distributor’s part in an agreement, in particular if it can be proved
+         that that distributor did not in fact act according to the wishes of the supplier.
+      
+The Commission argues that the idea that cases involving vertical agreements require a different standard of proof for demonstrating
+         a concurrence of wills as compared with the standard of proof required in cases involving horizontal agreements has no basis
+         in the EC Treaty or the case-law. The distinction between horizontal and vertical agreements is relevant for the purposes
+         of assessing the restrictive effects on competition, but not for the purposes of determining what constitutes a concurrence
+         of wills.
+      
+According to the Commission, none of the three reasons put forward by Activision Blizzard to show that the General Court should
+         have made the distinction which it proposes is convincing. First, the General Court concluded that there was an agreement,
+         not on account of the fact that CD-Contact Data and Nintendo were in contact, but because the contents of the documents referred
+         to in paragraphs to of the judgment under appeal revealed a concurrence of wills to limit parallel trade. Secondly,
+         anti-competitive vertical agreements restricting parallel trade may, like anti-competitive horizontal agreements, be beneficial
+         to the participants in those agreements even where not all of those participants comply with them. Thirdly, it is difficult
+         to see how it is more problematic to dissociate oneself from anti-competitive behaviour in the framework of a vertical relationship
+         than in the framework of a horizontal relationship.
+      
+The Commission infers from this that the General Court did not err in law, and that it gave sufficient grounds for its judgment,
+         with respect to its finding that the Commission had established to the requisite legal standard that there was an agreement
+         between CD-Contact Data and Nintendo to limit parallel trade. The Commission maintains, moreover, that Activision Blizzard
+         intends, by its arguments, to call upon the Court to reassess findings of fact, which is inadmissible.
+      
+ Findings of the Court
+Activision Blizzard’s third ground of appeal is, principally, that the General Court made a manifest error of assessment in
+         finding that the documents relied on by the Commission constituted sufficient evidence of the existence of an agreement prohibited
+         under Article 81(1) EC between CD-Contact Data and Nintendo. Activision Blizzard complains, in particular, that the General
+         Court did not correctly apply in the context of the present case – that is to say, in the context of a vertical relationship
+         – the case-law to the effect that the conclusion of such an agreement requires, first, an implied or express invitation by
+         one of the parties to join in the pursuit of an anti-competitive goal and, secondly, at least tacit acquiescence by the other
+         party. In the alternative, Activision Blizzard submits that the General Court did not set out sufficient reasons for the judgment
+         under appeal.
+      
+It should be pointed out at the outset that – contrary to what Activision Blizzard seems to suggest – it is not true that,
+         as a matter of principle, the standard of proof required for the purposes of establishing the existence of an anti-competitive
+         agreement in the framework of a vertical relationship is higher than that which is required in the framework of a horizontal
+         relationship.
+      
+It is indeed true that factors which, in the context of a horizontal relationship, can sometimes suggest the existence of
+         an anti-competitive agreement between competitors may prove inadequate for the purposes of establishing the existence of such
+         an agreement in the framework of a vertical relationship between a manufacturer and a distributor, given that, in such a relationship,
+         a certain measure of contact is lawful. However, the fact none the less remains that, for the purposes of assessing whether
+         there is an illegal agreement, regard must be had to all the relevant factors, as well as to the economic and legal context
+         specific to each case. The question whether it can be inferred from certain evidence that an agreement contrary to Article
+         81(1) EC has been concluded cannot therefore be addressed in abstract terms, according to whether the relationship involved
+         is vertical or horizontal, with that evidence being considered separately from the context and the other factors characterising
+         the case.
+      
+In the present case, it is apparent inter alia from paragraph of the judgment under appeal that the General Court analysed
+         the correspondence on which the contested decision is based in order to ascertain whether it shows that there was a concurrence
+         of wills, as between CD-Contact Data and Nintendo, with a view to limiting parallel trade. It was on the basis of an assessment
+         of all of that correspondence and of the context of which it formed part that the General Court arrived at the conclusion
+         that there had indeed been such a concurrence of wills.
+      
+Examination of the arguments put forward by Activision Blizzard in support of its third ground of appeal does not reveal any
+         error of law in that assessment.
+      
+As regards, first, the question whether Nintendo had implicitly or expressly invited CD-Contact Data to collaborate with a
+         view to hindering parallel trade, it should be pointed out that – contrary to the submissions of Activision Blizzard – the
+         General Court based its decision in that regard not only on the fact that, in the course of the 1990s, Nintendo had developed
+         an information exchange system to limit parallel trade, but principally on the fact that the correspondence between NOE, Nintendo
+         France and CD-Contact Data showed that CD-Contact Data had joined that system, which means that Nintendo must have invited
+         it to do so.
+      
+Nor can Activision Blizzard reasonably complain that the General Court did not examine the relevant factors in its assessment
+         as to whether such an invitation was made.
+      
+First of all, the Court has stated that, in order to arrive at a finding that an agreement prohibited under Article 81(1)
+         EC has been concluded, it is not necessary in all cases to determine whether a system for monitoring and imposing penalties
+         had been set up (see to that effect, inter alia, Joined Cases C-2/P and C-3/P BAI and Commission v Bayer [2004] ECR I-23, paragraph 84).
+      
+Next, it emerges from paragraph of the judgment under appeal that the General Court took into account the fact that, by
+         contrast with the earlier distribution agreements which Nintendo had entered into with other distributors, the distribution
+         agreement between Nintendo and CD-Contact Data did not contain any prohibited clause.
+      
+Lastly, in so far as Activision Blizzard maintains that the correspondence analysed by the General Court does not constitute
+         sufficiently clear evidence and that, given the absence of a monitoring system, the difference between the distribution agreement
+         with CD-Contact Data and earlier agreements, and the monitoring by the Commission since of the relationships between
+         Nintendo and its distributors, it is highly unlikely that Nintendo invited CD-Contact Data to join an illegal information
+         exchange system, it is sufficient to state that, by that line of argument, Activision Blizzard is simply asking the Court
+         to substitute its own assessment for that of the General Court and that that line of argument is therefore, in accordance
+         with the case-law cited in paragraph above, inadmissible.
+      
+As regards, secondly, the assessment as to whether CD-Contact Data accepted, at least tacitly, Nintendo’s invitation to participate
+         in an agreement to restrict parallel trade, it should, first of all, be pointed out that it is apparent in particular from
+         paragraphs to of the judgment under appeal that – contrary to what Activision Blizzard seems to suggest – the General
+         Court’s finding that CD-Contact Data had accepted that invitation was based not on the fact that CD-Contact Data did not protest
+         against Nintendo’s anti-competitive policy, but on the correspondence relied on by the Commission and, in particular, on the
+         fact that the faxes of September and of and November 1997, which were sent by CD-Contact Data to NOE or to Nintendo
+         France, were intended to denounce the parallel imports carried out in Belgium, a territory which had been assigned to CD-Contact
+         Data.
+      
+Next, it is important to point out that the General Court in no way erred in law by concluding, in paragraph of the judgment
+         under appeal, that the fact that CD-Contact Data had, in practice, participated in passive parallel trade by exporting goods
+         to customers outside Belgium and Luxembourg was not capable of calling in question the existence of a concurrence of wills.
+      
+Although it is true that that fact constitutes one of the relevant factors to be taken into consideration in assessing whether
+         CD-Contact Data accepted Nintendo’s invitation, the fact remains that it is not, in itself, decisive and it cannot automatically
+         preclude the possibility of such acceptance. Thus, contrary to the assertions made by Activision Blizzard, an exclusive distributor
+         may have an interest, not only in entering into an agreement with the manufacturer to limit parallel trade, as a means of
+         further protecting its own distribution area, but also in secretly making sales contrary to that agreement in an attempt to
+         use the agreement for its exclusive benefit. Consequently, it was open to the General Court to conclude, without erring in
+         law, that it was apparent from an overall assessment of all the relevant factors and in particular of the correspondence relied
+         on by the Commission, read in the specific context of the case, that CD-Contact Data had in fact accepted Nintendo’s invitation
+         to collaborate in limiting parallel trade.
+      
+Lastly, as regards Activision Blizzard’s argument that, in view of the ambiguous nature of that correspondence and the fact
+         that CD-Contact Data’s exports were considerable, the General Court should have reached the conclusion that CD-Contact Data’s
+         acquiescence in Nintendo’s anti-competitive policy had not been established, it is sufficient to state that, in accordance
+         with the case-law cited in paragraph above, that argument is inadmissible since it is an invitation to the Court to substitute
+         its own assessment for that of the General Court.
+      
+In so far as Activision Blizzard claims, in the alternative, that insufficient reasons were stated for the judgment under
+         appeal, it should be borne in mind that, according to established case-law, the obligation to state reasons does not require
+         the General Court to provide an account which addresses exhaustively, one after the other, all the arguments put forward by
+         the parties to the case. The reasoning may therefore be implicit, on condition that it enables the persons concerned to know
+         the reasons for the General Court’s decision and provides the Court of Justice with sufficient material for it to exercise
+         its power of review (see, inter alia, the judgment of May in Case C-266/P Evonik Degussa v Commission, paragraph 103, and Case C-583/P Gogos v Commission [2010] ECR I-0000, paragraph and the case-law cited).
+      
+It is apparent from the above considerations that sufficient reasons were stated for the judgment under appeal to enable the
+         Court to review that judgment and Activision Blizzard to know the reasons which led the General Court to find that it had
+         participated in an agreement which had as its object the restriction of parallel trade.
+      
+Consequently, the third ground of appeal must be rejected as in part inadmissible and in part unfounded.
+      
+Since none of the three grounds of appeal relied on by Activision Blizzard can be upheld, the appeal must be dismissed in
+         its entirety.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, which applies to appeal proceedings by virtue of Article thereof, the unsuccessful
+         party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. As the Commission
+         sought an order for costs against Activision Blizzard, and Activision Blizzard has been unsuccessful, it must be ordered to
+         pay the costs.
+      
+On those grounds, the Court (First Chamber) hereby:
+1.      Dismisses the appeal;
+2.      Orders Activision Blizzard Germany GmbH to pay the costs.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

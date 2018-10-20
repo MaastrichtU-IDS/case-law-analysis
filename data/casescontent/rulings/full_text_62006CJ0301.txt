@@ -1,0 +1,599 @@
+
+Case C-301/Ireland
+v
+European Parliament
+and
+Council of the European Union
+(Action for annulment – Directive 2006/24/EC – Retention of data generated or processed in connection with the provision of electronic communications services – Choice of legal basis)
+Summary of the Judgment
+Acts of the institutions – Choice of legal basis
+(Art. EC; European Parliament and Council Directive 2006/24)
+Directive 2006/24/EC on the retention of data generated or processed in connection with the provision of publicly available
+         electronic communications services or of public communications networks had to be adopted on the basis of Article EC.
+      
+The Community legislature may have recourse to Article EC in particular where disparities exist between national rules
+         which are such as to obstruct the fundamental freedoms or to create distortions of competition and thus have a direct effect
+         on the functioning of the internal market.
+      
+It is apparent that the differences between the various national rules adopted on the retention of data relating to electronic
+         communications were liable to have a direct impact on the functioning of the internal market and that it was foreseeable that
+         that impact would become more serious with the passage of time. Such a situation justified the Community legislature in pursuing
+         the objective of safeguarding the proper functioning of the internal market through the adoption of harmonised rules. 
+      
+Furthermore, Directive 2006/regulates operations which are independent of the implementation of any police and judicial
+         cooperation in criminal matters. It harmonises neither the issue of access to data by the competent national law-enforcement
+         authorities nor that relating to the use and exchange of those data between those authorities. Those matters, which fall,
+         in principle, within the area covered by Title VI of the EU Treaty, have been excluded from the provisions of that directive.
+         It follows that the substantive content of Directive 2006/is directed essentially at the activities of service providers
+         in the relevant sector of the internal market, to the exclusion of State activities coming under Title VI of the EU Treaty.
+         In light of that substantive content, it must be held that that directive relates predominantly to the functioning of the
+         internal market. 
+      
+(see paras 63, 71-72, 83-85, 93)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+February (*)
+      
+(Action for annulment – Directive 2006/24/EC – Retention of data generated or processed in connection with the provision of electronic communications services – Choice of legal basis)
+In Case C‑301/06,
+ACTION for annulment under Article EC, brought on July 2006,
+Ireland, represented by D. O’Hagan, acting as Agent, E. Fitzsimons, D. Barniville and A. Collins, SC, with an address for service
+         in Luxembourg,
+      
+applicant,
+supported by:
+Slovak Republic, represented by J. Čorba, acting as Agent,
+      
+intervener,
+v
+European Parliament, represented initially by H. Duintjer Tebbens, M. Dean and A. Auersperger Matić, and subsequently by the latter two and K. Bradley,
+         acting as Agents, with an address for service in Luxembourg,
+      
+Council of the European Union, represented by J.-C. Piris, J. Schutte and S. Kyriakopoulou, acting as Agents,
+      
+defendants,
+supported by:
+Kingdom of Spain, represented by M.A. Sampol Pucurull and J. Rodríguez Cárcamo, acting as Agents, with an address for service in Luxembourg,
+      
+Kingdom of the Netherlands, represented by C. ten Dam and C. Wissels, acting as Agents, 
+      
+Commission of the European Communities, represented by C. Docksey, R. Troosters and C. O’Reilly, acting as Agents, with an address for service in Luxembourg,
+      
+European Data Protection Supervisor, represented by H. Hijmans, acting as Agent, 
+      
+interveners,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, P. Jann, C.W.A. Timmermans, A. Rosas and K. Lenaerts, Presidents of Chambers, A. Tizzano,
+         J. N. Cunha Rodrigues (Rapporteur), R. Silva de Lapuerta, K. Schiemann, J. Klučka, A. Arabadjiev, C. Toader and J.‑J. Kasel,
+         Judges,
+      
+Advocate General: Y. Bot,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on July 2008,
+after hearing the Opinion of the Advocate General at the sitting on October 2008,
+gives the following
+Judgment
+By its action, Ireland requests the Court to annul Directive 2006/24/EC of the European Parliament and of the Council of March on the retention of data generated or processed in connection with the provision of publicly available electronic
+         communications services or of public communications networks and amending Directive 2002/58/EC (OJ L 105, p. 54), on
+         the ground that it was not adopted on an appropriate legal basis.
+      
+ Legal framework
+ Directive 95/46/EC
+Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with
+         regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31) lays down rules relating
+         to the processing of personal data in order to protect the rights of individuals in that respect, while ensuring the free
+         movement of those data in the European Community.
+      
+Article 3(2) of Directive 95/provides:
+      
+‘This Directive shall not apply to the processing of personal data:
+–        in the course of an activity which falls outside the scope of Community law, such as those provided for by Titles V and VI
+         of the Treaty on European Union and in any case to processing operations concerning public security, defence, State security
+         (including the economic well-being of the State when the processing operation relates to State security matters) and the activities
+         of the State in areas of criminal law,
+      
+–        by a natural person in the course of a purely personal or household activity.’
+ Directive 2002/58/EC
+Directive 2002/58/EC of the European Parliament and of the Council of July concerning the processing of personal data
+         and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications)
+         (OJ L 201, p. 37) was adopted with a view to supplementing Directive 95/by provisions specific to the telecommunications
+         sector.
+      
+Under Article 6(1) of Directive 2002/58:
+      
+‘Traffic data relating to subscribers and users processed and stored by the provider of a public communications network or
+         publicly available electronic communications service must be erased or made anonymous when it is no longer needed for the
+         purpose of the transmission of a communication without prejudice to paragraphs 2, and of this Article and Article 15(1).’
+      
+Article 15(1) of Directive 2002/states:
+      
+‘Member States may adopt legislative measures to restrict the scope of the rights and obligations provided for in Article
+         5, Article 6, Article 8(1), (2), (3) and (4), and Article of this Directive when such restriction constitutes a necessary,
+         appropriate and proportionate measure within a democratic society to safeguard national security (i.e. State security), defence,
+         public security, and the prevention, investigation, detection and prosecution of criminal offences or of unauthorised use
+         of the electronic communication system, as referred to in Article 13(1) of Directive 95/46/EC. To this end, Member States
+         may, inter alia, adopt legislative measures providing for the retention of data for a limited period justified on the grounds
+         laid down in this paragraph. All the measures referred to in this paragraph shall be in accordance with the general principles
+         of Community law, including those referred to in Article 6(1) and (2) of the Treaty on European Union.’
+      
+ Directive 2006/Recitals to in the preamble to Directive 2006/provide as follows:
+      
+‘(5)      Several Member States have adopted legislation providing for the retention of data by service providers for the prevention,
+         investigation, detection and prosecution of criminal offences. Those national provisions vary considerably.
+      
+(6)      The legal and technical differences between national provisions concerning the retention of data for the purpose of prevention,
+         investigation, detection and prosecution of criminal offences present obstacles to the internal market for electronic communications,
+         since service providers are faced with different requirements regarding the types of traffic and location data to be retained
+         and the conditions and periods of retention.
+      
+(7)      The Conclusions of the Justice and Home Affairs Council of December underline that, because of the significant growth
+         in the possibilities afforded by electronic communications, data relating to the use of electronic communications are particularly
+         important and therefore a valuable tool in the prevention, investigation, detection and prosecution of criminal offences,
+         in particular organised crime.
+      
+(8)       The Declaration on Combating Terrorism adopted by the European Council on March instructed the Council to examine
+         measures for establishing rules on the retention of communications traffic data by service providers.
+      
+(9)       Under Article of the European Convention for the Protection of Human Rights and Fundamental Freedoms (ECHR), everyone has
+         the right to respect for his private life and his correspondence. Public authorities may interfere with the exercise of that
+         right only in accordance with the law and where necessary in a democratic society, inter alia, in the interests of national
+         security or public safety, for the prevention of disorder or crime, or for the protection of the rights and freedoms of others.
+         Because retention of data has proved to be such a necessary and effective investigative tool for law enforcement in several
+         Member States, and in particular concerning serious matters such as organised crime and terrorism, it is necessary to ensure
+         that retained data are made available to law enforcement authorities for a certain period, subject to the conditions provided
+         for in this Directive. The adoption of an instrument on data retention that complies with the requirements of Article of
+         the ECHR is therefore a necessary measure.
+      
+(10) On July 2005, the Council reaffirmed in its declaration condemning the terrorist attacks on London the need to adopt
+         common measures on the retention of telecommunications data as soon as possible.
+      
+(11) Given the importance of traffic and location data for the investigation, detection and prosecution of criminal offences,
+         as demonstrated by research and the practical experience of several Member States, there is a need to ensure at European level
+         that data that are generated or processed, in the course of the supply of communications services, by providers of publicly
+         available electronic communications services or of a public communications network are retained for a certain period, subject
+         to the conditions provided for in this Directive. ’
+      
+Recital in the preamble to Directive 2006/states:
+      
+‘Since the objectives of this Directive, namely to harmonise the obligations on providers to retain certain data and to ensure
+         that those data are available for the purpose of the investigation, detection and prosecution of serious crime, as defined
+         by each Member State in its national law, cannot be sufficiently achieved by the Member States and can therefore, by reason
+         of the scale and effects of this Directive, be better achieved at Community level, the Community may adopt measures, in accordance
+         with the principle of subsidiarity as set out in Article of the [EC] Treaty. In accordance with the principle of proportionality,
+         as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.’
+      
+Recital in the preamble to Directive 2006/is worded as follows:
+      
+‘This Directive is without prejudice to the power of Member States to adopt legislative measures concerning the right of access
+         to, and use of, data by national authorities, as designated by them. Issues of access to data retained pursuant to this Directive
+         by national authorities for such activities as are referred to in the first indent of Article 3(2) of Directive 95/46/EC fall
+         outside the scope of Community law. However, they may be subject to national law or action pursuant to Title VI of the Treaty
+         on European Union. Such laws or action must fully respect fundamental rights as they result from the common constitutional
+         traditions of the Member States and as guaranteed by the ECHR. …’
+      
+Article 1(1) of Directive 2006/provides:
+      
+‘This Directive aims to harmonise Member States’ provisions concerning the obligations of the providers of publicly available
+         electronic communications services or of public communications networks with respect to the retention of certain data which
+         are generated or processed by them, in order to ensure that the data are available for the purpose of the investigation, detection
+         and prosecution of serious crime, as defined by each Member State in its national law.’
+      
+Article 3(1) of that directive provides:
+      
+‘By way of derogation from Articles 5, and of Directive 2002/58/EC, Member States shall adopt measures to ensure that
+         the data specified in Article of this Directive are retained in accordance with the provisions thereof, to the extent that
+         those data are generated or processed by providers of publicly available electronic communications services or of a public
+         communications network within their jurisdiction in the process of supplying the communications services concerned.’
+      
+Article of Directive 2006/states:
+      
+‘Member States shall adopt measures to ensure that data retained in accordance with this Directive are provided only to the
+         competent national authorities in specific cases and in accordance with national law. The procedures to be followed and the
+         conditions to be fulfilled in order to gain access to retained data in accordance with necessity and proportionality requirements
+         shall be defined by each Member State in its national law, subject to the relevant provisions of European Union law or public
+         international law, and in particular the ECHR as interpreted by the European Court of Human Rights.’
+      
+Article of Directive 2006/states:
+      
+‘Member States shall ensure that the following categories of data are retained under this Directive:
+(a)      data necessary to trace and identify the source of a communication:
+…
+(b)       data necessary to identify the destination of a communication:
+…
+(c)      data necessary to identify the date, time and duration of a communication:
+…
+(d)      data necessary to identify the type of communication:
+…
+(e)      data necessary to identify users’ communication equipment or what purports to be their equipment:
+…
+(f)      data necessary to identify the location of mobile communication equipment:
+…
+2.      No data revealing the content of the communication may be retained pursuant to this Directive.’
+Article of Directive 2006/provides:
+      
+‘Member States shall ensure that the categories of data specified in Article are retained for periods of not less than six
+         months and not more than two years from the date of the communication.’
+      
+Article of Directive 2006/states:
+      
+‘Without prejudice to the provisions adopted pursuant to Directive 95/46/EC and Directive 2002/58/EC, each Member State shall
+         ensure that providers of publicly available electronic communications services or of a public communications network respect,
+         as a minimum, the following data security principles with respect to data retained in accordance with this Directive:
+      
+…’
+Under Article of Directive 2006/24:
+      
+‘Member States shall ensure that the data specified in Article are retained in accordance with this Directive in such a
+         way that the data retained and any other necessary information relating to such data can be transmitted upon request to the
+         competent authorities without undue delay.’
+      
+Article of Directive 2006/is worded as follows:
+      
+‘The following paragraph shall be inserted in Article of Directive 2002/58/EC:
+“1a. Paragraph shall not apply to data specifically required by Directive [2006/24] to be retained for the purposes referred
+         to in Article 1(1) of that Directive”.’
+      
+ Background to the dispute
+On April 2004, the French Republic, Ireland, the Kingdom of Sweden and the United Kingdom of Great Britain and Northern
+         Ireland submitted to the Council of the European Union a proposal for a framework decision to be adopted on the basis of Articles
+         31(1)(c) EU and 34(2)(b) EU. The subject of that proposal was the retention of data processed and stored in connection with
+         the provision of publicly available electronic communications services or data in public communication networks for the purposes
+         of the prevention, investigation, detection and prosecution of criminal offences, including terrorism (Council Document 8958/04).
+      
+The Commission of the European Communities stated that it favoured the legal basis used in that proposed framework decision
+         with respect to a part of it. In particular, it pointed out that Article EU did not allow an instrument based on the EU
+         Treaty to affect the acquis communautaire, in this case Directives 95/and 2002/58. Taking the view that the determination of the categories of data to be retained
+         and of the relevant retention period fell within the competence of the Community legislature, the Commission reserved the
+         right to submit a proposal for a directive.
+      
+On September 2005, the Commission adopted a proposal, based on Article EC, for a directive of the European Parliament
+         and of the Council on the retention of data processed in connection with the provision of public electronic communication[s]
+         services and amending Directive 2002/[COM(2005) final].
+      
+During its session on and December 2005, the Council decided to seek the adoption of a directive based on the EC Treaty,
+         rather than pursuing the adoption of a framework decision.
+      
+On December 2005, the European Parliament delivered its opinion in accordance with the co-decision procedure under Article
+         EC.
+      
+The Council adopted Directive 2006/by qualified majority at its session on February 2006. Ireland and the Slovak Republic
+         voted against the adoption of that directive.
+      
+ Forms of order sought by the parties
+Ireland claims that the Court should:
+      
+–        annul Directive 2006/on the ground that it was not adopted on an appropriate legal basis, and
+–        order the Council and the Parliament to pay the costs.
+The Parliament contends that the Court should:
+      
+–        primarily, dismiss the action as unfounded, and
+–        order Ireland to pay all the costs of the present proceedings,
+–        or, in the alternative, should the Court annul Directive 2006/24, declare that the effects of that directive are to remain
+         in force until a new measure enters into force.
+      
+The Council contends that the Court should:
+      
+–        dismiss the action brought by Ireland, and
+–        order Ireland to pay the costs.
+By orders of February 2007, the President of the Court granted leave to the Slovak Republic to intervene in support of the
+         form of order sought by Ireland and to the Kingdom of Spain, the Kingdom of the Netherlands, the Commission and the European
+         Data Protection Supervisor to intervene in support of the forms of order sought by the Parliament and the Council.
+      
+ The action
+ Arguments of the parties
+Ireland submits that the choice of Article EC as the legal basis for Directive 2006/is a fundamental error. Neither
+         Article EC nor any other provision of the EC Treaty is, in its view, capable of providing an appropriate legal basis for
+         that directive. Ireland argues principally that the sole objective or, at least, the main or predominant objective of that
+         directive is to facilitate the investigation, detection and prosecution of crime, including terrorism. Therefore, the only
+         legal basis on which the measures contained in Directive 2006/may be validly based is Title VI of the EU Treaty, in particular
+         Articles EU, 31(1)(c) EU and 34(2)(b) EU.
+      
+Ireland argues that an examination of, in particular, recitals to and in the preamble to Directive 2006/and of
+         the fundamental provisions laid down therein, in particular Article 1(1) thereof, shows that reliance on Article EC as
+         the legal basis for that directive is inappropriate and unjustifiable. That directive, it contends, is clearly directed towards
+         the fight against crime.
+      
+Ireland submits that measures based on Article EC must have as their ‘centre of gravity’ the harmonisation of national
+         laws in order to improve the functioning of the internal market (see, inter alia, Joined Cases C‑317/and C-318/Parliament v Council and Commission [2006] ECR I‑4721). The provisions of Directive 2006/concern the fight against crime and are not intended to address defects
+         in the internal market.
+      
+If, contrary to its main argument, the Court were to hold that Directive 2006/is indeed intended, inter alia, to prevent
+         distortions or obstacles to the internal market, Ireland submits in the alternative that that objective must be regarded as
+         being purely incidental to the main or predominant objective of combating crime.
+      
+Ireland adds that Directive 2002/could be amended by another directive, but the Community legislature is not competent
+         to use an amending directive adopted on the basis of Article EC in order to incorporate into Directive 2002/provisions
+         falling outside the competence conferred on the Community under the first pillar. The obligations designed to ensure that
+         data are available for the investigation, detection and prosecution of criminal offences fall within an area which may only
+         be the subject of a measure based on Title VI of the EU Treaty. The adoption of such an instrument would not affect the provisions
+         of Directive 2002/within the meaning of Article EU. If the verb ‘affect’, which is used in that article, were to be
+         properly construed, it would be necessary to interpret it as not precluding a random or incidental overlap of unimportant
+         and secondary subject matter between instruments of the Community and those of the Union.
+      
+The Slovak Republic supports Ireland’s position. It takes the view that Article EC cannot serve as the legal basis for
+         Directive 2006/24, since the latter’s main objective is not to eliminate barriers and distortions in the internal market.
+         The directive’s purpose, it submits, is to harmonise the retention of personal data in a manner which goes beyond commercial
+         objectives in order to facilitate action by the Member States in the area of criminal law and, for that reason, it cannot
+         be adopted under Community competence.
+      
+According to the Slovak Republic, the retention of personal data to the extent required by Directive 2006/amounts to an
+         extensive interference in the right of individuals to privacy as provided for by Article of the ECHR. It is questionable
+         whether such far-reaching interference may be justified on economic grounds, in this case the enhanced functioning of the
+         internal market. The adoption of an act outside the scope of Community competence, the primary and undisguised purpose of
+         which is the fight against crime and terrorism, would be a more appropriate solution, providing a more proportionate justification
+         for interference with the right of individuals to protection of their privacy.
+      
+The Parliament submits that Ireland is being selective in its interpretation of the provisions of Directive 2006/24. Recitals
+         and in the preamble thereto, it argues, make it clear that the main or predominant purpose of that directive is to eliminate
+         obstacles to the internal market for electronic communications services, while recital confirms that the access to and
+         use of the retained data for law-enforcement purposes fall outside the scope of Community competence.
+      
+The Parliament submits that, following the terrorist attacks of September in New York (United States), March in Madrid (Spain) and July in London (United Kingdom), a number of Member States adopted divergent rules on the retention
+         of data. Such differences were liable to impede the provision of electronic communications services. The Parliament takes
+         the view that the retention of data constitutes a significant cost element for the providers of publicly available electronic
+         communications services or of public communications networks (‘service providers’) and the existence of different requirements
+         in that field may distort competition within the internal market. It adds that the main purpose of Directive 2006/is to
+         harmonise the obligations imposed by the Member States on service providers in regard to data retention. It follows that Article
+         EC is the correct legal basis for that directive.
+      
+The Parliament also argues that reliance on Article EC as the legal basis is not invalidated by the importance attributed
+         to combating crime. While crime prevention has clearly influenced the choices made in Directive 2006/24, that concern does
+         not invalidate the choice of Article EC as the legal basis for that directive.
+      
+Furthermore, Article of Directive 2006/provides, in a manner consistent with the view expressed in recital in the
+         preamble thereto, that the conditions for access to and processing of retained data must be defined by the Member States subject
+         to the legal provisions of the Union and international law, in particular the ECHR. That approach differs from that adopted
+         for the measures which were the subject of the judgment in Parliament v Council and Commission, a case in which airline companies were obliged to grant access to passenger data to a law-enforcement authority in a non-member
+         country. Directive 2006/thus respects the separation of areas of competence between the first and third pillars.
+      
+According to the Parliament, although the retention of an individual’s personal data may in principle constitute interference
+         within the meaning of Article of the ECHR, that interference may be justified, in terms of that article, by reference to
+         public safety and crime prevention. The issue of justification for such interference must be distinguished from that of the
+         correct choice of the legal basis within the legal system of the Union, that being an unrelated matter.
+      
+The Council submits that, in the years following the adoption of Directive 2002/58, national law-enforcement authorities were
+         becoming increasingly concerned about the exploitation of developments in the area of electronic communications for the purpose
+         of committing criminal acts. Those new concerns led the Member States to adopt measures to prevent data relating to those
+         communications from being erased and to ensure that they were available to law-enforcement authorities. Those measures, the
+         Council continues, were divergent and began to affect the proper functioning of the internal market. Recitals and in the
+         preamble to Directive 2006/are explicit in that regard.
+      
+That situation obliged the Community legislature to ensure that uniform rules were imposed on service providers with regard
+         to the conditions under which they carried out their activities.
+      
+For those reasons, during the Community legislature considered it necessary to put an end to the obligation to erase
+         data imposed by Articles 5, and of Directive 2002/and to provide that, in future, the data referred to in Article of Directive 2006/would have to be retained for a certain period. That amendment obliges the Member States to ensure that
+         such data are retained for a minimum period of six months and a maximum of two years from the date of the communication. The
+         purpose of that amendment was to establish precise and harmonised conditions with which service providers must comply in respect
+         of the erasure or non-erasure of the personal data referred to in Article of Directive 2006/by thus introducing common
+         rules in the Community with a view to ensuring the unity of the internal market.
+      
+The Council takes the view that, while the need to combat crime, including terrorism, was a determining factor in the decision
+         to amend the scope of the rights and obligations laid down in Articles 5, and of Directive 2002/58, that circumstance
+         did not prevent Directive 2006/from having to be adopted on the basis of Article EC.
+      
+Neither Articles EU, EU and EU nor any other article in the EU Treaty can serve as the basis for a measure which,
+         in substance, has the objective of amending the conditions under which service providers carry out their activities or of
+         making the system established by Directive 2002/inapplicable to them.
+      
+Rules relating to the categories of data to be retained by service providers and the retention period for those data which
+         amend the obligations imposed on the latter by Directive 2002/cannot be the subject of an instrument based on Title VI
+         of the EU Treaty. The adoption of such an instrument would affect the provisions of that directive, in breach of Article EU.
+      
+According to the Council, the rights protected by Article of the ECHR are not absolute and may be subject to restrictions
+         under the conditions laid down in Article 8(2) thereof. As provided in Directive 2006/24, the retention of data serves a legitimate
+         public interest, recognised in Article 8(2) of the ECHR, and constitutes an appropriate means by which to protect that interest.
+      
+The Kingdom of Spain and the Kingdom of the Netherlands submit that, as is apparent from recitals 1, 2, and in the preamble
+         to Directive 2006/24, the main purpose of that directive is to eliminate obstacles to the internal market generated by existing
+         legal and technical differences between the national provisions of the Member States. That directive, in their view, regulates
+         the retention of data with the aim of eliminating that type of obstacles, first, by harmonising the obligation to retain data
+         and, second, by specifying the criteria relevant to that obligation, such as the categories of data to be retained and the
+         retention period.
+      
+The fact that, under Article 1, Directive 2006/effects such harmonisation ‘in order to ensure that the data are available
+         for the purpose of the investigation, detection and prosecution of serious crime, as defined by each Member State in its national
+         law’ is a separate matter. Directive 2006/does not regulate the processing of data by the public or law-enforcement authorities
+         of the Member States. On the contrary, that harmonisation relates only to the aspects of data retention which directly affect
+         the commercial activities of service providers.
+      
+In so far as Directive 2006/amends Directive 2002/and has a connection with Directive 95/46, the amendments which it
+         contains may be properly implemented only by means of a Community instrument and not by an instrument based on the EU Treaty.
+      
+The Commission recalls that, prior to the adoption of Directive 2006/24, several Member States had adopted national measures
+         on data retention pursuant to Article 15(1) of Directive 2002/58. It highlights the significant divergences which existed
+         between those measures. For example, the retention periods varied from three months in the Netherlands to four years in Ireland.
+         The obligations relating to data retention have significant economic implications for service providers. Divergences between
+         those obligations could lead to distortions in the internal market. In that context, it was legitimate to adopt Directive
+         2006/on the basis of Article EC.
+      
+Furthermore, Directive 2006/limits, in a manner harmonised at Community level, the obligations laid down by Directive 2002/58.
+         Since the latter was based on Article EC, the legal basis of Directive 2006/cannot be different.
+      
+The reference to the investigation, detection and prosecution of serious crime in Article 1(1) of Directive 2006/falls
+         under Community law because it serves to indicate the legitimate objective of the restrictions imposed by that directive on
+         the rights of individuals with regard to data protection. Such an indication is necessary in order to comply both with the
+         requirements of Directives 95/and 2002/and with those of Article of the ECHR.
+      
+The European Data Protection Supervisor submits that the subject-matter of Directive 2006/is covered by Article EC because,
+         first, that directive has a direct impact on the economic activities of service providers and may therefore contribute to
+         the establishment and functioning of the internal market and, second, had the Community legislature not intervened, a distortion
+         of competition in the internal market might have occurred. The aim of combating crime is not the sole, or even the predominant,
+         objective of that directive. On the contrary, it was intended in the first place to contribute to the establishment and functioning
+         of the internal market and to the elimination of distortions of competition. The directive harmonises the national provisions
+         on the retention by private undertakings of certain data in the course of their normal economic activities.
+      
+Furthermore, Directive 2006/amends Directive 2002/58, which was adopted on the basis of Article EC, and ought for that
+         reason to be adopted on the same legal basis. Under Article EU, the Community legislature alone is competent to amend obligations
+         arising from a directive based on the EC Treaty.
+      
+According to the European Data Protection Supervisor, if the EC Treaty could not serve as the basis for Directive 2006/24,
+         the provisions of Community law relating to data protection would not protect citizens in cases where the processing of their
+         personal data would facilitate crime prevention. In such a situation, the general system of data protection under Community
+         law would apply to data-processing for commercial purposes but not to the processing of those data for purposes of crime prevention.
+         That would give rise to difficult distinctions for service providers and to a reduction in the level of protection for data
+         subjects. Such a situation should be avoided. The need for consistency justifies the adoption of Directive 2006/under the
+         EC Treaty.
+      
+ Findings of the Court
+It must be noted at the outset that the question of the areas of competence of the European Union presents itself differently
+         depending on whether the competence in issue has already been accorded to the European Union in the broad sense or has not
+         yet been accorded to it. In the first hypothesis, it is a question of ruling on the division of areas of competence within
+         the Union and, more particularly, on whether it is appropriate to proceed by way of a directive based on the EC Treaty or
+         by way of a framework decision based on the EU Treaty. By contrast, in the second hypothesis, it is a question of ruling on
+         the division of areas of competence between the Union and the Member States and, more particularly, on whether the Union has
+         encroached on the latters’ areas of competence. The present case comes under the first of those two hypotheses.
+      
+It must also be stated that the action brought by Ireland relates solely to the choice of legal basis and not to any possible
+         infringement of fundamental rights arising from interference with the exercise of the right to privacy contained in Directive
+         2006/24.
+      
+Ireland, supported by the Slovak Republic, contends that Directive 2006/cannot be based on Article EC since its ‘centre
+         of gravity’ does not concern the functioning of the internal market. The sole objective of the directive, or at least its
+         principal objective, is, it is contended, the investigation, detection and prosecution of crime.
+      
+That argument cannot be accepted.
+      
+According to the Court’s settled case-law, the choice of legal basis for a Community measure must rest on objective factors
+         which are amenable to judicial review, including in particular the aim and the content of the measure (see Case C-440/Commission v Council [2007] ECR I‑9097, paragraph and the case-law cited). 
+      
+Directive 2006/was adopted on the basis of the EC Treaty and, in particular, Article EC.
+      
+Article 95(1) EC provides that the Council is to adopt the measures for the approximation of the provisions laid down by law,
+         regulation or administrative action in Member States which have as their object the establishment and functioning of the internal
+         market. 
+      
+The Community legislature may have recourse to Article EC in particular where disparities exist between national rules
+         which are such as to obstruct the fundamental freedoms or to create distortions of competition and thus have a direct effect
+         on the functioning of the internal market (see, to that effect, Case C‑380/Germany v Parliament and Council [2006] ECR I-11573, paragraph and the case-law cited).
+      
+Furthermore, although recourse to Article EC as a legal basis is possible if the aim is to prevent the emergence of future
+         obstacles to trade resulting from the divergent development of national laws, the emergence of such obstacles must be likely
+         and the measure in question must be designed to prevent them (Germany v Parliament and Council, paragraph and the case-law cited).
+      
+It is necessary to ascertain whether the situation which led to the adoption of Directive 2006/satisfies the conditions
+         set out in the preceding two paragraphs.
+      
+As is apparent from recitals and in the preamble to that directive, the Community legislature started from the premiss
+         that there were legislative and technical disparities between the national provisions governing the retention of data by service
+         providers.
+      
+In that connection, the evidence submitted to the Court confirms that, following the terrorist attacks mentioned in paragraph
+         of this judgment, several Member States, realising that data relating to electronic communications constitute an effective
+         means for the detection and prevention of crimes, including terrorism, adopted measures pursuant to Article 15(1) of Directive
+         2002/with a view to imposing obligations on service providers concerning the retention of such data.
+      
+It is also clear from the file that the obligations relating to data retention have significant economic implications for
+         service providers in so far as they may involve substantial investment and operating costs.
+      
+The evidence submitted to the Court shows, moreover, that the national measures adopted up to pursuant to Article 15(1)
+         of Directive 2002/differed substantially, particularly in respect of the nature of the data retained and the periods of
+         data retention.
+      
+Finally, it was entirely foreseeable that the Member States which did not yet have rules on data retention would introduce
+         rules in that area which were likely to accentuate even further the differences between the various existing national measures.
+      
+In the light of that evidence, it is apparent that the differences between the various national rules adopted on the retention
+         of data relating to electronic communications were liable to have a direct impact on the functioning of the internal market
+         and that it was foreseeable that that impact would become more serious with the passage of time.
+      
+Such a situation justified the Community legislature in pursuing the objective of safeguarding the proper functioning of the
+         internal market through the adoption of harmonised rules.
+      
+Furthermore, it must also be noted that, by laying down a harmonised level of retention of data relating to electronic communications,
+         Directive 2006/amended the provisions of Directive 2002/58.
+      
+Directive 2002/is based on Article EC.
+      
+Under Article EU, none of the provisions of the EC Treaty may be affected by a provision of the EU Treaty. That requirement
+         appears in the first paragraph of Article EU, which introduces Title VI of the EU Treaty, entitled ‘Provisions on police
+         and judicial cooperation in criminal matters’ (Case C-440/Commission v Council, paragraph 52).
+      
+In providing that nothing in the EU Treaty is to affect the Treaties establishing the European Communities or the subsequent
+         Treaties and Acts modifying or supplementing them, Article EU aims, in accordance with the fifth indent of Article EU
+         and the first paragraph of Article EU, to maintain and build on the acquis communautaire (Case C-91/Commission v Council [2008] ECR I-0000, paragraph 59).
+      
+It is the task of the Court to ensure that acts which, according to one party, fall within the scope of Title VI of the Treaty
+         on European Union and which, by their nature, are capable of having legal effects, do not encroach upon the powers conferred
+         by the EC Treaty on the Community (Case C-91/Commission v Council, paragraph and the case-law cited).
+      
+In so far as the amendment of Directive 2002/effected by Directive 2006/comes within the scope of Community powers,
+         Directive 2006/could not be based on a provision of the EU Treaty without infringing Article thereof.
+      
+In order to determine whether the legislature has chosen a suitable legal basis for the adoption of Directive 2006/24, it
+         is also appropriate, as follows from paragraph of this judgment, to examine the substantive content of its provisions.
+      
+In that connection, the provisions of Directive 2006/are essentially limited to the activities of service providers and
+         do not govern access to data or the use thereof by the police or judicial authorities of the Member States.
+      
+More specifically, the provisions of Directive 2006/are designed to harmonise national laws on the obligation to retain
+         data (Article 3), the categories of data to be retained (Article 5), the periods of retention of data (Article 6), data protection
+         and data security (Article 7) and the conditions for data storage (Article 8). 
+      
+By contrast, the measures provided for by Directive 2006/do not, in themselves, involve intervention by the police or law-enforcement
+         authorities of the Member States. Thus, as is clear in particular from Article of the directive, it is provided that service
+         providers are to retain only data that are generated or processed in the course of the provision of the relevant communication
+         services. Those data are solely those which are closely linked to the exercise of the commercial activity of the service providers.
+      
+Directive 2006/thus regulates operations which are independent of the implementation of any police and judicial cooperation
+         in criminal matters. It harmonises neither the issue of access to data by the competent national law-enforcement authorities
+         nor that relating to the use and exchange of those data between those authorities. Those matters, which fall, in principle,
+         within the area covered by Title VI of the EU Treaty, have been excluded from the provisions of that directive, as is stated,
+         in particular, in recital in the preamble to, and Article of, Directive 2006/24.
+      
+It follows that the substantive content of Directive 2006/is directed essentially at the activities of service providers
+         in the relevant sector of the internal market, to the exclusion of State activities coming under Title VI of the EU Treaty.
+      
+In light of that substantive content, Directive 2006/relates predominantly to the functioning of the internal market.
+      
+Against such a finding, Ireland argues that, by the judgment in Parliament v Council and Commission, the Court annulled Council Decision 2004/496/EC of May on the conclusion of an Agreement between the European Community
+         and the United States of America on the processing and transfer of PNR data by Air Carriers to the United States Department
+         of Homeland Security, Bureau of Customs and Border Protection (OJ L 183, p. 83, and – corrigendum – OJ L 255, p.
+         168).
+      
+In paragraph of the judgment in Parliament v Council and Commission, the Court held that that agreement related to the same transfer of data as did Commission Decision 2004/535/EC of May
+         on the adequate protection of personal data contained in the Passenger Name Record of air passengers transferred to the
+         United States Bureau of Customs and Border Protection (OJ L 235, p. 11).
+      
+The latter decision concerned the transfer of passenger data from the reservation systems of air carriers situated in the
+         territory of the Member States to the United States Department of Homeland Security, Bureau of Customs and Border Protection.
+         The Court held that that the subject-matter of that decision was data-processing which was not necessary for a supply of services
+         by the air carriers, but which was regarded as necessary for safeguarding public security and for law-enforcement purposes.
+         In paragraphs to of the judgment in Parliament v Council and Commission, the Court held that such data-processing was covered by Article 3(2) of Directive 95/46, according to which that directive
+         does not apply, in particular, to the processing of personal data relating to public security and the activities of the State
+         in areas of criminal law. The Court accordingly concluded that Decision 2004/did not fall within the scope of Directive
+         95/46.
+      
+Since the agreement which was the subject of Directive 2004/related, in the same way as Decision 2004/535, to data-processing
+         which was excluded from the scope of Directive 95/46, the Court held that Decision 2004/could not have been validly adopted
+         on the basis of Article EC (Parliament v Council and Commission, paragraphs and 69).
+      
+Such a line of argument cannot be transposed to Directive 2006/24.
+      
+Unlike Decision 2004/496, which concerned a transfer of personal data within a framework instituted by the public authorities
+         in order to ensure public security, Directive 2006/covers the activities of service providers in the internal market and
+         does not contain any rules governing the activities of public authorities for law-enforcement purposes.
+      
+It follows that the arguments which Ireland draws from the annulment of Decision 2004/by the judgment in Parliament v Council and Commission cannot be accepted.
+      
+Having regard to all of the foregoing considerations, Directive 2006/had to be adopted on the basis of Article EC.
+      
+The present action must accordingly be dismissed.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful parties’ pleadings. Since the Parliament and the Council have applied for Ireland to be ordered
+         to pay the costs and Ireland has been unsuccessful, Ireland must be ordered to pay the costs. Pursuant to the first subparagraph
+         of Article 69(4), the interveners in this case are to bear their own costs.
+      
+On those grounds, the Court (Grand Chamber) hereby:
+1.      Dismisses the action;
+2.      Orders Ireland to pay the costs;
+3.      Orders the Kingdom of Spain, the Kingdom of the Netherlands, the Slovak Republic, the Commission of the European Communities
+            and the European Data Protection Supervisor to bear their own respective costs.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

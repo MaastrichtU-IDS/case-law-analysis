@@ -1,0 +1,144 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+September (
+*)
+‛Reference for a preliminary ruling — VAT — Sixth Directive 77/388/EEC — Article 11C(1), first subparagraph — Direct effect — Reduction of the taxable amount — Two transactions concerning the same goods — Supply of goods — Cars, sold on a hire purchase basis, repossessed and sold at auction — Abuse of rights’
+In Case C‑589/12,
+REQUEST for a preliminary ruling under Article TFEU from the Upper Tribunal (Tax and Chancery Chamber) (United Kingdom), made by decision of December 2012, received at the Court on December 2012, in the proceedings
+Commissioners for Her Majesty’s Revenue and Customs
+v
+GMAC UK plc,
+THE COURT (Second Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, J.L. da Cruz Vilaça, G. Arestis, J-C. Bonichot and A. Arabadjiev (Rapporteur), Judges,
+Advocate General: J. Kokott,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on December 2013,
+after considering the observations submitted on behalf of:
+—
+GMAC UK plc, by R. Cordara QC,
+—
+the United Kingdom Government, by J. Beeko, acting as Agent, and by K. Lasok QC,
+—
+the European Commission, by R. Lyal, A. Cordewener and C. Soulay, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the first subparagraph of Article 11C(1) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1; ‘the Sixth Directive’).
+The request has been made in proceedings between the Commissioners for Her Majesty’s Revenue and Customs (‘the Commissioners’) and GMAC UK plc (‘GMAC’) concerning the amount chargeable to value added tax (‘VAT’) in respect of supplies which GMAC had made pursuant to hire purchase contracts relating to motor cars.
+Legal context
+European Union law
+Article 11A of the Sixth Directive, which concerned the taxable amount within the territory of the country, provided:
+‘1.   The taxable amount shall be:
+(a)
+in respect of supplies of goods and services …, everything which constitutes the consideration which has been or is to be obtained by the supplier from the purchaser, the customer or a third party for such supplies including subsidies directly linked to the price of such supplies;
+…’.
+Article 11C of the Sixth Directive, which contained miscellaneous provisions, provided, in paragraph 1:
+‘In the case of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the Member States.
+However, in the case of total or partial non-payment, Member States may derogate from this rule.’
+United Kingdom law
+According to the order for reference, the legislation which implemented Article 11C(1) of the Sixth Directive contained two sets of provisions. The first applied where there was a reduction in the consideration and the other applied, and gave relief (that is to say, bad debt relief), where there was total or partial non-payment.
+National provisions relating to reduction in consideration
+These provisions were, from 1995, to be found in Regulation (read with Regulation 24) of the Value Added Tax Regulations (‘the VAT Regulations 1995’). They provided that, where there was a decrease in the consideration for a supply which included an amount of VAT, the taxable person was to adjust his VAT account by making a negative entry for the relevant amount of VAT. For those purposes, a reduction in consideration was recognised only if it was evidenced by a credit note or other document having a similar effect. Similar rules had applied in the period to 1995.
+National provisions relating to bad debt
+For supplies made between October and July 1990, what is known as the ‘Old Scheme’ applied in respect of bad debt relief. For supplies made between April and March 1997, claims for relief could be made under what is known as the ‘New Scheme’. During the period of overlap (between April and July 1990), a claim could be made under one or other scheme.
+– The Old Scheme
+The Old Scheme was established by section of the Finance Act and was re-enacted in section of the Value Added Tax Act 1983; ‘the VATA 1983’).
+Section of the VATA provided:
+‘(1)
+Where
+(a)
+a person has supplied goods or services for a consideration in money and has accounted for and paid tax on that supply; and
+(b)
+the person liable to pay any outstanding amount of the consideration has become insolvent,
+then, subject to subsection (2) and to regulations under subsection (3) below, the first-mentioned person shall be entitled, on making a claim to the Commissioners, to a refund of the amount of tax chargeable by reference to the outstanding amount.
+(2)
+A person shall not be entitled to a refund under this section unless–
+(a)
+he has proved in the insolvency and the amount for which he has proved is the outstanding amount of the consideration less the amount of his claim;
+(b)
+the value of the supply does not exceed its open market value; and
+(c)
+in the case of a supply of goods, the property in the goods has passed to the person to whom they were supplied …’
+As is made clear in the order for reference, under section of the VATA 1983, an individual was regarded as insolvent for the purposes of that section if he had been adjudicated bankrupt or if the court had made an order for the administration in bankruptcy of his estate. A company was insolvent if it was subject to a creditor’s voluntary winding-up or a compulsory winding-up and ‘the circumstances [were] such that the company [was] unable to pay its debts’.
+– The New Scheme
+Section of the Finance Act created the New Scheme and repealed the Old Scheme for supplies made after July 1990.
+The New Scheme applied to supplies made after April 1989. It was re-enacted in section of the Value Added Tax Act 1994, which read as follows:
+‘(1)
+Subsection (2) below applies where:
+(a)
+a person has supplied goods or services for a consideration in money and has accounted for and paid VAT on the supply;
+(b)
+the whole or any part of the consideration for the supply has been written off in his accounts as a bad debt, and
+(c)
+a period of six months [replacing the period of two years in the provisions of section of the Finance Act 1990] (beginning with the date of the supply) has elapsed.
+(2)
+Subject to the following provisions of this section and to regulations under it, the person shall be entitled, on making a claim to the Commissioners, to a refund of the amount of VAT chargeable by reference to the outstanding amount.
+…
+(4)
+A person shall not be entitled to a refund under subsection (2) above unless–
+(a)
+the value of the supply is equal to or less than its open market value, and
+(b)
+in the case of a supply of goods, the property in the goods has passed to the person to whom they were supplied or to a person deriving title from, through or under that person …’
+The Value Added Tax (Cars) Order The United Kingdom of Great Britain and Northern Ireland allowed VAT deductions on the sale of second-hand vehicles in essentially the same terms in successive pieces of legislation, including the Value Added Tax (Cars) Order (‘the Cars Order’).
+Under Article of the Cars Order, where a car dealer sold a second-hand car, VAT was to be charged on an amount equal to the dealer’s margin.
+However, Article of the Cars Order provided for special treatment in the case of sales of cars that had been repossessed by the seller:
+‘(1)
+Each of the following descriptions of transactions shall be treated as neither a supply of goods nor a supply of services–
+(a)
+the disposal of a used motor car by a person who repossessed it under the terms of a finance agreement, where the motor car is in the same condition as it was in when it was repossessed …’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+GMAC is a company registered for VAT which carries on a business of, amongst other things, selling motor cars on deferred payment terms.
+When sales are made in that way a consumer chooses a vehicle from a dealer and requests an individual financing arrangement. He is then directed to hire purchase companies, such as GMAC. When there is agreement between the three parties, the dealer sells the car to the hire purchase company and that company then supplies the car, under a hire purchase contract, to the final consumer.
+The sale of the cars by the car dealers to GMAC was subject to VAT at the standard rate. The provision of the cars by GMAC to the final customers under hire purchase contracts was also subject to VAT at the standard rate. If the hire purchase customer defaulted, GMAC would repossess the vehicle and sell it at auction. The auction proceeds were deducted from the balance of the customer’s outstanding monthly payments.
+The supply of a motor car under a hire purchase contract was regarded for VAT purposes as a supply of goods. VAT became payable on the supply of the car by GMAC to the final customers in respect of the total amount due (excluding the finance charge). If the car was subsequently repossessed and sold at auction, then, by virtue inter alia of Article of the Cars Order, the auction sale was treated as neither a supply of goods nor a supply of services.
+It had always been accepted by the Commissioners that, if there was a consensual termination of a hire purchase contract relating to a motor car following which the car was sold, Regulation of the VAT Regulations applied, with the result that GMAC was to be treated as having made the hire purchase supply in return for a consideration reduced by the amount of the sale proceeds. However, until the decision of the High Court of Justice of England and Wales, Chancery Division, in C&E Commissioners v GMAC [2004] STC (‘C&E Commissioners v GMAC’), the Commissioners had not accepted that the same rule applied when the hire purchase customer defaulted and the car was repossessed and sold at auction by GMAC.
+However, since that decision, Regulation of the VAT Regulations has also applied where the hire purchase customer defaults and the car is sold at auction by GMAC. The High Court of Justice also considered that the Cars Order applied as well, with the result that GMAC does not have to pay VAT on the auction proceeds. The referring court points out in that regard that the application of those provisions, taken together, produces a ‘windfall’ in that the VAT ultimately payable is less than it would have been if the Sixth Directive had been correctly implemented.
+GMAC then brought a further set of proceedings, which also covers the period from to and is based wholly on the direct effect of the Sixth Directive. The claim now made concerns that part of the consideration for the supply of the motor car to the customer that has remained unpaid because of that customer’s default. That amount does not represent a reduction in price for the purposes of the first subparagraph of Article 11C(1) of the Sixth Directive. What is in issue is partial non-payment within the meaning of that provision, namely a bad debt.
+By letter of February 2006, GMAC thus made a claim for bad debt relief for the period from to 1997, the basis for which was the fact that hire purchase contracts concluded with customers in relation to motor cars had been terminated as a result of non-payment of the agreed sale price. The Commissioners rejected that claim by a decision of July 2006.
+The First-tier Tribunal (Tax Chamber) allowed GMAC’s appeal against that decision, holding that the statutory eligibility requirements were incompatible with EU law and that GMAC’s claims for bad debt relief did not entail any distortion or lack of fiscal neutrality contrary to EU law.
+Hearing the case on appeal, the Upper Tribunal (Tax and Chancery Chamber) considers by contrast that Regulation 38, as interpreted by C&E Commissioners v GMAC, in conjunction with the Cars Order, does not constitute an effective implementation of the Sixth Directive, since it results in a relief from VAT which is incompatible with the objective of that directive and thus not compliant with EU law.
+In those circumstances, the Upper Tribunal (Tax and Chancery Chamber) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘1.
+To what extent is a taxable person, in relation to two transactions concerning the same goods, entitled both (i) to invoke the direct effect of one provision of [the Sixth Directive] in respect of one transaction and (ii) to rely on the provisions of national law in relation to the other transaction, when to do so would produce an overall fiscal result in relation to the two transactions which neither national law nor the [Sixth Directive] applied separately to those two transactions produces or is intended to produce?
+2.
+If the answer to Question is that there are circumstances in which the taxable person would not be entitled to do so (or would not be entitled to do so to a particular extent), what are the circumstances in which this would be so and in particular what is the relationship between the two transactions which would give rise to such circumstances?
+3.
+Do the answers to Questions and differ according to whether or not the national treatment of one transaction is in conformity with the [Sixth Directive]?’
+Consideration of the questions referred
+Questions and By questions and 3, which it is appropriate to consider together, the referring court asks, in essence, whether the first subparagraph of Article 11C(1) of the Sixth Directive must be interpreted as meaning that, in circumstances such as those of the case in the main proceedings, a Member State may prevent a taxable person from invoking the direct effect of that provision in respect of one transaction by arguing that that person may rely on the provisions of national law in relation to another transaction concerning the same goods and that the cumulative application of those provisions would produce an overall fiscal result which neither national law nor the Sixth Directive, applied separately to those transactions, produces or is intended to produce.
+The referring court is also uncertain about the relevance in this regard of the question as to whether or not the national law applicable to the latter transaction is in conformity with the Sixth Directive.
+It should be recalled that, according to settled case-law of the Court, whenever the provisions of a directive appear, so far as their subject-matter is concerned, to be unconditional and sufficiently precise, they may be relied upon before the national courts by individuals against the State where the latter has failed to implement the directive in domestic law by the end of the period prescribed or where it has failed to implement the directive correctly (judgment in Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph and the case-law cited).
+A provision of EU law is unconditional where it sets forth an obligation which is not qualified by any condition, or subject, in its implementation or effects, to the taking of any measure either by the institutions of the European Union or by the Member States (judgment in Almos Agrárkülkereskedelmi, EU:C:2014:328, paragraph and the case-law cited).
+The first subparagraph of Article 11C(1) of the Sixth Directive defines the cases in which the Member States are required to ensure that the taxable amount is reduced accordingly, under conditions which are to be determined by the Member States themselves. That provision thus requires the Member States to reduce the taxable amount whenever, after a transaction has been concluded, part or all of the consideration has not been received by the taxable person (judgment in Goldsmiths, C‑330/95, EU:C:1997:339, paragraph 16).
+Although that provision thus allows the Member States a certain degree of discretion when adopting the measures to determine the amount of the reduction, that does not alter the precise and unconditional nature of the obligation to allow the reduction in the taxable amount in the cases referred to by that provision. It therefore fulfils the conditions for it to have direct effect (judgment in Almos Agrárkülkereskedelmi, EU:C:2014:328, paragraph 34).
+As the referring court has explained in its request for a preliminary ruling, the questions referred to the Court are explained by the fact that, in the case in the main proceedings, the United Kingdom tax authorities have taken the view that the taxable person cannot, at the same time, benefit from the ‘windfall’ and from the first subparagraph of Article 11C(1) of the Sixth Directive, in particular because of the fact that the cumulative application of Regulation of the VAT Regulations 1995, the Cars Order and that directive would produce an overall fiscal result which, in their opinion, neither national law nor the Sixth Directive, applied separately to those transactions, produces or is intended to produce.
+According to the United Kingdom Government, in a situation such as that in issue before the referring court, the VAT charged to the final consumer and accounted for to the tax authorities is not calculated on the consideration actually received by the taxable person for the supplies made. It argues that direct effect is not a principle of EU law that can be used so as to achieve the opposite of the result intended by the directive. It therefore submits that the taxable person is not entitled to rely on the provisions of national law in relation to one transaction and on the direct effect of the first subparagraph of Article 11C(1) of the Sixth Directive in relation to another transaction.
+That line of argument cannot be accepted.
+As is apparent from paragraph of this judgment, the first subparagraph of Article 11C(1) of the Sixth Directive has direct effect so that, in the circumstances of the case before the referring court, the question as to whether a taxable person such as GMAC may rely, after supplying goods under a hire purchase contract, on the right which that provision confers on it to obtain a reduction in the taxable amount depends on whether GMAC’s customers fail to perform in whole or in part their payment obligation under that contract.
+It is true that that provision embodies one of the fundamental principles of the Sixth Directive, according to which the taxable amount is the consideration actually received and the corollary of which is that the tax authorities may not charge an amount of VAT exceeding the tax paid to the taxable person (judgment in Almos Agrárkülkereskedelmi, EU:C:2014:328, paragraph and the case-law cited).
+However, it appears from the documents submitted to the Court that if the sale at auction of the repossessed car were not, under the national legislation itself, exempt from VAT the consideration received for each transaction would be subject to tax. The tax base would then be made up of amounts paid by the hire purchase customer and by the buyer at the auction sale. In that case, the taxable amount would correspond, in accordance with the principle set out in the preceding paragraph, to the consideration actually received by GMAC.
+It is appropriate in this regard to recall the Court’s settled case-law, according to which a Member State which has not adopted the implementing measures required by a directive within the prescribed period may not plead, as against individuals, its own failure to perform the obligations which the directive entails (see, inter alia, judgment in Rieser Internationale Transporte, C‑157/02, EU:C:2004:76, paragraph and the case-law cited).
+Accordingly, the fact that, under national law, the sale at auction of the vehicle was treated neither as a supply of goods nor as a supply of services cannot lead to the taxable person being denied the right to a reduction in the taxable amount in the event of total or partial non-payment, as provided for in the first subparagraph of Article 11C(1) of the Sixth Directive.
+It should also be observed that, according to the fundamental principle which underlies the common system of VAT and which follows from Article of First Council Directive 67/227/EEC of April on the harmonisation of legislation of Member States concerning turnover taxes (OJ, English Special Edition 1967(I), p. 14) and Article of the Sixth Directive, VAT applies to each transaction by way of production or distribution after deduction of the VAT borne directly by the various cost components (see, inter alia, judgments in Midland Bank, C‑98/98, EU:C:2000:300, paragraph 29, and Zita Modes, C‑497/01, EU:C:2003:644, paragraph 37).
+Therefore, in the event of total or partial non-payment, the amount of the tax base of the hire purchase contract for a car must be adjusted by reference to the consideration actually received by the taxable person under that contract. The consideration received by that taxable person which is paid by a third party in the context of a different transaction — in the present case the sale at auction of the car returned by the hire purchase customer — has no effect on the conclusion that the taxable person may rely on the direct effect of the first subparagraph of Article 11C(1) of the Sixth Directive in the context of the hire purchase contract.
+It follows from the foregoing that the question as to whether or not the national law applicable to the auction sale is in conformity with the Sixth Directive is not relevant for the purpose of determining whether a taxable person such as GMAC is entitled to invoke the rights which it derives from the first subparagraph of Article 11C(1) of the Sixth Directive.
+The United Kingdom Government further submits that it would amount to abuse were a person to invoke the direct effect of that provision selectively, so as to engineer a situation in which the result intended by the legislation in question is not achieved.
+It should be noted that, in that regard, the Court, at paragraphs and of the judgment in Halifax and Others (C‑255/02, EU:C:2006:121), held, in particular, that, in the sphere of VAT, an abusive practice can be found to exist only if, first, the transactions concerned, notwithstanding formal application of the conditions laid down by the relevant provisions of the Sixth Directive and the national legislation transposing it, result in the accrual of a tax advantage the grant of which would be contrary to the purpose of those provisions and, second, it is apparent from a number of objective factors that the essential aim of the transactions concerned is solely to obtain that tax advantage.
+It is for the national court to verify, in accordance with the rules of evidence of national law, provided that the effectiveness of EU law is not undermined, whether action constituting an abusive practice has taken place in the case in the main proceedings. However, the Court, when giving a preliminary ruling, may, where appropriate, provide clarification designed to give the national court guidance in its interpretation (see, inter alia, judgment in Halifax and Others, EU:C:2006:121, paragraphs and and the case-law cited).
+It should be noted that, if, as the United Kingdom Government states, the objective pursued by the Sixth Directive cannot be achieved, that is so because of a ‘windfall’ resulting solely from the application of national law. In fact, as is apparent from paragraph of this judgment, the attainment of the tax advantage in question arises, in essence, from the fact that, under Article of the Cars Order, there is no taxation of the sale at auction of the car recovered from the hire purchase customer.
+Moreover, the Court has held that a trader’s choice between exempt transactions and taxable transactions may be based on a range of factors, including tax considerations relating to the neutral system of VAT. Where it is possible for the taxable person to choose from among a number of transactions, he may choose to structure his business in such a way as to limit his tax liability (see judgment in RBS Deutschland Holdings, C‑277/09, EU:C:2010:810, paragraph and the case-law cited).
+In view of the foregoing considerations, the answer to questions and is that the first subparagraph of Article 11C(1) of the Sixth Directive must be interpreted as meaning that, in circumstances such as those of the case in the main proceedings, a Member State may not prevent a taxable person from invoking the direct effect of that provision in respect of one transaction by arguing that that person may rely on the provisions of national law in relation to another transaction concerning the same goods and that the cumulative application of those provisions would produce an overall fiscal result which neither national law nor the Sixth Directive, applied separately to those transactions, produces or is intended to produce.
+Question In view of the answer to questions and 3, there is no need to reply to question 2.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+The first subparagraph of Article 11C(1) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment must be interpreted as meaning that, in circumstances such as those of the case in the main proceedings, a Member State may not prevent a taxable person from invoking the direct effect of that provision in respect of one transaction by arguing that that person may rely on the provisions of national law in relation to another transaction concerning the same goods and that the cumulative application of those provisions would produce an overall fiscal result which neither national law nor Sixth Directive 77/388, applied separately to those transactions, produces or is intended to produce.
+ 
+[Signatures]
+(
+*)	Language of the case: English.
+Top  
+ 

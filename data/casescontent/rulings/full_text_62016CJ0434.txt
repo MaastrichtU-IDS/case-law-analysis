@@ -1,0 +1,215 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Protection of individuals with regard to the processing of personal data — Directive 95/46/EC — Article 2(a) — Concept of ‘personal data’ — Written answers submitted by a candidate in a professional examination — Examiner’s comments with respect to those answers — Article 12(a) and (b) — Extent of the data subject’s rights to access and rectification)
+In Case C‑434/16,
+REQUEST for a preliminary ruling under Article TFEU from the Supreme Court (Ireland), made by decision of July 2016, received at the Court on August 2016, in the proceedings
+Peter Nowak
+v
+Data Protection Commissioner,
+THE COURT (Second Chamber),
+composed of M. Ilešič (Rapporteur), President of the Chamber, A. Rosas, C. Toader, A. Prechal, and E. Jarašiūnas, Judges,
+Advocate General: J. Kokott,
+Registrar: M. Aleksejev, Administrator,
+having regard to the written procedure and further to the hearing on June 2017,
+after considering the observations submitted on behalf of:
+–
+Mr Nowak, by G. Rudden, Solicitor, and N. Travers, Senior Counsel,
+–
+the Data Protection Commissioner, by D. Young, Solicitor, and P.A. McDermott, Senior Counsel,
+–
+Ireland, by E. Creedon, L. Williams and A. Joyce, acting as Agents, and by A. Caroll, Barrister,
+–
+the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,
+–
+the Greek Government, by G. Papadaki and S. Charitaki, acting as Agents,
+–
+the Hungarian Government, by Z. Fehér and A. Pálfy, acting as Agents,
+–
+the Austrian Government, by G. Eberhard, acting as Agent,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and I. Oliveira, acting as Agents,
+–
+the European Commission, by D. Nardi and H. Kranenborg, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31).
+The request has been made in proceedings between Mr Peter Nowak and the Data Protection Commissioner (Ireland) concerning the latter’s refusal to give Mr Nowak access to a corrected script of an examination at which he was a candidate, on the ground that the information contained therein did not constitute personal data.
+Legal context
+European Union law
+Directive 95/Recitals 25, and of Directive 95/46, the object of which is stated in Article thereof to be the protection of the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data, and the elimination of obstacles to the free flow of such data, state:
+‘(25)
+… the principles of protection must be reflected, on the one hand, in the obligations imposed on persons … responsible for processing, in particular regarding data quality, technical security, notification to the supervisory authority, and the circumstances under which processing can be carried out, and, on the other hand, in the right conferred on individuals, the data on whom are the subject of processing, to be informed that processing is taking place, to consult the data, to request corrections and even to object to processing in certain circumstances;
+(26)
+… the principles of protection must apply to any information concerning an identified or identifiable person; whereas, to determine whether a person is identifiable, account should be taken of all the means likely reasonably to be used either by the controller or by any other person to identify the said person; … the principles of protection shall not apply to data rendered anonymous in such a way that the data subject is no longer identifiable; ...
+...
+(41)
+… any person must be able to exercise the right of access to data relating to him which are being processed, in order to verify in particular the accuracy of the data and the lawfulness of the processing;’
+The concept of ‘personal data’ is defined in Article 2(a) of that directive as being ‘any information relating to an identified or identifiable natural person (“data subject”); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity’.
+Article of that directive, within Section I of Chapter II of that directive, that section being headed ‘Principles relating to data quality’, is worded as follows:
+‘1.   Member States shall provide that personal data must be:
+(a)
+processed fairly and lawfully;
+(b)
+collected for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes. Further processing of data for historical, statistical or scientific purposes shall not be considered as incompatible provided that Member States provide appropriate safeguards;
+(c)
+adequate, relevant and not excessive in relation to the purposes for which they are collected and/or further processed;
+(d)
+accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that data which are inaccurate or incomplete, having regard to the purposes for which they were collected or for which they are further processed, are erased or rectified;
+(e)
+kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data were collected or for which they are further processed. Member States shall lay down appropriate safeguards for personal data stored for longer periods for historical, statistical or scientific use.
+2.   It shall be for the controller to ensure that paragraph is complied with.’
+Article of Directive 95/46, within Section II of Chapter II of that directive, that section being headed ‘Criteria for making data processing legitimate’, provides:
+‘Member States shall provide that personal data may be processed only if:
+(a)
+the data subject has unambiguously given his consent; or
+...
+(c)
+processing is necessary for compliance with a legal obligation to which the controller is subject; or
+...
+(e)
+processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed; or
+(f)
+processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subject which require protection under Article 1(1).’
+Article of that directive, headed ‘Right of access’, states:
+‘Member States shall guarantee every data subject the right to obtain from the controller:
+(a)
+without constraint at reasonable intervals and without excessive delay or expense:
+–
+confirmation as to whether or not data relating to him are being processed and information at least as to the purposes of the processing, the categories of data concerned, and the recipients or categories of recipients to whom the data are disclosed,
+–
+communication to him in an intelligible form of the data undergoing processing and of any available information as to their source,
+...
+(b)
+as appropriate the rectification, erasure or blocking of data the processing of which does not comply with the provisions of this Directive, in particular because of the incomplete or inaccurate nature of the data;
+(c)
+notification to third parties to whom the data have been disclosed of any rectification, erasure or blocking carried out in compliance with (b), unless this proves impossible or involves a disproportionate effort.’
+Article of that directive, headed ‘Exemptions and restrictions’, provides:
+‘1.   Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles 6(1), 10, 11(1), and when such a restriction constitutes a necessary measure to safeguard:
+...
+(g)
+the protection of the data subject or of the rights and freedoms of others.
+...’
+Article of Directive 95/46, headed ‘The data subject’s right to object’, provides:
+‘Member States shall grant the data subject the right:
+(a)
+at least in the cases referred to in Article 7(e) and (f), to object at any time on compelling legitimate grounds relating to his particular situation to the processing of data relating to him, save where otherwise provided by national legislation. Where there is a justified objection, the processing instigated by the controller may no longer involve those data;
+...’
+Article of that directive, headed ‘Supervisory authority’, states:
+‘1.   Each Member State shall provide that one or more public authorities are responsible for monitoring the application within its territory of the provisions adopted by the Member States pursuant to this Directive.
+...
+3.   Each authority shall in particular be endowed with:
+–
+investigative powers, such as powers of access to data forming the subject matter of processing operations and powers to collect all the information necessary for the performance of its supervisory duties;
+–
+effective powers of intervention, such as, for example, that … of ordering the blocking, erasure or destruction of data, of imposing a temporary or definitive ban on processing …
+...
+Decisions by the supervisory authority, which give rise to complaints, may be appealed against through the courts.
+4.   Each supervisory authority shall hear claims lodged by any person, or by an association representing that person, concerning the protection of his rights and freedoms in regard to the processing of personal data. The person concerned shall be informed of the outcome of the claim.
+...’
+Regulation (EU) 2016/Regulation (EU) 2016/of the European Parliament and of the Council of April on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, p. 1) is applicable, pursuant to Article 99(2) thereof, as from May 2018. Article 94(1) of that regulation provides that Directive 95/is repealed with effect from that date.
+Article of that regulation, headed ‘Right of access by the data subject’, provides:
+‘1.   The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data …
+...
+3.   The controller shall provide a copy of the personal data undergoing processing …
+4.   The right to obtain a copy referred to in paragraph shall not adversely affect the rights and freedoms of others.’
+Article of Regulation 2016/679, headed ‘Restrictions’, states:
+‘1.   Union or Member State law to which the data controller or processor is subject may restrict by way of a legislative measure the scope of the obligations and rights provided for in Articles to …, when such a restriction respects the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in a democratic society to safeguard:
+...
+(e)
+other important objectives of general public interest of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, including monetary, budgetary and taxation matters, public health and social security;
+...
+(i)
+the protection of the data subject or of the rights and freedoms of others.
+...’
+Irish law
+The Data Protection Act 1988, as amended by the Data Protection (Amendment) Act (‘the data protection legislation’) is designed to transpose Directive 95/into the Irish legal system. Section 1(1) of that Act defines the concept of ‘personal data’ as follows:
+‘Data relating to a living individual who is or can be identified either from the data or from data in conjunction with other information that is in, or is likely to come into, the possession of the Data Controller’.
+The right of access is governed by Section of the data protection legislation; Section 4(6), which relates specifically to requests for access to the results of examinations, is worded as follows:
+‘(a)
+A request by an individual under subsection (1) of this section in relation to the results of an examination at which he was a candidate shall be deemed, for the purposes of this section, to be made on
+(i)
+the date of the first publication of the results of the examination, or
+ii)
+the date of the request,
+whichever is the later; ...
+(b)
+In this subsection “examination” means any process for determining the knowledge, intelligence, skill or ability of a person by reference to his performance in any test, work or other activity.’
+Article of the data protection legislation establishes the right to rectification and erasure of personal data the processing of which does not comply with that legislation.
+Article 10(1)(b)(i) of the data protection legislation requires the Data Protection Commissioner to investigate a complaint ‘unless he is of the opinion that it is frivolous or vexatious’.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mr Nowak was a trainee accountant who passed first level accountancy examinations and three second level examinations set by the Institute of Chartered Accountants of Ireland (‘the CAI’). However, Mr Nowak failed the Strategic Finance and Management Accounting examination, which allowed candidates to make use of documents (an open book examination).
+After he had failed that examination for the fourth time, in the autumn of 2009, Mr Nowak initially submitted a challenge to the result of that examination. After that challenge was rejected in March 2010, he submitted, in May 2010, a data access request, under Section of the data protection legislation, seeking all the personal data relating to him held by the CAI.
+By letter of June 2010, the CAI sent documents to Mr Nowak, but refused to send to him his examination script, on the ground that it did not contain personal data, within the meaning of the data protection legislation.
+Mr Nowak then contacted the Data Protection Commissioner with a view to challenging the reason given for the refusal to disclose his examination script. In June the Data Protection Commissioner replied to him by email to state, inter alia, that ‘exam scripts do not generally fall to be considered [for data protection purposes] … because this material would not generally constitute personal data’.
+That reply from the Data Protection Commissioner was followed by correspondence between Mr Nowak and the Commissioner which culminated, on July 2010, in Mr Nowak submitting a formal complaint.
+By letter of July 2010, the Data Protection Commissioner informed Mr Nowak that, after consideration of the case, he had identified no substantive contravention of [the data protection legislation] and that, in accordance with Section 10(1)(b)(i) of that legislation, which covers frivolous or vexatious complaints, there would be no investigation of the complaint. The letter stated, further, that the material over which Mr Nowak sought to exercise ‘a right of correction is not personal data to which Section of the [data protection legislation] applies’.
+Mr Nowak brought an action against that decision before the Circuit Court. That court held that the action was inadmissible on the ground that, since the Data Protection Commissioner had not initiated an investigation of a complaint, there was no decision against which legal proceedings could be brought. In the alternative, that court held that the action was unfounded, since the examination script did not constitute personal data.
+Mr Nowak brought an appeal against the judgment of that court before the High Court, which however upheld the decision. The judgment of the High Court was, in its turn, upheld by the Court of Appeal. The Supreme Court, which allowed an appeal against the judgment of the Court of Appeal, held that the action brought by Mr Nowak against the decision of the Data Protection Commissioner was admissible.
+However, the Supreme Court is uncertain whether an examination script can constitute personal data, within the meaning of Directive 95/46, and therefore decided to stay the proceedings and to refer to the Court the following questions for a preliminary ruling:
+‘(1)
+Is information recorded in/as answers given by a candidate during a professional examination capable of being personal data, within the meaning of Directive 95/46?
+(2)
+If the answer to Question is that all or some of such information may be personal data within the meaning of the Directive, what factors are relevant in determining whether in any given case such script is personal data, and what weight should be given to such factors?’
+Consideration of the questions referred
+By its questions, which can be examined together, the referring court seeks, in essence, to ascertain whether Article 2(a) of Directive 95/must be interpreted as meaning that, in circumstances such as those at issue in the main proceedings, the written answers submitted by a candidate at a professional examination and any examiner’s comments with respect to those answers constitute personal data, within the meaning of that provision.
+In that regard, it must be recalled that Article 2(a) of Directive 95/defines personal data as meaning ‘any information relating to an identified or identifiable natural person’. Under the same provision, ‘an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity’.
+It is not disputed that a candidate at a professional examination is a natural person who can be identified, either directly, through his name, or indirectly, through an identification number, these being placed either on the examination script itself or on its cover sheet.
+Contrary to what the Data Protection Commissioner appears to argue, it is of no relevance, in that context, whether the examiner can or cannot identify the candidate at the time when he/she is correcting and marking the examination script.
+For information to be treated as ‘personal data’ within the meaning of Article 2(a) of Directive 95/46, there is no requirement that all the information enabling the identification of the data subject must be in the hands of one person (judgment of October 2016, Breyer, C‑582/14, EU:C:2016:779, paragraph 43). It is also undisputed that, in the event that the examiner does not know the identity of the candidate when he/she is marking the answers submitted by that candidate in an examination, the body that set the examination, in this case the CAI, does, however, have available to it the information needed to enable it easily and infallibly to identify that candidate through his identification number, placed on the examination script or its cover sheet, and thereby to ascribe the answers to that candidate.
+It is however necessary to determine whether the written answers provided by a candidate at a professional examination and any comments made by an examiner with respect to those answers constitute information relating to that candidate, within the meaning of Article 2(a) of Directive 95/46.
+As the Court has held previously, the scope of Directive 95/is very wide and the personal data covered by that directive is varied (judgment of May 2009, Rijkeboer, C‑553/07, EU:C:2009:293, paragraph and the case-law cited).
+The use of the expression ‘any information’ in the definition of the concept of ‘personal data’, within Article 2(a) of Directive 95/46, reflects the aim of the EU legislature to assign a wide scope to that concept, which is not restricted to information that is sensitive or private, but potentially encompasses all kinds of information, not only objective but also subjective, in the form of opinions and assessments, provided that it ‘relates’ to the data subject.
+As regards the latter condition, it is satisfied where the information, by reason of its content, purpose or effect, is linked to a particular person.
+As is argued, in essence, by Mr Nowak, the Czech, Greek, Hungarian, Austrian and Portuguese governments and also by the European Commission, the written answers submitted by a candidate at a professional examination constitute information that is linked to him or her as a person.
+First, the content of those answers reflects the extent of the candidate’s knowledge and competence in a given field and, in some cases, his intellect, thought processes, and judgment. In the case of a handwritten script, the answers contain, in addition, information as to his handwriting.
+Second, the purpose of collecting those answers is to evaluate the candidate’s professional abilities and his suitability to practice the profession concerned.
+Last, the use of that information, one consequence of that use being the candidate’s success or failure at the examination concerned, is liable to have an effect on his or her rights and interests, in that it may determine or influence, for example, the chance of entering the profession aspired to or of obtaining the post sought.
+It is, moreover, equally true that the written answers submitted by a candidate at a professional examination constitute information that relates to that candidate by reason of its content, purpose or effect, where the examination is, as in this case, an open book examination.
+As is stated by the Advocate General in point of her Opinion, the aim of any examination is to determine and establish the individual performance of a specific person, namely the candidate, and not, unlike, for example, a representative survey, to obtain information that is independent of that person.
+As regards the comments of an examiner with respect to the candidate’s answers, it is clear that they, no less than the answers submitted by the candidate at the examination, constitute information relating to that candidate.
+The content of those comments reflects the opinion or the assessment of the examiner of the individual performance of the candidate in the examination, particularly of his or her knowledge and competences in the field concerned. The purpose of those comments is, moreover, precisely to record the evaluation by the examiner of the candidate’s performance, and those comments are liable to have effects for the candidate, as stated in paragraph of this judgment.
+The finding that the comments of the examiner with respect to the answers submitted by the candidate at the examination constitute information which, by reason of its content, purpose or effect, is linked to that candidate is not called into question by the fact that those comments also constitute information relating to the examiner.
+The same information may relate to a number of individuals and may constitute for each of them, provided that those persons are identified or identifiable, personal data, within the meaning of Article 2(a) of Directive 95/46.
+Further, the question whether written answers submitted by a candidate at a professional examination and any comments made by the examiner with respect to those answers should be classified as personal data cannot be affected, contrary to what is argued by the Data Protection Commissioner and the Irish government, by the fact that the consequence of that classification is, in principle, that the candidate has rights of access and rectification, pursuant to Article 12(a) and (b) of Directive 95/46.
+In that regard, it must, first, be recalled, as argued by the Commission at the hearing, that a number of principles and safeguards, provided for by Directive 95/46, are attached to that classification and follow from that classification.
+It is stated in recital of Directive 95/that the principles of protection provided for by that directive are reflected, on the one hand, in the obligations imposed on those responsible for processing data, obligations which concern in particular data quality, technical security, notification to the supervisory authority, and the circumstances under which processing can be carried out, and, on the other hand, in the rights conferred on individuals, the data on whom are the subject of processing, to be informed that processing is taking place, to consult the data, to request corrections and even to object to processing in certain circumstances.
+Accordingly, if information relating to a candidate, contained in his or her answers submitted at a professional examination and in the comments made by the examiner with respect to those answers, were not to be classified as ‘personal data’, that would have the effect of entirely excluding that information from the obligation to comply not only with the principles and safeguards that must be observed in the area of personal data protection, and, in particular, the principles relating to the quality of such data and the criteria for making data processing legitimate, established in Articles and of Directive 95/46, but also with the rights of access, rectification and objection of the data subject, provided for in Articles and of that directive, and with the supervision exercised by the supervisory authority under Article of that directive.
+As stated by the Advocate General in point of her Opinion, it is undisputed that an examination candidate has, inter alia, a legitimate interest, based on the protection of his private life, in being able to object to the processing of the answers submitted by him at that examination and of the examiner’s comments with respect to those answers outside the examination procedure and, in particular, to their being sent to third parties, or published, without his permission. Equally, the body setting the examination, as the data controller, is obliged to ensure that those answers and comments are stored in such a way as to ensure that third parties do not have unlawful access to them.
+Further, it is clear that the rights of access and rectification, provided for in Article 12(a) and (b) of Directive 95/46, may also be asserted in relation to the written answers submitted by a candidate at a professional examination and to any comments made by an examiner with respect to those answers.
+Of course, the right of rectification provided for in Article 12(b) of Directive 95/cannot enable a candidate to ‘correct’, a posteriori, answers that are ‘incorrect’.
+It is apparent from Article 6(1)(d) of Directive 95/that the assessment of whether personal data is accurate and complete must be made in the light of the purpose for which that data was collected. That purpose consists, as far as the answers submitted by an examination candidate are concerned, in being able to evaluate the level of knowledge and competence of that candidate at the time of the examination. That level is revealed precisely by any errors in those answers. Consequently, such errors do not represent inaccuracy, within the meaning of Directive 95/46, which would give rise to a right of rectification under Article 12(b) of that directive.
+On the other hand, it is possible that there might be situations where the answers of an examination candidate and the examiner’s comments with respect to those answers prove to be inaccurate, within the meaning of Article 6(1)(d) of Directive 95/46, for example due to the fact that, by mistake, the examination scripts were mixed up in such a way that the answers of another candidate were ascribed to the candidate concerned, or that some of the cover sheets containing the answers of that candidate are lost, so that those answers are incomplete, or that any comments made by an examiner do not accurately record the examiner’s evaluation of the answers of the candidate concerned.
+Moreover, as stated by the Advocate General in point of her Opinion, it cannot be ruled out that a candidate may, under Article 12(b) of Directive 95/46, have the right to ask the data controller to ensure that his examination answers and the examiner’s comments with respect to them are, after a certain period of time, erased, that is to say, destroyed. Pursuant to Article 6(1)(e) of that directive, personal data is to be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data was collected or for which it is subsequently processed. Taking into consideration the purpose of the answers submitted by an examination candidate and of the examiner’s comments with respect to those answers, their retention in a form permitting the identification of the candidate is, a priori, no longer necessary as soon as the examination procedure is finally closed and can no longer be challenged, so that those answers and comments have lost any probative value.
+In so far as the written answers submitted by a candidate at a professional examination and any comments made by an examiner with respect to those answers are therefore liable to be checked for, in particular, their accuracy and the need for their retention, within the meaning of Article 6(1)(d) and (e) of Directive 95/46, and may be subject to rectification or erasure, under Article 12(b) of the directive, the Court must hold that to give a candidate a right of access to those answers and to those comments, under Article 12(a) of that directive, serves the purpose of that directive of guaranteeing the protection of that candidate’s right to privacy with regard to the processing of data relating to him (see, a contrario, judgment of July 2014, YS and Others, C‑141/and C‑372/12, EU:C:2014:2081, paragraphs and 46), irrespective of whether that candidate does or does not also have such a right of access under the national legislation applicable to the examination procedure.
+In that context, it must be recalled that the protection of the fundamental right to respect for private life means, inter alia, that any individual may be certain that the personal data relating to him is correct and that it is processed in a lawful manner. As is apparent from recital of Directive 95/46, it is in order to be in a position to carry out the necessary checks that the data subject has, under Article 12(a) of the directive, a right of access to the data relating to him which is being processed. That right of access is necessary, inter alia, to enable the data subject to obtain, depending on the circumstances, the rectification, erasure or blocking of his data by the data controller and consequently to exercise the right set out in Article 12(b) of that directive (judgment of July 2014, YS and Others, C‑141/and C‑372/12, EU:C:2014:2081, paragraph and the case-law cited).
+Last, it must be said, first, that the rights of access and rectification, under Article 12(a) and (b) of Directive 95/46, do not extend to the examination questions, which do not as such constitute the candidate’s personal data.
+Second, Directive 95/and Regulation 2016/which replaces the directive both provide for certain restrictions on those rights.
+Thus, under Article 13(1)(g) of Directive 95/46, Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in, inter alia, Article 6(1) and Article of that directive, when such a restriction constitutes a necessary measure to safeguard the rights and freedoms of others.
+Article 23(1)(e) of Regulation 2016/extends the list of grounds justifying restrictions, currently laid down in Article 13(1) of Directive 95/46, to ‘other important objectives of general public interest of the Union or of a Member State’. Further, Article 15(4) of Regulation 2016/679, that article relating to the data subject’s right of access, provides that the right to obtain a copy of personal data must not adversely affect the rights and freedoms of others.
+In the light of all the foregoing, the answer to the questions referred is that Article 2(a) of Directive 95/must be interpreted as meaning that, in circumstances such as those of the main proceedings, the written answers submitted by a candidate at a professional examination and any comments made by an examiner with respect to those answers constitute personal data, within the meaning of that provision.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article 2(a) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data must be interpreted as meaning that, in circumstances such as those of the main proceedings, the written answers submitted by a candidate at a professional examination and any comments made by an examiner with respect to those answers constitute personal data, within the meaning of that provision.
+ 
+Ilešič
+Rosas
+Toader
+Prechal
+Jarašiūnas
+Delivered in open court in Luxembourg on December 2017.
+A. Calot Escobar
+Registrar
+M. Ilešič
+President of the Second Chamber
+(
+*)	Language of the case: English.
+Top  
+ 

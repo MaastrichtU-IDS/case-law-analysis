@@ -1,0 +1,371 @@
+
+Case C-27/Banque Fédérative du Crédit Mutuel
+v
+Ministre de l’Économie, des Finances et de l’Industrie
+(Reference for a preliminary ruling from the Conseil d’État (France))
+(Corporation tax – Directive 90/435/EEC – Taxable income of a parent company – Non‑deductibility of costs and expenses relating to a holding in a subsidiary – Fixing of costs at a flat rate – Ceiling of 5% of the profits distributed by the subsidiary – Inclusion of tax credits)
+Summary of the Judgment
+Approximation of laws – Common system of taxation applicable in the case of parent companies and subsidiaries of different
+            Member States – Directive 90/(Council Directive 90/435, Art. 4(2))
+The concept of ‘profits distributed by the subsidiary’, within the meaning of the last sentence of Article 4(2) of Directive 90/on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States, is
+         to be interpreted as not precluding legislation of a Member State which includes in those profits tax credits which have been
+         granted in order to offset a withholding tax levied by the Member State of the subsidiary in the hands of the parent company.
+      
+First, the wording of Article 4(2) of the directive does not preclude the inclusion of tax credits in the fixed amount of
+         the management costs relating to the holding of the parent company in the subsidiary. The inclusion of tax credits in the
+         fixed amount of the management costs relating to the holding, within the meaning of Article 4(2) of the directive, means that
+         it is in fact the total amount of profit distributed, within the meaning of that provision, which is received by the parent
+         company and to which the rate of 5% will be applied. Second, the credits are intended to avoid double taxation of profits
+         distributed by a subsidiary to its parent company, from a juridical perspective. Consequently, taking into account tax credits
+         granted to the parent company in calculating the proportion of costs and expenses relating to the holding in the subsidiary
+         allows the amount of profits distributed by that subsidiary and the equivalent amount which is, in the end of the day, actually
+         at the parent company’s disposal in respect of that distribution to be reflected, by neutralising the impact of the withholding
+         tax levied in the hands of the parent company by the Member State of the subsidiary. Thus, the inclusion of tax credits in
+         the fixed amount of the management costs relating to the holding, within the meaning of Article 4(2) of the directive, complies
+         with the objective of neutrality, from the tax point of view, as regards the cross-border distribution of profits from a subsidiary
+         to its parent company established in another Member State.
+      
+Under the scheme laid down by the directive, where a parent company has a holding of at least 25% in the capital of a subsidiary
+         established in another Member State, the imposition of a withholding tax in the latter State is generally prohibited by virtue
+         of Article 5(1) of the directive. Certain Member States were permitted, during the transitional periods allowed to them, to
+         levy such a withholding tax in accordance with Article 5(2) to (4) of the directive. The directive does not require a Member
+         State to provide for the set‑off of such a withholding tax, where that Member State has, in accordance with Article 4(1) of
+         the directive, opted for the exemption method. In that respect, a Member State which has opted for the exemption method cannot
+         be criticised for offsetting the withholding tax charged in the Member State of the subsidiary by the grant of a tax credit,
+         while at the same time limiting the right to set off the tax credit to cases where the recipient parent company redistributes
+         the dividends received within five years to its own shareholders. Moreover, Article 4(2) of the directive allows a Member
+         State to set the management costs which are not deductible at a fixed amount which may not exceed 5% of the profits distributed
+         by the subsidiary, without distinguishing between a situation in which that Member State has opted for the exemption method
+         and one in which it has opted for the credit method. It follows that, with respect to the concept of distributed profits,
+         that provision makes no distinction between cases where the State is subject to the requirement to provide for the set‑off
+         of the withholding tax charged in the Member State of the subsidiary and cases where it is not subject to such a requirement.
+         Accordingly, where the Member State has chosen to follow the option provided for in Article 4(2) of the directive by including
+         tax credits in the amount of the distributed profits to which the rate of 5% is to be applied, it cannot be criticised for
+         not making any distinction between cases where tax credits capable of being set off against the tax payable are involved and
+         cases where such tax credits are not involved.
+      
+(see paras 36‑40, 42‑46, 50, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+April (*)
+      
+(Corporation tax – Directive 90/435/EEC – Taxable income of a parent company – Non‑deductibility of costs and expenses relating to a holding in a subsidiary – Fixing of costs at a flat rate – Ceiling of 5% of the profits distributed by the subsidiary – Inclusion of tax credits)
+In Case C‑27/07,
+REFERENCE for a preliminary ruling under Article EC by the Conseil d’État (France), made by decision of January 2007,
+         received at the Court on January 2007, in the proceedings
+      
+Banque Fédérative du Crédit Mutuel
+v
+Ministre de l’Économie, des Finances et de l’Industrie,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts (Rapporteur), President of the Chamber, G. Arestis, R. Silva de Lapuerta, E. Juhász and J. Malenovský,
+         Judges,
+      
+Advocate General: E. Sharpston,
+Registrar: B. Fülöp, Administrator,
+having regard to the written procedure and further to the hearing on November 2007,
+after considering the observations submitted on behalf of:
+–        Banque Fédérative du Crédit Mutuel, by Y. Mercier and A. Gerardin, avocats,
+–        the French Government, by G. de Bergues and J.‑C. Gracia, acting as Agents,
+–        the German Government, by M. Lumma and C. Blaschke, acting as Agents,
+–        the Commission of the European Communities, by R. Lyal and J.‑P. Keppenne, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on January 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles 4(2) and 7(2) of Council Directive 90/435/EEC
+         of July on the common system of taxation applicable in the case of parent companies and subsidiaries of different
+         Member States (OJ L 225, p. 6, ‘the Directive’).
+      
+The reference has been made in proceedings between Banque Fédérative du Crédit Mutuel (‘BFCM’) and the Ministre de l’Économie,
+         des Finances et de l’Industrie (the French Minister of the Economy, Finance and Industry).
+      
+ Legal context
+ Community legislation
+Article of the directive states:
+      
+‘1.      Where a parent company, by virtue of its association with its subsidiary, receives distributed profits, the State of the parent
+         company shall, except when the latter is liquidated, either:
+      
+–        refrain from taxing such profits, or
+–        tax such profits while authorising the parent company to deduct from the amount of tax payable that fraction of the corporation
+         tax paid by the subsidiary which relates to those profits and, if appropriate, the amount of the withholding tax levied by
+         the Member State in which the subsidiary is resident, pursuant to the derogations provided for in Article 5, up to the limit
+         of the amount of the corresponding domestic tax. 
+      
+2.      However, each Member State shall retain the option of providing that any charges relating to the holding and any losses resulting
+         from the distribution of the profits of the subsidiary may not be deducted from the taxable profits of the parent company.
+         Where the management costs relating to the holding in such a case are fixed as a flat rate, the fixed amount may not exceed
+         5% of the profits distributed by the subsidiary.
+      
+…’      
+Article of the directive is worded as follows:
+      
+‘1.      Profits which a subsidiary distribute[s] to its parent company shall, at least where the latter holds a minimum of 25% of
+         the capital of the subsidiary, be exempt from withholding tax.
+      
+2.      Notwithstanding paragraph 1, the Hellenic Republic may, for so long as it does not charge corporation tax on distributed profits,
+         levy a withholding tax on profits distributed to parent companies of other Member States …
+      
+3.      Notwithstanding paragraph 1, the Federal Republic of Germany may, for as long as it charges corporation tax on distributed
+         profits at a rate at least points lower than the rate applicable to retained profits, and at the latest until mid‑1996,
+         impose a compensatory withholding tax of 5% on profits distributed by its subsidiary companies.
+      
+4.      Notwithstanding paragraph 1, the Portuguese Republic may levy a withholding tax on profits distributed by its subsidiaries
+         to parent companies of other Member States until a date not later than the end of the eighth year following the date of application
+         of this Directive.
+      
+…’
+Article of the directive states:
+      
+‘1.      The term “withholding tax” as used in this Directive shall not cover an advance payment or prepayment (précompte) of corporation tax to the Member State of the subsidiary which is made in connection with a distribution of profits to its
+         parent company.
+      
+2.      This Directive shall not affect the application of domestic or agreement-based provisions designed to eliminate or lessen
+         economic double taxation of dividends, in particular provisions relating to the payment of tax credits to the recipients of
+         dividends.’
+      
+ National legislation
+The tax regime for dividends paid to parent companies established in France is governed by Article of the Code général
+         des impôts (the General Tax Code, the ‘CGI’), which, in the version applicable to this case, states:
+      
+‘I.      Net revenues from holdings giving entitlement to application of the tax regime for parent companies and referred to in Article which are received by a parent company in the course of a financial year, may be deducted from the net total profits of that
+         company, after deduction of a proportion of costs and expenses.
+      
+The proportion of costs and expenses referred to in the first subparagraph is fixed in every case at 5% of the gross revenue
+         from the holdings, including tax credits. That proportion may not exceed, however, for each tax period, the total amount of
+         the costs and expenses of any nature incurred by the holding company during that period.’
+      
+Article of the CGI states, in the version applicable to this case, that the tax regime for parent companies is applicable,
+         inter alia, to companies subject to corporation tax at the normal rate which have holdings representing at least 5% of the
+         capital of the issuing undertaking.
+      
+Administrative circular No 4H1‑of the Ministère de l’Économie des Finances et de l’Industrie of January (Bulletin officiel des impôts of February 2000) specifies, referring back to Administrative circular No 4H4‑of June (Bulletin officiel des impôts of July 1999) of the same Ministry, the procedure for determining the proportion of costs and expenses referred to in Article of the CGI. It is, in particular, stated that the tax credits in question ‘comprise both the tax credit (avoir fiscal) for income arising in France … and the foreign tax credit (crédit d’impôt étranger) for income from subsidiaries with their seat in a country with which France has a double taxation treaty’.
+      
+According to the Conseil d’État, the tax treaties concluded by France with other Member States provide that a tax credit is
+         to be given to a parent company established in France on the distribution of profits by a subsidiary established in another
+         Member State where that distribution of profits has been subject to a withholding tax levied by the other Member State. That
+         tax credit is to be equal to the amount of the withholding tax thus deducted.
+      
+Pursuant to Article 146(2) of the CGI, in the version applicable to this case, where the distribution by a parent company
+         to its own shareholders of dividends which it has received leads to the application of the précompte mobilier (imputation tax) provided for in Article sexies of the CGI, the tax credits applied to dividends paid in the last five
+         years (but not outside that period) may be set off against the précomptemobilier. In addition, according to the Conseil d’État, pursuant to an administrative circular of the Ministère de l’Économie des
+         Finances et de l’Industrie, those tax credits may also be set off against the withholding tax payable on the redistribution
+         of dividends by the parent company to persons not resident for tax purposes, or not having their seat, in France.
+      
+ The main proceedings and the question referred for a preliminary ruling
+The order for reference discloses that, pursuant to the tax regime for parent companies laid down in Article of the CGI,
+         BFCM deducted from its net total profits the dividends which it received from its subsidiaries, but had to add back to its
+         tax base a proportion of costs and expenses determined in accordance with that article.
+      
+In the main proceedings, BFCM asks the Conseil d’État to annul Administrative circulars No 4H1‑and No 4H4‑99.
+      
+BFCM maintains, in that regard, that the Administrative circulars are contrary to Article of the directive, in so far as
+         the proportion of costs and expenses, fixed at a flat rate of 5% of the total revenue from the holdings, includes tax credits
+         paid pursuant to tax treaties concluded by the French Republic with other Member States, while the directive provides that
+         the amount of the charges which may not be deducted from the taxable income of the parent company, when fixed at a flat rate,
+         is limited to 5% only of the profits distributed by the subsidiary.
+      
+The Conseil d’État raises the question whether the add-back to the taxable income of the parent company of a fixed proportion
+         of costs and expenses equal to 5% of the revenue from holdings, tax credits included, constitutes a tax which exceeds the
+         limit of 5% of the profits distributed permitted under Article 4(2) of the directive and which may affect the neutrality of
+         the cross-border distribution of profits or whether it constitutes a tax whose only effect is partially to reduce the tax
+         credit attributed to the parent company on the distribution of dividends and which may, therefore, be regarded as belonging
+         to a body of provisions relating to the payment of tax credits to recipients of dividends and as aiming, by the same token,
+         to lessen double taxation.
+      
+In that respect, the Conseil d’État, first, refers to Case C‑58/Océ Van der Grinten [2003] ECR I‑9809, in which the Court held that a tax credit constitutes a fiscal instrument designed to avoid the economic
+         double taxation of profits distributed in the form of dividends and does not constitute income from shares.
+      
+The Conseil d’État states, second, that the add-back of 5% of distributed net profits and of the tax credit to the taxable
+         income of the parent company, in respect of the proportion of costs and expenses, places the parent company in a situation
+         which is the same as that in which it would have found itself if there had been no withholding tax, as a result of the add‑back
+         of a proportion of costs and expenses equal to 5% of profits distributed. However, that is the case only if the tax credit
+         can be entirely set off against the tax payable by the parent company.
+      
+According to the Conseil d’État, it follows from Article 146(2) of the CGI, in the version applicable to this case, and from
+         administrative practice, as stated in Administrative circular No 4K‑1121, that tax credits granted on a distribution of dividends
+         to a parent company by its subsidiary established in another Member State may be set off against tax payable by the parent
+         company only where those dividends are redistributed in the following five years. In that case, the add‑back of 5% of the
+         tax credits to the taxable profits of the parent company in respect of the proportion of costs and expenses does not affect
+         the principle of fiscal neutrality of the cross-border distribution of profits.
+      
+By contrast, where the parent company decides not to redistribute those dividends within that period, the add-back to its
+         taxable income – in respect of the proportion of costs and expenses, equal to 5% of tax credits, which will not be set off
+         against the tax that it must pay – has the effect of raising its taxable income above the limit of 5% of distributed profits
+         actually received, laid down by Article 4(2) of the directive, and of affecting, to that extent, the fiscal neutrality of
+         the cross-border distribution of profits.
+      
+In the latter case, according to the Conseil d’État, the question arises whether the increase in corporation tax paid by the
+         parent company in proportion to the increase in its taxable income following the add-back of 5% of the tax credits constitutes
+         a tax which, in view of its small amount and the fact that it was imposed directly in connection with the payment of tax credits
+         granted in order to lessen the economic double taxation of dividends, can be regarded as not having been set at a rate such
+         as to cancel the effects of that lessening of economic double taxation of dividends and thus as permitted under Article 7(2)
+         of the directive.
+      
+Accordingly, the Conseil d’État decided to stay the proceedings and to refer the following question to the Court of Justice
+         for a preliminary ruling:
+      
+‘The add‑back to the taxable income of a parent company established in France of 5% of the tax credits attributed upon the
+         distribution of profits by a subsidiary established in another Member State … where those distributed profits have been subject
+         in that other State to a withholding tax, has no effect on the taxation level of the parent company if the latter is able
+         to set off all the tax credits against the tax payable. Where the parent company did not decide to redistribute those profits
+         to its own shareholders within five years, and in consequence is no longer able to use the fiscal advantage represented by
+         those tax credits, can the taxation – additional to corporation tax – which results from the add-back of 5% of the tax credits
+         to its taxable income be regarded as permitted under Article 7(2) of [the directive], in view of the small amount of such
+         a tax and the fact that it was established directly in conjunction with payment of tax credits, introduced in order to mitigate
+         the economic double taxation of dividends, or must it be regarded as contrary to the objectives of Article of [the directive]?’
+      
+ The question referred for a preliminary ruling
+By its question, the national court asks essentially whether the term ‘profits distributed by the subsidiary’, within the
+         meaning of the last sentence of Article 4(2) of the directive, precludes the legislation of a Member State from including
+         tax credits in those profits and, if so, whether that inclusion falls under Article 7(2) of the directive.
+      
+To answer that question, it is necessary to take account of the wording of the provision on which a ruling on interpretation
+         is sought, as well as the objectives and the scheme of the directive (see, to that effect, Joined Cases C‑283/94, C‑291/and C‑292/Denkavit and Others [1996] ECR I‑5063, paragraphs and 26, and Case C‑375/Epson Europe [2000] ECR I‑4243, paragraphs and 24).
+      
+In that regard, it should be borne in mind that, as is particularly apparent from the third recital in the preamble thereto,
+         the aim of the directive is to eliminate, by introducing a common system of taxation, any disadvantage to cooperation between
+         companies of different Member States as compared with cooperation between companies of the same Member State and thereby to
+         facilitate the grouping together of companies at Community level (Denkavit and Others, paragraph 22; Epson Europe, paragraph 20; Case C‑294/Athinaiki Zithopiia [2001] ECR I‑6797, paragraph 25; Océ Van der Grinten, paragraph 45; and Case C‑446/Test Claimants in the FII Group Litigation [2006] ECR I‑11753, paragraph 103).
+      
+The directive seeks thus to ensure the neutrality, from the tax point of view, of the distribution of profits by a subsidiary
+         established in one Member State to its parent company established in another Member State.
+      
+In order to attain those objectives, Article 4(1) of the directive provides, in order to avoid double taxation, that, where
+         a parent company receives, by virtue of its association with its subsidiary, distributed profits, the Member State of the
+         parent company is either to refrain from taxing such profits, or to authorise the parent company to deduct from the amount
+         of tax payable that fraction of the corporation tax paid by the subsidiary which relates to those profits and, if appropriate,
+         the amount of the withholding tax levied by the Member State in which the subsidiary is resident, up to the limit of the amount
+         of the corresponding domestic tax (Test Claimants in the FII Group Litigation, paragraph 102).
+      
+Likewise, Article 5(1) of the directive provides, in order to avoid double taxation, for exemption in the State of the subsidiary
+         from withholding tax upon distribution of profits to its parent company, at least where the latter holds a minimum of 25%
+         of the capital of the subsidiary (Denkavit and Others paragraph 22; Epson Europe, paragraph 20; Athinaiki Zithopiia, paragraph 25; and Océ Van der Grinten, paragraph 45).
+      
+The directive aims thus to avoid double taxation, in economic terms, of profits which a subsidiary established in one Member
+         State distributes to its parent company established in another Member State, in other words, to avoid taxation of distributed
+         profits, first, in the hands of the subsidiary and, then, in the hands of the parent company (see, to that effect, AthinaikiZithopiia, paragraph 5).
+      
+However, pursuant to Article 4(2) of the directive, each Member State is to retain the option of providing that any charges
+         relating to the holding in the subsidiary may not be deducted from the taxable profits of the parent company, subject to the
+         qualification that where, in such a case, the management costs relating to the holding are fixed as a flat rate, the fixed
+         amount may not exceed 5% of the profits distributed by the subsidiary.
+      
+Moreover, pursuant to Article 5(2) to (4) of the directive, certain Member States were authorised, during a transitional period,
+         to levy a withholding tax on profits distributed by resident subsidiaries to their parent company established in another Member
+         State.
+      
+According to the national legislation applicable in this case, the fixed amount of non‑deductible costs and expenses, with
+         which Article 4(2) of the directive is concerned, is fixed at 5% of distributed profits, including tax credits.
+      
+Regarding the term ‘tax credit’, it should be pointed out that both the national court, in the grounds of its decision, and
+         BFCM and the Commission of the European Communities, in the written observations which they have submitted to the Court, rely
+         on the judgment in Océ Van der Grinten, in which the Court held that the tax credit in question in that case, namely an ‘avoir fiscal’, constitutes a fiscal instrument designed to avoid economic double taxation of profits distributed in the form of dividends
+         and does not constitute income from shares (see Océ Van der Grinten, paragraph 56).
+      
+However, as the Advocate General noted at point of her Opinion, the judgment in Océ Van der Grinten dealt with a tax levied on a tax credit which did not possess the characteristics of a withholding tax on distributed profits
+         (see Océ Van der Grinten, paragraph 55).
+      
+That case concerned a tax credit designed to offset the tax paid by the distributing company and not a tax credit designed
+         to offset tax already paid by the shareholder.
+      
+It is apparent from the order for reference and from the submissions made at the hearing before the Court by BFCM and the
+         French Government, that the tax credits at issue in this case are tax credits made available for the purpose of offsetting
+         the withholding taxes to which the parent company is subject in the Member State of the subsidiary.
+      
+The aim of the tax credits is thus to offset the tax already paid by the shareholder and the judgment in Océ Van der Grinten cannot, therefore, provide an answer to the question referred.
+      
+That point having been made, it should, first, be pointed out that the wording of Article 4(2) of the directive does not preclude
+         the inclusion of tax credits in the fixed amount of the management costs relating to the holding of the parent company in
+         the subsidiary.
+      
+As the Advocate General noted at point of her Opinion, the inclusion of tax credits in the fixed amount of the management
+         costs relating to the holding, within the meaning of Article 4(2) of the directive, means that it is in fact the total amount
+         of profit distributed, within the meaning of that provision, which is received by the parent company and to which the rate
+         of 5% will be applied.
+      
+Second, it should be pointed out that those credits are intended to avoid double taxation of profits distributed by a subsidiary
+         to its parent company, from a juridical perspective, in other words, to prevent those profits being taxed in the hands of
+         the parent company, first, by withholding tax in the Member State of the subsidiary and, second, in the Member State where
+         the parent company is established.
+      
+Consequently, taking into account tax credits granted to the parent company in calculating the proportion of costs and expenses
+         relating to the holding in the subsidiary allows the amount of profits distributed by that subsidiary and the equivalent amount
+         which is, in the end of the day, actually at the parent company’s disposal in respect of that distribution to be reflected,
+         by neutralising the impact of the withholding tax levied in the hands of the parent company by the Member State of the subsidiary.
+      
+As the French and German Governments rightly argued in their observations submitted to the Court, the inclusion of tax credits
+         in the fixed amount of the management costs relating to the holding, within the meaning of Article 4(2) of the directive,
+         thus complies with the objective of neutrality, from the tax point of view, as regards the cross-border distribution of profits
+         from a subsidiary to its parent company established in another Member State.
+      
+In that context, the national court wishes, however, to know whether fiscal neutrality is unaffected by the fact that the
+         tax credits cannot always be set off against the tax payable by the parent company, as is mentioned in paragraph of this
+         judgment.
+      
+In that regard, it must be pointed out, first, that, under the scheme laid down by the directive, where a parent company has
+         a holding of at least 25% in the capital of a subsidiary established in another Member State, the imposition of a withholding
+         tax in the latter State is generally prohibited by virtue of Article 5(1) of the directive.
+      
+In circumstances such as those arising in this case, certain Member States were permitted, during the transitional periods
+         allowed to them, to levy such a withholding tax in accordance with Article 5(2) to (4) of the directive.
+      
+As the Advocate General noted at point of her Opinion, the directive does not require a Member State to provide for the
+         set off of such a withholding tax, where that Member State has, in accordance with Article 4(1) of the directive, opted for
+         the exemption method. In that respect, a Member State which has opted for the exemption method cannot be criticised for offseting
+         the withholding tax charged in the Member State of the subsidiary by the grant of a tax credit, while at the same time limiting
+         the right to set off the tax credit to cases where the recipient parent company redistributes the dividends received within
+         five years to its own shareholders.
+      
+Second, it should be borne in mind that Article 4(2) of the directive allows a Member State to set the management costs which
+         are not deductible at a fixed amount which may not exceed 5% of the profits distributed by the subsidiary, without distinguishing
+         between a situation in which that Member State has opted for the exemption method and one in which it has opted for the credit
+         method. It follows that, with respect to the concept of distributed profits, that provision makes no distinction between cases
+         where the State is subject to the requirement to provide for the set‑off of the withholding tax charged in the Member State
+         of the subsidiary and cases where it is not subject to such a requirement.
+      
+Accordingly, where the Member State has chosen to follow the option provided for in Article 4(2) of the directive by including
+         tax credits in the amount of the distributed profits to which the rate of 5% is to be applied, it cannot be criticised for
+         not making any distinction between cases where tax credits capable of being set off against the tax payable are involved and
+         cases where such tax credits are not involved.
+      
+While it is true that, under national legislation such as the legislation at issue in this case, where there is no redistribution
+         of the profits received by the parent company to its own shareholders within five years, the inclusion of tax credits in the
+         fixed amount of the management costs relating to the holding, within the meaning of Article 4(2) of the directive, contributes
+         to an increase in the tax burden on the parent company, such an effect is the result of the withholding tax imposed by the
+         Member State of the subsidiary, in accordance with Article 5(1) and (2) to (4) of the directive: in that respect, Article 4(1)
+         of the directive imposes, where the exemption method is applied, no obligation to ensure that the withholding tax is set off
+         against the amount of tax payable.
+      
+Thus, it is not the inclusion of tax credits in the fixed amount of the management costs relating to the holding, within the
+         meaning of Article 4(2) of the directive, which affects the tax neutrality of the cross-border distribution of profits from
+         a subsidiary to its parent company established in another Member State, but rather the possibility which the directive allows
+         for a withholding tax to be levied in the Member State of the subsidiary affecting the parent company.
+      
+In any event, the inclusion of tax credits – as a mechanism designed to avoid juridical double taxation – in the fixed amount
+         of the management costs relating to the holding, within the meaning of Article 4(2) of the directive, cannot fall within the
+         scope of Article 7(2) of the directive, which does not affect the application of domestic or agreement-based provisions designed
+         to eliminate or lessen economic double taxation of dividends alone.
+      
+Consequently, the answer to the question referred must be that the concept of ‘profits distributed by the subsidiary’, within
+         the meaning of the last sentence of Article 4(2) of the directive, is to be interpreted as not precluding legislation of a
+         Member State which includes in those profits tax credits which have been granted in order to offset a withholding tax levied
+         by the Member State of the subsidiary in the hands of the parent company.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+The concept of ‘profits distributed by the subsidiary’, within the meaning of the last sentence of Article 4(2) of Council
+            Directive 90/435/EEC of July on the common system of taxation applicable in the case of parent companies and subsidiaries
+            of different Member States, is to be interpreted as not precluding legislation of a Member State which includes in those profits
+            tax credits which have been granted in order to offset a withholding tax levied by the Member State of the subsidiary in the
+            hands of the parent company.
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

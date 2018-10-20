@@ -1,0 +1,168 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+March (
+*)
+‛Reference for a preliminary ruling — Medicinal products for human use — Regulation (EC) No 469/— Article — Supplementary protection certificate — Conditions for obtaining such a certificate — Medicinal products containing in whole or in part the same active ingredient — Medicinal products placed on the market in succession — Combination of active ingredients — Active ingredient previously marketed in the form of a medicinal product with a single active ingredient — Conditions for obtaining several certificates on the basis of the same patent — Modification of the active ingredients of a basic patent’
+In Case C‑577/13,
+REQUEST for a preliminary ruling under Article TFEU from the High Court of Justice (England and Wales), Chancery Division (Patents Court) (United Kingdom), made by decision of October 2013, received at the Court on November 2013, in the proceedings
+Actavis Group PTC EHF,
+Actavis UK Ltd
+v
+Boehringer Ingelheim Pharma GmbH & Co. KG,
+THE COURT (Eighth Chamber),
+composed of A. Ó Caoimh, President of the Chamber, C. Toader (Rapporteur) and C.G. Fernlund, Judges,
+Advocate General: N. Jääskinen,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on December 2014,
+after considering the observations submitted on behalf of:
+—
+Actavis Group PTC EHF and Actavis UK Ltd, by R. Meade QC, I. Jamal, Barrister, and M. Hilton, Solicitor,
+—
+Boehringer Ingelheim Pharma GmbH & Co. KG, by T. Mitcheson QC, and N. Dagg, Solicitor,
+—
+the United Kingdom Government, by N. Saunders, Barrister,
+—
+the French Government, by D. Colas, S. Menez and S. Ghiandoni, acting as Agents,
+—
+the Portuguese Government, by L. Inez Fernandes, A.P. Antunes and I. Vieira Lopes, acting as Agents,
+—
+the European Commission, by F.W. Bulst and J. Samnadda, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles and of Regulation (EC) No 469/of the European Parliament and of the Council of May concerning the supplementary protection certificate for medicinal products (OJ L 152, p. 1).
+The request has been made in proceedings between Actavis Group PTC EHF and Actavis UK Limited (together, ‘Actavis’), the claimants in the main proceedings, and Boehringer Ingelheim Pharma GmbH & Co. KG (‘Boehringer’) concerning the validity of the supplementary protection certificate (‘SPC’) obtained by Boehringer for the medicinal product MicardisPlus.
+Legal context
+EU law
+Recitals 4, 5, and in the preamble to Regulation No 469/are worded as follows:
+‘(4)
+At the moment, the period that elapses between the filing of an application for a patent for a new medicinal product and authorisation to place the medicinal product on the market makes the period of effective protection under the patent insufficient to cover the investment put into the research.
+(5)
+This situation leads to a lack of protection which penalises pharmaceutical research.
+...
+(9)
+The duration of the protection granted by the certificate should be such as to provide adequate effective protection. For this purpose, the holder of both a patent and a certificate should be able to enjoy an overall maximum of years of exclusivity from the time the medicinal product in question first obtains authorisation to be placed on the market in the Community.
+(10)
+All the interests at stake, including those of public health, in a sector as complex and sensitive as the pharmaceutical sector should nevertheless be taken into account. For this purpose, the certificate cannot be granted for a period exceeding five years. The protection granted should furthermore be strictly confined to the product which obtained authorisation to be placed on the market as a medicinal product.’
+Article of Regulation No 469/2009, entitled ‘Definitions’, provides as follows:
+‘For the purposes of this Regulation, the following definitions shall apply:
+(a)
+“medicinal product” means any substance or combination of substances presented for treating or preventing disease in human beings …;
+(b)
+“product” means the active ingredient or combination of active ingredients of a medicinal product;
+(c)
+“basic patent” means a patent which protects a product as such, a process to obtain a product or an application of a product, and which is designated by its holder for the purpose of the procedure for grant of a certificate;
+(d)
+“certificate” the [SPC];
+…’
+Article of Regulation No 469/2009, entitled ‘Conditions for obtaining a certificate’, is worded as follows:
+‘A certificate shall be granted if, in the Member State in which the application referred to in Article is submitted and at the date of that application:
+(a)
+the product is protected by a basic patent in force;
+(b)
+a valid authorisation to place the product on the market as a medicinal product has been granted in accordance with Directive 2001/83/EC [of the European Parliament and of the Council of November on the Community code relating to medicinal products for human use (OJ L 311, p. 67)] …;
+(c)
+the product has not already been the subject of a certificate;
+(d)
+the authorisation referred to in point (b) is the first authorisation to place the product on the market as a medicinal product.’
+Article of Regulation No 469/2009, entitled ‘Application for a certificate’, provides in paragraph thereof as follows:
+‘The application for a certificate shall be lodged within six months of the date on which the authorisation referred to in Article 3(b) to place the product on the market as a medicinal product was granted.’
+Article of Regulation No 469/2009, entitled ‘Duration of the certificate’, is worded in paragraph thereof as follows:
+‘The certificate shall take effect at the end of the lawful term of the basic patent for a period equal to the period which elapsed between the date on which the application for a basic patent was lodged and the date of the first authorisation to place the product on the market in the Community, reduced by a period of five years.’
+United Kingdom law
+Section of the UK Patents Act states that ‘[a]n amendment of a specification of a patent under this Section shall have effect and be deemed always to have had effect from the grant of the patent’.
+The facts in the main proceedings and the questions referred for a preliminary ruling
+On January 1992, Boehringer filed an application for European Patent (UK) No EP 314. That patent was granted on May (‘Boehreinger’s basic patent’). Boehreinger’s basic patent is entitled ‘Benzimidazol derivatives, medicaments containing them and process for their preparation’. It discloses and claims numerous molecules, one of which is telmisartan. Telmisartan is an active ingredient used in the treatment of high blood pressure, namely hypertension, and the reduction of cardiovascular morbidity in adults.
+Claims and of Boehringer’s basic patent relate to telmisartan alone and to one of the salts thereof, respectively.
+On the basis of that patent and a marketing authorisation granted on December to one of the Boehringer group companies for the medicinal product Micardis, which contained telmisartan as the sole active ingredient, Boehringer obtained the first SPC for that active ingredient (‘the telmisartan SPC’). The product description for the telmisartan SPC is ‘[t]elmisartan, optionally in the form of a pharmaceutically acceptable salt’. The telmisartan SPC was granted on August and expired on December 2013.
+On April 2002, one of the Boehringer group companies was granted a marketing authorisation for a combination of telmisartan and hydrochlorothiazide. Hydrochlorothiazide is a diuretic that acts by inhibiting the kidney’s ability to retain water. That substance is a molecule that has been known to exist since and is in the public domain. Telmisartan and hydrochlorothiazide are the sole active ingredients of the medicinal product sold by Boehringer under the brand name MicardisPlus.
+On September 2002, Boehringer filed an application for a SPC for the combination of the active ingredients telmisartan and hydrochlorothiazide (‘the combination SPC’).
+By letter of July 2003, the United Kingdom Intellectual Property Office (‘the UK IPO’) indicated to the applicant for the combination SPC that, with regard to certificates for products comprising a combination of active ingredients, the combination must be clearly claimed in order for it to be regarded as requiring protection as such. As Boehringer’s basic patent contained only claims which related to one of the product’s active ingredients, namely the telmisartan component, the UK IPO suggested that Boehringer should apply to amend that basic patent to insert a claim to the combination of telmisartan and hydrochlorothiazide.
+On November 2003, Boehringer requested that the combination SPC application be suspended.
+On November 2003, Boehringer applied to the UK IPO to amend its basic patent, as granted, by inserting a new claim, namely claim 12, relating, inter alia, to a pharmaceutical combination of telmisartan and hydrochlorothiazide.
+On December 2003, the UK IPO agreed to suspend the procedure for the grant of the combination SPC for four months, pending the outcome of the procedure for the amendment of Boehringer’s basic patent.
+On May 2004, the application to amend the basic patent was published. After extending, on May 2004, the suspension of the procedure for the grant of the combination SPC until the completion of the procedure to amend Boehringer’s basic patent, the UK IPO granted the Boehringer’s application to amend on November (‘the amended patent’). The amended patent expired on January 2012.
+By letter of November 2004, Boehringer wrote to the UK IPO requesting that its combination SPC application be recommenced. That application was resubmitted on the basis of the amended patent on or shortly after that date.
+The combination SPC was granted on January and is due to expire on January 2017.
+Actavis, which produces generic medicinal products, brought proceedings before the referring court claiming that the combination SPC is invalid, on the ground that, at the date on which the application was originally made for that certificate, namely September 2002, the product in question was not specified in the wording of the claims of Boehringer’s basic patent, as that patent, which was submitted with the combination SPC application, did not contain claim 12, and none of the claims for that patent referred to the product in combination.
+Boehringer claims, on the other hand, that it is permissible under both EU and national legislation to amend patents after they have been granted. Accordingly, as a result of such an amendment, Boehringer’s basic patent protected, retrospectively, the product for which the combination SPC application was originally made before the amendment.
+The referring court states that, under Section of the UK Patents Act 1977, the amendment to Boehringer’s basic patent is deemed always to have had effect from the date on which that patent was granted, namely May 1998.
+In those circumstances, the High Court of Justice (England and Wales), Chancery Division (Patents Court) decided to stay proceedings and to refer to the Court of Justice the following questions for a preliminary ruling:
+‘(1)
+(a)
+If a patent does not, upon grant, contain a claim that explicitly identifies two active ingredients in combination, but the patent could be amended so as to include such a claim, could this patent, whether or not such an amendment is made, be relied upon as a “a basic patent in force” for a product comprising those ingredients in combination pursuant to Article 3(a) of Regulation No 469/2009/EC?
+(b)
+Can a patent that has been amended after the grant of the patent and either (i) before and/or (ii) after the grant of the SPC be relied upon as the “basic patent in force” for the purposes of fulfilling the conditions set out in Article 3(a) of Regulation No 469/2009?
+(c)
+Where an applicant applies for an SPC for a product comprised of active ingredients A and B in circumstances where:
+(i)
+after the date of application for the SPC but before the grant of the SPC, the basic patent in force, being a European Patent (UK) is amended so as to include a claim which explicitly identifies A and B;
+and
+(ii)
+the amendment is deemed, as a matter of national law, always to have had effect from the grant of the patent;
+is the applicant for the SPC entitled to rely upon the patent in its amended form for the purposes of fulfilling the [Regulation No 469/2009] Article 3(a) condition?
+(2)
+For the purposes of determining whether the conditions in Article [of Regulation No 469/2009] are made out at the date of the application for an SPC for a product comprised of the combination of active ingredients A and B, where:
+(a)
+the basic patent in force includes a claim to a product comprising active ingredient A and a further claim to a product comprising the combination of active ingredients A and B, and
+(b)
+there is already an SPC for a product comprising active ingredient A (“Product X”), is it necessary to consider whether the combination of active ingredients A and B is a distinct and separate invention from that of A alone?
+(3)
+Where the basic patent in force “protects” pursuant to Article 3(a) [of Regulation No 469/2009]:
+(a)
+a product comprising active ingredient A (Product X); and
+(b)
+a product comprising a combination of active ingredient A and active ingredient B (“Product Y”);
+and where:
+(c)
+an authorisation to place Product X on the market as a medicinal product has been granted;
+(d)
+an SPC has been granted in respect of Product X; and
+(e)
+a separate authorisation to place Product Y on the market as a medicinal product has subsequently been granted,
+does … Regulation [No 469/2009], in particular Articles 3(c) and (d) and/or 13(1), preclude the proprietor of the patent being issued with an SPC in respect of Product Y? Alternatively, if an SPC can be granted in respect of Product Y, should its duration be assessed by reference to the grant of the authorisation for Product X or the authorisation for Product Y?
+(4)
+If the answer to Question 1(a) is in the negative and the answer to Question 1(b)(i) is positive and the answer to Question 1(b)(ii) is negative, then in circumstances where:
+(a)
+in accordance with Article 7(1) of … Regulation [No 469/2009], an application for an SPC for a product is lodged within six months of the date on which a valid authorisation to place that product on the market as a medicinal product has been granted in accordance with Directive 2001/83/EC or Directive 2001/82/EC [of the European Parliament and of the Council of November on the Community code relating to veterinary medicinal products (OJ L 311, p. 1)];
+(b)
+following the lodging of the application for the SPC, the competent industrial property office raises a potential objection to the grant of the SPC under Article 3(a) of … Regulation [No 469/2009];
+(c)
+following and in order to meet the aforesaid potential objection by the competent industrial property office, an application to amend the basic patent in force relied upon by the SPC applicant is made and granted;
+(d)
+upon amendment of the basic patent in force, the said amended patent complies with Article 3(a) [of Regulation No 469/2009];
+does Regulation [No 469/2009] prevent the competent industrial property office from applying national procedural provisions to enable (a) suspension of the application for the SPC in order to allow the SPC applicant to apply to amend the basic patent, and (b) recommencement of the said application at a later date once the amendment has been granted, the said date of recommencement being
+—
+after six months from the date on which a valid authorisation to place that product on the market as a medicinal product was granted, but
+—
+within six months of the date on which the application to amend the basic patent in force was granted?’
+Consideration of the questions referred
+Questions and By its second and third questions, which it is appropriate to examine together and in the first place, the national court is asking, in essence, whether Article 3(a) and (c) of Regulation No 469/must be interpreted as meaning that, where a basic patent includes a claim to a product comprising an active ingredient for which the holder of that patent has already obtained an SPC, as well as a subsequent claim to a product comprising a combination of that active ingredient and another substance, that provision precludes the holder from obtaining a second SPC for that combination. If that question is answered in the negative, the national court is also seeking to ascertain how the duration of the ‘combination SPC’ is to be determined, for the purpose of Article 13(1) of that regulation.
+That question is raised in connection with an application for a second SPC for a product comprising a combination of the active ingredients telmisartan and hydrochlorothiazide. In that regard, it is common ground in the main proceedings that, in that combination, telmisartan, which is the innovative active ingredient of Boehringer’s basic patent, is the sole subject-matter of the invention. Boehringer did not, in any event, contribute to the discovery of hydrochlorothiazide, which is a molecule within the public domain, and the claim relating to that substance does not constitute the subject-matter of the invention.
+It should be noted, first, that, in accordance with Article 3(a) to (d) of Regulation No 469/2009, an SPC is to be granted if, in the Member State in which the application is made and at the date of that application, the product is protected by a basic patent in force, where the product has not already been the subject of an SPC and a valid authorisation to place the product on the market as a medicinal product has been granted and that marketing authorisation is the first authorisation at the date of that application. In so far as concerns the product, as referred to in Article 3(a) and (b) of Regulation No 469/2009, it is apparent from a reading of that provision in conjunction with Article 1(c) of the regulation that an SPC may be granted only if the product is protected as such by the basic patent.
+As regards the question whether or not the products at issue in the main proceedings are protected, the parties to those proceedings do not agree on the correct interpretation to be given to the expression ‘as such’ in Article 1(c) of Regulation No 469/2009.
+While, according to Boehringer and the Portuguese Government, the mere fact that the two active ingredients are specified in the wording used in the claims is sufficient for them to be regarded as protected, Actavis maintains that that expression is to be understood as meaning that the holder of a patent should enjoy an extended monopoly only for the development of a product which is the true subject-matter of the invention covered by the patent in question, that is to say, for its technical contribution or core inventive advance.
+The Commission proposes that the use of the expression ‘as such’ should be interpreted as designating an active ingredient ‘in isolation’, that is, an ingredient that is not in combination with any other active ingredient.
+The French Government observes that, in the main proceedings, first, telmisartan alone forms the core of the invention or the innovative active ingredient of Boehringer’s basic patent and, second, none of the claims of that patent relate to hydrocholorothiazide alone.
+For the purposes of providing a useful answer to Questions and 3, it should be noted that the expression ‘as such’, as used in Article 1(c) of Regulation No 469/2009, must be given an autonomous interpretation in the light of the objectives pursued by that regulation and the overall scheme of which that expression forms part.
+It should be recalled in that regard, first, that it is possible, in principle, on the basis of a patent which protects several different ‘products’, to obtain several SPCs in relation to each of those different products, provided, inter alia, that each of those products is ‘protected’ as such by that ‘basic patent’ within the meaning of Article 3(a) of Regulation No 469/2009, in conjunction with Article 1(b) and (c) of that regulation (see, to that effect, judgments in Actavis Group PTC and Actavis UK, C‑443/12, EU:C:2013:833, paragraph 29, and Georgetown University, C‑484/12, EU:C:2013:828, paragraph 30).
+Second, it should be noted that, according to recitals 4, and in the preamble to Directive No 469/2009, the SPC is designed to re-establish a sufficient period of effective protection of a basic patent by permitting the holder to enjoy an additional period of exclusivity on the expiry of his patent, which is intended to compensate, at least in part, for the delay to the commercial exploitation of his invention by reason of the time which has elapsed between the date on which the application for that patent was filed and the date on which the first marketing authorisation in the European Union was granted (see, to that effect, judgment in Actavis Group PTC and Actavis UK, C‑443/12, EU:C:2013:833, paragraph and the case-law cited).
+However, the Court has also held that the objective pursued by Regulation No 469/is not to compensate the holder fully for the delay to the marketing of his invention or to compensate for such delay in connection with the marketing of that invention in all its possible commercial forms, including in the form of combinations based on the same active ingredient (see, to that effect, judgment in Actavis Group PTC and Actavis UK, EU:C:2013:833, paragraph 40).
+In the light of the need, referred to, inter alia, in recital in the preamble to Regulation No 469/2009, to take into account all the interests at stake, including those of public health, if it were accepted that all subsequent marketing of an active ingredient in conjunction with an unlimited number of other active ingredients which do not constitute the subject-matter of the invention covered by the basic patent would confer entitlement to multiple SPCs, that would be contrary to the requirement to balance the interests of the pharmaceutical industry and those of public health as regards the encouragement of research within the European Union by the use of SPCs (see, to that effect, judgment in Actavis Group PTC and Actavis UK, EU:C:2013:833, paragraph 41).
+Accordingly, in view of the interests referred to in recitals 4, 5, and in the preamble to Directive 469/2009, it cannot be accepted that the holder of a basic patent in force may obtain a new SPC, potentially for a longer period of protection, each time he places on the market in a Member State a medicinal product containing, on the one hand, an active ingredient, protected as such by the holder’s basic patent and constituting the subject-matter of the invention covered by that patent, and, on the other, another substance which does not constitute the subject-matter of the invention covered by the basic patent (see, to that effect, judgment in Actavis Group PTC and Actavis UK, EU:C:2013:833, paragraph 30).
+It follows that, in order for a basic patent to protect ‘as such’ an active ingredient within the meaning of Articles 1(c) and 3(a) of Regulation No 469/2009, that active ingredient must constitute the subject-matter of the invention covered by that patent.
+In the light of the foregoing considerations, the answer to Questions and is that Article 3(a) and (c) of Regulation No 469/must be interpreted as meaning that, where a basic patent includes a claim to a product comprising an active ingredient which constitutes the sole subject-matter of the invention, for which the holder of that patent has already obtained an SPC, as well as a subsequent claim to a product comprising a combination of that active ingredient and another substance, that provision precludes the holder from obtaining a second SPC for that combination.
+Given that, in the main proceedings, the combination SPC cannot be regarded as an SPC granted in accordance with Regulation No 469/2009, there is no need to answer the last part of the third questioning, concerning the interpretation of Article of the regulation, which determines the duration of an SPC.
+Questions and In view of the answer given to Questions and 3, from which it is apparent that a second SPC, such as that at issue in the main proceedings, should not have been granted to Boehringer for the telmisartan-hydrochlorothiazide combination, irrespective of whether a new claim to hydrochlorothiazide was added to the basic patent after it had been granted, following a recommendation by the UK IPO, there is no need to answer Questions and 4.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+Article 3(a) and (c) of Regulation (EC) No 469/of the European Parliament and of the Council of May concerning the supplementary protection certificate for medicinal products must be interpreted as meaning that, where a basic patent includes a claim to a product comprising an active ingredient which constitutes the sole subject-matter of the invention, for which the holder of that patent has already obtained a supplementary protection certificate, as well as a subsequent claim to a product comprising a combination of that active ingredient and another substance, that provision precludes the holder from obtaining a second supplementary protection certificate for that combination.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

@@ -1,0 +1,178 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+March (
+*)
+‛Appeal — Regulation (EC) No 1907/(REACH Regulation) — Article 57(f) — Authorisation — Substances of very high concern — Identification — Equivalent level of concern — Cyclohexane-1,2-dicarboxylic anhydride, cis-cyclohexane-1,2-dicarboxylic anhydride and trans-cyclohexane-1,2-dicarboxylic anhydride’
+In Case C‑323/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on June 2015,
+Polynt SpA, established in Scanzorosciate (Italy), represented by C. Mereu and M. Grunchard, avocats,
+appellant,
+supported by
+New Japan Chemical, established in Osaka (Japan), represented by C. Mereu and M. Grunchard, avocats,
+REACh ChemAdvice GmbH, established in Kelkheim (Germany), represented by C. Mereu and M. Grunchard, avocats,
+interveners at first instance,
+the other parties to the proceedings being:
+Sitre Srl, established in Milan (Italy), represented by C. Mereu and M. Grunchard, avocats,
+applicant at first instance,
+European Chemicals Agency (ECHA), represented by M. Heikkilä, C. Buchanan, W. Broere and T. Zbihlej, acting as Agents, and J. Stuyck, advocaat,
+defendant at first instance,
+supported by
+Kingdom of the Netherlands, represented by C. Schillemans and M. Bulterman, acting as Agents,
+European Commission, represented by D. Kukovec and K. Mifsud-Bonnici, acting as Agents,
+interveners at first instance,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, E. Regan, J.-C. Bonichot, A. Arabadjiev and C.G. Fernlund (Rapporteur), Judges,
+Advocate General: P. Mengozzi,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on June 2016,
+after hearing the Opinion of the Advocate General at the sitting on September 2016,
+gives the following
+Judgment
+By its appeal, Polynt seeks to have set aside the judgment of the General Court of the European Union of April 2015, Polynt and Sitre v ECHA (T‑134/13, not published, ‘the judgment under appeal’, EU:T:2015:254) by which the General Court dismissed its action seeking the annulment in part of Decision ED/169/of the European Chemicals Agency (ECHA) of December concerning the inclusion of substances of very high concern in the list of candidate substances (‘the decision at issue’), in accordance with Article of Regulation (EC) No 1907/of the European Parliament and of the Council of December concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/and Commission Regulation (EC) No 1488/as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, p. 1, and corrigendum OJ L 136, p. 3), as amended by Regulation (EC) No 1272/of the European Parliament and of the Council of December (OJ L 353, p. 1) (‘the REACH Regulation’), in so far as it concerns cyclohexane-1,2-dicarboxylic anhydride (EC No 201-604-9), cis-cyclohexane-1,2-dicarboxylic anhydride (EC No 236-086-3) and trans-cyclohexane-1,2-dicarboxylic anhydride (EC No 238-009-9) (together, ‘HHPA’).
+Legal framework
+Article of the REACH Regulation, entitled ‘Substances to be included in Annex XIV’, provides:
+‘The following substances may be included in Annex XIV in accordance with the procedure laid down in Article 58:
+(a)
+substances meeting the criteria for classification in the hazard class carcinogenicity category 1A or 1B in accordance with section 3.of Annex I to Regulation (EC) No 1272/2008;
+(b)
+substances meeting the criteria for classification in the hazard class germ cell mutagenicity category 1A or 1B in accordance with section 3.of Annex I to Regulation (EC) No 1272/2008;
+(c)
+substances meeting the criteria for classification in the hazard class reproductive toxicity category 1A or 1B, adverse effects on sexual function and fertility or on development in accordance with section 3.of Annex I to Regulation (EC) No 1272/2008;
+(d)
+substances which are persistent, bioaccumulative and toxic in accordance with the criteria set out in Annex XIII of this Regulation;
+(e)
+substances which are very persistent and very bioaccumulative in accordance with the criteria set out in Annex XIII of this Regulation;
+(f)
+substances – such as those having endocrine disrupting properties or those having persistent, bioaccumulative and toxic properties or very persistent and very bioaccumulative properties, which do not fulfil the criteria of points (d) or (e) – for which there is scientific evidence of probable serious effects to human health or the environment which give rise to an equivalent level of concern to those of other substances listed in points (a) to (e) and which are identified on a case-by-case basis in accordance with the procedure set out in Article 59.’
+Article of the REACH Regulation, entitled ‘Inclusion of substances in Annex XIV’, states:
+‘...
+5.   Subject to paragraph 6, after inclusion of a substance in Annex XIV, this substance shall not be subjected to new restrictions under the procedure outlined in Title VIII covering the risks to human health or the environment from the use of the substance on its own, in a mixture or incorporation of a substance in an article arising from the intrinsic properties specified in Annex XIV.
+6.   A substance listed in Annex XIV may be subjected to new restrictions under the procedure outlined in Title VIII covering the risks to human health or the environment from the presence of the substance in (an) article(s).
+7.   Substances for which all uses have been prohibited under Title VIII or by other Community legislation shall not be included in Annex XIV or shall be removed from it.
+8.   Substances which as a result of new information no longer meet the criteria of Article shall be removed from Annex XIV in accordance with the procedure referred to in Article 133(4).’
+Article of the REACH Regulation, entitled ‘Identification of substances referred to in Article 57’, provides:
+‘1.   The procedure set out in paragraphs to of this Article shall apply for the purpose of identifying substances meeting the criteria referred to in Article and establishing a candidate list for eventual inclusion in Annex XIV. ...
+...
+3.   Any Member State may prepare a dossier in accordance with Annex XV for substances which in its opinion meet the criteria set out in Article and forward it to the Agency. ...
+...
+7.   When comments are made or received, the Agency shall refer the dossier to the Member State Committee within days of the end of the 60-day period referred to in paragraph 5.
+8.   If, within days of the referral, the Member State Committee reaches a unanimous agreement on the identification, the Agency shall include the substance in the list referred to in paragraph 1. The Agency may include that substance in its recommendations under Article 58(3).
+9.   If the Member State Committee fails to reach a unanimous agreement, the Commission shall prepare a draft proposal on the identification of the substance within three months of receipt of the opinion of the Member State Committee. A final decision on the identification of the substance shall be taken in accordance with the procedure referred to in Article 133(3).
+10.   The Agency shall publish and update the list referred to in paragraph on its website without delay after a decision on inclusion of a substance has been taken.’
+Article of the REACH Regulation, entitled ‘Granting of authorisations’, is worded as follows:
+‘1.   The Commission shall be responsible for taking decisions on applications for authorisations in accordance with this Title.
+2.   Without prejudice to paragraph 3, an authorisation shall be granted if the risk to human health or the environment from the use of a substance arising from the intrinsic properties specified in Annex XIV is adequately controlled in accordance with Section 6.of Annex I and as documented in the applicant’s chemical safety report, taking into account the opinion of the Committee for Risk Assessment referred to in Article 64(4)(a). When granting the authorisation, and in any conditions imposed therein, the Commission shall take into account all discharges, emissions and losses, including risks arising from diffuse or dispersive uses, known at the time of the decision.
+The Commission shall not consider the risks to human health arising from the use of a substance in a medical device regulated by Council Directive 90/385/EEC of June on the approximation of the laws of the Member States relating to active implantable medical devices, Council Directive 93/42/EEC of June concerning medical devices or Directive 98/79/EC of the European Parliament and of the Council of October on in vitro diagnostic medical devices.
+3.   Paragraph shall not apply to:
+(a)
+substances meeting the criteria in Article 57(a), (b), (c) or (f) for which it is not possible to determine a threshold in accordance with Section 6.of Annex I;
+(b)
+substances meeting the criteria in Article 57(d) or (e);
+(c)
+substances identified under Article 57(f) having persistent, bioaccumulative and toxic properties or very persistent and very bioaccumulative properties.
+4.   If an authorisation cannot be granted under paragraph or for substances listed in paragraph 3, an authorisation may only be granted if it is shown that socio-economic benefits outweigh the risk to human health or the environment arising from the use of the substance and if there are no suitable alternative substances or technologies. ...’
+Background to the dispute
+It is clear from paragraphs to of the judgment under appeal that HHPA is a cyclic acid anhydride. That substance is intended for industrial uses, as an intermediate or monomer, as well as for the manufacture of articles or intermediates in the manufacture of polymer resins. HHPA is classified among the category respiratory sensitisers, which may cause allergy or asthma symptoms or breathing difficulties if inhaled, under Table 3.of Part of Annex VI to Regulation (EC) No 1272/of the European Parliament and of the Council of December on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation No 1907/(OJ L 353, p. 1).
+Paragraph of the judgment under appeal states that, on August 2012, the Kingdom of the Netherlands sent to the ECHA a dossier proposing that HHPA be identified as a substance of very high concern and included in Annex XIV to the REACH Regulation.
+On completion of the procedure laid down in Article of the REACH Regulation, the ECHA adopted the decision at issue, by which it identified HHPA as a substance meeting the criteria set out in Article 57(f) of that regulation.
+The procedure before the General Court and the judgment under appeal
+By application lodged at the General Court Registry on February 2013, Polynt brought an action for annulment in part of the decision at issue and for the ECHA to be ordered to pay the costs.
+By orders of September 2013, the Kingdom of the Netherlands and the Commission were granted leave to intervene in support of the ECHA.
+By the judgment under appeal, the General Court dismissed the action and ordered Polynt to pay the costs.
+Forms of order sought
+Polynt claims that the Court of Justice should:
+—
+set aside the judgment under appeal and annul the decision at issue;
+—
+in the alternative, set aside the judgment under appeal and refer the case back to the General Court for a ruling on its action for annulment;
+—
+order the ECHA to pay the costs incurred in respect of the proceedings before the General Court and the Court of Justice.
+The ECHA contends that the Court of Justice should:
+—
+dismiss the appeal and
+—
+order Polynt to pay the costs incurred in respect of the proceedings before the Court of Justice and before the General Court.
+The Commission contends that the Court of Justice should dismiss the appeal and order Polynt to pay the costs.
+The appeal
+First to third grounds of appeal, alleging errors of interpretation and application of Article 57(f) of the REACH Regulation
+Arguments of the parties
+Polynt claims that paragraph of the judgment under appeal states that the ECHA is not required to take a risk assessment into consideration whereas, in paragraph of that judgment, the contrary is stated. That contradiction led the General Court to misinterpret and misapply Article 57(f) of the REACH Regulation.
+In paragraph of that judgment, the General Court rejected Polynt’s line of argument relating to the need to take into consideration, amongst other things, existing risk management measures, on the ground that the intrinsic properties are sufficient to justify the identification of a substance as being of very high concern. Polynt disputes that interpretation of Article 57(f) of the REACH Regulation.
+Polynt claims that, contrary to what the General Court held in paragraphs and of the judgment under appeal, it is not apparent from Article 60(2) of the REACH Regulation that the fact that the negative effects associated with the use of a substance can be controlled adequately does not preclude its identification as a substance of very high concern. The General Court’s interpretation is contrary to the ‘Guidance for the preparation of an Annex XV dossier on the identification of substances of very high concern’, in the version applicable at the time of the decision at issue and mentioned in paragraph of the judgment under appeal.
+The ECHA and the Commission contend that the reasoning in the judgment under appeal is not contradictory. The General Court correctly applied the judgment of July 2011, Etimine (C‑15/10, EU:C:2011:504), in holding, in paragraph of the judgment under appeal, that Article 57(f) of the REACH Regulation does not require a risk assessment to be carried out. According to that agency, only an assessment of the hazards arising from the intrinsic properties of a substance is necessary. The ECHA and the Commission add that, since it was not possible to establish a Derived No-Effect Level for HHPA, it was not possible to carry out a normal risk assessment for that substance.
+The ECHA and the Commission submit that the General Court was fully entitled to hold that if substances the uses of which can be controlled could not be identified as being of very high concern and included in Annex XIV to the REACH Regulation, then Article 60(2) of that regulation would be deprived of any meaning.
+Findings of the Court
+In determining whether, as Polynt claims, the General Court erred in law by holding, in paragraphs 61, 68, and of the judgment under appeal, that Article 57(f) of the REACH Regulation requires an analysis of the intrinsic properties of the substances concerned, to the exclusion of any consideration of data relating to human exposure reflecting the risk management measures in force, it must be recalled that, under Article 1(1) of the REACH Regulation, the purpose of that regulation is to ensure a high level of protection of human health and the environment, including the promotion of alternative methods for assessment of hazards of substances, as well as the free circulation of substances on the internal market while enhancing competitiveness and innovation. To that end, that regulation introduces an integrated system for monitoring chemical substances, including registration, evaluation and authorisation, together with possible restrictions on their use.
+As made clear, inter alia, in recitals and of the REACH Regulation, that regulation makes substances ‘of very high concern’ subject to careful attention. Those substances are thus subject to the authorisation regime laid down in Title VII of that regulation. Article of that regulation states that the aim of the authorisation regime is ‘to ensure the good functioning of the internal market while assuring that the risks from substances of very high concern are properly controlled and that these substances are progressively replaced by suitable alternative substances or technologies where these are economically and technically viable’.
+The first stage under those authorisation arrangements is the procedure for identifying substances of very high concern on the basis of the criteria set out in Article of the REACH Regulation. The second stage is the inclusion of those substances on the list of substances subject to authorisation set out in Annex XIV to that regulation, and the third and final stage concerns the procedure that leads, if appropriate, to the authorisation of a substance of very high concern.
+For the purpose of identifying the substances that may be included on the list of substances subject to authorisation set out in Annex XIV to the REACH Regulation, Article of that regulation provides for several situations.
+Article 57(a) to (c) of that regulation covers, first of all, substances meeting the criteria for classification in the hazard class carcinogenicity, mutagenicity or reproductive toxicity (‘CMR’) category 1A or 1B, in accordance with sections 3.to 3.of Annex I to Regulation No 1272/2008. Next, Article 57(d) and (e) covers substances which are persistent, bioaccumulative and toxic (‘PBT’) and those which are very persistent and very bioaccumulative (‘vPvB’), in accordance with the criteria set out in Annex XIII to the REACH Regulation. Those criteria are based on the assessment of the hazards presented by those substances. Lastly, Article 57(f) of that regulation covers all other substances which do not fulfil any of the foregoing criteria but ‘for which there is scientific evidence of probable serious effects to human health or the environment which give rise to an equivalent level of concern to those of other substances listed in points (a) to (e), and which are identified on a case-by-case basis in accordance with the procedure set out in Article 59’.
+It is thus clear from its wording that Article of the REACH Regulation does not require, in respect of the substances concerned, a risk assessment to be carried out analogous to that required, in the context of the evaluation procedure, under section of Annex I to that regulation, or, in the context of the authorisation procedure, under Article 64(4) thereof, or, as regards the restriction procedure, under Article of that regulation. It is clear, furthermore, that Article provides, at point (f), for an independent mechanism that makes it possible to identify, as being of very high concern, substances which have not already been designated as such under that provision.
+Article 57(f) of the REACH Regulation requires, as regards the identification of substances other than those meeting the criteria for CMR, PBT or vPvB classification, that it be established, on a case-by-case basis, on the basis of scientific evidence, first, that it is probable that the substances concerned have serious effects on human health or the environment, and, second, that those effects ‘give rise to an equivalent level of concern to those of [CMR, PBT or vPvB substances]’. Those conditions are cumulative, so that the identification of a substance as being of very high concern must be rejected if either of those conditions is not met.
+As regards the first condition, that condition requires that the effects of the substance on human health or the environment are capable of being regarded as ‘serious’, on account of, for example, their significance or their irreversible nature. The examination of that condition is based on an assessment of the hazards to human health or to the environment, on the basis of the information in the relevant parts of sections to of Annex I to the REACH Regulation, as stated in section of Annex XV to that regulation. It is therefore clear that that first condition laid down in Article 57(f) of that regulation requires an analysis of the hazards arising from the intrinsic properties of the substance under consideration.
+In this connection, the classification of a substance under Annex I to Regulation No 1272/constitutes a relevant, but not decisive, element. Where a substance falls within one of the hazard classes in respect of human health or the environment provided for in that regulation, that circumstance may be sufficient to show the probability of ‘serious effects to human health or the environment’. As the Advocate General has stated in points and of his Opinion, inclusion in a hazard class is nevertheless neither a necessary condition, nor a sufficient condition in this regard.
+Indeed, it follows from the structure of Article of the REACH Regulation that, first, the EU legislature considered that not all substances of very high concern necessarily fall within the hazard classes set out in Annex I to Regulation No 1272/2008. Thus, the scope of Article 57(f) expressly encompasses endocrine disruptors, even though that type of effect does not fall within any hazard class listed in that annex.
+Second, the EU legislature considered that not all hazard classes provided for in Annex I to Regulation No 1272/are necessarily of very high concern. Consequently, the fact that it did not provide that all respiratory sensitisers are, as in the case of CMR substances, to be regarded as being of very high concern, even though those substances fall within such a hazard class, shows that the intention of the EU legislature is to reserve the authorisation procedure to certain substances only, on the basis of a case-by-case analysis, and not to apply it to all substances classed as hazardous to health or to the environment.
+As regards the second condition laid down in Article 57(f) of the REACH Regulation, there must be scientific evidence that those effects ‘give rise to an equivalent level of concern’ to those of CMR, PBT or vPvB substances.
+In this connection, it must be noted that Article 57(f) of the REACH Regulation does not lay down any criterion and does not provide any clarification as regards the nature of the concerns that may be taken into consideration for the purposes of identifying a substance other than CMR, PBT or vPvB. In those circumstances, it is necessary to determine whether, as Polynt claims, the General Court erred in law in holding that the concept of ‘concern’, used in Article 57(f) of that regulation, is restricted to the examination of, solely, the hazards arising from the intrinsic properties of the substances concerned, to the exclusion of any other consideration.
+It should be observed that, if that had been the intention of the EU legislature, it would have been sufficient for it to provide, in Article 57(f) of the REACH Regulation, for example, that substances for which there is scientific evidence of probable ‘serious effects equivalent’ to those of CMR, PBT or vPvB substances or ‘effects of an equivalent seriousness’ to those of those substances may be identified as being of very high concern.
+However, it is clear from the wording of Article 57(f) of the REACH Regulation, which states that the identification of substances other than CMR, PBT or vPvB is possible only in the case of substances the serious effects of which give rise to ‘an equivalent level of concern’ to those of CMR, PBT or vPvB substances, that the scope of that provision encompasses the possibility of taking into consideration, for the purposes of comparison, material going beyond merely the hazards arising from the intrinsic properties of the substances concerned.
+In this connection, it should be stated that the application of the authorisation procedure presupposes that the criteria set out in Article of the REACH Regulation have already been fulfilled. Once a substance has been identified as being of very high concern, it falls within the scope of the authorisation procedure, although its formal inclusion on the list of substances subject to authorisation may be deferred depending on the degree of priority granted by the ECHA, in accordance with Article of that regulation.
+For a substance that does not fall within the CMR, PBT or vPvB hazard categories specifically identified by the legislature as being of very high concern, its identification as such under Article 57(f) of the REACH Regulation, on account of a level of concern equivalent to those of CMR, PBT or vPvB substances, also involves ensuring that, amongst the different regimes established by that regulation, authorisation is necessary in order to succeed in controlling the risks arising from the use of that substance. Such a decision requires a range of factors to be taken into consideration, wider than those relevant for the purposes of a simple technical exercise to categorise the effects or intrinsic properties of a substance.
+In this connection, it must be recalled that, as regards hazards to human health, CMR substances are the only ones identified as being of very high concern, and therefore subject to the authorisation regime, solely on the basis of their classification under Annex I to Regulation No 1272/2008. It is clear from the travaux préparatoires that led to the adoption of the REACH Regulation, in particular, from point 1.of the proposal for a Regulation of the European Parliament and of the Council (SEC(2003) final), that that treatment is justified ‘because the effects of CMRs categories and on humans are generally so serious and cannot normally be reversed so that such effects have to be prevented rather than remedied’.
+The EU legislature therefore considered that, by their nature, the effects of those substances on human health give rise to concerns of such a level that differentiating them from all other substances, including those falling within other hazard classes that may result in death or other irreversible effects, is justified. In response to the Court’s written questions, the ECHA and the Commission thus explained that the level of concern to which CMR substances give rise derives not only from the seriousness of their, often irreversible, effects, but also from the consequences of those effects for society and the difficulties in carrying out an assessment of their risks based on the determination of an effects threshold.
+Those considerations show that the REACH Regulation seeks to reserve the authorisation procedure to certain substances, identified as being of very high concern, not only on account of the seriousness of their dangerous effects on health or on the environment, but also having regard to other factors. The latter may include, apart from the probability that the serious effects of a substance may occur under the normal conditions of use of that substance, the difficulty of adequately assessing the risks posed by those substances when it is impossible to determine, with the necessary certainty, a derived no-effect level or a predicted no-effect concentration, or indeed the level of concern that those substances engender in the public, the number of persons affected, and the impact of those effects on the lives, and in particular, the professional lives, of the persons affected.
+By providing that substances may be identified, on a case-by-case basis, if their serious effects on human health give rise to ‘an equivalent level of concern’ to those of CMR substances, Article 57(f) of the REACH Regulation therefore does not prohibit the taking into consideration of data other than those relating to the hazards arising from the intrinsic properties of the substances concerned.
+Contrary to what the ECHA and the Commission maintain, in the context of the examination of the second condition laid down in Article 57(f) of the REACH Regulation, taking data relating to human exposure reflecting the risk management measures in force into consideration, where they exist, does not result in rendering the identification of a substance as being of very high concern impossible, nor does it deprive Article 60(2) of that regulation of any meaning. Taking such data into consideration makes it possible to refine, for substances other than CMR, PBT or vPvB, the material on the basis of which recourse to the authorisation procedure appears, in the light of all the data available, to be the most appropriate course, having regard to the concerns to which their serious effects on health or on the environment give rise.
+It should be pointed out that those data are required, in any event, in the context of the identification procedure under Annex XV of the REACH Regulation. Section of that annex, under the heading ‘Information on exposures, alternative substances and risks’ states that ‘the available use and exposure information and information on alternative substances and techniques shall be provided’.
+Furthermore, the ECHA document entitled ‘Guidance for the preparation of an Annex XV dossier on the identification of substances of very high concern’, referred to in paragraph of the judgment under appeal, which is intended to provide technical guidance to the Member States and to the ECHA on the preparation of dossiers submitted in support of proposals for the identification of substances of very high concern in accordance with the procedure set out in Article of the REACH Regulation, also highlights the fact, in section 3.3.3.2, that Article 57(f) of the REACH Regulation does not prohibit the taking into consideration of data other than those relating to the hazards arising from the intrinsic properties of the substances concerned.
+Therefore, the General Court erred in law in holding, in essence, that Article 57(f) of the REACH Regulation excludes, in principle, any consideration of data other than those relating to the hazards arising from the intrinsic properties of the substances concerned, such as those relating to human exposure reflecting the risk management measures in force.
+It should be observed, however, that that error of law is not capable of resulting in the judgment under appeal being set aside. Notwithstanding that misinterpretation of Article 57(f) of the REACH Regulation, the General Court nevertheless examined, in paragraphs and 60, to 77, and 82, and of the judgment under appeal, the data relied on in that regard by the applicants, finding that they were inconclusive.
+In this connection, it must be recalled that it is for the General Court alone to assess the value which should be attached to the evidence produced before it. Save where the clear sense of the evidence has been distorted, that assessment does not therefore constitute a point of law which is subject as such to review by the Court of Justice.
+Since those factual assessments are not subject to review by the Court in an appeal and since Polynt did not claim that the evidence on which they were based was distorted, it follows that the first to third grounds of appeal must be rejected as ineffective.
+Fourth ground of appeal, alleging error of law in the assessment of the arguments relating to the absence of consumer or worker exposure to the substance, leading to misapplication of Article 57(f) of the REACH Regulation
+Arguments of the parties
+Polynt criticises the grounds on which the General Court rejected its line of argument in relation to the absence of a risk of consumer or worker exposure to HHPA as a result of risk management measures and applicable legal provisions, by finding, in paragraph of the judgment under appeal, that it is not possible completely to exclude exposure to that substance. It claims that that ground, which Polynt criticised at the hearing as similar to a ‘probatio diabolica’, departs from the settled case-law that ‘zero risk’ does not exist in the context of a risk assessment which applies the precautionary principle (judgment of September 2002, Pfizer Animal Health v Council, T‑13/99, EU:T:2002:209, paragraph 145).
+The ECHA and the Commission contend that the fourth ground of appeal should be rejected.
+Findings of the Court
+In paragraph of the judgment under appeal, the General Court observed, first, that the applicants had accepted that it was not possible completely to exclude human exposure to HHPA, since small quantities of unreacted HHPA could still be present in the final article intended for consumers, and, second, recalled various findings made in that regard by the ECHA in the support document referred to in paragraph of the judgment under appeal, in particular, the fact that exposure to HHPA causes respiratory health problems for workers, even at relatively low exposure levels.
+Contrary to what Polynt claims, the General Court did not require proof of ‘zero risk’. Paragraph of the judgment under appeal, which must be read in context, merely sets out certain findings of a factual nature and refers back to the relevant sections of the ECHA’s support document.
+Since Polynt has not claimed that the findings of fact so made by the General Court are substantively incorrect, or that the evidence to which the General Court referred was distorted, it must be concluded that the fourth ground of appeal is directed against findings of a factual nature which fall exclusively within the jurisdiction of the General Court.
+The fourth ground of appeal must therefore be rejected as being inadmissible.
+It follows from all the foregoing considerations that the appeal must be dismissed in its entirety.
+Costs
+Under Article 184(2) of the Rules of Procedure of the Court of Justice, where the appeal is unfounded the Court is to make a decision as to costs. Under Article 138(1) of those rules, applicable to the procedure on appeal by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings.
+Article 140(1) of the Rules of Procedure, which is applicable to the procedure on appeal by virtue of Article 184(1) thereof, provides that the Member States and institutions which have intervened in the proceedings are to bear their own costs.
+Under Article 184(4) of those Rules of Procedure, the Court of Justice may decide that an intervener at first instance who has taken part in the written or oral part of the proceedings before the Court is to bear his own costs.
+Since the ECHA has applied for costs to be awarded against Polynt and the latter has been unsuccessful, Polynt must be ordered to pay the costs.
+The Kingdom of the Netherlands and the Commission, interveners at first instance, are to bear their own costs.
+New Japan Chemical and REACh ChemAdvice, interveners at first instance, are to bear their own costs.
+ 
+On those grounds, the Court (First Chamber) hereby:
+ 
+1.
+Dismisses the appeal;
+ 
+2.
+Orders Polynt SpA to bear its own costs and to pay those incurred by the European Chemicals Agency (ECHA);
+ 
+3.
+Orders the Kingdom of the Netherlands and the European Commission to bear their own costs;
+ 
+4.
+Orders New Japan Chemical and REACh ChemAdvice GmbH to bear their own costs.
+ 
+Silva de Lapuerta
+Regan
+Bonichot
+Arabadjiev
+Fernlund
+Delivered in open court in Luxembourg on March 2017.
+A. Calot Escobar
+Registrar
+R. Silva de Lapuerta
+President of the First Chamber
+(
+*)	Language of the case: English.
+Top  
+ 

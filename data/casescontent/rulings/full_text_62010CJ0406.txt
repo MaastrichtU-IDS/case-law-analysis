@@ -1,0 +1,258 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+May (
+*)
+‛Intellectual property — Directive 91/250/EEC — Legal protection of computer programs — Articles 1(2) and 5(3) — Scope of protection — Creation directly or via another process — Computer program protected by copyright — Reproduction of the functions by a second program without access to the source code of the first program — Decompilation of the object code of the first computer program — Directive 2001/29/EC — Copyright and related rights in the information society — Article 2(a) — User manual for a computer program — Reproduction in another computer program — Infringement of copyright — Condition — Expression of the intellectual creation of the author of the user manual’
+In Case C-406/10,
+REFERENCE for a preliminary ruling under Article TFEU from the High Court of Justice of England and Wales, Chancery Division (United Kingdom), made by decision of August 2010, received at the Court on August 2010, in the proceedings
+SAS Institute Inc.
+v
+World Programming Ltd,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, A. Tizzano, J.N. Cunha Rodrigues, K. Lenaerts, J.-C. Bonichot, A. Prechal, Presidents of Chambers, R. Silva de Lapuerta, K. Schiemann, G. Arestis (Rapporteur), A. Ó Caoimh, L. Bay Larsen, M. Berger and E. Jarašiūnas, Judges,
+Advocate General: Y. Bot,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on September 2011,
+after considering the observations submitted on behalf of:
+—
+SAS Institute Inc., by H.J. Carr QC, and M. Hicks and J. Irvine, Barristers,
+—
+World Programming Ltd, by M. Howe QC, R. Onslow and I. Jamal, Barristers, instructed by A. Carter-Silk, Solicitor,
+—
+the Spanish Government, by N. Díaz Abad, acting as Agent,
+—
+the Finnish Government, by H. Leppo, acting as Agent,
+—
+the Government of the United Kingdom, by L. Seeboruth and C. Murrell, acting as Agents, and by S. Malynicz, Barrister,
+—
+the European Commission, by J. Samnadda, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on November 2011,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles 1(2) and 5(3) of Council Directive 91/250/EEC of May on the legal protection of computer programs (OJ L 122, p. 42), and of Article 2(a) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167, p. 10).
+The reference has been made in proceedings between SAS Institute Inc. (‘SAS Institute’) and World Programming Ltd (‘WPL’) concerning an action for infringement brought by SAS Institute for infringement of copyright in computer programs and manuals relating to its computer database system.
+Legal context
+International legislation
+Article 2(1) of the Convention for the Protection of Literary and Artistic Works, signed at Berne on September (Paris Act of July 1971), as amended on September (‘the Berne Convention’) provides:
+‘The expression “literary and artistic works” shall include every production in the literary … domain, whatever may be the mode or form of its expression …’
+Article of the Agreement on Trade-Related Aspects of Intellectual Property Rights (‘the TRIPs Agreement’), as set out in Annex 1C to the Marrakech Agreement establishing the World Trade Organisation, which was approved by Council Decision 94/800/EC of December concerning the conclusion on behalf of the European Community, as regards matters within its competence, of the agreements reached in the Uruguay Round multilateral negotiations (1986-1994) (OJ L 336, p. 1), provides:
+‘1.   Members shall comply with Articles through of the [Berne Convention] and the Appendix thereto …
+2.   Copyright protection shall extend to expressions and not to ideas, procedures, methods of operation or mathematical concepts as such.’
+Article 10(1) of the TRIPs Agreement provides:
+‘Computer programs, whether in source or object code, shall be protected as literary works under the [Berne Convention].’
+Article of the World Intellectual Property Organisation (WIPO) Copyright Treaty, adopted in Geneva on December 1996, which entered into force, as regards the European Union, on March (OJ L 32, p. 1), is worded as follows:
+‘Copyright protection extends to expressions and not to ideas, procedures, methods of operation or mathematical concepts as such.’
+Article of that treaty provides as follows:
+‘Computer programs are protected as literary works within the meaning of Article of the Berne Convention. Such protection applies to computer programs, whatever may be the mode or form of their expression.’
+European Union legislation
+Directive 91/The 3rd, 7th, 8th, 14th, 15th, 17th, 18th, 21st and 23rd recitals in the preamble to Directive 91/provide:
+‘(3)
+… computer programs are playing an increasingly important role in a broad range of industries and computer program technology can accordingly be considered as being of fundamental importance for the Community’s industrial development;
+...
+(7)
+… for the purpose of this Directive, the term “computer program” shall include programs in any form, including those which are incorporated into hardware; … this term also includes preparatory design work leading to the development of a computer program, provided that the nature of the preparatory work is such that a computer program can result from it at a later stage;
+(8)
+… in respect of the criteria to be applied in determining whether or not a computer program is an original work, no tests as to the qualitative or aesthetic merits of the program should be applied;
+…
+(14)
+… in accordance with [the principle that only the expression of a computer program is protected by copyright], to the extent that logic, algorithms and programming languages comprise ideas and principles, those ideas and principles are not protected under this Directive;
+(15)
+… in accordance with the legislation and jurisprudence of the Member States and the international copyright conventions, the expression of those ideas and principles is to be protected by copyright;
+…
+(17)
+… the exclusive rights of the author to prevent the unauthorised reproduction of his work have to be subject to a limited exception in the case of a computer program to allow the reproduction technically necessary for the use of that program by the lawful acquirer; … this means that the acts of loading and running necessary for the use of a copy of a program which has been lawfully acquired, and the act of correction of its errors, may not be prohibited by contract; … in the absence of specific contractual provisions, including when a copy of the program has been sold, any other act necessary for the use of the copy of a program may be performed in accordance with its intended purpose by a lawful acquirer of that copy;
+(18)
+… a person having a right to use a computer program should not be prevented from performing acts necessary to observe, study or test the functioning of the program, provided that these acts do not infringe the copyright in the program;
+…
+(21)
+… it has therefore to be considered that, in these limited circumstances only, performance of the acts of reproduction and translation by or on behalf of a person having a right to use a copy of the program is legitimate and compatible with fair practice and must therefore be deemed not to require the authorisation of the rightholder;
+…
+(23)
+… such an exception to the author’s exclusive rights may not be used in a way which prejudices the legitimate interests of the rightholder or which conflicts with a normal exploitation of the program’.
+Under the heading ‘Object of protection’, Article of Directive 91/provides:
+‘1.   In accordance with the provisions of this Directive, Member States shall protect computer programs, by copyright, as literary works within the meaning of the Berne Convention for the Protection of Literary and Artistic Works. For the purposes of this Directive, the term “computer programs” shall include their preparatory design material.
+2.   Protection in accordance with this Directive shall apply to the expression in any form of a computer program. Ideas and principles which underlie any element of a computer program, including those which underlie its interfaces, are not protected by copyright under this Directive.
+3.   A computer program shall be protected if it is original in the sense that it is the author’s own intellectual creation. No other criteria shall be applied to determine its eligibility for protection.’
+Paragraphs (a) and (b) of Article of that directive, headed ‘Restricted Acts’, provide:
+‘Subject to the provisions of Articles and 6, the exclusive rights of the rightholder, within the meaning of Article 2, shall include the right to do or to authorise:
+(a)
+the permanent or temporary reproduction of a computer program by any means and in any form, in part or in whole. In so far as loading, displaying, running, transmission or storage of the computer program necessitate such reproduction, such acts shall be subject to authorisation by the rightholder;
+(b)
+the translation, adaptation, arrangement and any other alteration of a computer program and the reproduction of the results thereof, without prejudice to the rights of the person who alters the program’.
+Article of Directive 91/250, which provides for exceptions to the restricted acts, reads as follows:
+‘1.   In the absence of specific contractual provisions, the acts referred to in Article 4(a) and (b) shall not require authorisation by the rightholder where they are necessary for the use of the computer program by the lawful acquirer in accordance with its intended purpose, including for error correction.
+…
+3.   The person having a right to use a copy of a computer program shall be entitled, without the authorisation of the rightholder, to observe, study or test the functioning of the program in order to determine the ideas and principles which underlie any element of the program if he does so while performing any of the acts of loading, displaying, running, transmitting or storing the program which he is entitled to do.’
+Article of that directive, relating to decompilation, states:
+‘1.   The authorisation of the rightholder shall not be required where reproduction of the code and translation of its form within the meaning of Article 4(a) and (b) are indispensable to obtain the information necessary to achieve the interoperability of an independently created computer program with other programs, provided that the following conditions are met:
+(a)
+these acts are performed by the licensee or by another person having a right to use a copy of a program, or on their behalf by a person authorised to do so;
+(b)
+the information necessary to achieve interoperability has not previously been readily available to the persons referred to in subparagraph (a);
+and
+(c)
+these acts are confined to the parts of the original program which are necessary to achieve interoperability.
+2.   The provisions of paragraph shall not permit the information obtained through its application:
+(a)
+to be used for goals other than to achieve the interoperability of the independently created computer program;
+(b)
+to be given to others, except when necessary for the interoperability of the independently created computer program; or
+(c)
+to be used for the development, production or marketing of a computer program substantially similar in its expression, or for any other act which infringes copyright.
+3.   In accordance with the provisions of the Berne Convention for the Protection of Literary and Artistic Works, the provisions of this Article may not be interpreted in such a way as to allow its application to be used in a manner which unreasonably prejudices the rightholder’s legitimate interests or conflicts with a normal exploitation of the computer program.’
+Pursuant to Article of Directive 91/250, the provisions of that directive are without prejudice to any other legal provisions such as those concerning patent rights, trade marks, unfair competition, trade secrets, protection of semi-conductor products or the law of contract. Any contractual provisions that are contrary to Article or to the exceptions provided for in Article 5(2) and (3) of Directive 91/are null and void.
+Directive 2001/According to recital in the preamble to Directive 2001/29, that directive is based on principles and rules already laid down in the directives currently in force in this area, inter alia Directive 91/250. Directive 2001/develops those principles and rules and places them in the context of the information society.
+Article of Directive 2001/provides:
+‘1.   This Directive concerns the legal protection of copyright and related rights in the framework of the internal market, with particular emphasis on the information society.
+2.   Except in the cases referred to in Article 11, this Directive shall leave intact and shall in no way affect existing Community provisions relating to:
+(a)
+the legal protection of computer programs;
+…’
+Article 2(a) of Directive 2001/states:
+‘Member States shall provide for the exclusive right to authorise or prohibit direct or indirect, temporary or permanent reproduction by any means and in any form, in whole or in part:
+(a)
+for authors, of their works …’.
+National legislation
+Directives 91/and 2001/were transposed into national law by the Copyright, Designs and Patents Act 1988, as amended by the Copyright (Computer Programs) Regulations and by the Copyright and Related Rights Regulations (‘the Act’).
+Section 1(1)(a) of the Act provides that copyright is a property right which subsists in original literary, dramatic, musical or artistic works. According to section 3(1)(a) to (d) of the Act, ‘literary work’ means any work, other than a dramatic or musical work, which is written, spoken or sung, and includes a table or compilation other than a database, a computer program, preparatory design material for a computer program, and a database.
+Section 16(1)(a) of the Act provides that the owner of the copyright in a work has the exclusive right to copy the work.
+According to section 16(3)(a) and (b) of the Act, restrictions imposed by copyright in respect of acts performed on a work apply in relation to the work as a whole or any substantial part of it, either directly or indirectly.
+Under section 17(2) of the Act, copying in relation to a literary, dramatic, musical or artistic work means reproducing the work in any material form. This includes storing the work in any medium by electronic means.
+Section 50BA(1) of the Act states that it is not an infringement of copyright for a lawful user of a copy of a computer program to observe, study or test the functioning of the program in order to determine the ideas and principles which underlie any element of the program if he does so while performing any of the acts of loading, displaying, running, transmitting or storing the program which he is entitled to do. Section 50BA(2) of the Act states that, where an act is permitted under subsection (1), it is irrelevant whether or not there exists any term or condition in an agreement which purports to prohibit or restrict the act in question.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+SAS Institute is a developer of analytical software. It has developed an integrated set of computer programs over a period of years which enables users to carry out a wide range of data processing and analysis tasks, in particular, statistical analysis (‘the SAS System’). The core component of the SAS System, called ‘Base SAS’, enables users to write and run their own application programs in order to adapt the SAS System to work with their data (Scripts). Such Scripts are written in a language which is peculiar to the SAS System (‘the SAS Language’).
+WPL perceived that there was a market demand for alternative software capable of executing application programs written in the SAS Language. WPL therefore produced the ‘World Programming System’, designed to emulate the SAS components as closely as possible in that, with a few minor exceptions, it attempted to ensure that the same inputs would produce the same outputs. This would enable users of the SAS System to run the Scripts which they have developed for use with the SAS System on the ‘World Programming System’.
+The High Court of Justice of England and Wales, Chancery Division, points out that it is not established that, in order to do so, WPL had access to the source code of the SAS components, copied any of the text of that source code or copied any of the structural design of the source code.
+The High Court also points out that two previous courts have held, in the context of separate proceedings, that it is not an infringement of the copyright in the source code of a computer program for a competitor of the copyright owner to study how the program functions and then to write its own program to emulate that functionality.
+SAS Institute, disputing that approach, has brought an action before the referring court. Its principal claims are that WPL:
+—
+copied the manuals for the SAS System published by SAS Institute when creating the ‘World Programming System’, thereby infringing SAS Institute’s copyright in those manuals;
+—
+in so doing, indirectly copied the computer programs comprising the SAS components, thereby infringing its copyright in those components;
+—
+used a version of the SAS system known as the ‘Learning Edition’, in breach of the terms of the licence relating to that version and of the commitments made under that licence, and in breach of SAS Institute’s copyright in that version; and
+—
+infringed the copyright in the manuals for the SAS System by creating its own manual.
+In those circumstances, the High Court of Justice of England and Wales, Chancery Division, decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Where a computer program (“the First Program”) is protected by copyright as a literary work, is Article 1(2) [of Directive 91/250] to be interpreted as meaning that it is not an infringement of the copyright in the First Program for a competitor of the rightholder without access to the source code of the First Program, either directly or via a process such as decompilation of the object code, to create another program (“the Second Program”) which replicates the functions of the First Program?
+(2)
+Is the answer to Question affected by any of the following factors:
+(a)
+the nature and/or extent of the functionality of the First Program;
+(b)
+the nature and/or extent of the skill, judgment and labour which has been expended by the author of the First Program in devising the functionality of the First Program;
+(c)
+the level of detail to which the functionality of the First Program has been reproduced in the Second Program;
+(d)
+if the source code for the Second Program reproduces aspects of the source code of the First Program to an extent which goes beyond that which was strictly necessary in order to produce the same functionality as the First Program?
+(3)
+Where the First Program interprets and executes application programs written by users of the First Program in a programming language devised by the author of the First Program which comprises keywords devised or selected by the author of the First Program and a syntax devised by the author of the First Program, is Article 1(2) [of Directive 91/250] to be interpreted as meaning that it is not an infringement of the copyright in the First Program for the Second Program to be written so as to interpret and execute such application programs using the same keywords and the same syntax?
+(4)
+Where the First Program reads from and writes to data files in a particular format devised by the author of the First Program, is Article 1(2) [of Directive 91/250] to be interpreted as meaning that it is not an infringement of the copyright in the First Program for the Second Program to be written so as to read from and write to data files in the same format?
+(5)
+Does it make any difference to the answer to Questions 1, and if the author of the Second Program created the Second Program by:
+(a)
+observing, studying and testing the functioning of the First Program; or
+(b)
+reading a manual created and published by the author of the First Program which describes the functions of the First Program (“the Manual”); or
+(c)
+both (a) and (b)?
+(6)
+Where a person has the right to use a copy of the First Program under a licence, is Article 5(3) [of Directive 91/250] to be interpreted as meaning that the licensee is entitled, without the authorisation of the rightholder, to perform acts of loading, running and storing the program in order to observe, test or study the functioning of the First Program so as to determine the ideas and principles which underlie any element of the program, if the licence permits the licensee to perform acts of loading, running and storing the First Program when using it for the particular purpose permitted by the licence, but the acts done in order to observe, study or test the First Program extend outside the scope of the purpose permitted by the licence?
+(7)
+Is Article 5(3) [of Directive 91/250] to be interpreted as meaning that acts of observing, testing or studying of the functioning of the First Program are to be regarded as being done in order to determine the ideas or principles which underlie any element of the First Program where they are done:
+(a)
+to ascertain the way in which the First Program functions, in particular details which are not described in the Manual, for the purpose of writing the Second Program in the manner referred to in Question above;
+(b)
+to ascertain how the First Program interprets and executes statements written in the programming language which it interprets and executes (see Question above);
+(c)
+to ascertain the formats of data files which are written to or read by the First Program (see Question above);
+(d)
+to compare the performance of the Second Program with the First Program for the purpose of investigating reasons why their performances differ and to improve the performance of the Second Program;
+(e)
+to conduct parallel tests of the First Program and the Second Program in order to compare their outputs in the course of developing the Second Program, in particular by running the same test scripts through both the First Program and the Second Program;
+(f)
+to ascertain the output of the log file generated by the First Program in order to produce a log file which is identical or similar in appearance;
+(g)
+to cause the First Program to output data (in fact, data correlating zip codes to States of the [United States of America] for the purpose of ascertaining whether or not it corresponds with official databases of such data, and if it does not so correspond, to program the Second Program so that it will respond in the same way as the First Program to the same input data.
+(8)
+Where the Manual is protected by copyright as a literary work, is Article 2(a) [of Directive 2001/29] to be interpreted as meaning that it is an infringement of the copyright in the Manual for the author of the Second Program to reproduce or substantially reproduce in the Second Program any of the following matters described in the Manual:
+(a)
+the selection of statistical operations which have been implemented in the First Program;
+(b)
+the mathematical formulae used in the Manual to describe those operations;
+(c)
+the particular commands or combinations of commands by which those operations may be invoked;
+(d)
+the options which the author of the First Program has provided in respect of various commands;
+(e)
+the keywords and syntax recognised by the First Program;
+(f)
+the defaults which the author of the First Program has chosen to implement in the event that a particular command or option is not specified by the user;
+(g)
+the number of iterations which the First Program will perform in certain circumstances?
+(9)
+Is Article 2(a) [of Directive 2001/29] to be interpreted as meaning that it is an infringement of the copyright in the Manual for the author of the Second Program to reproduce or substantially reproduce in a manual describing the Second Program the keywords and syntax recognised by the First Program?’
+Consideration of the questions referred
+Questions to By these questions, the national court asks, in essence, whether Article 1(2) of Directive 91/must be interpreted as meaning that the functionality of a computer program and the programming language and the format of data files used in a computer program in order to exploit certain of its functions constitute a form of expression of that program and may, as such, be protected by copyright in computer programs for the purposes of that directive.
+In accordance with Article 1(1) of Directive 91/250, computer programs are protected by copyright as literary works within the meaning of the Berne Convention.
+Article 1(2) of Directive 91/extends that protection to the expression in any form of a computer program. That provision states, however, that the ideas and principles which underlie any element of a computer program, including those which underlie its interfaces, are not protected by copyright under that directive.
+The 14th recital in the preamble to Directive 91/confirms, in this respect, that, in accordance with the principle that only the expression of a computer program is protected by copyright, to the extent that logic, algorithms and programming languages comprise ideas and principles, those ideas and principles are not protected under that directive. The 15th recital in the preamble to Directive 91/states that, in accordance with the legislation and jurisprudence of the Member States and the international copyright conventions, the expression of those ideas and principles is to be protected by copyright.
+With respect to international law, both Article of the WIPO Copyright Treaty and Article 9(2) of the TRIPs Agreement provide that copyright protection extends to expressions and not to ideas, procedures, methods of operation or mathematical concepts as such.
+Article 10(1) of the TRIPs Agreement provides that computer programs, whether in source or object code, are to be protected as literary works under the Berne Convention.
+In a judgment delivered after the reference for a preliminary ruling had been lodged in the present case, the Court interpreted Article 1(2) of Directive 91/as meaning that the object of the protection conferred by that directive is the expression in any form of a computer program, such as the source code and the object code, which permits reproduction in different computer languages (judgment of December in Case C-393/Bezpečnostní softwarová asociace [2010] ECR I-13971, paragraph 35).
+In accordance with the second phrase of the seventh recital in the preamble to Directive 91/250, the term ‘computer program’ also includes preparatory design work leading to the development of a computer program, provided that the nature of the preparatory work is such that a computer program can result from it at a later stage.
+Thus, the object of protection under Directive 91/includes the forms of expression of a computer program and the preparatory design work capable of leading, respectively, to the reproduction or the subsequent creation of such a program (Bezpečnostní softwarová asociace, paragraph 37).
+From this the Court concluded that the source code and the object code of a computer program are forms of expression thereof which, consequently, are entitled to be protected by copyright as computer programs, by virtue of Article 1(2) of Directive 91/250. On the other hand, as regards the graphic user interface, the Court held that such an interface does not enable the reproduction of the computer program, but merely constitutes one element of that program by means of which users make use of the features of that program (Bezpečnostní softwarová asociace, paragraphs and 41).
+On the basis of those considerations, it must be stated that, with regard to the elements of a computer program which are the subject of Questions to 5, neither the functionality of a computer program nor the programming language and the format of data files used in a computer program in order to exploit certain of its functions constitute a form of expression of that program for the purposes of Article 1(2) of Directive 91/250.
+As the Advocate General states in point of his Opinion, to accept that the functionality of a computer program can be protected by copyright would amount to making it possible to monopolise ideas, to the detriment of technological progress and industrial development.
+Moreover, point 3.of the explanatory memorandum to the Proposal for Directive 91/[COM(88) 816] states that the main advantage of protecting computer programs by copyright is that such protection covers only the individual expression of the work and thus leaves other authors the desired latitude to create similar or even identical programs provided that they refrain from copying.
+With respect to the programming language and the format of data files used in a computer program to interpret and execute application programs written by users and to read and write data in a specific format of data files, these are elements of that program by means of which users exploit certain functions of that program.
+In that context, it should be made clear that, if a third party were to procure the part of the source code or the object code relating to the programming language or to the format of data files used in a computer program, and if that party were to create, with the aid of that code, similar elements in its own computer program, that conduct would be liable to constitute partial reproduction within the meaning of Article 4(a) of Directive 91/250.
+As is, however, apparent from the order for reference, WPL did not have access to the source code of SAS Institute’s program and did not carry out any decompilation of the object code of that program. By means of observing, studying and testing the behaviour of SAS Institute’s program, WPL reproduced the functionality of that program by using the same programming language and the same format of data files.
+The Court also points out that the finding made in paragraph of the present judgment cannot affect the possibility that the SAS language and the format of SAS Institute’s data files might be protected, as works, by copyright under Directive 2001/if they are their author’s own intellectual creation (see Bezpečnostní softwarová asociace, paragraphs to 46).
+Consequently, the answer to Questions to is that Article 1(2) of Directive 91/must be interpreted as meaning that neither the functionality of a computer program nor the programming language and the format of data files used in a computer program in order to exploit certain of its functions constitute a form of expression of that program and, as such, are not protected by copyright in computer programs for the purposes of that directive.
+Questions and By these questions, the national court asks, in essence, whether Article 5(3) of Directive 91/must be interpreted as meaning that a person who has obtained a copy of a computer program under a licence is entitled, without the authorisation of the owner of the copyright in that program, to observe, study or test the functioning of that program in order to determine the ideas and principles which underlie any element of the program, in the case where that person carries out acts covered by that licence with a purpose that goes beyond the framework established by the licence.
+In the main proceedings, it is apparent from the order for reference that WPL lawfully purchased copies of the Learning Edition of SAS Institute’s program, which were supplied under a ‘click-through’ licence which required the purchaser to accept the terms of the licence before being permitted to access the software. The terms of that licence restricted the licence to non-production purposes. According to the national court, WPL used the various copies of the Learning Edition of SAS Institute’s program to perform acts which fall outside the scope of the licence in question.
+Consequently, the national court raises the question as to whether the purpose of the study or observation of the functioning of a computer program has an effect on whether the person who has obtained the licence may invoke the exception set out in Article 5(3) of Directive 91/250.
+The Court observes that, from the wording of that provision, it is clear, first, that a licensee is entitled to observe, study or test the functioning of a computer program in order to determine the ideas and principles which underlie any element of the program.
+In this respect, Article 5(3) of Directive 91/seeks to ensure that the ideas and principles which underlie any element of a computer program are not protected by the owner of the copyright by means of a licensing agreement.
+That provision is therefore consistent with the basic principle laid down in Article 1(2) of Directive 91/250, pursuant to which protection in accordance with that directive applies to the expression in any form of a computer program and ideas and principles which underlie any element of a computer program are not protected by copyright under that directive.
+Article 9(1) of Directive 91/adds, moreover, that any contractual provisions contrary to the exceptions provided for in Article 5(2) and (3) of that directive are null and void.
+Second, under Article 5(3) of Directive 91/250, a licensee is entitled to determine the ideas and principles which underlie any element of the computer program if he does so while performing any of the acts of loading, displaying, running, transmitting or storing that program which he is entitled to do.
+It follows that the determination of those ideas and principles may be carried out within the framework of the acts permitted by the licence.
+In addition, the 18th recital in the preamble to Directive 91/states that a person having a right to use a computer program should not be prevented from performing acts necessary to observe, study or test the functioning of the program, provided that these acts do not infringe the copyright in that program.
+As the Advocate General states in point of his Opinion, the acts in question are those referred to in Article 4(a) and (b) of Directive 91/250, which sets out the exclusive rights of the rightholder to do or to authorise, and those referred to in Article 5(1) thereof, relating to the acts necessary for the use of the computer program by the lawful acquirer in accordance with its intended purpose, including for error correction.
+In that latter regard, the 17th recital in the preamble to Directive 91/states that the acts of loading and running necessary for that use may not be prohibited by contract.
+Consequently, the owner of the copyright in a computer program may not prevent, by relying on the licensing agreement, the person who has obtained that licence from determining the ideas and principles which underlie all the elements of that program in the case where that person carries out acts which that licence permits him to perform and the acts of loading and running necessary for the use of the computer program, and on condition that that person does not infringe the exclusive rights of the owner in that program.
+As regards that latter condition, Article 6(2)(c) of Directive 91/relating to decompilation states that decompilation does not permit the information obtained through its application to be used for the development, production or marketing of a computer program substantially similar in its expression, or for any other act which infringes copyright.
+It must therefore be held that the copyright in a computer program cannot be infringed where, as in the present case, the lawful acquirer of the licence did not have access to the source code of the computer program to which that licence relates, but merely studied, observed and tested that program in order to reproduce its functionality in a second program.
+In those circumstances, the answer to Questions and is that Article 5(3) of Directive 91/must be interpreted as meaning that a person who has obtained a copy of a computer program under a licence is entitled, without the authorisation of the owner of the copyright, to observe, study or test the functioning of that program so as to determine the ideas and principles which underlie any element of the program, in the case where that person carries out acts covered by that licence and acts of loading and running necessary for the use of the computer program, and on condition that that person does not infringe the exclusive rights of the owner of the copyright in that program.
+Questions and By these questions, the national court asks, in essence, whether Article 2(a) of Directive 2001/must be interpreted as meaning that the reproduction, in a computer program or a user manual for that program, of certain elements described in the user manual for another computer program protected by copyright constitutes an infringement of that right in the latter manual.
+It is apparent from the order for reference that the user manual for SAS Institute’s computer program is a protected literary work for the purposes of Directive 2001/29.
+The Court has already held that the various parts of a work enjoy protection under Article 2(a) of Directive 2001/29, provided that they contain some of the elements which are the expression of the intellectual creation of the author of the work (Case C-5/Infopaq International [2009] ECR I-6569, paragraph 39).
+In the present case, the keywords, syntax, commands and combinations of commands, options, defaults and iterations consist of words, figures or mathematical concepts which, considered in isolation, are not, as such, an intellectual creation of the author of the computer program.
+It is only through the choice, sequence and combination of those words, figures or mathematical concepts that the author may express his creativity in an original manner and achieve a result, namely the user manual for the computer program, which is an intellectual creation (see, to that effect, Infopaq International, paragraph 45).
+It is for the national court to ascertain whether the reproduction of those elements constitutes the reproduction of the expression of the intellectual creation of the author of the user manual for the computer program at issue in the main proceedings.
+In this respect, the examination, in the light of Directive 2001/29, of the reproduction of those elements of the user manual for a computer program must be the same with respect to the creation of the user manual for a second program as it is with respect to the creation of that second program.
+Consequently, in the light of the foregoing considerations, the answer to Questions and is that Article 2(a) of Directive 2001/must be interpreted as meaning that the reproduction, in a computer program or a user manual for that program, of certain elements described in the user manual for another computer program protected by copyright is capable of constituting an infringement of the copyright in the latter manual if — this being a matter for the national court to ascertain — that reproduction constitutes the expression of the intellectual creation of the author of the user manual for the computer program protected by copyright.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Grand Chamber) hereby rules:
+ 
+1.
+Article 1(2) of Council Directive 91/250/EEC of May on the legal protection of computer programs must be interpreted as meaning that neither the functionality of a computer program nor the programming language and the format of data files used in a computer program in order to exploit certain of its functions constitute a form of expression of that program and, as such, are not protected by copyright in computer programs for the purposes of that directive.
+ 
+2.
+Article 5(3) of Directive 91/must be interpreted as meaning that a person who has obtained a copy of a computer program under a licence is entitled, without the authorisation of the owner of the copyright, to observe, study or test the functioning of that program so as to determine the ideas and principles which underlie any element of the program, in the case where that person carries out acts covered by that licence and acts of loading and running necessary for the use of the computer program, and on condition that that person does not infringe the exclusive rights of the owner of the copyright in that program.
+ 
+3.
+Article 2(a) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society must be interpreted as meaning that the reproduction, in a computer program or a user manual for that program, of certain elements described in the user manual for another computer program protected by copyright is capable of constituting an infringement of the copyright in the latter manual if — this being a matter for the national court to ascertain — that reproduction constitutes the expression of the intellectual creation of the author of the user manual for the computer program protected by copyright.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

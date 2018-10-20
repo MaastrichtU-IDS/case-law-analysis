@@ -1,0 +1,380 @@
+
+ORDER OF THE COURT (Sixth Chamber)
+February (*)
+      
+(Appeal – Action for annulment – Reservation by the Commission of the domain ‘galileo.eu’ – Fourth paragraph of Article EC – Decision of individual concern to a natural or legal person – Appeal clearly unfounded)
+In Case C‑483/P,
+APPEAL under Article of the Statute of the Court of Justice, brought on November 2007,
+Galileo Lebensmittel GmbH & Co. KG, established in Trierweiler (Germany), represented by K. Bott, Rechtsanwalt,
+      
+appellant,
+the other party to the proceedings being:
+Commission of the European Communities, represented by G. Braun and E. Montaguti, acting as Agents, with an address for service in Luxembourg,
+      
+defendant at first instance,
+THE COURT (Sixth Chamber),
+composed of J.­-C. Bonichot (Rapporteur), President of the Chamber, P. Kūris and L. Bay Larsen, Judges,
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: R. Grass,
+after hearing the Advocate General,
+makes the following
+Order
+By its appeal, Galileo Lebensmittel GmbH & Co. KG (‘Galileo Lebensmittel’ or ‘the appellant’) seeks the setting aside of the
+         order of August in Case T‑46/Galileo Lebensmittel v Commission (‘the order under appeal’), by which the Court of First Instance dismissed as inadmissible the action for annulment of the
+         Commission’s decision to reserve – pursuant to Article of Commission Regulation (EC) No 874/of April laying
+         down public policy rules concerning the implementation and functions of the .eu Top Level Domain and the principles governing
+         registration (OJ L 162, p. 40) – the internet domain name ‘galileo.eu’ as a .eu Top Level Domain (‘TLD’) for use by the
+         Community institutions and bodies (‘the contested decision’).
+      
+ Legal context 
+The legal framework consists of two regulations, namely, a basic regulation, Regulation (EC) No 733/of the European Parliament
+         and of the Council of April on the implementation of the .eu Top Level Domain (OJ L 113, p. 1), and an implementing
+         regulation, Regulation No 874/2004.
+      
+ Regulation No 733/Article of Regulation No 733/2002, entitled ‘Policy framework’, provides as follows:
+      
+‘1.      After consulting the Registry and following the procedure referred to in Article 6(3), the Commission shall adopt public policy
+         rules concerning the implementation and functions of the .eu TLD and the public policy principles on registration. Public
+         policy shall include:
+      
+(a)      an extra-judicial settlement of conflicts policy;
+(b)      public policy on speculative and abusive registration of domain names including the possibility of registrations of domain
+         names in a phased manner to ensure appropriate temporary opportunities for the holders of prior rights recognised or established
+         by national and/or Community law and for public bodies to register their names;
+      
+(c)      policy on possible revocation of domain names, including the question of bona vacantia;
+      
+(d)      issues of language and geographical concepts;
+(e)      treatment of intellectual property and other rights.
+2.      Within three months of the entry into force of this Regulation, Member States may notify to the Commission and to the other
+         Member States a limited list of broadly-recognised names with regard to geographical and/or geopolitical concepts which affect
+         their political or territorial organisation that may either:
+      
+(a)      not be registered, or 
+(b)      be registered only under a second level domain according to the public policy rules.
+The Commission shall notify to the Registry without delay the list of notified names to which such criteria apply. The Commission
+         shall publish the list at the same time as it notifies the Registry.
+      
+Where a Member State or the Commission within days of publication raises an objection to an item included in a notified
+         list, the Commission shall take measures, in accordance with the procedure referred to in Article 6(3), to remedy the situation.
+      
+…’
+Under Article of Regulation No 733/2002, ‘[t]he Community shall retain all rights relating to the .eu TLD including, in
+         particular, intellectual property rights and other rights to the Registry databases required to ensure the implementation
+         of this Regulation and the right to re-designate the Registry’.
+      
+ Regulation No 874/In the preamble to Regulation No 874/2004, it is stated that that regulation is based on ‘Regulation … No 733/…, and
+         in particular Article 5(1) thereof’.
+      
+Recital in the preamble to Regulation No 874/states that:
+      
+‘A Member State should be authorised to designate an operator that will register as a domain name its official name and the
+         name under which it is commonly known. Similarly, the Commission should be authorised to select domain names for use by the
+         institutions of the Community, and to designate the operator of those domain names. The Registry should be empowered to reserve
+         a number of specified domain names for its operational functions.’
+      
+Article of Regulation No 874/2004, entitled ‘Second level domain name for geographical and geopolitical names’, provides
+         as follows: 
+      
+‘Registration of geographical and geopolitical concepts as domain names in accordance with Article 5(2)(b) of Regulation (EC)
+         No 733/may be provided for by a Member State that has notified the names. This may be done under any domain name that
+         has been registered by that Member State.
+      
+The Commission may ask the Registry to introduce domain names directly under the .eu TLD for use by the Community institutions
+         and bodies. After the entry into force of this Regulation and not later than a week before the beginning of the phased registration
+         period provided for in Chapter IV, the Commission shall notify the Registry of the names that are to be reserved and the bodies
+         that represent the Community institutions and bodies in registering the names.’
+      
+Article 10(1) of Regulation No 874/states that:
+      
+‘Holders of prior rights recognised or established by national and/or Community law and public bodies shall be eligible to
+         apply to register domain names during a period of phased registration before general registration of .eu domain starts.
+      
+“Prior rights” shall be understood to include, inter alia, registered national and community trademarks, geographical indications
+         or designations of origin, and, in as far as they are protected under national law in the Member State where they are held:
+         unregistered trademarks, trade names, business identifiers, company names, family names, and distinctive titles of protected
+         literary and artistic works.
+      
+…’
+The third subparagraph of Article 12(2) of Regulation No 874/provides as follows:
+      
+‘During the first part of phased registration, only registered national and Community trademarks … may be applied for as domain
+         names ...’
+      
+Under Article 22(1) of Regulation No 874/2004:
+      
+‘An [alternative dispute resolution] procedure may be initiated by any party where:
+…
+(b)      a decision taken by the Registry conflicts with this Regulation or with Regulation (EC) No 733/2002.’
+ Facts
+The background to the dispute was set out as follows in paragraphs to of the order under appeal:
+      
+ ‘International system of internet domains
+The internet Domain Name System (DNS) consists of a registry with a hierarchical structure which [contains] the names of all
+         domains and the computers connected with them which are registered for certain undertakings and persons using the internet.
+         The domain name is an electronic text which brings the internet user to a given page. The [TLD] is the part of the domain
+         name on the right, after the last dot in the name. It designates the highest level of the geographical and organisational
+         structure of the internet domain name system used for addresses. On the internet, the TLD is either the ISO two-letter country
+         code or an abbreviation in English, for example, ‘.com’, ‘.net’ or ‘.org’. The allocation of codes for the various TLD names
+         (for example, the ISO country code ‘.lu’ for Luxembourg) is coordinated by the body responsible for the allocation of internet
+         names and addresses, the Internet Corporation for Assigned Names and Numbers (ICANN), a non-profit corporation incorporated
+         under US law.
+      
+On the basis of that system, the ICANN Board of Directors authorised the allocation of the new “.eu” TLD on May and
+         authorised the President of ICANN to conclude an agreement with the European Registry for Internet Domains (EURid). EURid
+         is a non-profit association incorporated under Belgian law which was designated by the Commission to manage the “.eu” TLD
+         (see Commission Decision 2002/375/EC of May on the designation of the .eu Top Level Domain Registry (OJ L 128,
+         p. 29)).
+      
+ Background to the dispute
+Galileo Lebensmittel holds a licence, dated February 2006, for the exclusive use of various trade marks registered on behalf
+         of IFD Italian Food Distribution SA, established at Mertert (Luxembourg), including the word mark Galileo, registered with
+         the German Patent and Trade Mark Office under number 2071982. IFD Italian Food Distribution, the holding company which owns
+         Galileo Lebensmittel, does not engage in any business activities.
+      
+On December 2005, Galileo Lebensmittel applied to EURid on the basis of Article 10(1) of Regulation No 874/and through
+         a German undertaking, 1&Internet AG, for registration of the domain name “galileo.eu”. On December 2005, the 1&internet
+         registration bureau lodged the application for registration with EURid electronically.
+      
+The applicant also applied for registration of the domain name “galileo-food.eu”. EURid acknowledged receipt of that application,
+         but not of the application relating to the domain name “galileo.eu”.
+      
+EURid did not grant the application, nor did it acknowledge receipt thereof, because the domain name “galileo.eu” had been
+         reserved for the Commission since November 2005. EURid informed the applicant accordingly on February 2006. In its message,
+         EURid states that it had duly reserved that domain name on the basis of Article of Regulation No 874/2004. That reservation
+         had not been decided on by EURid but by the Commission. Given that the latter had reserved the domain name “galileo.eu”, note
+         was no longer taken of the order in which applications for registration of that domain name were received.’
+      
+ The action before the Court of First Instance and the order under appeal
+On February 2006, Galileo Lebensmittel brought an action before the Court of First Instance for annulment of the Commission’s
+         decision to reserve the domain name ‘galileo.eu’ for use by the Community institutions and bodies.
+      
+By the order under appeal, the Court of First Instance dismissed the action as inadmissible on the ground that the decision,
+         which was not addressed to Galileo Lebensmittel, was also not ‘of individual concern’ to it, within the meaning of the fourth
+         paragraph of Article EC.
+      
+The Court of First Instance referred to the case-law according to which the fact that it is possible to determine more or
+         less precisely the number, or even the identity, of the persons to whom a measure applies does not mean that that measure
+         must be regarded as being of individual concern to those persons so long as it is established that the measure applies to
+         them by virtue of an objective legal or factual situation defined therein.
+      
+The Court of First Instance went on to point out that, in order for the contested measure to be of individual concern to Galileo
+         Lebensmittel, that company had to be a member of a limited class of traders and it had to be entitled to particular protection.
+         The Court of First Instance ruled that neither of those conditions was satisfied in the case before it.
+      
+With regard to the matter of particular protection, the Court of First Instance held that there was no provision under which
+         the Commission was required to take account of Galileo Lebensmittel’s interests.
+      
+With regard to the question whether Galileo Lebensmittel was a member of a limited class of traders by reason of characteristics
+         specific to the members of that class, the Court of First Instance held that, at the time when the list was drawn up, the
+         number and identity of the persons likely to be concerned by the reservation was neither definitively known nor even determinable.
+      
+Each domain name on the list is reserved not just vis-à-vis holders of prior rights, such as the applicant claims to be, and
+         public bodies, which is a very large group but which it is possible to identify, but also vis-à-vis the general public. Even
+         supposing that no application is introduced during the period scheduled for early and privileged registration, it is always
+         possible that such an application may be introduced during the period scheduled for general registration.
+      
+The Court of First Instance stated in that regard that the date to be taken into consideration for the purposes of determining
+         whether there was a limited class of traders concerned was the date on which the contested measure was adopted.
+      
+ Forms of order sought
+In its appeal, Galileo Lebensmittel claims that the Court should:
+      
+–        set aside the order under appeal and annul the contested decision;
+–        order the Commission to pay the costs of both sets of proceedings;
+–        in the alternative, set aside the order under appeal, refer the case back to the Court of First Instance and order the Commission
+         to pay the costs of the appeal proceedings.
+      
+The Commission contends that the Court should:
+      
+–        dismiss the appeal; and
+–        order the appellant to pay the costs.
+ The appeal
+Under Article of the Rules of Procedure, where an appeal is clearly inadmissible or clearly unfounded, the Court may at
+         any time, acting on a report from the Judge-Rapporteur and after hearing the Advocate General, dismiss the appeal by reasoned
+         order.
+      
+In its appeal, Galileo Lebensmittel claims that the Court of First Instance vitiated the order under appeal by an error of
+         law in finding that the Commission’s decision to reserve the domain name ‘galileo.eu’ for use by the Community institutions
+         and bodies was not of individual concern to Galileo Lebensmittel.
+      
+The appeal may be analysed as raising, essentially, three pleas in law.
+      
+ The first plea, alleging that the contested decision is not in the nature of a regulation
+ Arguments of the parties
+The first plea alleges that the order under appeal does not take sufficient account of the particular circumstances of the
+         case and, in particular, of the fact that the contested decision is not a regulation.
+      
+The case-law referred to by the Court of First Instance relates to actions concerning Community regulations. However, the
+         contested decision is not in the nature of a regulation; rather, it is a measure applying a regulation to a specific case.
+         Moreover, the contested decision is intended to protect the particular needs of the Commission with regard to domain names.
+         The case-law used by the Court of First Instance is therefore inappropriate to the present case.
+      
+The Commission replies that the contested decision is a measure of general scope, which produces different effects on the
+         various persons affected by it, according to the domain name for which registration was sought. 
+      
+ Findings of the Court
+The fourth paragraph of Article EC makes it possible for any natural or legal person to bring an action for annulment
+         in the case of two types of decision: (i) decisions addressed to that person and (ii) decisions which, albeit in the form
+         of a regulation or of a decision addressed to another, are of direct and individual concern to that person.
+      
+The essential distinguishing factor lies in whether or not the applicant for annulment is the addressee of the decision being
+         challenged. If that is not so, the applicant must, in order to be able to bring an action for annulment, be directly and individually
+         concerned by that decision. The case-law on that concept of individual concern applies, therefore, where the decision being
+         challenged is not addressed to the applicant.
+      
+Consequently, and without there being any need to determine the exact nature of the contested decision, it is sufficient to
+         note that it was not addressed to Galileo Lebensmittel. The Court of First Instance was fully entitled, therefore, in the
+         case before it, to apply the case-law on the concept of individual concern for the purposes of determining whether Galileo
+         Lebensmittel had locus standi.
+      
+The first plea in law must therefore be rejected as clearly unfounded. 
+      
+ The second plea, alleging that the order under appeal does not take account of the fact that the word mark which the appellant
+            claims to own is entitled to particular protection 
+ Arguments of the parties
+The appellant claims that the domain name ‘galileo.eu’ constitutes a unique marketable economic asset and that the effect
+         of the contested decision is essentially to withdraw it from the market without compensation.
+      
+As user and exclusive holder of a licence for the word mark Galileo, the appellant is individually concerned by the contested
+         decision, which infringes its trade mark rights in that it prevents it from registering the domain name ‘galileo.eu’ and,
+         to that extent, the order under appeal is, according to the appellant, vitiated by an error of law.
+      
+The appellant relies in that regard on the case-law flowing from Case 11/Piraiki‑Patraiki and Others v Commission [1985] ECR and also refers to Case C‑309/Codorniu v Council [1994] ECR I‑1853, as well as the Opinion of the Advocate General in Case C‑125/P Commission v Infront WM [2008] ECR I‑1451).
+      
+The appellant adds that the Court of First Instance proceeded, incorrectly, to assess the criterion of individual concern
+         in the light of the factual and legal position at the time when the contested decision was adopted, and maintains that there
+         is no reason why individual concern should not be assessed in the light of circumstances subsequent to that date.
+      
+Lastly, the appellant claims that Regulation No 874/gives it, as the holder of the German word mark Galileo, a special
+         legal position in the context of the registration procedure. The appellant relies in that regard on recitals and in the
+         preamble to Regulation No 733/and on Article 5(1)(b) thereof, as well as on recital in the preamble to Regulation
+         No 874/and on Articles 10(1) and (2) and 12(2) thereof.
+      
+The appellant maintains that the purpose of those provisions is to protect trade mark holders as regards the possibility of
+         registering, as a top level ‘.eu’ domain name, their name as protected under trade mark law. Regulation No 874/arranges
+         for the phase during which registration is open to the general public to be preceded by a registration phase which is reserved
+         for the holders of prior rights. That constitutes a privileged position as compared with the situation of applicants who,
+         like the Commission, do not hold prior rights.
+      
+The Commission contends that the appellant may well be affected by the contested decision, but no more so than other traders,
+         and that it cannot claim to be ‘individually’ affected.
+      
+In addition, the Commission contends that the provisions relied on by the appellant do not place it in a special legal position
+         in the context of the procedure for registering a trade mark. The Commission adds that the measure that the appellant is seeking
+         to challenge is not the contested decision, but Regulation No 874/itself, and that the time-limits for bringing an action
+         for annulment of that regulation have expired.
+      
+Lastly, the Commission contends that the appellant holds no exclusive right in relation to the name ‘Galileo’, which appears
+         in at least Community trade marks, of which contain only that name.
+      
+ Findings of the Court 
+Natural or legal persons can claim to be concerned individually only if the contested provision affects them by reason of
+         certain attributes which are peculiar to them or by reason of circumstances in which they are differentiated from any other
+         person and by virtue of those factors distinguishes them individually just as in the case of the addressee of a decision (Case
+         25/Plaumann v Commission [1963] ECR 95, at p. 107).
+      
+As was pointed out in the order under appeal, the Court has held in that regard that, where a contested measure affects a
+         group of persons who were identified or identifiable at the time when that measure was adopted, by reason of criteria specific
+         to the members of the group, those persons may be individually concerned by that measure inasmuch as they form part of a limited
+         class of traders (Piraiki-Patraiki and Others v Commission, paragraph 31, and Joined Cases C‑182/and C‑217/Belgium and Forum v Commission [2006] ECR I‑5479, paragraph 60).
+      
+On that point, the Court of First Instance was fully entitled to hold that the number and the identity of the persons potentially
+         concerned by the reservation of the domain name was neither definitively known nor even determinable. The Court of First Instance
+         proceeded on the basis of a correct analysis of the procedure provided for in Regulation No 874/when it pointed out that
+         each domain name on the list is reserved not merely vis-à-vis holders of prior rights but also vis-à-vis the general public.
+      
+In that regard, the appellant cannot compare its situation with the circumstances under consideration in Piraiki-Patraiki and Others v Commission. In that judgment, the Court accepted as admissible an action for the annulment of a Commission decision – authorising a
+         Member State to introduce protective measures with regard to imports of a product – brought by applicants who, before the
+         adoption of that decision, had entered into contracts for the sale of the product concerned, performance of which could not
+         be carried out, in whole or in part, because of that decision. In the present case, the contested decision in no way impedes
+         the performance of contracts to which the appellant is a party. Accordingly, the situation on which it relies cannot give
+         rise to the application of the case-law developed in Piraiki-Patraiki and Others v Commission.
+      
+Nor can the appellant rely on the fact that, in Codorniu v Council, the Court recognised, in favour of the company concerned in that case, the existence of a situation which differentiated
+         that company from all other traders with regard to a legislative provision of general scope, inasmuch as that provision ultimately
+         prevented the company from using its figurative mark in commerce. It is sufficient to point out in that regard that the contested
+         decision does not prevent the appellant from using its trade mark, which means that its situation cannot be compared with
+         that under consideration in Codorniu v Council.
+      
+Similarly, although it is possible under the case-law for a person to be regarded as individually concerned by a measure because
+         that person forms part of a limited class of traders, where the measure alters rights which the person had acquired prior
+         to its adoption (see Joined Cases 106/and 107/Toepfer and Getreide-Import Gesellschaft v Commission [1965] ECR 405, at 411, and Commission v Infront, paragraph 72), the contested decision does not, in the present case, alter any acquired right to the disadvantage of the
+         appellant, since the only right on which the appellant relies relates to the Galileo trade mark, which is governed by different
+         rules.
+      
+Lastly, although the appellant claims, essentially, that the contested decision seriously impairs its economic interests,
+         that fact alone is not sufficient to make the appellant ‘individually concerned’ within the meaning of Plaumann v Commission, and as a consequence to call into question the analysis made by the Court of First Instance, which merely applied that case-law.
+      
+In those circumstances, there is no basis for the appellant’s claim that the Court of First Instance erred in considering
+         that it did not form part of a ‘limited class of traders’ within the meaning of the case-law referred to above.
+      
+The first branch of the second plea in law must therefore be rejected as clearly unfounded.
+      
+Similarly, the Court of First Instance was fully entitled to assess the question whether the persons concerned by the contested
+         decision were identified or identifiable by reference to the date on which that decision was adopted (see, by analogy, Case
+         97/Union Deutsche Lebensmittelwerke and Others v Commission [1987] ECR 2265, paragraph 11).
+      
+The second branch of the second plea in law is therefore clearly unfounded.
+      
+Lastly, the appellant cannot claim that, in the order under appeal, the Court of First Instance failed to have due regard
+         for the right to particular protection which the appellant claims to enjoy on the basis of the procedure under which the contested
+         decision was adopted.
+      
+The Court has held that the fact that a person participates in the process by which a Community measure is adopted does not
+         distinguish that person individually with regard to the measure in question unless provision has been made under the Community
+         rules for procedural guarantees in favour of that person. Thus, where a provision of Community law requires that, for the
+         purposes of adopting a decision, a procedure must be followed in respect of which a natural or legal person may assert rights,
+         such as the right to be heard, the special legal position which that person enjoys has the effect of distinguishing him individually
+         for the purposes of Article EC (see, by analogy, Case 191/Fediol v Commission [1983] ECR 2913, paragraph 31, and Case C‑263/P Commission v Jégo-Quéré [2004] ECR I‑3425, paragraphs and 48).
+      
+In the present case, although Regulation No 874/admittedly sets aside in favour of holders of prior rights, such as the
+         appellant claims to be, a period for the early and privileged registration of domain names, it provides no procedural guarantee
+         which could be construed as a right in favour of Galileo Lebensmittel. Consequently, the appellant cannot rely on the provisions
+         of Regulation No 874/in order to argue that they ‘distinguish’ it for the purposes of the fourth paragraph of Article
+         EC.
+      
+The third branch of the second plea in law must therefore be rejected as clearly unfounded.
+      
+It follows from the foregoing that, independently of the question whether the appellant was indeed the holder of a prior right
+         at the time of applying for the ‘gallileo.eu’ domain name, there is in any event no basis for the appellant’s claim that that
+         name is entitled to particular protection, in order to argue that the Court of First Instance erred in holding that the contested
+         decision was not of individual concern to it.
+      
+The three branches of the second plea in law must therefore be rejected as clearly unfounded. 
+      
+ The third plea, alleging a right to effective judicial protection 
+ Arguments of the parties
+The appellant claims that, by dismissing its action as inadmissible, the Court of First Instance acted in breach of the appellant’s
+         right to effective judicial protection. The appellant was deprived of any legal remedy against the contested decision, whether
+         before the national courts or before the Community judicature.
+      
+ Findings of the Court
+The conditions for the admissibility of an action for annulment cannot be set aside on the basis of the applicant’s interpretation
+         of the right to effective judicial protection (see, to that effect, Case C‑50/P Unión de Pequeños Agricultores v Council [2002] ECR I‑6677, paragraph 44; Commission v Jégo-Quéré, paragraph 36; the order of March in Case C‑237/P Strack v Commission, paragraph 108; and the order of March in Case C‑150/P Arizona Chemical and Others v Commission, paragraph 40).
+      
+Accordingly, an individual to whom a Commission decision is not of direct and individual concern and whose interests are therefore
+         unaffected by that measure cannot invoke the right to judicial protection in relation to that decision (see, to that effect,
+         the order of October in Case C‑379/P Pérez Escolar v Commission, paragraph 41).
+      
+Since the appellant has failed to establish that the contested decision is of individual concern to it, there is no basis
+         for its claim that the order under appeal undermines its right to effective judicial protection.
+      
+The third plea in law must therefore be rejected as clearly unfounded.
+      
+Since none of the pleas in law relied upon are well founded, the appeal must be dismissed.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, which applies to appeal proceedings pursuant to Article of those rules,
+         the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings.
+         As the Commission has applied for costs to be awarded against Galileo Lebensmittel and the latter has been unsuccessful, it
+         must be ordered to pay the costs.
+      
+On those grounds, the Court (Sixth Chamber) hereby orders:
+1.      The appeal is dismissed.
+2.      Galileo Lebensmittel GmbH & Co. KG is ordered to pay the costs.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

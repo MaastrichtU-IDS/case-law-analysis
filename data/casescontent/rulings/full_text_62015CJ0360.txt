@@ -1,0 +1,383 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+January (
+*)
+(Reference for a preliminary ruling — Services in the internal market — Directive 2006/123/EC — Scope — Article 2(2)(c) — Exclusion of electronic communications services and networks — Article 4(1) — Concept of ‘service’ — Retail trade in goods — Chapter III — Freedom of establishment of service providers — Applicability in purely internal situations — Article — Requirements to be evaluated — Territorial restriction — Zoning plan prohibiting the activity of retail trade in goods other than bulky goods in geographical zones situated outside the city centre — Protection of the urban environment — Authorisation of electronic communications services and networks — Directive 2002/20/EC — Financial payments attached to rights to install facilities for a public electronic communications network)
+In Joined Cases C‑360/and C‑31/16,
+REQUESTS for a preliminary ruling under Article TFEU, made by the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) (C‑360/15) and by the Raad van State (Council of State, Netherlands) (C‑31/16), by decisions dated June and January 2016, received at the Court on July and January respectively, in the proceedings
+College van Burgemeester en Wethouders van de gemeente Amersfoort
+v
+X BV (C‑360/15),
+and
+Visser Vastgoed Beleggingen BV
+v
+Raad van de gemeente Appingedam (C‑31/16),
+THE COURT (Grand Chamber),
+composed of K. Lenaerts, President, A. Tizzano, Vice-President, R. Silva de Lapuerta, T. von Danwitz, J.L. da Cruz Vilaça (Rapporteur), C.G. Fernlund and C. Vajda, Presidents of Chambers, A. Arabadjiev, C. Toader, M. Safjan, D. Šváby, M. Berger, A. Prechal, E. Jarašiūnas and S. Rodin, Judges,
+Advocate General: M. Szpunar,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on February 2017,
+after considering the observations submitted on behalf of:
+–
+the College van Burgemeester en Wethouders van de gemeente Amersfoort, by J. de Groot and P. Fruytier, advocaten,
+–
+Visser Vastgoed Beleggingen BV, by I. Haverkate, advocaat,
+–
+X BV, by M. Robichon-Lindenkamp, advocaat,
+–
+the Raad van de gemeente Appingedam, by H. Wessels, H. Mulder, J. Seerden, R. Louwes and H. Pot, acting as Agents,
+–
+the Netherlands Government, by M.H. S. Gijzen, K. Bulterman and J. Langer, acting as Agents,
+–
+the Czech Government, by T. Müller, M. Smolek and J. Vláčil, acting as Agents,
+–
+the German Government, by T. Henze and K. Stranz, acting as Agents,
+–
+Ireland, by E. Creedon, M. Browne, G. Hodge and A. Joyce, acting as Agents, and by N. Butler, Senior Counsel, and C. Keeling, Barrister at law,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by C. Colelli and P. Gentili, avvocati dello Stato,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the European Commission, by H. Tserepa-Lacombe, L. Malferrari and F. Wilman, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2017,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the interpretation of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market (OJ L 376, p. 36) and of Articles to and to TFEU.
+The requests have been made in two proceedings where the opposing parties are, in the first case, the College van Burgemeester en Wethouders van de gemeente Amersfoort (Council of the Municipality of Amersfoort, Netherlands) (‘the Council’) and X BV, on the payment of fees/charges (leges) in connection with the installation of fibre-optic cables for a public electronic communications network, and in the second case, Visser Vastgoed Beleggingen BV (‘Visser’) and Raad van de gemeente Appingedam (Municipal Council of Appingedam, Netherlands), on the rules contained in a zoning plan, pursuant to which certain geographical zones situated outside the city centre are exclusively designated for retail trade in bulky goods.
+Legal context
+EU law
+Directive 2002/21/EC
+Article 1(1) of Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework Directive), as amended by Directive 2009/140/EC of the European Parliament and of the Council of November (OJ L 337, p. 37) (‘the Framework Directive’) (OJ L 108, p. 33), that article being headed ‘Scope and aim’, provides:
+‘This Directive establishes a harmonised framework for the regulation of electronic communications services, electronic communications networks, associated facilities and associated services, and certain aspects of terminal equipment to facilitate access for disabled users. It lays down tasks of national regulatory authorities and establishes a set of procedures to ensure the harmonised application of the regulatory framework throughout the [Union].’
+Article of that directive, headed ‘Definitions’, provides:
+‘For the purposes of this Directive:
+…
+(g)
+‘national regulatory authority’ means the body or bodies charged by a Member State with any of the regulatory tasks assigned in this Directive and the Specific Directives;
+…’
+Article of that directive, headed ‘Rights of way’, provides:
+‘1.   Member States shall ensure that when a competent authority considers:
+–
+an application for the granting of rights to install facilities on, over or under public or private property to an undertaking authorised to provide public communications networks, or
+–
+an application for the granting of rights to install facilities on, over or under public property to an undertaking authorised to provide electronic communications networks other than to the public,
+the competent authority:
+–
+acts on the basis of simple, efficient, transparent and publicly available procedures, applied without discrimination and without delay, and in any event makes its decision within six months of the application, except in cases of expropriation, and
+–
+follows the principles of transparency and non-discrimination in attaching conditions to any such rights.
+…
+2.   Member States shall ensure that where public or local authorities retain ownership or control of undertakings operating public electronic communications networks and/or publicly available electronic communications services, there is an effective structural separation of the function responsible for granting the rights referred to in paragraph from the activities associated with ownership or control.
+…’
+Article 12(1) and (4) of that directive, that article being headed ‘Co-location and sharing of network elements and associated facilities for providers of electronic communications networks’, provide:
+‘1.   Where an undertaking providing electronic communications networks has the right under national legislation to install facilities on, over or under public or private property, or may take advantage of a procedure for the expropriation or use of property, national regulatory authorities shall, taking full account of the principle of proportionality, be able to impose the sharing of such facilities or property, including buildings, entries to buildings, building wiring, masts, antennae, towers and other supporting constructions, ducts, conduits, manholes, cabinets.
+…
+4.   Member States shall ensure that competent national authorities may require undertakings to provide the necessary information, if requested by the competent authorities, in order for these authorities, in conjunction with national regulatory authorities, to be able to establish a detailed inventory of the nature, availability and geographical location of the facilities referred to in paragraph and make it available to interested parties.’
+Directive 2002/20/EC
+Recital of Directive 2002/20/EC of the European Parliament and of the Council of March on the authorisation of electronic communications networks and services (‘Authorisation Directive’) (OJ L 108, p. 21), as amended by Directive 2009/(‘the Authorisation Directive’), states:
+‘The outcome of the public consultation on the review of the regulatory framework for electronic communications, as reflected in the Commission communication of April 2000, and the findings reported by the Commission in its communications on the fifth and sixth reports on the implementation of the telecommunications regulatory package, has confirmed the need for a more harmonised and less onerous market access regulation for electronic communications networks and services throughout [the Union].’
+Article of the Authorisation Directive, headed ‘Objective and scope’, provides:
+‘1.   The aim of this Directive is to implement an internal market in electronic communications networks and services through the harmonisation and simplification of authorisation rules and conditions in order to facilitate their provision throughout [the Union].
+2.   This Directive shall apply to authorisations for the provision of electronic communications networks and services.’
+Article 2(1) of that directive, that article being headed ‘Definitions’, provides:
+‘For the purposes of this Directive, the definitions set out in Article of Directive 2002/21/EC (Framework Directive) shall apply.’
+Article 4(1) of the Authorisation Directive, that article being headed ‘Minimum list of rights derived from the general authorisation’, states:
+‘Undertakings authorised pursuant to Article shall have the right to:
+(a)
+provide electronic communications networks and services;
+(b)
+have their application for the necessary rights to install facilities considered in accordance with Article of [the Framework Directive]’.
+Article of the Authorisation Directive, headed ‘Administrative charges’, provides:
+‘1.   Any administrative charges imposed on undertakings providing a service or a network under the general authorisation or to whom a right of use has been granted shall:
+(a)
+in total, cover only the administrative costs which will be incurred in the management, control and enforcement of the general authorisation scheme and of rights of use and of specific obligations as referred to in Article 6(2), which may include costs for international cooperation, harmonisation and standardisation, market analysis, monitoring compliance and other market control, as well as regulatory work involving preparation and enforcement of secondary legislation and administrative decisions, such as decisions on access and interconnection; and,
+(b)
+be imposed upon the individual undertakings in an objective, transparent and proportionate manner which minimises additional administrative costs and attendant charges.
+2.   Where national regulatory authorities impose administrative charges, they shall publish a yearly overview of their administrative costs and of the total sum of the charges collected. In the light of the difference between the total sum of the charges and the administrative costs, appropriate adjustments shall be made.’
+Article of the Authorisation Directive, headed ‘Fees for rights of use and rights to install facilities’, provides:
+‘Member States may allow the relevant authority to impose fees for the rights of use for radio frequencies or numbers or rights to install facilities on, over or under public or private property which reflect the need to ensure the optimal use of these resources. Member States shall ensure that such fees shall be objectively justified, transparent, non-discriminatory and proportionate in relation to their intended purpose and shall take into account the objectives in Article of [the Framework Directive].’
+Directive 2006/Recitals 2, 5, 7, 9, 19, 20, 33, and of Directive 2006/state:
+‘(2)
+A competitive market in services is essential in order to promote economic growth and create jobs in the European Union … A free market which compels the Member States to eliminate restrictions on cross-border provision of services while at the same time increasing transparency and information for consumers would give consumers wider choice and better services at lower prices.
+…
+(5)
+It is therefore necessary to remove barriers to the freedom of establishment for providers in Member States and barriers to the free movement of services as between Member States and to guarantee recipients and providers the legal certainty necessary for the exercise in practice of those two fundamental freedoms of the Treaty. Since the barriers in the internal market for services affect operators who wish to become established in other Member States as well as those who provide a service in another Member State without being established there, it is necessary to enable providers to develop their service activities within the internal market either by becoming established in a Member State or by making use of the free movement of services. Providers should be able to choose between those two freedoms, depending on their strategy for growth in each Member State.
+…
+(7)
+This Directive establishes a general legal framework which benefits a wide variety of services while taking into account the distinctive features of each type of activity or profession and its system of regulation. That framework is based on a dynamic and selective approach consisting in the removal, as a matter of priority, of barriers which may be dismantled quickly and, for the others, the launching of a process of evaluation, consultation and complementary harmonisation of specific issues, which will make possible the progressive and coordinated modernisation of national regulatory systems for service activities which is vital in order to achieve a genuine internal market for services by 2010. Provision should be made for a balanced mix of measures involving targeted harmonisation, administrative cooperation, the provision on the freedom to provide services and encouragement of the development of codes of conduct on certain issues. That coordination of national legislative regimes should ensure a high degree of Community legal integration and a high level of protection of general interest objectives, especially protection of consumers, which is vital in order to establish trust between Member States …
+…
+(9)
+This Directive applies only to requirements which affect the access to, or the exercise of, a service activity. Therefore, it does not apply to requirements, such as road traffic rules, rules concerning the development or use of land, town and country planning, building standards as well as administrative penalties imposed for non-compliance with such rules which do not specifically regulate or specifically affect the service activity but have to be respected by providers in the course of carrying out their economic activity in the same way as by individuals acting in their private capacity.
+…
+(19)
+In view of the adoption in of a package of legislative instruments relating to electronic communications networks and services, as well as to associated resources and services, which has established a regulatory framework facilitating access to those activities within the internal market, notably through the elimination of most individual authorisation schemes, it is necessary to exclude issues dealt with by those instruments from the scope of this Directive.
+(20)
+The exclusion from the scope of this Directive as regards matters of electronic communications services as covered by [the Framework Directive and the Authorisation Directive should] apply not only to questions specifically dealt with in these Directives but also to matters for which the Directives explicitly leave to Member States the possibility of adopting certain measures at national level.
+…
+(33)
+The services covered by this Directive concern a wide variety of ever-changing activities, including … services provided both to businesses and to consumers, such as … distributive trades …
+…
+(40)
+The concept of “overriding reasons relating to the public interest” to which reference is made in certain provisions of this Directive … covers at least the following grounds: … the protection of the environment and the urban environment, including town and country planning …
+…
+(76)
+This Directive does not concern the application of Articles [to TFEU] relating to the free movement of goods. The restrictions prohibited pursuant to the provision on the freedom to provide services cover the requirements applicable to access to service activities or to the exercise thereof and not those applicable to goods as such.’
+Article 1(1) of Directive 2006/123, that article being headed ‘Subject matter’, provides:
+‘This Directive establishes general provisions facilitating the exercise of the freedom of establishment for service providers and the free movement of services, while maintaining a high quality of services.’
+Article of that directive, headed ‘Scope’, provides:
+‘1.   This Directive shall apply to services supplied by providers established in a Member State.
+2.   This Directive shall not apply to the following activities:
+…
+(c)
+electronic communications services and networks, and associated facilities and services, with respect to matters covered by [the Framework and Authorisation Directives]
+…
+(j)
+social services relating to social housing, childcare and support of families and persons permanently or temporarily in need which are provided by the State, by providers mandated by the State or by charities recognised as such by the State;
+…
+3.   This Directive shall not apply to the field of taxation.’
+Article 3(3) of Directive 2006/123, that article being headed ‘Relationship with other provisions of [EU] law’, provides:
+‘Member States shall apply the provisions of this Directive in compliance with the rules of the [FEU] Treaty on the right of establishment and the free movement of services.’
+Article of that directive, headed ‘Definitions’, provides:
+‘For the purposes of this Directive, the following definitions shall apply:
+(1)
+“service” means any self-employed economic activity, normally provided for remuneration, as referred to in Article [TFEU];
+(2)
+“provider” means any natural person who is a national of a Member State, or any legal person as referred to in Article [TFEU] and established in a Member State, who offers or provides a service;
+…
+(5)
+“establishment” means the actual pursuit of an economic activity, as referred to in Article [TFEU], by the provider for an indefinite period and through a stable infrastructure from where the business of providing services is actually carried out;
+(6)
+“authorisation scheme” means any procedure under which a provider or recipient is in effect required to take steps in order to obtain from a competent authority a formal decision, or an implied decision, concerning access to a service activity or the exercise thereof;
+(7)
+“requirement” means any obligation, prohibition, condition or limit provided for in the laws, regulations or administrative provisions of the Member States or in consequence of case-law, administrative practice, the rules of professional bodies, or the collective rules of professional associations or other professional organisations, adopted in the exercise of their legal autonomy; rules laid down in collective agreements negotiated by the social partners shall not as such be seen as requirements within the meaning of this Directive;
+(8)
+“overriding reasons relating to the public interest” means reasons recognised as such in the case-law of the Court of Justice, including the following grounds: … the protection of the environment and the urban environment …;
+…’
+Chapter III of Directive 2006/123, headed ‘Freedom of establishment for providers’, comprises Articles to of that directive.
+Article 9(1) of that directive, that article being headed ‘Authorisation schemes’, provides:
+‘Member States shall not make access to a service activity or the exercise thereof subject to an authorisation scheme unless the following conditions are satisfied:
+(a)
+the authorisation scheme does not discriminate against the provider in question;
+(b)
+the need for an authorisation scheme is justified by an overriding reason relating to the public interest;
+(c)
+the objective pursued cannot be attained by means of a less restrictive measure, in particular because an a posteriori inspection would take place too late to be genuinely effective.’
+Article 10(1) of the same directive, that article being headed ‘Conditions for the granting of authorisation’ is worded as follows:
+‘Authorisation schemes shall be based on criteria which preclude the competent authorities from exercising their power of assessment in an arbitrary manner.’
+Article 13(2) of Directive 2006/123, that article being headed ‘Authorisation procedures’, provides:
+‘Authorisation procedures and formalities shall not be dissuasive and shall not unduly complicate or delay the provision of the service. They shall be easily accessible and any charges which the applicants may incur from their application shall be reasonable and proportionate to the cost of the authorisation procedures in question and shall not exceed the cost of the procedures.’
+Article of Directive 2006/123, headed ‘Prohibited requirements’, provides:
+‘Member States shall not make access to, or the exercise of, a service activity in their territory subject to compliance with any of the following:
+…
+(5)
+the case-by-case application of an economic test making the granting of authorisation subject to proof of the existence of an economic need or market demand, an assessment of the potential or current economic effects of the activity or an assessment of the appropriateness of the activity in relation to the economic planning objectives set by the competent authority; this prohibition shall not concern planning requirements which do not pursue economic aims but serve overriding reasons relating to the public interest’.
+Article of that directive, headed ‘Requirements to be evaluated’ states:
+‘1.   Member States shall examine whether, under their legal system, any of the requirements listed in paragraph are imposed and shall ensure that any such requirements are compatible with the conditions laid down in paragraph 3. Member States shall adapt their laws, regulations or administrative provisions so as to make them compatible with those conditions.
+2.   Member States shall examine whether their legal system makes access to a service activity or the exercise of it subject to compliance with any of the following non-discriminatory requirements:
+(a)
+quantitative or territorial restrictions, in particular in the form of limits fixed according to population or of a minimum geographical distance between providers;
+…
+3.   Member States shall verify that the requirements referred to in paragraph satisfy the following conditions:
+(a)
+non-discrimination: requirements must be neither directly nor indirectly discriminatory according to nationality nor, with regard to companies, according to the location of the registered office;
+(b)
+necessity: requirements must be justified by an overriding reason relating to the public interest;
+(c)
+proportionality: requirements must be suitable for securing the attainment of the objective pursued; they must not go beyond what is necessary to attain that objective and it must not be possible to replace those requirements with other, less restrictive measures which attain the same result.
+…’
+Chapter IV of Directive 2006/123, headed ‘Free movement of services’ comprises Articles to of that directive.
+The first subparagraph of Article 16(1) of that directive, that article being headed ‘Freedom to provide services’ states:
+‘Member States shall respect the right of providers to provide services in a Member State other than that in which they are established.’
+Article 18(1) of that directive, that article being headed ‘Case-by-case derogations’, states:
+‘By way of derogation from Article 16, and in exceptional circumstances only, a Member State may, in respect of a provider established in another Member State, take measures relating to the safety of services.’
+Netherlands law
+Case C‑360/Article 5.2(1) of the Telecommunicatiewet (Law on Telecommunications) of October (Stb. 1998, No 610), provides that ‘the titleholders or managers of public land shall be obliged to permit cables for purposes of public electronic communications networks to be installed in and on such land, and to be maintained and removed’.
+Article 5.of that Law provides:
+‘1.   The provider of a public electronic communications network who intends to carry out work in or on public land in connection with the installation, maintenance or removal of cables shall only carry out such work if:
+a.
+it has notified, in writing, the municipal council of the municipality within the territory of which the work is to be carried out of its intention to do so, and
+b.
+it has obtained the authorisation of the municipal council regarding the location, timing, and manner of performance of the work concerned.
+2.   For reasons of public order, safety, the prevention or limitation of nuisance, the accessibility of land or buildings, or planning the use of underground space, the municipal council may attach conditions to the authorisation decision.
+3.   Those conditions may relate only to the following:
+a.
+the location of the work;
+b.
+the timing of the work, on the understanding that the permitted time of commencement may, unless there are compelling reasons in the public interest as referred to in paragraph 2, be no later than months after the date of issue of the authorisation decision;
+c.
+the manner of performance of the work;
+d.
+the promotion of shared use of facilities;
+e.
+the coordination of the proposed work with the managers of other operations on the land.’
+Under Article 229(1)(b) of the Gemeentewet (Law on municipalities), fees/charges may be levied for services provided by the municipal authorities or on their behalf.
+Under Article of the Verordening leges (Regulation on leges) (‘the regulation on fees/charges’), adopted by the Council of Amersfoort, ‘The term “leges” covers fees or charges levied in respect of the enjoyment of services provided by or on behalf of the municipal administration, as set out in this Regulation and the accompanying table of rates’.
+Article 19.of that regulation sets the rates applicable to dealing with applications for authorisation covered by Article 5.of the Law on Telecommunications.
+Case C‑31/In accordance with Article 3.1(1) of the Wet ruimtelijke ordening (Law on spatial planning) of October (Stb. 2006, No 566), the municipal council is to establish, with respect to all land in the municipality, one or more zoning plans that are to designate how land concerned is to be used and that are to lay down rules for that purpose in the interests of good regional planning.
+Under Article 18(18.1) of the zoning plan established by the municipal council of Appingedam by decision of June 2013, areas of land designated for ‘retail trade — 2’ are designated solely for retail trade in bulky goods.
+Under Article 1(1.128), point 2, of that zoning plan, ‘retail trade in bulky goods’ is defined to mean ‘trade which, in view of the bulk of the goods sold, can no longer readily be accommodated in existing commercial centres, and, in particular … retail trade in motor vehicles, boats, tents and caravans, kitchens, bathrooms, furniture, building materials, farm machinery, gardening goods, horse-riding equipment, bicycles, and motor vehicle accessories.’
+Article 18(18.1) of that zoning plan makes no provision for the possibility of any derogation from the rules fixed by that article. However, under Article 2.12(1) of the Wet algemene bepalingen omgevingsrecht (Law establishing general provisions on environmental law) of November (Stb. 2008, No 496), any person concerned may apply for an ‘environmental permit’ derogating from the zoning plan.
+The disputes in the main proceedings and the questions referred for a preliminary ruling
+Case C‑360/As is apparent from the order for reference, under a contract concluded in December with the municipality of Amersfoort, X had the task of constructing a fibre-optics network in that municipality.
+For that purpose, X made to the municipal council, for each part of the network route, an application for authorisation with respect to the location, the timing and the manner of performance of the excavation work for the installation of fibre-optic cables, in accordance with Article 5.4(1)(b) of the Law on Telecommunications.
+In order to deal with those applications for authorisation, the municipality of Amersfoort, pursuant to the Regulation on fees/charges, asked X to pay fees/charges amounting in total to EUR 149949.
+X brought an action before the Rechtbank te Utrecht (District Court of Utrecht, Netherlands) in order to challenge the amount of those fees/charges.
+That action having been dismissed, X brought an appeal before the Gerechtshof Arnhem-Leeuwarden (Regional Court of Appeal of Arnhem-Leeuwarden, Netherlands). By judgment of July 2013, that court first held that the dispute fell within the scope of Article of the Authorisation Directive, since (i) the fees/charges claimed from X related to electronic communications services and (ii) the municipality of Amersfoort was a national regulatory authority (‘NRA’), within the meaning of the Framework and Authorisation Directives. That court then came to the conclusion that the amount of those fees/charges exceeded the maximum threshold provided for in Article of the Authorisation Directive, and consequently the demand sent to X for payment of those fees/charge was unlawful.
+The Municipal Council brought an appeal on a point of law against that judgment before the Hoge Raad der Nederlanden (Supreme Court of the Netherlands). X for its part lodged a cross-appeal.
+In the main appeal, it is claimed that the Gerechtshof Arnhem-Leeuwarden (Regional Court of Appeal of Arnhem-Leeuwarden) erred in holding that the dispute fell within the scope of Article of the Authorisation Directive, since the municipality of Amersfoort had never been designated as an NRA within the meaning of the Framework and Authorisation Directives.
+The referring court is of the view that that submission is well founded, since, in the Netherlands, the only bodies that can be classified as NRAs are the national legislature, the Kroon (the Crown, Netherlands), the Minister van Economische Zaken (Minister for Economic Affairs, Netherlands) and the Onafhankelijke Post en Telecommunicatie Autoriteit (Independent Post and Telecommunications Authority, Netherlands), which is now, as from April 2013, the Autoriteit Consument en Markt (the Authority for Consumers and Markets, Netherlands). That court considers, consequently, that Article 2(2)(c) of Directive 2006/cannot be relied on in combination with Article of the Authorisation Directive.
+Further, in the cross-appeal, it is claimed that the Gerechtshof Arnhem-Leeuwarden (Regional Court of Appeal of Arnhem-Leeuwarden) erred in failing to take into consideration Article 13(2) of Directive 2006/123.
+In that regard, the referring court remains uncertain, however, as to whether the levying of the fees/charges at issue in the main proceedings does fall within the scope of Directive 2006/123, since (i) Article 2(3) of that directive states that it is not applicable in the field of taxation; (ii) the situation at issue in the main proceedings is a purely internal situation within the Kingdom of the Netherlands that has no cross-border element, and (iii) the authorisation for excavation work appears to fall within the scope of regulations relating to town and country planning, namely a form of regulation the requirements of which fall, according to recital of that directive, outside the scope of that directive.
+In those circumstances, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Must Article 2(3) of Directive 2006/be interpreted as meaning that that provision applies to the levying of fees/charges (leges) by an authority of a Member State in respect of the processing of an application for authorisation with regard to the timing, location and manner of performance of excavation works associated with the installation of cables for a public electronic communications network?
+(2)
+Must Chapter III of Directive 2006/be interpreted as meaning that it also applies in purely internal situations?
+(3)
+Must Directive 2006/123, against the background of recital of that directive, be interpreted as meaning that that directive does not apply to national rules which require the intention to carry out excavation work in connection with the installation, maintenance and removal of cables for a public electronic telecommunications network to be notified to the municipal council, and on the basis of which the latter is not competent to prohibit that work but is, however, competent to impose conditions in respect of the location, timing and manner of performance of the work and of the promotion of shared use of facilities and the coordination of the work with the managers of other constructions works on the land?
+(4)
+Must Article 4(6) of Directive 2006/be interpreted as meaning that that provision applies to an authorisation decision with regard to the location, timing and manner of performance of excavation work in connection with the installation of cables for a public electronic telecommunications network, without the relevant authority of a Member State being competent to prohibit that work as such?
+(5)
+(a)
+if, given the answers to the foregoing questions, Article 13(2) of Directive 2006/is applicable in the present case, does that provision have direct effect?
+(b)
+if the answer to Question 5(a) is in the affirmative, does Article 13(2) of Directive 2006/mean that the costs which may be charged may be calculated on the basis of the estimated costs for all application procedures, or on the basis of the costs of all applications such as the one at issue here, or on the basis of individual applications?
+(c)
+if the answer to Question 5(a) is in the affirmative, according to which criteria must indirect and fixed costs be allocated to authorisation applications in accordance with Article 13(2) of Directive 2006/123?’
+Case C‑31/As stated in the order for reference, there is within the territory of the municipality of Appingedam, outside the historical commercial district of the city centre, a commercial zone for retail trade in bulky goods, called Woonplein. That commercial zone accommodates, inter alia, retail trade in furniture, kitchens, decoration, do-it-yourself articles, building materials, garden goods, bicycles, horse-riding equipment, motor vehicles and accessories.
+Under Article of the zoning plan of the municipality of Appingedam, the Woonplein has been designated as exclusively an area for the retail trade in bulky goods.
+Visser, which owns commercial premises in the Woonplein, wants to lease one of them to Bristol BV, which operates a chain of self-service discount shoes and clothing shops.
+Visser brought before the Raad van State (Council of State, Netherlands) an action challenging the decision of the municipal council of Appingedam establishing the zoning plan, in so far as that plan does not permit the installation, on the Woonplein, of retail outlets for shoes and clothing. In support of its action, Visser relies on, inter alia, the claim that the plan disregards Articles and of Directive 2006/123.
+The municipal council of Appingedam contends that considerations of town and country planning justify retail trade in shoes and clothing taking place only in the city centre. It adds that the objective of that rule is to maintain the viability of the city centre, to ensure that the commercial centre located there operates effectively and to ensure as far as possible that there are no vacant premises in the city centre.
+In those circumstances, the Raad van State (Council of State, Netherlands) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Should the term “service” in Article 4(1) of Directive 2006/be interpreted as meaning that retail trade consisting of the sale of goods such as shoes and clothing to consumers is a service to which the provisions of Directive 2006/apply under Article 2(1) of that directive?
+(2)
+The [rule at issue] seeks to prohibit certain forms of retail trade, such as the sale of shoes and clothing, in areas outside the city centre with a view to maintaining the viability of the city centre and preventing premises lying vacant in inner city areas. Does [regulation containing such a rule], having regard to recital of Directive 2006/123, fall outside the scope of Directive 2006/123, because such rules must be regarded as pertaining to “town and country planning … which do not specifically regulate or specifically affect the service activity but have to be respected by providers in the course of carrying out their economic activity in the same way as by individuals acting in their private capacity”?
+(3)
+Is it sufficient, in order to assume that a cross-border situation exists, that it cannot be excluded that a retail business from another Member State would be able to establish itself locally or that the customers of the retail business could be from another Member State, or should there be actual evidence thereof?
+(4)
+Is Chapter III (freedom of establishment) of Directive 2006/applicable to purely internal situations, or is the assessment of the question of whether that chapter applies governed by the case-law of the Court of Justice concerning Treaty provisions on freedom of establishment and the free movement of services in purely internal situations?
+(5)
+(a)
+Does a rule in a zoning plan, such as the rule at issue, fall within the scope of the term “requirement” as referred to in Article 4(7) and Article 14(5) of Directive 2006/123, and not within the scope of the term “authorisation scheme” as referred to in Article 4(6), and Articles and of Directive 2006/123?
+(b)
+Do Article 14(5) of Directive 2006/— if a rule such as that at issue falls within the scope of the term “requirement” — or Articles and of Directive 2006/— if a rule such as that at issue falls within the scope of the term “authorisation scheme” — preclude a municipal authority from adopting a rule such as that at issue?
+(6)
+Does a rule such as that at issue fall within the scope of Articles to TFEU, or of Articles to TFEU and, if so, do the exceptions recognised by the Court of Justice apply, provided that the conditions are met?’
+By decision of the President of the Court of February 2016, Cases C‑360/and C‑31/were joined for the purposes of the oral procedure and the judgment.
+Consideration of the questions referred
+Case C‑360/The first and third questions
+By the first and third questions, which can be examined together, the referring court seeks, in essence, to ascertain whether, in the light of Article 2(3) and recital of Directive 2006/123, that directive is applicable to the main proceedings in Case C‑360/15.
+First, it should be noted that, in accordance with settled case-law of the Court, the fact that the referring court has limited its questions to the interpretation of certain provisions of EU law does not prevent the Court from providing it with all the elements of interpretation of EU law which may be of assistance to it in adjudicating on the case before it (see, to that effect, judgment of November 2017, Lounes, C‑165/16, EU:C:2017:862, paragraph and the case-law cited).
+Moreover, the Court, which is called on to provide answers that are of use to the referring court, may provide guidance based on the documents relating to the main proceedings and on the written and oral observations which have been submitted to it (judgment of October 2015, Trijber and Harmsen, C‑340/and C‑341/14, EU:C:2015:641, paragraph and the case-law cited).
+In this instance, it is apparent from what is stated in the request for a preliminary ruling that the uncertainty of the referring court that has prompted the first and third questions concerns the scope of Directive 2006/123.
+In that regard, under Article 2(1) of Directive 2006/123, that directive is to apply to services supplied by providers established in a Member State. Article 2(2) of that directive, however, excludes a number of activities from its scope. Article 2(3) of that directive then adds that the directive is not to apply to the field of taxation.
+It must therefore, first, be determined whether or not the main proceedings are covered by one of the exclusions referred to in Article 2(2) of Directive 2006/123.
+In that regard, Article 2(2)(c) of Directive 2006/provides that that directive is not to apply either to electronic communications services and networks or to associated facilities and services with respect to matters covered by, inter alia, the Framework and Authorisation Directives.
+Moreover, it is stated in recital of Directive 2006/that, ‘in view of the adoption in of a package of legislative instruments relating to electronic communications networks and services, as well as to associated resources and services, which has established a regulatory framework facilitating access to those activities within the internal market’ the EU legislature intended ‘to exclude issues dealt with by those instruments from the scope of [Directive 2006/123]’.
+Recital of Directive 2006/adds that the exclusion from the scope of that directive of matters of electronic communications services covered by, inter alia, the Framework and Authorisation Directives should apply not only to questions specifically dealt with in those directives but also to matters for which they explicitly leave to Member States the possibility of adopting certain measures at national level.
+In this case, it is undisputed that X installs electronic communications networks within the meaning of the Authorisation Directive. The starting point for the referring court however is the premise that the main proceedings are not covered by a matter governed by that directive, or more specifically by Article of that directive, and consequently the exclusion specified in Article 2(2)(c) of Directive 2006/is, in that court’s view, not applicable. The referring court considers that the administrative charges that are the subject of Article of the Authorisation Directive are those that are imposed by an NRA. The referring court states that the municipality of Amersfoort is not, however, an NRA.
+In that regard, it must be recalled that the administrative charges which Member States may impose, under Article of the Authorisation Directive, on undertakings providing a service or a network under a general authorisation or to which a right of use has been granted, in order to finance NRA activities, must be exclusively intended to cover the overall administrative costs relating to the activities mentioned in Article 12(1)(a) of that directive (judgment of July 2016, Autorità per le Garanzie nelle Comunicazioni, C‑240/15, EU:C:2016:608, paragraph and the case-law cited).
+It is not, however, apparent from the documents available to the Court that the fees/charges claimed from X by the municipality of Amersfoort in the main proceedings are intended to cover the overall administrative costs relating to one or more of those activities.
+It must, however, be stated that Article of the Authorisation Directive is not the only provision of that directive relating to financial payments that Member States may require from undertakings providing electronic communications networks or services within the context of that directive (see, to that effect, judgment of December 2015, Proximus, C‑454/13, EU:C:2015:819, paragraphs to and the case-law cited).
+Under Article of the Authorisation Directive, Member States may allow the relevant authority to impose fees for the rights of use for radio frequencies or numbers or rights to install facilities on, over or under public or private property, reflecting the need to ensure the optimal use of these facilities.
+The Court’s case-law relating to Article of the Authorisation Directive indicates that the terms ‘facilities’ and ‘install’, used in that provision, refer to the physical infrastructure enabling provision of electronic communications networks and services and to their physical installation on the public or private property concerned (judgment of October 2015, Base Company, C‑346/13, EU:C:2015:649, paragraph and the case-law cited).
+In this instance, it is apparent from the documents available to the Court that, under Article 5.2(1) of the Law on Telecommunications, the titleholders or managers of public land are obliged to permit cables to be installed, in and on such land, and to be maintained or removed, in order to meet the requirements of public electronic communications networks.
+In order to be able to exercise the right, conferred on them by Article 5.2(1), to install cables for a public electronic communications network, the suppliers of electronic communications networks may be required to pay to the public authorities fees/charges, such as those payment of which was claimed from X by the municipality of Amersfoort in the main proceedings, under Article 229(1)(b) of the Law on municipalities and the Regulation on fees/charges, in order to obtain the necessary authorisations concerning the location, timing and manner of performance of the work, in accordance with Article 5.4(1)(b) of the Law on Telecommunications.
+In that context, it is clear that the liability to pay such fees/charges is attached to the right of undertakings authorised to provide electronic communications networks to install facilities within the meaning of Article of the Authorisation Directive.
+The fact that the municipality of Amersfoort is not an NRA, neither within the meaning of Article 2(g) of the Framework Directive nor, by virtue of the reference made to Article 2(1) of the Authorisation Directive, within the meaning of the latter directive, does not preclude the need to apply the criteria laid down in Article of the Authorisation Directive to the fees/charges payment of which was claimed from X.
+In that regard, in accordance with the wording of Article of the Authorisation Directive, as distinct from Article of that directive, the ability to impose fees for the rights to install facilities on or under public or private property is granted to ‘the relevant authority’ and not to an NRA.
+As regards the regulatory context of Article of the Authorisation Directive, it must be noted that the text of that provision corresponds, with respect to the authority concerned, to the text of Article 11(1) of the Framework Directive, which refers to the situation where the ‘competent authority’ considers an application for the granting of rights to install facilities on, over or under public or private property.
+Article 11(2) of the Framework Directive provides that Member States are to ensure that, where ‘public or local authorities’ retain ownership or control of undertakings operating public electronic communications networks and/or publicly available electronic communications services, there is an effective structural separation of ‘the function responsible for granting the rights referred to in [Article 11(1) of that directive]’ from the activities associated with ownership or control.
+Further, Article 12(4) of the Framework Directive provides that ‘competent national authorities’ are to be able to require undertakings to provide the information necessary to enable those authorities, ‘in conjunction with [NRAs]’, to establish a detailed inventory of the nature, availability and geographical location of the facilities on, over or under public or private property.
+As regards the purpose of the Authorisation Directive, it must be observed that, as is apparent from Article 1(1) thereof, read in the light of recital 1, the objective of that directive is to lower the cost of access to the market with a view to facilitating the provision of electronic communications networks and services throughout the European Union.
+Accordingly, neither the wording of Article of the Authorisation Directive, nor the regulatory context of that provision, nor the purpose of that directive permit the inference that the term ‘competent authority’ should be understood as referring exclusively to an NRA, with the result that the criteria laid down in Article should not be applied to financial payments required by a competent national authority other than an NRA.
+In any event, as follows from the Court’s settled case-law, Member States may not, within the framework of the Authorisation Directive, levy any fees or charges in relation to the provision of networks and electronic communication services other than those provided for by that directive (judgment of September 2014, Belgacom and Mobistar, C‑256/and C‑264/13, EU:C:2014:2149, paragraph and the case-law cited). The provisions of that directive must therefore govern the determination of the financial payments that the competent national authorities may, or may not, levy on the supply of such networks and services.
+It follows from the foregoing that the imposition of fees/charges, for the payment of which liability is attached to the rights of undertakings authorised to provide electronic communications services and networks to install cables for a public electronic communications network, is a matter that is governed by the Authorisation Directive, within the meaning of Article 2(2)(c) of Directive 2006/123.
+That being so, there is no longer any need to give a ruling on the interpretation of Article 2(3) and of recital of Directive 2006/in this case.
+In the light of the foregoing, the answer to the first and third questions is that Article 2(2)(c) of Directive 2006/must be interpreted as meaning that that directive is not applicable to fees/charges for the payment of which liability is connected with the rights of undertakings authorised to provide electronic communications networks and services to install cables for a public electronic communications network.
+The second, fourth and fifth questions
+It follows from the answer given to the first and third questions that Directive 2006/is not applicable to the main proceedings. That being the case, there is no need to answer the second, fourth and fifth questions.
+Case C‑31/The first question
+By its first question, the referring court seeks, in essence, to ascertain whether Article 4(1) of Directive 2006/must be interpreted as meaning that the activity of retail trade in goods such as shoes and clothing constitutes a ‘service’ for the purposes of that directive.
+It is apparent from the request for a preliminary ruling that the uncertainty of the referring court in that regard is mainly due to the fact that the Court held, in the judgment of May 2005, Burmanjer and Others (C‑20/03, EU:C:2005:307, paragraphs to 35), that national rules on itinerant selling concerning the conditions laid down for the marketing of a certain type of goods were subject to the provisions of the FEU Treaty governing the free movement of goods and not those relating to the freedom to provide services.
+As has been stated in paragraph of the present judgment, Directive 2006/is applicable, in accordance with Article 2(1) thereof, to services supplied by providers established in a Member State, with the exception of the activities and matters referred to in Article 2(2) and (3) of that directive.
+Further, under Article 4(1) of Directive 2006/123, ‘service’ means, for the purposes of that directive, any self-employed economic activity, normally provided for remuneration, as referred to in Article TFEU.
+In this instance, it is unquestionable that the retail trade activity at issue in the main proceedings, on the one hand, is a self-employed economic activity provided for remuneration and, on the other, does not fall under the exclusions from the scope of Directive 2006/listed in Article 2(2) and (3) of that directive. In addition, activities of a commercial character are expressly referred to in Article TFEU in the illustrative list of services that are defined as such by that article.
+Moreover, recital of Directive 2006/emphasises that the services covered by that directive concern a wide variety of ever-changing activities and expressly states that included within those activities are services provided both to businesses and to consumers, such as distributive trades.
+Since the main proceedings concern trade in goods, it must also be observed that recital of Directive 2006/123, while referring to the connection between that directive and Articles to TFEU relating to the free movement of goods, does no more than state that the restrictions dealt with in the directive cover the requirements applicable to access to service activities or to the exercise thereof and not those applicable to goods as such. As stated by the Commission, the rules of the zoning plan at issue in the main proceedings concern not goods as such, but the conditions governing the geographical area where activities related to the sale of particular goods can be established and, consequently, the conditions of access to those activities.
+That being the case, it must be held that the activity of retail trade in goods such as shoes and clothing falls within the scope of the concept of ‘service’ within the meaning of Article 4(1) of that directive.
+That interpretation cannot be called into question by the Court’s case-law, mentioned by the referring court, dealing with the connection between, on the one hand, the provisions of the FEU Treaty relating to the freedom to provide services and, on the other, those governing other fundamental freedoms guaranteed by that treaty; that case-law cannot be transposed to the determination of the scope of Directive 2006/123.
+If it were to be accepted that that directive is not applicable where the circumstances of the particular case relate to freedom of establishment, as proposed by the Netherlands government, the result might be, as stated by the Advocate General in point of his Opinion, that Chapter III of that directive, on the freedom of establishment for service providers, would be deprived of any scope and, consequently, that directive, in so far as it is intended to eliminate obstacles to the exercise of freedom of establishment, would be deprived of its effet utile.
+More generally, the fact that the applicability of Directive 2006/does not depend on a prior analysis of the importance of the perspective of freedom to provide services in the light of the particular circumstances of each case is likely to contribute to the objective of legal certainty being achieved, which, as is stated in recital 5, that directive aims to ensure.
+Any such analysis would, moreover, cause particular difficulties with regard to the retail trade in goods, given that that trade nowadays encompasses not only the legal act of sale/purchase but also an increasing range of activities or services that are closely inter-related and that are intended to induce a consumer to conclude that sale/purchase with one economic operator rather than another, to provide advice and assistance to the consumer at the time of that sale/purchase or to provide after-sales services, which may vary considerably according to the trader concerned.
+In addition, if a national measure were to be examined simultaneously in the light of the provisions of Directive 2006/and those of the FEU Treaty, in circumstances where it would prove impossible to determine whether the perspective of freedom to provide services prevails over that of other fundamental freedoms, that would be tantamount to introducing case-by-case examination, as a matter of primary law, and would thereby undermine the targeted harmonisation effected by that directive (see, to that effect, judgment of June 2015, Rina Services and Others, C‑593/13, EU:C:2015:399, paragraphs and 38).
+In the light of the foregoing, the answer to the first question is that Article 4(1) of Directive 2006/must be interpreted as meaning that the activity of retail trade in goods constitutes a ‘service’ for the purposes of that directive.
+The fourth question
+By its fourth question, which can be answered in the second place, the referring court seeks, in essence, to ascertain whether the provisions of Chapter III of Directive 2006/123, on the freedom of establishment of service providers, are applicable to a situation where all the relevant elements are confined to a single Member State.
+In that regard, it must, first, be noted that the wording of those provisions does not lay down any condition as to the existence of a foreign element. In particular, Article 9(1), Article and Article 15(1) of Directive 2006/123, which relate, respectively, to authorisation schemes, prohibited requirements and requirements to be evaluated, make no reference to any cross-border aspect.
+Further, as regards the context of Chapter III of Directive 2006/123, Article 2(1) of that directive provides, in general terms, without making any distinction between service activities containing a foreign aspect and service activities that have no such aspect, that that directive is to apply to ‘services supplied by providers established in a Member State’.
+Likewise, Article 4(2) and Article 4(5) of Directive 2006/123, which define the concepts of ‘provider’ and ‘establishment’ respectively, make no reference to any cross-border element. While it is true that those provisions refer to Articles and TFEU, that reference is made for the sole purpose of indicating that the concepts of ‘legal person’ and ‘economic activities’, mentioned in Article 4(2) and Article 4(5) of that directive, must be understood in the light of Articles and TFEU.
+In contrast, it must be observed that, with respect to the provisions of Chapter IV of Directive 2006/123, on the free movement of services, the EU legislature was careful to make clear, on a number of occasions, including in Article 16(1) and in Article 18(1) of that directive, that those provisions concern the right of providers ‘to provide services in a Member State other than that in which they are established’ and cover the situation of ‘a provider established in another Member State’.
+Last, the interpretation that the provisions of Chapter III of Directive 2006/are applicable not only to the provider who wishes to become established in another Member State but also to the provider who wishes to become established in his own Member State is consistent with the objectives pursued by that directive.
+In that regard, it must be observed that Directive 2006/123, as is apparent from Article thereof, read together with recitals and 5, lays down general provisions that are intended to remove restrictions on the freedom of establishment for service providers in Member States and on the free movement of services between the Member States, in order to contribute to the completion of a free and competitive internal market (judgment of October 2015, Trijber and Harmsen, C‑340/and C‑341/14, EU:C:2015:641, paragraph 44).
+If, however, the internal market in services is to be fully achieved, that requires, above all, the elimination of obstacles which are encountered by providers in becoming established in the Member States, whether in their own Member State or in another Member State, and which are liable to affect adversely their ability to supply services to recipients located throughout the European Union.
+In order to achieve a genuine internal market in services, the approach adopted by the EU legislature in Directive 2006/is based, as set out in recital thereof, on a general legal framework composed of a mix of various measures designed to ensure a high degree of legal integration within the European Union, by means of, inter alia, harmonisation with respect to specific aspects of the regulation of service activities.
+Consequently, to ensure that the effet utile of the specific legal framework that the EU legislature intended to establish in adopting Directive 2006/is not undermined, it must be accepted, contrary to what was argued by the German government at the hearing, that the scope of that directive is capable of extending, in certain cases, beyond what is strictly laid down in the provisions of the FEU Treaty relating to freedom of establishment and the free movement of services, without prejudice to the obligation on the Member States, under Article 3(3) of that directive, to apply the provisions of that directive in compliance with the rules of the FEU Treaty (see, to that effect, judgment of June 2015, Rina Services and Others, C‑593/13, EU:C:2015:399, paragraphs and 40).
+The finding that the provisions of Chapter III of Directive 2006/are also applicable in purely internal situations is further supported by an examination of the travaux préparatoires of that directive. It is apparent from the legislative history that the proposed amendments submitted in the course of debates before the European Parliament, to the effect that Article 2(1) of that directive should be reformulated in such a way as to limit its scope solely to cross-border situations, were not adopted.
+As regards the fact, to which the Netherlands Government drew attention at the hearing, that Article 53(1) and Article TFEU constitute the legal basis of Directive 2006/123, it must be observed that those provisions, unlike for example Articles and TFEU, which, however, are also to be found in Chapters and of Title IV of Part Three of the FEU Treaty, make no mention of any foreign element. It cannot therefore be inferred that the competence of the EU legislature to enact directives in order to make it easier for persons to take up and pursue activities as self-employed persons, on the basis of Article 53(1) and Article TFEU, one such directive being Directive 2006/with respect to service activities, necessarily implies the existence of such an element.
+In the light of the foregoing, the answer to the fourth question is that the provisions of Chapter III of Directive 2006/123, on freedom of establishment of providers, must be interpreted as meaning that they also apply to a situation where all the relevant elements are confined to a single Member State.
+The third question
+In the light of the answer given to the fourth question, there is no need to answer the third question.
+The second and fifth questions
+By its second and fifth questions, which can be examined together, the referring court seeks, in essence, to ascertain whether Article 9, Article and Article 14(5) of Directive 2006/123, read together with Article 4(6) and (7), and in the light of recital of that directive, must be interpreted as precluding rules contained in a municipal zoning plan from prohibiting the activity of retail trade in goods other than bulky goods in geographical zones situated outside the city centre of that municipality.
+It is necessary, first, to determine whether regulation such as that at issue in the main proceedings is covered by either the concept of ‘authorisation scheme’ or that of ‘requirement’, defined in Article 4(6) and Article 4(7), respectively, of Directive 2006/123.
+In accordance with Article 4(6) of that directive, ‘authorisation scheme’ means, for the purposes of that directive, ‘any procedure under which a provider or recipient is in effect required to take steps in order to obtain from a competent authority a formal decision, or an implied decision, concerning access to a service activity or the exercise thereof’.
+In this case, however, it appears, taking into account the information available to the Court, that the zoning plan at issue in the main proceedings is not covered by that concept. While that plan offers to service providers the opportunity of developing certain retail trade activities in specific geographical areas, that opportunity is derived not from an expressly worded document obtained by those providers following a procedure that they were required to undertake for that purpose, but from the approval by the municipal council of Appingedam of rules of general application to be found in that plan.
+That finding cannot be invalidated by the fact, pointed out by the referring court, that any interested party may be in a position, under other provisions of Netherlands law that pursue particular objectives, to participate in the administrative procedure relating to the adoption of the zoning plan, to seek judicial review of that plan, or further to request a derogation from that plan or reconsideration of it.
+As stated by the Commission, such possibilities are consistent with the requirements of sound administration and legal protection with regard to persons who may be affected by the adoption of a zoning plan.
+It follows that Articles and of Directive 2006/123, relating to authorisation schemes, are not applicable to rules such as those at issue in the main proceedings.
+As regards the concept of ‘requirement’, that must be understood, in accordance with Article 4(7) of that directive, as covering, inter alia, ‘any obligation, prohibition, condition or limit provided for in the laws, regulations or administrative provisions of the Member States’.
+In this case, it is undisputed that the effect of the rules of the zoning plan at issue in the main proceedings is to prohibit the activity of retail trade in goods that are not bulky goods, goods such as shoes and clothing, in a geographical zone situated outside the city centre of the municipality of Appingedam.
+The referring court observes however that recital of Directive 2006/states that that directive ‘applies only to requirements which affect the access to, or the exercise of, a service activity’, which excludes, consequently, ‘requirements, such as … rules concerning the development or use of land, town and country planning, … as well as administrative penalties imposed for non-compliance with such rules which do not specifically regulate or specifically affect the service activity but have to be respected by providers in the course of carrying out their economic activity in the same way as by individuals acting in their private capacity’.
+It must be observed that recital of Directive 2006/is wholly consistent with the legal framework established by that directive, which, as is stated in paragraphs to of the present judgment, has the objective of eliminating restrictions on freedom of establishment of service providers in Member States and on the free movement of services between the Member States, with the aim of contributing to the achievement of a genuine internal market in services.
+Directive 2006/is not therefore applicable to requirements which cannot be regarded as constituting such restrictions, since those requirements do not regulate or do not specifically affect the taking up or the pursuit of a service activity, but have to be respected by providers in the course of carrying out their economic activity in the same way as by individuals acting in their private capacity.
+That said, it is clear that the specific subject matter of the rules at issue in the main proceedings, even if their objective, as is stated in the order for reference, is to maintain the viability of the city centre of the municipality of Appingedam and to avoid there being vacant premises within the city as part of a town and county planning policy, remains that of determining the geographical zones where certain retail trade activities can be established. Those rules are therefore addressed only to persons who are contemplating the development of those activities in those geographical zones, and not to individuals acting in their private capacity.
+The case-law stemming from the judgment of May 2013, Libert and Others (C‑197/and C‑203/11, EU:C:2013:288, paragraphs to 107), mentioned in the order for reference, does not preclude that conclusion. After the Court had referred, in paragraph of that judgment, to recital of Directive 2006/123, the Court stated, in paragraphs and of that judgment, that the services concerned by the national measure at issue were expressly covered by the exclusion, in Article 2(2)(j) of that directive, of social services relating to social housing, and therefore held, in paragraph of that judgment, that Directive 2006/was not applicable to that measure.
+That being the case, the compatibility of the regulation at issue in the main proceedings with Directive 2006/must be assessed with regard to Articles and of that directive, relating to prohibited requirements or requirements to be evaluated.
+As regards Article 14(5) of Directive 2006/123, to which the fifth question expressly refers, that provision prohibits Member States from making access to a service activity or the exercise of a service activity in their territory subject to ‘the case-by-case application of an economic test making the granting of authorisation subject to proof of the existence of an economic need or market demand, an assessment of the potential or current economic effects of the activity or an assessment of the appropriateness of the activity in relation to the economic planning objectives set by the competent authority’.
+It is, however, not apparent from any information available to the Court that the regulation at issue in the main proceedings contains any such requirement.
+Nonetheless, it must be borne in mind that each Member State is obliged, pursuant to the first sentence of Article 15(1) of Directive 2006/123, to examine whether, under their legal system, one or more of the requirements listed in Article 15(2) of that directive are imposed and, if so, to ensure that such requirements are compatible with the conditions of non-discrimination, necessity and proportionality laid down in Article 15(3) of that directive. Pursuant to the second sentence of Article 15(1) of that directive, the Member States must adapt their laws, regulations or administrative provisions so as to make them compatible with those conditions.
+In that regard, it must be stated that Article of the directive has direct effect since, in the second sentence of Article 15(1), it imposes on the Member States an unconditional and sufficiently precise obligation to adapt their laws, regulations or administrative provisions so as to make them compatible with the conditions laid down in Article 15(3).
+In this instance, as stated by the Advocate General in point of his Opinion, by prohibiting retail trade activity in goods that are not bulky goods in a geographical zone situated outside the city centre of the municipality of Appingedam, the regulation at issue in the main proceedings contains one of the requirements listed in Article 15(2) of Directive 2006/123, since it makes access to a service activity or the exercise of a service activity subject to a territorial restriction, within the meaning of Article 15(2)(a) of that directive.
+As follows from paragraph of the present judgment, Directive 2006/does not preclude access to a service activity or the exercise of a service activity being made subject to compliance with such a territorial restriction, provided that the conditions of non-discrimination, necessity and proportionality laid down in Article 15(3) of that directive are satisfied.
+It is for the referring court to assess whether that is the case in the main proceedings.
+Nonetheless, as regards more specifically the condition of necessity, as defined in Article 15(3)(b) of Directive 2006/123, it is apparent from the order for reference that the aim of the prohibition at issue in the main proceedings is to maintain the viability of the city centre of the municipality of Appingedam and to avoid there being vacant premises in the city, in the interests of good town and county planning.
+As the Advocate General stated in point of his Opinion, under Article 4(8) of Directive 2006/123, read in the light of recital thereof, such an objective of protecting the urban environment is capable of constituting an overriding reason relating to the public interest that may justify a territorial restriction such as that at issue in the main proceedings.
+In the light of the foregoing, the answer to the second and fifth questions is that Article 15(1) of Directive 2006/must be interpreted as not precluding rules contained in a municipal zoning plan from prohibiting retail trade activity in goods other than bulky goods in geographical zones situated outside the city centre of that municipality, provided that all the conditions laid down in Article 15(3) of that directive are satisfied, which it is for the referring court to determine.
+The sixth question
+In the light of the answers given to the preceding questions, there is no need to answer the sixth question, which the referring court asked in the alternative, in the event that Directive 2006/was not applicable to the main proceedings.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national courts, the decision on costs is a matter for those courts. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Grand Chamber) hereby rules:
+ 
+1.
+Article 2(2)(c) of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market must be interpreted as meaning that that directive is not applicable to fees/charges for the payment of which liability is connected with the rights of undertakings authorised to provide electronic communications networks and services to install cables for a public electronic communications network.
+ 
+2.
+Article 4(1) of Directive 2006/must be interpreted as meaning that the activity of retail trade in goods constitutes a ‘service’ for the purposes of that directive.
+ 
+3.
+The provisions of Chapter III of Directive 2006/123, on freedom of establishment of providers, must be interpreted as meaning that they also apply to a situation where all the relevant elements are confined to a single Member State.
+ 
+4.
+Article 15(1) of Directive 2006/must be interpreted as not precluding rules contained in a municipal zoning plan from prohibiting retail trade activity in goods other than bulky goods in geographical zones situated outside the city centre of that municipality, provided that all the conditions laid down in Article 15(3) of that directive are satisfied, which it is for the referring court to determine.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  
+ 

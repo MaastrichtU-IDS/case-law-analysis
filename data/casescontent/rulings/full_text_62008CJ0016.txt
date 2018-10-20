@@ -1,0 +1,299 @@
+
+Case C-16/Schenker SIA
+v
+Valsts ieņēmumu dienests
+(Reference for a preliminary ruling from the Administratīvā apgabaltiesa)
+(Common Customs Tariff – Tariff classification – Combined Nomenclature – Active matrix liquid crystal devices)
+Summary of the Judgment
+Common Customs Tariff – Tariff headings – Active matrix liquid crystal devices of a certain type
+(Council Regulation No 2658/87, Annex I; Commission Regulation No 1789/2003)
+Subheading of the Combined Nomenclature constituting Annex I to Regulation No 2658/on the tariff and statistical
+         nomenclature and on the Common Customs Tariff, as amended by Regulation No 1789/2003, must be interpreted as not applying,
+         as at December 2004, to active matrix liquid crystal devices (LCD) principally made up of the following elements: 
+      
+–      two glass plates;
+–      a layer of liquid crystal inserted between the two plates; 
+–      vertical and horizontal signal drivers; 
+–      backlight;
+–      inverter providing high-voltage power for backlight; 
+–      control block – data transmission interface (control PCB or PWB) to ensure sequential transmission of data to each pixel (dot)
+         of the LCD unit using specific technology – LVDS (low-voltage differential signalling).
+      
+Since their end use depends on the additional parts added to them during the next stage of manufacture, such devices do not
+         have the essential character of the complete or finished article, for the purposes of subheading of the Combined
+         Nomenclature. 
+      
+However, those devices may, as parts which can be used in apparatus coming under heading 8528, be classified under heading
+         of the Combined Nomenclature (‘Parts suitable for use solely or principally with the apparatus of headings to 8528’)
+         and more specifically under subheading thereof. It is for the national court to ascertain whether those devices
+         have the objective characteristics and properties necessary to be regarded as parts suitable for use solely or principally
+         with the apparatus of headings to of the Combined Nomenclature. 
+      
+(see paras 27-32, operative part)
+  
+  
+JUDGMENT OF THE COURT (Sixth Chamber)
+June (*)
+      
+(Common Customs Tariff – Tariff classification – Combined Nomenclature – Active matrix liquid crystal devices)
+In Case C‑16/08,
+REFERENCE for a preliminary ruling under Article EC from the Administratīvā apgabaltiesa (Latvia), made by decision of
+         December 2007, received at the Court on January 2008, in the proceedings
+      
+Schenker SIA
+v
+Valsts ieņēmumu dienests,
+THE COURT (Sixth Chamber),
+composed of J.-C. Bonichot, President of the Chamber, K. Schiemann (Rapporteur) and C. Toader, Judges,
+Advocate General: J. Kokott,
+Registrar: R. Grass,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–        Schenker SIA, by E. Āboliņa, authorised representative,
+–        Valsts ieņēmumu dienests, by D. Jakāns, acting as Agent,
+–        the Hungarian Government, by R. Somssich, J. Fazekas and K. Borvölgyi, acting as Agents,
+–        the Commission of the European Communities, by G. Wilms and E. Kalnins, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling relates to the interpretation of the Combined Nomenclature constituting Annex I to
+         Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff
+         (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 1789/of September (OJ L 281, p. 1; ‘the
+         CN’).
+      
+The reference has been made in the course of proceedings between Schenker SIA (‘Schenker’) and Valsts ieņēmumu dienests (Latvian
+         tax administration; ‘the VID’) concerning the tariff classification of certain active matrix liquid crystal devices (LCD).
+      
+ Legal context
+The Combined Nomenclature, introduced by Regulation No 2658/87, is based on the International Harmonised Commodity Description
+         and Coding System (‘the HS’) drawn up by the Customs Cooperation Council, now the World Customs Organisation, established
+         by the International Convention concluded at Brussels on June and the Protocol of Amendment thereto of June 1986,
+         and approved on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1).
+      
+Part One of the CN contains preliminary provisions. In that part, Section I, which contains general rules, Subsection A, entitled
+         ‘General rules for the interpretation of the [CN]’ (‘the general rules’), provides:
+      
+‘Classification of parts in the [CN] shall be governed by the following principles:
+1.      The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification
+         shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings
+         or notes do not otherwise require, according to the following provisions.
+      
+2.      (a)   Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided
+         that, as presented, the incomplete or unfinished article has the essential character of the complete or finished article.
+         It shall also be taken to include a reference to that article complete or finished (or falling to be classified as complete
+         or finished by virtue of this rule), presented unassembled or disassembled.
+      
+…’
+Part Two of the CN, which contains the table of customs duties, includes Section XVI, entitled ‘Machinery and mechanical appliances;
+         electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers,
+         and parts and accessories of such articles’. 
+      
+Heading of the CN (‘heading 8528’) is worded as follows:
+      
+‘Reception apparatus for television, whether or not incorporating radio‑broadcast receivers or sound or video recording or
+         reproducing apparatus; video monitors and video projectors: 
+      
+…
+                           –       Video monitors
+– –    colour:
+…
+– – –  Other
+…’
+Heading is worded as follows:
+      
+‘Parts suitable for use solely or principally with the apparatus of headings to 8528:
+…
+− others:
+…
+– – – – for television cameras of subheading and apparatus of headings and …’
+Under Heading of the CN:
+      
+‘Liquid crystal devices not constituting articles provided for more specifically in other headings; lasers, other than laser
+         diodes; other optical appliances and instruments, not specified or included elsewhere in this chapter:
+      
+…
+− other devices appliances and instruments:
+                  − − Liquid crystal devices:
+− − − Active matrix liquid crystal devices
+…’
+The Explanatory Notes to the CN published by the Commission on October (OJ C 256, p. 1) refer, with regard to
+         subheadings to 90, to the Explanatory Notes for heading of the HS, second paragraph of Section 6,
+         appearing in the HS Compendium of Classification Opinions published by the World Customs Organisation.
+      
+The Explanatory Notes to the HS regarding heading provide as follows:
+      
+‘…
+This heading includes reception apparatus for television, whether or not incorporating radio-broadcasting receivers or sound
+         video recording or reproducing apparatus: video monitors and video projectors. 
+      
+Apparatus falling under this heading includes:
+…
+(6)      Video monitors which are receivers connected directly to the video camera or recorder by means of co-axial cables, so that
+         all the radio-frequency circuits are eliminated. They are used by television companies or for closed‑circuit television (airports,
+         railway stations, steel plants, hospitals, etc.). These [appliances] consist essentially of devices which can generate a point
+         of light and display it on a screen synchronously with the source signals. They incorporate one or more video amplifiers with
+         which the intensity of the point can be varied. They can, moreover, have separate inputs for red (R), green (G) and blue (B),
+         or be coded in accordance with a particular standard (NTSC, SECAM, PAL, D-MAC, etc.). For reception of coded signals, the
+         monitor must be equipped with a decoding device covering (the separation of) the R, G and B signals. The most common means
+         of image reconstitution is the cathode-ray tube, for direct vision, or a projector with up to three projection cathode-ray
+         tubes; however, other monitors achieve the same objective by different means (e.g., liquid crystal screens, diffraction of
+         light rays on to a film of oil). These may be in the form of CRT monitors or flat panel displays e.g., LCD, LED, plasma, etc.
+      
+…
+Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI),
+         parts of the apparatus of this heading are classified under heading 85.29.’
+      
+The Explanatory Note to the HS concerning heading is worded as follows:
+      
+‘… This heading includes:
+(1)      Liquid crystal devices consisting of a liquid crystal layer sandwiched between two sheets or plates of glass or plastics,
+         whether or not fitted with electrical connections, presented in the piece or cut to special shapes and not constituting articles
+         described more specifically in other headings of the CN.
+      
+…’
+ The dispute in the main proceedings and the question referred for a preliminary ruling
+On December 2004, Schenker filed a customs declaration in respect of a series of articles, namely TFT LCD active matrix
+         liquid crystal devices LTA320W2‑L01, LTA260W1-Land LTM170W1-L01, with an aggregate value of USD 720, classifying them
+         under subheading of the CN and therefore applying to them a rate of import duty of 0%. 
+      
+It is apparent from the documents submitted to the Court that those devices are constituted of two glass plates, a layer of
+         liquid crystal inserted between the two plates, vertical and horizontal signal drivers, a backlight, an inverter providing
+         high-voltage power for the backlight and, finally, a control block – data transmission interface (control PCB or PWB) to ensure
+         sequential transmission of data to each pixel (dot) of the LCD unit using specific technology – LVDS (low-voltage differential
+         signalling). 
+      
+When Schenker’s declaration regarding those parts was checked, the Rīgas Muitas reģionālā iestāde (Riga Region Customs Office)
+         of the VID was doubtful as to whether the subheading of the CN given was correct. Samples were therefore retained and sent
+         to the appropriate customs service in order to establish the applicable code of the CN. The customs officials took the view
+         that the correct tariff classification was subheading and not the classification used by Schenker, namely subheading
+         20. The rate of import duty corresponding to the classification used by the VID which, in the view of that administration,
+         should have been applied to the parts is 14%.
+      
+Consequently, on February 2005, the VID adopted a decision by which it held that Schenker had committed an administrative
+         infringement on the basis of the provisions of the Latvian Administrative Infringements Code and imposed on it a fine of LVL 300,
+         which decision was confirmed by the Director-General of the VID on June 2005.
+      
+On July 2005, Schenker brought an action before the Administratīvā rajona tiesa (District Administrative Court) for annulment
+         of the decision of the Director-General of the VID submitting, essentially, that the parts at issue in the main proceedings
+         should not have been classified under subheading of the CN, that is to say, as finished articles within the meaning
+         of the CN, since they are not equipped with any interfaces for the transmission or reception of video signals.
+      
+On May 2006, the Administratīvā rajona tiesa dismissed Schenker’s action. While agreeing with Schenker that the parts in
+         question must not be declared as complete or finished articles, that court held that the technical documentation before it
+         shows that they contain the principal components which ensure performance of the basic function of the parts, namely the transmission
+         of data. The classification made by the VID is therefore justified, since the parts constitute incomplete or unfinished articles
+         which already have the essential character of the complete article.
+      
+On June 2006, Schenker lodged an appeal before the Administratīvā apgabaltiesa (Administrative Court of Appeal). That court,
+         having regard to the doubts which it entertained as to the tariff classification of the parts at issue in the main proceedings,
+         decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling: 
+      
+‘Must [sub]heading [90] of the Combined Nomenclature be interpreted as meaning that, as at December 2004, it was
+         also applicable to active matrix liquid crystal devices (TFT LCD – LTA320W2‑L01, LTA260W1‑L02, LTM170W1‑L01) principally made
+         up of the following elements:
+      
+–        two glass plates;
+–        a layer of liquid crystal inserted between the two plates;
+–        vertical and horizontal signal drivers;
+–        backlight;
+–        inverter providing high-voltage power for backlight;
+–        control block – data transmission interface (control PCB or PWB) to ensure sequential transmission of data to each pixel (dot)
+         of the LCD unit using specific technology – LVDS (low-voltage differential signalling)?’ 
+      
+ The question referred for a preliminary ruling
+ Arguments of the parties
+Schenker submits, essentially, that the devices at issue in the main proceedings are not intended for a single, specific use
+         and can be used to manufacture numerous articles, such as computers, video monitors, televisions, electronic signs, medical
+         installations, automatic monitoring installations or game machines. For that reason, those devices do not fall within subheading
+         of the CN which covers video monitors and, more generally, finished articles.
+      
+The VID and the Commission contend, however, that the devices at issue in the main proceedings, since they include additional
+         parts not listed in subheading of the CN, such as a backlight, an inverter providing high-voltage power for the
+         backlight and a control block ensuring sequential transmission of data to each pixel, cannot be classified in that subheading.
+         
+      
+Moreover, the VID submits that the devices in question are able to receive and display video images and so technically can
+         perform the principal function of a video monitor. Accordingly, in accordance with the General Rule set out in Section I(2)(a)
+         of Part I A of the CN, they can be regarded as unfinished or incomplete articles equivalent to finished/complete articles
+         and therefore as coming under subheading of the CN covering video monitors.
+      
+For its part, the Commission submits that, in accordance with the relevant Explanatory Note to the HS, the parts at issue
+         in the main proceedings, which can be regarded as parts intended for machines coming under heading of the CN, must be
+         classified under heading and more specifically under subheading of the CN.
+      
+In the view of the Hungarian Government, the devices in question do not have the essential characteristics of the completed
+         or finished article since, at this stage, it is not yet possible to determine in which type of finished article those devices
+         will be used. Consequently, the most appropriate heading of the CN would be heading 9013.
+      
+ Findings of the Court
+First of all, it is settled case-law that, in the interests of legal certainty and ease of verification, the decisive criterion
+         for the classification of parts for customs purposes is in general to be sought in their objective characteristics and properties
+         as defined in the wording of the relevant heading of the CN and in the section or chapter notes (see, inter alia, Case C‑142/Olicom [2007] ECR I‑6675, paragraph 16, and the case-law cited). 
+      
+In addition, the intended use of an article may constitute an objective criterion for classification if it is inherent to
+         the article, and that inherent character must be capable of being assessed on the basis of the article’s objective characteristics
+         and properties (see Case C‑403/Metherma [2008] ECR I‑0000, paragraph 47).
+      
+Both the notes which head the chapters of the Common Customs Tariff and the Explanatory Notes to the HS are important means
+         of ensuring the uniform application of the tariff and as such may be regarded as useful aids to its interpretation (Joined
+         Cases C‑362/and C‑363/Kip Europe and Others [2008] ECR I‑0000, paragraph 27). 
+      
+In the present case, having regard to the description of the parts at issue in the main proceedings supplied by the national
+         court, their characteristics do not correspond to subheading of the CN, which covers ‘active matrix liquid crystal
+         devices’. The devices at issue in the main proceedings are in fact also equipped with parts not listed in that heading, including,
+         inter alia, a backlight, an inverter providing high-voltage power for the backlight and a control block ensuring sequential
+         transmission of data to each pixel. Those devices may have a number of intended uses, but different vital components must
+         be added to them in order for those parts to acquire the basic characteristics of a complete article. Thus, nor is subheading
+         of the CN, which covers ‘video monitors’, that is to say, finished articles, the appropriate subheading for classification
+         of the liquid crystal devices at issue in the main proceedings.
+      
+It is true that, under the rule stated in Section I(2)(a) of Part I A of the CN, a particular heading covers an incomplete
+         or unfinished article, provided that, as presented, the incomplete or unfinished article has the essential character of the
+         complete or finished article. Such does not appear to be the case with the items at issue in the main proceedings since their
+         end use depends on the additional parts added to them during the next stage of manufacture.
+      
+Consequently, the liquid crystal devices at issue in the main proceedings cannot be classified under subheadings or of the CN.
+      
+However, those devices may, as parts which can be used in apparatus coming under heading of the CN (‘Reception apparatus
+         for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus;
+         video monitors and video projectors’), be classified, in accordance with the Explanatory Notes to the HS relating to heading
+         8528, under heading of the CN (‘Parts suitable for use solely or principally with the apparatus of headings to 8528’),
+         more specifically under subheading (‘for television cameras of subheading and apparatus of headings and 8528’).
+      
+It is for the national court to ascertain whether the liquid crystal devices at issue in the main proceedings have the objective
+         characteristics and properties necessary to be regarded as parts suitable for use solely or principally with the apparatus
+         of headings to of the CN.
+      
+Consequently, the answer to the question referred must be that subheading of the CN must be interpreted as not
+         applying, as at December 2004, to active matrix liquid crystal devices (LCD) principally made up of the following elements:
+      
+–        two glass plates;
+–        a layer of liquid crystal inserted between the two plates;
+–        vertical and horizontal signal drivers;
+–        backlight;
+–        inverter providing high-voltage power for backlight;
+–        control block – data transmission interface (control PCB or PWB) to ensure sequential transmission of data to each pixel (dot)
+         of the LCD unit using specific technology – LVDS (low-voltage differential signalling).
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Sixth Chamber) hereby rules:
+Subheading of the Combined Nomenclature constituting Annex I to Council Regulation (EEC) No 2658/of July
+            on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EC)
+            No 1789/of September 2003, must be interpreted as not applying, as at December 2004, to active matrix liquid crystal
+            devices (LCD) principally made up of the following elements:
+–       two glass plates;
+–       a layer of liquid crystal inserted between the two plates;
+–       vertical and horizontal signal drivers;
+–       backlight;
+–       inverter providing high-voltage power for backlight;
+–        control block – data transmission interface (control PCB or PWB) to ensure sequential transmission of data to each pixel (dot)
+            of the LCD unit using specific technology – LVDS (low-voltage differential signalling). 
+[Signatures]
+* Language of the case: Latvian.
+      
+Top  
+ 

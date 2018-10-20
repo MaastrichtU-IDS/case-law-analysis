@@ -1,0 +1,240 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+November (
+*)
+‛Reference for a preliminary ruling — Directive 2002/47/EC — Scope — Definition of ‘financial collateral’, ‘relevant financial obligations’ and ‘provision’ of financial collateral — Whether it is possible to enforce financial collateral notwithstanding the commencement of insolvency proceeding — Current account agreement including a financial collateral clause’
+In Case C‑156/15,
+REQUEST for a preliminary ruling under Article TFEU from the Augstākās tiesas Civillietu departaments (Supreme Court, Civil Division, Latvia), made by decision of March 2015, received at the Court on April 2015, in the proceedings
+‘Private Equity Insurance Group’ SIA
+v
+‘Swedbank’ AS,
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz (Rapporteur), President of the Chamber, E. Juhász, C. Vajda and K. Jürimäe and C. Lycourgos, Judges,
+Advocate General: M. Szpunar,
+Registrar: M. Aleksejev, Administrator,
+having regard to the written procedure and further to the hearing on May 2016,
+after considering the observations submitted on behalf of:
+—
+‘Private Equity Insurance Group’ SIA, by N. Šlitke, advokāts,
+—
+‘Swedbank’ AS, by R. Vonsovičs, D. Lasmanis and I. Balmaks, advokāti, and R. Rubenis,
+—
+the Latvian Government, by I. Kalniņš and J. Treijs-Gigulis, acting as Agents,
+—
+the Spanish Government, by M. García-Valdecasas Dorrego and V. Ester Casas, acting as Agents,
+—
+the United Kingdom Government, by J. Kraehling, acting as Agent, J. Holmes, Barrister, and B. Kenelly QC,
+—
+the European Commission, by J. Rius, A. Sauka and K.-Ph. Wojcik, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Directive 2002/47/EC of the European Parliament and of the Council of June on financial collateral arrangements (OJ L 168, p. 43).
+The request has been made in proceedings between ‘Private Equity Insurance Group’ SIA and ‘Swedbank’ AS concerning a claim for damages brought by the former company against the latter.
+Legal context
+EU law
+Directive 98/26/EC
+Article of Directive 98/26/EC of the European Parliament and of the Council of May on settlement finality in payment and securities settlement systems (OJ L 166, p. 45) provides as follows:
+‘The provisions of this Directive shall apply to:
+(a)
+any system as defined in Article 2(a), governed by the law of a Member State and operating in any currency, the [euro] or in various currencies which the system converts one against another;
+(b)
+any participant in such a system;
+(c)
+collateral security provided in connection with:
+—
+participation in a system, or
+—
+operations of the central banks of the Member States in their functions as central banks.’
+The first subparagraph of Article 2(a) of Directive 98/states as follows:
+‘For the purpose of this Directive:
+‘(a)
+“system” shall mean a formal arrangement:
+—
+between three or more participants, without counting a possible settlement agent, a possible central counterparty, a possible clearing house or a possible indirect participant, with common rules and standardised arrangements for the execution of transfer orders between the participants,
+—
+governed by the law of a Member State chosen by the participants; the participants may, however, only choose the law of a Member State in which at least one of them has its head office, and
+—
+designated, without prejudice to other more stringent conditions of general application laid down by national law, as a system and notified to the Commission by the Member State whose law is applicable, after that Member State is satisfied as to the adequacy of the rules of the system.’
+Directive 2002/Recitals 1, to 5, 9, 10, and of Directive 2002/state as follows:
+‘(1)
+Directive [98/26] constituted a milestone in establishing a sound legal framework for payment and securities settlement systems. Implementation of that Directive has demonstrated the importance of limiting systemic risk inherent in such systems stemming from the different influence of several jurisdictions, and the benefits of common rules in relation to collateral constituted to such systems.
+…
+(3)
+A Community regime should be created for the provision of securities and cash as collateral under both security interest and title transfer structures including repurchase agreements (repos). This will contribute to the integration and cost-efficiency of the financial market as well as to the stability of the financial system in the Community, thereby supporting the freedom to provide services and the free movement of capital in the single market in financial services. This Directive focuses on bilateral financial collateral arrangements.
+(4)
+This Directive is adopted in a European legal context which consists in particular of the said [Directive 98/26] as well as Directive 2001/24/EC of the European Parliament and of the Council of April on the reorganisation and winding up of credit institutions [(OJ L 125, p. 15)], Directive 2001/17/EC of the European Parliament and of the Council of March on the reorganisation and winding-up of insurance undertakings [(OJ L 110, p. 28)] and Council Regulation (EC) No 1346/of May on insolvency proceedings [(OJ L 160, p. 1)]. This Directive is in line with the general pattern of these previous legal acts and is not opposed to it. Indeed, this Directive complements these existing legal acts by dealing with further issues and going beyond them in connection with particular matters already dealt with by these legal acts.
+(5)
+In order to improve the legal certainty of financial collateral arrangements, Member States should ensure that certain provisions of insolvency law do not apply to such arrangements, in particular, those that would inhibit the effective realisation of financial collateral or cast doubt on the validity of current techniques such as bilateral close-out netting, the provision of additional collateral in the form of top-up collateral and substitution of collateral.
+…
+(9)
+In order to limit the administrative burdens for parties using financial collateral under the scope of this Directive, the only perfection requirement which national law may impose in respect of financial collateral should be that the financial collateral is delivered, transferred, held, registered or otherwise designated so as to be in the possession or under the control of the collateral taker or of a person acting on the collateral taker’s behalf while not excluding collateral techniques where the collateral provider is allowed to substitute collateral or to withdraw excess collateral.
+(10)
+For the same reasons, the creation, validity, perfection, enforceability or admissibility in evidence of a financial collateral arrangement, or the provision of financial collateral under a financial collateral arrangement, should not be made dependent on the performance of any formal act such as the execution of any document in a specific form or in a particular manner, the making of any filing with an official or public body or registration in a public register, advertisement in a newspaper or journal, in an official register or publication or in any other matter, notification to a public officer or the provision of evidence in a particular form as to the date of execution of a document or instrument, the amount of the relevant financial obligations or any other matter. This Directive must however provide a balance between market efficiency and the safety of the parties to the arrangement and third parties, thereby avoiding inter alia the risk of fraud. This balance should be achieved through the scope of this Directive covering only those financial collateral arrangements which provide for some form of dispossession, i.e. the provision of the financial collateral, and where the provision of the financial collateral can be evidenced in writing or in a durable medium, ensuring thereby the traceability of that collateral. …
+…
+(17)
+This Directive provides for rapid and non-formalistic enforcement procedures in order to safeguard financial stability and limit contagion effects in case of a default of a party to a financial collateral arrangement. …
+(18)
+… Cash refers only to money which is represented by a credit to an account, or similar claims on repayment of money (such as money market deposits), thus explicitly excluding banknotes.’
+Article of Directive 2002/47, entitled ‘Subject matter and scope’, provides as follows:
+‘1.   This Directive lays down a Community regime applicable to financial collateral arrangements which satisfy the requirements set out in paragraphs and and to financial collateral in accordance with the conditions set out in paragraphs and 5.
+2.   The collateral taker and the collateral provider must each belong to one of the following categories:
+(a)
+a public authority …
+(b)
+a central bank …
+(c)
+a financial institution subject to prudential supervision …
+(d)
+a central counterparty, settlement agent or clearing house, as defined respectively in Article 2(c), (d) and (e) of Directive [98/26] …
+(e)
+a person other than a natural person, including unincorporated firms and partnerships, provided that the other party is an institution as defined in points (a) to (d).
+3.   Member States may exclude from the scope of this Directive financial collateral arrangements where one of the parties is a person mentioned in paragraph 2(e).
+…
+4.   (a) The financial collateral to be provided must consist of cash or financial instruments.
+…
+5.   This Directive applies to financial collateral once it has been provided and if that provision can be evidenced in writing.
+The evidencing of the provision of financial collateral must allow for the identification of the financial collateral to which it applies. For this purpose, it is sufficient to prove that the book entry securities collateral has been credited to, or forms a credit in, the relevant account and that the cash collateral has been credited to, or forms a credit in, a designated account.
+…’
+Article of Directive 2002/47, entitled ‘Definitions’, reads as follows:
+‘1.   For the purpose of this Directive:
+(a)
+“financial collateral arrangement” means a title transfer financial collateral arrangement or a security financial collateral arrangement whether or not these are covered by a master agreement or general terms and conditions;
+…
+(c)
+“security financial collateral arrangement” means an arrangement under which a collateral provider provides financial collateral by way of security in favour of, or to, a collateral taker, and where the full ownership of the financial collateral remains with the collateral provider when the security right is established;
+(d)
+“cash” means money credited to an account in any currency, or similar claims for the repayment of money, such as money market deposits;
+…
+(f)
+“relevant financial obligations” means the obligations which are secured by a financial collateral arrangement and which give a right to cash settlement and/or delivery of financial instruments.
+Relevant financial obligations may consist of or include:
+(i)
+present or future, actual or contingent or prospective obligations (including such obligations arising under a master agreement or similar arrangement);
+(ii)
+obligations owed to the collateral taker by a person other than the collateral provider; or
+(iii)
+obligations of a specified class or kind arising from time to time;
+…
+2.   References in this Directive to financial collateral being “provided”, or to the “provision” of financial collateral, are to the financial collateral being delivered, transferred, held, registered or otherwise designated so as to be in the possession or under the control of the collateral taker or of a person acting on the collateral taker’s behalf. Any right of substitution or to withdraw excess financial collateral in favour of the collateral provider shall not prejudice the financial collateral having been provided to the collateral taker as mentioned in this Directive.
+3.   References in this Directive to “writing” include recording by electronic means and any other durable medium.’
+Article of Directive 2002/47, entitled ‘Formal requirements’, is worded as follows:
+‘1.   Member States shall not require that the creation, validity, perfection, enforceability or admissibility in evidence of a financial collateral arrangement or the provision of financial collateral under a financial collateral arrangement be dependent on the performance of any formal act.
+2.   Paragraph is without prejudice to the application of this Directive to financial collateral only once it has been provided and if that provision can be evidenced in writing and where the financial collateral arrangement can be evidenced in writing or in a legally equivalent manner.’
+Article of Directive 2002/47, entitled ‘Enforcement of financial collateral arrangements’, provides as follows:
+‘1.   Member States shall ensure that on the occurrence of an enforcement event, the collateral taker shall be able to realise, in the following manners, any financial collateral provided under, and subject to the terms agreed in, a security financial collateral arrangement:
+…
+(b)
+cash by setting off the amount against or applying it in discharge of the relevant financial obligations;
+…
+4.   The manners of realising the financial collateral referred to in paragraph shall, subject to the terms agreed in the security financial collateral arrangement, be without any requirement to the effect that:
+(a)
+prior notice of the intention to realise must have been given;
+(b)
+the terms of the realisation be approved by any court, public officer or other person;
+(c)
+the realisation be conducted by public auction or in any other prescribed manner; or
+(d)
+any additional time period must have elapsed.
+5.   Member States shall ensure that a financial collateral arrangement can take effect in accordance with its terms notwithstanding the commencement or continuation of winding-up proceedings or reorganisation measures in respect of the collateral provider or collateral taker.
+…’
+Article of Directive 2002/47, entitled ‘Certain insolvency provisions disapplied’, provides as follows:
+‘1.   Member States shall ensure that a financial collateral arrangement, as well as the provision of financial collateral under such arrangement, may not be declared invalid or void or be reversed on the sole basis that the financial collateral arrangement has come into existence, or the financial collateral has been provided:
+(a)
+on the day of the commencement of winding-up proceedings or reorganisation measures, but prior to the order or decree making that commencement; or
+(b)
+in a prescribed period prior to, and defined by reference to, the commencement of such proceedings or measures or by reference to the making of any order or decree or the taking of any other action or occurrence of any other event in the course of such proceedings or measures.
+2.   Member States shall ensure that where a financial collateral arrangement or a relevant financial obligation has come into existence, or financial collateral has been provided on the day of, but after the moment of the commencement of, winding-up proceedings or reorganisation measures, it shall be legally enforceable and binding on third parties if the collateral taker can prove that he was not aware, nor should have been aware, of the commencement of such proceedings or measures.
+3.   Where a financial collateral arrangement contains:
+(a)
+an obligation to provide financial collateral or additional financial collateral in order to take account of changes in the value of the financial collateral or in the amount of the relevant financial obligations, or
+(b)
+a right to withdraw financial collateral on providing, by way of substitution or exchange, financial collateral of substantially the same value,
+Member States shall ensure that the provision of financial collateral, additional financial collateral or substitute or replacement financial collateral under such an obligation or right shall not be treated as invalid or reversed or declared void on the sole basis that:
+(i)
+such provision was made on the day of the commencement of winding-up proceedings or reorganisation measures, but prior to the order or decree making that commencement or in a prescribed period prior to, and defined by reference to, the commencement of winding-up proceedings or reorganisation measures or by reference to the making of any order or decree or the taking of any other action or occurrence of any other event in the course of such proceedings or measures; and/or
+(ii)
+the relevant financial obligations were incurred prior to the date of the provision of the financial collateral, additional financial collateral or substitute or replacement financial collateral.
+…’
+Latvian law
+The Finanšu nodrošinājuma likums (Law on financial collateral) was adopted in order to transpose Directive 2002/into Latvian law.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On April 2007, Izdevniecība Stilus SIA, the legal successor to which is Private Equity Insurance Group SIA, entered into a standard current account contract with Swedbank AS. That contract contains a financial collateral clause under which monies deposited in Izdevniecība Stilus’s current account are pledged to Swedbank as financial collateral in order to cover all debts owed by Izdevniecība Stilus to Swedbank.
+On October 2010, Izdevniecība Stilus was declared insolvent. Subsequently, the insolvency administrator entered into a new current account contract with Swedbank containing the same financial collateral clause.
+On June 2011, Swedbank debited 192.Latvian lats (LVL) (approximately EUR 274) from the current account of Izdevniecība Stilus as a maintenance commission in respect of the period up to the declaration of insolvency.
+Izdevniecība Stilus, represented by the insolvency administrator, brought an action against Swedbank for recovery of that amount, invoking the principle laid down in national law of equal treatment of creditors in insolvency proceedings and the prohibition preventing an individual creditor carrying out actions liable to prejudice other creditors.
+The Latvian courts dismissed the application at first instance and on appeal on the basis, inter alia, of the Law on financial collateral, which excluded financial collateral from the application of insolvency law. An appeal in cassation was then lodged before the Augstākās tiesas Civillietu departaments (Supreme Court, Civil Division, Latvia).
+That court observes in that regard that Directive 2002/was adopted in a context established, inter alia, by Directive 98/26, which concerns securities payment and settlement systems. It is therefore uncertain, in the first place, whether Directive 2002/is also applicable to monies deposited in an ordinary bank account, such as the account in question in the main proceedings, where it is used in a context other than that of the payment and securities settlement systems referred to in Articles and of Directive 98/26.
+In the second place, the Augstākās tiesas Civillietu departaments (Supreme Court, Civil Division) entertains doubts as to whether the priority given to financial collateral over any other form of security, in particular over those recorded in a register, such as mortgages, is compatible with the principle that creditors are to be treated equally in insolvency proceedings. The referring court is uncertain, in particular, whether such priority is justified and proportionate in the light of the objectives of Directive 2002/47.
+In the third place, the referring court observes that the Law on financial collateral is applicable to both the persons identified in Article 1(2)(e) of Directive 2002/and to natural persons. As a consequence, it is uncertain, first, whether that provision permits the extension of the rules laid down in the directive to persons who are expressly excluded from its scope and, second, if that is the case, whether that provision is directly applicable. While it acknowledges that those are hypothetical questions in so far as concerns the main proceedings, that court is of the view that they may prove to be relevant if a review were to be carried out by the Latvijas Republikas Satversmes tiesa (Constitutional Court, Latvia) as to whether the Law on financial collateral is compatible with the Latvian constitution.
+In those circumstances, the Augstākās tiesas Civillietu departaments (Supreme Court, Civil Division) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Must the provisions of Article of Directive 2002/on the enforcement of financial collateral arrangements, having regard to recitals and in the preamble thereto, be interpreted as meaning that those provisions apply only to accounts which are used for settlement in securities settlement systems, or as meaning that they apply equally to any account open in a bank, including a current account which is not used for securities settlement?
+(2)
+Must Article and Article of Directive 2002/47, having regard to recitals and in the preamble thereto, be interpreted as meaning that the purpose of that directive is to ensure especially favourable priority treatment for credit institutions in the event of the insolvency of their customers, in particular, over other creditors of those customers, such as workers, in respect of wages owing to them, the State, in respect of its tax claims, and secured creditors, whose claims are secured by securities protected by the presumption of authenticity resulting from registration in a public register?
+(3)
+Must Article 1(2)(e) of Directive 2002/be understood as an instrument for minimum harmonisation or for full harmonisation, that is to say, must it be interpreted as meaning that it allows Member States to extend that provision to persons who are expressly excluded from the scope of the directive?
+(4)
+Is Article 1(2)(e) of Directive 2002/a directly applicable provision?
+(5)
+In the event that the purpose and scope of Directive 2002/are more limited than the actual purpose and scope of the national law, the adoption of which was formally justified on the basis of the obligation to transpose Directive 2002/47, may the interpretation of that directive be used to invalidate a financial collateral clause based on national law, such as the clause at issue in the main proceedings?’
+Consideration of the questions referred
+Questions and By its first and second questions, which it is appropriate to examine together, the referring court seeks to ascertain, in essence, whether Directive 2002/is to be interpreted as conferring on the taker of financial collateral, such as the collateral at issue in the main proceedings, whereby monies deposited in a bank account are pledged to the bank to cover all the account holder’s debts to the bank, the right to enforce the collateral, notwithstanding the commencement of insolvency proceedings in respect of the collateral provider.
+It should be noted in that regard that recital of Directive 2002/states that the directive is intended to contribute to the integration and cost-efficiency of the financial market as well as to the stability of the financial system in the European Union.
+To that end, Directive 2002/establishes a regime, the objective of which, as is apparent from recitals 5, 9, and thereof, is to limit the administrative burdens for parties using financial collateral under the scope of the directive, to improve the legal certainty of such collateral by ensuring that certain provisions of national insolvency law do not apply to financial collateral arrangements and to provide for rapid and non-formalistic enforcement procedures in order to safeguard financial stability and limit contagion effects in case of a default of a party to a financial collateral arrangement.
+Thus, first, Article of Directive 2002/prohibits Member States, in essence, from requiring that the creation, validity, perfection, enforceability or admissibility in evidence of a financial collateral arrangement or the provision of financial collateral under a financial collateral arrangement be dependent on the performance of any formal act.
+Second, Article 4(1) of Directive 2002/provides that the taker of collateral under a security financial collateral arrangement must be able to realise the collateral in any of the manners described in the directive. Under Article 4(5) of the directive, Member States are to ensure that a financial collateral arrangement can take effect in accordance with its terms notwithstanding the commencement or continuation of winding-up proceedings or reorganisation measures in respect of the collateral provider or collateral taker.
+As a consequence, while it establishes that the use of financial collateral cannot be dependent on the performance of formal acts, the regime introduced by Directive 2002/confers on collateral takers the right to enforce the collateral notwithstanding the commencement of insolvency proceedings in respect of the collateral provider.
+That being the case, it is necessary to determine whether collateral such as that at issue in the main proceedings falls with the scope of Directive 2002/47.
+It is common ground that the collateral at issue in the main proceedings falls within the scope ratione personae of Directive 2002/47, as defined in Article 1(2) thereof.
+As regards the scope ratione materiae of Directive 2002/47, it should be noted, first, that the obligations secured by the collateral must be ‘relevant financial obligations’ within the meaning of Article 2(1)(f) of the directive. According to the definition given in that provision, ‘relevant financial obligations’ are obligations which are secured by a financial collateral arrangement and which give a right to cash settlement and/or delivery of financial instruments. They may consist of or include present or future obligations, including such obligations arising under a master agreement or similar arrangement, obligations owed to the collateral taker by a person other than the collateral provider, or obligations of a specified class or kind arising from time to time.
+Thus, as contended by all the parties that submitted observations to the Court, the definition of ‘relevant financial obligations’ in Article 2(1)(f) of Directive 2002/covers a situation such as that in the main proceedings, in which the collateral covers all the debts owed by the account holder to the bank.
+First, in the absence of any express limitation in Directive 2002/47, the words ‘obligations … which give a right to cash settlement’ in the definition set out in Article 2(1)(f) of the directive must be understood as covering any obligation giving a right to cash settlement and, therefore, also ordinary pecuniary debts owed by an account holder to his bank, such as the maintenance commission at issue in the main proceedings.
+Second, as relevant financial obligations may, according to the actual wording of the definition in Article 2(1)(f) of Directive 2002/47, consist of or include present and future obligations, including such obligations arising under a master agreement or similar arrangement, that definition also encompasses a situation such as that in the main proceedings, in which the collateral covers not only individual obligations but also all the debts owed by the account holder to the bank.
+Next, it should be noted that, pursuant to Article 1(4)(a) of Directive 2002/47, the collateral covered by the directive must consist of cash or financial instruments. The term ‘cash’ is defined in Article 2(1)(d) of the directive as money credited to an account, or similar claims for the repayment of money, such as money market deposits. Moreover, it is apparent from recital of the directive that banknotes are excluded from that definition. As Directive 2002/does not provide for any other form of exclusion, it must be concluded, as observed by the Advocate General at point of his Opinion, that that definition covers monies deposited in a bank account such as the account in the main proceedings.
+With regard to the question raised by the referring court as to whether the scope ratione materiae of Directive 2002/must, having regard to the context in which the directive was adopted, be limited to monies deposited in accounts used in payment and securities settlement systems in accordance with Articles and of Directive 98/26, no support for such a limitation is to be found in the wording of Directive 2002/47. On the contrary, while it is true, as is clear from recitals and of that directive, that it was adopted in a context which consisted, inter alia, of Directive 98/and that the EU legislature considered that it would be advantageous for collateral provided under the payment and settlement systems covered by Directive 98/to be subject to common rules, Directive 2002/nonetheless, as indicated in recital thereof, complemented the existing legal acts by dealing with further issues and going beyond them. Furthermore, as observed by the Advocate General in point of his Opinion, the explanatory memorandum to the Proposal for a Directive of the European Parliament and of the Council on financial collateral arrangements (OJ C E, p. 312) also confirms that Directive 2002/was adopted with the objective of going beyond the scope of Directive 98/26.
+It follows that the scope ratione materiae of Directive 2002/cannot be regarded as confined to monies deposited in accounts used in payment and securities settlement systems in accordance with Directive 98/26.
+That said, it should be noted that, according to the first subparagraph of Article 1(5) of Directive 2002/47, the directive applies to financial collateral once it has been provided and if that provision can be evidenced in writing, which includes, under Article 2(3) of the directive, recording by electronic means and any other durable medium. For its part, Article 3(2) of Directive 2002/expressly states that the prohibition, laid down in Article 3(1) of the directive, on making the creation of a financial settlement arrangement dependent on the performance of any formal act is without prejudice to the application of the directive to financial collateral only once it has been provided, on condition that such provision is evidenced in writing.
+According to the definition in the first sentence of Article 2(2) of Directive 2002/47, references to the ‘provision’ of financial collateral are to the financial collateral being delivered, transferred, held, registered or otherwise designated so as to be in the possession or under the control of the collateral taker or of a person acting on the collateral taker’s behalf.
+However, Directive 2002/does not specify the circumstances in which the criterion requiring the collateral taker to be in ‘possession’ or ‘control’ of collateral is fulfilled in the case of intangible collateral, such as that at issue in the main proceedings, consisting of monies deposited in a bank account.
+In the absence of any express reference to the laws of the Member States, that criterion must be given an autonomous and uniform interpretation throughout the European Union which takes into account its wording, context and objective (see, to that effect, judgment of July 2015, A, C‑184/14, EU:C:2015:479, paragraphs and and the case-law cited).
+In that regard, it is apparent from recital of Directive 2002/that the directive seeks to strike a balance between, on the one hand, market efficiency, by eschewing formal requirements for the creation of financial collateral and, on the other, the safety of the parties to the financial collateral arrangement and third parties, by requiring that financial collateral be provided in a way that provides for some form of dispossession.
+The requirement relating to the provision of financial collateral is designed to ensure that the collateral taker identified in the financial collateral arrangement is actually in a position to dispose of the collateral when an enforcement event occurs.
+It should be added that it is apparent from recital of Directive 2002/that the directive provides for rapid and non-formalistic enforcement procedures in order to safeguard financial stability and limit contagion effects in case of a default of a party to a financial collateral arrangement. In so far as it provides assurance that the collateral taker will actually be able to dispose of it, the requirement for the provision of financial collateral is liable to secure the attainment of that objective.
+Moreover, the second sentence of Article 2(2) of Directive 2002/provides that any right of substitution or to withdraw excess financial collateral in favour of the collateral provider must not prejudice the financial collateral having been provided to the collateral taker. That right would lack any force if the taker of collateral consisting in monies deposited in a bank account were also to be regarded as having acquired ‘possession or control’ of the monies where the account holder may freely dispose of them.
+It follows that the taker of collateral, such as the collateral at issue in the main proceedings, in the form of monies lodged in an ordinary bank account may be regarded as having acquired ‘possession or control’ of the monies only if the collateral provider is prevented from disposing of them.
+It should also be borne in mind that financial collateral does not, in principle, fall within the scope of Directive 2002/if it was provided after the commencement of insolvency proceedings.
+In essence, the effect of Article 8(1) and (3) of Directive 2002/is that insolvency proceedings cannot have a retroactive effect on financial collateral provided before the commencement of such proceedings. On the other hand, under Article 8(2) of the directive, where collateral has been provided after the commencement of such proceedings, the collateral arrangement will be legally enforceable and binding on third parties only in exceptional circumstances, namely only if the collateral was provided on the day of commencement and the collateral taker provides evidence that he was not aware, nor should have been aware, of the commencement of the proceedings. As the Advocate General observed in points and of his Opinion, it follows that, subject to the situations referred to in Article 8(2) thereof, the directive does not cover collateral provided after the commencement of insolvency proceedings.
+In the present case, having regard to the considerations set out in paragraphs and above, it is for the national court to verify, inter alia, first, whether the monies debited by Swedbank from the account of Izdevniecība Stilus were deposited in that account before the commencement of the insolvency proceedings or whether they were deposited on the day those proceedings commenced, Swedbank having proved that it was not aware, nor should have been aware, of the commencement of those proceedings, and, second, whether Izdevniecība Stilus was prevented from disposing of the monies after they had been deposited in that account.
+Subject to verification by the national court, it would appear that those requirements are not met in the present case. At the hearing before the Court, the parties to the main proceedings were in agreement, first, that the monies debited by Swedbank were deposited in the account in question only after the date on which the insolvency proceedings commenced and, second, that the financial collateral arrangement at issue in the main proceedings does not contain any clause to the effect that Izdevniecība Stilus was prevented from disposing of the monies after they had been deposited in the account.
+Lastly, in so far as the referring court is uncertain whether the regime established by Directive 2002/is compatible with the principle that creditors are to be treated equally in insolvency proceedings, it should also be borne in mind that it is established case-law that the principle of equality before the law, set out in Article of the Charter of Fundamental Rights of the European Union, is a general principle of EU law which requires that comparable situations should not be treated differently and that different situations should not be treated in the same way, unless such different treatment is objectively justified. A difference in treatment is justified if it is based on an objective and reasonable criterion, that is, if the difference relates to a legally permitted aim pursued by the legislation in question, and it is proportionate to the aim pursued by the treatment (judgment of October 2013, Schaible, C‑101/12, EU:C:2013:661, paragraphs and and the case-law cited).
+As is apparent from paragraph above, while it establishes that the provision of financial collateral cannot be dependent of the performance of formal acts, the regime introduced by Directive 2002/confers on collateral takers the right to enforce the collateral notwithstanding the commencement of insolvency proceedings in respect of the collateral provider. That regime therefore confers an advantage on financial collateral by comparison with other types of security which fall outside the scope of the directive.
+It must be noted that such different treatment is based on an objective criterion that relates to the legitimate aim of Directive 2002/47, which is to improve the legal certainty and effectiveness of financial collateral in order to provide stability in the financial system.
+Moreover, there is nothing in the request for a preliminary ruling to suggest that the different treatment in question is disproportionate to the aim pursued. In that regard, account should be taken, inter alia, of the fact that Directive 2002/is applicable ratione materiae only if the collateral is provided and, in order for it to be so applicable, requires, subject to Article 8(2) of the directive, that the collateral be provided before the commencement of insolvency proceedings. It follows, as the Advocate General observed in point of his Opinion, that sums paid into the collateral provider’s account after the commencement of insolvency proceedings are not, in principle, covered by the regime established by Directive 2002/47. Moreover, as regards the application ratione personae of the directive, Article 1(3) thereof permits Member States to exclude financial collateral arrangements in which one of the parties is a person mentioned in Article 1(2)(e). Lastly, it should be recalled that the regime established by Directive 2002/concerns only part of the collateral of the provider in respect of which the latter has accepted some form of dispossession.
+In those circumstances, it must be concluded that the examination of the first and second questions referred for a preliminary ruling has disclosed no factor of such a kind as to affect the validity of Directive 2002/47, having regard to the principle of equal treatment.
+In the light of the foregoing considerations, the answer to Questions and is that Directive 2002/is to be interpreted as conferring on the taker of financial collateral, such as the collateral at issue in the main proceedings, whereby monies deposited in a bank account are pledged to the bank to cover all the account holder’s debts to the bank, the right to enforce the collateral, notwithstanding the commencement of insolvency proceedings in respect of the collateral provider, only if, first, the monies covered by the collateral were deposited in the account in question before the commencement of those proceedings or those monies were deposited on the day of commencement, the bank having proved that it was not aware, nor should have been aware, that those proceedings had commenced and, second, the account holder was prevented from disposing of those monies after they had been deposited in that account.
+Questions and By its third and fourth question, the referring court seeks to ascertain, in essence, whether Article 1(2)(e) of Directive 2002/is to be interpreted as permitting a Member State to extend the scope ratione personae of the directive to natural persons and whether that provision is directly applicable.
+In that regard, according to the Court’s established case-law, the justification for a request for a preliminary ruling is not that it enables advisory opinions on general or hypothetical questions to be delivered but rather that it is necessary for the effective resolution of a dispute concerning EU law (see, to that effect, judgment of November 2013, Romeo, C‑313/12, EU:C:2013:718, paragraph and the case-law cited).
+In the present case, the referring court accepts that its third and fourth questions are purely hypothetical in so far as concerns the main proceedings, which do not involve any natural person.
+As the Advocate General observed in point of his Opinion, the fact that those questions might prove to be relevant in connection with a possible review of the constitutionality of the Law on financial collateral by the Latvijas Republikas Satversmes tiesa (Constitutional Court) cannot remove the hypothetical character of those questions in the present case.
+It follows that the third and fourth questions are inadmissible.
+Question By its fifth question, the referring court seeks to ascertain, in essence, whether it is possible, in the event that the purpose and scope of Directive 2002/are more limited than the purpose and scope of the national legislation transposing that directive, to interpret the directive as precluding as invalid a financial collateral clause based on national law, such as the clause at issue in the main proceedings.
+According to the Court’s settled case-law, the requirements concerning the content of a request for a preliminary ruling are expressly set out in Article of the Court’s Rules of Procedure, of which the national court should, in the context of the cooperation instituted by Article TFEU, be aware and which it is bound to observe scrupulously (orders of May 2016, Security Service and Others, C‑692/to C‑694/15, EU:C:2016:344, paragraph 18, and September 2016, Google Ireland and Google Italy, C‑322/15, EU:C:2016:672, paragraph 15).
+Thus, the court making the reference must set out the precise reasons that led it to raise the question of the interpretation of certain provisions of EU law and to consider it necessary to refer questions to the Court for a preliminary ruling. The Court has previously held that it is essential that the national court should give at the very least some explanation of the reasons for the choice of the EU law provisions which it seeks to have interpreted and of the link it establishes between those provisions and the national legislation applicable to the proceedings pending before it (judgment of March 2016, Safe Interenvíos, C‑235/14, EU:C:2016:154, paragraph 115, and order of May 2016, Security Service and Others, C‑692/to C‑694/15, EU:C:2016:344, paragraph 20).
+It should be noted in that regard that the information provided in requests for a preliminary ruling serves not only to enable the Court to provide useful answers to the questions submitted by the referring court, but also to ensure that the governments of the Member States and other interested parties have the opportunity to submit observations, in accordance with Article of the Statute of the Court of Justice of the European Union (see, to that effect, judgment of July 2016, Ognyanov, C‑614/14, EU:C:2016:514, paragraph 20, and order of September 2016, Google Ireland and Google Italy, C‑322/15, EU:C:2016:672, paragraph 17).
+In the present case, the referring court merely submits the fifth question without providing any further explanation in the grounds of the order for reference. That question simply refers, in general terms, to a hypothetical situation in which the purpose and scope of Directive 2002/are more limited than the purpose and scope of national law, without indicating the elements or specific provisions of the directive and the national legislation in question which led the referring court to submit that question.
+It is therefore impossible to ascertain with any degree of certainty the situation to which the national court is referring in its fifth question. In particular, it is not possible for the Court to determine, on the basis of the order for reference, whether that court is referring to the situation — which is purely hypothetical in the main proceedings — in which the scope ratione personae of Directive 2002/is more limited than that under national law, or whether it is alluding to other situations.
+In the light of those shortcomings, the order for reference does not provide the governments of the Member States or other interested parties within the meaning of Article of the Statute of the Court of Justice with the opportunity to submit useful observations on the fifth question or the Court to provide a useful answer to the referring court to enable it to resolve the dispute pending before it.
+Accordingly, the fifth question is inadmissible.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Directive 2002/47/EC of the European Parliament and of the Council of June on financial collateral arrangements is to be interpreted as conferring on the taker of financial collateral, such as the collateral at issue in the main proceedings, whereby monies deposited in a bank account are pledged to the bank to cover all the account holder’s debts to the bank, the right to enforce the collateral, notwithstanding the commencement of insolvency proceedings in respect of the collateral provider, only if, first, the monies covered by the collateral were deposited in the account in question before the commencement of those proceedings or those monies were deposited on the day of commencement, the bank having proved that it was not aware, nor should have been aware, that those proceedings had commenced and, second, the account holder was prevented from disposing of those monies after they had been deposited in that account.
+ 
+[Signatures]
+(
+*)	Language of the case: Latvian.
+Top  
+ 

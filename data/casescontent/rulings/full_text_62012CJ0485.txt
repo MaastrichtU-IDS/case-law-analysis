@@ -1,0 +1,167 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+April (
+*)
+‛Agriculture — Common agricultural policy — Direct support schemes — Regulation (EC) No 73/— Integrated administration and control system for certain aid schemes — Identification system for agricultural parcels — Eligibility conditions for aid — Administrative controls — On-the-spot checks — Regulation (EC) No 796/— Determination of the areas eligible for aid — Remote sensing — Physical inspection of agricultural parcels’
+In Case C‑485/12,
+REQUEST for a preliminary ruling under Article TFEU from the College van Beroep voor het bedrijfsleven (Netherlands), made by decision of October 2012, received at the Court on October 2012, in the proceedings
+Maatschap T. van Oosterom en A. van Oosterom-Boelhouwer
+v
+Staatssecretaris van Economische Zaken, Landbouw en Innovatie,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, A. Borg Barthet (Rapporteur), E. Levits, S. Rodin and F. Biltgen, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+the Netherlands Government, by M. Bulterman and M. de Ree, acting as Agents,
+—
+the German Government, by T. Henze and J. Möller, acting as Agents,
+—
+the Greek Government, by I.-K. Chalkias and A.-E. Vasilopoulou, acting as Agents,
+—
+the Spanish Government, by N. Díaz Abad, acting as Agent,
+—
+the Polish Government, by B. Majczyna and M. Szpunar, acting as Agents,
+—
+the European Commission, by B. Schima and B. Burggraaf, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 32(1)(b) of Commission Regulation (EC) No 796/of April laying down detailed rules for the implementation of cross-compliance, modulation and the integrated administration and control system provided for in Council Regulation (EC) No 1782/of September establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers (OJ L 141, p. 18), as amended by Commission Regulation (EC) No 972/of August (OJ L 216, p. 3) (‘Regulation No 796/2004’).
+The request has been made in proceedings between Maatschap T. van Oosterom en A. van Oosterom-Boelhouwer (‘Maatschap’) and the Staatssecretaris van Economische Zaken, Landbouw en Innovatie (State Secretary for Economic Affairs, Agriculture and Innovation) (‘the Staatssecretaris’) concerning the conditions governing determination of the areas eligible for aid under the single payment scheme.
+Legal context
+Regulation (EC) No 73/Under the first paragraph of Article of Council Regulation (EC) No 73/of January establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006, (EC) No 378/and repealing Regulation (EC) No 1782/(OJ L 30, p. 16):
+‘Each Member State shall set up and operate an integrated administration and control system (hereinafter referred to as the “integrated system”).’
+In accordance with Article 15(1) of Regulation No 73/2009:
+‘The integrated system shall comprise the following elements:
+(a)
+a computerised database;
+(b)
+an identification system for agricultural parcels;
+(c)
+a system for the identification and registration of payment entitlements;
+(d)
+aid applications;
+(e)
+an integrated control system;
+(f)
+a single system to record the identity of each farmer who submits an aid application.’
+Article of that regulation provides:
+‘The identification system for agricultural parcels shall be established on the basis of maps or land registry documents or other cartographic references. Use shall be made of computerised geographical information system techniques, including preferably aerial or spatial orthoimagery, with a homogenous standard guaranteeing accuracy at least equivalent to cartography at a scale of 1:000.’
+Article of Regulation No 73/provides:
+‘1.   Member States shall carry out administrative controls on the aid applications to verify the eligibility conditions for the aid.
+2.   Administrative controls shall be supplemented by a system of on-the-spot checks to verify eligibility for the aid. For this purpose, Member States shall draw up a sampling plan of agricultural holdings.
+Member States may use remote sensing and Global Navigation Satellite System (GNSS) techniques as a means of carrying out on-the-spot checks on agricultural parcels.
+…’
+Article 29(3) of Regulation No 73/provides:
+‘Payments under support schemes listed in Annex I shall not be made before the verification of eligibility conditions, to be carried out by the Member State pursuant to Article 20, has been finalised.’
+Under the second subparagraph of Article 146(2) of Regulation No 73/2009:
+‘References made in other acts to Regulation (EC) No 1782/shall be construed as being made to this Regulation and shall be read in accordance with the correlation table set out in Annex XVIII.’
+Regulation No 796/Regulation No 796/2004, although repealed with effect from January 2010, by Commission Regulation (EC) No 1122/of November laying down detailed rules for the implementation of Regulation No 73/as regards cross-compliance, modulation and the integrated administration and control system, under the direct support schemes for farmers provided for [by] that Regulation, as well as for the implementation of Council Regulation (EC) No 1234/as regards cross-compliance under the support scheme provided for the wine sector (OJ L 316, p. 65), continues to apply, however, to the facts of the case before the referring court. Recitals 11, and in the preamble to Regulation No 796/stated:
+‘(11)
+In order to contribute to the protection of the financial interest of the Community it should be foreseen that payments under [Regulation No 73/2009] may only be made once the checks with regard to the eligibility criteria have been finalised.
+…
+(36)
+On-the-spot checks of areas, as a general rule, consist of two parts, the first of which relates to verifications and measurements of declared agricultural parcels on the basis of graphic material, aerial photography and so forth. The second part consists of a physical inspection of the parcels to verify the actual size of the agricultural parcels declared and, depending on the aid scheme in question, the declared crop and its quality. Where necessary, measurements should be carried out. The physical inspection in the field may be carried out on the basis of a sample.
+…
+(40)
+The conditions for the use of remote sensing for on-the-spot checks should be laid down and provision should be made for physical checks to be carried out in cases where photo-interpretation does not lead to clear results.’
+Under points and of Article of Regulation No 796/2004, the following definitions applied:
+‘(22)
+“Area determined”: shall mean the area for which all conditions laid down in the rules for granting the aid have been met; in the case of the single payment scheme, the area declared may be deemed as being determined only if it is actually being accompanied by a corresponding number of payment entitlements;
+…
+(26)
+“Reference parcel”: shall mean a geographically delimited area retaining a unique identification as registered in the GIS in the Member State’s identification system referred to in Article [of Regulation No 73/2009]’.
+Article 23(1) of Regulation No 796/provided:
+‘Administrative and on-the-spot checks provided for in this Regulation shall be made in such a way as to ensure effective verification of compliance with the terms under which aids are granted and of the requirements and standards relevant for cross-compliance.’
+Article of that regulation provided:
+‘1.   The administrative checks referred to in Article [of Regulation No 73/2009] shall permit the detection of irregularities, in particular the automated detection using computerised means, including cross-checks:
+…
+(c)
+between the agricultural parcels as declared in the single application and the reference parcels as contained in the identification system for agricultural parcels to verify the eligibility for aid of the areas as such;
+…
+2.   Indications of irregularities resulting from cross-checks shall be followed-up by any other appropriate administrative procedure, and where necessary, by an on-the-spot check.
+…’
+Article 26(1) of Regulation No 796/provided:
+‘The total number of on-the-spot checks carried out each year shall cover at least 5% of all farmers applying for the single payment scheme or the single area payment scheme.
+…’
+Under Article 27(1) and (3) of Regulation No 796/2004:
+‘1.   Control samples for on-the-spot checks under this Regulation shall be selected by the competent authority on the basis of a risk analysis and representativeness of the aid applications submitted. …
+…
+3.   The competent authority shall keep records of the reasons for the selection of each farmer for an on-the-spot check. The inspector carrying out the on-the-spot check shall be informed accordingly prior to the commencement of the on-the-spot check.’
+The second paragraph of Article of Regulation No 796/2004, which is entitled ‘Elements of on-the-spot checks’, provided:
+‘Member States may make use of remote sensing and Global Navigation Satellite Systems techniques.’
+Under Article 32(1) of that regulation:
+‘Where a Member State applies the possibility, provided for in the second paragraph of Article 29, to carry out on-the-spot checks by remote sensing, it shall:
+(a)
+perform photo interpretation of satellite images or aerial photographs of all agricultural parcels per application to be checked with a view to recognising the ground cover and measuring the area;
+(b)
+carry out physical inspections in the field of all agricultural parcels for which photo interpretation does not make it possible to verify the accuracy of the declaration to the satisfaction of the competent authority.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+On May 2009, Maatschap — an agricultural holding — requested payment of its entitlements and, for that purpose, declared parcels with a total area of 30.ha.
+By decision of December 2009, the Staatssecretaris considered the 30.ha declared to be the ‘area determined’ within the meaning of the point (22) of Article of Regulation No 796/and fixed the amount payable by way of an advance on payment entitlements for at EUR 888.12.
+In the same decision, it was stated that, following observations made by the European Commission, the parcel register was in the process of being updated and that data relating to Maatschap’s parcels — in particular, those with landscape features such as hedgerows, ditches or parcel paths — might be adjusted.
+Maatschap’s single payment application was re-assessed. The Staatssecretaris accordingly re-assessed the total area of the parcels and found it to be 27.ha and, by decision of June 2010, Maatschap’s single payment entitlement for was set at EUR 643.(‘the decision of June 2010’). That decision stated, however, that Maatschap did not have to repay the difference between that amount and the advance already paid.
+Maatschap challenged that decision. It argued, inter alia, that too much account was taken of the area along the ditches and that, as the wrong inferences had been drawn from the shadows on the aerial photographs, the height of the trees had been overestimated. Maatschap also objected to the creation of ‘mini-parcels’ by excluding parcel paths. It maintained that the aerial photographs used as a basis by the Staatssecretaris were inaccurate and asked for a physical measurement of the parcels to be carried out in the field.
+By decision of January 2011, after re-examining all the data, the Staatssecretaris determined the area eligible for aid to be 28.ha.
+By letter of March 2011, Maatschap brought judicial proceedings contesting that decision. Before the College van Beroep voor het bedrijfsleven (Administrative Court for Trade and Industry; ‘the referring court’), Maatschap submits that the area of its parcels was not determined in a correct manner. It relies, inter alia, on a Global Navigation Satellite System measurement report produced by a private company, which draws the conclusion that the area of the parcels as declared by Maatschap in its application is 28.ha.
+According to the Staatssecretaris, the areas as declared by Maatschap in its application for aid had been compared with the up-to-date identification system for agricultural parcels.
+By contrast, the referring court considers that Maatschap’s application for aid was compared directly with aerial photographs taken after the application had been submitted. Those photographs were also used for setting up the cartographic identification system for agricultural parcels which was to be updated annually. According to the referring court, however, the decision of June had been taken solely on the basis of those photographs and the measurement data inferred from them.
+Against that background, the referring court found that Article of Regulation No 796/2004, which expressly applies where the competent authority interprets aerial photographs in the context of an on-the-spot check, must also apply where, as in the case before it, such interpretation is performed in the context of an administrative check.
+The referring court considers that, unlike other language versions, the Dutch version of Article 32(1)(b) of Regulation No 796/must be interpreted as meaning that an on-the-spot physical check is necessary in all cases where the aerial photographs do not make it possible to verify that the declaration submitted by the farmer concerned is correct.
+In those circumstances, the College van Beroep voor het bedrijfsleven decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Must Article of Regulation (EC) No 796/be interpreted as meaning that a physical inspection in the field will always need to take place before it can be decided on the basis of aerial photographs taken in connection with the assessment of a declaration that the declaration submitted by a farmer is inaccurate?’
+Consideration of the question referred for a preliminary ruling
+Admissibility
+The Netherlands Government contends that the request for a preliminary ruling is inadmissible on the ground that it is not relevant for the purposes of deciding the dispute in the main proceedings and that it is hypothetical. The Netherlands Government argues that Article of Regulation No 796/relates to on-the-spot checks. Since, in the dispute in the main proceedings, Maatschap’s application for aid was not selected for an on-the-spot check and no on-the-spot check was carried out, that provision is not therefore applicable.
+The Netherlands Government adds that, contrary to the statements made by the referring court, Maatschap’s single payment application was compared with the parcel register, in accordance with Article of Regulation No 796/2004, rather than with aerial photographs.
+It is settled case-law that questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought is wholly unrelated to the actual facts of the main action or its purpose; where the problem is hypothetical; or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see Case C‑152/Odar
+EU:C:2012:772, paragraph and the case-law cited).
+That presumption of relevance cannot be rebutted by the simple fact that one of the parties to the main proceedings contests certain facts, the accuracy of which is not a matter for the Court to determine and on which the delimitation of the subject-matter of those proceedings depends (Case C‑379/Amurta
+EU:C:2007:655, paragraph and the case-law cited).
+The question whether Maatschap’s single payment application was compared directly with aerial photographs or with the parcel register clearly constitutes a question relating to the factual context which it is not for the Court to determine.
+Moreover, the mere fact that, according to the Netherlands Government, Maatschap’s agricultural parcels were not selected by the competent authorities for verification by means of an on-the-spot check does not mean that the request for a preliminary ruling is manifestly hypothetical or unrelated to the actual facts of the main action or its purpose.
+The referring court seeks an interpretation of Article of Regulation No 796/in circumstances such as those of the case pending before it, that is to say, where a farmer’s application has been compared directly with aerial photographs taken after the application was submitted. It considers that the rule laid down in Article of Regulation No 796/2004, which expressly applies where the competent authority interprets aerial photographs in the context of an on-the-spot check, must also apply where such interpretation is undertaken in the context of an ‘administrative’ check by the competent authorities.
+Accordingly, the request for a preliminary ruling cannot be regarded as inadmissible on the strength of the Netherlands Government’s argument that, in the context of the dispute in the main proceedings, the Staatssecretaris carried out solely an administrative check within the meaning of Article of Regulation No 796/2004.
+The request for a preliminary ruling must therefore be regarded as admissible.
+Substance
+By its question, the referring court asks, in essence, whether Regulation No 796/must be interpreted as meaning that where, in the context of updating the identification system for agricultural parcels, the competent national authority verifies the eligibility for aid of the agricultural parcels as declared by a farmer in his application for single payment on the basis of aerial photographs taken after the application has been submitted, that authority is required, pursuant to Article 32(1) of that regulation, to carry out a physical inspection in the field where it considers the declaration made by that farmer to be inaccurate.
+It should be borne in mind first of all that, in accordance with Article 20(1) of Regulation No 73/2009, Member States are to carry out administrative controls of the aid applications submitted by farmers, in order to verify that the eligibility conditions for the aid are met.
+As is apparent from Article 24(1)(c) of Regulation No 796/2004, the purpose of the administrative checks is to enable irregularities to be detected and, in particular, to verify that the areas declared are eligible for aid.
+Accordingly, as is clear from Articles and of Regulation No 73/2009, Member States are required, inter alia, to set up an identification system for agricultural parcels, making it possible to compare the parcels as declared in the application for aid submitted by the farmer with the reference parcels in that system.
+Moreover, Article 20(2) of Regulation No 73/provides that those administrative controls are to be supplemented by a system of on-the-spot checks.
+Under Article of Regulation No 796/2004, on-the-spot checks are to be based on control samples selected by the competent authority on the basis of a risk analysis and the representativeness of the aid applications submitted. Article 24(2) of that regulation provides, moreover, that an on-the-spot check may be carried out where administrative checks have detected indications of irregularities.
+In addition, in accordance with Article of Regulation No 796/2004, Member States may make use of remote sensing to carry out on-the-spot checks. Article 32(1)(a) of that regulation states that remote sensing is to be effected by means of photo interpretation of satellite images or aerial photographs, whereas Article 32(1)(b) provides for physical inspections in the field in the case of all agricultural parcels for which photo interpretation does not make it possible to verify, to the satisfaction of the competent authority, the accuracy of the farmer’s declaration.
+In that context, the referring court finds that Article 32(1) of Regulation No 796/is applicable to the case pending before it since the Staatssecretaris compared the agricultural parcels as declared by Maatschap in its application with aerial photographs taken after the application had been submitted.
+In that regard, it should be borne in mind that it is unequivocally clear from the wording of Article of Regulation No 796/2004, and from the scheme of that regulation, that that provision applies to on-the-spot checks.
+However, in the dispute in the main proceedings it does not appear — subject to verification by the referring court — that an on-the-spot check was carried out in respect of Maatschap’s application.
+It does not emerge from the order for reference that Maatschap’s agricultural parcels were selected, on the basis of a risk analysis, for an on-the-spot check pursuant to Article of Regulation No 796/or that the competent authority considered it necessary, under Article 24(2) of that regulation, to carry out such a check because of indications of irregularities disclosed by cross-checks.
+Accordingly, the Staatssecretaris cannot, a priori, be regarded as acting under Article 32(1)(a) of Regulation No 796/2004.
+That finding is not called into question by the fact that the check which led to the adoption of the decision of June was carried out on the basis of aerial photographs taken after the application for aid had been submitted, for the purposes of updating the identification system for agricultural parcels.
+On the one hand, it can be seen from Article of Regulation No 73/2009, under which the identification system for agricultural parcels preferably involves aerial or spatial orthoimagery, that photo interpretation of satellite images or aerial photographs may also be used in the course of administrative checks in order to determine the area eligible for aid.
+On the other hand, the fact that the Staatssecretaris checked the agricultural parcels as declared by Maatschap on the basis of aerial photographs taken after Maatschap’s application for aid had been submitted, rather than on the basis of the identification system for agricultural parcels, does not, in the circumstances of the case before the referring court, mean that the check carried out cannot be classified as ‘administrative’.
+Admittedly, Article of Regulation No 796/provides that the detection of irregularities is to be automated, using computerised means. Article 24(1)(c) states in that regard that administrative checks are to include cross-checks between the agricultural parcels as declared in the single application and the reference parcels as presented in the identification system for agricultural parcels, in order to verify the eligibility for aid of the areas as such.
+Given the complexity of the integrated system and the fact that administrative checks — unlike on-the-spot checks, which may be carried out on the basis of sampling — must be carried out in respect of all applications for aid, it is essential to use appropriate technical means and assessment methods to process effectively the high number of applications.
+However, neither Regulation No 73/nor Regulation No 796/precludes administrative checks intended to verify the eligibility for aid of areas as declared by a farmer in his application from being carried out, in part, manually and on the basis of aerial photographs not forming an integral part of the identification system for agricultural parcels, provided that those checks ensure, in accordance with Article 23(1) of Regulation No 796/2004, effective verification of compliance with the terms under which aid is granted and of the requirements and standards relevant for cross-compliance.
+Such a situation may, in particular, exist where, as in the dispute in the main proceedings, the administrative checks intended to verify eligibility for aid of agricultural parcels as declared by a farmer cannot be carried out entirely on the basis of the identification system for agricultural parcels because, at the same time, that system is being updated.
+The identification system for agricultural parcels enables all those parcels, together with their geographical location, to be identified, so that the competent authority is able, inter alia, to verify that the conditions governing the eligibility of those parcels for aid have been met. Accordingly, in order for it to be possible to undertake the automated checks on the basis of that system, it is essential that the data relating to those parcels is accurate.
+If the requisite accuracy is lacking, it is for the competent authority to take the necessary measures to ensure, in accordance with Article 23(1) of Regulation No 796/2004, effective verification of compliance with the terms under which aid is granted, including, where necessary, verification of the parcels as declared by the farmer by comparing them with recent aerial photographs not forming an integral part of the identification system for agricultural parcels.
+Article 24(2) of Regulation No 796/provides that the detection of inaccuracies in the declaration submitted by the farmer must be followed up by any other appropriate administrative procedure and where necessary, by an on-the-spot check. In accordance with the objective referred to in Article 23(1) of Regulation No 796/2004, that must also be the case where irregularities have been detected following a comparison of the agricultural parcels as declared in the application for single payment with the recent aerial photographs intended to update the identification system for agricultural parcels.
+As is clear from the wording of Article 24(2) of Regulation No 796/2004, it is nevertheless for the competent authority to assess the measures to be taken where irregularities have been detected.
+Where the competent authority has no doubts as to the measurement data inferred from the aerial photographs available, it cannot, in any event, be required to carry out a physical measurement of the parcels in question. Otherwise, the measure of discretion left to the competent authority would be meaningless.
+Such an interpretation is consistent, moreover, with the scheme of Regulation No 796/2004. Article of Regulation No 796/provides that Member States are to carry out on-the-spot checks on the basis of sampling and in accordance with a minimum control rate. The possibility of carrying out only a reduced number of on-the-spot checks — available to Member States on clear cost grounds — would be undermined if competent authorities were required to carry out a physical inspection in the field whenever an irregularity was detected.
+In the light of all the foregoing considerations, the answer to the question referred is that Regulation No 796/must be interpreted as meaning that, where, owing to the fact that the identification system for agricultural parcels is in the course of being updated, automated cross-checks intended to verify the eligibility for aid of parcels as declared in the single payment application submitted by a farmer are supplemented by verification on the basis of recent aerial photographs, which results in the detection of inaccuracies in the application submitted, the competent authority is not required to carry out a physical inspection in the field, but, in accordance with Article 24(2) of that regulation, enjoys discretion as to the measures to be taken as a result. In particular, that authority cannot be required to carry out a physical measurement of the parcels in question where it has no doubts as to the measurement data inferred from the aerial photographs available.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Commission Regulation (EC) No 796/of April laying down detailed rules for the implementation of cross compliance, modulation and the integrated administration and control system provided for in Council Regulation (EC) No 1782/of September establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers, as amended by Commission Regulation (EC) No 972/of August 2007, must be interpreted as meaning that, where, owing to the fact that the identification system for agricultural parcels is in the course of being updated, automated cross-checks intended to verify the eligibility for aid of parcels as declared in the single payment application submitted by a farmer are supplemented by verification on the basis of recent aerial photographs, which results in the detection of inaccuracies in the application submitted, the competent authority is not required to carry out a physical inspection in the field, but, in accordance with Article 24(2) of that regulation, enjoys discretion as to the measures to be taken as a result. In particular, that authority cannot be required to carry out a physical measurement of the parcels in question where it has no doubts as to the measurement data inferred from the aerial photographs available.
+ 
+[Signatures]
+(
+*)   Language of the case: Dutch.
+Top  
+ 

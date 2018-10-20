@@ -1,0 +1,179 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+February (
+*)
+‛Reference for a preliminary ruling — Regulation (EEC) No 2658/— Common Customs Tariff — Combined Nomenclature — Classification of goods — Headings 8517, 8521, and — Product known as a ‘video multiplexer’’
+In Case C‑143/15,
+REQUEST for a preliminary ruling under Article TFEU from the Hoge Raad der Nederlanden (Supreme Court of the Netherlands), made by decision of March 2015, received at the Court on March 2015, in the proceedings
+G. E. Security BV
+v
+Staatssecretaris van Financiën
+THE COURT (Tenth Chamber),
+composed of F. Biltgen (Rapporteur), President of the Chamber, A. Borg Barthet and E. Levits, Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+G. E. Security BV, by C. Bouwmeester and M. van de Leur, belastingadviseurs,
+—
+the Netherlands Government, by M. Bulterman and M. Gijzen, acting as Agents,
+—
+the European Commission, by A. Caeiros and R. Troosters, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of tariff headings 8517, 8521, and of the Combined Nomenclature (‘the CN’) in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 1214/of September (OJ L 286, p. 1, ‘Regulation No 2658/87’).
+The reference has been made in the course of proceedings between G. E. Security BV (‘G. E. Security’) and the Staatssecretaris van Financiën (State Secretary for Finance) concerning the tariff classification in the CN of a product known as a ‘video multiplexer’.
+Legal context
+International law
+The Customs Cooperation Council, now the World Customs Organisation (WCO), was established by the convention establishing that body, concluded in Brussels on December 1950. The Harmonised Commodity Description and Coding System (‘the HS’) was drawn up by the WCO and established by the International Convention on the Harmonised Commodity Description and Coding System, concluded in Brussels on June and approved, with its amending protocol of June 1986, on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1). According to its final paragraph, that convention was drawn up in the English and French languages, both texts being authentic.
+Under Article 3(1) of that convention, each contracting party, including the European Union, undertakes to ensure that its customs tariff and statistical nomenclatures will be in conformity with the HS, to use all of the headings and subheadings of the HS without addition or modification, together with their related numerical codes, and to follow the numerical sequence of that system. Each Contracting Party also undertakes to apply the General Rules for the interpretation of the HS and all the section, chapter and subheading notes of the HS, and not to modify their scope.
+The HS Explanatory Note relating to Note to Section XVI of the HS, which is identical to Note to Section XVI of the CN, states that the expression ‘intended to contribute together to a clearly defined function’ covers only machines and combinations of machines essential to the performance of the function specific to the functional unit as a whole, and thus excludes machines or appliances fulfilling auxiliary functions and which do not contribute to the function of the whole.
+Under the heading ‘Functional Units’, the HS Explanatory Note relating to Note to Section XVI is worded as follows:
+‘This note applies when a machine (including a combination of machines) consists of separate components which are intended to contribute together to a clearly defined function covered by one of the headings in Chapter or, more frequently, Chapter 85. The whole then falls to be classified in the heading appropriate to that function, whether the various components (for convenience or other reasons) remain separate or are interconnected by piping (carrying air, compressed gas, oil, etc.), by devices used to transmit power, by electric cables or by other devices.
+For the purposes of this Note, the expression intended to contribute together to a clearly defined function covers only machines and combinations of machines essential to the performance of the function specific to the functional unit as a whole, and thus excludes machines or appliances fulfilling auxiliary functions and which do not contribute to the function of the whole.
+The following are examples of functional units of this type within the meaning of Note to this Section:
+…
+(13)
+Burglar alarms, comprising, e.g., an infra red lamp, a photoelectric cell and a bell (heading 85.31)
+It should be noted that component parts not complying with the terms of Note to Section XVI fall in their own appropriate headings. This applies, for example, to closed circuit video-surveillance systems, consisting of a combination of a variable number of television cameras and video monitors connected by coaxial cables to a controller, switchers, audio board/receivers and possibly automatic data processing machines (for saving data) and/or video recorders (for recording pictures).’
+The HS Explanatory Note relating to heading is worded as follows:
+‘A. – Recording and combined recording and reproducing apparatus
+These are apparatus which, when connected to a television camera or a television receiver, record on media electric impulses (analogue signals) or analogue signals converted into digital code (or a combination of these) which correspond to the images and sound captured by a television camera or received by a television receiver. Generally the images and sound are recorded on the same media. The method of recording can be by magnetic or optical means and the recording media is usually tapes or discs.
+The heading also includes apparatus which record, generally on a magnetic disc, digital code representing video images and sound, by transferring the digital code from an automatic data-processing machine (e.g. digital video recorders).
+In magnetic recording on tape the images and sound are recorded on different tracks on the tape whereas in magnetic recording on disc the images and sound are recorded as magnetic patterns or spots in spiral tracks on the surface of the disc.
+In optical recording, digital data representing the images and sound are encoded by a laser onto a disc.
+Video recording apparatus which receive signals from a television receiver also incorporate a tuner which enables selection of the desired signal (or channel) from the frequency band of signals transmitted by the television transmitting station.
+When used for reproduction, the apparatus convert the recording into video signals. These signals are passed on either to a transmitting station or to a television receiver.
+…’
+The HS Explanatory Note relating to heading is worded as follows:
+‘With the exception of signalling apparatus used on cycles or motor vehicles (heading 85.12) and that for traffic control on roads, railways, etc. (heading 85.30), this heading covers all electrical apparatus used for signalling purposes, whether using sound for the transmission of the signal (bells, buzzers, hooters, etc.) or using visual indication (lamps, flaps, illuminated numbers, etc.), and whether operated by hand (e.g., door bells) or automatically (e.g., burglar alarms).
+…
+The heading includes, inter alia:
+…
+(E)
+Burglar alarms. These consist of two parts: a detecting part, and a signalling part (bell, buzzer, visual indicator, etc.) which is set off automatically when the detecting part operates. Burglar alarms operate by various means, e.g.:
+(1)
+By electrical contacts which are operated by stepping on a certain part of the floor, opening a door, breaking or touching fine wires, etc.
+(2)
+By capacitance effects. These are used often in connection with safes; the safe acts as one plate of a capacitor whose capacitance is affected by the approach of any body, thus upsetting the electrical circuit and setting off the alarm.
+(3)
+Photoelectric devices. A ray (often of infra red light) is focussed on a photoelectric cell; when the ray is interrupted, the change in current in the photoelectric cell circuit sets off the alarm.
+…’
+The HS Explanatory Note relating to heading is worded as follows:
+‘This heading covers all electrical appliances and apparatus, not falling in any other heading of this Chapter, nor covered more specifically by a heading of any other Chapter of the Nomenclature, nor excluded by the operation of a Legal Note to Section XVI or to this Chapter. The principal electrical goods covered more specifically by other Chapters are electrical machinery of Chapter and certain instruments and apparatus of Chapter 90.
+The electrical appliances and apparatus of this heading must have individual functions. The introductory provisions of the Explanatory Note to heading 84.concerning machines and mechanical appliances having individual functions apply, mutatis mutandis, to the appliances and apparatus of this heading.
+Most of the appliances of this heading consist of an assembly of electrical goods or parts (valves, transformers, capacitors, chokes, resistors, etc.) operating wholly electrically. However, the heading also includes electrical goods incorporating mechanical features provided that such features are subsidiary to the electrical function of the machine or appliance.
+…’
+EU law
+Regulation No 2658/The customs classification for goods imported into the European Union is governed by the CN, which reproduces the titles and sub-titles of the HS.
+Article of Regulation No 2658/provides:
+‘An Integrated Tariff of the European Communities, hereinafter referred to as the “Taric”, which meets the requirements of the Common Customs Tariff, external trade statistics, the commercial, agricultural and other Community policies concerning the importation or exportation of goods, shall be established by the Commission.
+The tariff shall be based on the Combined Nomenclature and include:
+…
+(d)
+the rates of customs duty and other import and export charges, including duty exemptions and preferential tariff rates applicable to specific goods on importation or exportation;
+…’
+By virtue of Article 12(1) of Regulation No 2658/87, the Commission is to adopt each year a regulation reproducing the complete version of the CN, together with the corresponding rates of duty in accordance with Article of that regulation, as resulting from measures adopted by the Council or the Commission. That regulation is to apply from January of the following year.
+The CN contains in Part One, Title I, Section A, a set of general rules for the interpretation of that nomenclature which are identical to the general rules for the interpretation of the HS. That section states:
+‘Classification of goods in the [CN] shall be governed by the following principles:
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes …
+…’
+Part Two of the CN, entitled ‘Schedule of Customs Duties’, includes Section XVI relating to ‘Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’.
+Note to Section XVI of the CN reads as follows:
+‘Subject to Note to this section, Note to Chapter and Note to Chapter 85, parts of machines (not being parts of the articles of heading 8484, 8544, 8545, or 8547) are to be classified according to the following rules:
+(a)
+Parts which are goods included in any of the headings of Chapter or (other than headings 8409, 8431, 8448, 8466, 8473, 8487, 8503, 8522, 8529, and 8548) are in all cases to be classified in their respective headings;
+(b)
+Other parts, if suitable for use solely or principally with a particular kind of machine, or with a number of machines of the same heading (including a machine of heading or 8543) are to be classified with the machines of that kind or in heading 8409, 8431, 8448, 8466, 8473, 8503, 8522, or as appropriate. However, parts which are equally suitable for use principally with the goods of headings and to are to be classified in heading 8517;
+(c)
+All other parts are to be classified in heading 8409, 8431, 8448, 8466, 8473, 8503, 8522, or as appropriate or, failing that, in heading or 8548.’
+Explanatory Note to Section XVI of the CN states:
+‘Unless the context otherwise requires, composite machines consisting of two or more machines fitted together to form a whole and other machines designed for the purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that component or as being that machine which performs the principal function.’
+Note to that section states:
+‘Where a machine (including a combination of machines) consists of individual components (whether separate or interconnected by piping, by transmission devices, by electric cables or by other devices) intended to contribute together to a clearly defined function covered by one of the headings in Chapter or 85, then the whole falls to be classified in the heading appropriate to that function.’
+Section XVI of the CN contains Chapter 85, entitled ‘Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’.
+Heading 8517, which is included in that chapter, reads as follows:
+‘Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, or 8528.’
+Heading is worded as follows:
+‘Video recording or reproducing apparatus, whether or not incorporating a video tuner:
+‐ Magnetic tape-type:
+– – Using tape of a width not exceeding 1.cm and allowing recording or reproduction at a tape speed not exceeding mm per second
+– – Other
+‐ Other.’
+Heading is worded as follows:
+‘Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading or 8530:
+– Burglar or fire alarms and similar apparatus:
+– – Of a kind used for buildings
+– – Other
+…
+– Parts:
+– – Of apparatus of subheading and – – Other.’
+CN Heading includes electrical machines and apparatus, having individual functions, not specified or included elsewhere in Chapter of the CN.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+G. E. Security, a company specialising in the sale of high-tech protection systems, developed a protection system called ‘video multiplexer’.
+On its website, G. E. Security presents the video multiplexer as a ‘digital video transmission recorder’.
+The video multiplexer is sold only to companies specialising in the sale of security installations and surveillance systems, and which provide customers with complete installation services for those installations and systems.
+The video multiplexer is used within security and surveillance systems or installations for buildings. More specifically, it is part of a closed circuit video-surveillance system connected to external cameras and/or external censors, such as motion and fire detectors.
+The video multiplexer performs three different functions.
+In the first place, the video multiplexer performs a video recording and reproducing function, in that it is capable of receiving signals from censors, and images and sounds from cameras, and reproducing those sounds and images on monitors.
+For that purpose, the video multiplexer is equipped with video and audio input points to which up to cameras can be connected simultaneously. By means of the video multiplexer, the cameras can be switched on/off and controlled remotely. It is thus possible to enlarge and reduce certain parts of the images recorded by those cameras or to block those images so as to limit recording to certain days and hours of the week and/or to certain parts of a building or site. It is also possible to ignore the movements of pets in a building.
+The video multiplexer also includes video output points which can connect it to one or more monitors on which it is possible to view images from a number of cameras simultaneously, and an audio output point which can be connected to an external amplifier or loudspeaker. On the other hand, the video multiplexer cannot receive television signals.
+Moreover, the video multiplexer can store on a hard drive the recordings of the analogue and digital images and sounds from the cameras and/or signals from the censors. Those recordings are secured to prevent them from being accidentally wiped or manipulated. They are stored in a special format and can be reproduced only using the video multiplexer or special software.
+In the second place, the video multiplexer performs an alarm function. For that purpose, it includes an integrated alarm system which can be configured in such a way that, when detected movements, sounds or signals so warrant, the video multiplexer activates devices which emit sound or light signals, and/or it emits a warning signal in the form of an e-mail sent to one or more of the users connected to the system (for example, the police, the fire brigade, the owner of the premises or a security company).
+In the third place, the video multiplexer performs a function of transmitting and receiving network data. In order to do that, it has devices enabling it to send e-mails to system users and/or to connect to the Internet, to digital networks or to an automatic data-processing machine.
+On October 2008, G.E. Security applied to the relevant customs inspector (‘the inspector’) to issue binding tariff information for three video multiplexers. It requested that they be classified under subheading of the CN or subheading of the CN, for which the customs duties were 3.7% and 2.2% respectively.
+By letter of November 2008, the inspector classified the three video multiplexers as a ‘video recording or reproducing apparatus’ under subheading of the CN, subject to customs duties of 13.9%.
+G. E. Security lodged an objection to that classification decision, which the inspector dismissed. It then brought an action against that dismissal before the Rechtbank te Haarlem (District Court, Haarlem), which declared the action to be well-founded and classified the three video multiplexers as alarms of the type used in buildings, coming under subheading of the CN.
+The inspector appealed against that judgment before the Gerechtshof te Amsterdam (Regional Court of Appeal, Amsterdam).
+That Court held that, although the video multiplexer may, in view of its objective characteristics and properties, be deemed to be part of an alarm system, as referred to in heading of the CN, it must, pursuant to Note 2(a) to Section XVI of the CN, be classified under subheading of the CN.
+G. E. Security lodged an appeal on a point of law against the judgment of the Gerechtshof te Amsterdam before the referring court.
+In those circumstances, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+Should CN headings 8517, 8521, and be interpreted as meaning that a product such as a video multiplexer — which was developed to form part of a system which is able to analyse images and sounds derived from cameras and alarm sensors connected to it, and which, if required, records, stores, processes and displays images and sounds on a monitor connected to it, and/or which, when the images or sounds so warrant, emits a warning signal in the form of an e-mail to one or more of the users connected to the system, and/or which can activate devices which emit sound or light signals — is to be classified under one of those headings?
+The question referred for a preliminary ruling
+As a preliminary point, it must be borne in mind that, when the Court is requested to give a preliminary ruling on a matter of tariff classification, its task is to provide the national court with guidance on the criteria which will enable the latter to classify the products at issue correctly in the CN, rather than to effect that classification itself, a fortiori since the Court does not necessarily have available to it all the information which is essential in that regard. Thus, the national court is in a better position to do so (see judgment in Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph 27).
+Therefore, it is for the national court to classify the goods at issue in the main proceedings in the light of the answers given by the Court to the question referred to it.
+In order to provide a helpful answer to the referring court, it must be stated at the outset, as is apparent from paragraph above, that, first, the general rules for the interpretation of the CN provide that the classification of goods is to be determined according to the terms of the headings and any section or chapter notes, the titles of sections, chapters and sub-chapters being provided for ease of reference only.
+Secondly, according to the Court’s settled case-law, in the interests of legal certainty and ease of verification, the decisive criterion for the classification of goods for customs purposes is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and in the section or chapter notes (see judgment in Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph and the case-law cited).
+As regards the Explanatory Notes to the HS, it must be added that, in spite of the fact that they lack binding force, they are an important means of ensuring the uniform application of the Common Customs Tariff and, as such, may be regarded as useful aids to its interpretation (see judgments in Kloosterboer Services, C‑173/08, EU:C:2009:382, paragraph 25, and Agroferm, C‑568/11, EU:C:2013:407, paragraph 28). The same applies to the Explanatory Notes to the CN (see, to that effect, judgments in Develop Dr. Eisbein, C‑35/93, EU:C:1994:252, paragraph 21, and British Sky Broadcasting Group and Pace, C‑288/and C‑289/09, EU:C:2011:248, paragraph 92).
+By its question the referring court asks in essence in which heading of the CN, that is to say, 8517, 8521, or 8543, a product, such as the video multiplexer at issue in the main proceedings, should be classified.
+In that regard, it follows from the actual wording of CN headings 8517, 8521, and and the relevant Explanatory Notes that the function of the product concerned is crucial for its classification in one of those headings.
+Those headings provide a specific description of the function fulfilled by the products which they cover. Thus CN heading relates, inter alia, ‘to apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network’. CN Heading concerns ‘video recording or reproducing apparatus, whether or not incorporating a video tuner’. CN heading covers ‘electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms)’. As regards CN heading 8543, that heading covers ‘electrical machines and apparatus, having individual functions, not specified or included elsewhere in [Chapter of the CN]’.
+In the present case it is common ground that the video multiplexer performs three different functions.
+It is apparent from the description given by the referring court and set out in paragraphs to above that the video multiplexer has a video recording and reproducing function which corresponds to the wording of CN heading 8521.
+The video multiplexer also performs an alarm function, as described in paragraph above, which corresponds to the wording of CN heading 8531.
+In addition, the video multiplexer performs a function of transmitting and receiving network data, the description of which given in paragraph above corresponds to the wording of CN heading 8517.
+Note to Section XVI of the CN, which CN headings 8517, and come under, states that ‘machines designed for the purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that component or as being that machine which performs the principal function’.
+In the present case, it is apparent, respectively, from paragraphs and above, that G. E. Security presents the video multiplexer on its website as a ‘digital video transmission recorder’ and that the video multiplexer is sold only to companies specialising in the sale of security installations and surveillance systems.
+It follows from that information and the description of the video multiplexer given by the referring court, as set out in paragraphs to above, that the video multiplexer, having regard to its objective characteristics and properties and its intended purpose, has a principal function of recording and reproducing video within a security and surveillance system.
+As the Netherlands Government and the Commission submit, the other functions fulfilled by the video multiplexer, that is to say, the alarm and network functions, are merely ancillary functions intended to improve the functioning of the system in which the video multiplexer is incorporated.
+It follows that the CN must be interpreted to the effect that a product such as the video multiplexer at issue in the main proceedings must, subject to the referring court’s assessment of the facts before it, be classified in CN heading 8521.
+That finding cannot be called into question by Notes and to Section XVI of the CN.
+It is clear from the case-law of the Court that Note to Section XVI of the CN applies only to the tariff classification ‘parts of machines’ (see judgment in Data I/O, C‑297/13, EU:C:2014:331, paragraph 34).
+Given that the notion ‘part’, for the purposes of that note, is not defined by that note, the Court, in the interests of a consistent and uniform application of the Common Customs Tariff, has given that notion a single definition common to all the chapters of the CN (see, to that effect, judgments in HARK, C‑450/12, EU:C:2013:824, paragraph 37, and Rohm Semiconductor, C‑666/13, EU:C:2014:2388, paragraph 44).
+It is clear from the case-law of the Court concerning heading and Note 2(b) to Section XVI of the CN that the notion of ‘part’ implies a whole for the functioning of which the part is essential (see, to that effect, judgment in Rohm Semiconductor, C‑666/13, EU:C:2014:2388, paragraph and the case-law cited).
+In order to be able to classify an article as a ‘part’, it is not sufficient to show that, without that article, the machine is not able to function properly. It remains necessary to establish that the mechanical or electrical functioning of the machine in question is dependent upon that article (see judgment in Rohm Semiconductor, C‑666/13, EU:C:2014:2388, paragraph and the case-law cited).
+In the present case, as is apparent from paragraph above, the video multiplexer is used within security and surveillance installations of buildings and is more particularly a part of a closed circuit video-surveillance system.
+As the Netherlands Government and the Commission submit, such a system can also function without a video multiplexer. The detection apparatuses used in that system may fulfil their function without a video multiplexer. In addition, the mechanical and electrical functioning of those apparatuses is not dependent on the video multiplexer being present.
+Consequently, the video multiplexer cannot be regarded as a ‘part of a machine’ for the purposes of Note to Section XVI of the CN. That note is therefore not relevant for the classification of that product in the CN.
+As regards Note to Section XVI of the CN, it must be stated that, in accordance with its wording, it applies only to a ‘machine (including a combination of machines) [consisting] of individual components ... intended to contribute together to a clearly defined function’.
+The HS Explanatory Note relating to Note to Section XVI of the HS, which is identical to Note to Section XVI of the CN, states that the expression ‘intended to contribute together to a clearly defined function’ covers only machines and combinations of machines essential to the performance of the function specific to the functional unit as a whole, and thus excludes machines or appliances fulfilling auxiliary functions and which do not contribute to the function of the whole.
+That explanatory note states that the requirements laid down by Note to Section XVI of the HS, and therefore by the identical note in the CN, are not satisfied by closed circuit video-surveillance systems consisting of a combination of a variable number of television cameras and video monitors connected by coaxial cables to a controller, switchers, audio board/receivers and possibly automatic data processing machines (for saving data) and/or video recorders (for recording pictures).
+It has already been established in paragraphs and above that the video multiplexer is part of such a closed circuit video-surveillance system. Note to Section XVI of the CN is therefore not relevant for the purposes of classifying such a product in the CN.
+Finally, it is necessary to discount the argument raised by G. E. Security that the video multiplexer should be classified under CN heading 8543.
+It is clear from the wording of that heading that it covers ‘electrical machines and apparatus, having individual functions, not specified or included elsewhere in [Chapter of the CN]’. Thus, the classification of a product under the same heading is feasible only if it is not possible to classify that product under another heading of Chapter 85. It follows from paragraph above that that is not the case in the main proceedings.
+Having regard to all of the foregoing considerations, the answer to the question put by the referring court is that the CN must be interpreted as meaning that a product such as the ‘video multiplexer’ at issue in the main proceedings must, subject to the referring court’s assessment of all the facts before it, be classified in CN heading 8521.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+The Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EC) No 1214/of September 2007, must be interpreted as meaning that a product such as the ‘video multiplexer’ at issue in the main proceedings must, subject to the referring court’s assessment of all the facts before it, be classified in heading of that nomenclature.
+ 
+[Signatures]
+(
+*)   Language of the case: Dutch.
+Top  
+ 

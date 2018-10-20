@@ -1,0 +1,597 @@
+
+Case C-45/Spector Photo Group NV
+and
+Chris Van Raemdonck
+v
+Commissie voor het Bank-, Financie- en Assurantiewezen (CBFA)
+(Reference for a preliminary ruling from the hof van beroep te Brussel)
+(Directive 2003/– Insider dealing – Use of inside information – Sanctions – Conditions)
+Summary of the Judgment
+1.        Approximation of laws – Insider dealing – Prohibition
+(European Parliament and Council Directive 2003/6, Art. 2(1))
+2.        Approximation of laws – Insider dealing – Prohibition
+(European Parliament and Council Directive 2003/6, Art. 1(1); Commission Directive 2003/124, Art. 1(2))
+3.        Approximation of laws – Insider dealing – Prohibition
+(European Parliament and Council Directive 2003/6, Art. 14(1))
+1.        Article 2(1) of Directive 2003/on insider dealing and market manipulation (market abuse) must be interpreted as meaning
+         that the fact that a person, as referred to in the second subparagraph of that provision, in possession of inside information,
+         acquires or disposes of, or tries to acquire or dispose of, for his own account or for the account of a third party, either
+         directly or indirectly, the financial instruments to which that information relates, implies that that person has ‘used that
+         information’ within the meaning of that provision, but without prejudice to the rights of the defence and, in particular,
+         to the right to be able to rebut that presumption. The question whether that person has infringed the prohibition on insider
+         dealing must be analysed in the light of the purpose of that directive, which is to protect the integrity of the financial
+         markets and to enhance investor confidence, which is based, in particular, on the assurance that investors will be placed
+         on an equal footing and protected from the misuse of inside information.
+      
+That provision thus defines insider dealing objectively without the intention behind such dealing being referred to explicitly
+         in its definition. This was done with a view to achieving uniform harmonisation of the law of the Member States. Consequently,
+         if the constituent elements of insider dealing laid down in that provision are present, it is possible to assume an intention
+         on the part of the author of the transaction. However, that presumption does not infringe fundamental rights and, in particular,
+         the principle of the presumption of innocence laid down, inter alia, in Article 6(2) of the European Convention for the Protection
+         of Human Rights and Fundamental Freedoms.
+      
+(see paras 35, 38-39, 62, operative part 1)
+2.        The capacity of information to have a significant effect on the price of the financial instruments to which it relates is
+         one of the characteristic elements of the concept of inside information as defined in Article 1(1) of Directive 2003/on
+         insider dealing and market manipulation (market abuse), that concept having itself been defined, in Article 1(2) of Directive
+         2003/implementing Directive 2003/as regards the definition and public disclosure of inside information and the definition
+         of market manipulation, as being information which a reasonable investor would be likely to use as part of the basis of his
+         investment decisions. In accordance with the purpose of Directive 2003/6, that capacity to have a significant effect on the
+         price of the financial instruments concerned or the price of related derivative financial instruments must be assessed, a
+         priori, in the light of the content of the information at issue and the context in which it occurs. It is thus not necessary,
+         in order to determine whether information is inside information, to examine whether its disclosure actually had a significant
+         effect on the price of the financial instruments to which it relates. 
+      
+(see paras 67-69)
+3.        Article 14(1) of Directive 2003/on insider dealing and market manipulation (market abuse) must be interpreted as meaning
+         that gains realised from insider dealing may constitute a relevant element for the purposes of determining an effective, proportionate
+         and dissuasive sanction. The method of calculation of those economic gains and, in particular, the date or the period to be
+         taken into account are to be determined by national law.
+      
+If, in addition to the administrative sanctions laid down in that provision, a Member State has introduced the possibility
+         of imposing a criminal financial sanction, it is not necessary, for the purposes of assessing whether the administrative sanction
+         is effective, proportionate and dissuasive, to take account of the possibility and/or the level of a criminal sanction which
+         may subsequently be imposed. The assessment of how effective, proportionate and dissuasive the administrative sanctions laid
+         down in Directive 2003/are cannot depend on a hypothetical criminal sanction which may subsequently be imposed.
+      
+(see paras 76-77, operative part 2-3)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+December (*)
+      
+(Directive 2003/– Insider dealing – Use of inside information – Sanctions – Conditions)
+In Case C‑45/08,
+REFERENCE for a preliminary ruling under Article EC from the hof van beroep te Brussel (Belgium), made by decision of
+         February 2008, received at the Court on February 2008, in the proceedings
+      
+Spector Photo Group NV,
+Chris Van Raemdonck
+v
+Commissie voor het Bank-, Financie- en Assurantiewezen (CBFA),
+THE COURT (Third Chamber),
+composed of J.N. Cunha Rodrigues, President of the Second Chamber, acting for the President of the Third Chamber, P. Lindh
+         (Rapporteur), A. Rosas, U. Lõhmus and A. Ó Caoimh, Judges,
+      
+Advocate General: J. Kokott,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on June 2009,
+after considering the observations submitted on behalf of:
+–        Spector Photo Group NV and M. Van Raemdonck, by K. Van den Broeck, W. Henckens and W. Devroe, advocaten,
+–        the Commissie voor het Bank-, Financie- en Assurantiewezen (CBFA), by J. Cerfontaine, F. Deruyck and H. Gilliams, advocaten,
+–        the Belgian Government, by J.-C. Halleux, acting as Agent, assisted by J. Meyers, advocaat,
+–        the German Government, by M. Lumma and J. Möller, acting as Agents,
+–        the French Government, by G. de Bergues and J.-C. Gracia, acting as Agents,
+–        Ireland, by D. O’Hagan, acting as Agent, and J. Newman, BL,
+–        the Italian Government, by R. Adam, acting as Agent, and P. Gentili, avvocato dello Stato,
+–        the Cypriot Government, by D. Lysandrou, acting as Agent,
+–        the Portuguese Government, by L. Inez Fernandes and C. Guerra Santos, acting as Agents,
+–        the United Kingdom Government, by S. Ossowski, acting as Agent, and A. Henshaw, barrister,
+–        the Commission of the European Communities, by P. Dejmek and W. Roels, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2009,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles and of Directive 2003/6/EC of the European
+         Parliament and of the Council of January on insider dealing and market manipulation (market abuse) (OJ L 96,
+         p. 16). 
+      
+The reference was made in the course of proceedings between, on the one hand, Spector Photo Group NV (‘Spector’) and one of
+         its managers, Mr Van Raemdonck, and, on the other, the Commissie voor het Bank-, Financie- en Assurantiewezen (Commission
+         for Banking, Finance and Insurance; ‘CBFA’), which imposed fines on the former two parties for insider dealing. 
+      
+ Legal context
+ Community law
+Article 2(1) of Council Directive 89/592/EEC of November coordinating regulations on insider dealing (OJ L 334,
+         p. 30), defines insider dealing as follows: 
+      
+‘Each Member State shall prohibit any person who: 
+–        by virtue of his membership of the administrative, management or supervisory bodies of the issuer,
+–        by virtue of his holding in the capital of the issuer, or
+–        because he has access to such information by virtue of the exercise of his employment, profession or duties,
+possesses inside information from taking advantage of that information with full knowledge of the facts by acquiring or disposing
+         of, for his own account or for the account of a third party, either directly or indirectly, transferable securities of the
+         issuer or issuers to which that information relates.’ 
+      
+Directive 89/was repealed as of the entry into force on April of Directive 2003/6. Article of the latter directive
+         states: 
+      
+‘1.      Member States shall prohibit any person referred to in the second subparagraph who possesses inside information from using
+         that information by acquiring or disposing of, or by trying to acquire or dispose of, for his own account or for the account
+         of a third party, either directly or indirectly, financial instruments to which that information relates. 
+      
+The first subparagraph shall apply to any person who possesses that information:
+(a)      by virtue of his membership of the administrative, management or supervisory bodies of the issuer; or
+(b)      by virtue of his holding in the capital of the issuer; or
+(c)      by virtue of his having access to the information through the exercise of his employment, profession or duties; or
+(d)      by virtue of his criminal activities.
+2.      Where the person referred to in paragraph is a legal person, the prohibition laid down in that paragraph shall also apply
+         to the natural persons who take part in the decision to carry out the transaction for the account of the legal person concerned.
+      
+3.      This Article shall not apply to transactions conducted in the discharge of an obligation that has become due to acquire or
+         dispose of financial instruments where that obligation results from an agreement concluded before the person concerned possessed
+         inside information.’
+      
+Article of Directive 2003/provides, however, that that prohibition does not apply to trading in which companies buy back
+         their own shares. The detailed arrangements for the implementation of Article were set out in Commission Regulation (EC) No 2273/of December implementing Directive 2003/as regards exemptions for buy-back programmes and stabilisation of financial
+         instruments (OJ L 336, p. 33), which entered into force on December 2003. 
+      
+Article 14(1) of Directive 2003/provides:
+      
+‘Without prejudice to the right of Member States to impose criminal sanctions, Member States shall ensure, in conformity with
+         their national law, that the appropriate administrative measures can be taken or administrative sanctions be imposed against
+         the persons responsible where the provisions adopted in the implementation of this Directive have not been complied with.
+         Member States shall ensure that these measures are effective, proportionate and dissuasive.’
+      
+Commission Directive 2003/124/EC of December implementing Directive 2003/as regards the definition and public disclosure
+         of inside information and the definition of market manipulation (OJ L 339, p. 70), supplements Directive 2003/by further
+         defining the concepts of public disclosure of inside information and market manipulation. 
+      
+ National law
+Article 25(1) of the Law of August on supervision of the financial sector and financial services (Moniteur belge of September 2002, p. 39121; ‘the initial version of the Law of August 2002’), stated:
+      
+‘1. Any person who possesses inside information is prohibited from:
+(a)      using that information by acquiring or disposing of, or trying to acquire or dispose of, for his own account or for the account
+         of a third party, either directly or indirectly, the financial instruments to which that information relates or connected
+         financial instruments.
+      
+…’
+Article 25(1) of the Law of August 2002, as amended by the Framework Law of December (Moniteur belge of December 2003, p. 62160; ‘the amended version of the Law of August 2002’), states: 
+      
+‘1. Any person who possesses information which he knows, or ought to have known, constitutes inside information is prohibited
+         from:
+      
+(a) acquiring or disposing of, or trying to acquire or dispose of, for his own account or for the account of a third party,
+         either directly or indirectly, the financial instruments to which that information relates or connected financial instruments.
+      
+…’ 
+That latter provision applies only to facts subsequent to December 2003. 
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+Spector is a publicly quoted company governed by Belgian law. As part of its profit-sharing policy it offers a stock option
+         programme to its staff. In the event of those options being exercised, Spector had planned to prioritise the use of the shares
+         in its possession and, if necessary, to buy the balance of required shares on the market. In the course of Spector thus
+         had to purchase more than shares on the market. 
+      
+On May 2003, as required by the Belgian legislation in force at that time, Spector informed Euronext Brussels of its intention
+         to buy a certain number of its own shares as part of the implementation of its stock option programme. 
+      
+From May to August Spector purchased a total of shares. Initially, four successive transactions of
+         shares were effected. Then, on and August 2003, Mr Van Raemdonck placed two orders enabling Spector to acquire
+         shares at an average price of EUR 9.97, the exercise price of the options at issue being EUR 10.45. 
+      
+Spector subsequently published certain information concerning its results and its commercial policy. The company’s share price
+         is stated to have then increased. On December it was at EUR 12.50. 
+      
+By decision of November (‘the contested decision’) the CBFA classed the purchases made on the basis of the orders
+         of and August as insider dealing, prohibited under Article 25(1) of the initial version of the Law of August
+         2002. The CBFA imposed fines of EUR on Spector and EUR on Mr Van Raemdonck. Those parties then brought an action
+         against that decision before the hof van beroep te Brussel.
+      
+In that dispute, the applicants in the main proceedings raised three sets of arguments, which are at the origin of the reference
+         for a preliminary ruling, concerning the retroactive effect of the newer, more lenient, Law (retroactivity inmitius), the elements which constitute insider dealing, and the proportionality of the sanction imposed for the alleged infringement.
+         
+      
+According to the referring court, the applicants in the main proceedings complain primarily that the CBFA disregarded the
+         principle of retroactivity in mitius. They essentially claim that the provisions of Article 25(1) of the amended version of the Law of August are incompatible
+         with the definition of insider dealing given in Article of Directive 2003/and are thus inapplicable. Consequently, the
+         incompatibility of those provisions with Directive 2003/is claimed to have created a legal vacuum, analogous to a more lenient
+         criminal law, preventing the CBFA from applying Article 25(1) of the initial version of the Law of August 2002. 
+      
+The referring court states that the CBFA applied Article 25(1) of the amended version of the Law of August even though
+         the incriminating facts preceded the date on which that provision entered into force, namely January 2004. It considers
+         that it is possible that that provision has amended the definition of insider dealing, making it more repressive. For there
+         to be insider dealing, Article 25(1) no longer requires the ‘use’ of privileged information but merely ‘possession’ thereof.
+         
+      
+The referring court is uncertain whether the Member States may define the elements which constitute insider dealing more strictly
+         than Article of Directive 2003/6, and also as to the interpretation to be given to the expression ‘use’ of inside information
+         for the purposes of that provision. 
+      
+According to the referring court, the applicants in the main proceedings submit, in the alternative, that the elements constituting
+         insider dealing under Article 25(1) of the initial version of the Law of August are not met. They claim that the CBFA
+         has not established that the share purchases at issue in the main proceedings were made because of the imminent publication
+         of the results of the company concerned. 
+      
+The referring court is uncertain as to the type of evidence which may enable a finding that inside information has been ‘used’
+         within the meaning of Article of Directive 2003/6. 
+      
+According to the referring court, the applicants in the main proceedings submit that the sanctions imposed are disproportionate
+         to the severity of the infringement. The referring court is uncertain as to the criteria to be used in evaluating the proportionality
+         of sanctions. 
+      
+In those circumstances, the hof van beroep te Brussel decided to stay the proceedings and to refer the following questions
+         to the Court for a preliminary ruling:
+      
+‘1.      Do the provisions of [Directive 2003/6], and especially Article thereof, call for full harmonisation, with the exception
+         of those provisions which explicitly permit the Member States to interpret measures as they wish, or do they, in their entirety,
+         concern a minimum of harmonisation?
+      
+2.      Should Article 2(1) of [Directive 2003/6] be interpreted as meaning that the mere fact that a person as referred to in [the
+         first paragraph of] Article 2(1) of that directive [who] possesses inside information and acquires or disposes of, or tries
+         to acquire or dispose of, for his own account or for the account of a third party, financial instruments to which that inside
+         information relates, signifies in itself that he makes use of [that] inside information?
+      
+3.      If the answer to the second question is in the negative, must it then be assumed that application of Article of [Directive 2003/6]
+         presupposes that a deliberate decision has been taken to use inside information?
+      
+         If such a decision may also be unwritten, is it then required that the decision to use inside information be evident from
+         circumstances susceptible to no other interpretation, or is it sufficient that those circumstances could be so interpreted?
+      
+4.      If in the determination of the proportionate nature of an administrative sanction, as referred to in Article of [Directive 2003/6],
+         account must be taken of the gains realised, should it be assumed that the publication of information to be designated as
+         inside information has in fact had a significant effect on the price of the financial instrument?
+      
+         If so, what minimum level of price movement must have occurred for it to be possible to regard it as significant?
+5.      Whether or not the price movement after the publication of information must be significant, what period should be taken into
+         account after the publication of the information for the determination of the scale of the price movement, and what date should
+         be taken as the basis for gauging the financial advantage gained in the determination of the appropriate sanction?
+      
+6.      In the light of the determination of the proportionate nature of the sanction, should Article of [Directive 2003/6] be
+         interpreted as meaning that, if a Member State has introduced the option of a criminal sanction, combined with an administrative
+         sanction, account must be taken of the option and level of a criminal financial penalty in the consideration of its proportionality?’
+      
+ The questions referred 
+ Admissibility
+The CBFA and the Belgian and German Governments have doubts as to the admissibility of the reference for a preliminary ruling.
+         They essentially claim that the questions referred are hypothetical, since they concern the compatibility of Article of
+         the amended version of the Law of August 2002, whereas the contested decision is based not on that provision but on Article of the initial version of the Law of August 2002. 
+      
+In that regard, it must be recalled that, in proceedings under Article EC, it is solely for the national court before
+         which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine
+         in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver
+         judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern
+         the interpretation of Community law, the Court is in principle bound to give a ruling (see, inter alia, Case C‑119/Lucchini [2007] ECR I‑6199, paragraph 43, and Case C‑414/Magoora [2008] ECR I‑0000, paragraph 22).
+      
+According to settled case-law, questions on the interpretation of Community law referred by a national court in the factual
+         and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court
+         to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only
+         where it is quite obvious that the interpretation of Community law that is sought bears no relation to the actual facts of
+         the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual
+         or legal material necessary to give a useful answer to the questions submitted to it (see, to that effect, Joined Cases C‑222/to C‑225/van der Weerd and Others [2007] ECR I-4233, paragraph and the case-law cited).
+      
+It is true that the relevance of the interpretation of Directive 2003/for the purposes of assessing the conformity with
+         Community law of Article of the amended version of the Law of August appears, as the Advocate General has stated
+         in point of her Opinion, very questionable, since the contested decision is not based on that provision. 
+      
+However, it is not apparent in this case that the interpretation requested of Directive 2003/bears no relation to the actual
+         facts of the case in the main proceedings or its purpose. The facts at issue in the main proceedings came into being after
+         the entry into force of that directive and were sanctioned in accordance with national legislation prohibiting insider dealing.
+         Moreover, the factual and legal material necessary in order for the Court to give a useful answer to the questions submitted
+         to it are set out in the order for reference, which also indicates the provisions to be interpreted. 
+      
+Consequently, the reference for a preliminary ruling is admissible.
+      
+ Substance
+ The second and third questions 
+By its second and third questions, which need to be examined together and prior to the others, the referring court requests
+         the Court of Justice to interpret the expression ‘use of inside information’ in Article 2(1) of Directive 2003/6. That provision
+         provides that the Member States are to prohibit any person referred to in the second subparagraph thereof (a ‘primary insider’)
+         who ‘possesses inside information from using that information by acquiring or disposing of, … for his own account or for the
+         account of a third party, either directly or indirectly, the financial instruments to which that information relates’ or from
+         trying to enter into such a transaction on the market. More precisely, the referring court seeks to determine whether it is
+         sufficient, for a transaction to be classed as prohibited insider dealing, that a primary insider in possession of inside
+         information trades on the market in financial instruments to which that information relates or whether it is necessary, in
+         addition, to establish that that person has ‘used’ that information ‘with full knowledge’. 
+      
+Article 2(1) of Directive 2003/does not stipulate that prohibited transactions must be carried out ‘with full knowledge
+         of the facts’ but merely prohibits primary insiders from using inside information when entering into market transactions.
+         That article defines the constituent elements of such prohibited transactions by referring expressly to two such elements,
+         namely, the persons likely to fall within its scope and the material actions which constitute that transaction. 
+      
+By contrast, that provision does not expressly set out the subjective conditions in relation to the intention behind those
+         material actions. Article 2(1) of Directive 2003/does not state whether the primary insider must have been driven by a speculative
+         intention, must have had a fraudulent intention or must have acted either deliberately or negligently. That article does not
+         expressly state whether it is necessary to establish that the inside information was decisive in the decision to enter into
+         the market transaction at issue, or whether the primary insider had to be aware that the information in his possession was
+         inside information. 
+      
+In that regard, it should be noted that, in drafting Directive 2003/6, the Community legislature sought to fill in some of
+         the gaps identified in Directive 89/592. Article 2(1) of Directive 89/sought to prohibit ‘any person who … possesses inside
+         information’ from entering into a market transaction in relation to the transferable securities concerned ‘by taking advantage
+         of that information with full knowledge of the facts’. The transposition of that provision into national law gave rise to
+         variances in the interpretation by the Member States of the expression ‘with full knowledge of the facts’, which in certain
+         national legal systems was assimilated to a requirement of a mental element. 
+      
+In that regard, the Proposal for a Directive of the European Parliament and of the Council on insider dealing and market manipulation
+         (market abuse) (2001/(COD)), submitted by the Commission of the European Communities on May 2001, was based on the
+         wording of Article 2(1) of Directive 89/while removing the expression ‘with full knowledge of the facts’, on the ground
+         that ‘by nature [primary insiders] may have access to inside information on a daily basis and are aware of the confidential
+         nature of the information that they receive’. In addition, the subsequent preparatory work referred to in point of the
+         Advocate General’s Opinion shows that the Parliament, in accordance with the objective approach of the notion of insider dealing
+         favoured by the Commission, sought to replace the verb ‘to take advantage of’ with the verb ‘to use’ in order to remove any
+         element of purpose or intention from the definition of insider dealing. 
+      
+The above shows that Article 2(1) of Directive 2003/defines insider dealing objectively without the intention behind such
+         dealing being referred to explicitly in its definition. This was done with a view to achieving uniform harmonisation of the
+         law of the Member States. 
+      
+The fact that Article 2(1) of Directive 2003/does not expressly provide for a mental element can be explained, first, by
+         the specific nature of insider dealing, which enables a presumption of that mental element once the constituent elements referred
+         to in that provision are present. To begin with, the relationship of confidence which links the primary insiders referred
+         to in Article 2(1)(a) to (c) to the issuer of the financial instruments to which the inside information relates implies, on
+         their part, a specific responsibility in that regard. Next, entering into a market transaction is necessarily the result of
+         a series of decisions forming part of a complex context which, in principle, makes it possible to exclude the possibility
+         that the author of that transaction could have acted without being aware of his actions. Finally, where such a market transaction
+         is entered into while the author of that transaction is in possession of inside information, that information must, in principle,
+         be deemed to have played a role in his decision-making. 
+      
+The fact that Article 2(1) of Directive 2003/does not expressly provide for a mental element among the constituent elements
+         of insider dealing can be explained, second, by the purpose of Directive 2003/6, which, as is pointed out, inter alia, in
+         the second and twelfth recitals in the preamble thereto, is to ensure the integrity of Community financial markets and to
+         enhance investor confidence in those markets. The Community legislature opted for a preventative mechanism and for administrative
+         sanctions for insider dealing, the effectiveness of which would be weakened if made subject to a systematic analysis of the
+         existence of a mental element. As pointed out by the Advocate General in point of her Opinion, only if the prohibition
+         on insider dealing allows infringements to be effectively sanctioned does it prove to be powerful and encourage compliance
+         with the rules by all market actors on a lasting basis. The effective implementation of the prohibition on market transactions
+         is thus based on a simple structure in which subjective grounds of defence are limited, not only to enable sanctions to be
+         imposed but also to prevent effectively infringements of that prohibition. 
+      
+Once the constituent elements of insider dealing laid down in Article 2(1) of Directive 2003/are satisfied, it is thus possible
+         to assume an intention on the part of the author of that transaction. 
+      
+Such a presumption does not, however, infringe fundamental rights and, in particular, the principle of the presumption of
+         innocence laid down, inter alia, in Article 6(2) of the European Convention for the Protection of Human Rights and Fundamental
+         Freedoms, signed in Rome on November (‘the ECHR’). 
+      
+It should be noted in that regard that, according to settled case‑law, fundamental rights form an integral part of the general
+         principles of law whose observance the Court ensures (Joined Cases C‑402/P and C‑415/P Kadi and Al Barakaat International Foundation v Council and Commission [2008] ECR I‑6351, paragraph 283).
+      
+It is also apparent from the Court’s case‑law that respect for human rights is a condition of the lawfulness of Community
+         acts and that measures incompatible with respect for human rights are not acceptable in the Community (Kadi and Al Barakaat International Foundation v Council and Commission, paragraph 284). 
+      
+It is true that Article 14(1) of Directive 2003/does not oblige the Member States to provide for criminal sanctions against
+         authors of insider dealing but merely states that those States are required to ensure that ‘the appropriate administrative
+         measures can be taken or administrative sanctions be imposed against the persons responsible where the provisions adopted
+         in the implementation of [that d]irective have not been complied with’, the Member States being required, in addition, to
+         ensure that those measures are ‘effective, proportionate and dissuasive’. None the less, in the light of the nature of the
+         infringements at issue and the degree of severity of the sanctions which may be imposed, such sanctions may, for the purposes
+         of the application of the ECHR, be qualified as criminal sanctions (see, by analogy, Case C‑199/P Hüls v Commission [1999] ECR I‑4287, paragraph 150; Eur. Court H. R., Engel and Others v the Netherlands, judgment of June 1976, Series A no. 22, § 82; Öztürk v Germany, judgment of February 1984, Series A no. 73, § 53; and Lutz v Germany, judgment of August 1987, Series A no. 123, § 54). 
+      
+According to the case‑law of the European Court of Human Rights, presumptions of fact or of law operate in every legal system
+         and the ECHR clearly does not prohibit such presumptions in principle. It does, however, require the Contracting States to
+         remain within certain limits in this respect as regards criminal law. Thus, the principle of the presumption of innocence,
+         laid down in Article 6(2) of the ECHR, does not regard presumptions of fact or of law provided for in the criminal law with
+         indifference. It requires States to confine them within reasonable limits which take into account the importance of what is
+         at stake and maintain the rights of the defence (see Salabiaku v France, judgment of October 1988, Series A no. 141, § 28, and Pham Hoang v France, judgment of September 1992, Series A no. 243, § 33). 
+      
+This Court considers that the principle of the presumption of innocence does not preclude the presumption in Article 2(1)
+         of Directive 2003/that the intention of the author of insider dealing can be inferred implicitly from the constituent material
+         elements of that infringement, provided that that presumption is open to rebuttal and the rights of the defence are guaranteed.
+         
+      
+The establishment of an effective and uniform system to prevent and sanction insider dealing with the legitimate aim of protecting
+         the integrity of financial markets has thus led the Community legislature to adopt an objective definition of the constituent
+         elements of prohibited insider dealing. The fact that Article 2(1) of Directive 2003/does not expressly provide for a mental
+         element does not, however, mean that that provision needs to be interpreted in such a way that any primary insider in possession
+         of inside information who enters into a market transaction, automatically falls within the prohibition on insider dealing.
+         
+      
+As pointed out by the Italian and United Kingdom Governments, such an extensive interpretation of Article 2(1) of Directive 2003/would entail the risk of extending the scope of that prohibition beyond what is appropriate and necessary to attain the goals
+         pursued by that directive. Such an interpretation could, in practice, lead to the prohibition of certain market transactions
+         which do not necessarily infringe the interests protected by that directive. It is therefore necessary to distinguish ‘uses
+         of inside information’ which are capable of infringing those interests from those which are not.
+      
+To that end, reference needs to be made to the purpose of Directive 2003/6. As is apparent from its title, that directive
+         seeks to tackle market abuse. The second and twelfth recitals in the preamble thereto state that, following the example of
+         Directive 89/592, it prohibits insider dealing with the aim of protecting the integrity of financial markets and enhancing
+         investor confidence, a confidence which depends, inter alia, on investors being placed on an equal footing and protected against
+         the improper use of inside information (see, by analogy, Case C‑384/Grøngaard and Bang [2005] ECR I‑9939, paragraphs and 33). 
+      
+Thus, the purpose of the prohibition laid down by Article 2(1) of Directive 2003/is to ensure equality between the contracting
+         parties in stock-market transactions by preventing one of them who possesses inside information and who is, therefore, in
+         an advantageous position vis-à-vis other investors, from profiting from that information, to the detriment of those who are
+         unaware of it (see, by analogy, Case C‑391/Georgakis [2007] ECR I‑3741, paragraph 38).
+      
+In its explanatory memorandum accompanying the proposal which led to the adoption of Directive 2003/6, the Commission thus
+         stated that ‘market abuse may arise in circumstances where investors have been unreasonably disadvantaged, directly or indirectly,
+         by others who … have used information which is not publicly available to their own advantage or the advantage of others …
+         This type of conduct can create a misleading appearance of trading in financial instruments and undermine the general principle
+         that all investors must be placed on an equal footing … in terms of access to information. Insiders are in possession of confidential
+         information. Trades based on such information lead to unjustified economic advantages at the expense of “outsiders”’. Thus,
+         the proposal for a directive was based on the will to prohibit insiders from drawing an advantage from inside information
+         by entering into market transactions to the detriment of the other actors on the market who do not have access to such information.
+      
+Consequently, there is a close link between the prohibition on insider dealing and the concept of inside information, the
+         latter being defined by Article of Directive 2003/as ‘information of a precise nature which has not been made public’,
+         relating to issuers of financial instruments or to financial instruments and which, ‘if it were made public, would be likely
+         to have a significant effect on the prices of [the] financial instruments [concerned] or on the price of related derivative
+         financial instruments’. 
+      
+In order to strengthen legal certainty for market participants, Directive 2003/specified the definition of two key elements
+         of inside information, namely the precise nature of that information and the extent of its potential impact on prices. Article 1(1)
+         of that directive thus provides that information ‘[is to] be deemed to be of a precise nature if it indicates a set of circumstances
+         which exists or may reasonably be expected to come into existence or an event which has occurred or may reasonably be expected
+         to do so and if it is specific enough to enable a conclusion to be drawn as to the possible effect of that set of circumstances
+         or event on the prices of financial instruments’. Article 1(2) of that directive defines information likely to have a significant
+         effect on the price of financial instruments as information which ‘a reasonable investor would be likely to use as part of
+         the basis of his investment decisions’.
+      
+Owing to its non-public and precise nature and its ability to influence the prices of financial instruments significantly,
+         inside information grants the insider in possession of such information an advantage in relation to all the other actors on
+         the market who are unaware of it. It enables that insider, when he acts in accordance with that information in entering into
+         a transaction on the market, to expect to derive an economic advantage from it without exposing himself to the same risks
+         as the other investors on the market. The essential characteristic of insider dealing thus consists in an unfair advantage
+         being obtained from information to the detriment of third parties who are unaware of it and, consequently, the undermining
+         of the integrity of financial markets and investor confidence. 
+      
+Consequently, the prohibition on insider dealing applies where a primary insider who is in possession of inside information
+         takes unfair advantage of the benefit gained from that information by entering into a market transaction in accordance with
+         that information. 
+      
+It follows that the fact that a primary insider who holds inside information trades on the market in financial instruments
+         to which that information relates implies that that person ‘used that information’ within the meaning of Article 2(1) of Directive 2003/6,
+         but without prejudice to the rights of the defence and, in particular, the right to be able to rebut that presumption. 
+      
+However, in order not to extend the scope of the prohibition laid down in Article 2(1) of Directive 2003/beyond what is
+         appropriate and necessary to attain the goals pursued by that directive, certain situations may require a thorough examination
+         of the factual circumstances enabling it to be ensured that the use of the inside information is actually unfair so as to
+         be prohibited by the directive in the name of the integrity of financial markets and investor confidence. 
+      
+In should be noted, in that regard, that the preamble to Directive 2003/provides several examples of situations in which
+         the fact that a primary insider in possession of inside information enters into a transaction on the market should not in
+         itself constitute ‘use of inside information’ for the purposes of Article 2(1) of that directive. 
+      
+Thus, the 18th recital in the preamble to Directive 2003/states that use of inside information ‘can consist in the acquisition
+         or disposal of financial instruments by a person who knows, or ought to have known, that the information possessed is inside
+         information’. That hypothesis is expressly provided for in Article of that directive, which extends the prohibition on insider
+         dealing to persons who know, or ought to have known, that the information in their possession is inside information. None
+         the less, the automatic application of those criteria to certain professionals in the financial markets, who are required
+         to hold inside information relating to transactions carried out on the market by third parties, risks leading to a situation
+         in which such persons are prohibited from carrying out their activity, an activity which is both legitimate and useful for
+         the efficient functioning of the financial markets. The 18th recital in the preamble to that directive states, in that regard,
+         that the assessment of what a reasonable person knows or should have known ‘in the circumstances’ is to be carried out by
+         the competent authorities. 
+      
+In addition, that recital states that the mere fact that market-makers, bodies authorised to act as counterparties, or persons
+         authorised to execute orders on behalf of third parties with inside information confine themselves to entering into market
+         transactions legitimately and dutifully ‘should not in itself be deemed to constitute use of such inside information’.
+      
+The 29th recital in the preamble to Directive 2003/states that having access to inside information relating to another company
+         and using it in the context of a public take-over bid or a merger proposal ‘should not in itself be deemed to constitute insider
+         dealing’. The operation whereby an undertaking, after obtaining inside information concerning a specific company, subsequently
+         launches a public take-over bid for the capital of that company at a rate higher than the market rate cannot, in principle,
+         be regarded as prohibited insider dealing since it does not infringe the interests protected by that directive. 
+      
+The 30th recital in the preamble to Directive 2003/states that, since the carrying out of a market transaction necessarily
+         involves a prior decision on the part of its author, the carrying out of that transaction ‘should not be deemed in itself
+         to constitute the use of inside information’. If that were not the case, Article 2(1) of that directive could, inter alia,
+         lead to a situation in which a person who decided to launch a public take-over bid would be prohibited from executing that
+         decision since it would constitute inside information. Such a result would not only go beyond what may be regarded as appropriate
+         and necessary to achieve the goals of that directive, but could even adversely affect the efficient functioning of the financial
+         markets by preventing public take-over bids. 
+      
+It follows from the above that the question whether a primary insider in possession of inside information ‘uses that information’
+         within the meaning of Article 2(1) of Directive 2003/must be determined in the light of the purpose of that directive, which
+         is to protect the integrity of the financial markets and to enhance investor confidence. That confidence is based, in particular,
+         on the assurance that they will be placed on an equal footing and protected from the misuse of inside information. Only usage
+         which goes against that purpose constitutes prohibited insider dealing. 
+      
+Therefore, the answer to the second and third questions must be that, on a proper interpretation of Article 2(1) of Directive 2003/6,
+         the fact that a person as referred to in the second subparagraph of that provision, in possession of inside information, acquires
+         or disposes of, or tries to acquire or dispose of, for his own account or for the account of a third party, either directly
+         or indirectly, the financial instruments to which that information relates implies that that person has ‘used that information’
+         within the meaning of that provision, but without prejudice to the rights of the defence and, in particular, to the right
+         to be able to rebut that presumption. The question whether that person has infringed the prohibition on insider dealing must
+         be analysed in the light of the purpose of that directive, which is to protect the integrity of the financial markets and
+         to enhance investor confidence, which is based, in particular, on the assurance that investors will be placed on an equal
+         footing and protected from the misuse of inside information.
+      
+ The first question 
+By its first question, the referring court asks whether Directive 2003/constitutes a complete harmonisation of the prohibition
+         on insider dealing, with the result that Member States may not lay down a stricter definition than that set out in Article 2(1)
+         of that directive. 
+      
+It is apparent from the decision to refer that that question was raised on the hypothesis that, on a proper interpretation
+         of Article 2(1) of the directive, the carrying out by a primary insider holding inside information of a market transaction
+         in financial instruments to which that information relates cannot imply that that person ‘used that information’ within the
+         meaning of that provision. However, given the reply to the second and third questions referred, that hypothesis does not apply.
+         Therefore, there is no need to reply to the first question. 
+      
+ The fourth and fifth questions 
+By these two questions, which should be examined together, the referring court essentially asks whether, in order to sanction
+         insider dealing while respecting the principle of proportionality, it is necessary to take account of the gains realised,
+         and if so, what date should be taken as the basis for gauging those gains. 
+      
+That court also asks whether the disclosure of inside information must be deemed to have influenced the price of the financial
+         instrument concerned, and, if so, what is the threshold above which that influence may be regarded as significant. 
+      
+In response to that latter point, it should be noted that the capacity of information to have a significant effect on the
+         price of the financial instruments to which it relates is one of the characteristic elements of the concept of inside information.
+         
+      
+As stated in paragraph above, the expression ‘inside information’, as defined in Article 1(1) of Directive 2003/6, is characterised,
+         in particular, by the fact that, if that information were made public, it ‘would be likely to have a significant effect on
+         the price of [the] financial instruments [concerned] or on the price of related derivative financial instruments’, that concept
+         having itself been defined in Article 1(2) of Directive 2003/as being ‘information which a reasonable investor would be
+         likely to use as part of the basis of his investment decisions’. 
+      
+In accordance with the purpose of Directive 2003/6, that capacity to have a significant effect on prices must be assessed,
+         a priori, in the light of the content of the information at issue and the context in which it occurs. It is thus not necessary,
+         in order to determine whether information is inside information, to examine whether its disclosure actually had a significant
+         effect on the price of the financial instruments to which it relates. 
+      
+As regards the first part of those questions, it should be noted that Article 14(1) of Directive 2003/provides that the
+         Member States are to ensure, in conformity with their national law, that appropriate administrative measures can be taken
+         or administrative sanctions be imposed against the persons responsible for infringements of provisions adopted in the implementation
+         of the directive. In that regard, the Member States are to ensure that those measures are effective, proportionate and dissuasive.
+      
+It must be noted that Article 14(1) of Directive 2003/does not establish any criteria for assessing how effective, proportionate
+         and dissuasive a sanction is. It is for national legislation to define those criteria. 
+      
+It should be noted, however, that the 38th recital in the preamble to Directive 2003/states that sanctions should be sufficiently
+         dissuasive and proportionate to the gravity of the infringement and to the gains realised and should be consistently applied.
+      
+The answer to the fourth and fifth questions must therefore be that, on a proper interpretation of Article 14(1) of Directive 2003/6,
+         gains realised from insider dealing may constitute a relevant element for the purposes of determining a sanction which is
+         effective, proportionate and dissuasive. The method of calculation of those economic gains and, in particular, the date or
+         the period to be taken into account are to be determined by national law. 
+      
+ The sixth question 
+The referring court essentially asks whether Article 14(1) of Directive 2003/must be interpreted as meaning that, if, in
+         addition to the administrative sanctions laid down in that provision, a Member State has introduced the possibility of imposing
+         a criminal financial sanction, account must be taken, at the stage when the administrative sanction is determined, of the
+         possibility and/or the level of a criminal financial sanction which may be subsequently imposed. 
+      
+Article 14(1) of Directive 2003/requires of the Member States that the administrative measures or sanctions which they impose
+         on persons responsible for market abuses, such as insider dealing, be effective, proportionate and dissuasive, without prejudice
+         to the rights of the Member States to impose criminal sanctions. 
+      
+That provision cannot be interpreted as imposing on the competent national authorities the obligation to take into consideration,
+         when determining an administrative financial sanction, the possibility of imposing a subsequent criminal financial sanction.
+         The assessment of how effective, proportionate and dissuasive the administrative sanctions laid down in Directive 2003/are
+         cannot depend on a hypothetical criminal sanction which may subsequently be imposed. 
+      
+Consequently, the answer to the sixth question must be that Article 14(1) of Directive 2003/is to be interpreted as meaning
+         that, if, in addition to the administrative sanctions laid down in that provision, a Member State has introduced the possibility
+         of a criminal financial sanction, it is not necessary, for the purposes of assessing whether the administrative sanction is
+         effective, proportionate and dissuasive, to take account of the possibility and/or the level of a criminal sanction which
+         may subsequently be imposed.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable. 
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+1.      On a proper interpretation of Article 2(1) of Directive 2003/6/EC of the European Parliament and of the Council of January
+            on insider dealing and market manipulation (market abuse), the fact that a person as referred to in the second subparagraph
+            of that provision, in possession of inside information, acquires or disposes of, or tries to acquire or dispose of, for his
+            own account or for the account of a third party, either directly or indirectly, the financial instruments to which that information
+            relates implies that that person has ‘used that information’ within the meaning of that provision, but without prejudice to
+            the rights of the defence and, in particular, to the right to be able to rebut that presumption. The question whether that
+            person has infringed the prohibition on insider dealing must be analysed in the light of the purpose of that directive, which
+            is to protect the integrity of the financial markets and to enhance investor confidence, which is based, in particular, on
+            the assurance that investors will be placed on an equal footing and protected from the misuse of inside information.
+2.      Article 14(1) of Directive 2003/must be interpreted as meaning that gains realised from insider dealing may constitute a
+            relevant element for the purposes of determining a sanction which is effective, proportionate and dissuasive. The method of
+            calculation of those economic gains and, in particular, the date or the period to be taken into account are to be determined
+            by national law.
+3.      Article 14(1) of Directive 2003/must be interpreted as meaning that, if, in addition to the administrative sanctions laid
+            down in that provision, a Member State has introduced the possibility of imposing a criminal financial sanction, it is not
+            necessary, for the purposes of assessing whether the administrative sanction is effective, proportionate and dissuasive, to
+            take account of the possibility and/or the level of a criminal sanction which may subsequently be imposed.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 

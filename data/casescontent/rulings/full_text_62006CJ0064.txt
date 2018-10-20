@@ -1,0 +1,284 @@
+
+Case C-64/Telefónica OCzech Republic a.s., formerly Český Telecom a.s.
+v
+Czech On Line a.s.
+(Reference for a preliminary ruling from the Obvodní soud pro Prahu 3)
+(Electronic communications – Networks and services – Common regulatory framework – Dominant undertaking – Obligation of interconnection with other operators – Transitional provisions – Directive 97/33)
+Opinion of Advocate General Ruiz-Jarabo Colomer delivered on February Judgment of the Court (Second Chamber), June Summary of the Judgment
+1.     Preliminary rulings – Jurisdiction of the Court – Limits 
+(Art. EC)
+2.     Approximation of laws – Electronic communications networks and services – Directives 2002/and 2002/– Transitional provisions
+            
+(European Parliament and Council Directives 97/33, 2002/and 2002/21)
+1.     Provided that questions referred for preliminary ruling concern the interpretation of Community law, the Court gives its ruling
+         without, generally, having to look into the circumstances in which national courts were prompted to submit the questions and
+         envisage applying the provision of Community law which they have asked the Court to interpret. 
+      
+The matter would be different only if the provision of Community law which was submitted for interpretation by the Court was
+         not applicable to the facts of the main proceedings, which had occurred before the accession of a new Member State to the
+         European Union or if such provision was manifestly incapable of applying.
+      
+(see paras 22-23)
+2.     In accordance with the transitional provisions of Directive 2002/on access to, and interconnection of, electronic communications
+         networks and associated facilities, and of Directive 2002/on a common regulatory framework for electronic communications
+         networks and services, the telecommunications regulatory authority of a Member State which joined the European Union on May is entitled to consider the obligation, on the part of a telecommunications company with significant market power
+         within the meaning of Directive 97/on interconnection in telecommunications with regard to ensuring universal service and
+         interoperability through application of the principles of Open Network Provision (ONP), as amended by Directive 98/61, to
+         conclude a contract for the interconnection of its networks with that of another operator, subsequent to the accession date
+         of the Member State concerned, within the context of the provisions of Directive 97/33, as amended.
+      
+(see para. 28, operative part)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+June (*)
+      
+(Electronic communications – Networks and services – Common regulatory framework – Dominant undertaking – Obligation of interconnection with other operators – Transitional provisions – Directive 97/33)
+In Case C‑64/06,
+REFERENCE for a preliminary ruling under Article EC from the l’Obvodní soud pro Prahu (Czech Republic), made by decision
+         of November 2005, received at the Court on February 2006, in the proceedings
+      
+Telefónica OCzech Republic as, formerly Český Telecom as,
+      
+v
+Czech On Line as,
+      
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of the Chamber, P. Kūris (Rapporteur), K. Schiemann, J. Makarczyk and L. Bay Larsen,
+         Judges,
+      
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: J. Swedenborg, Administrator,
+having regard to the written procedure and further to the hearing on February 2007,
+after considering the observations submitted on behalf of:
+–       Telefónica OCzech Republic as, by J. Procházková, právnička,
+–       Czech On Line as, by V. Horáček, advokát,
+–       the Czech Government, by T. Boček, acting as Agent,
+–       the Netherlands Government, by H.G. Sevenster and C. ten Dam, acting as Agents,
+–       the Commission of the European Communities, by M. Shotter and P. Ondrůšek, acting as Agents,
+after hearing the Opinion of the Advocate General on February 2007,
+gives the following
+Judgment
+The reference for a preliminary ruling relates to the interpretation of Directive 2002/19/EC of the European Parliament and
+         of the Council of March on access to, and interconnection of, electronic communications networks and associated facilities
+         (OJ L 108, p. 7, the ‘Access Directive’) and also of Directive 2002/21/EC of the European Parliament and of the Council
+         of March on a common regulatory framework for electronic communications networks and services (OJ L 108, p. 33,
+         the ‘Framework Directive’).
+      
+This reference has been made in the context of proceedings where the opposing parties are Telefónica OCzech Republic as,
+         formerly Český Telecom as (‘TO2’), and Czech On Line as (‘COL’) on the subject of the rejection by TOof a request, made
+         by COL, for an extension of existing collaboration to broadband high-speed internet services (Asymmetric Digital Subscriber
+         Line, ‘ADSL’).
+      
+ Legal context
+ Community Law
+Article of the Framework Directive sets out transitional measures as follows:
+‘Member States shall maintain all obligations under national law referred to in Article of [the Access Directive] and Article
+         of Directive 2002/22/EC (Universal Service Directive) until such time as a determination is made in respect of those obligations
+         by a national regulatory authority in accordance with Article of this Directive.
+      
+Operators of fixed public telephone networks that were designated by their national regulatory authority as having significant
+         market power in the provision of fixed public telephone networks and services under Annex I, Part of directive 97/33/EC
+         [of the European Parliament and of the Council of June on interconnection in telecommunications with regard to ensuring
+         universal service and interoperability through application of the principles of Open Network Provision (OJ L 199, p. 32)
+         as amended by Directive 98/61/EC of the European Parliament and of the Council of September (OJ L 268, p. 37,
+         ‘Directive 97/33’)], or under Directive 98/10/EC [of the European Parliament and of the Council of February on the
+         application of open network provision (ONP) to voice telephony and on universal service for telecommunications in a competitive
+         environment (OJ L 101, p. 24)], shall continue to be considered “notified operators” for the purposes of Regulation (EC)
+         No 2887/until such a time as the market analysis procedure referred to in Article has been completed. Thereafter they
+         shall cease to be considered “notified operators” for the purposes of the Regulation.’
+      
+Article of the Access Directive headed ‘Review of former obligations for access and interconnection’ provides:
+1. Member States shall maintain all obligations on undertakings providing public communications networks and/or services concerning
+         access and interconnection that were in force prior to the date of entry into force of this Directive under Articles 4, 6,
+         7, 8, 11, 12, and of Directive 97/33/EC, Article of Directive 98/10/EC, and Articles and of Directive 92/44/EEC,
+         until such time as these obligations have been reviewed and a determination made in accordance with paragraph 3.
+      
+2. The Commission will indicate relevant markets for the obligations referred to in paragraph in the initial recommendation
+         on relevant product and service markets and the Decision identifying transnational markets to be adopted in accordance with
+         Article of [the Framework Directive].
+      
+3. Member States shall ensure that, as soon as possible after the entry into force of this Directive, and periodically thereafter,
+         national regulatory authorities undertake a market analysis, in accordance with Article of [the Framework Directive] to
+         determine whether to maintain, amend or withdraw these obligations. An appropriate period of notice shall be given to parties
+         affected by such amendment or withdrawal of obligations.’
+      
+ National law 
+Article of Law No 151/on telecommunications and amendment of other legislation (Zákon č. 151/Sb. O telekomunikacích)
+         (‘Law No 151/2000’) provides:
+      
+‘1.      The operators of public telephone networks and the suppliers of telecommunications services by means of the leasing of telecommunications
+         circuits which have significant power in the market concerned are obliged to satisfy all requests from authorised suppliers
+         of telecommunications services for access to the network operated by them (“access to the network”).
+      
+2.      The operators of public telephone networks and the suppliers of public telecommunications services which control access to
+         at least one network termination point which is identified by one or more numbers in the national numbering plan and the suppliers
+         of public telecommunications services by means of leasing of telecommunications circuits connected to the premises of the
+         user, are obliged, if another operator or supplier running a telecommunications business makes the request of them, to allow
+         the party so requesting direct or indirect interconnection to the telecommunications networks which they operate (“interconnection
+         of the networks”). Access to the network is granted at the expense of the requesting party and must be paid for.
+      
+3.      Access to the network is secured by a written agreement between the operator of a public telecommunications network and the
+         supplier of public telecommunications services; interconnection of networks is secured by written agreement between the operators
+         of public telecommunications networks.
+      
+…’
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+TOand COL are operators of telecommunications services having on January entered into a contract for the interconnection
+         of their fixed telecommunications networks. On February 2003, the latter of those companies proposed to the former that
+         the agreement should be amended so that their networks should also be interconnected for the provision of ADSL. TOhowever
+         published in the official telecommunications journal only an offer of access to the infrastructure of its own network which
+         used this technology, when Law No 151/obliged it to publish an offer of network interconnection.
+      
+In the absence of agreement, COL brought the matter before the Czech telecommunications regulatory authority (Český telekomunikační
+         úřad, ‘the regulatory authority’) which upheld the request on April on the basis of Law No 151/2000. Following an
+         appeal to the president of that authority, that decision was annulled on general factual grounds and the case was referred
+         back to the regulatory authority. On September 2004, the regulatory authority issued a fresh decision, which was in COL’s
+         favour and which required the parties to the proceedings to agree an amendment to the interconnection contract which would
+         include ADSL services.
+      
+By decision of January the president of the regulatory authority dismissed the further appeal which was brought by
+         TO2. The decision has become final and enforceable.
+      
+The Czech Code of Civil Procedure allows in those circumstances an appeal to be brought before the courts of law, in this
+         case before the Obvodní soud pro Prahu (Prague District Court (Court of first instance)).
+      
+According to that court, TOsubmits that the decision of the regulatory authority contravenes the Europe Agreement establishing
+         an association between the European Communities and their Member States, of the one part, and the Czech Republic, of the other
+         part, approved by Decision 94/910/ECSC, EC, Euratom of the Council and the Commission of December (OJ L 360,
+         p. 1), the Framework and Access Directives and also Directive 97/33.
+      
+In those circumstances, the Obvodní soud pro Prahu has decided to stay the proceedings and to refer the following questions
+         to the Court for a preliminary ruling
+      
+‘(1)      Did the [national telecommunications regulator] … have the power, by an administrative decision made after May 2004, and
+         thus after the date of the Czech Republic’s accession to the European Communities, to impose on a telecommunications company
+         with significant (dominant) market power in the telecommunications market an obligation to conclude a contract for the interconnection
+         of its networks with those of another operator?
+      
+(2)      If so:
+Was the national regulatory authority entitled to impose such an obligation solely on the conditions set out in Article 8(2)
+         of the [Access Directive] namely on the strength of a previous market analysis carried out in accordance with Article of
+         the [Framework Directive] and with the preliminary procedure prescribed in Article and Article of the Framework Directive,
+         or could it, (for example, in accordance with recital of the preamble, Article 3, Article 4(1), Article 5(1)(a) and Article
+         5(4), Article 10(1) and 10(2) of the Access Directive), act without that prior market analysis?
+      
+(3)      Is the answer to the second question affected by the facts that the request of a particular operator for the compulsory interconnection
+         of his network with the network of an operator with significant (dominant) market power was lodged with the national regulatory
+         authority before May 2004, and the proceedings relating to that request took place before that authority before May 2004,
+         i.e. before the date of the accession of the Czech Republic to the European Communities?
+      
+(4)      To the extent that at the material time – from May to April – the Czech Republic had not adequately implemented
+         the abovementioned directives, is it possible directly to apply the Framework and Access Directives, and consequently, 
+      
+(4a)      are those directives (or one at least of them) unconditional and sufficiently precise to be applied by a court in place of
+         national law?
+      
+(4b)      is an operator with significant (dominant) market power in the telecommunications market entitled to rely on (or has it the
+         status to rely on), as a result of their incorrect transposition, the direct effect of the Access Directive and the Framework
+         Directive (or one of them), and do those directives protect the interests of that operator in its refusal to conclude an agreement
+         on interconnection (in the area of ADSL services) with other national companies (when, in the opinion of the national regulatory
+         authority, which is subject to review by courts of law, that operator is not respecting the objectives of the new regulatory
+         framework)? 
+      
+(4c)      Can that operator rely on the direct effect of directives that have not been sufficiently implemented (or of one of them),
+         if (even where the conditions set out in the directives are met) the national regulatory authority comes to a decision based
+         on specific conditions for interconnection of operators’ sites, and imposes specific obligations on individuals?’
+      
+ The reopening of the oral procedure
+By application lodged at the Court Registry on March 2007, TOrequested that the oral procedure, which had been closed
+         on February 2007, should be reopened in response to the Advocate General’s Opinion.
+      
+In support of its request, TOsubmits that in his Opinion, the Advocate General considered arguments which were not presented
+         to the parties to the proceedings, in particular the argument as to the direct effect of the positive obligation to carry
+         out a market analysis, when the dispute centred on a negative obligation, namely not to adjudicate on the obligation to connect
+         unless such an analysis had been carried out.
+      
+In that regard, it should be recalled that the Court may of its own motion, on a proposal from the Advocate General or at
+         the request of the parties, order that the oral procedure be reopened, in accordance with Article of the Rules of Procedure,
+         if it considers that it lacks sufficient information, or that the case must be dealt with on the basis of an argument which
+         has not been debated between the parties (Case C‑299/Philips [2002] ECR I‑5475, paragraph 20).
+      
+The Court is of the view that the question of the direct effect of the provisions at issue in the main proceedings was raised
+         by the fourth question submitted by the referring court and that it has available to it all the information necessary in order
+         to give an answer.
+      
+The application by TOthat the oral procedure be reopened must therefore be dismissed.
+ The jurisdiction of the Court
+First, the Czech Government maintains that the Court has no jurisdiction to answer any the questions referred on the ground
+         that the factual background of the main proceedings occurred before the date of accession of the Czech Republic to the European
+         Union.
+      
+At the hearing, TO2, COL and the Commission of the European Communities took the view that the Court had jurisdiction rationae
+         temporis on the grounds firstly, that, while the main case certainly began in February 2003, it continued up to the taking
+         of a decision by the president of the regulatory authority on January and secondly, that, in accordance with the Czech
+         legislation, the regulatory authority’s decision of April was annulled, while a new decision came into force on January 2005. In addition, TOstates that the purpose of that last decision which is constitutive and not declaratory in
+         nature, is not to establish authoritatively the obligations engendered by previous events but rather to lay the foundations
+         of future legal obligations.
+      
+It is clear from the order for reference that the request by COL lodged with the national regulatory authority, that TObe
+         compelled to provide interconnection to the ADSL network, was considered and led to that authority issuing a decision on April 2004, that is to say, before the date of accession of the Czech Republic to the Union.
+      
+However that decision was annulled on September and was followed by a new decision on September 2004. That decision
+         was then confirmed on appeal by the president of the regulatory authority on January 2005. It was considered by the parties
+         to be final and enforceable as from that date.
+      
+Without there being any need to examine the consequences of annulment of a decision under Czech law, it must be observed,
+         first, that the contested decision in the main proceedings was adopted after the Czech Republic acceded to the Union, that
+         it is prospective in its regulatory effect and not retrospective, and secondly, that the national court asks the Court for
+         an interpretation of the Community legislation applicable to the main proceedings.
+      
+Provided that the questions referred for preliminary ruling concern the interpretation of Community law, the Court gives its
+         ruling without, generally, having to look into the circumstances in which national courts were prompted to submit the questions
+         and envisage applying the provision of Community law which they have asked the Court to interpret (Case C‑85/Reisdorf [1996] ECR I‑6257, paragraph 15).
+      
+The matter would be different only if the provision of Community law which was submitted for interpretation by the Court was
+         not applicable to the facts of the main proceedings, which had occurred before the accession of a new Member State to the
+         Union (see, to this effect, Case C‑302/Ynos [2006] ECR I‑371, paragraphs and 36) or if such provision was manifestly incapable of applying (see Reisdorf, paragraph 16).
+      
+That is not so in this case. Accordingly, the Court has jurisdiction to interpret the directives above referred to and an
+         answer must be given to the questions submitted by the referring court.
+      
+ The questions referred for a preliminary ruling
+The first, second and third questions, in which the referring court asks in essence whether the regulatory authority was entitled,
+         taking account of the provisions of Community law which were applicable after May 2004, to impose on a telecommunications
+         company with significant market power in the telecommunications market the obligation to conclude a contract for the interconnection
+         of its network with that of another operator, must be examined together.
+      
+On that point, it must be stated, taking into consideration the provisions of Article of the Framework Directive and Article
+         7(1) of the Access Directive relating to transitional provisions which can be implemented independently of transposition of
+         those directives, that Directive 97/33, which it is accepted has been transposed into Czech law by the Law No 151/2000, remains
+         effective so far as necessary.
+      
+Accordingly, and as the Commission rightly submits, the regulatory authority had the power to act within the framework of
+         Directive 97/33.
+      
+It follows from the foregoing that the answer to be given to the first, second and third questions is that, in accordance
+         with the transitional provisions of the Framework and Access Directives, the regulatory authority was entitled to consider
+         the obligation, on the part of a telecommunications company with significant market power within the meaning of Directive
+         97/33, to conclude a contract for the interconnection of its networks with that of another operator, subsequent to May 2004,
+         within the framework of the provisions of Directive 97/33.
+      
+In the light of the answer given to the first, second and third questions, it is not necessary to give an answer to the fourth
+         question.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+In accordance with the transitional provisions of Directive 2002/19/EC of the European Parliament and of the Council of March on access to, and interconnection of, electronic communications networks and associated facilities, the ‘Access
+            Directive’) and Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory
+            framework for electronic communications networks and services (the ‘Framework Directive’), the Český telekomunikační úřad
+            was entitled to consider the obligation, on the part of a telecommunications company with significant market power within
+            the meaning of Directive 97/33/EC of the European Parliament and of the Council of June on interconnection in telecommunications
+            with regard to ensuring universal service and interoperability through application of the principles of Open Network Provision
+            (ONP), as amended by Directive 98/61/EC of the European Parliament and of the Council of September 1998, to conclude a
+            contract for the interconnection of its networks with that of another operator, subsequent to May 2004, within the context
+            of the provisions of Directive 97/33, as amended.
+[Signatures]
+* Language of the case: Czech.
+      
+Top  
+ 

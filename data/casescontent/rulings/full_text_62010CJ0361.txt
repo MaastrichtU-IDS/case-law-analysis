@@ -1,0 +1,234 @@
+
+Case C-361/Intercommunale Intermosane SCRL
+and 
+Fédération de l’industrie et du gaz
+v
+État belge
+(Reference for a preliminary ruling from the Conseil d’État (Belgium))
+(Internal market – Technical standards and regulations – Procedure for the provision of information in the field of technical standards and regulations and rules on Information Society
+         services – Minimum safety requirements for certain old electrical installations at places of work)
+      
+Summary of the Judgment
+Approximation of laws – Information procedure in the field of technical standards and regulations and of rules on Information
+            Society services – Directive 98/– Technical regulation – Meaning 
+(European Parliament and Council Directive 98/34, as amended by Directive 98/48, Art. 1(11))
+Article 1(11) of Directive 98/34, laying down a procedure for the provision of information in the field of technical standards
+         and regulations and of rules on Information Society services, as amended by Directive 98/48, must be interpreted as meaning
+         that provisions setting out general requirements relating to the carrying out of electrical installations, the design of electrical
+         equipment and forms of protection attached to that equipment in order to ensure the safety of workers, such as those contained
+         in the Belgian legislation on the minimum safety requirements for certain old electrical installations at places of work,
+         do not amount to technical regulations, within the meaning of that provision, the drafts of which must be the subject of the
+         communication provided for in the first subparagraph of Article 8(1) of that directive.
+      
+(see para. 22, operative part)
+  
+  
+JUDGMENT OF THE COURT (Seventh Chamber)
+June (*)
+      
+(Internal market – Technical standards and regulations – Procedure for the provision of information in the field of technical standards and regulations and rules on Information Society
+         services – Minimum safety requirements for certain old electrical installations at places of work)
+      
+In Case C‑361/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Conseil d’État (Belgium), made by decision of July 2010,
+         received at the Court on July 2010, in the proceedings
+      
+Intercommunale Intermosane SCRL,
+Fédération de l’industrie et du gaz
+v
+État belge,
+THE COURT (Seventh Chamber),
+composed of D. Šváby, President of the Chamber, R. Silva de Lapuerta (Rapporteur) and G. Arestis, Judges,
+Advocate General: E. Sharpston,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–        Intercommunale Intermosane SCRL, by J. Bourtembourg, avocat,
+–        the Belgian Government, by J.-C. Halleux and T. Materne, acting as Agents,
+–        the Republic of Austria, by C. Pesendorfer, acting as Agent,
+–        the European Commission, by M. Patakia and G. Zavvos, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles and of Directive 98/34/EC of the European
+         Parliament and of the Council of June laying down a procedure for the provision of information in the field of technical
+         standards and regulations and of rules on Information Society services (OJ L 204, p. 37), as amended by Directive 98/48/EC
+         of the European Parliament and of the Council of July (OJ L 217, p. 18; ‘Directive 98/34’).
+      
+The reference has been made in proceedings between Intercommunale Intermosane SCRL and the Fédération de l’industrie et du
+         gaz, a non-profit-making association, on the one hand, and the État belge (Belgian State), on the other, concerning legislation
+         on the minimum safety requirements for certain old electrical installations at places of work.
+      
+ Legal context
+ European Union legislation
+Article of Directive 98/provides: 
+      
+‘For the purposes of this Directive, the following meanings shall apply:
+1.      “product”, any industrially manufactured product and any agricultural product, including fish products;
+…
+3.      “technical specification”, a specification contained in a document which lays down the characteristics required of a product
+         such as levels of quality, performance, safety or dimensions, including the requirements applicable to the product as regards
+         the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking or labelling
+         and conformity assessment procedures.
+      
+         …
+4.      “other requirements”, a requirement, other than a technical specification, imposed on a product for the purpose of protecting,
+         in particular, consumers or the environment, and which affects its life cycle after it has been placed on the market, such
+         as conditions of use, recycling, reuse or disposal, where such conditions can significantly influence the composition or nature
+         of the product or its marketing;
+      
+…
+11.      “technical regulation”, technical specifications and other requirements or rules on services, including the relevant administrative
+         provisions, the observance of which is compulsory, de jure or de facto, in the case of marketing, provision of a service,
+         establishment of a service operator or use in a Member State or a major part thereof, as well as laws, regulations or administrative
+         provisions of Member States, except those provided for in Article 10, prohibiting the manufacture, importation, marketing
+         or use of a product or prohibiting the provision or use of a service, or establishment as a service provider.
+      
+         …
+…
+This Directive shall not apply to those measures Member States consider necessary under the Treaty for the protection of persons,
+         in particular workers, when products are used, provided that such measures do not affect the products.’
+      
+The first subparagraph of Article 8(1) of Directive 98/is worded as follows:
+      
+‘Subject to Article 10, Member States shall immediately communicate to the Commission any draft technical regulation, except
+         where it merely transposes the full text of an international or European standard, in which case information regarding the
+         relevant standard shall suffice; they shall also let the Commission have a statement of the grounds which make the enactment
+         of such a technical regulation necessary, where these have not already been made clear in the draft.’
+      
+ National legislation
+Articles to of the Royal Decree of June concerning the minimum safety requirements for certain old electrical
+         installations at places of work (Moniteur belge of June 2008, p. 31631, ‘the Royal Decree’) provide:
+      
+‘Article 8. Electrical installation shall be carried out in such a way as to protect workers against risks due to direct contact and indirect
+         contact, against the effects of overvoltage due inter alia to faulty insulation, operations and atmospheric influences, against
+         burns and other health risks and also against non-electrical risks due to the installation of electricity.
+      
+If it does not seem possible to eliminate the abovementioned risks by measures relating to design or collective protection,
+         access to those installations must be exclusively limited to workers with Code BAor BAcompetence as stipulated in Article
+         of [the general regulation on electrical installations].
+      
+Article 9. Electrical installation shall be carried out in such a way as to: 
+(1)      avoid arcs and dangerous surface temperatures;
+(2)      avoid overheating, fire and explosion.
+Article 10. (1) Each circuit shall be protected by at least one safety device which cuts off an overload current before heating can occur
+         which may damage the insulation, connections, leads or the environment.
+      
+         Each circuit shall be protected by a safety device which cuts off a short circuit current before dangerous effects are caused.
+         (2) By way of derogation from the provisions of paragraph (1), it is permissible not to protect certain circuits against excess
+         current, provided that the conditions and procedure set out in Articles 119, and of [the general regulation on electrical
+         installations] are observed.
+      
+Article 11. (1) In order to carry out work with the power off, it must be made possible to cut off the electrical installation or individual
+         electrical circuits securely and reliably.
+      
+         (2) The functional control shall be effected in a secure and reliable manner.
+         (3) The effects of drops in voltage or the disappearance of voltage and its reappearance shall not compromise the safety of
+         workers.
+      
+Article 12. Electrical installation shall be carried out with electrical equipment designed in such a way as not to compromise the safety
+         of persons where installation and maintenance are correct and use is in accordance with the intended purpose. 
+      
+         Where appropriate, the equipment shall comply with the provisions of decrees transposing relevant Community directives.
+Article 13. The electrical equipment used shall either by virtue of its design or by virtue of additional protection be suitable for external
+         influences and existing or reasonably foreseeable conditions of use.’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+The applicants in the main proceedings, by an application lodged on August before the national court, applied for
+         the annulment of the Royal Decree.
+      
+In support of their application, the applicants in the main proceedings raise inter alia an infringement of Directive 98/on the ground that the Royal Decree contains technical regulations, the draft of which should have been communicated to the
+         Commission, in accordance with Article of that directive.
+      
+In those circumstances the Conseil d’État (Belgian Council of State) decided to stay the proceedings and to refer the following
+         questions to the Court of Justice for a preliminary ruling:
+      
+‘1.      Do national provisions such as Articles to of [the Royal Decree], which lay down requirements relating to the carrying
+         out of electrical installations, the design of electrical equipment and forms of protection attached to that equipment in
+         order to ensure the safety of workers, constitute technical regulations within the meaning of Article 1(11) of Directive [98/34],
+         the drafts of which must be notified in accordance with the first subparagraph of Article 8(1) of the same directive?
+      
+2.      Are national provisions such as Articles to of [the Royal Decree] measures within the meaning of the final subparagraph
+         of Article of Directive [98/34] which the Member States consider necessary for the protection of persons, in particular
+         workers, when products are used, and which do not affect the products?’
+      
+ Consideration of the questions referred
+ The first question
+By its first question, the national court asks, in essence, whether Article 1(11) of Directive 98/must be interpreted as
+         meaning that national provisions such as those at issue in the main proceedings amount to technical regulations, within the
+         meaning of that provision, the drafts of which must be the subject of the communication provided for in the first subparagraph
+         of Article 8(1) of that directive.
+      
+It is settled case-law that Directive 98/is designed to protect, by means of preventive monitoring, the free movement of
+         goods, which is one of the foundations of the European Union, and that this control serves a useful purpose in that technical
+         regulations falling within the scope of that directive may constitute obstacles to trade in goods between Member States, such
+         obstacles being permissible only if they are necessary to satisfy compelling requirements relating to the public interest
+         (see Case C‑194/CIA Security International [1996] ECR I‑2201, paragraphs and 48, and Case C‑303/Lidl Italia [2005] ECR I‑7865, paragraph 22).
+      
+In this context, it should be recalled that, according to the case-law, it follows from Article 1(11) of Directive 98/that
+         the definition of ‘technical regulation’ can be broken down into three categories: first, the ‘technical specification’ within
+         the meaning of Article 1(3) of that directive; second, the ‘other requirements’, as defined in Article 1(4) of that directive;
+         and, third, the prohibition of the manufacture, importation, marketing or use of a product referred to in Article 1(11) of
+         the directive (see Case C‑267/Lindberg [2005] ECR I‑3247, paragraph 54, and Case C‑20/Schwibbert [2007] ECR I‑9447, paragraph 34).
+      
+Assuming that the electrical installations at issue in the main proceedings may be classified as a ‘product’ within the meaning
+         of Article 1(1) of Directive 98/34, it is appropriate to examine whether the national provisions at issue in the main proceedings
+         fall within one of those three categories.
+      
+In that regard, it is sufficient, firstly, to note at the outset that those provisions do not fall within the third category
+         of technical regulations provided for in Article 1(11) of Directive 98/34, since they do not include a prohibition of the
+         manufacture, importation, marketing or use of a product within the meaning of that provision.
+      
+Secondly, it must be determined whether the national provisions at issue in the main proceedings fall within the first category
+         of technical regulations provided for in Article 1(11) of Directive 98/34, that is to say the concept of ‘technical specification’.
+      
+It follows from the case-law that that concept, which is defined in Article 1(3) of the directive, presupposes that the national
+         measure necessarily refers to the product or its packaging as such and thus lays down one of the characteristics required
+         of a product (see Schwibbert, paragraph and case-law cited).
+      
+As regards the national provisions at issue in the main proceedings, it must be noted that the minimum requirements relating
+         to the carrying out of certain electrical installations provided for by those provisions seek to ensure the safety of those
+         installations in order to protect the workers using them. 
+      
+It must be noted that those minimum requirements include requirements and general objectives in relation to safety and protection,
+         without necessarily referring to the product concerned or its packaging as such and thus without laying down the characteristics
+         of that product.
+      
+Consequently, the national provisions at issue in the main proceedings do not contain technical specifications within the
+         meaning of Directive 98/34.
+      
+Thirdly, it is appropriate to determine whether those provisions fall within the second category of technical regulations
+         provided for in Article 1(11) of Directive 98/34, that is the concept of ‘other requirements’.
+      
+According to the case-law, in order to be classified as ‘other requirements’ within the meaning of Article 1(4) of Directive
+         98/34, the minimum requirements laid down by the provisions at issue must constitute ‘conditions’ which can significantly
+         influence the composition or nature of the product concerned or its marketing (see, to that effect, Lindberg, paragraph 72).
+      
+Taking account of the general nature of the said requirements, they cannot amount to such conditions or, consequently, be
+         classified as ‘other requirements’, within the meaning of Article 1(4) of the directive.
+      
+In light of the considerations set out above, the answer to the first question is that Article 1(11) of Directive 98/must
+         be interpreted as meaning that national provisions such as those at issue in the main proceedings do not amount to technical
+         regulations, within the meaning of that provision, the drafts of which must be the subject of the communication provided for
+         in the first subparagraph of Article 8(1) of that directive.
+      
+ The second question
+Taking account of the answer given to the first question, it is not necessary to answer the second question. 
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable. 
+      
+On those grounds, the Court (Seventh Chamber) hereby rules:
+Article 1(11) of Directive 98/34/EC of the European Parliament and of the Council of June laying down a procedure
+            for the provision of information in the field of technical standards and regulations and of rules on Information Society services,
+            as amended by Directive 98/48/EC of the European Parliament and of the Council of July 1998, must be interpreted as meaning
+            that national provisions such as those at issue in the main proceedings do not amount to technical regulations, within the
+            meaning of that provision, the drafts of which must be the subject of the communication provided for in the first subparagraph
+            of Article 8(1) of that directive.
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

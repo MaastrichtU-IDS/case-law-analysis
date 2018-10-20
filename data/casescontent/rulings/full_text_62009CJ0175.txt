@@ -1,0 +1,311 @@
+
+Case C-175/Commissioners for Her Majesty’s Revenue and Customs
+v
+AXA UK plc
+(Reference for a preliminary ruling from the 
+Court of Appeal (England and Wales) (Civil Division))
+(Sixth VAT Directive – Exemption – Article 13B(d)(3) – Transactions concerning payments or transfers – Debt collection and factoring – Payment plans for dental care – Service of collecting and processing payments for the account of the service supplier’s clients)
+Summary of the Judgment
+Tax provisions – Harmonisation of laws – Turnover taxes – Common system of value added tax – Exemptions provided for in the
+            Sixth Directive – Banking transactions covered by Article 13B(d)(3)
+(Council Directive 77/388, Art. 13B(d)(3))
+Article 13B(d)(3) of Sixth Directive 77/on the harmonisation of the laws of the Member States relating to turnover taxes
+         is to be interpreted as meaning that the exemption from value added tax provided for by that provision does not cover a supply
+         of services which consist, in essence, in requesting a third party’s bank to transfer to the service supplier’s account, via
+         the direct debit system, a sum due from that party to the service supplier’s client, in sending to the client a statement
+         of the sums received, in making contact with the third parties from whom the service supplier has not received payment and,
+         finally, in giving instructions to the service supplier’s bank to transfer the payments received, less the service supplier’s
+         remuneration, to the client’s bank account.
+      
+In fact, such a service comes within the meaning of ‘debt collection and factoring’ in Article 13B(d)(3) and is therefore
+         excluded from the list of exemptions, for it is intended to obtain the payment of sums of money due to the service supplier’s
+         clients from those third parties and is therefore intended to obtain the payment of debts. By undertaking the recovery of
+         debts for the account of those entitled to them, the service supplier frees its clients of tasks which, without its intervention,
+         those clients, as creditors, would have to perform themselves, tasks consisting in requesting the transfer of the sums due
+         to them, via the direct debit system. 
+      
+(see paras 28, 32-33, 36, operative part)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+October (*)
+      
+(Sixth VAT Directive – Exemption – Article 13B(d)(3) – Transactions concerning payments or transfers – Debt collection and factoring – Payment plans for dental care – Service of collecting and processing payments for the account of the service supplier’s clients)
+In Case C‑175/09,
+REFERENCE for a preliminary ruling under Article EC from the Court of Appeal of England and Wales (Civil Division) (United
+         Kingdom), made by decision of April 2009, received at the Court on May 2009, in the proceedings
+      
+Commissioners for Her Majesty’s Revenue and Customs
+v
+AXA UK PLC,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, D. Šváby, R. Silva de Lapuerta, G. Arestis and T. von Danwitz (Rapporteur),
+         Judges,
+      
+Advocate General: P. Cruz Villalón, 
+Registrar: N. Nanchev, Administrator,
+having regard to the written procedure and further to the hearing on June 2010,
+after considering the observations submitted on behalf of:
+–        AXA UK PLC, by J. Peacock QC and M. Angiolini, Barrister,
+–        the United Kingdom Government, by H. Walker, acting as Agent, and R. Hill, Barrister,
+–        the German Government, by M. Lumma and C. Blaschke, acting as Agents,
+–        the Greek Government, by S. Spiropoulos, I. Bakopoulos, G. Kanellopoulos and V. Karra, acting as Agents,
+–        the Italian Government, by G. Palmieri, acting as Agent, assisted by S. Fiorentino, avvocato dello Stato,
+–        the European Commission, by R. Lyal and M. Afonso, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 13B(d)(3) of Sixth Council Directive 77/388/EEC
+         of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added
+         tax: uniform basis of assessment (OJ L 145, p. 1; ‘the Sixth Directive’), which provides for the exemption from value
+         added tax (‘VAT’) of transactions concerning, among other things, payments or transfers.
+      
+The reference was made in the course of proceedings between the Commissioners for Her Majesty’s Revenue and Customs (‘the
+         Commissioners’) and AXA UK PLC (‘AXA’) concerning the liability to VAT of fees charged by Denplan Limited (‘Denplan’) in consideration
+         of the supply to its clients of services which, AXA claims, should be exempt from VAT.
+      
+ Legal context
+ European Union legislation
+Under Article 2(1) of the Sixth Directive, ‘the supply of goods or services effected for consideration within the territory
+         of the country by a taxable person acting as such’ is to be subject to VAT.
+      
+Article of the Sixth Directive, headed ‘Exemptions within the territory of the country’, provides:
+      
+‘…
+B.      Other exemptions
+Without prejudice to other Community provisions, Member States shall exempt the following under conditions which they shall
+         lay down for the purpose of ensuring the correct and straightforward application of the exemptions and of preventing any possible
+         evasion, avoidance or abuse:
+      
+…
+(d)      the following transactions:
+…
+3.      transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other
+         negotiable instruments, but excluding debt collection and factoring;
+      
+…’
+ National legislation
+The exemption provided for in Article 13B(d)(3) of the Sixth Directive was implemented in the United Kingdom in the form of
+         Item of Group of Schedule to the Value Added Tax Act 1994, which exempts from VAT: ‘[t]he issue, transfer or receipt
+         of, or any dealing with, money, any security for money or any note or order for the payment of money’.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+AXA is the representative member of a VAT group which includes Denplan. Denplan operates a range of services for dentists
+         designed to support the operation of their practices, the main one of which is the operation of payment plans between dentists
+         and their patients. Under such plans, dentists provide their patients with a particular level of dental care, including regular
+         check ups and/or any necessary treatment, on a continuing basis against payment by those patients of a fixed monthly charge.
+      
+If a dentist’s patient wishing to take advantage of Denplan’s services opts for a payment plan, the patient will sign a contract
+         with the dentist, the terms of which are set out in a standard form produced by Denplan which typically provides that the
+         patient is to pay the monthly charge to Denplan, which acts as the dentist’s agent in receiving payments due to that dentist.
+         At the same time, the patient completes and signs a standard form of ‘mandate’ in favour of Denplan under the United Kingdom’s
+         ‘direct debit’ scheme. The direct debit mandate constitutes a standing instruction by a bank’s customer, in this case the
+         patient, to the bank to make any payment requested by a particular third party, in this case Denplan. The mandate will include
+         the name and address of the patient’s bank, as well as the patient’s bank account number.
+      
+Denplan, upon receiving a copy of the contract and the direct debit mandate completed by the patient, will record the patient’s
+         details, including, particularly, his name and address, on its computer systems, and will lodge, by means of an electronic
+         system, details of the mandate with the patient’s bank. That mandate will remain in force as a standing instruction to the
+         patient’s bank until the patient notifies the bank that he wishes to cancel the mandate.
+      
+Each month, on a particular date, Denplan will seek to collect the payments due from dentists’ patients. To do so it creates
+         for each patient an electronic file which it uses to transmit information to the Bankers’ Automated Clearing System (‘the
+         BACS’), an automated inter-bank settlement system established and operated by a company all the members of which are major
+         United Kingdom banks. The information which Denplan transmits to the BACS includes, in respect of each patient, the patient’s
+         bank account number and the amount which Denplan is to collect from that account. The BACS will then transmit that information
+         on to the processing centre of the relevant bank.
+      
+If the patient has not cancelled the direct debit mandate, and if the patient’s account remains open and is sufficiently in
+         credit for the payment to be made, the bank will debit the patient’s account and notify the BACS accordingly. The BACS will
+         then post a corresponding credit to Denplan’s bank for the credit of Denplan’s account. By this method, the amount requested
+         is transferred from the patient’s bank account to Denplan’s bank account. The BACS sends Denplan reports as to which payments
+         have been made and which have not. Denplan, in its turn, provides payment advices to the relevant dentists and contacts the
+         patients whose payments it has not received.
+      
+About days after it receives the payments into its account, Denplan accounts to each dentist for the payments it has received
+         from the accounts of that dentist’s patients less certain agreed deductions. Denplan does this by instructing its own bank
+         to transfer from Denplan’s bank account to the relevant dentist’s bank account a sum representing the total amount due to
+         that dentist.
+      
+One of the deductions that Denplan retains from each payment it receives on behalf of a dentist is a fee which it charges
+         the dentist. That deduction is calculated as a percentage of each payment received. According to the decision making the reference,
+         a part of those fees deducted from the patients’ payments constitutes consideration for Denplan’s services in collecting payment
+         for the dentists, which services consist in seeking payments from patients’ bank accounts via the direct debit system, and
+         accounting to the dentists for them. It is the VAT status of that element which is in dispute before the referring court.
+      
+By a decision made in June 2006, the Commissioners refused a claim by AXA for overpaid VAT in respect of its VAT accounting
+         periods from March to December 2004. By a second decision, of September 2006, the Commissioners raised an assessment
+         for VAT on services supplied during the accounting periods from March to March 2006. Both decisions were based on a finding
+         that the fees charged to dentists by Denplan were consideration for supplies of services that were subject to VAT.
+      
+In July and October 2006, AXA lodged appeals against those decisions before the London VAT and Duties Tribunal which decided
+         that the fees were exempt from VAT on the basis that they constituted consideration for a financial service falling within
+         Article 13B(d)(3) of the Sixth Directive. The Commissioners’ appeal against that decision was dismissed by the High Court
+         of Justice of England and Wales (Chancery Division, Revenue List). The Commissioners then appealed to the referring court.
+      
+In the referring court’s view, the main issue before it is whether the exemption from VAT provided for in Article 13B(d)(3)
+         of the Sixth Directive for ‘transactions ... concerning ... payments, transfers’ is applicable to a service, provided to a
+         client, namely a dentist, who wishes to receive payments from third parties, namely patients, of collecting sums from those
+         third parties’ bank accounts via the direct debit system, and accounting to the client for all the payments received.
+      
+In that regard, the referring court refers to the judgment in Case C‑2/SDC [1997] ECR I‑3017, in particular to paragraphs and thereof, where the Court held that ‘[f]or “a transaction concerning
+         transfers”, the services provided must … have the effect of transferring funds and entail changes in the legal and financial
+         situation’.
+      
+Since it considers that the result of the main proceedings depends on the interpretation of European Union law, the Court
+         of Appeal of England and Wales (Civil Division) decided to stay the proceedings and to refer the following questions to the
+         Court for a preliminary ruling:
+      
+‘(1)      What are the characteristics of an exempt service that has “the effect of transferring funds and entail[s] changes in the
+         legal and financial situation”? In particular: 
+      
+(a)      Is the exemption applicable to services which would not otherwise have to be performed by any of the financial institutions
+         which (i) make a debit to one account, (ii) make a corresponding credit to another account, or (iii) perform an intervening
+         task between (i) [and] (ii)?
+      
+(b)      Is the exemption applicable to services which do not include the carrying out of tasks of making a debit to one account and
+         a corresponding credit to another account, but which may, where a transfer of funds results, be seen as having been the cause
+         of that transfer?
+      
+(2)      In the light of SDC, is a trader (which is not itself a bank) performing an exempt service in accordance with Article 13B(d)(3) [of the Sixth
+         Directive] where the tasks he carries out for his client
+      
+(1) comprise the collection, processing and onward payment of monies due to the client from a third party; in particular,
+         the tasks of:
+      
+(a)      transmitting information to the third party’s bank calling for a payment from the third party’s bank account to the trader’s
+         own bank account, in reliance on a standing authorisation given by that third party to the bank (pursuant to the “direct debit”
+         scheme); and subsequently, if the bank makes that payment, 
+      
+(b)      giving an instruction to his own bank to transfer funds from his account to the client’s bank account 
+but (2) do not include tasks of (a) making a debit to one bank account, (b) making a corresponding credit to another bank
+         account, or (c) performing any intervening task between (a) and (b)?
+      
+(3)      Does it make a difference to the answer to Question (above) if the service described in that question is performed by transmitting
+         the information to an electronic system which then automatically communicates with the relevant bank, even if the transmission
+         of the information may not always result in a transfer being made (e.g. because the third party has cancelled his standing
+         authorisation to his bank or does not have sufficient funds in his account)?’
+      
+ Consideration of the questions referred
+By its questions, which it is appropriate to consider together, the referring court is asking, in essence, whether Article 13B(d)(3)
+         of the Sixth Directive must be interpreted as meaning that a service such as that in question in the main proceedings is or
+         is not exempt from VAT.
+      
+That service of ‘collecting payments’, provided by Denplan to its clients as described, in particular, in the second question
+         under 1(a) comprises the collection, processing and onward payment of sums of money due from third parties, namely patients,
+         to Denplan’s clients, namely, dentists. That service consists, in particular, in transmitting information to the third party’s
+         bank calling for the transfer of a certain sum of money from the third party’s bank account to the service supplier’s bank
+         account in reliance on a standing authorisation given by that third party to his or her bank, and subsequently giving an instruction
+         to the service supplier’s own bank to transfer funds from its account to the client’s bank account. Meanwhile, the service
+         supplier sends to its client a statement of the sums received and contacts third parties from whom it has not received a transfer
+         of the sum requested.
+      
+Since that service encompasses various actions, it must, in the first place, be determined whether, for VAT purposes, and
+         in particular the interpretation of the provision referred to in the questions referred, Denplan supplies its clients with
+         several distinct and independent services requiring separate assessment or a single complex service comprising several elements
+         (see, to that effect, in particular Case C‑41/Levob Verzekeringen and OV Bank [2005] ECR I‑9433, paragraphs and 20; Case C‑425/Part Service [2008] ECR I‑897, paragraphs and 49; and Case C‑461/Don Bosco Onroerend Goed [2009] ECR I‑11079, paragraph 34).
+      
+Indeed, in certain circumstances, several formally distinct services, which could be supplied in isolation and thus give rise,
+         separately, to taxation or exemption, must be considered to be a single transaction when they are not independent. This is
+         particularly true where two or more elements or acts supplied by the taxable person to the customer are so closely linked
+         that they form, objectively, a single, indivisible economic supply, which it would be artificial to split (see, to that effect,
+         Part Service, paragraphs and 53; Case C‑572/RLRE Tellmer Property [2009] ECR I‑4983, paragraphs and 19; and Don Bosco Onroerend Goed, paragraphs and 37).
+      
+According to the Court’s case-law, where a transaction comprises a bundle of features and acts, regard must be had to all
+         the circumstances in which the transaction in question takes place in order to determine whether there are two or more distinct
+         supplies or one single supply (see, to that effect, in particular Levob Verzekeringen and OV Bank, paragraph 19; Case C‑111/Aktiebolaget NN [2007] ECR I‑2697, paragraph 21; and Don Bosco Onroerend Goed, paragraph 38).
+      
+As regards transactions such as those referred to in the decision making the reference, the actions performed by Denplan,
+         examined for the purposes of VAT, are indissociably connected. The economic purpose of those actions is the transfer of the
+         sum due each month from the patient to the dentist. The transfer of the sum due to the service supplier’s bank account is
+         of no use to its client unless that sum, less the service supplier’s remuneration, is then paid to the client and the service
+         supplier accounts to that client for the sums received. Consequently, the service in question in the main proceedings, in
+         circumstances such as those described by the referring court, must be regarded as forming a single transaction for the purposes
+         of VAT.
+      
+As regards, in the second place, the issue whether a service such as that in question in the main proceedings comes within
+         the exemption from VAT under Article 13B(d)(3) of the Sixth Directive relating to transactions concerning payments or transfers,
+         it is settled case-law, in that regard, that the exemptions referred to in Article constitute independent concepts of European
+         Union law whose purpose is to avoid divergences in the application of the VAT system as between one Member State and another
+         (see, in particular, Case C‑169/Abbey National [2006] ECR I‑4027, paragraph 38; Case C‑455/Velvet & Steel Immobilien [2007] ECR I‑3225, paragraph 15; Case C‑242/Swiss Re Germany Holding [2009] ECR I‑10099, paragraph 33; and Case C‑86/Future Health Technologies [2010] ECR I‑0000, paragraph 28).
+      
+It is also clear from the case-law that the terms used to specify the exemptions set out in Article of the Sixth Directive
+         are to be interpreted strictly, since they constitute exceptions to the general principle that VAT is to be levied on all
+         goods and services supplied for consideration by a taxable person. Nevertheless, the interpretation of those terms must not
+         deprive the exemption in question of its intended effect (see, to that effect, Don Bosco Onroerend Goed, paragraph and the case-law cited; Future Health Technologies, paragraph 30; and Case C‑581/EMI Group [2010] ECR I–0000, paragraph 20).
+      
+It should also be noted that the transactions exempted under Article 13B(d)(3) of the Sixth Directive are defined in terms
+         of the nature of the services provided and not in terms of the person supplying or receiving the service (see SDC, paragraphs and 56; Case C-305/MKG-Kraftfahrzeuge-Factoring [2003] ECR I‑6729, paragraph 64; and Swiss Re Germany Holding, paragraph and the case-law cited). The exemption is therefore not subject to the condition that the transactions be effected
+         by a certain type of institution or legal person, where the transactions in question relate to the sphere of financial transactions
+         (see, to that effect, SDC, paragraph 38; Velvet & Steel Immobilien, paragraph 22; and Swiss Re Germany Holding, paragraph 46).
+      
+Finally, the Court has ruled, as regards various exemptions under Article 13B(d) of the Sixth Directive, that, in order to
+         be regarded as exempt transactions the services in question must, viewed broadly, form a distinct whole, fulfilling the specific,
+         essential functions of a service described in that provision (see, to that effect, SDC, paragraphs and (relating to Article 13B(d)(3) and (5) of the Sixth Directive); Case C‑235/CSC Financial Services [2001] ECR I-10237, paragraphs and (relating to Article 13B(d)(5)); and Abbey National, paragraph (as regards Article 13B(d)(6)).
+      
+As regards the service in question in the main proceedings, it is appropriate to point out that its purpose is to benefit
+         Denplan’s clients, namely dentists, by the payment of the sums of money due to them from their patients. Denplan is, in return
+         for remuneration, responsible for the recovery of those debts and provides a service of managing those debts for the account
+         of those entitled to them. Therefore, as a matter of principle, that service constitutes a transaction concerning payments
+         which is exempt under Article 13B(d)(3) of the Sixth Directive, unless it is ‘debt collection or factoring’, a service which
+         that provision, by its final words, expressly excludes from the list of exemptions.
+      
+In the absence of a definition of the term ‘debt collection and factoring’ in the Sixth Directive, it is necessary to view
+         the final words of Article 13B(d)(3) of the Sixth Directive in their context and to interpret them in the light of the spirit
+         of the provision in question and, more generally, of the scheme of that directive (MKG-Kraftfahrzeuge-Factoring, paragraph 70; see to that effect, also, Case 173/Henriksen [1989] ECR 2763, paragraph 11; and Case C‑16/Tolsma [2004] ECR I‑743, paragraph 10).
+      
+Although, as observed in paragraph of the present judgment, the exemptions under Article of the Sixth Directive, as
+         derogations from the general application of VAT, are to be interpreted strictly, the term ‘debt collection and factoring’
+         is to be interpreted broadly as it is an exception to such derogation, with the result that the transactions which it covers
+         are subject to tax in accordance with the fundamental rule forming the basis of the Sixth Directive (see MKG-Kraftfahrzeuge-Factoring, paragraphs 72, and 75, and, by analogy, Case C‑171/P Libéros v Commission [2002] ECR I‑451, paragraph 27).
+      
+According to the Court’s case-law, the term ‘debt collection and factoring’ in Article 13B(d)(3) of the Sixth Directive refers
+         to financial transactions designed to obtain payment of a pecuniary debt (see MKG-Kraftfahrzeuge-Factoring, paragraph 78).
+      
+It follows from that case-law that the service in question in the main proceedings supplied by Denplan to dentists is covered
+         by the term ‘debt collection and factoring’ in Article 13B(d)(3) of the Sixth Directive.
+      
+In fact, the object of that service is to benefit Denplan’s clients, namely dentists, by payment of the sums of money due
+         to them from their patients. That service is therefore intended to obtain the payment of debts. By undertaking the recovery
+         of debts for the account of those entitled to them, Denplan frees its clients of tasks which, without its intervention, those
+         clients, as creditors, would have to perform themselves, tasks consisting in requesting the transfer of the sums due to them,
+         via the direct debit system.
+      
+Contrary to the Commission’s submission, it is irrelevant that such service is supplied at the time when the debts concerned
+         become due. The final words of Article 13B(d)(3) of the Sixth Directive cover the collection of debts of any nature, without
+         limiting their application to debts which were not paid on their due date. Moreover, factoring, all forms of which are included
+         in the terms ‘debt collection and factoring’ (see MKG-Kraftfahrzeuge-Factoring, paragraph 77), is not limited to debts in respect of which the debtor has already defaulted. It can also have as its object
+         debts which have not yet become due and which will be paid on the due date.
+      
+In addition, in view of the interpretation of the exception to the derogation from the application of VAT given by the case‑law
+         cited in paragraphs and of the present judgment, it is also irrelevant to the treatment of the service in question in
+         the main proceedings as ‘debt collection and factoring’ that it does not provide for coercive measures for the effective payment
+         of the debts concerned. 
+      
+Having regard to the foregoing considerations, the reply to the questions referred is that Article 13B(d)(3) of the Sixth
+         Directive is to be interpreted as meaning that the exemption from VAT provided for by that provision does not cover a supply
+         of services which consist, in essence, in requesting a third party’s bank to transfer to the service supplier’s account, via
+         the direct debit system, a sum due from that party to the service supplier’s client, in sending to the client a statement
+         of the sums received, in making contact with the third parties from whom the service supplier has not received payment and,
+         finally, in giving instructions to the service supplier’s bank to transfer the payments received, less the service supplier’s
+         remuneration, to the client’s bank account.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+Article 13B(d)(3) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States
+            relating to turnover taxes – Common system of value added tax: uniform basis of assessment is to be interpreted as meaning
+            that the exemption from VAT provided for by that provision does not cover a supply of services which consist, in essence,
+            in requesting a third party’s bank to transfer to the service supplier’s account, via the direct debit system, a sum due from
+            that party to the service supplier’s client, in sending to the client a statement of the sums received, in making contact
+            with the third parties from whom the service supplier has not received payment and, finally, in giving instructions to the
+            service supplier’s bank to transfer the payments received, less the service supplier’s remuneration, to the client’s bank
+            account.
+[Signatures]
+*   Language of the case: English.
+      
+Top  
+ 

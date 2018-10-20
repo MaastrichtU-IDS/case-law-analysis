@@ -1,0 +1,438 @@
+
+Case C-553/College van burgemeester en wethouders van Rotterdam
+v
+M.E.E. Rijkeboer
+(Reference for a preliminary ruling from the Raad van State)
+(Protection of individuals with regard to the processing of personal data – Directive 95/46/EC – Respect for private life – Erasure of data – Right of access to data and to information on the recipients of data – Time‑limit on the exercise of the right to access)
+Summary of the Judgment
+Approximation of laws – Protection of individuals with regard to the processing of personal data – Directive 95/(European Parliament and Council Directive 95/46, Art. 12(a))
+The right to privacy, set out in Article 1(1) of Directive 95/on the protection of individuals with regard to the processing
+         of personal data and on the free movement of such data, means that the data subject may be certain that his personal data
+         are processed in a correct and lawful manner, that is to say, in particular, that the basic data regarding him are accurate
+         and that they are disclosed to authorised recipients. As is stated in recital in the preamble to the directive, in order
+         to carry out the necessary checks, the data subject must have a right of access to the data relating to him which are being
+         processed.
+      
+Article 12(a) of Directive 95/requires Member States to ensure a right of access to information on the recipients or categories
+         of recipient of personal data and on the content of the data disclosed not only in respect of the present but also in respect
+         of the past. It is for Member States to fix a time-limit for storage of that information and to provide for access to that
+         information which constitutes a fair balance between, on the one hand, the interest of the data subject in protecting his
+         privacy, in particular by way of his rights to object and to bring legal proceedings and, on the other, the burden which the
+         obligation to store that information represents for the controller.
+      
+Rules limiting the storage of information on the recipients or categories of recipient of personal data and on the content
+         of the data disclosed to a period of one year and correspondingly limiting access to that information, while basic data is
+         stored for a much longer period, do not constitute a fair balance of the interest and obligation at issue, unless it can be
+         shown that longer storage of that information would constitute an excessive burden on the controller. It is, however, for
+         national courts to make the determinations necessary.
+      
+(see paras 49, 70, operative part)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+May (*)
+      
+(Protection of individuals with regard to the processing of personal data – Directive 95/46/EC – Respect for private life – Erasure of data – Right of access to data and to information on the recipients of data – Time‑limit on the exercise of the right to access)
+In Case C‑553/07,
+REFERENCE for a preliminary ruling under Article EC made by the Raad van State (Netherlands), by decision of December
+         2007, received at the Court on December 2007, in the proceedings
+      
+College van burgemeester en wethouders van Rotterdam
+v
+M.E.E. Rijkeboer,
+THE COURT (Third Chamber),
+composed of A. Rosas, President of the Chamber, A. Ó Caoimh, J. Klučka, U. Lõhmus and P. Lindh (Rapporteur), Judges,
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on November 2008,
+after considering the observations submitted on behalf of:
+–        the College van burgemeester en wethouders van Rotterdam, by R. de Bree, advocaat,
+–        M.E.E. Rijkeboer, by W. van Bentem, juridisch adviseur,
+–        the Netherlands Government, by C.M. Wissels and C. ten Dam, acting as Agents,
+–        the Czech Government, by M. Smolek, acting as Agent,
+–        the Greek Government, by E.-M. Mamouna and V. Karra, acting as Agents,
+–        the Spanish Government, by M. Muñoz Pérez, acting as Agent,
+–        the Government of the United Kingdom of Great Britain and Northern Ireland, by Z. Bryanston-Cross and H. Walker, acting as
+         Agents, and by J. Stratford, Barrister,
+      
+–        the Commission of the European Communities, by R. Troosters and C. Docksey, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2008,
+gives the following
+Judgment
+The reference for a preliminary ruling relates to the interpretation of Article 12(a) of Directive 95/46/EC of the European
+         Parliament and of the Council of October on the protection of individuals with regard to the processing of personal
+         data and on the free movement of such data (OJ L 281, p. 31; ‘the Directive’).
+      
+This reference has been made in the context of proceedings between Mr Rijkeboer and the College van burgemeester en wethouders
+         van Rotterdam (Board of Aldermen of Rotterdam; ‘the College’) regarding the partial refusal of the College to grant Mr Rijkeboer
+         access to information on the disclosure of his personal data to third parties during the two years preceding his request for
+         that information.  
+      
+ Legal context
+ Community legislation
+Recitals and in the preamble to the Directive, relating to fundamental rights and freedoms, state:
+      
+‘(2)      Whereas data-processing systems are designed to serve man; whereas they must, whatever the nationality or residence of natural
+         persons, respect their fundamental rights and freedoms, notably the right to privacy, and contribute to economic and social
+         progress, trade expansion and the well-being of individuals;
+      
+…
+(10)      Whereas the object of the national laws on the processing of personal data is to protect fundamental rights and freedoms,
+         notably the right to privacy, which is recognised both in Article of the European Convention for the Protection of Human
+         Rights and Fundamental Freedoms and in the general principles of Community law ...’
+      
+Pursuant to recital in the preamble to the Directive, the principles of protection must be reflected, on the one hand,
+         in the obligations imposed on persons responsible for processing, in particular regarding data quality, and, on the other
+         hand, in the right conferred on individuals, the data on whom are the subject of processing, to be informed that processing
+         is taking place, to consult the data, to request corrections and even to object to processing in certain circumstances. 
+      
+Recital in the preamble to the Directive, which relates to the obligation to inform a data subject when the data have not
+         been gathered from him, states that there will be no such obligation if the provision of information to the data subject proves
+         impossible or would involve disproportionate efforts and that, in that regard, the number of data subjects, the age of the
+         data, and any compensatory measures adopted may be taken into consideration.
+      
+Pursuant to recital in the preamble to the Directive, any person must be able to exercise the right of access to data relating
+         to him which are being processed, in order to verify in particular the accuracy of the data and the lawfulness of the processing.
+      
+Article 1, entitled ‘Object of the Directive’, reads as follows:
+      
+‘1.      In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and
+         in particular their right to privacy with respect to the processing of personal data.
+      
+2.      Member States shall neither restrict nor prohibit the free flow of personal data between Member States for reasons connected
+         with the protection afforded under paragraph 1.’
+      
+The concept of ‘personal data’ is defined in Article 2(a) of the Directive as any information relating to an identified or
+         identifiable natural person (‘data subject’). 
+      
+The Directive defines, in Article 2(b) thereof, ‘processing of personal data’ as:
+      
+‘any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection,
+         recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination
+         or otherwise making available, alignment or combination, blocking, erasure or destruction’.
+      
+In accordance with Article 2(d) of the Directive, the ‘controller’ is the natural or legal person, public authority, agency
+         or any other body which alone or jointly with others determines the purposes and means of the processing of personal data.
+      
+Article 2(g) of the Directive defines ‘recipient’ as a natural or legal person, public authority, agency or any other body
+         to whom data are disclosed, whether a third party or not, as defined in Article 2(f) of the Directive.
+      
+Article of the Directive sets out the principles relating to data quality. With regard to storage, Article 6(1)(e) provides
+         that Member States are to ensure that personal data are ‘kept in a form which permits identification of data subjects for
+         no longer than is necessary for the purposes for which the data were collected or for which they are further processed. Member
+         States shall lay down appropriate safeguards for personal data stored for longer periods for historical, statistical or scientific
+         use’.
+      
+Articles and of the Directive set out the information with which the controller or his representative must provide a
+         data subject, either where data relating to him are collected from him or where such data have not been collected from him.
+      
+Article of the Directive, entitled ‘Right of access’, states as follows:
+      
+‘Member States shall guarantee every data subject the right to obtain from the controller:
+(a)      without constraint, at reasonable intervals and without excessive delay or expense:
+–        confirmation as to whether or not data relating to him are being processed and information at least as to the purposes of
+         the processing, the categories of data concerned, and the recipients or categories of recipients to whom the data are disclosed,
+      
+–        communication to him in an intelligible form of the data undergoing processing and of any available information as to their
+         source,
+      
+–        knowledge of the logic involved in any automatic processing of data concerning him at least in the case of the automated decisions
+         referred to in Article 15(1);
+      
+(b)      as appropriate the rectification, erasure or blocking of data the processing of which does not comply with the provisions
+         of this Directive, in particular because of the incomplete or inaccurate nature of the data;
+      
+(c)      notification to third parties to whom the data have been disclosed of any rectification, erasure or blocking carried out in
+         compliance with (b), unless this proves impossible or involves a disproportionate effort.’
+      
+Article 13(1) of the Directive, entitled ‘Exemptions and restrictions’, authorises Member States to derogate, inter alia,
+         from Articles to thereof, if necessary to safeguard certain public interests, including national security, defence, the
+         prevention, investigation, detection and prosecution of criminal offences and other interests, namely, the protection of the
+         data subject or of the rights and freedoms of others. 
+      
+Article of the Directive provides that Member States are to grant the data subject the right, on certain grounds, to object
+         to the processing of data relating to him. 
+      
+In accordance with the second subparagraph of Article 17(1) of the Directive, Member States are to provide that the controller
+         must implement appropriate technical and organisational measures which, having regard to the state of the art and the cost
+         of their implementation, are to ensure a level of security appropriate to the risks represented by the processing and the
+         nature of the data to be protected. 
+      
+Pursuant to Articles and 23(1) of the Directive, Member States are to provide for the right of every person to a judicial
+         remedy for any breach of the rights guaranteed him by the national law applicable to the processing in question and to provide
+         that any person who has suffered damage as a result of an unlawful processing operation or of any act incompatible with the
+         national provisions adopted pursuant to this Directive is entitled to receive compensation from the controller for the damage
+         suffered. 
+      
+ National legislation
+The Directive was transposed into Netherlands law by a general provision, the Law on the protection of personal data (Wet
+         bescherming persoonsgegevens). Furthermore, certain laws were adapted in order to take account of the Directive. Such is the
+         case of the Law at issue in the main proceedings, that is to say, the Law on personal data held by local authorities (Wet
+         gemeentelijke basisadministratie persoonsgegevens, Stb. 1994, No 494; ‘the Wet GBA’).
+      
+Article 103(1) of the Wet GBA provides that, on request, the College must notify a data subject in writing, within four weeks,
+         whether data relating to him from the local authority personal records have, in the year preceding the request, been disclosed
+         to a purchaser or to a third party.
+      
+In accordance with Article of the Wet GBA, the College is to retain details of any communication of data for one year
+         following that communication, unless that communication is apparent in another form in the database.
+      
+It is apparent from the written observations of the College that the data held by the local authority include, in particular,
+         the name, the date of birth, the personal identity number, the social security/tax number, the local authority of registration,
+         the address and date of registration at the local authority, civil status, guardianship, the custody of minors, the nationality
+         and residence permit of aliens. 
+      
+ The dispute in the main proceedings and the question referred for a preliminary ruling
+By letter of October 2005, Mr Rijkeboer requested the College to notify him of all instances in which data relating to
+         him from the local authority personal records had, in the two years preceding the request, been disclosed to third parties.
+         He wished to know the identity of those persons and the content of the data disclosed to them. Mr Rijkeboer, who had moved
+         to another municipality, wished to know in particular to whom his former address had been disclosed. 
+      
+By decisions of October and November 2005, the College complied with that request only in part by notifying him only
+         of the data relating to the period of one year preceding his request, by application of Article 103(1) of the Wet GBA.
+      
+Communication of the data is registered and stored in electronic form in accordance with the ‘Logisch Ontwerp GBA’ (GBA Logistical
+         Project). This is an automated system established by the Ministerie van Binnenlandse Zaken en Koninkrijkrelaties (Netherlands
+         Ministry of the Interior and Home Affairs). It is apparent from the reference for a preliminary ruling that the data requested
+         by Mr Rijkeboer dating from more than one year prior to his request were automatically erased, which accords with the provisions
+         of Article of the Wet GBA.
+      
+Mr Rijkeboer lodged a complaint with the College against the refusal to give him the information relating to the recipients
+         to whom data regarding him had been disclosed during the period before the year preceding his request. That complaint having
+         been rejected by decision of February 2006, Mr Rijkeboer brought an action before the Rechtbank Rotterdam. 
+      
+That court upheld the action, taking the view that the restriction on the right to information on provision of data to the
+         year before the request, as provided for in Article 103(1) of the Wet GBA, is at variance with Article of the Directive.
+         It also held that the exceptions referred to in Article of that directive are not applicable.
+      
+The College appealed against that decision to the Raad van State. That court finds that Article of the Directive on rights
+         of access to data does not indicate any time period within which it must be possible for those rights to be exercised. In
+         its view, that article does not necessarily, however, preclude Member States from imposing a time restriction in their national
+         legislation on the data subject’s right to information concerning the recipients to whom personal data have been provided,
+         but the court has doubts in that regard.
+      
+In those circumstances the Raad van State decided to stay the proceedings and to refer the following question to the Court
+         for a preliminary ruling:
+      
+‘Is the restriction, provided for in the [Netherlands] Law [on local authority personal records], on the communication of
+         data to one year prior to the relevant request compatible with Article 12(a) of [the] Directive …, whether or not read in
+         conjunction with Article 6(1)(e) of that directive and the principle of proportionality?’ 
+      
+ The question referred
+It should be recalled at the outset that, under the system of judicial cooperation established by Article EC, it is for
+         the Court of Justice to interpret provisions of Community law. As far as concerns national provisions, under that system their
+         interpretation is a matter for the national courts (see Case C‑449/Gysen [2008] ECR I‑553, paragraph 17).
+      
+Accordingly, the question referred by the national court should be understood, essentially, as seeking to determine whether,
+         pursuant to the Directive and, in particular, to Article 12(a) thereof, an individual’s right of access to information on
+         the recipients or categories of recipient of personal data regarding him and on the content of the data communicated may be
+         limited to a period of one year preceding his request for access. 
+      
+That court highlights two provisions of the Directive, that is to say, Article 6(1)(e) on the storage of personal data and
+         Article 12(a) on the right of access to those data. However, neither that court nor any of the parties which submitted observations
+         to the Court has raised the question of the exceptions set out in Article of the Directive.
+      
+Article of the Directive deals with the quality of the data. Article 6(1)(e) requires Member States to ensure that personal
+         data are kept for no longer than is necessary for the purposes for which the data were collected or for which they are further
+         processed. The data must therefore be erased when those purposes have been served.
+      
+Article 12(a) of the Directive provides that Member States are to guarantee data subjects a right of access to their personal
+         data and to information on the recipients or categories of recipient of those data, without setting a time-limit.
+      
+Those two articles seek, therefore, to protect the data subject. The national court wishes to know whether there is a link
+         between those two articles in that the right of access to information on the recipients or categories of recipient of personal
+         data and on the content of the data disclosed could depend on the length of time for which those data are stored.
+      
+The observations submitted to the Court give different points of view on the interaction between those two provisions.
+      
+The College and the Netherlands, Czech, Spanish and United Kingdom Governments submit that the right of access to information
+         on the recipients or categories of recipients referred to in Article 12(a) of the Directive exists only in the present and
+         not in the past. Once the data have been erased in accordance with national legislation, the data subject can no longer have
+         access to them. That consequence does not run contrary to the Directive. 
+      
+The College and the Netherlands Government also submit that Article 103(1) of the Wet GBA, pursuant to which the local authority
+         is to inform a data subject, on request, of data relating to him which, in the year preceding the request, have been disclosed
+         to recipients, goes beyond the requirements laid down in the Directive.
+      
+The Commission and the Greek Government submit that the Directive provides for a right of access not only in the present but
+         also for the period preceding the request for access. However, their views diverge with regard to the exact duration of that
+         right of access.
+      
+In order to assess the scope of the right of access which the Directive must make possible, it is appropriate, first, to determine
+         what data are covered by the right of access and, next, to turn to the objective of Article 12(a) examined in the light of
+         the purposes of the Directive.
+      
+A case such as that of Mr Rijkeboer involves two categories of data.
+      
+The first concerns personal data kept by the local authority on a person, such as his name and address, which constitute,
+         in the present case, the basic data. It is apparent from the oral observations submitted by the College and the Netherlands
+         Government that those data may be stored for a long time. They constitute ‘personal data’ within the meaning of Article 2(a)
+         of the Directive, because they represent information relating to an identified or identifiable natural person (see, to that
+         effect, Joined Cases C‑465/00, C‑138/and C‑139/Österreichischer Rundfunk and Others [2003] ECR I‑4989, paragraph 64; Case C‑101/Lindqvist [2003] ECR I‑12971, paragraph 24; and Case C‑524/Huber [2008] ECR I‑0000, paragraph 43). 
+      
+The second category concerns information on recipients or categories of recipient to whom those basic data are disclosed and
+         on the content thereof and thus relates to the processing of the basic data. In accordance with the national legislation at
+         issue in the main proceedings, that information is stored for only one year.
+      
+The time-limit on the right of access to information on the recipient or recipients of personal data and on the content of
+         the data disclosed, which is referred to in the main proceedings, thus concerns that second category of data.
+      
+In order to determine whether or not Article 12(a) of the Directive authorises such a time-limit, it is appropriate to interpret
+         that article having regard to its objective examined in the light of the purposes of the Directive.
+      
+Pursuant to Article of the Directive, its purpose is to protect the fundamental rights and freedoms of natural persons,
+         and in particular their right to privacy with respect to the processing of personal data, and thus to permit the free flow
+         of personal data between Member States. 
+      
+The importance of protecting privacy is highlighted in recitals and in the preamble to the Directive and emphasised in
+         the case-law of the Court (see, to that effect, Österreichischer Rundfunk and Others, paragraph 70; Lindqvist, paragraphs and 99; Case C‑275/Promusicae [2008] ECR I‑271, paragraph 63; and Case C‑73/Satakunnan Markkinapörssi and Satamedia [2008] ECR I‑0000, paragraph 52).
+      
+Furthermore, as follows from recital in the preamble to the Directive, the principles of protection must be reflected,
+         on the one hand, in the obligations imposed on persons responsible for processing, in particular regarding data quality –
+         the subject-matter of Article of the Directive – and, on the other hand, in the right conferred on individuals, the data
+         on whom are the subject of processing, to be informed that processing is taking place, to consult the data, to request rectification
+         and even to object to processing in certain circumstances.
+      
+That right to privacy means that the data subject may be certain that his personal data are processed in a correct and lawful
+         manner, that is to say, in particular, that the basic data regarding him are accurate and that they are disclosed to authorised
+         recipients. As is stated in recital in the preamble to the Directive, in order to carry out the necessary checks, the data
+         subject must have a right of access to the data relating to him which are being processed. 
+      
+In that regard, Article 12(a) of the Directive provides for a right of access to basic data and to information on the recipients
+         or categories of recipient to whom the data are disclosed.
+      
+That right of access is necessary to enable the data subject to exercise the rights set out in Article 12(b) and (c) of the
+         Directive, that is to say, where the processing of his data does not comply with the provisions of the Directive, the right
+         to have the controller rectify, erase or block his data, (paragraph (b)), or notify third parties to whom the data have been
+         disclosed of that rectification, erasure or blocking, unless this proves impossible or involves a disproportionate effort
+         (paragraph (c)).
+      
+That right of access is also necessary to enable the data subject to exercise his right referred to in Article of the Directive
+         to object to his personal data being processed or his right of action where he suffers damage, laid down in Articles and
+         thereof. 
+      
+With regard to the right to access to information on the recipients or categories of recipient of personal data and on the
+         content of the data disclosed, the Directive does not make it clear whether that right concerns the past and, if so, what
+         period in the past.
+      
+In that regard, to ensure the practical effect of the provisions referred to in paragraphs and of the present judgment,
+         that right must of necessity relate to the past. If that were not the case, the data subject would not be in a position effectively
+         to exercise his right to have data presumed unlawful or incorrect rectified, erased or blocked or to bring legal proceedings
+         and obtain compensation for the damage suffered.
+      
+A question arises as to the scope of that right in the past.
+      
+The Court has already held that the provisions of the Directive are necessarily relatively general since it has to be applied
+         to a large number of very different situations and that the Directive includes rules with a degree of flexibility, in many
+         instances leaving to the Member States the task of deciding the details or choosing between options (see Lindqvist, paragraph 83). Thus, the Court has recognised that, in many respects, the Member States have some freedom of action in implementing
+         the Directive (see Lindqvist, paragraph 84). That freedom, which becomes apparent with regard to the transposition of Article 12(a) of the Directive,
+         is not, however, unlimited.
+      
+The setting of a time-limit with regard to the right to access to information on the recipients or categories of recipient
+         of personal data and on the content of the data disclosed must allow the data subject to exercise the different rights laid
+         down in the Directive and referred to in paragraphs and of the present judgment.
+      
+The length of time the basic data are to be stored may constitute a useful parameter without, however, being decisive.
+      
+The scope of the Directive is very wide, as the Court has already held (see Österreichischer Rundfunk and Others, paragraph 43, and Lindqvist, paragraph 88), and the personal data covered by the Directive are varied. The length of time such data are to be stored,
+         defined in Article 6(1)(e) of the Directive according to the purposes for which the data were collected or for which they
+         are further processed, can therefore differ. Where the length of time for which basic data are to be stored is very long,
+         the data subject’s interest in exercising the rights to object and to remedies referred to in paragraph of the present
+         judgment may diminish in certain cases. If, for example, the relevant recipients are numerous or there is a high frequency
+         of disclosure to a more restricted number of recipients, the obligation to keep the information on the recipients or categories
+         of recipient of personal data and on the content of the data disclosed for such a long period could represent an excessive
+         burden on the controller.
+      
+The Directive does not require Member States to impose such burdens on the controller.
+      
+Accordingly, Article 12(c) of the Directive expressly provides for an exception to the obligation on the controller to notify
+         third parties to whom the data have been disclosed of any correction, erasure or blocking, namely, where this proves impossible
+         or involves a disproportionate effort. 
+      
+In accordance with other sections of the Directive, account may be taken of the disproportionate nature of other possible
+         measures. With regard to the obligation to inform the data subject, recital in the preamble to the Directive states that
+         the number of data subjects and the age of the data may be taken into consideration. Furthermore, in accordance with Article
+         of the Directive concerning security of processing, Member States are to provide that the controller must implement appropriate
+         technical and organisational measures which, having regard to the state of the art and the cost of their implementation, are
+         to ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be protected.
+      
+Analogous considerations are relevant with regard to the fixing of a time-limit on the right of access to information on the
+         recipients or categories of recipient of personal data and on the content of the data disclosed. In addition to the considerations
+         referred to in paragraph of the present judgment, a number of parameters may accordingly be taken into account by the Member
+         States, in particular applicable provisions of national law on time-limits for bringing an action, the more or less sensitive
+         nature of the basic data, the length of time for which those data are to be stored and the number of recipients.
+      
+Thus it is for the Member States to fix a time-limit for storage of information on the recipients or categories of recipient
+         of personal data and on the content of the data disclosed and to provide for access to that information which constitutes
+         a fair balance between, on the one hand, the interest of the data subject in protecting his privacy, in particular by way
+         of his rights to rectification, erasure and blocking of the data in the event that the processing of the data does not comply
+         with the Directive, and rights to object and to bring legal proceedings and, on the other, the burden which the obligation
+         to store that information represents for the controller.
+      
+Moreover, when fixing that time-limit, it is appropriate to take account also of the obligations which following from Article
+         6(e) of the Directive to ensure that personal data are kept in a form which permits identification of data subjects for no
+         longer than is necessary for the purposes for which the data were collected or for which they are further processed.
+      
+In the present case, rules limiting the storage of information on the recipients or categories of recipient of personal data
+         and on the content of the data disclosed to a period of one year and correspondingly limiting access to that information,
+         while basic data is stored for a much longer period, do not constitute a fair balance of the interest and obligation at issue,
+         unless it can be shown that longer storage of that information would constitute an excessive burden on the controller. It
+         is, however, for national courts to make the verifications necessary in the light of the considerations set out in the preceding
+         paragraphs.
+      
+Having regard to the foregoing considerations, the argument of some Member States that application of Articles and of
+         the Directive renders superfluous a grant in respect of the past of a right to access to information on the recipients or
+         categories of recipient referred to in Article 12(a) of the Directive cannot be accepted.
+      
+Articles and impose obligations on the controller or his representative to inform the data subject, in certain circumstances,
+         in particular of the recipients or categories of recipient of the data. The controller or his representative must communicate
+         that information to the data subject of their own accord, inter alia when the data are collected or, if the data are not collected
+         directly from the data subject, when the data are registered or, possibly, when the data are disclosed to a third party.
+      
+In that way, those provisions are intended to impose obligations distinct from those which follow from Article 12(a) of the
+         Directive. Consequently, they in no way reduce the obligation placed on Member States to ensure that the controller is required
+         to give a data subject access to the information on the recipients or categories of recipient and on the data disclosed when
+         that data subject decides to exercise his right to access conferred on him by Article 12(a). Member States must adopt measures
+         transposing, firstly, the provisions of Articles and of the Directive on the obligation to provide information and,
+         secondly, those of Article 12(a) of the Directive, without it being possible for the former to attenuate the obligations following
+         from the latter.
+      
+The answer to the question referred must therefore be that:
+      
+–        Article 12(a) of the Directive requires Member States to ensure a right of access to information on the recipients or categories
+         of recipient of personal data and on the content of the data disclosed not only in respect of the present but also in respect
+         of the past. It is for Member States to fix a time-limit for storage of that information and to provide for access to that
+         information which constitutes a fair balance between, on the one hand, the interest of the data subject in protecting his
+         privacy, in particular by way of his rights to object and to bring legal proceedings and, on the other, the burden which the
+         obligation to store that information represents for the controller.
+      
+–        Rules limiting the storage of information on the recipients or categories of recipient of personal data and on the content
+         of the data disclosed to a period of one year and correspondingly limiting access to that information, while basic data is
+         stored for a much longer period, do not constitute a fair balance of the interest and obligation at issue, unless it can be
+         shown that longer storage of that information would constitute an excessive burden on the controller. It is, however, for
+         national courts to make the determinations necessary.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+Article 12(a) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of
+            individuals with regard to the processing of personal data and on the free movement of such data requires Member States to
+            ensure a right of access to information on the recipients or categories of recipient of personal data and on the content of
+            the data disclosed not only in respect of the present but also in respect of the past. It is for Member States to fix a time-limit
+            for storage of that information and to provide for access to that information which constitutes a fair balance between, on
+            the one hand, the interest of the data subject in protecting his privacy, in particular by way of his rights to object and
+            to bring legal proceedings and, on the other, the burden which the obligation to store that information represents for the
+            controller.
+Rules limiting the storage of information on the recipients or categories of recipient of personal data and on the content
+            of the data disclosed to a period of one year and correspondingly limiting access to that information, while basic data is
+            stored for a much longer period, do not constitute a fair balance of the interest and obligation at issue, unless it can be
+            shown that longer storage of that information would constitute an excessive burden on the controller. It is, however, for
+            national courts to make the determinations necessary. 
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 

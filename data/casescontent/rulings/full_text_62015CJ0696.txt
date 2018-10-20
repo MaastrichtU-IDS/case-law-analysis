@@ -1,0 +1,220 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+July (
+*)
+(Appeal — Transport — Directive 2010/40/EU — Deployment of Intelligent Transport Systems in the field of road transport — Article — Delegation of power to the European Commission — Limits — Delegated Regulation (EU) No 885/— Provision of information services for safe and secure parking places for trucks and commercial vehicles — Delegated Regulation (EU) No 886/— Data and procedures for the provision of road safety-related minimum universal traffic information free of charge to users — Article TFEU — Explicit definition of the objectives, content, scope and duration of the delegation of power — Essential element of the matter in question — Establishment of a supervisory body)
+In Case C‑696/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on December 2015,
+Czech Republic, represented by M. Smolek, J. Vláčil, T. Müller and J. Pavliš, acting as Agents,
+appellant,
+the other party to the proceedings being:
+European Commission, represented by A. Buchet, P.J.O. Van Nuffel, J. Hottiaux and Z. Malůšková, acting as Agents, with an address for service in Luxembourg,
+defendant at first instance,
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz (Rapporteur), President of the Chamber, E. Juhász, C. Vajda, K. Jürimäe and C. Lycourgos, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: M. Aleksejev, Administrator,
+having regard to the written procedure and further to the hearing on October 2016,
+after hearing the Opinion of the Advocate General at the sitting on December 2016,
+gives the following
+Judgment
+By its appeal the Czech Republic asks the Court to set aside the judgment of the General Court of the European Union of October 2015, Czech Republic v Commission (T‑659/and T‑660/13, not published, EU:T:2015:771, ‘the judgment under appeal’), dismissing its two actions seeking, in Case T‑659/13, the annulment of Commission Delegated Regulation (EU) No 885/of May supplementing ITS Directive 2010/40/EU of the European Parliament and of the Council with regard to the provision of information services for safe and secure parking places for trucks and commercial vehicles (OJ L 247, p. 1) and, in the alternative, the annulment of Article 3(1), Article and Article 9(1)(a) of Delegated Regulation No 885/2013, and, in Case T‑660/13, the annulment of Commission Delegated Regulation (EU) No 886/of May supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to data and procedures for the provision, where possible, of road safety-related minimum universal traffic information free of charge to users (OJ L 247, p. 6) and, in the alternative, the annulment of Article 5(1), Article and Article 10(1)(a) of Delegated Regulation No 886/2013.
+Legal context
+Directive 2010/40/EU
+In accordance with Article 1(1) and (2) of Directive 2010/40/EU of the European Parliament and of the Council of July on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport (OJ L 207, p. 1), the directive establishes a framework in support of the coordinated and coherent deployment and use of Intelligent Transport Systems (ITS) within the EU, in particular across the borders between the Member States, sets out the general conditions necessary for that purpose, and provides for the development of specifications for actions within the priority areas referred to in Article 2, as well as for the development, where appropriate, of necessary standards.
+Article 2(1) of the directive specifies the priority areas for the development and use of specifications and standards.
+Article of the directive, ‘Priority actions’, provides:
+‘Within the priority areas the following shall constitute priority actions for the development and use of specifications and standards, as set out in Annex I:
+…
+(c)
+data and procedures for the provision, where possible, of road safety related minimum universal traffic information free of charge to users;
+…
+(e)
+the provision of information services for safe and secure parking places for trucks and commercial vehicles;
+…’
+Article 4(1) of the directive defines ITS as systems in which information and communication technologies are applied in the field of road transport, including infrastructure, vehicles and users, and in traffic management and mobility management, as well as for interfaces with other modes of transport.
+Article 4(17) of the directive defines a ‘specification’ as a ‘binding measure laying down provisions containing requirements, procedures or any other relevant rules’.
+Article 5(1) of the directive, ‘Deployment of ITS’, provides:
+‘Member States shall take the necessary measures to ensure that the specifications adopted by the Commission in accordance with Article are applied to ITS applications and services, when these are deployed, in accordance with the principles in Annex II. This is without prejudice to the right of each Member State to decide on its deployment of such applications and services on its territory. This right is without prejudice to any legislative act adopted under the second subparagraph of Article 6(2).’
+Article of the directive, ‘Specifications’, provides:
+‘1.   The Commission shall first adopt the specifications necessary to ensure the compatibility, interoperability and continuity for the deployment and operational use of ITS for the priority actions.
+…
+4.   Where relevant, and depending on the area covered by the specification, the specification shall include one or more of the following types of provisions:
+(a)
+functional provisions that describe the roles of the various stakeholders and the information flow between them;
+(b)
+technical provisions that provide for the technical means to fulfil the functional provisions;
+(c)
+organisational provisions that describe the procedural obligations of the various stakeholders;
+(d)
+service provisions that describe the various levels of services and their content for ITS applications and services.
+5.   Without prejudice to the procedures under Directive 98/34/EC the specifications shall, where appropriate, stipulate the conditions in which Member States may, after notification to the Commission, establish additional rules for the provision of ITS services on all or part of their territory, provided that those rules do not hinder interoperability.
+6.   The specifications shall, where appropriate, be based on any standards referred to in Article 8.
+The specifications shall, as appropriate, provide for conformity assessment in accordance with Decision No 768/2008/EC.
+The specifications shall comply with the principles set out in Annex II.
+…’
+Article 7(1) and (2) of the directive, ‘Delegated acts’, reads as follows:
+‘1.   The Commission may adopt delegated acts in accordance with Article of the TFEU as regards specifications. When adopting such delegated acts the Commission shall act in accordance with the relevant provisions of this Directive, in particular Article and Annex II.
+2.   A separate delegated act shall be adopted for each of the priority actions.’
+Delegated Regulation No 885/In accordance with Article of Delegated Regulation No 885/2013, the regulation ‘establishes the specifications necessary to ensure compatibility, interoperability and continuity for the deployment and operational use of information services for safe and secure parking places for trucks and commercial vehicles on a Union level’ in accordance with Directive 2010/40, and ‘shall apply to the provision of information services situated on the trans-European road network (TERN)’.
+Article of that regulation, on requirements for the provision of information services, provides:
+‘1.   Member States shall designate areas where traffic and security conditions require the deployment of information services on the safe and secure parking places.
+They shall also define priority zones where dynamic information will be provided.
+2.   The provision of information services shall fulfil the requirements set out in Articles to 7.’
+Article of the regulation provides:
+‘1.   Member States shall designate a national body competent to assess whether the requirements set out in Articles to are fulfilled by service providers, parking operators and road operators. This body shall be impartial and independent from the latter.
+Two or more Member States may designate a common regional body competent to assess compliance with those requirements on their territories.
+Member States shall notify the nominated body to the Commission.
+2.   All services providers shall submit a declaration to the designated bodies on their compliance with the requirements set out in Articles to 7.
+The declaration shall contain the following elements:
+(a)
+the collected data, pursuant to Article collected on safe and secure parking places for trucks and commercial vehicles including the percentage of parking places registered in the information service;
+(b)
+the means of dissemination of the information services to users;
+(c)
+the coverage of dynamic information services on safe and secure parking places;
+(d)
+the quality and availability of the information provided, point of access to the information and the format in which that information is provided.
+3.   Designated bodies shall randomly inspect the correctness of the declarations of a number of public and private service providers and parking operators, and request a demonstration of compliance with the requirements set out in Articles to 7.
+The quality of the service may also be assessed using user-generated comment.
+Every year, the designated bodies shall report to the relevant national authorities on the declarations submitted, as well as on the results of their random inspections.’
+Delegated Regulation No 886/In accordance with Article of Delegated Regulation No 886/2013, the regulation ‘establishes the specifications necessary to ensure compatibility, interoperability and continuity for the deployment and operational use of data and procedures for the provision, where possible, of road safety-related minimum universal traffic information free of charge to users on a Union level’ in accordance with Directive 2010/40, and ’shall apply to the provision of road safety-related minimum universal traffic information services on the trans-European road network’.
+Article of that regulation, on the provision of the information service, provides:
+‘1.   Member States shall designate sections of the trans-European road network where traffic and safety conditions require the deployment of the road safety-related minimum universal traffic information service.
+They shall communicate these sections of roads to the Commission.
+2.   The provision of the information service shall fulfil the requirements set out in Articles to 8.’
+Article of the regulation reads as follows:
+‘1.   Member States shall designate an impartial and independent national body competent to assess whether the requirements set out in Articles to are fulfilled by public and private road operators and service providers and broadcasters dedicated to traffic information. Two or more Member States may designate a common body competent to assess compliance with these requirements on their territories.
+Member States shall notify the national bodies to the Commission.
+2.   Public and private road operators, service providers and broadcasters dedicated to traffic information shall provide the designated national bodies with their identification details and a description of the information service they provide, and submit a declaration of compliance with the requirements set out in Articles to 8.
+The declaration shall contain the following elements, where applicable:
+(a)
+the road safety-related categories covered and the road network coverage of the information service;
+(b)
+information on their access point to road safety-related traffic data and its conditions of use;
+(c)
+the format of the road safety-related traffic data accessible through their access point;
+(d)
+the means of dissemination of the information service to end users.
+Public and private road operators, service providers and broadcasters dedicated to traffic information shall immediately update their declarations of compliance following any change in the provision of their service.
+3.   The designated national bodies shall randomly inspect the correctness of the declarations of a number of public and private road operators, service providers and broadcasters dedicated to traffic information, and shall request proof of compliance with the requirements set out in Articles to 8.
+Every year, the designated national bodies shall report to the national authorities on the declarations submitted and on the results of their random inspections.’
+The procedure before the General Court and the judgment under appeal
+By applications lodged at the Registry of the General Court on December 2013, the Czech Republic brought two actions for the annulment of Delegated Regulations No 885/and No 886/(together, ‘the contested regulations’).
+In support of those actions, the Czech Republic raised three pleas in law, alleging, first, infringement of Article 7(1) in conjunction with Article 5(1) and Article of Directive 2010/40, in that the Commission, in adopting the contested regulations, exceeded the limits of the authority conferred by that provision; secondly, infringement of Article TFEU, in that the Commission, in adopting the contested regulations, exceeded its power to adopt delegated non-legislative acts provided for by that article; and, thirdly, infringement of Article 13(2) TEU, in that the Commission, in adopting the contested regulations, exceeded the limits of the powers conferred on it in the Treaties.
+In the judgment under appeal, the General Court rejected each of those pleas, and consequently dismissed both actions in their entirety.
+Forms of order sought by the parties before the Court
+The Czech Republic claims that the Court should:
+–
+set aside the judgment under appeal;
+–
+annul the contested regulations in their entirety; and
+–
+order the Commission to pay the costs.
+In the alternative, the Czech Republic claims that the Court should:
+–
+set aside the judgment under appeal;
+–
+annul Article 3(1), Article and Article 9(1)(a) of Regulation No 885/and Article 5(1), Article and Article 10(1)(a) of Regulation No 886/2013; and
+–
+order the Commission to pay the costs.
+The Commission contends that the Court should:
+–
+dismiss the appeal; and
+–
+order the Czech Republic to pay the costs.
+The appeal
+First ground of appeal
+Arguments of the parties
+By its first ground of appeal, the Czech Republic claims that the General Court breached the principle of legal certainty by holding, in paragraphs to of the judgment under appeal, that the contested regulations do not require the Member States to deploy ITS applications and services on their territory. It submits that those regulations contain standard provisions relating to the binding nature of all their elements and their direct applicability in all the Member States. Furthermore, the explanatory memoranda for those regulations expressly indicate that the Commission’s intention was to impose the mandatory deployment of ITS in all the Member States. By considering that the contested regulations had to be read in the light of Directive 2010/40, the General Court interpreted those regulations contra legem. Such an approach places the Member States in a legally uncertain situation, which is unacceptable from the point of view of the principle of legal certainty.
+The Commission takes the view that the first ground of appeal should be rejected as unfounded.
+Findings of the Court
+By its first ground of appeal, the Czech Republic essentially criticises the General Court for holding that the contested regulations do not require the Member States to deploy ITS applications and services in their territory.
+On this point, it must be stated at the outset that, contrary to the submissions of the Czech Republic, those regulations do not contain any provision laying down an express obligation of the Member States to deploy ITS applications and services in their territory.
+In particular, no such express obligation follows from the standard provisions at the end of each of the contested regulations which state that they are binding in their entirety and directly applicable in all Member States. Those standard provisions, which correspond to the wording of the second sentence of the second paragraph of Article TFEU, merely declare binding in all Member States the content of the contested regulations, as it appears from their other provisions, without however determining whether that content includes an obligation to deploy ITS applications and services.
+As to the other provisions of those regulations, the Czech Republic does not submit that they lay down an express obligation of the Member States to deploy ITS applications and services in their territory, and in any event that is not the case. In particular, Article 3(1) of Delegated Regulation No 885/and Article 5(1) of Delegated Regulation No 886/do not lay down any express obligation to that effect.
+In the absence of an express obligation, resulting from the actual wording of the contested regulations, under which all the Member States are required to deploy ITS applications and services in their territory, the Czech Republic’s argument that the General Court’s interpretation of those regulations in the light of Directive 2010/is contra legem cannot be accepted.
+On the contrary, it must be stated, as the Advocate General observes in points and of his Opinion, that each of those regulations provides in Article that it establishes the necessary specifications ‘in accordance with Directive 2010/40’. Article 5(1) of that directive requires Member States to take the necessary measures to ensure that the specifications adopted by the Commission are applied to ITS applications and services ‘when these are deployed’, while specifying that that obligation ‘is without prejudice to the right of each Member State to decide on its deployment of such applications and services on its territory’.
+It thus follows unequivocally from the reference to Directive 2010/in each of the contested regulations that they do not require the Member States to deploy ITS applications and services in their territory, but only to take the necessary measures for the specifications in those regulations to be applied to ITS applications and services where they are deployed.
+The Czech Republic’s argument that the explanatory memoranda for the contested regulations expressly indicate the Commission’s intention to impose an obligation on all the Member States to deploy ITS applications and services cannot succeed either.
+As the Advocate General observes in points and of his Opinion, no such intention emerges from those explanatory memoranda. While they attest the Commission’s preference for the option of mandatory deployment of ITS applications and services in all the Member States, they do not allow the conclusion that the contested regulations had the objective of implementing that option.
+As regards the Czech Republic’s argument that the General Court erred in law in that, in paragraph of the judgment under appeal, it interpreted the contested regulations in the light of Directive 2010/40, it should be observed that, according to the Court’s settled case-law, secondary acts of EU law must be interpreted as far as possible in conformity with the basic act (see, to that effect, judgment of July 2012, Pie Optiek, C‑376/11, EU:C:2012:502, paragraph and the case-law cited). As follows from paragraphs to above, the General Court’s interpretation of the contested regulations is compatible both with their wording and with Directive 2010/40.
+The General Court was thus entitled to take the view, in paragraphs and of the judgment under appeal, that Article 3(1) of Delegated Regulation No 885/and Article 5(1) of Delegated Regulation No 886/must be interpreted as meaning that the obligations laid down in those articles to designate areas or section of the road network for the deployment of ITS applications and services apply only where a Member State decides on that deployment.
+The first ground of appeal must therefore be rejected as unfounded.
+Second ground of appeal
+Arguments of the parties
+By its second ground of appeal, the Czech Republic argues that the General Court infringed Article TFEU by holding, in particular in paragraphs to of the judgment under appeal, that the Commission did not exceed the delegation of power in Article of Directive 2010/by requiring the Member States to establish the supervisory body provided for in Article 8(1) of Delegated Regulation No 885/and Article 9(1) of Delegated Regulation No 886/2013, under which provisions the Member States are to designate a national body competent to assess whether the requirements set out in those regulations are fulfilled by the various operators concerned (‘the supervisory body’).
+It submits that the General Court wrongly found in this respect that it was not necessary for the basic act to delimit expressly the content and scope of the conferral of power on the Commission, and that it sufficed that the Commission, having a margin of discretion, considered that establishing the supervisory body was necessary for achieving the objectives of the basic act. In the view of the Czech Republic, the content and scope of the delegation of power in Article of Directive 2010/are delimited by the kinds of provision expressly set out in Article 6(4) of that directive. Those kinds of provision do not allow the establishment of the supervisory body.
+The Commission replies that Article TFEU leaves the EU legislature every latitude to define, generally or else in detail, the content of a delegation of power, the only restriction being that the delegation cannot relate to the essential elements of the basic act.
+With respect to the delegation of power in Directive 2010/40, Article of the directive empowers the Commission to adopt ’specifications’ in accordance with the relevant provisions of the directive taken as a whole, in particular but not exclusively in accordance with Article and Annex II. Consequently, Article 6(4) of the directive lists, non-exhaustively only, the kinds of provision that may appear in such a specification. In any event, Article 6(4)(c) of the directive expressly mentions ‘organisational provisions’ among the kinds of provision that may be included in a specification, which in itself justifies the Commission’s power to require the Member States to establish the supervisory body in question.
+Findings of the Court
+By its second ground of appeal, the Czech Republic submits essentially that the General Court infringed the first sentence of the second subparagraph of Article 290(1) TFEU by interpreting the delegation of power in Article of Directive 2010/as authorising the Commission to require the Member States to establish the supervisory body.
+As the General Court noted in paragraph of the judgment under appeal, Article 7(1) of Directive 2010/empowers the Commission to adopt delegated acts in accordance with Article TFEU ‘as regards specifications’ and ‘in accordance with the relevant provisions of this Directive, in particular Article and Annex II’.
+The term ’specification’ is defined in Article 4(17) of that directive as a ‘binding measure laying down provisions containing requirements, procedures or any other relevant rules’.
+In accordance with Article 6(1) of the directive, the Commission shall first adopt the specifications necessary to ensure the compatibility, interoperability and continuity for the deployment and operational use of ITS for the priority actions.
+In paragraphs to of the judgment under appeal, the General Court interpreted the delegation of power in Article 7(1) of Directive 2010/as authorising the Commission to adopt specifications ‘in accordance with the provisions of Directive 2010/as a whole, not only Article of the directive’. After referring to Article 4(17), Article 5(1) and Article 6(4)(c) and (6) of the directive, the General Court found, in paragraph of the judgment under appeal, that that delegation of power authorises the Commission to establish machinery for supervision ‘in accordance with all the provisions of Directive 2010/40, in particular the objectives laid down in Article 6(1) and Annex II’.
+In paragraph of the judgment under appeal, the General Court stated in this respect that ‘it suffice[d] that the Commission, having a margin of discretion, considered that establishing such a body was necessary for ensuring the objectives of compatibility, interoperability and continuity for the deployment’ of ITS.
+That interpretation is vitiated by an error of law.
+While, under Article of Directive 2010/40, the Commission was obliged to adopt specifications in compliance not only with Article of that directive but also with all other relevant provisions of the directive, it remains the case that, having regard to Article TFEU, the delegation of power in Article cannot be interpreted as authorising the Commission to exceed the bounds laid down by Article of the directive, which explicitly defines not only, in paragraph 1, the objective of the specifications but also their content and scope, by expressly determining, in particular in paragraph 4, the measures which may be the subject of specifications.
+In accordance with the first sentence of the second subparagraph of Article TFEU, not only the objectives but also the content, scope and duration of the delegation of power must be explicitly defined in the legislative act.
+As regards that requirement, the Court has repeatedly held that it implies that the purpose of granting a delegated power is to achieve the adoption of rules coming within the regulatory framework as defined by the basic legislative act (judgments of March 2014, Commission v Parliament and Council, C‑427/12, EU:C:2014:170, paragraph 38; of July 2015, Commission v Parliament and Council, C‑88/14, EU:C:2015:499, paragraph 29; and of March 2016, Parliament v Commission, C‑286/14, EU:C:2016:183, paragraph 30). The Court’s case-law requires in particular that the definition of the power conferred is sufficiently precise, in that it must indicate clearly the limits of the power and must enable the Commission’s use of the power to be reviewed by reference to objective criteria fixed by the EU legislature (see, to that effect, judgments of July 1988, Central-Import Münster, 291/86, EU:C:1988:361, paragraph 13, and of July 2005, Alliance for Natural Health and Others, C‑154/and C‑155/04, EU:C:2005:449, paragraph 90).
+In those circumstances, the Commission’s interpretation of Article TFEU, namely that the only restriction on the EU legislature in connection with framing a delegation of power is that the adoption of essential elements of the area in question must not be delegated, must be rejected at the outset.
+That interpretation is not compatible with the wording and the spirit of that provision. A delegation of power under that provision confers power on the Commission to exercise the functions of the EU legislature, in that it enables it to supplement or amend non-essential elements of the legislative act. The requirement in the first sentence of the second subparagraph of Article 290(1) TFEU is intended precisely to ensure that such a power emanates from an express decision of the legislature and that its use by the Commission respects the bounds the legislature has itself fixed in the basic act. For that purpose, the basic act must, in accordance with that provision, lay down the limits of its conferral of power on the Commission, namely the objectives, content, scope and duration of the conferral.
+It is true that, as the Commission submits, the first sentence of the second subparagraph of Article 290(1) TFEU allows the EU legislature to confer on the Commission a discretion for exercising the power it delegates, a discretion which may be more or less extensive, depending on the nature of the matter in question. However, a delegation of power within the meaning of Article TFEU (and any discretion it may involve) must be delimited by bounds fixed in the basic act (see, to that effect, judgment of May 2017, Dyson v Commission, C‑44/P, EU:C:2017:357, paragraph 53).
+This interpretation of Article TFEU is, moreover, borne out by point of the Commission’s guidelines of June on delegated acts (SEC(2011) 855), which, although they cannot bind the Court, may be a useful source of guidance (judgment of March 2016, Parliament v Commission, C‑286/14, EU:C:2016:183, paragraph and the case-law cited). The Commission states in those guidelines that the legislature ‘must explicitly and precisely describe the powers it intends to delegate to the Commission’, that ‘vague formulations … are not possible’, and that ‘powers should not be conferred on the Commission simply by setting up a non-exhaustive list of measures to be taken’.
+In those circumstances, the first sentence of the second subparagraph of Article TFEU does not allow the EU judicature to make up for the absence of the limits required by that provision, which must be fixed by the legislature itself, and to which the use made by the Commission of the delegation of power is subject.
+In the present case, instead of observing the bounds laid down by the legislature, as that provision requires, the General Court interpreted the delegation of power in Article of Directive 2010/solely from the point of view of its objectives, without satisfying itself that the content and scope of the delegated power were also defined, that definition being left by the General Court to the Commission’s discretion.
+However, it should be recalled that, if the grounds of a judgment of the General Court disclose an infringement of EU law but its operative part is shown to be well founded on other legal grounds, such an infringement cannot lead to the setting aside of that judgment, and a substitution of grounds must be made (see, to that effect, judgments of July 2013, Commission and Others v Kadi, C‑584/P, C‑593/P and C‑595/P, EU:C:2013:518, paragraph 150, and of March 2015, Commission and Others v Versalis and Others, C‑93/P and C‑123/P, EU:C:2015:150, paragraph and the case-law cited).
+That is so in the present case.
+As the Advocate General observes in points to of his Opinion, Article 7(1) of Directive 2010/40, read in conjunction with Article 6(4)(c) of the directive, gives the Commission an adequate legal basis for establishing the supervisory body.
+As follows from paragraph above, Article of Directive 2010/explicitly defines not only the objective but also the content and scope of the specifications the Commission can adopt. In accordance with Article 6(4)(c), a specification may include ‘organisational provisions that describe the procedural obligations of the various stakeholders’.
+The provisions in the contested regulations concerning the establishment of the supervisory body, that is, Article of Delegated Regulation No 885/and Article of Delegated Regulation No 886/2013, are such organisational provisions that describe the procedural obligations of the various stakeholders.
+As the General Court indicated in paragraphs and of the judgment under appeal, it follows from those articles that the supervisory body’s function is to assess the various operators’ compliance with the specifications provided for by the contested regulations. For that purpose, those articles require the supervisory body to be independent and impartial. In addition, they require the operators concerned to provide that body with their identification details, a description of the information service they provide, and a declaration of compliance. Finally, those articles provide that the supervisory body is randomly to inspect the correctness of the declarations of a number of operators, and to report every year to the competent national authorities on the declarations submitted and the results of the random inspections.
+Thus, first, Article of Delegated Regulation No 885/and Article of Delegated Regulation No 886/are of an ‘organisational’ nature, since they provide for the establishment and organisation of a supervisory body with the task of assessing compliance by the various operators concerned with the specifications provided for by the contested regulations, while requiring the supervisory body to be independent and impartial.
+Secondly, those provisions ‘describe the procedural obligations of the various stakeholders’, since they require the operators concerned to provide that body with their identification details, a description of the information service they provide, and declarations of compliance, on the basis of which the supervisory body has to report annually to the competent national authorities.
+This interpretation of Article 6(4)(c) of Directive 2010/is not called in question by the Czech Republic’s argument that Article 5(1) of Directive 2010/leaves to the Member States the choice of the means to use to ensure the application of ITS applications and services.
+Article 5(1) of the directive does no more than require the Member States to take the necessary measures to ensure that the specifications adopted by the Commission are applied to ITS applications and services, when these are deployed. It therefore has no effect on the content of those specifications.
+As the operative part of the judgment under appeal is well founded, the second ground of appeal must be rejected.
+Third ground of appeal
+Arguments of the parties
+By the first part of its third ground of appeal, the Czech Republic submits that the General Court distorted the argument it put forward at first instance, by finding in paragraph of the judgment under appeal that it was in agreement with the Commission that the contested regulations are inapplicable as long as a Member State has not decided to deploy ITS applications and services in its territory.
+By the second part of that ground of appeal, the Czech Republic criticises the General Court for ignoring its argument that the Commission’s intention to impose an obligation on all the Member States to deploy ITS applications and services follows expressly from the explanatory memoranda for the contested regulations.
+Finally, the third part of that ground of appeal argues that the General Court was wrong to reject its argument that the supervisory body is an essential element of the matter in question which cannot be the subject of a delegation of power.
+The Commission contests those arguments.
+Findings of the Court
+As the Advocate General states in point of his Opinion, the first part of the third ground of appeal proceeds from a misreading of the first sentence of paragraph of the judgment under appeal. Contrary to the Czech Republic’s submissions, the General Court did not find that there was agreement between the parties on the interpretation of the contested regulations themselves, but only on the interpretation of Directive 2010/40.
+As regards the second part of the third ground of appeal, by which the Czech Republic essentially submits that the General Court did not explicitly address its argument concerning the explanatory memoranda for the contested regulations, it must be recalled that, according to settled case-law of the Court, the General Court’s duty, under Article and the first paragraph of Article of the Statute of the Court of Justice of the European Union, to state reasons for its judgments does not require it to provide an account that follows exhaustively and one by one all the arguments articulated by the parties to the case. The reasoning may therefore be implicit, on condition that it enables the persons concerned to know why the measures in question were taken and provides the Court of Justice with sufficient material for it to exercise its powers of review (judgments of March 2011, ArcelorMittal Luxembourg v Commission and Commission v ArcelorMittal Luxembourg and Others, C‑201/P and C‑216/P, EU:C:2011:190, paragraph 78, and of March 2016, Greece v Commission, C‑431/P, EU:C:2016:145, paragraph and the case-law cited).
+As the Advocate General observes in point of his Opinion, the General Court’s reasoning in paragraphs to of the judgment under appeal is clear and both enables the Czech Republic to know why the General Court rejected the plea in law in question and provides the Court of Justice with sufficient material for it to exercise its powers of review. It follows that the judgment under appeal is not vitiated by defective reasoning on this point.
+By the third part of the third ground of appeal, the Czech Republic criticises the General Court for rejecting its argument that the supervisory body is an ‘essential element’ within the meaning of Article TFEU which is not capable of being the subject of a delegation of power.
+It must be recalled that, in accordance with the second sentence of the second subparagraph of Article 290(1) TFEU, the essential elements of an area are reserved for the legislative act and cannot therefore be the subject of a delegation of power.
+That prohibition of granting a delegation of power relating to the essential elements of the matter concerned corresponds, moreover, to the settled case-law of the Court (see, to that effect, judgments of December 1970, Köster, Berodt & Co., 25/70, EU:C:1970:115, paragraph 6, and of September 2012, Parliament v Council, C‑355/10, EU:C:2012:516, paragraph and the case-law cited).
+In accordance with that case-law, ascertaining which elements of a matter must be categorised as ‘essential’ is not for the assessment of the EU legislature alone, but must be based on objective factors amenable to judicial review. Account must be taken of the characteristics and particular features of the field concerned (judgments of September 2012, Parliament v Council, C‑355/10, EU:C:2012:516, paragraphs and 68, and of June 2016, DK Recycling und Roheisen v Commission, C‑540/P, EU:C:2016:469, paragraph and the case-law cited).
+An element is essential within the meaning of the second sentence of the second subparagraph of Article 290(1) TFEU in particular if, in order to be adopted, it requires political choices falling within the responsibilities of the EU legislature, in that it requires the conflicting interests at issue to be weighed up on the basis of a number of assessments, or if it means that the fundamental rights of the persons concerned may be interfered with to such an extent that the involvement of the EU legislature is required (see, to that effect, judgment of September 2012, Parliament v Council, C‑355/10, EU:C:2012:516, paragraphs 65, and 77).
+In the present case, in paragraph of the judgment under appeal, the General Court rejected the Czech Government’s argument that the establishment of a supervisory body is an essential element of the matter concerned which cannot be the subject of a delegation of power, by considering that it sufficed to find in this respect that the Commission had not exceeded the powers conferred on it by Directive 2010/40.
+That reasoning is vitiated by an error of law.
+By expressly stipulating that the essential elements of an area are reserved for the legislative act and cannot therefore be the subject of delegation, the second sentence of the second subparagraph of Article 290(1) TFEU sets a limit to the latitude enjoyed by the EU legislature in connection with a delegation of power. That provision is intended to ensure that decisions on such elements are reserved to the EU legislature.
+However, in the judgment under appeal, the General Court did not examine whether or not the establishment of the supervisory body is an essential element within the meaning of that provision, thus not excluding that that might be the case. It confined itself to a reference to the scope of the delegation of power in Article of Directive 2010/40.
+By so doing, the General Court disregarded the second sentence of the second subparagraph of Article 290(1) TFEU. Contrary to what that provision requires, the General Court did not make sure that, in the present case, the adoption of rules relating to the essential elements of the area in question remained reserved to the EU legislature and was not the subject of a delegation of power.
+Since, however, the operative part of the judgment under appeal was based on another legal ground, a substitution of grounds must be made, in accordance with the case-law cited in paragraph above.
+It should be recalled that the classification of an element as ‘essential’ cannot be left to the disposition of the EU legislature, but depends on criteria deriving from an objective interpretation of the second sentence of the second subparagraph of Article 290(1) TFEU, which include in particular those mentioned in paragraph above.
+In the present case, having regard to the organisation of the supervisory body described in paragraph above, it must be considered that its establishment does not involve political choices or interferences with the fundamental rights of operators to such an extent that the involvement of the EU legislature is required. In particular, the powers of that body remain essentially limited to the collection of information and the submission of assessment reports. The consequences of its establishment for the operators concerned are limited to an obligation to provide the body with their identification details, a description of the information service they provide, and declarations of compliance.
+Consequently, contrary to the submissions of the Czech Republic, the establishment of the supervisory body is not an ‘essential element’ of the matter in question within the meaning of the second sentence of the second subparagraph of Article 290(1) TFEU.
+The third ground of appeal must therefore be rejected in its entirety as unfounded.
+Since all three grounds of appeal have been rejected, the appeal must be dismissed.
+Costs
+Under Article 138(1) of the Court’s Rules of Procedure, which applies to appeal proceedings by virtue of Article 184(1) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings.
+Since the Commission has applied for costs to be awarded against the Czech Republic and the Czech Republic has been unsuccessful, it must be ordered to bear its own costs and pay those incurred by the Commission.
+ 
+On those grounds, the Court (Fourth Chamber) hereby:
+ 
+1.
+Dismisses the appeal;
+ 
+2.
+Orders the Czech Republic to pay the costs.
+ 
+[Signatures]
+(
+*)	Language of the case: Czech.
+Top  
+ 

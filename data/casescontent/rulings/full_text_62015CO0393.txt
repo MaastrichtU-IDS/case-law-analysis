@@ -1,0 +1,331 @@
+
+ORDONNANCE DE LA COUR (neuvième chambre)
+juin (*)
+      
+« Renvoi préjudiciel – Article du règlement de procédure de la Cour – Fiscalité – Système commun de taxe sur la valeur ajoutée – Directive 2006/112/CE – Article – Article 169, sous a) – Société établie dans un État membre dans lequel elle effectue des opérations taxées – Succursale immatriculée dans un autre État membre pour le paiement de la taxe sur la valeur ajoutée – Réalisation occasionnelle d’opérations taxées dans cet État – Activité principale consistant en la réalisation d’opérations internes au profit de ladite société – Taxe sur la valeur ajoutée acquittée en amont par cette succursale – Déduction dans l’État membre d’immatriculation »
+Dans l’affaire C‑393/15,
+ayant pour objet une demande de décision préjudicielle au titre de l’article TFUE, introduite par le Naczelny Sąd Administracyjny
+         (Cour suprême administrative, Pologne), par décision du mai 2015, parvenue à la Cour le juillet 2015, dans la procédure
+      
+Dyrektor Izby Skarbowej w Krakowie
+contre
+ESET spol. s r.o. sp. z o.o. Oddział w Polsce,
+LA COUR (neuvième chambre),
+composée de M. C. Lycourgos, président de chambre, M. C. Vajda (rapporteur) et Mme K. Jürimäe, juges,
+      
+avocat général : M. P. Mengozzi,
+greffier : M. A. Calot Escobar,
+considérant les observations présentées :
+–        pour ESET spol. s r.o. sp. z o.o. Oddział w Polsce, par Mmes A. Rutkowska, radca prawny, et A. Tałasiewicz, doradca podatkowy,
+      
+–        pour le gouvernement polonais, par M. B. Majczyna, en qualité d’agent,
+–        pour la Commission européenne, par M. R. Lyal et Mme M. Owsiany-Hornung, en qualité d’agents,
+      
+vu la décision prise, l’avocat général entendu, de statuer par voie d’ordonnance motivée, conformément à l’article du règlement
+         de procédure de la Cour,
+      
+rend la présente
+Ordonnance
+La demande de décision préjudicielle porte sur l’interprétation de l’article et de l’article 169, sous a), de la directive
+         2006/112/CE du Conseil, du novembre 2006, relative au système commun de taxe sur la valeur ajoutée (JO 2006, L 347, p. 1).
+      
+Cette demande a été présentée dans le cadre d’un litige opposant le Dyrektor Izby Skarbowej w Krakowie (directeur de la chambre
+         fiscale de Cracovie, Pologne, ci-après l’« autorité fiscale ») à ESET spol. s r.o. sp. z o.o. Oddział w Polsce (ci-après la
+         « succursale polonaise ») au sujet du droit à déduction de la taxe sur la valeur ajoutée (TVA) acquittée en amont par cette
+         dernière, grevant les biens et les services utilisés pour les besoins des opérations taxées de la société Eset spol. s r.o.,
+         établie en Slovaquie (ci-après la « société slovaque »).
+      
+ Le cadre juridique
+ Le droit de l’Union
+L’article 9, paragraphe 1, de la directive 2006/prévoit :
+      
+« Est considéré comme “assujetti” quiconque exerce, d’une façon indépendante et quel qu’en soit le lieu, une activité économique,
+         quels que soient les buts ou les résultats de cette activité.
+      
+Est considérée comme “activité économique” toute activité de producteur, de commerçant ou de prestataire de services, y compris
+         les activités extractives, agricoles et celles des professions libérales ou assimilées. Est en particulier considérée comme
+         activité économique, l’exploitation d’un bien corporel ou incorporel en vue d’en tirer des recettes ayant un caractère de
+         permanence. »
+      
+L’article de ladite directive dispose :
+      
+« Dans la mesure où les biens et les services sont utilisés pour les besoins de ses opérations taxées, l’assujetti a le droit,
+         dans l’État membre dans lequel il effectue ces opérations, de déduire du montant de la taxe dont il est redevable les montants
+         suivants :
+      
+a)      la TVA due ou acquittée dans cet État membre pour les biens qui lui sont ou lui seront livrés et pour les services qui lui
+         sont ou lui seront fournis par un autre assujetti ;
+      
+b)      la TVA due pour les opérations assimilées aux livraisons de biens et aux prestations de services conformément à l’article
+         18, point a), et à l’article ;
+      
+c)      la TVA due pour les acquisitions intracommunautaires de biens conformément à l’article 2, paragraphe 1, point b) i) ;
+d)      la TVA due pour les opérations assimilées aux acquisitions intracommunautaires conformément aux articles et ;
+e)      la TVA due ou acquittée pour les biens importés dans cet État membre. »
+L’article de la même directive prévoit :
+      
+« Outre la déduction visée à l’article 168, l’assujetti a le droit de déduire la TVA y visée dans la mesure où les biens et
+         les services sont utilisés pour les besoins des opérations suivantes :
+      
+a)      ses opérations relevant des activités visées à l’article 9, paragraphe 1, deuxième alinéa, effectuées en dehors de l’État
+         membre dans lequel cette taxe est due ou acquittée, qui ouvriraient droit à déduction si ces opérations étaient effectuées
+         dans cet État membre ;
+      
+[...] »
+Aux termes de l’article de la directive 2006/:
+      
+« Tout assujetti qui, au sens de l’article 1er de la [huitième] directive 79/1072/CEE [du Conseil, du décembre 1979, en matière d’harmonisation des législations des États
+         membres relatives aux taxes sur le chiffre d’affaires – Modalités de remboursement de la taxe sur la valeur ajoutée aux assujettis
+         non établis à l’intérieur du pays (JO 1979, L 331, p. 11], de l’article 1er de la [treizième] directive 86/560/CEE [du Conseil, du novembre 1986, en matière d’harmonisation des législations des
+         États membres relatives aux taxes sur le chiffre d’affaires – Modalités de remboursement de la taxe sur la valeur ajoutée
+         aux assujettis non établis sur le territoire de la Communauté (JO 1986, L 326, p. 40)] et de l’article de la présente
+         directive, n’est pas établi dans l’État membre dans lequel il effectue les achats de biens et services ou des importations
+         de biens grevés de TVA a le droit d’obtenir le remboursement de cette taxe dans la mesure où les biens et les services sont
+         utilisés pour les opérations suivantes :
+      
+a)      les opérations visées à l’article ;
+[...] »
+À compter du 1er janvier 2010, l’article de la directive 2006/a été modifié par la directive 2008/8/CE du Conseil, du février (JO 2008, L 44, p. 11), de telle sorte que le renvoi à l’article 1er de la huitième directive 79/(ci-après la « huitième directive »), figurant dans cet article a été remplacé par un renvoi
+         à l’article 2, point 1, et à l’article de la directive 2008/9/CE du Conseil, du février 2008, définissant les modalités
+         du remboursement de la taxe sur la valeur ajoutée, prévu par la directive 2006/112, en faveur des assujettis qui ne sont pas
+         établis dans l’État membre du remboursement, mais dans un autre État membre (JO 2008, L 44, p. 23).
+      
+L’article 1er de la huitième directive était libellé comme suit :
+      
+« Pour l’application de la présente directive, est considéré comme un assujetti qui n’est pas établi à l’intérieur du pays
+         l’assujetti visé à l’article 4, paragraphe 1, de la [sixième] directive 77/388/CEE [du Conseil, du mai 1977, en matière
+         d’harmonisation des législations des États membres relatives aux taxes sur le chiffre d’affaires – Système commun de taxe
+         sur la valeur ajoutée : assiette uniforme (JO 1977, L 145, p. 1)] qui, au cours de la période visée à l’article 7, paragraphe
+         1, premier alinéa, première et deuxième phrases, n’a eu dans ce pays ni le siège de son activité économique, ni un établissement
+         stable à partir duquel les opérations sont effectuées, ni, à défaut d’un tel siège ou d’un tel établissement stable, son domicile
+         ou sa résidence habituelle, et qui, au cours de la même période, n’a effectué aucune livraison de biens ou prestation de services
+         réputée se situer dans ce pays, à l’exception :
+      
+[...] »
+L’article de la directive 2008/dispose :
+      
+« Aux fins de la présente directive, on entend par :
+1)      “assujetti non établi dans l’État membre du remboursement”, tout assujetti au sens de l’article 9, paragraphe 1, de la directive
+         2006/112/CE qui n’est pas établi dans l’État membre du remboursement, mais sur le territoire d’un autre État membre ;
+      
+[...] »
+Aux termes de l’article de la directive 2008/:
+      
+« La présente directive est applicable à tout assujetti non établi dans l’État membre du remboursement qui remplit les conditions
+         suivantes :
+      
+a)      au cours de la période sur laquelle porte la demande de remboursement, l’assujetti n’a eu dans l’État membre du remboursement
+         ni le siège de son activité économique, ni un établissement stable à partir duquel les opérations sont effectuées, ni, à défaut
+         d’un tel siège ou d’un tel établissement stable, son domicile ou sa résidence habituelle ;
+      
+b)      au cours de la période sur laquelle porte la demande de remboursement, l’assujetti n’a effectué aucune livraison de biens
+         ni prestation de services réputée avoir eu lieu dans l’État membre du remboursement, à l’exception des opérations suivantes :
+      
+[...] »
+ Le droit polonais
+L’article 86, paragraphe 1, de l’ustawa o podatku od towarów i usług (loi relative à la taxe sur les biens et les services),
+         du mars (Dz. U. de 2011, n° 177, position 1054), telle que modifiée (ci-après la « loi relative à la TVA »), prévoit :
+      
+« Dans la mesure où les biens et les services sont utilisés pour les besoins de ses opérations taxées, l’assujetti visé à
+         l’article a le droit de déduire du montant de la taxe dont il est redevable le montant de la taxe en amont, sous réserve
+         de l’article 114, de l’article 119, paragraphe 4, de l’article 120, paragraphes et 19, et de l’article 124. »
+      
+Aux termes de l’article 86, paragraphe 8, point 1, de la loi relative à la TVA :
+      
+« L’assujetti a également le droit de déduire du montant de la taxe dont il est redevable le montant de la taxe en amont,
+         visé au paragraphe 2, dans la mesure où les biens et les services sont importés ou acquis pour les besoins des livraisons
+         de biens ou des prestations de services effectuées par l’assujetti en dehors du territoire national qui ouvriraient droit
+         à déduction si ces opérations étaient effectuées sur le territoire national et où l’assujetti possède les documents qui démontrent
+         le lien entre la taxe déduite et ces opérations. »
+      
+L’article 87, paragraphe 5, de ladite loi relative dispose :
+      
+« Sur demande motivée, l’assujetti qui effectue des livraisons de biens ou des prestations de services non taxées en dehors
+         du territoire national a le droit d’obtenir le remboursement du montant de la taxe en amont visé à l’article 86, paragraphe
+         8, point 1, dans le délai fixé au paragraphe 2, première phrase. [...] »
+      
+L’article 2, paragraphe 1, du rozporządzenie Ministra Finansów w sprawie zwrotu podatku od towarów i usług niektórym podmiotom
+         (règlement du ministre des Finances relatif au remboursement de la TVA à certaines entités), du avril (Dz. U. n° 89,
+         position 851), tel que modifié, était rédigé dans les termes suivants :
+      
+« Le droit au remboursement de la TVA payée en amont sur l’achat de biens et de services, [...], bénéficie à la personne physique
+         ou morale ou à l’entité organisationnelle dépourvue de personnalité juridique dont le siège, le domicile ou l’établissement
+         stable n’est pas situé sur le territoire national, [...] qui :
+      
+1)      est un assujetti immatriculé à la TVA au sens de l’article 2, point 11, de [la loi relative à la TVA] ou un assujetti à une
+         taxe d’une nature similaire dans l’État où il a son siège, son domicile ou son établissement stable ;
+      
+2)      n’est pas un assujetti immatriculé à la TVA sur le territoire national ;
+3)      n’effectue pas, sur le territoire national, de vente au sens de l’article 2, point 22, de [la loi relative à la TVA] à l’exception :
+         [...] »
+      
+L’article 3, paragraphe 1, du rozporządzenie Ministra Finansów w sprawie zwrotu podatku od towarów i usług niektórym podmiotom
+         (règlement du ministre des Finances relatif au remboursement de la TVA à certaines entités), du décembre (Dz. U. n° 224,
+         position 1801), tel que modifié, contenait des dispositions analogues à celles énoncées audit article 2, paragraphe 1.
+      
+ Le litige au principal et la question préjudicielle
+La succursale polonaise, immatriculée en Pologne pour le paiement de la TVA, produit pour le compte de la société slovaque,
+         en tant qu’opérations internes non soumises à la TVA, des composants logiciels intégrés dans des programmes antivirus qui
+         sont vendus par cette société en Slovaquie où celle-ci s’acquitte de la TVA dont elle est redevable. En outre, cette succursale
+         effectue occasionnellement des acquisitions intracommunautaires de biens et de services ainsi que des livraisons de biens
+         et de services en Pologne soumises à la TVA, notamment en refacturant ces biens et ces services à ses employés.
+      
+La succursale polonaise a demandé, pour la période allant du mois de décembre de l’année au mois de juin de l’année 2010,
+         la déduction du montant de la TVA facturée en amont sur ses achats de biens et de services effectués sur le territoire polonais
+         pour les besoins de son activité.
+      
+Cette déduction a été refusée par le Naczelnik Małopolskiego Urzędu Skarbowego w Krakowie (directeur du centre des impôts
+         de Petite Pologne de Cracovie, Pologne). Cette décision a été confirmée par l’autorité fiscale au motif que, en l’absence
+         d’opérations taxées sur le territoire polonais, la succursale polonaise ne pouvait pas déduire, au titre de l’article 86,
+         paragraphe 8, point 1, de la loi relative à la TVA, le montant de la TVA acquittée en amont. Cette autorité a considéré qu’il
+         était, à cet égard, indifférent que cette succursale ait effectué occasionnellement des acquisitions intracommunautaires et
+         des livraisons de biens et de services en Pologne, soumises à la TVA.
+      
+Le Wojewódzki Sąd Administracyjny w Krakowie (tribunal administratif de voïvodie de Cracovie, Pologne) a accueilli le recours
+         de la succursale polonaise formé contre ladite décision et a annulé celle-ci. L’autorité fiscale s’est pourvue en cassation
+         contre le jugement de cette juridiction devant la juridiction de renvoi.
+      
+La juridiction de renvoi relève, d’une part, que la société slovaque ne pouvait pas prétendre au remboursement de la TVA acquittée
+         par sa succursale polonaise au titre de l’article 87, paragraphe 5, de la loi relative à la TVA, dès lors que le règlement
+         du ministre des Finances du avril relatif au remboursement de la TVA à certaines entités, tel que modifié, et le nouveau
+         règlement du ministre des Finances du décembre relatif au remboursement de la TVA à certaines entités, tel que modifié,
+         excluaient la possibilité d’un tel remboursement pour les assujettis immatriculés en Pologne pour le paiement de la TVA.
+      
+D’autre part, la juridiction de renvoi indique que la solution du litige au principal dépend du point de savoir si l’article
+         169, sous a), de la directive 2006/revêt un caractère autonome par rapport à l’article de cette directive, en ce qu’il
+         permet la déduction de la TVA acquittée en amont sur le territoire de l’État membre où l’assujetti supporte des dépenses,
+         que celui-ci effectue ou non des opérations taxées dans cet État, ou si, au contraire, le droit à déduction qu’il instaure
+         est accessoire au droit à déduction prévu audit article 168, de telle sorte que cet article 169, sous a), s’applique à un
+         assujetti qui exerce une partie mais non l’ensemble de son activité taxée en dehors du territoire dudit État membre.
+      
+Dans ces conditions, le Naczelny Sąd Administracyjny (Cour suprême administrative) a décidé de surseoir à statuer et de poser
+         à la Cour la question préjudicielle suivante :
+      
+« L’article et l’article 169, sous a), de la directive 2006/112, ne s’opposent-ils pas à ce qu’une succursale immatriculée
+         à la TVA dans un État membre, qui effectue principalement des opérations internes au profit d’une maison mère établie dans
+         un autre État membre, mais aussi, occasionnellement, des opérations taxées dans son État d’immatriculation, puisse déduire
+         la TVA en amont dans l’État dans lequel elle est immatriculée, bien que cette taxe concerne des opérations effectuées par
+         la maison mère dans un autre État membre ? »
+      
+ Sur la question préjudicielle
+Conformément à l’article du règlement de procédure de la Cour, lorsque la réponse à une question posée à titre préjudiciel
+         peut être clairement déduite de la jurisprudence ou lorsque la réponse à cette question ne laisse place à aucun doute raisonnable,
+         la Cour peut à tout moment, sur proposition du juge rapporteur, après avoir entendu l’avocat général, décider de statuer par
+         voie d’ordonnance motivée.
+      
+Il convient de faire application de cette disposition dans la présente affaire.
+      
+Par sa question, la juridiction de renvoi demande, en substance, si l’article et l’article 169, sous a), de la directive
+         2006/doivent être interprétés en ce sens qu’une succursale, immatriculée dans un État membre pour le paiement de la TVA,
+         d’une société établie dans un autre État membre et qui effectue principalement des opérations internes, non soumises à la
+         TVA, au profit de cette société mais aussi, occasionnellement, des opérations taxées dans son État membre d’immatriculation,
+         a le droit de déduire la TVA acquittée en amont dans ce dernier État, grevant les biens et les services utilisés pour les
+         besoins des opérations taxées de ladite société, effectuées dans l’autre État membre où celle-ci est établie.
+      
+Il convient de rappeler que le régime de déductions établi par la directive 2006/vise à soulager entièrement l’entrepreneur
+         du poids de la TVA due ou acquittée dans le cadre de toutes ses activités économiques. Le système commun de TVA cherche à
+         garantir la parfaite neutralité quant à la charge fiscale de toutes les activités économiques, quels que soient leurs buts
+         ou leurs résultats, à condition que lesdites activités soient, en principe, elles-mêmes soumises à la TVA (arrêt du juillet
+         2012, EMS-Bulgaria Transport, C‑284/11, EU:C:2012:458, point et jurisprudence citée).
+      
+Le droit à déduction de la TVA fait partie intégrante du mécanisme de la TVA et ne peut en principe être limité (arrêt du
+         juillet 2012, EMS-Bulgaria Transport, C‑284/11, EU:C:2012:458, point et jurisprudence citée).
+      
+S’agissant de la situation ayant donné lieu au litige au principal, à savoir celle d’un assujetti qui s’acquitte de la TVA
+         dans un État membre mais effectue des opérations taxées principalement dans un autre État membre, l’article 169, sous a),
+         de la directive 2006/112, lu en combinaison avec l’article 170, sous a), de cette directive prévoit que tout assujetti a le
+         droit de déduire ou d’obtenir le remboursement de la TVA dans la mesure où les biens ou les services pour lesquels cette taxe
+         a été acquittée en amont sont utilisés pour les opérations relevant des activités visées à l’article 9, paragraphe 1, second
+         alinéa, de ladite directive, effectuées en dehors de l’État membre dans lequel la TVA est due ou acquittée, qui ouvriraient
+         droit à déduction de la TVA si ces opérations étaient effectuées dans cet État membre (voir, en ce sens, arrêt du juillet
+         2009, EGN, C‑377/08, EU:C:2009:423, point 23).
+      
+Ainsi, dans de telles circonstances, l’article 169, sous a), et l’article de cette même directive instaurent un cadre
+         réglementaire en vertu duquel la distinction entre les cas de figure ouvrant droit à déduction de la TVA et ceux ouvrant droit
+         au remboursement de celle-ci n’est opérée qu’en fonction du lieu d’établissement de l’assujetti (voir, en ce sens, arrêts
+         du juillet 2009, Commission/Italie, C‑244/08, non publié, EU:C:2009:478, point 35, et du septembre 2013, Le Crédit Lyonnais,
+         C‑388/11, EU:C:2013:541, point 32).
+      
+Ce cadre réglementaire instituant une distinction uniquement en fonction du lieu d’établissement de l’assujetti suppose qu’il
+         existe, en ce qui concerne le mode de restitution de la TVA, seulement deux catégories d’assujettis dont la première, à savoir
+         les assujettis établis dans l’État membre dans lequel ils effectuent les achats de biens et de services ou des importations
+         de biens grevés de TVA, a droit à la déduction de la TVA et la seconde, à savoir les assujettis non établis dans cet État
+         membre, au remboursement de cette taxe (voir, en ce sens, arrêts du juillet 2009, Commission/Italie, C‑244/08, non publié,
+         EU:C:2009:478, point 36, ainsi que du octobre 2012, Daimler et Widex, C‑318/et C‑319/11, EU:C:2012:666, point 40).
+      
+À cet égard, l’article 1er de la huitième directive et, par la suite, l’article de la directive 2008/9, auxquels l’article de la directive 2006/renvoie, précisent cette notion d’« assujetti qui [...] n’est pas établi dans l’État membre dans lequel il effectue les achats
+         de biens et de services ou des importations de biens grevés de TVA ». Au sens de ces dispositions, ladite notion présuppose
+         que l’assujetti ne dispose, au cours de la période de référence, d’aucun des éléments de rattachement identifiés auxdits articles
+         1er et (voir, en ce sens, arrêt du juillet 2009, Commission/Italie, C‑244/08, non publié, EU:C:2009:478, points et ainsi que jurisprudence citée).
+      
+En premier lieu, la condition à laquelle est soumis le remboursement de la TVA, énoncée auxdits articles, selon laquelle l’assujetti
+         ne doit pas avoir eu, au cours de cette période, d’établissement stable dans l’État membre de remboursement à partir duquel
+         les opérations sont effectuées, exclut la réalisation effective d’opérations imposables par un établissement stable de cet
+         assujetti dans cet État (voir, en ce sens, arrêt du octobre 2012, Daimler et Widex, C‑318/et C‑319/11, EU:C:2012:666,
+         point 37).
+      
+En second lieu, le remboursement de la TVA est soumis à la condition, figurant aux mêmes articles, selon laquelle, au cours
+         de ladite période, l’assujetti ne doit avoir effectué aucune livraison de biens ni prestation de services réputée avoir eu
+         lieu dans l’État membre de présentation de la demande de remboursement.
+      
+Il en résulte que le remboursement de la TVA acquittée dans un État membre n’est possible que si, notamment, aucune opération
+         imposable n’a été effectuée dans cet État au cours de la période sur laquelle porte la demande de restitution de cette taxe.
+      
+S’agissant de l’affaire au principal, il ressort de la décision de renvoi que, durant la période allant du mois de décembre
+         de l’année au mois de juin de l’année 2010, des opérations taxées ont été effectuées occasionnellement par la succursale
+         polonaise sur le territoire polonais. Dans ces conditions, une telle succursale ne peut obtenir le remboursement de la TVA
+         qu’elle a acquittée en amont dans cet État membre au cours de ladite période.
+      
+Dans une telle situation, ainsi qu’il découle des points et de la présente ordonnance, un tel assujetti bénéficie du
+         droit à la déduction de la TVA.
+      
+En effet, ainsi qu’il est rappelé aux points et de la présente ordonnance, le droit à déduction de la TVA acquittée
+         en amont concrétise le respect du principe de neutralité fiscale garanti par le système commun de TVA. Le droit à déduction
+         de la TVA fait partie intégrante du mécanisme de cette taxe et ne peut en principe être limité.
+      
+À cet égard, l’article de la directive 2006/prévoit que, dans la mesure où les biens et les services sont utilisés
+         pour les besoins de ses opérations taxées, l’assujetti a le droit, dans l’État membre dans lequel il effectue ces opérations,
+         de déduire du montant de la taxe dont il est redevable les montants visés à cet article. Il en découle que cette disposition
+         couvre la situation dans laquelle l’État membre de taxation est celui de réalisation de l’activité économique taxée.
+      
+Toutefois, l’article 169, sous a), de ladite directive dispose que, outre la déduction visée à l’article de cette directive,
+         l’assujetti a le droit de déduire la TVA y visée dans la mesure où les biens et les services sont utilisés pour les besoins
+         des opérations relevant des activités visées à l’article 9, paragraphe 1, second alinéa, de la même directive, effectuées
+         en dehors de l’État membre dans lequel cette taxe est due ou acquittée, qui ouvriraient droit à déduction si ces opérations
+         étaient effectuées dans cet État membre.
+      
+Ainsi que la Commission l’a relevé dans ses observations écrites, il découle de l’emploi du terme « outre » audit article
+         169, sous a), que cette disposition prévoit une déduction de la TVA dans des situations qui ne remplissent pas la condition
+         de territorialité prévue à l’article de la directive 2006/112. Par ailleurs, l’article 9, paragraphe 1, second alinéa,
+         de cette directive, auquel cet article 169, sous a), renvoie, définit la notion d’« activité économique » de manière large,
+         sans en restreindre la portée par un critère de lieu d’exercice de l’activité considérée.
+      
+Par conséquent, l’étendue du droit à déduction visé à l’article 169, sous a), de ladite directive ne saurait être restreinte
+         en en limitant l’exercice aux situations dans lesquelles la TVA acquittée en amont est liée à des opérations taxées dans l’État
+         membre dans lequel l’assujetti demande la déduction de cette TVA.
+      
+Il résulte de l’ensemble des considérations qui précèdent qu’il convient de répondre à la question posée que l’article et l’article 169, sous a), de la directive 2006/doivent être interprétés en ce sens qu’une succursale, immatriculée dans
+         un État membre pour le paiement de la TVA, d’une société établie dans un autre État membre et qui effectue principalement
+         des opérations internes, non soumises à la TVA, au profit de cette société mais aussi, occasionnellement, des opérations taxées
+         dans son État membre d’immatriculation, a le droit de déduire la TVA acquittée en amont dans ce dernier État, grevant les
+         biens et les services utilisés pour les besoins des opérations taxées de ladite société, effectuées dans l’autre État membre
+         où celle-ci est établie.
+      
+ Sur les dépens
+La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi,
+         il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que
+         ceux desdites parties, ne peuvent faire l’objet d’un remboursement.
+      
+Par ces motifs, la Cour (neuvième chambre) dit pour droit :
+L’article et l’article 169, sous a), de la directive 2006/112/CE du Conseil, du novembre 2006, relative au système
+            commun de taxe sur la valeur ajoutée, doivent être interprétés en ce sens qu’une succursale, immatriculée dans un État membre
+            pour le paiement de la taxe sur la valeur ajoutée, d’une société établie dans un autre État membre et qui effectue principalement
+            des opérations internes, non soumises à cette taxe, au profit de cette société mais aussi, occasionnellement, des opérations
+            taxées dans son État membre d’immatriculation, a le droit de déduire la taxe sur la valeur ajoutée acquittée en amont dans
+            ce dernier État, grevant les biens et les services utilisés pour les besoins des opérations taxées de ladite société, effectuées
+            dans l’autre État membre où celle-ci est établie.
+Signatures
+* Langue de procédure : le polonais.
+      
+Top  
+ 

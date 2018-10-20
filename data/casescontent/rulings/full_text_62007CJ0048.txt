@@ -1,0 +1,398 @@
+
+Case C-48/État belge – Service public fédéral Finances
+v
+Les Vergers du Vieux Tauves SA
+(Reference for a preliminary ruling from the Cour d’appel de Liège)
+(Corporation taxes – Directive 90/435/EEC – Status of parent company – Capital holding – Holding of shares in usufruct)
+Summary of the Judgment
+1.        Preliminary rulings – Jurisdiction of the Court – Limits – Interpretation sought owing to the applicability, to purely internal
+            situations, of provisions of a directive transposed into national law
+(Art. EC)
+2.        Approximation of laws – Common system of taxation applicable in the case of parent companies and subsidiaries of different
+            Member States – Directive 90/– Scope – Parent company – Definition 
+(EC Treaty; Council Directive 90/435, Art. 3)
+1.        The Court’s jurisdiction extends, in principle, to questions concerning Community provisions in situations where the facts
+         of the main proceedings are outside the scope of Community law but where those provisions have been rendered applicable by
+         domestic law.
+      
+In that respect, even if, in the context of the preliminary ruling proceedings, the referring court does not explicitly state
+         whether and to what extent the judgment of the Court would bind it with regard to the outcome of the main proceedings, the
+         fact that that court has referred a question to the Court of Justice for a preliminary ruling and that it establishes, in
+         that question, a connection between the national legislation at issue and Community legislation leads to the conclusion that
+         that judgment will bind the national court. Since the explanations supplied in that respect to the Court do not contain objective
+         information demonstrating clearly that that would not be the case, the argument that the interpretation of Community law requested
+         is only one of the factors to be taken into consideration for the purpose of construing domestic law and that, therefore,
+         the judgment of the Court would not bind the referring court, cannot bring into question the Court’s jurisdiction.
+      
+Furthermore, the mere fact that the interpretation to be given by the referring court to a provision of national law transposing
+         a directive does not derive exclusively from the judgment that the Court will be required to deliver does not preclude its
+         jurisdiction to rule on the question referred. In the context of the allocation of judicial functions between national courts
+         and the Court of Justice under Article EC, the latter cannot, in its reply to the national court, take account of the
+         general scheme of the provisions of domestic law which, while referring to Community law, define the extent of that reference.
+         Therefore, consideration of the limits which the national legislature may have placed on the application of Community law
+         to purely internal situations is a matter for domestic law and consequently falls within the exclusive jurisdiction of the
+         courts of the Member State. On the other hand, with regard to Community law, the referring court may not diverge, within the
+         limits of the reference of domestic law back to Community law, from the interpretation provided by the Court. 
+      
+(see paras 21, 23, 25-27)
+2.        The concept of a holding in the capital of a company of another Member State within the meaning of Article of Directive
+         90/on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States
+         does not include the holding of shares in usufruct. Article 3(1)(a) of Directive 90/requires, for the status of parent
+         company to be attributed to a company, that it has a holding in the capital of another company. According to Article 3(1)(b)
+         of that directive, ‘subsidiary’ is to mean the company the capital of which includes that holding. From this it follows that
+         the concept of a ‘holding in the capital’ within the meaning of Article refers back to the legal relationship between the
+         parent company and the subsidiary. It thus follows from the wording of Article that the latter does not provide for the
+         situation in which the parent company transfers to a third party, in this case to a usufructuary, a legal relationship with
+         the subsidiary under which that third party might also be regarded as a parent company.
+      
+However, in compliance with the freedoms of movement guaranteed by the Treaty, applicable to cross-border situations, when
+         a Member State, in order to avoid double taxation of dividends received, exempts from tax both the dividends which a resident
+         company receives from another resident company in which it holds shares with full title and those which a resident company
+         receives from another resident company in which it holds shares in usufruct, that Member State must apply, for the purpose
+         of exempting dividends received, the same treatment to dividends received from a company established in another Member State
+         by a resident company holding shares with full title as that which it applies to such dividends received by a resident company
+         which holds shares in usufruct. 
+      
+(see paras 38, 49, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+December (*)
+      
+(Corporation taxes – Directive 90/435/EEC – Status of parent company – Capital holding – Holding of shares in usufruct)
+In Case C‑48/07,
+REFERENCE for a preliminary ruling under Article EC by the Cour d’appel de Liège (Belgium), made by decision of January
+         2007, received at the Court on February 2007, in the proceedings
+      
+État belge – Service public fédéral Finances
+v
+Les Vergers du Vieux Tauves SA,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Chamber, T. von Danwitz (Rapporteur), E. Juhász, G. Arestis and J. Malenovský, Judges,
+Advocate General: E. Sharpston,
+Registrar: K. Sztranc-Sławiczek, Administrator,
+having regard to the written procedure and further to the hearing on February 2008,
+after considering the observations submitted on behalf of:
+–        Les Vergers du Vieux Tauves SA, by L. Herve and O. Robijns, avocats,
+–        the Belgian Government, by L. Van den Broeck, acting as Agent, assisted by G. Vandersanden, avocat,
+–        the German Government, by M. Lumma and C. Blaschke, acting as Agents,
+–        the Greek Government, by K. Georgiadis, I. Pouli, Z. Chatzipavlou and S. Alexandridou, acting as Agents,
+–        the Spanish Government, by M. Muñoz Pérez, acting as Agent,
+–        the French Government, by G. de Bergues and J.-Ch. Gracia, acting as Agents,
+–        the Italian Government, by I.M. Braguglia, acting as Agent, assisted by P. Gentili, avvocato dello Stato,
+–        the Netherlands Government, by H.G. Sevenster and D.J.M. de Grave, acting as Agents,
+–        the United Kingdom Government, by V. Jackson, acting as Agent, assisted by K. Bacon, Barrister,
+–        the Commission of the European Communities, by R. Lyal and J.‑P. Keppenne, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2008,
+gives the following
+Judgment
+The reference for a preliminary ruling concerns the interpretation of Article of Council Directive 90/435/EEC of July
+         on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States
+         (OJ L 225, p. 6).
+      
+The reference has been made in the context of proceedings between Les Vergers du Vieux Tauves SA (‘VVT’) and État belge –
+         Service public fédéral Finances (Belgian State – Public Federal Finance Authority) with regard to the tax treatment by the
+         authorities of the Kingdom of Belgium of dividends received by VVT from NARDA SA (‘NARDA’).
+      
+ Legal context
+ Directive 90/The third recital in the preamble to Directive 90/states:
+      
+‘… the existing tax provisions which govern the relations between parent companies and subsidiaries of different Member States
+         vary appreciably from one Member State to another and are generally less advantageous than those applicable to parent companies
+         and subsidiaries of the same Member State; … cooperation between companies of different Member States is thereby disadvantaged
+         in comparison with cooperation between companies of the same Member State; … it is necessary to eliminate this disadvantage
+         by the introduction of a common system in order to facilitate the grouping together of companies’.
+      
+Articles and of that directive provide: 
+      
+‘Article 1.      For the purposes of applying this Directive:
+(a)      the status of parent company shall be attributed at least to any company of a Member State which fulfils the conditions set
+         out in Article and has a minimum holding of 25% in the capital of a company of another Member State fulfilling the same
+         conditions;
+      
+(b)      “subsidiary” shall mean that company the capital of which includes the holding referred to in (a).
+2.      By way of derogation from paragraph 1, Member States shall have the option of:
+–        replacing, by means of bilateral agreement, the criterion of a holding in the capital by that of a holding of voting rights,
+–        not applying this Directive to companies of that Member State which do not maintain for an uninterrupted period of at least
+         two years holdings qualifying them as parent companies or to those of their companies in which a company of another Member
+         State does not maintain such a holding for an uninterrupted period of at least two years.
+      
+Article 1.      Where a parent company, by virtue of its association with its subsidiary, receives distributed profits, the State of the parent
+         company shall, except when the latter is liquidated, either:
+      
+–        refrain from taxing such profits, or
+… 
+2.      However, each Member State shall retain the option of providing that any charges relating to the holding and any losses resulting
+         from the distribution of the profits of the subsidiary may not be deducted from the taxable profits of the parent company.
+         Where the management costs relating to the holding in such a case are fixed as a flat rate, the fixed amount may not exceed
+         5% of the profits distributed by the subsidiary.
+      
+…’
+ Belgian law
+Article of the Belgian Civil Code provides:
+      
+‘Usufruct is the right to enjoy things owned by another, as the owner himself, but conditional on preserving the substance.’
+On October 1991, a Law was adopted which transposed into Belgian law the Directive of the Council of the European Communities
+         of July on the common system of taxation applicable in the case of parent companies and subsidiaries (Moniteur belge of November 1991, p. 25619).
+      
+That Law abolished the condition, which featured in the version then in force of the Income Tax Code of February (Moniteurbelge of April 1964, p. 3810), under which, in order for a company receiving dividends to be able to deduct those dividends
+         from its taxable profits, the holding in the company declaring those dividends had to be held with full title.
+      
+Article of the Income Tax Code, as enacted by Royal Decree of April (Moniteur belge of July 1992, p. 17120), in its version applicable to the facts of the main proceedings (‘the ITC 1992’), is worded as
+         follows:
+      
+‘1.      From the profits from the tax period are also to be deducted, to the extent that they are included:
+Dividends, with the exception of income which is received on the transfer to a company of its own listed or unlisted shares
+         or during the complete or partial distribution of the assets of a company;
+      
+… 
+2.      Income referred to in paragraphs 1(1) and … is deductible only to the extent that, at the date of declaration or payment,
+         the recipient company has a holding in the capital of the company making the distribution of not less than 5% or of a value
+         of at least BFR million.
+      
+… .’
+ The main proceedings and the question referred for a preliminary ruling
+VVT, a company established in Belgium, purchased during 1999, for a period of ten years, usufructuary rights over shares in
+         NARDA. The latter also has its registered office in Belgium, as is apparent from the written observations of VVT and the Belgian
+         Government submitted in the course of the proceedings before the Court. The legal ownership of those shares was acquired by
+         BEPA SA (‘BEPA’).
+      
+The Belgian Government states, with reference to Article of the Belgian Civil Code, that rights of usufruct confer on
+         the holder the right to enjoy things owned by another. It points out that the usufructuary has a right only to distributed
+         profits, the profits placed in reserve reverting to the legal owner.
+      
+For the fiscal years to 2002, VVT, which, in its corporation tax declaration, had deducted the dividends received from
+         NARDA as definitively taxed income, had that deduction refused by the authorities responsible for direct taxation, which demanded
+         payment of the tax corresponding to those dividends.
+      
+VVT lodged an objection to the additional charges in question on the ground that the contested dividends were to be treated
+         as definitively taxed income, even though VVT had only a right of usufruct over the shares in question at the time when those
+         dividends were distributed.
+      
+That objection was dismissed, the authorities responsible for direct taxation contending that the fact of holding rights of
+         usufruct over the shares in question did not create entitlement to the deduction provided for under Article of the CTI
+         1992, inasmuch as this could be granted only to the holder of the shares with full title. VVT challenged that decision before
+         the Tribunal de première instance de Namur (Court of First Instance, Namur), which, by decision delivered on November 2005,
+         upheld its claims.
+      
+The Cour d’appel de Liège (Court of Appeal, Liège), before which an appeal was brought by État belge – Service public fédéral
+         Finances against that decision, decided to stay the proceedings and to refer the following question to the Court for a preliminary
+         ruling: 
+      
+‘Is the Law of December 1992, which amended the wording of Article of [the ITC] by referring to Directive [90/435]
+         and required that the beneficial owner of dividends have a holding of capital in the company which distributed such dividends,
+         inasmuch as that Law does not explicitly specify that the holding must be as full owner and therefore implicitly permits the
+         interpretation made by the respondent, that the mere holding of a right of usufruct of shareholdings in the capital of the
+         company carries the right to tax exemption on such dividends, compatible with the provisions of that directive concerning
+         holdings in capital, and in particular with Articles 3, and 5?’
+      
+ The Court’s jurisdiction and the admissibility of the question referred for a preliminary ruling
+Whereas VVT, the Greek Government and the Commission of the European Communities contend that the reference for a preliminary
+         ruling is admissible, the Italian Government considers it to be inadmissible and the German, French, Netherlands and United
+         Kingdom Governments raise doubts as to its admissibility. The Belgian Government, having raised no formal objections to the
+         Court’s jurisdiction in its written observations, did so during the hearing.
+      
+As a preliminary point, it must be observed that, according to established case-law, in the context of the cooperation between
+         the Court of Justice and the national courts provided for by Article EC, it is solely for the national court before which
+         a dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the
+         light of the particular circumstances of the case pending before it, both the need for a preliminary ruling in order to enable
+         it to deliver judgment and the relevance of the questions which it submits to the Court (see, to that effect, inter alia,
+         Case C‑415/Bosman [1995] ECR I‑4921, paragraph 59; Case C‑28/Leur-Bloem [1997] ECR I‑4161, paragraph 24; Case C‑306/BIAO [2003] ECR I‑1, paragraph 88; and Case C‑217/Confederación Española de Empresarios de Estaciones de Servicio [2006] ECR I‑11987, paragraph 16).
+      
+Where questions submitted by national courts concern the interpretation of a provision of Community law, the Court is thus
+         bound, in principle, to give a ruling unless it is obvious that the request for a preliminary ruling is in reality designed
+         to induce the Court to give a ruling by means of a fictitious dispute, or to deliver advisory opinions on general or hypothetical
+         questions, or that the interpretation of Community law requested bears no relation to the actual facts of the main action
+         or its purpose, or that the Court does not have before it the factual or legal material necessary to give a useful answer
+         to the questions submitted to it (see BIAO, paragraph 89, and Confederación Española de Empresarios de Estaciones de Servicio, paragraph 17).
+      
+That is not, however, the situation in the present case.
+      
+From the outset, it must be noted that the present reference for a preliminary ruling is not liable to be rendered inadmissible
+         by reason of the paucity of information provided in the decision making the reference. That decision, notwithstanding its
+         lack of detail with regard to the factual and national-law contexts, allows the scope of the question referred to be established,
+         as is demonstrated by the content of the observations presented by the interested parties, other than the main parties, which
+         have presented such observations to the Court. Furthermore, the written observations submitted by VVT and the Belgian Government
+         have provided the Court with sufficient information to enable it to interpret the rules of Community law in relation to the
+         situation which is the subject of the main proceedings and to provide a useful answer to the question referred.
+      
+Likewise, the objection of inadmissibility raised by the Italian Government on the ground that the referring court has not
+         demonstrated, at that stage of the proceedings, the need to obtain an answer from the Court to the question referred so as
+         to enable it to give judgment in the main proceedings must be rejected. In accordance with the second paragraph of Article
+         EC, it is for the national court or tribunal to decide at what stage in the proceedings it is appropriate for that court
+         or tribunal to refer a question to the Court of Justice for a preliminary ruling (see Joined Cases 36/and 71/Irish Creamery Milk Suppliers Association and Others [1981] ECR 735, paragraph 5; Case C‑236/JämO [2000] ECR I‑2189, paragraph 30; and Case C‑303/Coleman [2008] ECR I‑0000, paragraph 29).
+      
+Finally, in respect of the objections raised by the Belgian Government, it should first of all be recalled that, according
+         to established case-law, the Court’s jurisdiction extends, in principle, to questions concerning Community provisions in situations
+         where the facts of the main proceedings are outside the scope of Community law but where those provisions have been rendered
+         applicable by domestic law (see, in particular, Leur-Bloem, paragraph 27; Case C‑130/Giloy [1997] ECR I‑4291, paragraph 23; Case C‑247/Schoonbroodt [1998] ECR I‑8095, paragraph 14; and Case C‑170/Feron [2005] ECR I‑2299, paragraph 11).
+      
+First, the Belgian Government expressed, in the course of the hearing, doubts as to whether Article 202(2) of the ITC is intended to transpose the relevant provision of Directive 90/and whether Article 202(2) refers, for domestic situations,
+         to the solutions provided for by that directive. In that respect, it is appropriate to recall that the Belgian Government
+         submitted in its written observations that the Belgian legislature had decided to extend the transposition of that directive
+         to cover relations between Belgian parent companies and Belgian subsidiaries in order to avoid discrimination as between Belgian
+         companies with regard to the tax treatment of profits paid to a parent company by a subsidiary on the basis of the latter’s
+         nationality. Furthermore, the Law of October transposing into Belgian law the Directive of the Council of the European
+         Communities of July on the common system of taxation applicable in the case of parent companies and subsidiaries is
+         expressly intended, as is clear from its title, to transpose that directive.
+      
+Secondly, the Belgian Government’s argument that, as the interpretation of Community law requested is only one of the factors
+         to be taken into consideration for the purpose of construing domestic law, the judgment of the Court would not bind the referring
+         court, cannot bring into question the Court’s jurisdiction.
+      
+In this respect, the facts of the case in the main proceedings here differ from those of Case C‑346/KleinwortBenson [1995] ECR I‑615, in which the Court declared that it lacked jurisdiction to rule on a question referred for a preliminary
+         ruling as its judgment would not bind the referring court. The national legislation at issue in Kleinwort Benson was limited to taking the Convention of September on jurisdiction and the enforcement of judgments in civil and commercial
+         matters (OJ L 304, p. 77) as a model and only partially adopting the wording.
+      
+It is true that, in the context of the present proceedings, the referring court does not explicitly state whether and to what
+         extent the judgment of the Court would bind it with regard to the outcome of the main proceedings. However, the fact that
+         that court has referred a question to the Court of Justice for a preliminary ruling and that it establishes, in that question,
+         a connection between the national legislation and Directive 90/leads to the conclusion that that judgment will bind the
+         national court. The explanations supplied in that respect by the Belgian Government during the hearing do not contain objective
+         information demonstrating clearly that such would not be the case.
+      
+Third, as is clear from paragraphs and of Leur-Bloem, the mere fact that the interpretation to be given to Article 202(2) of the ITC does not derive exclusively from the
+         judgment that the Court will be required to deliver does not preclude its jurisdiction to rule on the question referred.
+      
+In the context of the allocation of judicial functions between national courts and the Court of Justice under Article EC, the latter cannot, in its reply to the national court, take account of the general scheme of the provisions of domestic
+         law which, while referring to Community law, define the extent of that reference (Joined Cases C‑297/and C‑197/Dzodzi [1990] ECR I‑3763, paragraph 42). Therefore, consideration of the limits which the national legislature may have placed on
+         the application of Community law to purely internal situations is a matter for domestic law and consequently falls within
+         the exclusive jurisdiction of the courts of the Member State (Dzodzi, paragraph 42; Case C‑73/Fournier [1992] ECR I‑5621, paragraph 23; and Leur-Bloem, paragraph 33). On the other hand, with regard to Community law, the referring court may not diverge, within the limits of
+         the reference of domestic law back to Community law, from the interpretation provided by the Court.
+      
+The arguments put forward by the Belgian Government for the purpose of challenging the Court’s jurisdiction must therefore
+         be rejected.
+      
+It follows from all of the foregoing that an answer must be given to the question referred for a preliminary ruling.
+      
+ The question referred for a preliminary ruling
+By its question, the referring court asks, in essence, whether the concept of a holding in the capital of a company of another
+         Member State, within the meaning of Article of Directive 90/435, includes the holding of shares in usufruct.
+      
+In order to answer that question, it is appropriate, first, to compare the legal status of the owner of shares in a company
+         with that of a holder of a right of usufruct in respect of such shares.
+      
+It is apparent from the observations of the Belgian Government that, in accordance with Article of the Belgian Civil Code,
+         rights of usufruct confer on the holder the right to enjoy things owned by another. It follows that usufruct constitutes,
+         to that extent, a legal relationship between the usufructuary and the owner whose property is affected by the right of usufruct.
+      
+Thus, in the main proceedings, as VVT is not the owner of the shares in NARDA, its legal relationship which NARDA is not derived
+         from any status as a shareholder, but is inferred from the right of usufruct held by VVT. That right of usufruct enables VVT
+         to exercise certain rights normally belonging to BEPA in its capacity as owner of those shares.
+      
+By contrast, the legal relationship which BEPA has with NARDA is that of a shareholder, due solely to the fact that BEPA holds,
+         as legal owner, shares in the capital of NARDA. That holding owned by BEPA clearly fulfils the criterion of a ‘holding in
+         the capital’ within the terms of Article of Directive 90/and BEPA, on condition that it also fulfils the other criteria
+         set by that directive, must be regarded as a ‘parent company’ within the meaning of that Article 3.
+      
+It is thus necessary to examine whether the usufructuary of the shares of a company, although a different company to that
+         which owns those shares, can also be regarded as being a parent company, that is to say, as having a holding in the capital
+         of a company within the meaning of Article of Directive 90/435.
+      
+As is apparent in particular from the third recital in the preamble thereto, Directive 90/seeks to eliminate, by the introduction
+         of a common system, any penalisation of cooperation between companies of different Member States as compared with cooperation
+         between companies of the same Member State and to facilitate thereby the grouping together of companies at the Community level
+         (Case C‑294/Athinaiki Zithopiia [2001] ECR I‑6797, paragraph 25; Case C‑446/Test Claimants in the FII GroupLitigation [2006] ECR I‑11753, paragraph 103; Case C‑27/BanqueFédérative du Crédit Mutuel [2008] ECR I‑0000, paragraph 23; and, to that effect, Case C‑284/Burda [2008] ECR I‑0000, paragraph 51).
+      
+While Directive 90/seeks to eliminate cases of double taxation of profits distributed by subsidiaries to their parent
+         companies, it is intended, in a general sense, to eliminate disadvantages for cross-border cooperation between companies which
+         are attributable to the fact that, as is also apparent from the third recital in the preamble thereto, the tax provisions
+         governing relations between parent companies and subsidiaries of different Member States are, in general, less advantageous
+         than those applicable to relations between parent companies and subsidiaries of the same Member State.
+      
+Article 3(1)(a) of Directive 90/requires, for the status of parent company to be attributed to a company, that it has
+         a holding in the capital of another company. According to Article 3(1)(b) of that directive, ‘subsidiary’ is to mean the company
+         the capital of which includes that holding. From this it follows that the concept of a ‘holding in the capital’ within the
+         meaning of Article refers back to the legal relationship between the parent company and the subsidiary. It thus follows
+         from the wording of Article that the latter does not provide for the situation in which the parent company transfers to
+         a third party, in this case to a usufructuary, a legal relationship with the subsidiary under which that third party might
+         also be regarded as a parent company.
+      
+It therefore follows from the wording of Article of Directive 90/that the concept of a holding in the capital of a company,
+         within the terms of that provision, does not cover the right of usufruct held by a company over shares in the capital of another
+         company.
+      
+That interpretation is confirmed by the purpose of the provisions of Directive 90/435.
+      
+First, Article 4(1) of Directive 90/covers the situation in which ‘a parent company, by virtue of its association with
+         its subsidiary, receives distributed profits’. However, the usufructuary of the shares of a company receives dividends distributed
+         by the latter by virtue of its right of usufruct. Its legal position vis-à-vis the subsidiary is not such as to endow it with
+         the status of shareholder, as that position results solely from the right of usufruct that has been transferred to it by the
+         owner of the shares in the capital of the subsidiary, as has been pointed out by the Advocate General at point of her Opinion.
+      
+Second, under Article 4(2) of Directive 90/435, the Member States retain the option of providing that any losses resulting
+         from the distribution of the profits of the subsidiary may not be deducted from the taxable profits of the parent company.
+         That provision enables Member States to adopt measures to prevent a parent company from enjoying a double tax advantage. Indeed,
+         that company could, first, by virtue of the first indent of Article 4(1) of that directive, receive profits without being
+         taxed and, second, obtain a tax reduction by means of the deduction in respect of charges relating to losses for the holding
+         resulting from the distribution of such profits.
+      
+However, as is apparent from the written observations of the Belgian Government, the usufructuary has only a right to distributed
+         profits, whereas the profits placed in reserve revert to the legal owner. Therefore, in the case of a distribution of profits,
+         neither the usufructuary nor the legal owner is able to enjoy a double taxation advantage, as the legal owner does not receive
+         profits and the usufructuary has a right only to distributed profits. Where the distribution of profits results in a loss
+         for the holding, the option available to all Member States of providing that that loss may not be deducted from the taxable
+         profit of the parent company can be applied only in the case where the same company receives the distributed profits and incurs
+         the loss to its holding as a result of that distribution. This confirms that the Community legislature regarded the ‘parent
+         company’, within the meaning of Directive 90/435, as being one single company.
+      
+Accordingly, in the light of the clear and unambiguous wording of the provisions of Directive 90/435, as confirmed by the
+         purpose thereof, it is not possible to interpret the concept of a holding in the capital of a company of another Member State,
+         set out in Article of that directive, as covering the holding, in usufruct, of shares in the capital of a company of another
+         Member State and as thereby increasing the obligations of the relevant Member States (see, by way of analogy, Case C‑220/BCE v Germany [2005] ECR I‑10595, paragraph 31, and Case C‑263/Carboni e derivati [2008] ECR I‑1077, paragraph 48).
+      
+Even though the main proceedings concern a purely internal situation, it is appropriate to observe that Community law requires,
+         with respect to cross-border situations, that a Member State which, with a view to avoiding the double taxation of dividends,
+         exempts from tax both dividends distributed to a company holding shares in the distributing company with full title and those
+         distributed to a company holding such shares in usufruct, should apply the same tax treatment to dividends received by a resident
+         company from another resident company as it applies to those received by a resident company from a company established in
+         another Member State.
+      
+Although, for holdings to which Directive 90/does not apply, it is for the Member States to determine whether, and to
+         what extent, double taxation of distributed profits is to be avoided and, for that purpose, to establish, either unilaterally
+         or through conventions concluded with other Member States, procedures intended to prevent or mitigate such double taxation,
+         that fact does not, of itself, entitle them to impose measures that contravene the freedoms of movement guaranteed by the
+         EC Treaty (see, to that effect, Case C‑374/Test Claimants in Class IV of the ACT GroupLitigation [2006] ECR I‑11673, paragraph 54, and Case C‑379/Amurta [2007] ECR I‑9569, paragraph 24).
+      
+It is thus clear from the Court’s case-law that, whatever the mechanism adopted for preventing or mitigating the imposition
+         of a series of charges to tax or economic double taxation, the freedoms of movement guaranteed by the Treaty preclude a Member
+         State from treating foreign-sourced dividends less favourably than nationally-sourced dividends, unless such a difference
+         in treatment concerns situations which are not objectively comparable or is justified by overriding reasons in the general
+         interest (Test Claimants in the FII GroupLitigation, paragraph and the case-law cited).
+      
+Furthermore, the interpretation whereby a Member State which, with a view to exempting received dividends, treats in the same
+         way a recipient company holding shares in usufruct and one holding shares as full owner, must extend that same tax treatment
+         to dividends received from a company established in another Member State, complies with the objectives of Directive 90/to eliminate the penalisation of companies grouped together at Community level and to avoid double taxation of dividends distributed
+         within a cross-border group.
+      
+In the light of all of the foregoing, the answer to the question referred must be that the concept of a holding in the capital
+         of a company of another Member State, within the meaning of Article of Directive 90/435, does not include the holding of
+         shares in usufruct. However, in compliance with the freedoms of movement guaranteed by the EC Treaty, applicable to cross-border
+         situations, when a Member State, in order to avoid double taxation of received dividends, exempts from tax both the dividends
+         which a resident company receives from another resident company in which it holds shares with full title and those which a
+         resident company receives from another resident company in which it holds shares in usufruct, that Member State must apply,
+         for the purpose of exempting received dividends, the same treatment to dividends received from a company established in another
+         Member State by a resident company holding shares with full title as that which it applies to such dividends received by a
+         resident company which holds shares in usufruct.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+The concept of a holding in the capital of a company of another Member State, within the meaning of Article of Council Directive
+            90/435/EEC of July on the common system of taxation applicable in the case of parent companies and subsidiaries of
+            different Member States, does not include the holding of shares in usufruct.
+However, in compliance with the freedoms of movement guaranteed by the EC Treaty, applicable to cross-border situations, when
+            a Member State, in order to avoid double taxation of received dividends, exempts from tax both the dividends which a resident
+            company receives from another resident company in which it holds shares with full title and those which a resident company
+            receives from another resident company in which it holds shares in usufruct, that Member State must apply, for the purpose
+            of exempting received dividends, the same treatment to dividends received from a company established in another Member State
+            by a resident company holding shares with full title as that which it applies to such dividends received by a resident company
+            which holds shares in usufruct.
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

@@ -1,0 +1,192 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+July (
+*)
+‛Reference for a preliminary ruling — Waste electrical and electronic equipment — Directive 2002/96/EC — Articles 2(1) and 3(a) and Annexes I A and I B — Directive 2012/19/EU — Articles 2(1)(a), 2(3)(b) and 3(1)(a) and (b), and Annexes I and II — Concepts of ‘electrical and electronic equipment’ and ‘electrical and electronic tools’ — Garage-door operating devices’
+In Case C‑369/14,
+REQUEST for a preliminary ruling under Article TFEU from the Landgericht Köln (Germany), made by decision of July 2014, received at the Court on July 2014, in the proceedings
+Sommer Antriebs- und Funktechnik GmbH
+v
+Rademacher Geräte-Elektronik GmbH & Co. KG,
+THE COURT (Third Chamber),
+composed of M. Ilešič (Rapporteur), President of the Chamber, A. Ó Caoimh, C. Toader, E. Jarašiūnas and C.G. Fernlund, Judges,
+Advocate General: M.P. Mengozzi,
+Registrar: M.A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Sommer Antriebs- und Funktechnik GmbH, by J. Stock, Rechtsanwältin,
+—
+Rademacher Geräte-Elektronik GmbH & Co. KG, by S. Pietzcker, Rechtsanwalt,
+—
+the German Government, by T. Henze and A. Lippstreu, acting as Agents,
+—
+the European Commission, by G. Braga da Cruz, C. Hermes and D. Loma-Osorio Lerena, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation, first, of Articles 2(1) and 3(a) of Directive 2002/96/EC of the European Parliament and of the Council of January on waste electrical and electronic equipment (WEEE) (OJ L 37, p. 24) and Annexes I A and I B thereto and, secondly, of Article 2(1)(a) and 2(3)(b) and Article 3(1)(a) and (b) of Directive 2012/19/EU of the European Parliament and of the Council of July on waste electrical and electronic equipment (WEEE) (OJ L 197, p. 38) and Annexes I and II thereto.
+The request has been made in proceedings between Sommer Antriebs- und Funktechnik GmbH (‘Sommer’) and Rademacher Geräte-Elektronik GmbH & Co. KG (‘Rademacher’) regarding Rademacher’s failure to register with the Stiftung elektro-altgeräte register (German national register for waste electrical equipment, ‘the Stiftung ear’) as a producer of electrical and electronic equipment (‘EEE’).
+Legal context
+EU law
+Directive 2002/Pursuant to Article of Directive 2012/19, Directive 2002/was repealed as of February 2014.
+Recitals 10, and in the preamble to Directive 2002/stated as follows:
+‘(10)
+This Directive should cover all electrical and electronic equipment used by consumers and electrical and electronic equipment intended for professional use. ...
+…
+(15)
+Separate collection is the precondition to ensure specific treatment and recycling of [waste electrical and electronic equipment (“WEEE”)] and is necessary to achieve the chosen level of protection of human health and the environment in the Community. ...
+(16)
+In order to attain the chosen level of protection and harmonised environmental objectives of the Community, Member States should adopt appropriate measures to minimise the disposal of WEEE as unsorted municipal waste and to achieve a high level of separate collection of WEEE. ...’
+Article of that directive, entitled ‘Objectives’, was worded as follows:
+‘The purpose of this Directive is, as a first priority, the prevention of [WEEE], and in addition, the reuse, recycling and other forms of recovery of such wastes so as to reduce the disposal of waste. It also seeks to improve the environmental performance of all operators involved in the life cycle of electrical and electronic equipment, e.g. producers, distributors and consumers and in particular those operators directly involved in the treatment of [WEEE].’
+Article 2(1) of that directive, entitled ‘Scope’, provided as follows:
+‘This Directive shall apply to [EEE] falling under the categories set out in Annex I A provided that the equipment concerned is not part of another type of equipment that does not fall within the scope of this Directive. Annex I B contains a list of products which fall under the categories set out in Annex I A.’
+Article of that directive, entitled ‘Definitions’, provided as follows:
+‘For the purposes of this Directive, the following definitions shall apply:
+(a)
+[“EEE”] means equipment which is dependent on electric currents or electromagnetic fields in order to work properly and equipment for the generation, transfer and measurement of such currents and fields falling under the categories set out in Annex I A and designed for use with a voltage rating not exceeding Volt for alternating current and Volt for direct current;
+...’
+Annex I A to Directive 2002/listed the categories of EEE covered by that directive. Point of that annex referred to ‘[e]lectrical and electronic tools (with the exception of large-scale stationary industrial tools)’.
+Annex I B to that directive, entitled ‘[l]ist of products which shall be taken into account for the purpose of this Directive and which fall under the categories of Annex I A’, stated, in point thereof, as follows:
+‘Electrical and electronic tools (with the exception of large-scale stationary industrial tools)
+Drills
+Saws
+Sewing machines
+Equipment for turning, milling, sanding, grinding, sawing, cutting, shearing, drilling, making holes, punching, folding, bending or similar processing of wood, metal and other materials
+Tools for riveting, nailing or screwing or removing rivets, nails, screws or similar uses
+Tools for welding, soldering or similar use
+Equipment for spraying, spreading, dispersing or other treatment of liquid or gaseous substances by other means
+Tools for mowing or other gardening activities’.
+Directive 2012/Recitals 6, 9, and in the preamble to Directive 2012/state as follows:
+‘(6)
+The purpose of this Directive is to contribute to sustainable production and consumption by, as a first priority, the prevention of WEEE and, in addition, by the re-use, recycling and other forms of recovery of such wastes so as to reduce the disposal of waste and to contribute to the efficient use of resources and the retrieval of valuable secondary raw materials. It also seeks to improve the environmental performance of all operators involved in the life cycle of EEE, e.g. producers, distributors and consumers and, in particular, those operators directly involved in the collection and treatment of WEEE. In particular, different national applications of the “producer responsibility” principle may lead to substantial disparities in the financial burden on economic operators. Having different national policies on the management of WEEE hampers the effectiveness of recycling policies. For that reason, the essential criteria should be laid down at the level of the Union and minimum standards for the treatment of WEEE should be developed.
+…
+(9)
+This Directive should cover all EEE used by consumers and EEE intended for professional use. … The objectives of this Directive can be achieved without including large-scale fixed installations such as oil platforms, airport luggage transport systems or elevators within its scope. However, any equipment which is not specifically designed and installed as part of those installations, and which can fulfil its function even if it is not part of those installations, should be included in the scope of this Directive. This refers for instance to equipment such as lighting equipment or photovoltaic panels.
+…
+(14)
+Separate collection is a precondition for ensuring specific treatment and recycling of WEEE and is necessary to achieve the chosen level of protection of human health and the environment in the Union. Consumers have to actively contribute to the success of such collection and should be encouraged to return WEEE. …
+(15)
+In order to attain the chosen level of protection and the harmonised environmental objectives of the Union, Member States should adopt appropriate measures to minimise the disposal of WEEE as unsorted municipal waste and to achieve a high level of separate collection of WEEE. ...’
+Article of that directive, entitled ‘Subject matter’, provides as follows:
+‘This Directive lays down measures to protect the environment and human health by preventing or reducing the adverse impacts of the generation and management of [WEEE] and by reducing overall impacts of resource use and improving the efficiency of such use in accordance with Articles and of [Directive 2008/98/EC of the European Parliament and of the Council of November on waste and repealing certain Directives (OJ L 312, p. 3)], thereby contributing to sustainable development.’
+Article of the directive, entitled ‘Scope’, provides as follows:
+‘1.   This Directive shall apply to [EEE] as follows:
+(a)
+from August to August (transitional period), subject to paragraph 3, to EEE falling within the categories set out in Annex I. Annex II contains an indicative list of EEE which falls within the categories set out in Annex I;
+…
+3.   This Directive shall not apply to any of the following EEE:
+…
+(b)
+equipment which is specifically designed and installed as part of another type of equipment that is excluded from or does not fall within the scope of this Directive, which can fulfil its function only if it is part of that equipment;
+…’
+Article 3(1) of that directive, entitled ‘Definitions’, provides as follows:
+‘For the purposes of this Directive, the following definitions shall apply:
+(a)
+[“EEE”] means equipment which is dependent on electric currents or electromagnetic fields in order to work properly and equipment for the generation, transfer and measurement of such currents and fields and designed for use with a voltage rating not exceeding volts for alternating current and volts for direct current;
+(b)
+“large-scale stationary industrial tools” means a large size assembly of machines, equipment, and/or components, functioning together for a specific application, permanently installed and de-installed by professionals at a given place, and used and maintained by professionals in an industrial manufacturing facility or research and development facility;
+…’
+Point of Annex I, entitled ‘Categories of EEE covered by this Directive during the transitional period as provided for in Article 2(1)(a)’, to Directive 2012/is identical to point of Annex I A to Directive 2002/96.
+Point of Annex II, entitled ‘Indicative list of EEE which falls within the categories of Annex I’, is drafted as follows:
+‘Electrical and electronic tools (with the exception of large-scale stationary industrial tools)
+Drills
+Saws
+Sewing machines
+Equipment for turning, milling, sanding, grinding, sawing, cutting, shearing, drilling, making holes, punching, folding, bending or similar processing of wood, metal and other materials
+Tools for riveting, nailing or screwing or removing rivets, nails, screws or similar uses
+Tools for welding, soldering or similar use
+Equipment for spraying, spreading, dispersing or other treatment of liquid or gaseous substances by other means
+Tools for mowing or other gardening activities’.
+German law
+Paragraph 3(1) of the Law against Unfair Competition (Gesetz gegen den unlauteren Wettbewerb, BGBl. I, p. 254), as amended by the Law of October (BGBl. I, p. 3714) (‘the UWG’), entitled ‘Prohibition of unfair commercial practices’, provides as follows:
+‘Unfair commercial practices shall be unlawful if they are liable to have a perceptible adverse effect on the interests of competitors, consumers or other market participants. ...’
+Pursuant to Paragraph of the UWG, entitled ‘Examples of unfair commercial practices’:
+‘A person shall be regarded as acting unfairly in particular where he:
+…
+11.
+infringes a statutory provision that is also intended to regulate market conduct in the interests of market participants.’
+The Law on the marketing, recovery and environmentally-sustainable disposal of electrical and electronic equipment (Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Elektro- und Elektronikgeräten (Elektro- und Elektronikgerätegesetz), BGBl. I, p. 762) (‘the ElektroG’), of March 2005, provides, in Article thereof, entitled ‘Scope’, as follows:
+‘(1)   This Law applies to [EEE] which comes within the following categories, in so far as it is not a component of other equipment which is outside the scope of this Law:
+…
+6.
+Electrical and electronic tools (with the exception of large-scale stationary industrial tools).
+…’
+Paragraph of the ElektroG, entitled ‘Definitions’, provides as follows:
+‘(1)   The concept of [‘EEE’] covers, for the purposes of this Law:
+1.
+Equipment dependent on electrical currents or electro-magnetic fields to work properly,
+2.
+Equipment for the generation, transmission and measurement of such currents and fields,
+which is designed for use with a voltage rating not exceeding volts for alternating current and volts for direct current.
+…
+(11)   For the purposes of this Law, a producer is anyone who, irrespective of the sales method, including by means of distance communication within the meaning of Paragraph 312b(2) of the Bürgerliches Gesetzbuch [(Civil Code)], on a commercial basis:
+1.
+produces [EEE] under its brand name and, within the scope of this Law, places such equipment on the market.
+…’
+Paragraph of that Law, entitled ‘Establishment of the joint liaison point, registration, funding guarantee’, provides, in subparagraph (2) thereof, as follows:
+‘Every producer shall register with the competent authorities (Paragraph 16), in accordance with the rules established in the second and third sentences, prior to placing electrical and electronic equipment on the market. …’
+Point of Annex I, entitled ‘List of categories and equipment’, to the ElektroG is identical to point of Annex II to Directive 2012/19.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Sommer, which manufactures garage-door operating devices and other products, is registered with the Stiftung ear as a producer of EEE, in accordance with Paragraph 6(2) of the ElektroG.
+Rademacher also produces garage-door operating devices. Those operating devices are dependent on an electric current of approximately to volts to work properly, are designed to be incorporated, with the corresponding garage door, into the building structure and can at any time be dismantled, re-installed and/or added to that structure (‘the operating devices at issue’). Rademacher is not registered with the Stiftung ear as a producer of EEE.
+It is apparent from the file before the Court that, in July 2013, Sommer brought proceedings for unfair competition against Rademacher before the Landgericht Köln (Regional Court, Cologne), on the ground that the latter had not registered with the Stiftung ear as a producer of EEE. That action brought by Sommer seeks, in particular, that Rademacher be prohibited from marketing the operating devices at issue until it has registered with the Stiftung ear and an order that Rademacher compensate Sommer for any harm caused to it by Rademacher’s marketing of such operating devices.
+Sommer submits that Rademacher is a ‘producer’, within the meaning of Paragraph 3(11) of the ElektroG, and that, as a result, that company was required to register with the Stiftung ear prior to placing the EEE on the market. It argues in this connection that the operating devices at issue are not ‘large-scale stationary industrial tools’ but ‘electrical and electronic tools’, within the meaning of Paragraph 2(1)(6) of that Law, since they constitute equipment intended to be used by households, are dependent on electric current or electromagnetic fields to work properly, are designed for use with a voltage rating not exceeding volts for alternating current and volts for direct current and are not irremovable. It claims that those operating devices fulfil an independent function and do not form part of equipment falling outside the scope of the ElektroG.
+Rademacher disputes this view. It contends that the operating devices at issue are not ‘tools’ within the meaning of Paragraph 2(1)(6) of that Law. It submits that that provision is supplemented by point of Annex I to the ElektroG, which contains a list of products. Although that list is not exhaustive, the products in it nevertheless all have in common the characteristic of acting on materials, that is, the materials and substances to be processed, and of physically altering those materials. Inasmuch as the operating devices at issue have the exclusive function of supplying the system with energy and controlling it, the use of those products does not lead to any direct processing of or action on materials or substances and they cannot be regarded as ‘electrical and electronic tools’ within the meaning of Paragraph 2(1)(6) of the ElektroG. Rademacher takes the view that, in any event, the operating devices do not fulfil an independent function and are a component of a main product falling outside the scope of the ElektroG.
+It is apparent from the information provided by the referring court that, if Rademacher were to be deemed to be a producer subject to the registration obligation provided for in Paragraph 6(2) of the ElektroG, the marketing by that company of the operating devices at issue would infringe Paragraphs 3(1) and 4(11) of the UWG, read in conjunction with Paragraphs and 6(2) of the ElektroG, in so far as that company is not registered with the Stiftung ear.
+Since the ElektroG is intended to transpose Directive 2002/into the German legal order, the referring court raises the issue of whether the operating devices at issue fall within the definition of ‘electrical and electronic tools’ within the meaning of that directive and of Directive 2012/19. According to that court, the EU legislature’s intention to prevent, as far as possible, the useful and toxic substances from the electrical and electronic components from being disposed of as general waste and the definition given by the Bundesverwaltungsgericht (Federal Administrative Court) to the concept of ‘tool’, namely ‘a utensil which is designed to have a mechanical effect on articles’, support the case for answering this question in the affirmative. On the other hand, the fact that the products referred to in points of Annex I B to Directive 2002/and Annex II to Directive 2012/respectively exercise a mechanical effect on the articles or components in such a way as to process and thereby alter articles or materials, whereas the operating devices at issue neither process nor alter the articles or materials but merely move the garage door, supports the case for an answer in the negative.
+According to the referring court, were the operating devices at issue to be considered to be covered by the concept of ‘electrical and electronic tools’, it would still be necessary to ascertain whether or not those operating devices fall outside the respective scopes of Directive 2002/and Directive 2012/on the ground that they constitute components of ‘large-scale stationary industrial tools’ or else form part of ‘another type of equipment’ falling outside the scope of those directives. In this connection, the referring court states that the fact that those operating devices are installed, together with the garage door, onto the building and are used to control the garage door suggests that they do not fulfil an independent function and are a component of a stationary general system, whereas the fact that those operating devices can at any time be dismantled, re-installed or added to the building structure allows them to be regarded as fulfilling an independent function, which distinguishes them from stationary electrical equipment.
+In those circumstances, the Landgericht Köln decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Must Articles 2(1) and 3(a) of, and Annexes I A and I B to, Directive 2002/96… and/or Articles 2(1)(a) and 3(1)(a) of, and Annexes I and II to, Directive 2012/19… be interpreted as meaning that operating devices for (garage) doors with an electric voltage of approximately to volts, which are designed to be incorporated into the building structure together with the (garage) door, come within the concept of [“EEE”], in particular the concept of [“]electrical and electronic tools[”]?
+(2)
+If the answer to Question is in the affirmative:
+Must Annex I A, [point] 6, and Annex I B, [point] 6, to Directive 2002/96... and/or Article 3(1)(b) of, and Annex I, [point] 6, and Annex II, [point] 6, to, Directive 2012/19... be interpreted as meaning that (garage-door) operating devices, as referred to in Question (1), are to be regarded as components of [“]large-scale stationary industrial tools[”] within the meaning of those provisions?
+(3)
+If the answer to Question (1) is in the affirmative and the answer to Question (2) is in the negative:
+Must Article 2(1) of Directive 2002/96... and/or Article 2(3)(b) of Directive 2012/19... be interpreted as meaning that (garage-door) operating devices, as referred to in Question (1), are to be regarded as part of another type of equipment which does not fall within the scope of those directives?’
+Consideration of the questions referred
+Admissibility
+The European Commission submits that the reference to Directive 2002/is irrelevant to the consideration of the request for a preliminary ruling, since that directive was repealed, pursuant to the first paragraph of Article of Directive 2012/19, with effect from February 2014.
+It should be borne in mind that, according to settled case-law of the Court, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining and the accuracy of which is not a matter for the Court to determine enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling from a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgments in Fish Legal and Shirley, C‑279/12, EU:C:2013:853, paragraph and the case-law cited therein, and Idrodinamica Spurgo Velox and Others, C‑161/13, EU:C:2014:307, paragraph 29).
+In the present case, although the referring court does not state why it seeks the interpretation of Directive 2002/‘and/or’ Directive 2012/19, it is nevertheless apparent from the file before the Court that Sommer’s action was brought before the referring court in July 2013, thus before February 2014, when Directive 2002/ceased to be effective, and that Sommer, by its action, is seeking, inter alia, an order that Rademacher compensate it for any harm it has suffered on account of the conduct by Rademacher purportedly in breach of the competition legislation, which clearly began under Directive 2002/and continued under Directive 2012/96.
+Consequently, it is not obvious that the interpretation of Directive 2002/and of Directive 2012/requested bears no relation to the actual facts of the main action or its purpose.
+The questions are therefore admissible in their entirety.
+Substance
+By its questions, which must be examined together, the referring court asks, in essence, whether Articles 2(1) and 3(a) of Directive 2002/96, and Annexes I A, point 6, and I B, point thereto, and Article 2(1)(a) and 2(3)(b), and Article 3(1)(a) and (b), of Directive 2012/and Annexes I, point 6, and II, point 6, thereto, must be interpreted as meaning that garage-door operating devices, such as those at issue in the main proceedings, which are dependent on an electric current of approximately to volts to work properly, designed to be incorporated into the building structure together with the relevant garage door and can at any time be dismantled, re-installed and/or added to that structure fall within the scope of Directive 2002/and, during the transitional period fixed in Article 2(1)(a) of Directive 2012/(‘the transitional period’), that of the latter directive.
+It follows from Article of Directive 2002/that products must fulfil three cumulative conditions to fall within its scope: (i) they must constitute EEE; (ii) they must fall under the categories set out in Annex I A to that directive, and (iii) they must neither be part of another type of equipment falling outside the scope of that directive nor constitute such equipment. Those conditions are reproduced, essentially, in Article 2(1)(a) of Directive 2012/19, read in conjunction with Article 2(3) thereof, from which it is apparent that Directive 2012/applies, during the transitional period, to the EEE which falls under the categories listed in Annex I to that directive and which is not referred to in Article 2(3) thereof.
+So far as concerns, first of all, the first condition referred to in the preceding paragraph of this judgment, it must be noted that Article 3(a) of Directive 2002/and Article 3(1)(a) of Directive 2012/define the concept of ‘EEE’ in almost exactly the same way, namely as equipment which is dependent on electric currents or electromagnetic fields in order to work properly and equipment for the generation, transfer and measurement of such currents and fields, designed for use with a voltage rating not exceeding volts for alternating current and volts for direct current. Article 3(a) of Directive 2002/adds to that definition the requirement that the equipment must fall under the categories set out in Annex I A to that directive.
+In the present case, the information provided by the referring court shows that the operating devices at issue are dependent on electric currents of a voltage rating of approximately to volts, that is to say, less than volts for alternating current and volts for direct current. Therefore, those operating devices may constitute EEE within the meaning of Directive 2002/and are EEE within the meaning of Directive 2012/19.
+Next, as regards the second condition referred to in paragraph above, the referring court wishes to ascertain whether the operating devices at issue fall under point 6, ‘Electrical and electronic tools (with the exception of large-scale stationary industrial tools)’, of Annex I A to Directive 2002/96, ‘and/or’ point of Annex I to Directive 2012/19, which is worded in identical terms.
+The second sentence of Article 2(1) of Directive 2002/states that Annex I B thereto ‘contains a list of products which fall under the categories set out in Annex I A’, while the second sentence of Article 2(1)(a) of Directive 2012/provides that Annex II thereto ‘contains an indicative list of EEE which falls within the categories set out in Annex I’. Furthermore, it must be noted that garage-door operating devices are not, as such, included either in the products listed in point 6, ‘Electrical and electronic tools (with the exception of large-scale stationary industrial tools)’, of Annex I B to Directive 2002/or in those referred to in point of Annex II to Directive 2012/19, headed identically.
+It must be observed in this connection that, even though the content of that point corresponds to that of point of Annex I B to Directive 2002/96, it is clear from the second sentence of Article 2(1)(a) of Directive 2012/19, and from the title of Annex II thereto, that the list of EEE set out in that annex is indicative, whereas Directive 2002/does not expressly provide that the list set out in Annex I B to that latter directive is indicative in nature.
+However, that fact alone is not such as to render the list in Annex I B of Directive 2002/exhaustive. It follows from the wording of Article 2(1) of that directive, in particular the fact that that provision does not stipulate that Annex I B to the Directive contains ‘the’ list ‘of the’ products which fall under the categories set out in Annex I A thereto but that it contains ‘a’ list ‘of’ such products, that that list is indicative.
+Having regard to the above considerations, Article 2(1) of Directive 2002/and Annex I B thereto must be interpreted as meaning that that annex contains an indicative list of products falling under the categories set out in Annex I A to that directive.
+It is therefore necessary to ascertain whether the operating devices at issue may fall under the ‘Electrical and electronic tools (with the exception of large-scale stationary industrial tools)’ category, as provided for in Directives 2002/and 2012/19.
+In that regard, in the absence of a definition of the word ‘tools’ in those directives, it is necessary, in order to determine the scope of that word, to refer to its usual and everyday accepted meaning (see, by analogy, judgment in Endendijk, C‑187/07, EU:C:2008:197, paragraph and the case-law cited therein). That word normally refers to any article used to carry out particular work or a particular task.
+Consequently, inasmuch as, according to the information provided by the referring court, the operating devices at issue, once supplied with electricity, enable garage-doors to be moved and controlled, those operating devices constitute electrical and electronic tools within the meaning of the directives.
+That finding is not called into question by Rademacher’s argument that, since the operating devices at issue are used exclusively to move objects such as garage doors, they may not be included among the products referred to in point of Annex I B to Directive 2002/and of Annex II to Directive 2012/respectively because those products all have the characteristic that they are used to process articles. As Sommer points out in its written observations, that characteristic cannot be described as common to all the products listed in point of those annexes, since some of those products, such as tools for screwing or removing screws, do not process the articles on which they act directly but merely move those articles.
+As regards whether the operating devices at issue constitute ‘large-scale stationary industrial tools’, excluded from the ‘electrical and electronic tools’ category within the meaning of Directives 2002/and 2012/19, it must first be observed that the former directive does not define the concept of ‘large-scale stationary industrial tools’. However, in accordance with the case-law cited in paragraph above, it should be noted that that concept commonly refers to large tools or machines used in the manufacture or industrial processing of products, which are installed in a fixed position and cannot normally be moved or removed. It follows from this that the operating devices at issue may not on any view be described as ‘industrial tools’ since those operating devices are not used in the manufacture or industrial processing of products. Secondly, those operating devices do not fit the definition of ‘large-scale stationary industrial tools’ in Article 3(1)(b) of Directive 2012/either, since they are not primarily ‘used and maintained by professionals in an industrial manufacturing facility or research and development facility’.
+It follows from the foregoing considerations that the operating devices at issue fall under the ‘Electrical and electronic tools (with the exception of large-scale stationary industrial tools)’ category within the meaning of Directives 2002/and 2012/19.
+As regards, lastly, the third condition referred to in paragraph above, the referring court raises the issue of whether the operating devices must, nevertheless, be considered to be part of another type of equipment not falling within the scope of Directive 2002/96, within the meaning of Article 2(1) thereof, ‘and/or’ to be equipment which is specifically designed and installed as part of another type of equipment that is excluded from or does not fall within the scope of Directive 2012/and which can fulfil its function only if it is part of that equipment, within the meaning of Article 2(3)(b) of the latter directive.
+In this connection, the objectives of Directive 2002/are, as Article thereof stipulates, the prevention of WEEE, the reuse, recycling and other forms of recovery of such waste so as to reduce the disposal of waste and the improvement of the environmental performance of all operators involved in the life cycle of EEE. In accordance with recitals 10, and in the preamble thereto, that directive is intended to cover all EEE used by consumers and that intended for professional use and to achieve a high level of separate collection of WEEE, in order to ensure the chosen level of protection of human health and the environment. It is apparent, moreover, from recitals 6, 9, and in the preamble to Directive 2012/that that latter directive has essentially the same objectives.
+Having regard to those objectives, the exceptions to the application of those directives, set out in Article 2(1) of Directive 2002/and 2(3)(b) of Directive 2012/respectively, must be interpreted restrictively.
+Rademacher submits, essentially, that the operating devices at issue fall outside the scope of application of those directives on the ground that they do not fulfil an independent function but form part of the components permanently installed in the home automation system of the building concerned.
+However, so far as concerns the exception provided for in Article 2(1) of Directive 2002/96, an EEE, within the meaning of that directive, which, like the operating devices at issue, can be dismantled, re-installed and/or added to the building structure at any time, may not be excluded from the scope of that directive simply because it is ‘designed to be incorporated into [that] structure’. Such an interpretation would result in the exclusion of a considerable number of the examples of EEE expressly included in the categories listed in Annex I A to Directive 2002/solely on account of the fact that they are attached to a building or connected to its electricity supply and would therefore run counter to the Directive’s objectives.
+So far as concerns the exception set out in Article 2(3)(b) of Directive 2012/19, this is to be construed even more restrictively than that provided for in Article 2(1) of Directive 2002/96, since it is intended to exclude only equipment ‘specifically designed and installed’ as part of another type of equipment and which ‘can fulfil its function only if it is part of that equipment’. In this respect, as stated in recital in the preamble to Directive 2012/19, the objectives of that directive can be achieved without including large-scale fixed installations, such as oil platforms, airport luggage transport systems or elevators, within its scope. However, that recital gives two examples of EEE, namely lighting equipment and photovoltaic panels, which, although normally part of large-scale fixed installations, such as buildings, are nevertheless not regarded as ‘specifically’ intended to be part of such installations and are considered to be capable of fulfilling their function even if they are not an integral part of those installations.
+In the light of those examples and inasmuch as the operating devices at issue can be dismantled, re-installed and/or added to the building structure at any time and are therefore not designed to function exclusively with certain doors, those operating devices may not on any view be considered to be ‘specifically designed and installed’ as part of that structure for the purposes of Article 2(3)(b) of Directive 2012/19.
+Accordingly, garage-door operating mechanisms such as those at issue in the main proceedings do not fall within the scope of the exceptions set out in Article 2(1) of Directive 2002/and Article 2(3)(b) of Directive 2012/19.
+Having regard to all the foregoing considerations, the answer to the questions referred is that Articles 2(1) and 3(a) of Directive 2002/96, and Annexes I A, point 6, and I B, point 6, thereto, and Article 2(1)(a) and 2(3)(b), and Article 3(1)(a) and (b), of Directive 2012/and Annexes I, point 6, and II, point 6, thereto, must be interpreted as meaning that garage-door operating devices, such as those at issue in the main proceedings, which are dependent on an electric current of approximately to volts to work properly, designed to be incorporated into the building structure together with the relevant garage door and can at any time be dismantled, re-installed and/or added to that structure, fall within the scope of Directive 2002/and, during the transitional period fixed in Article 2(1)(a) of Directive 2012/19, that of the latter directive.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the cost of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Articles 2(1) and 3(a) of Directive 2002/96/EC of the European Parliament and of the Council of January on waste electrical and electronic equipment (WEEE), and Annexes I A, point 6, and I B, point 6, thereto, and Article 2(1)(a) and 2(3)(b), and Article 3(1)(a) and (b), of Directive 2012/19/EU of the European Parliament and of the Council of July on waste electrical and electronic equipment (WEEE) and Annexes I, point 6, and II, point 6, thereto, must be interpreted as meaning that garage-door operating devices, such as those at issue in the main proceedings, which are dependent on an electric current of approximately to volts to work properly, designed to be incorporated into the building structure together with the relevant garage door and can at any time be dismantled, re-installed and/or added to that structure, fall within the scope of Directive 2002/and, during the transitional period fixed in Article 2(1)(a) of Directive 2012/19, that of the latter directive.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

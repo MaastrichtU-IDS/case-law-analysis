@@ -1,0 +1,155 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+December (
+*)
+‛Reference for a preliminary ruling — Directive 95/46/EC — Protection of individuals — Processing of personal data — Concept of ‘in the course of a purely personal or household activity’’
+In Case C‑212/13,
+REQUEST for a preliminary ruling under Article TFEU from the Nejvyšší správní soud (Czech Republic), made by decision of March 2013, received at the Court on April 2013, in the proceedings
+František Ryneš
+v
+Úřad pro ochranu osobních údajů,
+THE COURT (Fourth Chamber),
+composed of L. Bay Larsen, President of the Chamber, K. Jürimäe, J. Malenovský, M. Safjan (Rapporteur) and A. Prechal, Judges,
+Advocate General: N. Jääskinen,
+Registrar: I. Illéssy, Administrator,
+having regard to the written procedure and further to the hearing on March 2014,
+after considering the observations submitted on behalf of:
+—
+Mr Ryneš, by M. Šalomoun, advokát,
+—
+Úřad pro ochranu osobních údajů, by I. Němec, advokát, and J. Prokeš,
+—
+the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,
+—
+the Spanish Government, by A. Rubio González, acting as Agent,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and by P. Gentili, avvocato dello Stato,
+—
+the Austrian Government, by A. Posch and G. Kunnert, acting as Agents,
+—
+the Polish Government, by B. Majczyna, J. Fałdyga and M. Kamejsza, acting as Agents,
+—
+the Portuguese Government, by L. Inez Fernandes and C. Vieira Guerra, acting as Agents,
+—
+the United Kingdom Government, by L. Christie, acting as Agent, and by J. Holmes, Barrister,
+—
+the European Commission, by B. Martenczuk, P. Němečková and Z. Malůšková, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2014,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 3(2) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31).
+The request has been made in proceedings between Mr Ryneš and the Úřad pro ochranu osobních údajů (Office for Personal Data Protection; ‘the Office’), concerning a decision by which the Office found that Mr Ryneš had committed a number of offences in relation to the protection of personal data.
+Legal context
+EU law
+Directive 95/Recitals 10, and to in the preamble to Directive 95/state:
+‘(10)
+… the object of the national laws on the processing of personal data is to protect fundamental rights and freedoms, notably the right to privacy, which is recognised both in Article of the European Convention for the Protection of Human Rights and Fundamental Freedoms and in the general principles of Community law; … for that reason, the approximation of those laws must not result in any lessening of the protection they afford but must, on the contrary, seek to ensure a high level of protection in the Community;
+...
+(12)
+… there should be excluded the processing of data carried out by a natural person in the exercise of activities which are exclusively personal or domestic, such as correspondence and the holding of records of addresses;
+...
+(14)
+… given the importance of the developments under way, in the framework of the information society, of the techniques used to capture, transmit, manipulate, record, store or communicate sound and image data relating to natural persons, this Directive should be applicable to processing involving such data;
+(15)
+… the processing of such data is covered by this Directive only if it is automated or if the data processed are contained or are intended to be contained in a filing system structured according to specific criteria relating to individuals, so as to permit easy access to the personal data in question;
+(16)
+… the processing of sound and image data, such as in cases of video surveillance, does not come within the scope of this Directive if it is carried out for the purposes of public security, defence, national security or in the course of State activities relating to the area of criminal law or of other activities which do not come within the scope of Community law.’
+Under Article of Directive 95/46:
+‘For the purposes of this Directive:
+(a)
+“Personal data” shall mean any information relating to an identified or identifiable natural person (“data subject”); an identifiable person is one who can be identified, directly or indirectly, in particular by reference … to one or more factors specific to his physical … identity;
+(b)
+“processing of personal data” (“processing”) shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction;
+(c)
+“personal data filing system” (“filing system”) shall mean any structured set of personal data which are accessible according to specific criteria, whether centralised, decentralised or dispersed on a functional or geographical basis;
+(d)
+“controller” shall mean the natural … person … which alone or jointly with others determines the purposes and means of the processing of personal data ...’.
+Article of that directive provides:
+‘1.   This Directive shall apply to the processing of personal data wholly or partly by automatic means, and to the processing otherwise than by automatic means of personal data which form part of a filing system or are intended to form part of a filing system.
+2.   This Directive shall not apply to the processing of personal data:
+—
+in the course of an activity which falls outside the scope of Community law, such as those provided for by Titles V and VI of the Treaty on European Union and in any case to processing operations concerning public security, defence, State security (including the economic well-being of the State when the processing operation relates to State security matters) and the activities of the State in areas of criminal law,
+—
+by a natural person in the course of a purely personal or household activity.’
+Article of Directive 95/is worded as follows:
+‘Member States shall provide that personal data may be processed only if:
+(a)
+the data subject has unambiguously given his consent; or
+...
+(f)
+processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for [sic] fundamental rights and freedoms of the data subject which require protection under Article 1(1).’
+Article of Directive 95/provides:
+‘1.   Where the data have not been obtained from the data subject, Member States shall provide that the controller … must at the time of undertaking the recording of personal data … provide the data subject with at least the following information, except where he already has it:
+(a)
+the identity of the controller ...;
+(b)
+the purposes of the processing;
+(c)
+any further information such as
+—
+the categories of data concerned,
+—
+the recipients or categories of recipients,
+—
+the existence of the right of access to and the right to rectify the data concerning him
+insofar as such further information is necessary, having regard to the specific circumstances in which the data are collected, to guarantee fair processing in respect of the data subject.
+2.   Paragraph shall not apply where, in particular for processing for statistical purposes or for the purposes of historical or scientific research, the provision of such information proves impossible or would involve a disproportionate effort or if recording or disclosure is expressly laid down by law. In these cases Member States shall provide appropriate safeguards.’
+Article 13(1) of the directive provides:
+‘Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Article … 11(1) … when such a restriction constitutes a necessary [measure] to safeguard:
+...
+(d)
+the prevention, investigation, detection and prosecution of criminal offences, or of breaches of ethics for regulated professions;
+...
+(g)
+the protection of … the rights and freedoms of others.’
+Under Article 18(1) of Directive 95/46:
+‘Member States shall provide that the controller … must notify the supervisory authority … before carrying out any wholly or partly automatic processing operation or set of such operations intended to serve a single purpose or several related purposes.’
+Czech law
+Paragraph 3(3) of Law No 101/Sb. on the Protection of Personal Data and the Amendment of Various Laws (‘Law No 101/2000’) provides:
+‘This Law does not cover the processing of personal data carried out by a natural person solely for personal use.’
+Paragraph 44(2) of that law governs the liability of the personal data controller, who commits an offence if he processes that data without the consent of the data subject, or if he does not provide the data subject with the relevant information or if he does not comply with the obligation to report to the competent authority.
+Under Paragraph 5(2)(e) of Law No 101/2000, the processing of personal data is in principle only possible with the consent of the data subject. In the absence of such consent, personal data may be processed where doing so is necessary to safeguard the legally protected rights and interests of the data controller, recipient or other data subjects. However, such processing must not adversely affect the data subject’s right to respect for his private and family life.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+During the period from October to April 2008, Mr Ryneš installed and used a camera system located under the eaves of his family home. The camera was installed in a fixed position and could not turn; it recorded the entrance to his home, the public footpath and the entrance to the house opposite. The system allowed only a visual recording, which was stored on recording equipment in the form of a continuous loop, that is to say, on a hard disk drive. As soon as it reached full capacity, the device would record over the existing recording, erasing the old material. No monitor was installed on the recording equipment, so the images could not be studied in real time. Only Mr Ryneš had direct access to the system and the data.
+The Nejvyšší správní soud (Supreme Administrative Court, Czech Republic; or ‘the referring court’) notes that Mr Ryneš’s only reason for operating the camera was to protect the property, health and life of his family and himself. Indeed, both Mr Ryneš and his family had for several years been subjected to attacks by persons unknown whom it had not been possible to identify. Furthermore, the windows of the family home had been broken on several occasions between and 2007.
+On the night of to October 2007, a further attack took place. One of the windows of Mr Ryneš’s home was broken by a shot from a catapult. The video surveillance system at issue made it possible to identify two suspects. The recording was handed over to the police and relied on in the course of the subsequent criminal proceedings.
+By decision of August 2008, following a request from one of the suspects for confirmation that Mr Ryneš’s surveillance system was lawful, the Office found that Mr Ryneš had infringed Law No 101/2000, since:
+—
+as a data controller, he had used a camera system to collect, without their consent, the personal data of persons moving along the street or entering the house opposite;
+—
+he had not informed those persons of the processing of that personal data, the extent and purpose of that processing, by whom and by what means the personal data would be processed, or who would have access to the personal data; and
+—
+as a data controller, Mr Ryneš had not fulfilled the obligation to report that processing to the Office.
+Mr Ryneš brought an action challenging that decision, which the Městský soud v Praze (Prague City Court) dismissed by judgment of April 2012. Mr Ryneš brought an appeal on a point of law against that judgment before the referring court.
+In those circumstances, the Nejvyšší správní soud decided to stay proceedings and refer the following question to the Court of Justice for a preliminary ruling:
+‘Can the operation of a camera system installed on a family home for the purposes of the protection of the property, health and life of the owners of the home be classified as the processing of personal data “by a natural person in the course of a purely personal or household activity” for the purposes of Article 3(2) of Directive 95/…, even though such a system also monitors a public space?’
+Consideration of the question referred
+By its question, the referring court essentially asks whether, on a proper construction of the second indent of Article 3(2) of Directive 95/46, the operation of a camera system, as a result of which a video recording of people is stored on a continuous recording device such as a hard disk drive, installed by an individual on his family home for the purposes of protecting the property, health and life of the home owners, but which also monitors a public space, amounts to the processing of data in the course of a purely personal or household activity, for the purposes of that provision.
+It should be noted that, under Article 3(1) of Directive 95/46, the directive is to apply to ‘the processing of personal data wholly or partly by automatic means, and to the processing otherwise than by automatic means of personal data which form part of a filing system or are intended to form part of a filing system’.
+The term ‘personal data’ as used in that provision covers, according to the definition under Article 2(a) of Directive 95/46, ‘any information relating to an identified or identifiable natural person’, an identifiable person being ‘one who can be identified, directly or indirectly, in particular by reference … to one or more factors specific to his physical … identity’.
+Accordingly, the image of a person recorded by a camera constitutes personal data within the meaning of Article 2(a) of Directive 95/inasmuch as it makes it possible to identify the person concerned.
+As regards the ‘processing of personal data’, it should be noted that Article 2(b) of Directive 95/defines this as ‘any operation or set of operations which is performed upon personal data, … such as collection, recording, … storage’.
+As can be seen, in particular, from recitals and to Directive 95/46, video surveillance falls, in principle, within the scope of that directive in so far as it constitutes automatic processing.
+Surveillance in the form of a video recording of persons, as in the case before the referring court, which is stored on a continuous recording device — the hard disk drive — constitutes, pursuant to Article 3(1) of Directive 95/46, the automatic processing of personal data.
+The referring court is uncertain whether such processing should nevertheless, in circumstances such as those of the case before it, escape the application of Directive 95/in so far as it is carried out ‘in the course of a purely personal or household activity’ for the purposes of the second indent of Article 3(2) of the directive.
+As is clear from Article of that directive and recital thereto, Directive 95/is intended to ensure a high level of protection of the fundamental rights and freedoms of natural persons, in particular their right to privacy, with respect to the processing of personal data (see Google Spain and Google, C‑131/12, EU:C:2014:317, paragraph 66).
+In that connection, it should be noted that, according to settled case-law, the protection of the fundamental right to private life guaranteed under Article of the Charter of Fundamental Rights of the European Union (‘the Charter’) requires that derogations and limitations in relation to the protection of personal data must apply only in so far as is strictly necessary (see IPI, C‑473/12, EU:C:2013:715, paragraph 39, and Digital Rights Ireland and Others, C‑293/and C‑594/12, EU:C:2014:238, paragraph 52).
+Since the provisions of Directive 95/46, in so far as they govern the processing of personal data liable to infringe fundamental freedoms, in particular the right to privacy, must necessarily be interpreted in the light of the fundamental rights set out in the Charter (see Google Spain and Google, EU:C:2014:317, paragraph 68), the exception provided for in the second indent of Article 3(2) of that directive must be narrowly construed.
+The fact that Article 3(2) of Directive 95/falls to be narrowly construed has its basis also in the very wording of that provision, under which the directive does not cover the processing of data where the activity in the course of which that processing is carried out is a ‘purely’ personal or household activity, that is to say, not simply a personal or household activity.
+In the light of the foregoing considerations, it must be held that, as the Advocate General observed in point of his Opinion, the processing of personal data comes within the exception provided for in the second indent of Article 3(2) of Directive 95/only where it is carried out in the purely personal or household setting of the person processing the data.
+Accordingly, so far as natural persons are concerned, correspondence and the keeping of address books constitute, in the light of recital to Directive 95/46, a ‘purely personal or household activity’ even if they incidentally concern or may concern the private life of other persons.
+To the extent that video surveillance such as that at issue in the main proceedings covers, even partially, a public space and is accordingly directed outwards from the private setting of the person processing the data in that manner, it cannot be regarded as an activity which is a purely ‘personal or household’ activity for the purposes of the second indent of Article 3(2) of Directive 95/46.
+At the same time, the application of Directive 95/makes it possible, where appropriate, to take into account — in accordance, in particular, with Articles 7(f), 11(2), and 13(1)(d) and (g) of that directive — legitimate interests pursued by the controller, such as the protection of the property, health and life of his family and himself, as in the case in the main proceedings.
+Consequently, the answer to the question referred is that the second indent of Article 3(2) of Directive 95/must be interpreted as meaning that the operation of a camera system, as a result of which a video recording of people is stored on a continuous recording device such as a hard disk drive, installed by an individual on his family home for the purposes of protecting the property, health and life of the home owners, but which also monitors a public space, does not amount to the processing of data in the course of a purely personal or household activity, for the purposes of that provision.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+The second indent of Article 3(2) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data must be interpreted as meaning that the operation of a camera system, as a result of which a video recording of people is stored on a continuous recording device such as a hard disk drive, installed by an individual on his family home for the purposes of protecting the property, health and life of the home owners, but which also monitors a public space, does not amount to the processing of data in the course of a purely personal or household activity, for the purposes of that provision.
+ 
+[Signatures]
+(
+*)   Language of the case: Czech.
+Top  
+ 

@@ -1,0 +1,484 @@
+
+         				Arrêt de la Cour
+         			
+      
+Case C-418/IMS Health GmbH & Co. OHG
+v
+NDC Health GmbH & Co. KG
+(Reference for a preliminary ruling from the Landgericht Frankfurt am Main)
+(Competition – Article EC – Abuse of a dominant position – Brick structure used to supply regional sales data for pharmaceutical products in a Member State – Copyright – Refusal to grant a licence)
+Summary of the Judgment
+1.        Competition – Community rules – Application by national courts – Assessment of an agreement or practice which has been examined
+            by the Commission or has already been the subject of a Commission decision – Conditions
+(Arts EC and EC)
+2.        Competition – Dominant position – Abuse – Refusal of an undertaking in a dominant position to allow another undertaking access
+            to a product or service that is necessary for its business – Assessment of whether the product or service at issue is indispensable
+            – Criteria – Licence to use a brick structure for supplying regional sales data for pharmaceutical products
+(Art. EC)
+3.        Competition – Dominant position – Copyright – Rights over a brick structure used to supply regional sales data for pharmaceutical
+            products – Refusal to grant a licence to another undertaking – Abuse – Conditions
+(Art. EC)
+1.        Where the national courts give a ruling on agreements or practices which may subsequently be the subject of a decision by
+         the Commission, they must avoid taking decisions which conflict with those taken or envisaged by the Commission in the implementation
+         of Articles and EC.
+      
+(see para. 19)
+2.        In the assessment of the abusive character of a dominant position, in order to determine whether a product or service is indispensable
+         for enabling an undertaking to carry on business in a particular market, it must be determined whether there are products
+         or services which constitute alternative solutions, even if they are less advantageous, and whether there are technical, legal
+         or economic obstacles capable of making it impossible or at least unreasonably difficult for any undertaking seeking to operate
+         in the market to create, possibly in cooperation with other operators, alternative products or services. In order to accept
+         the existence of economic obstacles, it must be established, at the very least, that the creation of those products or services
+         is not economically viable for production on a scale comparable to that of the undertaking which controls the existing product
+         or service.
+      
+It follows that, for the purposes of examining whether the refusal by an undertaking in a dominant position to grant a licence
+         for a brick structure protected by an intellectual property right which it owns is abusive, the degree of participation by
+         users in the development of that structure and the outlay, particularly in terms of cost, on the part of potential users in
+         order to purchase studies on regional sales of pharmaceutical products presented on the basis of an alternative structure
+         are factors which must be taken into consideration in order to determine whether the protected structure is indispensable
+         to the marketing of studies of that kind.
+      
+(see paras 28, 30, operative part 1)
+3.        The refusal by an undertaking which holds a dominant position and owns an intellectual property right in a brick structure
+         indispensable to the presentation of regional sales data on pharmaceutical products in a Member State to grant a licence to
+         use that structure to another undertaking, which also wishes to provide such data in the same Member State, constitutes an
+         abuse of a dominant position within the meaning of Article EC where the following conditions are fulfilled:
+      
+- the undertaking which requested the licence intends to offer, on the market for the supply of the data in question, new
+         products or services not offered by the owner of the intellectual property right and for which there is a potential consumer
+         demand;
+      
+- the refusal is not justified by objective considerations;
+- the refusal is such as to reserve to the owner of the intellectual property right the market for the supply of data on sales
+         of pharmaceutical products in the Member State concerned by eliminating all competition on that market.
+      
+(see para. 52, operative part 2)
+  
+JUDGMENT OF THE COURT (Fifth Chamber)April 2004(1)
+(Competition  –  Article EC  –  Abuse of a dominant position  –  Brick structure used to supply regional sales data for pharmaceutical products in a Member State  –  Copyright  –  Refusal to grant a licence)
+ In Case C-418/01,
+             REFERENCE to the Court under Article EC by the Landgericht Frankfurt am Main (Germany) for a preliminary ruling in the
+            proceedings pending before that court between
+            
+IMS Health GmbH & Co. OHG
+and
+NDC Health GmbH & Co. KG,
+ on the interpretation of  Article EC,
+THE COURT (Fifth Chamber),,
+ composed of:  P. Jann (Rapporteur), acting for the President of the Fifth Chamber,  C.W.A. Timmermans and S. von Bahr, Judges,
+            
+ Advocate General: A. Tizzano,Registrar: H.A. Rühl, Principal Administrator,
+            
+after considering the written observations submitted on behalf of:
+               
+–
+ IMS Health GmbH & Co. OHG, by S. Barthelmess and H.-C. Salger, Rechtsanwälte, and J. Temple Lang, Solicitor,
+               
+–
+ NDC Health GmbH & Co. KG, by G. Janke and T. Lübbig, Rechtsanwälte,
+               
+–
+ the Commission of the European Communities, by A. Whelan and S. Rating, acting as Agents,
+               
+after hearing the oral observations of IMS Health GmbH & Co. OHG, represented by S. Barthelmess, H.-C. Salger, C. Feddersen
+               and G. Jung-Weiser, Rechtsanwälte, and by J. Temple-Lang, of  NDC Health GmbH & Co. KG, represented by G. Janke and T. Lübbig,
+               and the Commission, represented by A. Whelan and S. Rating, at the hearing on March 2003,
+            
+after hearing the Opinion of the Advocate General at the sitting on October 2003,
+gives the following
+Judgment
+            
+ By order of July 2001, received at the Court on October 2001, the Landgericht Frankfurt am Main referred for a preliminary
+         ruling under Article EC three questions on the interpretation of Article EC.
+         
+            
+ Those questions arose in proceedings between IMS Health GmbH & Co. OHG (‘IMS’) and NDC Health GmbH & Co. KG (‘NDC’) concerning
+         the use by the latter of a brick structure developed by IMS for the provision of German regional sales data on pharmaceutical
+         products.
+         
+Factual background
+            
+ IMS and NDC are engaged in tracking sales of pharmaceutical and healthcare products.
+         
+            
+ IMS provides data on regional sales of pharmaceutical products in Germany to pharmaceutical laboratories formatted according
+         to the brick structure. Since January 2000, it has provided studies based on a brick structure consisting of bricks,
+         or a derived structure consisting of bricks, each corresponding to a designated geographic area. According to the order
+         for reference, those bricks were created by taking account of various criteria, such as the boundaries of municipalities,
+         postcodes, population density, transport connections and the geographical distribution of pharmacies and doctors’ surgeries.
+         
+            
+ Several years ago IMS set up a working group in which undertakings in the pharmaceutical industry, which are clients of IMS,
+         participated. That working group makes suggestions for improving and optimising market segmentation. The extent of the working
+         group’s contribution to the determination of market segmentation is a subject of dispute between IMS and NDC.
+         
+            
+ The national court found that IMS not only marketed its brick structures, but also distributed them free of charge to pharmacies
+         and doctors’ surgeries. According to the national court, that practice helped those structures to become the normal industry
+         standard to which its clients adapted their information and distribution systems.
+         
+            
+ After leaving his post in 1998, a former manager of IMS created Pharma Intranet Information AG (‘PII’), whose activity also
+         consisted in marketing regional data on pharmaceutical products in Germany formatted on the basis of brick structures. At
+         first, PII tried to market structures consisting of bricks. On account of reticence manifested by potential clients,
+         who were accustomed to structures consisting of or bricks, it decided to use structures of or bricks,
+         very similar to those used by IMS.
+         
+            
+ PII was acquired by NDC.
+         
+Procedural background and the questions referred for a preliminary ruling
+            
+ On application by IMS the Landgericht Frankfurt am Main granted an interlocutory order, of October 2000, prohibiting PII
+         from using the brick structure or any other brick structure derived from the IMS brick structure (hereinafter
+         generically referred to as ‘the brick structure’). After PII’s acquisition by NDC, the same prohibition was issued in
+         respect of NDC by interlocutory order of December 2000.
+         
+            
+ Those orders were both confirmed by a judgment of the Landgericht Frankfurt am Main of November and then by judgment
+         of the Oberlandesgericht Frankfurt am Main (Germany) of July 2001. The latter based its decision on the finding that the
+         brick structure used by IMS is a database within the meaning of Article of the Urheberrechtsgesetz (copyright law), which
+         may be protected by copyright.
+         
+            
+ On December 2000, NDC made a complaint to the Commission of the European Communities, claiming that IMS’s refusal to grant
+         it a licence to use the brick structure constituted an infringement of Article EC.
+         
+            
+ On July 2001, the Commission adopted an interim measure in the form of Commission Decision 2002/165/EC relating to a proceeding
+         pursuant to Article of the EC Treaty (Case COMP D3/38.– NDC Health  v IMS Health: Interim measures) (OJ L 59, p. 18). By Article of that decision, it ordered IMS to grant a licence to use the brick structure to all the undertakings present on the market for the provision of German regional sales data. That measure
+         was justified by the existence of ‘exceptional circumstances’. The Commission held that the brick structure created
+         by IMS has become the industry standard for the relevant market. Refusal of access to that structure, without any objective
+         justification, was likely to eliminate all competition on the market in question, because, without it, it was impossible to
+         compete on the relevant market (paragraphs and of the grounds of Decision 2002/165).
+         
+            
+ By application lodged at the Registry of the Court of First Instance of the European Communities on August 2001, IMS brought
+         an action under Article EC for annulment of Decision 2002/165. By a document lodged on the same day, it requested suspension
+         of operation of that decision, pursuant to Articles and EC, pending a substantive determination by the Court of First
+         Instance.
+         
+            
+ By order of October 2001, Case T-184/R IMSHealth v Commission [2001] ECR II-3193, the President of the Court of First Instance ordered suspension of operation of Decision 2002/pending
+         a substantive determination by the Court of First Instance. The appeal against that order was dismissed, by order of the President
+         of the Court of Justice in Case C-481/P(R) NDC Health v IMS Health and Commission [2002] ECR I-3401.
+         
+            
+ By Decision 2003/741/EC of August relating to a proceeding under Article of the EC Treaty (Case COMP D3/38.– NDC Health  v IMSHealth: Interim measures) (OJ L 268, p. 69), the Commission withdrew Decision 2002/165. That withdrawal was based on the fact
+         that there was no longer any urgency in imposing interim measures pending the Commission’s decision to close the administrative
+         procedure.
+         
+            
+ In the main proceedings at the origin of the present request for a preliminary ruling, IMS pursues its objective of prohibiting
+         NDC from using the brick structure.
+         
+            
+ The Landgericht Frankfurt am Main takes the view that IMS cannot exercise its right to obtain an injunction prohibiting all
+         unlawful use of its work if it acts in an abusive manner, within the meaning of Article EC, by refusing to grant a licence
+         to NDC on reasonable terms. It therefore decided to stay the proceedings and to refer to the Court the following questions
+         for a preliminary ruling:
+         
+‘1.
+Is Article EC to be interpreted as meaning that there is abusive conduct by an undertaking with a dominant position on
+               the market where it refuses to grant a licence agreement for the use of a databank protected by copyright to an undertaking
+               which seeks access to the same geographical and product market if the participants on the other side of the market, that is
+               to say potential clients, reject any product which does not make use of the databank protected by copyright because their
+               set-up relies on products manufactured on the basis of that databank?
+            
+2.
+Is the extent to which an undertaking with a dominant position on the market has involved persons from the other side of the
+               market in the development of the databank protected by copyright relevant to the question of abusive conduct by that undertaking?
+            
+3.
+Is the material outlay (in particular with regard to costs) in which clients who have hitherto been supplied with the product
+               of the undertaking having a dominant market position would be involved if they were in future to go over to purchasing the
+               product of a competing undertaking which does not make use of the databank protected by copyright relevant to the question
+               of abusive conduct by an undertaking with a dominant position on the market?’
+            
+The questions for a preliminary rulingPreliminary observations
+            
+ In light of the procedural context in which the present reference for a preliminary ruling has arisen and the disputes as
+         to the establishment of the facts, it must be recalled that, pursuant to Article EC, which is based on a clear separation
+         of functions between the national courts and the Court of Justice, the latter, when ruling on the interpretation or validity
+         of Community provisions, is empowered to do so only on the basis of the facts which the national court puts before it (see,
+         in particular, Case C-30/AC-ATEL Electronics Vertriebs [1994] ECR I-2305, paragraph 16, and Case C-107/Teckal [1999] ECR I-8121, paragraph 29).
+         
+            
+ In view, in particular, of the fact that the Commission opened a procedure in which it examines the applicability of Article
+         EC to the facts underlying the dispute in the main proceedings, it must also be recalled that where the national courts
+         give a ruling on agreements or practices which may subsequently be the subject of a decision by the Commission, they must
+         avoid taking decisions which conflict with those taken or envisaged by the Commission in the implementation of Articles and EC (Case C-234/Delimitis [1991] ECR I-935, paragraph 47).
+         
+            
+ It is in the light of those matters that the request for a preliminary ruling must be examined.
+         
+            
+ By its first question, the national court asks, essentially, whether the refusal to grant a licence to use a brick structure
+         for the presentation of regional sales data by an undertaking in a dominant position which has an intellectual property right
+         therein to another undertaking which also wishes to provide such data in the same Member State, but which, because potential
+         users are unfavourable to it, cannot develop an alternative brick structure for the presentation of the data that it proposes
+         to offer, constitutes an abuse of a dominant position within the meaning of Article EC.
+         
+            
+ As the Advocate General stated in point of his Opinion, that question is based on the premiss, whose validity it is for
+         the national court to ascertain, that the use of the brick structure protected by an intellectual property right is
+         indispensable in order to allow a potential competitor to have access to the market in which the undertaking which owns the
+         right occupies a dominant position. 
+         
+            
+ By its second question, the national court questions the effect that the degree of participation by users may have on the
+         development of a brick structure, protected by an intellectual property right owned by a dominant undertaking, on the determination
+         of whether the refusal by that undertaking to grant a licence to use that structure is abusive. By its third question, the
+         national court is uncertain, in the same context and for the purposes of the same assessment, as to the effect of the outlay,
+         particularly in terms of cost, that potential users have to provide in order to be able to purchase market studies presented
+         on the basis of a structure other than that protected by the intellectual property right.
+         
+            
+ As the Advocate General noted in point of his Opinion, those two questions, read in the light of the order for reference,
+         concern the matters underlying the first question, because they seek essentially to clarify the relevant criteria for the
+         determination of whether use of the brick structure protected by the intellectual property right is indispensable for
+         enabling a potential competitor to gain access to the market in which the undertaking owning the right occupies a dominant
+         position.
+         
+            
+ Accordingly, it is appropriate to answer the second and third questions first.
+         
+The second and third questions Observations of the parties
+         
+            
+ According to IMS, the participation of the users in the development of a product or a service protected by an intellectual
+         property right is evidence of competition, because it represents the manufacturer’s efforts to gain a competitive advantage
+         by developing products and services better adapted to the needs of its clients. The outlay, to which clients must agree, where
+         there is a change to a legally developed competing product, is normal since the costs are offset by the advantages of the
+         competing product.
+         
+            
+ NDC and the Commission argue that the considerable role played in the design of the brick structure by the users has
+         contributed to the creation of a relationship of dependency of the latter on that structure. Referring to the judgment in
+         Case C-7/Bronner [1998] ECR I-7791, they submit that the criterion for determining whether that structure is indispensable is whether a competitor
+         can create a viable alternative. In the case in the main proceedings the legal and economic obstacles make such a solution
+         impossible.
+         
+ Reply of the Court
+         
+            
+ It is clear from paragraphs and of Bronner that, in order to determine whether a product or service is indispensable for enabling an undertaking to carry on business
+         in a particular market, it must be determined whether there are products or services which constitute alternative solutions,
+         even if they are less advantageous, and whether there are technical, legal or economic obstacles capable of making it impossible
+         or at least unreasonably difficult for any undertaking seeking to operate in the market to create, possibly in cooperation
+         with other operators, the alternative products or services. According to paragraph of Bronner, in order to accept the existence of economic obstacles, it must be established, at the very least, that the creation of
+         those products or services is not economically viable for production on a scale comparable to that of the undertaking which
+         controls the existing product or service.
+         
+            
+ It is for the national court to determine, in the light of the evidence submitted to it, whether such is the case in the dispute
+         in the main proceedings. In that regard, as the Advocate General stated in points and of his Opinion, account must be
+         taken of the fact that a high level of participation by the pharmaceutical laboratories in the improvement of the brick
+         structure protected by copyright, on the supposition that it is proven, has created a dependency by users in regard to that
+         structure, particularly at a technical level. In such circumstances, it is likely that those laboratories would have to make
+         exceptional organisational and financial efforts in order to acquire the studies on regional sales of pharmaceutical products
+         presented on the basis of a structure other than that protected by the intellectual property right. The supplier of that alternative
+         structure might therefore be obliged to offer terms which are such as to rule out any economic viability of business on a
+         scale comparable to that of the undertaking which controls the protected structure.
+         
+            
+ The answer to the second and third questions must, therefore, be that, for the purposes of examining whether the refusal by
+         an undertaking in a dominant position to grant a licence for a brick structure protected by an intellectual property right
+         which it owns is abusive, the degree of participation by users in the development of that structure and the outlay, particularly
+         in terms of cost, on the part of potential users in order to purchase studies on regional sales of pharmaceutical products
+         presented on the basis of an alternative structure are factors which must be taken into consideration in order to determine
+         whether the protected structure is indispensable to the marketing of studies of that kind.
+         
+The first question Observations submitted to the Court
+         
+            
+ As to whether and in what circumstances the refusal by an undertaking in a dominant position in a given market, which owns
+         an intellectual property right in a product indispensable for carrying on business in the same market to grant a licence to
+         use that product, may constitute abusive conduct, IMS, NDC and the Commission all refer to the judgment in Joined Cases C-241/P
+         and C-242/P RTE and ITP v Commission (‘Magill’) [1995] ECR I-743. However, they do not interpret it in the same way and do not draw the same conclusions from it.
+         
+            
+ IMS argues that the Magill judgment must be interpreted as meaning that three conditions must be satisfied. The refusal to grant a licence must prevent
+         the emergence of a new product, must be unjustified, and have the effect of reserving a secondary market for the dominant
+         undertaking. In the case in the main proceedings, the first and third conditions are not satisfied because NDC is not trying
+         to introduce a new product into a secondary market, but intends to use the brick structure, perfected by IMS, in order
+         to supply an almost identical product on the same market.
+         
+            
+ NDC, which claims that it wishes to supply a new product, and the Commission take the view that, according to the Magill judgment, in order for a refusal of a licence to be considered abusive, it is not essential for there to be two distinct
+         markets. NDC submits that it is sufficient that the undertaking in a dominant position in a certain market has a monopoly
+         on an infrastructure which is indispensable in order to compete with it on the market in which it carries on business. In
+         the same way, the Commission submits that it is not necessary for the infrastructure in question to be in a separate market
+         and that it is sufficient that it is at an upstream production stage.
+         
+ Reply of the Court
+         
+            
+ According to settled case-law, the exclusive right of reproduction forms part of the rights of the owner of an intellectual
+         property right, so that refusal to grant a licence, even if it is the act of an undertaking holding a dominant position, cannot
+         in itself constitute abuse of a dominant position (judgment in Case 238/Volvo [1988] ECR 6211, paragraph 8, and Magill, paragraph 49).
+         
+            
+ Nevertheless, as is clear from that case-law, exercise of an exclusive right by the owner may, in exceptional circumstances,
+         involve abusive conduct (Volvo, paragraph 9, and Magill, paragraph 50).
+         
+            
+ The Court held that such exceptional circumstances were present in the case giving rise to the judgment in Magill, in which the conduct of the television channels in a dominant position which gave rise to the complaint consisted in their
+         relying on the copyright conferred by national legislation on the weekly listings of their programmes in order to prevent
+         another undertaking from publishing information on those programmes together with commentaries, on a weekly basis.
+         
+            
+ According to the summary of the Magill judgment made by the Court at paragraph of the judgment in Bronner,  the exceptional circumstances were constituted by the fact that the refusal in question concerned a product (information
+         on the weekly schedules of certain television channels), the supply of which was indispensable for carrying on the business
+         in question (the publishing of a general television guide), in that, without that information, the person wishing to produce
+         such a guide would find it impossible to publish it and offer it for sale (Magill, paragraph 53), the fact that such refusal prevented the emergence of a new product for which there was a potential consumer
+         demand (paragraph 54), the fact that it was not justified by objective considerations (paragraph 55), and was likely to exclude
+         all competition in the secondary market (paragraph 56). 
+         
+            
+ It is clear from that case-law that, in order for the refusal by an undertaking which owns a copyright to give access to a
+         product or service indispensable for carrying on a particular business to be treated as abusive, it is sufficient that three
+         cumulative conditions be satisfied, namely, that that refusal is preventing the emergence of a new product for which there
+         is a potential consumer demand, that it is unjustified and such as to exclude any competition on a secondary market.
+         
+            
+ In light of the order for reference and the observations submitted to the Court, which reveal a major dispute as regards the
+         interpretation of the third condition, it is appropriate to consider that question first.
+         
+ The third condition, relating to the likelihood of excluding all competition on a secondary market
+         
+            
+ In that regard, it is appropriate to recall the approach followed by the Court in the Bronner judgment, in which it was asked whether the fact that a press undertaking with a very large share of the daily newspaper
+         market in a Member State which operates the only nationwide newspaper home-delivery scheme in that Member State refuses paid
+         access to that scheme by the publisher of a rival newspaper, which by reason of its small circulation is unable either alone
+         or in cooperation with other publishers to set up and operate its own home-delivery scheme under economically reasonable conditions,
+         constitutes abuse of a dominant position.
+         
+            
+ The Court, first of all, invited the national court to determine whether the home‑delivery schemes constituted a separate
+         market (Bronner, paragraph 34), on which, in light of the circumstances of the case, the press undertaking held a de facto monopoly position
+         and, thus, a dominant position (paragraph 35). It then invited the national court to determine whether the refusal by the
+         owner of the only nationwide home-delivery scheme in a Member State, which used that scheme to distribute its own daily newspapers,
+         to allow the publisher of a rival daily newspaper access to it deprived that competitor of a means of distribution judged
+         essential for the sale of its newspaper (paragraph 37). 
+         
+            
+ Therefore, the Court held that it was relevant, in order to assess whether the refusal to grant access to a product or a service
+         indispensable for carrying on a particular business activity was an abuse, to distinguish an upstream market, constituted
+         by the product or service, in that case the market for home delivery of daily newspapers, and a (secondary) downstream market,
+         on which the product or service in question is used for the production of another product or the supply of another service,
+         in that case the market for daily newspapers themselves.
+         
+            
+ The fact that the home-delivery service was not marketed separately was not regarded as precluding, from the outset, the possibility
+         of identifying a separate market.
+         
+            
+ It appears, therefore, as the Advocate General set out in points to of his Opinion, that, for the purposes of the application
+         of the earlier case-law, it is sufficient that a potential market or even hypothetical market can be identified. Such is the
+         case where the products or services are indispensable in order to carry on a particular business and where there is an actual
+         demand for them on the part of undertakings which seek to carry on the business for which they are indispensable.
+         
+            
+ Accordingly, it is determinative that two different stages of production may be identified and that they are interconnected,
+         inasmuch as the upstream product is indispensable for the supply of the downstream product.
+         
+            
+ Transposed to the facts of the case in the main proceedings, that approach prompts consideration as to whether the brick
+         structure constitutes, upstream, an indispensable factor in the downstream supply of German regional sales data for pharmaceutical
+         products.
+         
+            
+ It is for the national court to establish whether that is in fact the position, and, if so be the case, to examine whether
+         the refusal by IMS to grant a licence to use the structure at issue is capable of excluding all competition on the market
+         for the supply of German regional sales data on pharmaceutical products.
+         
+ The first condition, relating to the emergence of a new product
+         
+            
+ As the Advocate General stated in point of his Opinion, that condition relates to the consideration that, in the balancing
+         of the interest in protection of the intellectual property right and the economic freedom of its owner against the interest
+         in protection of free competition, the latter can prevail only where refusal to grant a licence prevents the development of
+         the secondary market to the detriment of consumers.
+         
+            
+ Therefore, the refusal by an undertaking in a dominant position to allow access to a product protected by an intellectual
+         property right, where that product is indispensable for operating on a secondary market, may be regarded as abusive only where
+         the undertaking which requested the licence does not intend to limit itself essentially to duplicating the goods or services
+         already offered on the secondary market by the owner of the intellectual property right, but intends to produce new goods
+         or services not offered by the owner of the right and for which there is a potential consumer demand
+         
+            
+ It is for the national court to determine whether such is the case in the dispute in the main proceedings.
+         
+ The second condition, relating to whether the refusal was unjustified
+         
+            
+ As to that condition, on whose interpretation no specific observations have been made, it is for the national court to examine,
+         if appropriate, in light of the facts before it, whether the refusal of the request for a licence is justified by objective
+         considerations.
+         
+            
+ Accordingly, the answer to the first question must be that the refusal by an undertaking which holds a dominant position and
+         owns an intellectual property right in a brick structure indispensable to the presentation of regional sales data on pharmaceutical
+         products in a Member State to grant a licence to use that structure to another undertaking which also wishes to provide such
+         data in the same Member State, constitutes an abuse of a dominant position within the meaning of Article EC where the following
+         conditions are fulfilled:
+         
+–
+the undertaking which requested the licence intends to offer, on the market for the supply of the data in question, new products
+               or services not offered by the owner of the intellectual property right and for which there is a potential consumer demand;
+            
+–
+the refusal is not justified by objective considerations;
+–
+the refusal is such as to reserve to the owner of the intellectual property right the market for the supply of data on sales
+               of pharmaceutical products in the Member State concerned by eliminating all competition on that market.
+            
+Costs
+            
+ The costs incurred by the Commission, which has submitted observations to the Court, are not recoverable. Since these proceedings
+         are, for the parties to the main proceedings, a step in the proceedings pending before the national court, the decision on
+         costs is a matter for that court.
+         
+On those grounds,
+THE COURT (Fifth Chamber),
+ in answer to the questions referred to it by the Landgericht Frankfurt am Main by order of July 2001, hereby rules:
+         
+ 
+1.
+For the purposes of examining whether the refusal by an undertaking in a dominant position to grant a licence for a brick
+                     structure protected by an intellectual property right which it owns is abusive, the degree of participation by users in the
+                     development of that structure and the outlay, particularly in terms of cost, on the part of potential users in order to purchase
+                     studies on regional sales of pharmaceutical products presented on the basis of an alternative structure are factors which
+                     must be taken into consideration in order to determine whether the protected structure is indispensable to the marketing of
+                     studies of that kind.
+                  
+ 
+2.
+The refusal by an undertaking which holds a dominant position and owns an intellectual property right in a brick structure
+                     indispensable to the presentation of regional sales data on pharmaceutical products in a Member State to grant a licence to
+                     use that structure to another undertaking which also wishes to provide such data in the same Member State, constitutes an
+                     abuse of a dominant position within the meaning of Article EC where the following conditions are fulfilled:
+                  
+–
+the undertaking which requested the licence intends to offer, on the market for the supply of the data in question, new products
+                           or services not offered by the owner of the intellectual property right and for which there is a potential consumer demand;
+–         the refusal is not justified by objective considerations;
+–         the refusal is such as to reserve to the owner of the intellectual property right the market for the supply of data on sales
+                           of pharmaceutical products in the Member State concerned by eliminating all competition on that market.
+Jann
+Timmermans
+von Bahr
+ Delivered in open court in Luxembourg on April 2004.
+         
+R. Grass
+V. Skouris
+Registrar
+President
+ –
+            
+Language of the case: German.
+Top  
+ 

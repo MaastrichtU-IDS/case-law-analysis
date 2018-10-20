@@ -1,0 +1,147 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+July (
+*)
+‛Reference for a preliminary ruling — Scheme for greenhouse gas emission allowance trading within the European Union — Directive 2003/87/EC — Temporal scope — Time when the emissions trading obligation arises — Article — Annexe I — Concept of ‘installation’ — Combustion of fuels in installations with a total rated thermal input exceeding MW’
+In Case C‑457/15,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgericht Berlin (Administrative Court, Berlin, Germany), made by decision of March 2015, received at the Court on August 2015, in the proceedings
+Vattenfall Europe Generation AG
+v
+Bundesrepublik Deutschland,
+THE COURT (Sixth Chamber),
+composed of A. Arabadjiev, President of the Chamber, J.-C. Bonichot (Rapporteur) and S. Rodin, Judges,
+Advocate General: E. Sharpston,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Vattenfall Europe Generation AG, by M. Ehrmann, Rechtsanwalt,
+—
+the German Government, by T. Henze and K. Petersen, acting as Agents,
+—
+the European Commission, by E. White and K. Herrmann, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Annex I to Directive 2003/87/EC of the European Parliament and of the Council of October establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, p. 32), as amended by Directive 2009/29/EC of the European Parliament and of the Council of April (OJ L 140, p. 63) (‘Directive 2003/87’), and of Article 19(2) of Commission Decision 2011/278/EU of April determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive 2003/(OJ L 130, p. 1).
+The request has been made in proceedings between Vattenfall Europe Generation AG (‘Vattenfall’) and the Bundesrepublik Deutschland (Federal Republic of Germany) concerning the determination of the time at which an installation which generates electricity starts to be subject to the reporting and surrender obligations of greenhouse gas emission allowances (‘the allowances’) provided for by Directive 2003/87.
+Legal context
+EU law
+Directive 2003/Article 2(1) of Directive 2003/provides:
+‘This Directive shall apply to emissions from the activities listed in Annex I and greenhouse gases listed in Annex II.’
+Article of that directive is worded as follows:
+‘For the purpose of this Directive the following definitions shall apply:
+…
+(b)
+“emissions” means the release of greenhouse gases into the atmosphere from sources in an installation …;
+…
+(e)
+“installation” means a stationary technical unit where one or more activities listed in Annex I are carried out and any other directly associated activities which have a technical connection with the activities carried out on that site and which could have an effect on emissions and pollution;
+…
+(t)
+“combustion” means any oxidation of fuels, regardless of the way in which the heat, electrical or mechanical energy produced by this process is used, and any other directly associated activities, including waste gas scrubbing;
+(u)
+“electricity generator” means an installation that, on or after January 2005, has produced electricity for sale to third parties, and in which no activity listed in Annex I is carried out other than the “combustion of fuels”’
+Article of Directive 2003/provides:
+‘Member States shall ensure that, from January 2005, no installation undertakes any activity listed in Annex I resulting in emissions specified in relation to that activity unless its operator holds a permit issued by a competent authority in accordance with Articles and 6, or the installation is temporarily excluded from the Community scheme pursuant to Article 27. This shall also apply to installations opted in under Article 24.’
+Article of Directive 2003/provides:
+‘1.   The competent authority shall issue a greenhouse gas emissions permit granting authorisation to emit greenhouse gases from all or part of an installation if it is satisfied that the operator is capable of monitoring and reporting emissions.
+…
+2.   Greenhouse gas emissions permits shall contain the following:
+(a)
+the name and address of the operator;
+(b)
+a description of the activities and emissions from the installation;
+…
+(e)
+an obligation to surrender allowances, other than allowances issued under Chapter II, equal to the total emissions of the installation in each calendar year, as verified in accordance with Article 15, within four months following the end of that year.’
+Article 10a(3) of that directive provides:
+‘Subject to paragraphs and 8, and notwithstanding Article 10c, no free allocation shall be given to electricity generators, to installations for the capture of CO2, to pipelines for transport of COor to COstorage sites.’
+Article 12(3) of that directive is worded as follows:
+‘Member States shall ensure that, by April each year, the operator of each installation surrenders a number of allowances, other than allowances issued under Chapter II, equal to the total emissions from that installation during the preceding calendar year as verified in accordance with Article 15, and that these are subsequently cancelled.’
+Article of Directive 2003/provides:
+‘1.   By December 2011, the Commission shall adopt a regulation for the monitoring and reporting of emissions … ; [that regulation] shall be based on the principles for monitoring and reporting set out in Annex IV and shall specify the global warming potential of each greenhouse gas in the requirements for monitoring and reporting emissions for that gas.
+That measure, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(3).
+…
+3.   Member States shall ensure that each operator of an installation or an aircraft operator monitors and reports the emissions from that installation during each calendar year, or, from January 2010, the aircraft which it operates, to the competent authority after the end of that year in accordance with the regulation referred to in paragraph 1.
+…’
+Annex I to Directive 2003/lists the categories of activities to which it applies. Among those activities are included, in particular, ‘combustion of fuels in installations with a total rated thermal input exceeding MW (except in installations for the incineration of hazardous or municipal waste)’.
+Decision 2011/Recital of Decision 2011/states:
+‘Given that full auctioning should be the rule from onwards for the power sector, taking into account its ability to pass on the increased cost of carbon dioxide, and that no free allocation should be made in respect of any electricity production, except for transitional free allocation for the modernisation of electricity generation and electricity produced from waste gases, this Decision should not cover the free allocation of emission allowances related to the production or consumption of electricity. Nevertheless, according to Article 10a(6) of Directive 2003/…, sectors or subsectors deemed to be exposed to a significant risk of carbon leakage may be compensated for costs related to greenhouse gas emissions passed on in electricity prices by financial measures adopted by Member States in accordance with state aid rules applicable and to be adopted by the Commission in this area.’
+Article of that decision provides:
+‘This Decision lays down transitional Union-wide rules for the harmonised free allocation of emission allowances under Directive 2003/… from onwards.’
+Article of that decision, entitled ‘Allocation to new entrants’, provides:
+‘1.   For the purposes of the allocation of emission allowances to new entrants, with the exception of allocations to installations referred to in the third indent of Article 3(h) of Directive 2003/…, Member States shall calculate the preliminary annual number of emission allowances allocated free of charge as of the start of normal operation of the installation for each sub-installation separately, as follows:
+…
+(c)
+for each fuel benchmark sub-installation, the preliminary annual number of emission allowances allocated free of charge shall correspond to the value of the fuel benchmark as referred to in Annex I multiplied by the fuel-related activity level;
+…
+2.   For independently verified emissions of the new entrant which occurred prior to the start of normal operation, additional allowances shall be allocated on the basis of historic emissions expressed as tonnes of carbon dioxide equivalent.
+…’
+Regulation (EU) No 601/The first paragraph of Article of Commission Regulation (EU) No 601/of June on the monitoring and reporting of greenhouse gas emissions pursuant to Directive 2003/(OJ L 181, p. 30) provides:
+‘Monitoring and reporting shall be complete and cover all process and combustion emissions from all emission sources and source streams belonging to activities listed in Annex I to Directive 2003/… and other relevant activities included pursuant to Article of that Directive, and of all greenhouse gases specified in relation to those activities while avoiding double-counting.’
+Article 20(1) of that regulation provides:
+‘An operator shall define the monitoring boundaries for each installation.
+Within those boundaries, the operator shall include all relevant greenhouse gas emissions from all emission sources and source streams belonging to activities carried out at the installation and listed in Annex I to Directive 2003/…, as well as from activities and greenhouse gases included by a Member State pursuant to Article of Directive 2003/87…
+The operator shall also include emissions from regular operations and abnormal events including start-up and shut-down and emergency situations over the reporting period, with the exception of emissions from mobile machinery for transportation purposes.’
+German law
+Article 2(1) of the Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen (Law on greenhouse gas emissions trading) of July (BGBl. I 1475, p. 3154) (‘the TEHG’) provides :
+‘The present law applies to the greenhouse gas emissions referred to in Part of Annex 1, resulting from the activities listed therein.
+…’
+Part of Annex to the TEHG is worded as follows:
+‘1.
+Combustion units for the combustion of fuels with a total rated thermal input of MW or more in an installation, other than those classified under one of the points below.
+2.
+Installations for the generation of electricity, steam, hot water, process heat or hot waste gas by the use of fuels in an incinerator (such as a power plant, combined heat and power station, heating plant, gas turbine installation, combustion engine installation or other combustion plants), including associated steam boilers, with a rated thermal input of MW or more.’
+Article 18(4) of the Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der Handelsperiode bis (Regulation on the allocation of greenhouse gas emission allowances for the 2013-trading period) of September (BGBl. I 2011, p. 1921), provides :
+‘For emissions of allocation elements made before the start of normal operation, additional allowances shall be allocated for the new installation on the basis of those emissions specified in tonnes of carbon dioxide equivalent.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+It follows from the order for reference that Vattenfall operates a newly constructed power plant at Moorburg, near Hamburg (Germany). The installed rated thermal input of that coal-fired power plant is MW.
+By two letters of August and September 2013, Vattenfall informed the Deutsche Emissionshandelsstelle im Umweltbundesamt (German Emissions Trading Authority at the Federal Environment Agency) (‘the emissions trading authority’) that, in so far as the Moorburg plant was still in the construction phase, it was not subject to the reporting and surrender of allowances obligations resulting from the scheme established by Directive 2003/(‘the emissions trading scheme’).
+Since the Emissions Trading Authority, by letter of September 2013, rejected such an interpretation, Vattenfall brought an action before the Verwaltungsgericht Berlin (Administrative Court, Berlin, Germany) seeking a declaration that the emissions trading obligation does not commence until the start of the trial operation by the operator.
+Vattenfall considers that it follows, in particular, from Article 3(u) of Directive 2003/87, that the latter covers installations which generate electricity from the time when they generate electricity to be sold to third parties. The TEHG is therefore compatible with that provision, in so far as, in point of Part of Annex thereto, it does not subject emissions from power plants to the emissions trading scheme before electricity is generated. The emissions trading obligation starts only with the acceptance by the operator that the installation is ready to operate, where the latter starts trial operations. That interpretation is compatible with point of Part of Annex to the TEHG which seeks solely to ensure that all types of installation fall within the scope of the TEHG but does not provide any information concerning its temporal scope.
+Conversely, the Federal Republic of Germany contends that the Moorburg plant, on account of its rated thermal input exceeding MW, is subject to the emissions trading obligation from the time it started to emit greenhouse gases connected with its activity, regardless of the purpose of the combustion. The activity of an installation starts from the first trial operations and, consequently, as soon as the installation emits greenhouse gases, regardless of the reason for that emission. That rule follows from the TEHG, point of Part of Annex which provides that all emissions resulting from combustion must be taken into account. It is compatible both with the concept of combustion in Article 3(t) of Directive 2003/and with the time limits of emissions monitoring provided for in Article 20(1) of Regulation No 601/2012.
+The referring court notes, in that regard, that neither German law nor EU law contains an explicit provision relating to the time from which the installations put into operation during the 2013-trading period are subject to the emissions trading obligation. However, an answer to that question could be found in Annex I to Directive 2003/87, which refers to ‘combustion of fuels in installations with a total rated thermal input exceeding MW’, and in Article 19(2) of Decision 2011/278. In particular, even if that decision is not applicable to installations for the generation of electricity, it could be deduced from Article 19(2) thereof, relating to new entrants, that the emissions trading obligation starts prior to the normal operation of such installations. By contrast, if that obligation starts at the time of the normal operation, Vattenfall would have surrendered too many allowances.
+In those circumstances, the Verwaltungsgericht Berlin (Administrative Court, Berlin) decided to stay the proceedings and refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Does the inclusion of the category ‘Activities for the combustion of fuels in installations with a total rated thermal input exceeding MW’ in Annex I to Directive 2003/… result in the emissions trading obligation of an installation for the generation of electricity thereby starting on the date of the first emissions of greenhouse gases and thus potentially before the date of the first generation of electricity by the installation?
+(2)
+If Question is answered in the negative:
+Is Article 19(2) of Decision 2011/… to be interpreted as meaning that the emissions of greenhouse gases which occur prior to the start of normal operation of an installation included in Annex I to Directive 2003/… already trigger the operator’s obligation to report and surrender emission allowances on the date of the first emissions during the construction phase of the installation?
+(3)
+If the answer to the second question is in the affirmative:
+Is Article 19(2) of Decision 2011/… to be interpreted as precluding the application of the national implementing provision in Paragraph 18(4) of the Zuteilungsverordnung (Allocation Regulation) to installations for the generation of electricity with regard to the determination of the start of the emissions trading obligation?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether, in so far as Annex I to Directive 2003/includes the ‘combustion of fuels in installations with a total rated thermal input exceeding MW’ in the list of categories of activities to which that directive applies, it must be interpreted as meaning that the emissions trading obligation of an installation for the generation of electricity starts on the date of the first emissions of greenhouse gases, and thus potentially before the date of the first generation of electricity.
+It should be noted that the overall structure of Directive 2003/is based on the strict accounting of the issue, holding, transfer and cancellation of allowances. That accurate accounting is inherent in the very purpose of the directive, consisting in the establishment of a scheme for allowance trading, which aims to reduce greenhouse gas emissions in the atmosphere to a level that prevents dangerous anthropogenic interference with the climate, with the ultimate objective of protection of the environment (see, to that effect, judgment of April in Nordzucker, C‑148/14, EU:C:2015:287, paragraph 28).
+For the purposes of the implementation of that scheme, Article 2(1) of Directive 2003/provides that the scope of that directive applies to emissions from the activities listed in Annex I and greenhouse gases listed in Annex II, including, in particular, carbon dioxide.
+Moreover, it follows from Article of that directive that the Member States are to ensure that no installation undertakes any activity listed in Annex I resulting in emissions specified in relation to that activity unless its operator holds a permit issued by a competent authority in accordance with the conditions laid down in that directive.
+Under Article 6(2) of Directive 2003/87, the issue of such permits is subject to compliance, in particular, with the obligation, referred to in Article 12(3) thereof, in accordance with which operators are required to surrender, by April of the current year, in order to have them cancelled, a number of allowances equal to their total emissions during the preceding calendar year (see, to that effect, judgment of April in Nordzucker, C‑148/14, EU:C:2015:287, paragraph 29).
+As is apparent from Article 14(3) of Directive 2003/87, that obligation to surrender is based on the reports that the operators of an installation draw up in accordance with the rules set out in the regulation which the Commission is to adopt pursuant to Article 14(1) of that directive (see, to that effect, judgment of April in Nordzucker, C‑148/14, EU:C:2015:287, paragraph 31).
+On the basis of that provision, the Commission adopted Regulation No 601/2012, the second paragraph of Article 20(1) of which provides that, within the monitoring boundaries defined for each installation by the operator, the latter is to take into account all the relevant greenhouse gas emissions concerned, from all emission sources and source streams belonging to activities carried out at the installation and listed in Annex I to Directive 2003/87.
+The third paragraph of Article 20(1) of Regulation No 601/states that that obligation covers not only emissions from regular operations but also those generated by abnormal events, such as the start-up and shut-down of an installation. Since that list is not exhaustive, emissions generated during other abnormal events, such as those produced during the trial period of an installation, must also be taken into account for the purposes of the monitoring and reporting of emissions.
+Moreover, it should be recalled that Article 3(e) of Directive 2003/defines an installation for the purposes of that directive as a stationary technical unit where one or more activities listed in Annex I to that directive are carried out and any other directly associated activities which have a technical connection with the activities carried out on that site and which could have an effect on emissions and pollution (judgment of June in Elektriciteits Produktiemaatschappij Zuid-Nederland EPZ, C‑158/15, EU:C:2016:422, paragraph 25).
+The activities referred to in Annex I to that directive include the combustion of fuels in installations with a total rated thermal input exceeding MW, except in installations for the incineration of hazardous or municipal waste.
+The concept of combustion is defined in Article 3(t) of Directive 2003/as any oxidation of fuels, regardless of the way in which the heat, electrical or mechanical energy produced by this process is used, and any other associated activities.
+It is therefore not relevant, in an initial trial period during which there are releases of greenhouse gases into the atmosphere, that a power plant within the scope of Directive 2003/does not generate electricity, since it is not necessary, in the light of the obligation to surrender allowances, that the heat resulting from the combustion of fuels be used for that purpose.
+It follows from the foregoing that an installation for the generation of electricity from the combustion of fuels whose production capacity exceeds the value set out in Annex I to Directive 2003/is subject to the obligations of the emissions trading scheme and, in particular, to the reporting obligation, with respect to emissions from all sources and source streams belonging to activities carried out at the installation, including the emissions generated during a trial period preceding the start of normal operation of that installation.
+That interpretation of Directive 2003/is compatible with its primary objective, namely to protect the environment by means of a reduction of greenhouse gas emissions (see, to that effect, judgment of April in Borealis Polyolefine and Others, C‑191/14, C‑192/14, C‑295/14, C‑389/and C‑391/to C‑393/14, EU:C:2016:311, paragraph 79) and cannot be invalidated by the fact that the classification of an installation as electricity generator, within the meaning of Article 3(u) of that directive, is subject to the condition that it produce electricity for sale to third parties.
+That provision does not seek to define the scope of Directive 2003/but contributes to the implementation of a distinction which is important for the determination of the maximum annual amount of allowances within the meaning of Article 10a(5) of that directive (see, to that effect, judgment of April in Borealis Polyolefine and Others, C‑191/14, C‑192/14, C‑295/14, C‑389/and C‑391/to C‑393/14, EU:C:2016:311, paragraphs to 70).
+As the Court has already held, in accordance with the third paragraph of Article 10a(1) and Article 10a(3) to (5) of Directive 2003/87, a distinction needs to be made between the installations covered by Article 10a(3) of that directive and other installations which generate greenhouse gases. Electricity generators, inter alia, within the meaning of Article 3(u) of that directive fall within the first group (judgment of April in Borealis Polyolefine and Others, C‑191/14, C‑192/14, C‑295/14, C‑389/and C‑391/to C‑393/14, EU:C:2016:311, paragraph 70).
+Moreover, it should be noted that the fact that those obligations are addressed to operators of an installation does not mean that the emissions generated during trials performed by the constructor of those installations may not be taken into account. First, and as the Commission pointed out, the concept of ‘electricity generator’ referred to in Article 3(u) of Directive 2003/is not relevant for the purposes of the start of the emissions trading obligation. Secondly, the operator’s reporting and surrender obligations concerns also those emissions, since the emissions trading system applies, in accordance with Article 2(1) of that directive, to all emissions from the activities listed in Annex I to that directive.
+In the light of the above, the answer to the first question is that in so far as Annex I to Directive 2003/includes the ‘combustion of fuels in installations with a total rated thermal input exceeding MW’ in the list of categories of activities to which that directive applies, it must be interpreted as meaning that the emissions trading obligation of an installation for the generation of electricity starts on the date of the first emissions of greenhouse gases, and thus potentially before the date of the first generation of electricity.
+The second and third questions
+In view of the answer given to the first question, there is no need to answer the second and third questions.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+In so far as Annex I to Directive 2003/87/EC of the European Parliament and of the Council of October establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC, as amended by Directive 2009/29/EC of the European Parliament and of the Council of April includes the ‘combustion of fuels in installations with a total rated thermal input exceeding MW’ in the list of categories of activities to which that directive applies, it must be interpreted as meaning that the emissions trading obligation of an installation for the generation of electricity starts on the date of the first emissions of greenhouse gases, and thus potentially before the date of the first generation of electricity.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

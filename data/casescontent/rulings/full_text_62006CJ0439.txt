@@ -1,0 +1,508 @@
+
+Case C-439/Energy management proceedings 
+citiworks AG
+(Reference for a preliminary ruling from the Oberlandesgericht Dresden)
+(Internal market in electricity – Directive 2003/54/EC – Article 20(1) – Open access of third parties to electricity transmission and distribution systems)
+Summary of the Judgment
+1.        Preliminary rulings – Jurisdiction of the Court – Limits 
+(Art. EC)
+2.        Approximation of laws – Measures for the establishment and functioning of the internal market in electricity
+(European Parliament and Council Directive 2003/54, Arts 2, point 5, and 20(1))
+3.        Approximation of laws – Measures for the establishment and functioning of the internal market in electricity
+(European Parliament and Council Directive 2003/54, Art. 20(1))
+1.        A question referred by a national court asking, in the context of dispute relating to a challenge made by an electricity supplier
+         to an exemption granted under a provision of national law to certain operators of energy supply systems from having to allow
+         open access to their systems, whether the provisions of a directive preclude that derogating system, which grants that exemption
+         without the technical capacities of those systems having to be taken into account, is relevant, not hypothetical, and is for
+         that reason admissible. 
+      
+(see paras 33, 35-36)
+2.        The principle of open access, which constitutes one of the essential measures which the Member States are required to implement
+         in order to bring about the internal market in electricity, applies, according to Article 20(1) of Directive 2003/concerning
+         common rules for the internal market in electricity, to electricity transmission and distribution systems. 
+      
+A network which is located on a geographically connected operation zone and predominantly serves to supply the energy needs
+         of an undertaking and of connected undertakings and which transports, for supply to clients, electricity which is not at extra-high
+         or high voltage, irrespective of the quantity of electricity transported over that network and irrespective of the fact that
+         the operation of that network is merely an activity ancillary to the main activity of that undertaking, falls within the scope
+         of that provision and is therefore an electricity distribution system within the meaning of point of Article of Directive
+         2003/54. 
+      
+(see paras 44-48, 54)
+3.        Article 20(1) of Directive 2003/concerning common rules for the internal market in electricity must be interpreted as precluding
+         a provision of national legislation which exempts certain operators of energy supply systems from the obligation to provide
+         third parties with open access to those systems on the grounds that they are located on a geographically connected operation
+         zone and that they predominantly serve to supply the energy needs of the undertaking itself and of connected undertakings.
+         
+      
+Although that provision leaves the Member States free to take the measures necessary to establish a system of third-party
+         access to transmission or distribution systems and although, consequently, the Member States have authority over the form
+         and the methods to be used to implement such a system, the fact remains that, having regard to the importance of the principle
+         of open access to transmission or distribution systems, that margin of discretion does not authorise them to depart from that
+         principle except in those cases where the directive lays down exceptions or derogations. 
+      
+Such is not the case where a provision of national legislation does not come within the scope of any of the exceptions or
+         derogations from that principle laid down by the directive, whether 
+      
+– first, that established by Article 20(2) of Directive 2003/54, which, in order to permit the operator of a distribution
+         system to refuse access to its network where it lacks the necessary capacity, requires reasons and justification which can
+         be assessed on a case-by-case basis and does not authorise the Member States to lay down general derogations without a concrete
+         assessment of that incapacity or, 
+      
+– secondly, the derogation established by Article 3(8) of the directive since, on the one hand, the derogation laid down by
+         the legislation at issue is not justified by the risk that the operators of systems would be prevented from performing their
+         public-service obligations by the fact of that open access and, on the other, that derogation can be justified only by the
+         geographical or legal configuration of the area in which those systems are operated, or, 
+      
+– lastly, by application of Article 26(1) of the directive, which lays down derogations from Article thereof, justified
+         by substantial problems caused for the operation of small isolated systems, since the necessary agreement of the Commission,
+         which takes the form of a decision published in the Official Journal of the European Union, has been neither sought nor obtained by the Member State whose legislation is at issue. 
+      
+(see paras 55, 57-58, 60-65, operative part)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+May (*)
+      
+(Internal market in electricity – Directive 2003/54/EC – Article 20(1) – Open access of third parties to electricity transmission and distribution systems)
+In Case C‑439/06,
+REFERENCE for a preliminary ruling under Article EC from the Oberlandesgericht Dresden (Germany), made by decision of
+         October 2006, received at the Court on October 2006, in the energy management proceedings
+      
+citiworks AG
+intervening party:
+Sächsisches Staatsministerium für Wirtschaft und Arbeit als Landesregulierungsbehörde,
+v
+Flughafen Leipzig/Halle GmbH,
+Bundesnetzagentur,
+THE COURT (Third Chamber),
+composed of A. Rosas, President of the Chamber, J.N. Cunha Rodrigues, J. Klučka, P. Lindh (Rapporteur) and A. Arabadjiev,
+         Judges,
+      
+Advocate General: J. Mazák,
+Registrar: J. Swedenborg, Administrator,
+having regard to the written procedure and further to the hearing on September 2007,
+after considering the observations submitted on behalf of:
+–        citiworks AG, by C. Haellmigk, Rechtsanwalt,
+–        Sächsisches Staatsministerium für Wirtschaft und Arbeit als Landesregulierungsbehörde, by R. Huber, acting as Agent,
+–        Flughafen Leipzig/Halle GmbH, by R. Wagner and J. Kloos, Rechtsanwälte,
+–        the German Government, by M. Lumma and J. Möller, acting as Agents,
+–        the Polish Government, by E. Ośniecka-Tamecka, acting as Agent,
+–        the United Kingdom Government, by V. Jackson, acting as Agent, assisted by A. Henshaw, Barrister,
+–        the Commission of the European Communities, by B. Schima, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on December 2007,
+gives the following
+Judgment
+This reference for a preliminary ruling relates to the interpretation of Article 20(1) of Directive 2003/54/EC of the European
+         Parliament and of the Council of June concerning common rules for the internal market in electricity and repealing
+         Directive 96/92/EC (OJ L 176, p. 37).
+      
+The reference has been made in proceedings brought by citiworks AG (‘citiworks’) against the decision by which the Sächsisches
+         Staatsministerium für Wirtschaft und Arbeit als Landesregulierungsbehörde (Ministry of the Economy and Employment of the Land of Saxony, acting as regulatory authority for the Land; ‘the regulatory authority’) classified the energy supply network managed by Flughafen Leipzig/Halle GmbH (‘FLH’) as a ‘site
+         network’ within the meaning of the first point of Paragraph 110(1) of the Law on electricity and gas supply (Gesetz über die
+         Elektrizitäts- und Gasversorgung (Energiewirtschaftsgesetz))  of July (BGBl. I, p. 1970; ‘EnWG’).
+      
+ Legal context
+ Community legislation
+Pursuant to Article of Directive 2003/54:
+      
+‘This Directive establishes common rules for the generation, transmission, distribution and supply of electricity. It lays
+         down the rules relating to the organisation and functioning of the electricity sector, access to the market, the criteria
+         and procedures applicable to calls for tenders and the granting of authorisations and the operation of systems.’
+      
+Recitals (4) to (7) and (26) in the preamble to Directive 2003/are worded as follows:
+      
+‘(4)      The freedoms which the Treaty guarantees European citizens – free movement of goods, freedom to provide services and freedom
+         of establishment – are only possible in a fully open market, which enables all consumers freely to choose their suppliers
+         and all suppliers freely to deliver to their customers.
+      
+(5)      The main obstacles in arriving at a fully operational and competitive internal market relate amongst other things to issues
+         of access to the network, tarification issues and different degrees of market opening between Member States. 
+      
+(6)      For competition to function, network access must be non-discriminatory, transparent and fairly priced. 
+(7)      In order to complete the internal electricity market, non-discriminatory access to the network of the transmission or the
+         distribution system operator is of paramount importance. A transmission or distribution system operator may comprise one or
+         more undertakings. 
+      
+…
+(26)      The respect of the public service requirements is a fundamental requirement of this Directive, and it is important that common
+         minimum standards, respected by all Member States, are specified in this Directive, which take into account the objectives
+         of [consumer] protection, security of supply, environmental protection and equivalent levels of competition in all Member
+         States. It is important that the public service requirements can be interpreted on a national basis, taking into account national
+         circumstances and subject to the respect of Community law.’
+      
+Article of Directive 2003/54, entitled ‘Definitions’, states:
+      
+‘For the purposes of this Directive:
+…
+3.      “transmission” means the transport of electricity on the extra high-voltage and high-voltage interconnected system with a
+         view to its delivery to final customers or to distributors, but not including supply; 
+      
+4.      “transmission system operator” means a natural or legal person responsible for operating, ensuring the maintenance of and,
+         if necessary, developing the transmission system in a given area and, where applicable, its interconnections with other systems,
+         and for ensuring the long term ability of the system to meet reasonable demands for the transmission of electricity; 
+      
+5.      “distribution” means the transport of electricity on high-voltage, medium voltage and low voltage distribution systems with
+         a view to its delivery to customers, but not including supply; 
+      
+6.      “distribution system operator” means a natural or legal person responsible for operating, ensuring the maintenance of and,
+         if necessary, developing the distribution system in a given area and, where applicable, its interconnections with other systems
+         and for ensuring the long term ability of the system to meet reasonable demands for the distribution of electricity; 
+      
+“customers” means wholesale and final customers of electricity;
+8.      “wholesale customers” means any natural or legal persons who purchase electricity for the purpose of resale inside or outside
+         the system where they are established;
+      
+9.      “final customers” means customers purchasing electricity for their own use; 
+…
+19.      “supply” means the sale, including resale, of electricity to customers; 
+…
+26.      “small isolated system” means any system with consumption of less than GWh in the year 1996, where less than 5% of annual
+         consumption is obtained through interconnection with other systems; 
+      
+27.      “micro isolated system” means any system with consumption less than GWh in the year 1996, where there is no connection
+         with other systems; 
+      
+…’
+Paragraph (8) of Article of Directive 2003/54, entitled ‘Public service obligations and customer protection’, states:
+      
+‘Member States may decide not to apply the provisions of Articles 6, 7, and insofar as their application would obstruct
+         the performance, in law or in fact, of the obligations imposed on electricity undertakings in the general economic interest
+         and insofar as the development of trade would not be affected to such an extent as would be contrary to the interests of the
+         Community. The interests of the Community include, amongst others, competition with regard to eligible customers in accordance
+         with this Directive and Article of the Treaty.’ 
+      
+Article of the Directive, entitled ‘Third party access’, is worded as follows:
+      
+‘1.      Member States shall ensure the implementation of a system of third party access to the transmission and distribution systems
+         based on published tariffs, applicable to all eligible customers and applied objectively and without discrimination between
+         system users. Member States shall ensure that these tariffs, or the methodologies underlying their calculation, are approved
+         prior to their entry into force in accordance with Article and that these tariffs, and the methodologies – where only methodologies
+         are approved – are published prior to their entry into force. 
+      
+2.      The operator of a transmission or distribution system may refuse access where it lacks the necessary capacity. Duly substantiated
+         reasons must be given for such refusal, in particular having regard to Article 3. Member States shall ensure, where appropriate
+         and when refusal of access takes place, that the transmission or distribution system operator provides relevant information
+         on measures that would be necessary to reinforce the network. The party requesting such information may be charged a reasonable
+         fee reflecting the cost of providing such information.’ 
+      
+Article of Directive 2003/54, entitled ‘Derogations’, provides:
+      
+‘1.      Member States which can demonstrate, after the Directive has been brought into force, that there are substantial problems
+         for the operation of their small isolated systems, may apply for derogations from the relevant provisions of Chapters IV,
+         V, VI, VII, …, as far as refurbishing, upgrading and expansion of existing capacity are concerned, which may be granted to
+         them by the Commission. The latter shall inform the Member States of those applications prior to taking a decision, taking
+         into account respect for confidentiality. This decision shall be published in the Official Journal of the European      Union. … 
+      
+…’ 
+ National legislation
+The EnWG was adopted for the purpose of transposing Directive 2003/54.
+      
+Points and of Paragraph of the EnWG define energy supply systems as ‘electricity and gas supply systems passing through
+         one or more voltage levels or pressure levels’ and general supply systems as ‘energy supply systems whose function is to distribute
+         energy to third parties and which in terms of their size are not from the outset designed only to supply specific end consumers
+         already existing or identifiable at the time of system construction, but which are in principle open to supply all end consumers’.
+      
+Point of Paragraph of that Law defines the distribution system operator as any natural or legal person responsible for
+         operating energy supply systems.
+      
+Part of the EnWG includes Paragraphs and 21.  The first sentence of Paragraph 20(1) provides that operators of energy
+         supply systems ‘shall in accordance with objectively justified criteria grant anyone access to their system without discrimination
+         and shall publish on the Internet the conditions, including specimen contracts, and charges for such system access’.
+      
+Paragraph 21(1) of the EnWG provides:
+      
+‘Conditions and charges for system access shall be appropriate, non-discriminatory, transparent and no less favourable than
+         those which in practice or for costing purposes are applied and charged by system operators in comparable situations for service
+         provision within their undertaking or to connected or associated undertakings’.
+      
+Paragraph 110(1) of the EnWG lays down the conditions under which the status of site network may be obtained and states the
+         legal consequences of that status as follows:
+      
+‘Parts and and Paragraphs 4, and of this Law shall not apply to the operation of energy supply systems which 
+1.      are located on a geographically connected operation zone and which predominantly serve to supply the energy needs of the undertaking
+         itself or of connected undertakings within the meaning of point of Paragraph of this Law, 
+      
+2.      are located on a geographically connected private zone and which enable the system operator or his representative in pursuit
+         of a common primary commercial purpose, 
+      
+(a)      going beyond mere leasing or letting arrangements, and 
+(b)      which would be unreasonably hindered by application of the provisions mentioned in the introductory part of this sentence,
+         
+      
+to supply identifiable end consumers with energy, or 
+3.      are located on a closely geographically connected zone and serve predominantly their own supply purposes, 
+on condition that the energy supply system does not serve to provide general supply within the meaning of point of Paragraph
+         of this Law and that the operator of the site network or his representative possess such staff, technical and economic resources
+         as to ensure the long-term operation of the system in accordance with the provisions of this Law.’ 
+      
+ The dispute in the main proceedings and the question referred for a preliminary ruling
+Citiworks is an electricity supply undertaking incorporated under German law.  Since the beginning of it has supplied
+         electricity to the branch of DFS Deutsche Flugsicherung GmbH located on the site of Leipzig/Halle Airport. The latter undertaking
+         is wholly owned by the German State and is responsible for air traffic control in Germany. 
+      
+FLH is the undertaking which operates Leipzig/Halle Airport.  In that capacity, it maintains an energy supply system by which
+         it meets its own electricity requirements and those of other undertakings established on the airport site (‘the system
+         at issue in the main proceedings’). During 2004, that system supplied in total approximately MWh, of which 85.4% was
+         used by FLH itself. 
+      
+FLH applied for the system at issue in the main proceedings to be classified as a site network within the meaning of Paragraph
+         of the EnWG. During the inquiry into that application, on January 2006, the regulatory authority invited citiworks
+         to intervene. 
+      
+By decision of July 2006, the regulatory authority granted FLH’s application. Citiworks appealed against that finding to
+         the Oberlandesgericht Dresden (Higher Regional Court, Dresden) (Germany).
+      
+Before that court, citiworks submitted that Paragraph of the EnWG is incompatible with Article of Directive 2003/54.
+      
+In those circumstances, the Oberlandesgericht Dresden decided to stay the proceedings and to refer the following question
+         to the Court for a preliminary ruling:
+      
+‘Is the first point of Paragraph 110(1) of the [EnWG] compatible with Article 20(1) of Directive 2003/54/EC … inasmuch as,
+         in accordance with the conditions laid down in the first point of Paragraph 110(1) of the EnWG, a so-called “operation network”
+         is exempted from the general provisions on system access (Paragraphs to 28a of the EnWG) even where such system access
+         would not impose an unreasonable burden?’
+      
+ The question referred
+As a preliminary point, it must be borne in mind that, although the Court does not, in a reference for a preliminary ruling,
+         have jurisdiction to give a ruling on the compatibility of a national measure with Community law, it does have jurisdiction
+         to supply the national court with a ruling on the interpretation of Community law so as to enable that court to determine
+         whether such compatibility exists in order to decide the case before it (see, inter alia, Case C‑124/Borawitz [2000] ECR I‑7293, paragraph 17; Case C‑60/WWF Italia and Others [2006] ECR I‑5083, paragraph 18; and Case C‑257/Roby Profumi [2008] ECR I‑0000, paragraph 11).
+      
+By its question, the national court is asking, in essence, whether Article 20(1) of Directive 2003/is to be interpreted
+         as precluding a provision, such as the first point of Paragraph 110(1) of the EnWG, which exempts certain operators of energy
+         supply systems from the obligation to provide third parties with open access to those systems on the ground that they are
+         located on a geographically connected operation zone and predominantly serve to supply the energy needs of the undertaking
+         itself or of connected undertakings, where it is not established that open third-party access to those systems would impose
+         an unreasonable burden.
+      
+ Observations submitted to the Court
+Citiworks takes the view that Article 20(1) of Directive 2003/precludes the first point of Paragraph 110(1) of the EnWG.
+         One of the main objectives of that directive, it submits, is to allow energy suppliers to have open access to energy supply
+         systems in order that consumers may freely choose their supplier. 
+      
+It argues that the national provision which derogates from the principle of open third-party access to energy supply systems
+         runs contrary to that objective. There is no provision in Directive 2003/which authorises Member States freely to determine
+         in what situations they may derogate from that principle.
+      
+Furthermore, citiworks submits that the first point of Paragraph 110(1) of the EnWG is automatically applicable once the conditions
+         which it lays down have been met. 
+      
+As a preliminary point, FLH contends that the question referred is inadmissible on the ground that it is hypothetical. That
+         question, it argues, is based on wording of the first point of Paragraph 110(1) of the EnWG which does not exist, since that
+         provision does not refer to a notion of ‘unreasonable burden’.  In addition, the question is not relevant to the outcome of
+         the main proceedings.
+      
+On the substance, FLH, the regulatory authority and the German and United Kingdom Governments take the view that the system
+         at issue in the main proceedings is neither a transmission system nor a distribution system and, accordingly, does not come
+         within the scope of Directive 2003/54.  Such a system, they argue, is an internal system created by undertakings for their
+         own energy supplies, which has a low consumption and does not affect competition.  The first point of Paragraph 110(1) of
+         the EnWG is merely the expression of the discretion available to the German legislature when it implemented Directive 2003/54.
+         Moreover, the supply of electricity is ancillary to FLH’s main activity, which is the operation of an airport. 
+      
+The German Government submits that the system at issue in the main proceedings is a ‘customer installation’ which distributes
+         energy within a closed installation.  The undertaking which operates it is, it argues, not subject to the obligations imposed
+         by Directive 2003/on operators of distribution systems.  
+      
+The Polish Government takes the view that the first point of Paragraph 110(1) of the EnWG is incompatible with Directive 2003/54.
+         The Directive, it submits, contains a system of derogations linked to specific circumstances, which excludes derogations of
+         a general nature.
+      
+The Commission takes the view that Article 20(1) of Directive 2003/precludes the first point of Paragraph 110(1) of the
+         EnWG.  The system at issue in the main proceedings is, in its view, a distribution system within the meaning of that directive
+         and open access to that system must therefore be guaranteed.  The Commission points out that the principle of open access
+         of third parties to energy supply systems is essential and that derogations from that principle must be allowed only in clearly
+         defined circumstances.  In that regard, the size of the system is taken into account only in respect of questions concerning
+         legal separation of the operators of distribution systems, as follows from the final part of Article 15(2) of Directive 2003/54.
+      
+ Answer of the Court
+ Admissibility
+In accordance with established case-law, it is solely for the national court before which the dispute has been brought, and
+         which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances
+         of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions
+         which it submits to the Court (see, inter alia, Case C‑415/Bosman [1995] ECR I‑4921, paragraph 59, and Case C‑466/Acereda Herrera [2006] ECR I‑5341, paragraph 47).
+      
+The Court can refuse to give a preliminary ruling on a question submitted by a national court only where it is quite obvious
+         that the ruling sought by that court on the interpretation or validity of Community law bears no relation to the actual facts
+         of the main action or its purpose, or where the problem is hypothetical (see Bosman, paragraph 61, and Acereda Herrera, paragraph 48).
+      
+In the case in the main proceedings, the national court is dealing with a challenge made by an electricity supplier which
+         submits that Article 20(1) of Directive 2003/precludes a provision of national law which exempts certain operators of energy
+         supply systems from having to allow open access to their systems.
+      
+According to that court, the provision of national law at issue provides that that exemption applies to energy supply systems
+         without there being a requirement as to the existence of an unreasonable burden, whereas that requirement applies to the service
+         systems referred to in the second point of Paragraph 110(1) of the EnWG. 
+      
+Accordingly, the national court asks whether Article 20(1) of Directive 2003/precludes that derogating system, which removes
+         the obligation to allow third parties open access to certain energy supply systems without the technical capacities of those
+         systems having to be taken into account.
+      
+It follows that the question referred is relevant, not hypothetical, and is for that reason admissible. 
+      
+ Substance
+With a view to answering the question referred, it is necessary to interpret Article of Directive 2003/in the light
+         of the objectives of that directive and of its provisions in order to determine whether the system at issue in the main proceedings
+         comes within the scope of that directive and whether Article thereof precludes a provision such as the first point of Paragraph
+         110(1) of the EnWG, which dispenses with the obligation to provide third parties with open access to certain energy supply
+         systems. 
+      
+It is appropriate to recall that Directive 2003/repealed and replaced Directive 96/92/EC of the European Parliament and
+         of the Council of December concerning common rules for the internal market in electricity (OJ L 27, p. 20). 
+         It follows from recitals (1) and (2) in the preamble to Directive 2003/that it was adopted because of existing shortcomings
+         in achieving the creation of an internal market in electricity after implementation of Directive 96/92.  The objective of
+         Directive 2003/is therefore to improve the operation of that market. 
+      
+According to recital (5) in the preamble to Directive 2003/54, one of the main obstacles in arriving at a fully operational
+         and competitive internal market relates to issues of access to the network, tarification issues and different degrees of market
+         opening between Member States.
+      
+Recitals (6) and (7) in the preamble to that directive state that, for competition to function, non-discriminatory, transparent
+         and fairly priced network access is of paramount importance in bringing about the internal electricity market.
+      
+Articles to of Directive 96/provided for a negotiated system of access to electricity transmission and distribution
+         systems. The Community legislature decided to bring an end to that system in order to create more openness in the internal
+         electricity market, as is apparent from the proposal for a directive submitted by the Commission on March (COM (2001)
+         final, OJ C E, p. 60).
+      
+In that regard, it is appropriate to bear in mind that, in the context of the interpretation of Articles 7(5) and of Directive
+         96/92, the Court has emphasised the general nature of the principle of non-discrimination between users of systems (see, to
+         that effect, Case C‑17/VEMW and Others [2005] ECR I‑4983, paragraphs to 46).
+      
+Recital (4) in the preamble to Directive 2003/states that a fully open market must enable all consumers freely to choose
+         their suppliers and all suppliers freely to deliver to their customers.  As the Advocate General rightly observed in point
+         of his Opinion, these two rights are necessarily linked.  In order for customers to be able to choose freely their suppliers,
+         it is necessary that suppliers should have the right to access the different transmission and distribution systems which carry
+         electricity to the customers. 
+      
+It follows that open third-party access to transmission and distribution systems constitutes one of the essential measures
+         which the Member States are required to implement in order to bring about the internal market in electricity. 
+      
+The principle of open access applies, according to Article 20(1) of Directive 2003/54, to electricity transmission and distribution
+         systems. Points and of Article of that directive define the notions of ‘transmission’ and ‘distribution’. Transmission
+         is defined as the transport of electricity on the extra high-voltage and high-voltage interconnected system with a view to
+         its delivery to final customers or to distributors. Distribution is the transport of electricity on high-voltage, medium voltage
+         and low voltage distribution systems with a view to its delivery to customers.  Transmission and distribution do not include
+         supply.  The notion of ‘supply’ is defined in point of Article of Directive 2003/as the sale of electricity to customers.
+         
+      
+It follows from those definitions that, first, a transmission system is an interconnected system used to transport electricity
+         at extra-high and high voltage for sale to final customers or to distributors and, second, a distribution system is a system
+         used to transport electricity at high, medium or low voltage for sale to wholesale or final customers.
+      
+According to certain observations submitted to the Court, the system at issue in the main proceedings is neither a transmission
+         system nor a distribution system and for that reason does not come within the scope of Directive 2003/54. First, it is submitted,
+         it constitutes a site network and does not affect competition because of its low consumption and, second, the operation of
+         that system is merely an activity ancillary to the main activity of operating the airport.
+      
+With regard, first of all, to the nature of transmission and distribution systems within the meaning of Directive 2003/and the quantity of electricity transported on those systems, it is appropriate to note that the sole distinguishing criterion
+         between transmission and distribution is the voltage of that electricity.  
+      
+Within the meaning of points and of Article of that directive, a transmission system concerns electricity at extra-high
+         and high voltage and a distribution system ensures transmission of electricity at high, medium or low voltage. Directive 2003/refers to electricity consumption only in order to define the notions of ‘small isolated system’ and ‘micro isolated system’,
+         which give rise to the grant of derogations from certain obligations laid down by the Directive.  The Community legislature
+         did not therefore intend to exclude particular transmission or distribution systems from the scope of Directive 2003/by
+         reason of their size or consumption of electricity. 
+      
+It should be noted that the first point of Paragraph 110(1) of the EnWG does not define the systems which come within its
+         scope on the basis of their consumption of electricity. That provision refers to systems ‘located on a geographically connected
+         operation zone and which predominantly serve to supply the energy needs of the undertaking itself or of connected undertakings’.
+         
+      
+With regard, secondly, to the operation and purpose of transmission and distribution systems, Directive 2003/states, for
+         both types of system, that the electricity is transported with a view to delivery, without there being actual supply, and
+         that the operator is responsible for operating, ensuring the maintenance of and, if necessary, developing the system in a
+         given area and for guaranteeing its long-term capacity. 
+      
+Furthermore, Article of Directive 2003/requires undertakings that own or are responsible for distribution systems to
+         designate distribution system operators.  It is not apparent either from that provision or from any other provision of that
+         directive that only undertakings acting principally as distribution system operators are subject to the obligation to allow
+         open access to the systems. 
+      
+It is appropriate to observe in that regard that the first point of Paragraph 110(1) of the EnWG does not stipulate whether
+         the activity of operating the energy supply system must, for the operator, be a principal or ancillary activity for the purpose
+         of defining the systems which come within its scope. 
+      
+It is apparent from the decision for reference and the observations submitted to the Court that the system at issue in the
+         main proceedings supplies electricity to FLH itself and to other undertakings, all of which are located on the site of
+         Leipzig/Halle airport.  That system’s consumption was MWh in 2004, of which MWh were consumed by undertakings
+         other than FLH. According to the decision for reference, it was forecast that those undertakings’ share of the consumption
+         would reach MWh in 2007.  It follows that FLH does not operate a transmission system, as the electricity transported
+         is not at extra-high or high voltage, but rather that it operates a system which transports electricity with a view to its
+         supply to customers and which can be classified as an electricity distribution system within the meaning of point of Article
+         of Directive 2003/54.
+      
+Article 20(1) of that directive leaves the Member States free to take the measures necessary to establish a system of third-party
+         access to transmission or distribution systems. It follows that, in accordance with Article EC, the Member States have
+         authority over the form and the methods to be used to implement such a system.  Having regard to the importance of the principle
+         of open access to transmission or distribution systems, that margin of discretion does not, however, authorise them to depart
+         from that principle except in those cases where Directive 2003/lays down exceptions or derogations. 
+      
+It is therefore only where a provision such as the first point of Paragraph 110(1) of the EnWG comes within the scope of those
+         exceptions or derogations that it will be compatible with Directive 2003/54.
+      
+Firstly, Article 20(2) of Directive 2003/provides that the operator of a distribution system may refuse access where it
+         lacks the necessary capacity, on condition that duly substantiated reasons are given for such refusal. This possibility of
+         refusing access to the system is, however, to be assessed on a case-by-case basis and does not authorise the Member States
+         to lay down those derogations in a general manner without, in respect of each operator, a concrete assessment of the technical
+         incapacity of the system to meet the demand for access from third parties. 
+      
+Secondly, Article 3(8) of Directive 2003/allows the Member States not to apply the provisions of Article thereof where
+         the application of those provisions would obstruct the performance of the obligations imposed on electricity undertakings
+         in the general economic interest and in so far as the development of trade would not be affected to such an extent as would
+         be contrary to the interests of the Community.
+      
+It is appropriate to note that Article 3(2) and (3) of Directive 2003/applies to the public-service obligations which Member
+         States may impose on electricity undertakings in the general economic interest.  It follows from recital (26) in the preamble
+         to that directive that public-service requirements are to be interpreted on a national basis. 
+      
+It follows from Article 3(8) of Directive 2003/that the Member States may decide to restrict third-party rights of access
+         to transmission and distribution systems in order to ensure the supply of a public electricity service.  However, in order
+         to do so, the Member States must, on the one hand, ascertain whether an unrestricted right of access to the systems would
+         obstruct the performance by the system operators of their public-service obligations and, on the other, determine whether
+         that performance cannot be achieved by other means which do not impact adversely on the right of access to the systems, which
+         is one of the rights enshrined in Directive 2003/54. 
+      
+It is appropriate to observe that the derogation from the principle of open access to energy supply systems contained in the
+         first point of Paragraph 110(1) of the EnWG is not justified by the risk that the operators of systems coming within the scope
+         of that provision would be prevented from performing their public-service obligations by the fact of that open access.  That
+         derogation can be justified only by the geographical or legal configuration of the area in which those systems are operated.
+         Nor is it alleged by the German Government that the Federal Republic of Germany adopted the first point of Paragraph 110(1)
+         of the EnWG for the purpose of implementing Article 3(8) of Directive 2003/54. 
+      
+Thirdly, Article 26(1) of Directive 2003/provides that Member States which can demonstrate that there are substantial problems
+         for the operation of small isolated systems may apply for derogations from certain provisions of Directive 2003/54, including
+         Article thereof. 
+      
+Such derogations, however, require the agreement of the Commission, which takes the form of a decision published in the Official Journal of the European Union. Derogations of this kind have been granted to the Republic of Cyprus, by decision of September (OJ L 270, p. 72),
+         and to the Republic of Malta, by decision of November (OJ L 332, p. 32). It must be stated that the Federal Republic
+         of Germany has neither sought nor obtained from the Commission a decision on derogation under Article 26(1) of Directive 2003/54.
+         
+      
+It follows that a provision such as the first point of Paragraph 110(1) of the EnWG does not come within the scope of any
+         of the exceptions or derogations from the principle of open access to electricity transmission or distribution systems laid
+         down by Directive 2003/54.
+      
+It follows from all the foregoing that Article 20(1) of Directive 2003/must be interpreted as precluding a provision such
+         as the first point of Paragraph 110(1) of the EnWG, which exempts certain operators of energy supply systems from the obligation
+         to provide third parties with open access to those systems on the grounds that they are located on a geographically connected
+         operation zone and that they predominantly serve to supply the energy needs of the undertaking itself and of connected undertakings.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+Article 20(1) of Directive 2003/54/EC of the European Parliament and of the Council of June concerning common rules
+            for the internal market in electricity and repealing Directive 96/92/EC must be interpreted as precluding a provision such
+            as the first point of Paragraph 110(1) of the Law on electricity and gas supply, referred to as ‘the Law on energy management’
+            (Gesetz über die Elektrizitäts- und Gasversorgung (Energiewirtschaftsgesetz)) of July 2005, which exempts certain operators
+            of energy supply systems from the obligation to provide third parties with open access to those systems on the grounds that
+            they are located on a geographically connected operation zone and that they predominantly serve to supply the energy needs
+            of the undertaking itself and of connected undertakings.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

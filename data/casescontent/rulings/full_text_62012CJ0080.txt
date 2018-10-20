@@ -1,0 +1,157 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+April (
+*)
+‛Reference for a preliminary ruling — Freedom of establishment — Corporation tax — Tax relief — Groups of companies and consortia — National legislation permitting losses to be transferred between a company belonging to a consortium and a company that is a member of a group which are connected by a ‘link company’ that is a member of both the group and the consortium — Residence condition for the ‘link company’ — Discrimination on the basis of where the corporate seat is located — Ultimate group parent company established in a third State and owning the companies which are seeking to transfer losses through companies established in third States’
+In Case C‑80/12,
+REQUEST for a preliminary ruling under Article TFEU from the First-tier Tribunal (Tax Chamber) (United Kingdom), made by decision of December 2011, received at the Court on February 2012, in the proceedings
+Felixstowe Dock and Railway Company Ltd,
+Savers Health and Beauty Ltd,
+Walton Container Terminal Ltd,
+WPCS (UK) Finance Ltd,
+AS Watson Card Services (UK) Ltd,
+Hutchison Whampoa (Europe) Ltd,
+Kruidvat UK Ltd,
+Superdrug Stores plc
+v
+The Commissioners for Her Majesty’s Revenue & Customs,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, K. Lenaerts, Vice-President, M. Ilešič, L. Bay Larsen, T. von Danwitz, A. Borg Barthet, M. Safjan, Presidents of Chambers, A. Rosas, J. Malenovský, E. Levits, A. Ó Caoimh, J.-C. Bonichot (Rapporteur), A. Arabadjiev, D. Šváby and A. Prechal, Judges,
+Advocate General: N. Jääskinen,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on September 2013,
+after considering the observations submitted on behalf of:
+—
+Felixstowe Dock and Railway Company Ltd, Savers Health and Beauty Ltd, Walton Container Terminal Ltd, WPCS (UK) Finance Ltd, AS Watson Card Services (UK) Ltd, Hutchison Whampoa (Europe) Ltd, Kruidvat UK Ltd and Superdrug Stores plc, by P. Baker QC and N. Shaw QC,
+—
+the United Kingdom Government, by J. Beeko and A. Robinson, acting as Agents, D. Goy QC and G. Facenna, Barrister,
+—
+the German Government, by T. Henze, acting as Agent,
+—
+the French Government, by D. Colas and J.-S. Pilczer, acting as Agents,
+—
+the Netherlands Government, by J. Langer, C. Schillemans and C. Wissels, acting as Agents,
+—
+the European Commission, by W. Mölls and R. Lyal, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on October 2013,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles TFEU and TFEU.
+The request has been made in proceedings between, on the one hand, Felixstowe Dock and Railway Company Ltd, Savers Health and Beauty Ltd, Walton Container Terminal Ltd, WPCS (UK) Finance Ltd, AS Watson Card Services (UK) Ltd, Hutchison Whampoa (Europe) Ltd, Kruidvat UK Ltd and Superdrug Stores plc and, on the other, the Commissioners for Her Majesty’s Revenue & Customs concerning the application of the legislation relating to consortium group relief.
+Legal context
+The Income and Corporation Taxes Act 1988, in the version applicable to the main proceedings (‘ICTA’), provides in section 402:
+‘(1)   Subject to and in accordance with this Chapter and section 492(8), relief for trading losses and other amounts eligible for relief from corporation tax may, in the cases set out in subsections (2) and (3) below, be surrendered by a company (“the surrendering company”) and, on the making of a claim by another company (“the claimant company”) may be allowed to the claimant company by way of a relief from corporation tax called “group relief”.
+(2)   Group relief shall be available in a case where the surrendering company and the claimant company are both members of the same group.
+A claim made by virtue of this subsection is referred to as a “group claim”.
+(3)   Group relief shall also be available in the case of a surrendering company and a claimant company either where one of them is a member of a consortium and the other is—
+(a)
+a trading company which is owned by the consortium and which is not a per cent subsidiary of any company; or
+(b)
+a trading company—
+(i)
+which is a per cent subsidiary of a holding company which is owned by the consortium; and
+(ii)
+which is not a per cent subsidiary of a company other than the holding company; or
+(c)
+a holding company which is owned by the consortium and which is not a per cent subsidiary of any company;
+or, in accordance with section 406, where one of them is a member of a group of companies and the other is owned by a consortium and another company is a member of both the group and the consortium.
+A claim made by virtue of this subsection is referred to as “a consortium claim”.
+(3A)   Group relief is not available unless the following condition is satisfied in the case of both the surrendering company and the claimant company.
+(3B)   The condition is that the company is resident in the United Kingdom or is a non-resident company carrying on a trade in the United Kingdom through a permanent establishment.
+(4)   A consortium claim shall not be made if a profit on a sale of the share capital of the other company or its holding company which the member owns would be treated as a trading receipt of that member.
+(5)   Subject to the provisions of this Chapter, two or more claimant companies may make claims relating to the same surrendering company, and to the same accounting period of that surrendering company.
+(6)   A payment for group relief—
+(a)
+shall not be taken into account in computing profits or losses of either company for corporation tax purposes, and
+(b)
+shall not for any of the purposes of the Corporation Tax Acts be regarded as a distribution ...;
+and in this subsection “a payment for group relief” means a payment made by the claimant company to the surrendering company in pursuance of an agreement between them as respects an amount surrendered by way of group relief, being a payment not exceeding that amount.’
+Section 406(1) and (2) of ICTA provide:
+‘(1)   In this section—
+(a)
+“link company” means a company which is a member of a consortium and is also a member of a group of companies; and
+(b)
+“consortium company”, in relation to a link company, means a company owned by the consortium of which the link company is a member; and
+(c)
+“group member”, in relation to a link company, means a company which is a member of the group of which the link company is also a member but is not itself a member of the consortium of which the link company is a member.
+(2)   Subject to subsections (3) and (4) below, where the link company could (disregarding any deficiency of profits) make a consortium claim in respect of the loss or other amount eligible for relief of a relevant accounting period of a consortium company, a group member may make any consortium claim which could be made by the link company; …’
+Section 413(3)(a) of ICTA provides:
+‘two companies shall be deemed to be members of a group of companies if one is the per cent subsidiary of the other or both are per cent subsidiaries of a third company; …’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Hutchison Whampoa Ltd (‘the ultimate parent company’) is a company having its seat in Hong Kong.
+The claimant companies have their seats in the United Kingdom. As indirect subsidiaries at least 75% owned by the ultimate parent company, they are members of a group for the purposes of section 413(3)(a) of ICTA.
+Hutchison 3G UK Ltd (‘the loss-surrendering company’) is also a company having its seat in the United Kingdom. It is owned indirectly by a consortium and constitutes, on this basis, a consortium company within the meaning of section 406(1)(b) of ICTA.
+That consortium includes Hutchison 3G UK Investment Sàrl (‘the link company’), a company having its seat in Luxembourg. Being a member of both the group and the consortium that are referred to in paragraphs and above, it is a link company within the meaning of section 406(1)(a) of ICTA. In other words, it is through that company that the claimant companies are connected, for the purposes of the United Kingdom tax legislation relating to consortium group relief, to the loss-surrendering company.
+The link company is wholly owned by another company, Hutchison Europe Telecommunications Sàrl, which has its seat in Luxembourg.
+Hutchison Europe Telecommunications Sàrl itself is owned indirectly by the ultimate parent company, through various companies some of which have their seat in third States.
+The loss-surrendering company, whose objects are the establishment and operation of a mobile telephone network, made substantial investments which were recorded in its trading account between and 2005.
+Under sections to of ICTA, the losses which resulted from that activity could be set against the taxable profits of other resident companies that were members of the group or of the consortium.
+The claimant companies, which made a profit in the same tax years, sought to take advantage of that possibility and, to that end, claimed consortium group relief on the basis of sections 402(3) and of ICTA from the United Kingdom tax authorities.
+Their claims were rejected on the ground that the link company was neither resident in the United Kingdom for tax purposes nor carried on a trade there through a permanent establishment. That ground was challenged before the First-tier Tribunal (Tax Chamber), which then decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+In circumstances where:
+(1)
+the provisions of a Member State (such as the United Kingdom [of Great Britain and Northern Ireland]) provide for a company … to claim group relief for the losses of a company that is owned by a consortium … on the condition that a company that is a member of the same group of companies as the claimant company is also a member of the consortium …, and
+(2)
+the parent company of the group of companies (not itself being the claimant company, the consortium company or the link company) is not a national of the United Kingdom or any other Member State,
+do Articles [TFEU] and TFEU preclude the requirement that the “link company” be either resident in the United Kingdom or carrying on a trade in the United Kingdom through a permanent establishment situated there?
+2.
+If the answer to question is yes, is the United Kingdom required to provide a remedy to the claimant company (for example, by allowing that company to claim relief for the losses of the consortium company) in circumstances where:
+(1)
+the “link company” has exercised its freedom of establishment but the consortium company and the claimant companies have not exercised any of the freedoms protected by European law,
+(2)
+the link(s) between the surrendering company and the claimant company consist of companies not all of which are established in the [European Union or the European Economic Area]?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring tribunal asks, in essence, whether Articles TFEU and TFEU must be interpreted as precluding legislation of a Member State under which it is possible for a resident company that is a member of a group to have transferred to it losses sustained by another resident company which belongs to a consortium where a ‘link company’ which is a member of both the group and the consortium is also resident in that Member State, irrespective of the residence of the companies which hold, themselves or by means of intermediate companies, the capital of the link company and of the other companies concerned by the transfer of losses, whereas that legislation rules out such a possibility where the link company is established in another Member State.
+Freedom of establishment, which Article TFEU grants to European Union nationals, includes the right for them to take up and pursue activities as self-employed persons and to set up and manage undertakings under the conditions laid down for its own nationals by the law of the Member State where such establishment is effected. It entails, in accordance with Article TFEU, for companies or firms formed in accordance with the law of a Member State and having their registered office, central administration or principal place of business within the European Union, the right to exercise their activity in the Member State concerned through a subsidiary, a branch or an agency (Case C‑307/Saint-Gobain ZN
+EU:C:1999:438, paragraph 35, and Case C‑446/Marks & Spencer
+EU:C:2005:763, paragraph 30).
+Under legislation such as that at issue in the main proceedings, the possibility of transferring, by means of relief, losses sustained by a company that is resident for tax purposes in a Member State and belongs to a consortium to another company that is resident for tax purposes in the same Member State and is a member of a group is subject to the condition that a link company which is a member of both the consortium and the group is resident in that Member State or carries on a trade there through a permanent establishment.
+Relief such as that at issue in the main proceedings constitutes a tax advantage for the companies concerned. By speeding up the relief of the losses of loss-making companies by allowing them to be set off immediately against profits of other group companies, such relief confers a cash-flow advantage on the group (Marks & Spencer
+EU:C:2005:763, paragraph 32).
+The residence condition laid down for the link company thus introduces a difference in treatment between, on the one hand, resident companies connected, for the purposes of the national tax legislation, by a link company established in the United Kingdom, which are entitled to the tax advantage at issue, and, on the other hand, resident companies connected by a link company established in another Member State, which are not entitled to it.
+That difference in treatment makes it less attractive in tax terms to establish a link company in another Member State, since the applicable national legislation grants the tax advantage at issue only where link companies are established in the United Kingdom.
+The fact that, in the dispute in the main proceedings, it is not the claimant companies established in the United Kingdom whose freedom of establishment may have been restricted does not affect the finding in the previous paragraph as to the existence of a difference in treatment between resident companies connected by a link company established in the United Kingdom and resident companies connected by a link company established in another Member State.
+The Court has already held that a company may, for tax purposes, rely on a restriction of the freedom of establishment of another company which is linked to it in so far as such a restriction affects its own taxation (see, to this effect, Case C‑18/Philips Electronics
+EU:C:2012:532, paragraph 39).
+Consequently, in order to be effective, freedom of establishment must also entail, in a situation such as that at issue in the main proceedings, the possibility for the claimant companies to invoke it once they claim to be less well treated for tax purposes than if they had been connected to the loss-surrendering company through a link company established in the United Kingdom.
+In order for such a difference in treatment to be compatible with the provisions of the FEU Treaty on freedom of establishment, it must either relate to situations which are not objectively comparable — in which case the comparability of a crossborder situation with an internal situation must be examined having regard to the aim pursued by the national provisions at issue — or be justified by an overriding reason in the public interest (see, to this effect, Philips Electronics
+EU:C:2012:532, paragraph and the case-law cited).
+As regards comparability, it is undisputed that companies liable to tax which are connected by a link company established in the United Kingdom and those which are connected by a link company established in another Member State are, in the light of the aim of a tax regime such as that at issue in the main proceedings, placed in objectively comparable situations, so far as concerns the possibility of transferring to each other, by means of consortium group relief, losses sustained in the United Kingdom.
+As to overriding reasons in the public interest capable of justifying the restriction on freedom of establishment, it must be pointed out that none have been put forward by the United Kingdom Government either in its written observations or at the hearing.
+In those circumstances, the referring tribunal has the task of establishing the objectives pursued by the national legislation at issue in the main proceedings.
+None the less, in order to give a useful answer enabling the referring tribunal to decide the case before it, it is to be pointed out that neither the preservation of powers of taxation as between the Member States nor the combating of tax avoidance can properly be relied upon in support of such a system.
+Whilst the objective of preserving powers of taxation as between the Member States has been recognised as legitimate by the Court (see, inter alia, Case C‑371/National Grid Indus
+EU:C:2011:785, paragraph 45) in order to safeguard symmetry between the right to tax profits and the right to deduct losses (see Case C‑414/Lidl Belgium
+EU:C:2008:278, paragraph 33), in a situation such as that at issue in the main proceedings the power of the host Member State, on whose territory the economic activity giving rise to the losses of the consortium company is carried out, to impose taxes is not at all affected by the possibility of transferring, by relief and to a resident company, the losses sustained by another company, since the latter is also resident for tax purposes in that Member State (see, to this effect, Philips Electronics
+EU:C:2012:532, paragraphs and 26).
+A national measure restricting freedom of establishment may also be justified where it is designed to combat wholly artificial arrangements, aimed at circumventing the legislation of the Member State concerned (see, to this effect, Case C‑264/ICI
+EU:C:1998:370, paragraph 26; Case C‑324/Lankhorst-Hohorst
+EU:C:2002:749, paragraph 37; Case C‑9/de Lasteyrie du Saillant
+EU:C:2004:138, paragraph 50; and Marks & Spencer
+EU:C:2005:763, paragraph 57).
+Likewise, such a measure might be justified by the objective of combating tax havens.
+However, the Court has ruled that, in order for a restriction on freedom of establishment to be justified on such grounds, the specific objective of that restriction must be to prevent conduct involving the creation of wholly artificial arrangements which do not reflect economic reality with a view to escaping the tax normally due on the profits generated by activities carried out on national territory (Case C‑196/Cadbury Schweppes and Cadbury Schweppes Overseas
+EU:C:2006:544, paragraph 55).
+That is clearly not so in the case of national legislation such as that at issue in the main proceedings, which in no way pursues a specific objective of combating purely artificial arrangements, but is designed to grant a tax advantage to companies that are members of groups generally, and in the context of consortia in particular.
+It follows from the foregoing that the restriction on freedom of establishment to which the claimant companies object cannot be justified by overriding reasons in the public interest relating to the objective of preserving a balanced allocation of powers of taxation between the Member States or to combating purely artificial arrangements.
+Consequently, the legislation at issue in the main proceedings constitutes a restriction prohibited by Articles TFEU and TFEU.
+That conclusion is not affected by the circumstance raised by the referring tribunal that the ultimate parent company of the group and of the consortium as well as certain intermediate companies in the chain of interests are established in third States.
+Such a circumstance has no effect on the application of the freedom of establishment of the companies capable of benefiting from the tax advantage provided for by national legislation such as that at issue in the main proceedings.
+It is true that the chapter of the Treaty relating to freedom of establishment, unlike the chapter on the free movement of capital, does not contain any provision which extends the scope of its provisions to situations involving a national of a third State established outside the European Union. Its provisions cannot therefore be relied on by a company established in a third State (see, by analogy, as regards freedom to provide services, Case C‑452/Fidium Finanz
+EU:C:2006:631, paragraph 25).
+However, it does not follow from any provision of European Union law that the origin of the shareholders, be they natural or legal persons, of companies resident in the European Union affects the right of those companies to rely on freedom of establishment. As the Advocate General has observed in point of his Opinion, the status of being a European Union company is based, under Article TFEU, on the location of the corporate seat and the legal order where the company is incorporated, not on the nationality of its shareholders.
+Furthermore, and in any event, the places of residence of the ultimate parent company and the intermediate companies that control the companies seeking to transfer losses to each other are not of concern to the system of consortium group relief in the United Kingdom as resulting from the legislation at issue in the main proceedings. Apart from the residence condition for the link company, the provisions of ICTA, in the version in force at the time of the dispute in the main proceedings, are silent as to the location of any other company falling within or standing at the top of the chain of interests between the companies claiming and surrendering losses. Thus, as the United Kingdom Government agreed at the hearing, relief such as that claimed in the main proceedings could have been granted, on the basis of the same provisions, in a case where the link company was established in the United Kingdom, without this being prevented by the fact the ultimate parent company and intermediate group companies were established in a third State.
+Accordingly, the answer to the questions referred is that Articles TFEU and TFEU must be interpreted as precluding legislation of a Member State under which it is possible for a resident company that is a member of a group to have transferred to it losses sustained by another resident company which belongs to a consortium where a ‘link company’ which is a member of both the group and the consortium is also resident in that Member State, irrespective of the residence of the companies which hold, themselves or by means of intermediate companies, the capital of the link company and of the other companies concerned by the transfer of losses, whereas that legislation rules out such a possibility where the link company is established in another Member State.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring tribunal, the decision on costs is a matter for that tribunal. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Grand Chamber) hereby rules:
+ 
+Articles TFEU and TFEU must be interpreted as precluding legislation of a Member State under which it is possible for a resident company that is a member of a group to have transferred to it losses sustained by another resident company which belongs to a consortium where a ‘link company’ which is a member of both the group and the consortium is also resident in that Member State, irrespective of the residence of the companies which hold, themselves or by means of intermediate companies, the capital of the link company and of the other companies concerned by the transfer of losses, whereas that legislation rules out such a possibility where the link company is established in another Member State.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

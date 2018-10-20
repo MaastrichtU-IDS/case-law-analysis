@@ -1,0 +1,692 @@
+
+Case C-378/Raffinerie Mediterranee (ERG) SpA and Others
+v
+Ministero dello Sviluppo economico and Others
+(Reference for a preliminary ruling from the Tribunale amministrativo regionale della Sicilia)
+(‘Polluter pays’ principle – Directive 2004/35/EC – Environmental liability – Applicability ratione temporis – Pollution occurring before the date laid down for implementation of that directive and continuing after that date – National legislation imposing liability on a number of undertakings for the costs of remedying the damage connected with
+         such pollution – Requirement for fault or negligence – Requirement for a causal link – Public works contracts)
+      
+Summary of the Judgment
+Environment – Prevention and remedying of environmental damage – Environmental liability – Directive 2004/– ‘Polluter pays’
+            principle
+(European Parliament and Council Directive 2004/35, Arts 3(1), 4(5), 11(2) and 16(1))
+Where, in a situation entailing environmental pollution, the conditions for the application ratione temporis and/or ratione materiae of Directive 2004/on environmental liability with regard to the prevention and remedying of environmental damage are not
+         met, such a situation is governed by national law, in compliance with the rules of the Treaty, and without prejudice to other
+         secondary legislation.
+      
+Directive 2004/does not preclude national legislation which allows the competent authority acting within the framework
+         of the directive to operate on the presumption, also in cases involving diffuse pollution, that there is a causal link between
+         operators and the pollution found on account of the fact that the operators’ installations are located close to the polluted
+         area. However, in accordance with the ‘polluter pays’ principle, in order for such a causal link thus to be presumed, that
+         authority must have plausible evidence capable of justifying its presumption, such as the fact that the operator’s installation
+         is located close to the pollution found and that there is a correlation between the pollutants identified and the substances
+         used by the operator in connection with his activities.
+      
+Articles 3(1), 4(5) and 11(2) of Directive 2004/must be interpreted as meaning that, when deciding to impose measures for
+         remedying environmental damage on operators whose activities fall within Annex III to the directive, the competent authority
+         is not required to establish fault, negligence or intent on the part of operators whose activities are held to be responsible
+         for the environmental damage. On the other hand, that authority must, first, carry out a prior investigation into the origin
+         of the pollution found, and it has a discretion as to the procedures, means to be employed and length of such an investigation.
+         Second, the competent authority is required to establish, in accordance with national rules on evidence, a causal link between
+         the activities of the operators at whom the remedial measures are directed and the pollution.
+      
+Moreover, since Article 16(1) of Directive 2004/35, in the same way as Article EC, expressly states that the directive
+         is not to prevent Member States from maintaining or adopting more stringent measures in relation to the prevention and remedying
+         of environmental damage, a Member State may decide, inter alia, that operators engaged in activities other than those set
+         out in Annex III to the directive can be held strictly liable for environmental damage, that is to say, as defined in Article
+         2(1)(a) to (c) of the directive, not only damage to protected species and habitats but also water damage and land damage.
+      
+(see paras 44, 57, 65, 68-70, operative part)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+March (*)
+      
+(‘Polluter pays’ principle – Directive 2004/35/EC – Environmental liability – Applicability ratione temporis – Pollution occurring before the date laid down for implementation of that directive and continuing after that date – National legislation imposing liability on a number of undertakings for the costs of remedying the damage connected with
+         such pollution – Requirement for fault or negligence – Requirement for a causal link – Public works contracts)
+      
+In Case C‑378/08,
+REFERENCE for a preliminary ruling under Article EC from the Tribunale amministrativo regionale della Sicilia (Italy),
+         made by decision of June 2008, received at the Court on August 2008, in the proceedings
+      
+Raffinerie Mediterranee (ERG) SpA,
+Polimeri Europa SpA,
+Syndial SpA
+v
+Ministero dello Sviluppo economico,
+Ministero della Salute,
+Ministero Ambiente e Tutela del Territorio e del Mare,
+Ministero delle Infrastrutture,
+Ministero dei Trasporti,
+Presidenza del Consiglio dei Ministri,
+Ministero dell’Interno,
+Regione siciliana,
+Assessorato regionale Territorio ed Ambiente (Sicilia),
+Assessorato regionale Industria (Sicilia),
+Prefettura di Siracusa,
+Istituto superiore di Sanità,
+Commissario Delegato per Emergenza Rifiuti e Tutela Acque (Sicilia),
+Vice Commissario Delegato per Emergenza Rifiuti e Tutela Acque (Sicilia),
+Agenzia Protezione Ambiente e Servizi tecnici (APAT),
+Agenzia regionale Protezione Ambiente (ARPA Sicilia),
+Istituto centrale Ricerca scientifica e tecnologica applicata al Mare,
+Subcommissario per la Bonifica dei Siti contaminati,
+Provincia regionale di Siracusa,
+Consorzio ASI Sicilia orientale Zona Sud,
+Comune di Siracusa,
+Comune di Augusta,
+Comune di Melilli,
+Comune di Priolo Gargallo,
+Azienda Unità sanitaria locale N°8,
+Sviluppo Italia Aree Produttive SpA,
+Invitalia (Agenzia nazionale per l’attrazione degli investimenti e lo sviluppo d’impresa) SpA, formerly Sviluppo Italia SpA,
+      
+intervening parties:
+ENI Divisione Exploration and Production SpA,
+ENI SpA,
+Edison SpA,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, J.N. Cunha Rodrigues, K. Lenaerts, J.‑C. Bonichot, R. Silva de Lapuerta, P. Lindh and C. Toader
+         (Rapporteur), Presidents of Chambers, C.W.A. Timmermans, K. Schiemann, P. Kūris, E. Juhász, A. Arabadjiev and J.‑J. Kasel,
+         Judges,
+      
+Advocate General: J. Kokott,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on September 2009,
+after considering the observations submitted on behalf of:
+–        Raffinerie Mediterranee (ERG) SpA, by D. De Luca, M. Caldarera, L. Acquarone and G. Acquarone, avvocati,
+–        Polimeri Europa SpA and Syndial SpA, by P. Amara, S. Grassi, G.M. Roberti and I. Perego, avvocati,
+–        Sviluppo Italia Aree Produttive SpA and Invitalia (Agenzia nazionale per l’attrazione degli investimenti e lo sviluppo d’impresa)
+         SpA, formerly Sviluppo Italia SpA, by F. Sciaudone, avvocato,
+      
+–        ENI SpA, by G.M. Roberti, I. Perego, S. Grassi and C. Giuliano, avvocati,
+–        the Italian Government, by G. Palmieri, acting as Agent, and D. Del Gaizo, avvocato dello Stato,
+–        the Greek Government, by A. Samoni-Rantou and G. Karipsiadis, acting as Agents,
+–        the Netherlands Government, by C. Wissels, B. Koopman and D.J.M. de Grave, acting as Agents,
+–        the Commission of the European Communities, by C. Zadra and D. Recchia, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on October 2009,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of the ‘polluter pays’ principle, Directive 2004/35/EC
+         of the European Parliament and of the Council of April on environmental liability with regard to the prevention and
+         remedying of environmental damage (OJ L 143, p. 56) and, in particular, Directive 2004/18/EC of the European Parliament
+         and of the Council of March on the coordination of procedures for the award of public works contracts, public supply
+         contracts and public service contracts (OJ L 134, p. 114). 
+      
+The reference was made in proceedings between Raffinerie Mediterranee (ERG) SpA, Polimeri Europa SpA and Syndial SpA and various
+         national, regional and municipal authorities in Italy concerning the measures for remedying environmental damage adopted by
+         those authorities in relation to the Augusta roadstead (Italy), in the vicinity of which are located the installations and/or
+         land of those companies. 
+      
+ Legal context
+ European Union law
+The recitals in the preamble to Directive 2004/which are relevant to the present case are worded as follows:
+      
+‘(1)      There are currently many contaminated sites in the Community, posing significant health risks, and the loss of biodiversity
+         has dramatically accelerated over the last decades. Failure to act could result in increased site contamination and greater
+         loss of biodiversity in the future. ... 
+      
+(2)      … The fundamental principle of this Directive should therefore be that an operator whose activity has caused the environmental
+         damage or the imminent threat of such damage is to be held financially liable …
+      
+…
+(8)      This Directive should apply, as far as environmental damage is concerned, to occupational activities which present a risk
+         for human health or the environment. Those activities should be identified, in principle, by reference to the relevant Community
+         legislation which provides for regulatory requirements in relation to certain activities or practices considered as posing
+         a potential or actual risk for human health or the environment.
+      
+(9)      This Directive should also apply, as regards damage to protected species and natural habitats, to any occupational activities
+         other than those already directly or indirectly identified by reference to Community legislation as posing an actual or potential
+         risk for human health or the environment. In such cases the operator should only be liable under this Directive whenever he
+         is at fault or negligent. 
+      
+…
+(13)      Not all forms of environmental damage can be remedied by means of the liability mechanism. For the latter to be effective,
+         there need to be one or more identifiable polluters, the damage should be concrete and quantifiable, and a causal link should
+         be established between the damage and the identified polluter(s). Liability is therefore not a suitable instrument for dealing
+         with pollution of a widespread, diffuse character, where it is impossible to link the negative environmental effects with
+         acts or failure to act of certain individual actors. 
+      
+…
+(24)      It is necessary to ensure that effective means of implementation and enforcement are available, while ensuring that the legitimate
+         interests of the relevant operators and other interested parties are adequately safeguarded. Competent authorities should
+         be in charge of specific tasks entailing appropriate administrative discretion, namely the duty to assess the significance
+         of the damage and to determine which remedial measures should be taken. 
+      
+…
+(30)      Damage caused before the expiry of the deadline for implementation of this Directive should not be covered by its provisions.
+         
+      
+…’
+In accordance with Article 3(1) of Directive 2004/35, entitled ‘Scope’, the directive is to apply to:
+      
+‘…
+(a)      environmental damage caused by any of the occupational activities listed in Annex III, and to any imminent threat of such
+         damage occurring by reason of any of those activities;
+      
+(b)      damage to protected species and natural habitats caused by any occupational activities other than those listed in Annex III,
+         and to any imminent threat of such damage occurring by reason of any of those activities, whenever the operator has been at
+         fault or negligent.’
+      
+Article 4(5) of the directive provides that it ‘shall only apply to environmental damage or to an imminent threat of such
+         damage caused by pollution of a diffuse character, where it is possible to establish a causal link between the damage and
+         the activities of individual operators’. 
+      
+Article of the directive, entitled ‘Remedial action‘, provides as follows:
+      
+‘1.      Where environmental damage has occurred the operator shall, without delay, inform the competent authority of all relevant
+         aspects of the situation and take:
+      
+…
+(b)      the necessary remedial measures, in accordance with Article 7. 
+2.      The competent authority may, at any time: 
+…
+(c)      require the operator to take the necessary remedial measures; 
+(d)      give instructions to the operator to be followed on the necessary remedial measures to be taken; or 
+(e)      itself take the necessary remedial measures. 
+3.      The competent authority shall require that the remedial measures are taken by the operator. If the operator fails to comply
+         with the obligations laid down in paragraph or … (c) or (d), cannot be identified or is not required to bear the costs
+         under this Directive, the competent authority may take these measures itself, as a means of last resort.’ 
+      
+As regards costs connected with preventive and remedial action, Article of Directive 2004/provides as follows:
+      
+‘1.      The operator shall bear the costs for the preventive and remedial actions taken pursuant to this Directive.
+2.      Subject to paragraphs and 4, the competent authority shall recover, inter alia, via security over property or other appropriate
+         guarantees from the operator who has caused the damage or the imminent threat of damage, the costs it has incurred in relation
+         to the preventive or remedial actions taken under this Directive.
+      
+However, the competent authority may decide not to recover the full costs where the expenditure required to do so would be
+         greater than the recoverable sum or where the operator cannot be identified. 
+      
+3.      An operator shall not be required to bear the cost of preventive or remedial actions taken pursuant to this Directive when
+         he can prove that the environmental damage or imminent threat of such damage:
+      
+(a)      was caused by a third party and occurred despite the fact that appropriate safety measures were in place; 
+…
+In such cases Member States shall take the appropriate measures to enable the operator to recover the costs incurred. 
+…’
+Article of the directive, entitled ‘Cost allocation in cases of multiple party causation’ is worded as follows:
+      
+‘This Directive is without prejudice to any provisions of national regulations concerning cost allocation in cases of multiple
+         party causation especially concerning the apportionment of liability between the producer and the user of a product.’ 
+      
+Article of the directive, entitled ‘Competent authority‘, provides as follows:
+      
+‘1.      Member States shall designate the competent authority(ies) responsible for fulfilling the duties provided for in this Directive.
+         
+      
+2.      The duty to establish which operator has caused the damage or the imminent threat of damage, to assess the significance of
+         the damage and to determine which remedial measures should be taken with reference to Annex II shall rest with the competent
+         authority. To that effect, the competent authority shall be entitled to require the relevant operator to carry out his own
+         assessment and to supply any information and data necessary. 
+      
+…
+4.      Any decision taken pursuant to this Directive which imposes preventive or remedial measures shall state the exact grounds
+         on which it is based. Such decision shall be notified forthwith to the operator concerned, who shall at the same time be informed
+         of the legal remedies available to him under the laws in force in the Member State concerned and of the time-limits to which
+         such remedies are subject.’
+      
+Article of Directive 2004/35, entitled ‘Relationship with national law’ provides in paragraph thereof that the directive
+         ‘shall not prevent Member States from maintaining or adopting more stringent provisions in relation to the prevention and
+         remedying of environmental damage, including the identification of additional activities to be subject to the prevention and
+         remediation requirements of this Directive and the identification of additional responsible parties‘.
+      
+Article of the directive, entitled ‘Temporal application‘, provides that the Directive is not to apply to: 
+      
+‘…
+–        damage caused by an emission, event or incident that took place before the date referred to in Article 19(1); 
+–        damage caused by an emission, event or incident which takes place subsequent to the date referred to in Article 19(1) when
+         it derives from a specific activity that took place and finished before the said date;
+      
+–        damage, if more than years have passed since the emission, event or incident, resulting in the damage, occurred.’
+The first paragraph of Article 19(1) of the directive states that Member States were to bring into force the laws, regulations
+         and administrative provisions necessary to comply with the directive by April 2007.
+      
+Section of Annex III to Directive 2004/refers in particular to the operation of installations subject to permit in pursuance
+         of Council Directive 96/61/EC of September concerning integrated pollution prevention and control (OJ L 257,
+         p. 26). 
+      
+Article of Directive 96/states that the purpose of the directive is to achieve integrated prevention and control of pollution
+         arising from the activities listed in Annex I to the directive. Sections 2.and 2.of Annex I refer, respectively, to ‘Energy
+         industries’ and the ‘Chemical industry’. 
+      
+ National law
+The Tribunale amministrativo regionale della Sicilia refers to Legislative Decree No of February transposing Directive
+         91/156/EEC [of the Council, of March 1991, amending Directive 75/442/EEC on waste] (OJ L 78, p 32), Directive 91/689/EEC
+         [of the Council, of December 1991] on hazardous waste (OJ L 377, p. 20) and Directive 94/62/EC [of the European Parliament
+         and of the Council, of December 1994] on packaging and packaging waste (OJ L 365, p. 10) (GURI No 38, Ordinary Supplement,
+         of February 1997) (‘Legislative Decree No 22/1997’). That decree was repealed and replaced by Legislative Decree No of April on environmental standards (GURI No 88, Ordinary Supplement, of April 2006), Articles to of which
+         transpose Directive 2004/into Italian law. 
+      
+Article of Legislative Decree No 22/provides that ‘… any person who exceeds the limits laid down in paragraph 1(a),
+         albeit inadvertently, or creates a tangible and genuine risk of those limits being exceeded, shall be required, at his own
+         expense, to take measures for the safety, decontamination and environmental reinstatement of the polluted areas and the installations
+         which present a threat of pollution …’. 
+      
+Article of Ministerial Decree No of October laying down the criteria, procedures and detailed rules for the
+         safety, decontamination and environmental reinstatement of polluted sites, in accordance with Article of Legislative Decree
+         No of February 1997, as amended and supplemented (GURI No 293, Ordinary Supplement, of December 1999), is worded as
+         follows:
+      
+‘The owner of a site or any other person who … intends of his own initiative to initiate the procedures for emergency safety
+         measures and measures for decontamination and environmental reinstatement, in accordance with Article 17(13)(a) of Legislative
+         Decree [No 22/1997], shall be required to communicate to the region, the province and the municipality the situation concerning
+         the pollution found and any emergency safety measures necessary for the protection of health and the environment which have
+         been adopted and are being implemented. The communication must be accompanied by appropriate technical documentation which
+         must disclose the nature of those measures … [T]he municipality or, where the pollution affects the territory of a number
+         of municipalities, the region, shall verify the effectiveness of the emergency safety measures adopted and may impose additional
+         requirements and measures, in particular monitoring measures to be implemented to assess the level of pollution and the controls
+         to be carried out to assess the effectiveness of the measures implemented to protect public health and the immediate environment
+         …’
+      
+Article 311(2) of Legislative Decree No of April provides as follows:
+      
+‘Any person who, by committing an unlawful act or by failing to act or to exhibit due conduct, thereby infringing the law,
+         regulations or administrative measures, as a result of negligence, incompetence, recklessness or breach of technical rules,
+         damages the environment by altering, spoiling or destroying it in whole or in part shall be required to restore it to its
+         previous condition or, failing which, to pay an equivalent amount by way of compensation to the State.’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+The dispute in the main proceedings concerns the Priolo Gargallo Region (Sicily), which has been declared a ‘Site of National
+         Interest for decontamination purposes’, and in particular the Augusta roadstead. The roadstead has been affected by recurring
+         incidents of environmental pollution, dating back as far as the 1960s, when the Augusta-Priolo-Melilli site was established
+         as a hub for the petroleum industry. Since that time, numerous undertakings operating in the hydrocarbon and the petrochemical
+         sectors have been set up and/or succeeded one another in the region. 
+      
+The area was the subject of a ‘characterisation’ designed to assess the condition of the land, the water-table, the coastal
+         sea and the seabed. In accordance with Article of Ministerial Decree No of October 1999, the undertakings established
+         on the petrochemical site, as owners of land-based industrial areas located on the site of national interest, submitted proposals
+         for emergency safety measures and measures for decontaminating the water-table, which were approved by interministerial decree.
+         
+      
+By various successive measures and in view of the delay in implementing the proposed measures, for which it criticised the
+         undertakings concerned, the competent public authority required the undertakings to decontaminate and reinstate the seabed
+         of the Augusta roadstead, and in particular to remove contaminated sediment existing there up to a depth of two metres. It
+         indicated that, if those undertakings failed to comply, the works would be carried out by the authorities of their own initiative
+         at the expense of those undertakings. At the preparatory meeting organised by the relevant departments on July 2006, it
+         was also decided that the measures previously approved should be supplemented by the physical containment of the water-table.
+         
+      
+Claiming that such a task was impracticable and would expose them to disproportionate costs, the undertakings concerned brought
+         actions against those administrative decisions before the Tribunale amministrativo regionale della Sicilia. By judgment No 1254/of July 2007, that court upheld the actions, taking the view that the decontamination obligations were unlawful, since
+         account had not been taken, when those obligations were imposed, of the ‘polluter pays’ principle or of the national rules
+         governing decontamination procedures or indeed of the rule that the parties should be heard. Moreover, there had been no discussion
+         with the undertakings in question concerning the conditions under which such a decontamination operation was to be implemented.
+         
+      
+That judgment was challenged by the administrative authorities before the Consiglio di Giustizia amministrativa della Regione
+         Sicilia (Council of Administrative Justice for the Region of Sicily), which, by interim order of April 2008, considered
+         that the prima facie case of the appeal had been made out and, taking account of the harmful consequences of the delay in
+         implementing the measures prescribed by those authorities, ordered that judgment No 1254/be stayed. 
+      
+Subsequently, the administrative authorities came to the view that the measures previously approved were inadequate for the
+         purpose of remedying the pollution in the Augusta roadstead. Faced, moreover, with the refusal to comply on the part of the
+         applicant companies, it was decided at an interdepartmental meeting held on December that the companies should be
+         required to take further measures, including the building of a dam, the contract for the planning and execution of which was
+         awarded to Sviluppo Italia Aree produttive SpA (‘Sviluppo’). Those measures were confirmed by decisions of interdepartmental
+         meetings held on March and April 2008. Lastly, Decree No of February was adopted concerning ‘a final measure
+         approved by the interdepartmental meeting held on December relating to the Priolo Site of National Interest’ (‘the
+         Decree of February 2008’). 
+      
+The applicants in the main proceedings brought a new action against that decree and other related administrative measures
+         before the Tribunale amministrativo regionale della Sicilia. In that action, they submit, inter alia, that the project chosen,
+         drawn up by Sviluppo, which was entrusted with the execution of the project without a public tendering procedure, did not
+         pursue an environmental objective but, instead, had as its purpose the construction of a public infrastructure, namely the
+         creation of an artificial island within the Augusta roadstead, using contaminated sediment. 
+      
+The Tribunale Amministrativo Regionale della Sicilia states that, in earlier decisions relating to the same dispute, the Consiglio
+         di Giustizia amministrativa della Regione Sicilia, sitting as an appeal court, took the view, inter alia, that ‘any assessment
+         … aimed at determining whether or not the current proprietors or occupants of industrial areas are involved is irrelevant
+         … as is any assessment aimed at determining whether there is any liability on the part of the bodies of the public administration
+         which have authorised the exercise of polluting activities in the past …’. According to that court, ‘[a] balance between the
+         various interests of constitutional importance of protection of health, the environment and private enterprise is … to be
+         found ... in a criterion of strict liability, in accordance with which economic operators which produce by and derive profit
+         from carrying on hazardous activities must, insofar as the activities pollute per se, or the operators use contaminated structures
+         for production and sources of continuing pollution, themselves bear in full the costs necessary to secure the protection of
+         the environment and of the health of the population, in a causal correlation with all of the aspects … of the hazards associated
+         with the industrial use of the site’. 
+      
+The referring court states that the practice of the competent public authority as it currently stands, which was confirmed
+         by the appeal court, therefore consists in making the undertakings operating in the Augusta roadstead shoulder responsibility
+         for existing environmental pollution, without any distinction being made between past and present pollution or any assessment
+         carried out as to the direct responsibility of each of the undertakings concerned for the damage. 
+      
+Envisaging that its case-law may develop in line with that of the appeal court, the Tribunale Amministrativo Regionale della
+         Sicilia sets out the specific situation of the pollution that is particular to the Augusta roadstead. It points out in particular
+         that there has been a whole succession of petrochemical undertakings in the area, so that it would be not only impossible
+         but also pointless to determine each individual’s share of responsibility, especially since the very fact of pursuing activities
+         which are in themselves hazardous on a contaminated site should be regarded as sufficient to hold those undertakings liable.
+         
+      
+Those were the circumstances in which the Tribunale amministrativo regionale della Sicilia decided to stay the proceedings
+         and to refer the following questions to the Court for a preliminary ruling: 
+      
+‘(1)      Do the “polluter pays” principle (Article EC …) and the provisions of Directive [2004/35] preclude national legislation
+         which allows the public authorities to require private undertakings – merely owing to the fact that they currently carry on
+         their activities in an area which has been contaminated for a long time or borders on an area which is historically contaminated
+         – to implement rehabilitation measures, irrespective of whether or not any preliminary investigation has been carried out
+         to identify the party responsible for the pollution?
+      
+(2)      Do the “polluter pays’ principle (Article EC …) and the provisions of Directive [2004/35] preclude national legislation
+         which allows the public authorities to impute liability to make good the environmental damage in a particular form to the
+         person who owns the property rights and/or carries on commercial activities on the contaminated site without first having
+         to assess whether there is a causal link between the conduct of that person and the occurrence of the contamination, by virtue
+         merely of that person’s “situation” (namely, that of being an operator whose activities are carried on inside the site)?
+      
+(3)      Do the provisions of Community law in Article EC … and Directive [2004/35] preclude national legislation which, overriding
+         the “polluter pays” principle, allows the public authorities to impute liability to make good the environmental damage in
+         a particular form to the person who owns the property rights and/or operates an undertaking on the contaminated site, without
+         first having to assess whether there is a causal link between the conduct of that person and the occurrence of the contamination
+         or the subjective requirement of intent or negligence?
+      
+(4)      Do the Community competition principles laid down in the Treaty establishing the European Community and Directive 2004/18/EC,
+         [Council] Directive 93/97/EEC [of June concerning the coordination of procedures for the award of public works contracts
+         (OJ L 199, p. 54)] and [Council] Directive 89/665/EEC [of December on the coordination of the laws, regulations
+         and administrative provisions relating to the application of review procedures to the award of public supply and public works
+         contracts (OJ L 395, p. 33)] preclude national legislation which allows the public authorities to award to private persons
+         (Sviluppo SpA and [Sviluppo]) the activities of characterisation and of planning and performing decontamination operations
+         – or more correctly, the carrying out of public works – in areas owned by the State directly, without first carrying out the
+         necessary public tendering procedures?’
+      
+ The questions referred
+ Admissibility
+The Italian Government submits that the reference for a preliminary ruling is inadmissible, in particular because, first,
+         the questions referred would require the Court to examine national legislation and, second, the referring court’s objective
+         is not to resolve the disputes before it but to call into question the case-law of its appeal court. 
+      
+In that connection, it is sufficient to point out that, although the Court does not, in a reference for a preliminary ruling,
+         have jurisdiction to give a ruling on the compatibility of a national measure with European Union law, it does have jurisdiction
+         to supply the national court with a ruling on the interpretation of that law so as to enable that court to determine whether
+         such compatibility exists and to decide the case before it (Case C‑439/citiworks [2008] ECR I‑3913, paragraph and the case-law cited). 
+      
+Moreover, a lower court must be free, if it considers that a higher court’s legal ruling could lead it to give a judgment
+         contrary to EU law, to refer to the Court questions which concern it (see, to that effect, Case 166/Rheinmühlen-Düsseldorf [1974] ECR 33, paragraph 4). 
+      
+In view of the foregoing observations, the present reference for a preliminary ruling is admissible and it is therefore necessary
+         to examine the various questions referred by the Tribunale amministrativo regionale della Sicilia. 
+      
+ The first three questions 
+By its first three questions, which it is appropriate to examine together, the Tribunale amministrativo regionale della Sicilia
+         asks, in essence, whether the ‘polluter pays’ principle, as laid down in the first subparagraph of Article 174(2) EC, and
+         the provisions of Directive 2004/35, which seeks to give that principle concrete expression in the field of environmental
+         liability, preclude national legislation which allows the competent authority to impose measures for remedying environmental
+         damage on commercial operators on account of the fact that their installations are located close to a contaminated area, without
+         carrying out any preliminary investigation into the occurrence of the contamination or establishing a causal link between
+         the environmental damage and those operators or indeed intent or negligence on the part of those operators. 
+      
+In the light of the facts of the case in the main proceedings, as set out by the referring court and as referred to by the
+         Italian, Greek and Netherlands Governments and the Commission of the European Communities, it is necessary to determine the
+         requirements for the applicability ratione temporis of Directive 2004/in the light of those facts, before replying to the
+         questions referred. 
+      
+ The applicability ratione temporis of Directive 2004/–       Observations submitted to the Court
+The Italian and Netherlands Governments and the Commission doubt whether Directive 2004/is applicable ratione temporis
+         to the facts of the dispute in the main proceedings, since the environmental damage occurred before April and/or is
+         the result, in any event, of earlier activities which ceased before that date. However, the Commission suggests that the directive
+         could be applicable in so far as concerns damage occurring after April as a result of the current activities of the
+         operators in question. It cannot be applicable, however, to any pollution occurring before that date caused by operators other
+         than operators currently active in the Augusta roadstead but which is being attributed to the latter operators. 
+      
+On the other hand, the Greek Government takes the view that Directive 2004/is applicable to the facts of the main proceedings.
+         It considers that it follows from an a contrario reading of the second indent of Article of the directive that it is applicable,
+         even if the activity from which the damage derives began before April 2007, provided that that activity did not finish
+         before that date and continued beyond it. 
+      
+–       The Court’s reply
+As is apparent from recital in the preamble to Directive 2004/35, the legislature of the European Union took the view that
+         ‘damage caused before the expiry of the deadline for implementation of [the] Directive should not be covered by’ the provisions
+         of the environmental liability mechanism established by the directive, that is to say, damage caused before April 2007.
+         
+      
+The EU legislature expressly set out, in Article of Directive 2004/35, the types of situation in which the directive is
+         not applicable. Since the situations which fall outside the scope ratione temporis of the directive were thus determined in
+         negative terms, it must be concluded that any other temporal situation is, in principle, covered by the environmental liability
+         mechanism established by that directive. 
+      
+It is apparent from the first and second indents of Article of Directive 2004/that the directive does not apply to damage
+         caused by an emission, event or incident which took place before April or to damage caused after that date which derives
+         from a specific activity that was carried out and finished before that date. 
+      
+It must be concluded that Directive 2004/applies to damage caused by an emission, event or incident which took place after
+         April where such damage derives either from activities carried out after that date or activities which were carried
+         out but had not finished before that date. 
+      
+Article TFEU is based on a clear division of functions between the national courts and the Court of Justice, so that the
+         Court may rule on the interpretation or validity of a provision of EU law only on the basis of the facts which the national
+         court puts before it. It follows that, within the framework of the procedure under Article TFEU, it is not for the Court
+         of Justice but for the national court to apply to national measures or situations the rules of EU law as interpreted by the
+         Court of Justice (see Case C‑279/CEPSA [2008] ECR I‑6681, paragraph 28). 
+      
+It is therefore for the referring court to ascertain, on the basis of the facts, which it alone is in a position to assess,
+         whether, in the main proceedings, the damage in respect of which environmental remedial measures were imposed by the competent
+         national authorities falls within one of the situations referred to at paragraph above. 
+      
+If that court reaches the conclusion that Directive 2004/is not applicable in the case pending before it, such a situation
+         is governed by national law, in compliance with the rules of the Treaty and without prejudice to other secondary legislation.
+         
+      
+Article EC states that Community policy on the environment is to aim at a high level of protection and is based, inter
+         alia, on the principle that the polluter should pay. That provision is therefore confined to defining the general environmental
+         objectives of the Community, since Article EC confers on the Council of the European Union responsibility for deciding
+         what action is to be taken, where appropriate following the codecision procedure with the European Parliament (see, to that
+         effect, Case C‑379/Peralta [1994] ECR I‑3453, paragraphs and 58). 
+      
+As the Netherlands Government correctly observes, since Article EC, which establishes the ‘polluter pays’ principle, is
+         directed at action at Community level, that provision cannot be relied on as such by individuals in order to exclude the application
+         of national legislation – such as that at issue in the main proceedings – in an area covered by environmental policy for which
+         there is no Community legislation adopted on the basis of Article EC that specifically covers the situation in question.
+         
+      
+If the Tribunale amministrativo regionale della Sicilia reaches the conclusion that Directive 2004/is applicable ratione
+         temporis in the main proceedings, the questions referred should be addressed as follows. 
+      
+ The environmental liability mechanism laid down in Directive 2004/–       Observations submitted to the Court
+The Italian and Greek Governments consider that, under Article 3(1)(a) of Directive 2004/35, in the case of the activities
+         listed in Annex III thereto, operators are deemed to be liable for the pollution found without there being any need to establish
+         that they are at fault or any causal link between their activities and the damage to the environment. 
+      
+According to the Greek Government, it is only where operators’ activities do not fall within Annex III to Directive 2004/that the competent authority must establish, in accordance with Article 3(1)(b) of the directive, fault or negligence on their
+         part if it is to impose environmental liability measures as provided for in the directive on those operators. Moreover, the
+         competent authority does not have the burden of proving the extent of those operators’ involvement, since Article 8(3) of
+         the directive indicates that the burden of proof as to any causal link between the damage and the actual polluter in fact
+         lies with the operator who does not wish to be required to bear the costs of damage which he can prove was caused by a third
+         party. Accordingly, the fact that it is possible for the undertakings concerned to bring actions for an indemnity, possibly
+         inter se, based on national rules governing liability means that potential pragmatic solutions exist. 
+      
+The Italian Government states that, in any event, in the main proceedings the causal link is self-evident, with no need for
+         an investigation to establish it, since the undertakings concerned have incriminated themselves and the substances which they
+         produce and the pollutants found were clearly the same. Moreover, Article 16(1) of Directive 2004/permits the Member States
+         to adopt more stringent provisions than those laid down in the directive. 
+      
+The Commission considers that Directive 2004/is not applicable where it is not possible to identify specifically the operator
+         whose activities have caused the environmental damage. However, relying on Article 16(1) of the directive, it is of the opinion
+         that the directive does not preclude the application of a more stringent set of rules, such as those at issue in the main
+         proceedings, as regards the Member States’ freedom to identify both other activities which may be made subject to the requirements
+         of the directive and other responsible parties, since, in any event, such rules would have the effect of reinforcing the obligations
+         laid down in the directive. 
+      
+–       The Court’s reply
+As stated in recital in the preamble to Directive 2004/35, not all forms of environmental damage can be remedied by means
+         of the liability mechanism and, for the mechanism to be effective, there needs to be, inter alia, a causal link established
+         between one or more identifiable polluters and concrete and quantifiable environmental damage. 
+      
+As is apparent from Article 4(5) and Article 11(2) of Directive 2004/35, if it is necessary for the competent authority to
+         establish such a causal link in order to impose remedial measures on operators irrespective of the kind of pollution involved,
+         then that requirement is also a condition for the application of the directive in the case of pollution of a diffuse, widespread
+         character. 
+      
+Such a causal link could easily be established where the competent authority is confronted with pollution which is confined
+         to a particular area and period of time and is attributable to a limited number of operators. On the other hand, that is not
+         the case with diffuse pollution phenomena and, therefore, the legislature of the European Union considered that, in the case
+         of such pollution, a liability mechanism is not an appropriate instrument where such a causal link cannot be established.
+         Consequently, Article 4(5) of Directive 2004/provides that the directive is to apply to that kind of pollution only where
+         it is possible to establish a causal link between the damage and the activities of individual operators. 
+      
+In that regard, it must be noted that Directive 2004/does not specify how such a causal link is to be established. Under
+         the shared competence enjoyed by the European Union and the Member States in environmental matters, where a criterion necessary
+         for the implementation of a directive adopted on the basis of Article EC has not been defined in the directive, such a
+         definition falls within the competence of the Member States and they have a broad discretion, in compliance with the Treaty
+         rules, when laying down national rules developing or giving concrete expression to the ‘polluter pays’ principle (see, to
+         that effect, Case C‑254/Futura Immobiliare and Others [2009] ECR I‑0000, paragraphs 48, and 55). 
+      
+Accordingly, the legislation of a Member State may provide that the competent authority has the power to impose measures for
+         remedying environmental damage on the basis of the presumption that there is a causal link between the pollution found and
+         the activities of the operator or operators concerned due to the fact that their installations are located close to that pollution.
+         
+      
+However, since, in accordance with the ‘polluter pays’ principle, the obligation to take remedial measures is imposed on operators
+         only because of their contribution to the creation of pollution or the risk of pollution (see, by analogy, Case C‑188/Commune de Mesquer [2008] ECR I‑4501, paragraph 77), in order for such a causal link to thus be presumed, the competent authority must have
+         plausible evidence capable of justifying its presumption, such as the fact that the operator’s installation is located close
+         to the pollution found and that there is a correlation between the pollutants identified and the substances used by the operator
+         in connection with his activities. 
+      
+Where the competent authority has such evidence, it is thus in a position to establish a causal link between the operators’
+         activities and the diffuse pollution found. In accordance with Article 4(5) of Directive 2004/35, such a situation therefore
+         falls within the scope of the directive, unless those operators are able to rebut that presumption. 
+      
+It follows that, if the Tribunale amministrativo regionale della Sicilia considers that the pollution in question in the main
+         proceedings is diffuse and no causal link can be established, such a situation does not fall within the scope ratione materiæ
+         of Directive 2004/but within that of national law, in accordance with the conditions set out at paragraph above. 
+      
+On the other hand, if the referring court reaches the conclusion that Directive 2004/is applicable to the case before it,
+         the following considerations are to be borne in mind. 
+      
+It is apparent from Article 3(1)(b) of Directive 2004/that, where there is damage to protected species and habitats caused
+         by any occupational activities other than those listed in Annex III to the directive, the directive applies, provided that
+         it is established that the operator has been at fault or negligent. On the other hand, there is no such requirement where
+         one of the occupational activities listed in Annex III has caused environmental damage, namely – as defined in Article 2(1)(a)
+         to (c) of the directive – damage to protected species and habitats, and water and land damage. 
+      
+Subject to the findings of fact, which are a matter for the referring court, where environmental damage is caused by operators
+         active in the energy and chemical industry sectors as referred to in Sections 2.and 2.of Annex I to Directive 96/61, which
+         are, for that purpose, activities falling within Annex III to Directive 2004/35, precautionary measures or remedial measures
+         may be imposed on such operators without there being any need for the competent authority to establish that they are at fault
+         or negligent. 
+      
+In the case of the occupational activities falling within Annex III to Directive 2004/35, environmental liability on the part
+         of operators active in those areas is strict liability. 
+      
+However, as the applicants in the main proceedings have correctly pointed out, the effect of Article 11(2) of Directive 2004/35,
+         read in conjunction with recital in the preamble, is that, in order to impose remedial measures, the competent authority
+         is obliged to establish, in accordance with national rules on evidence, which operator is responsible for the environmental
+         damage. It follows that, to that end, that authority must first investigate the origin of the pollution found and, as stated
+         at paragraph above, it cannot impose remedial measures without first establishing a causal link between the damage established
+         and the activities of the operator whom the authority holds responsible for the damage. 
+      
+Articles 3(1), 4(5) and 11(2) of Directive 2004/must therefore be interpreted as meaning that, when deciding to impose
+         remedial measures on operators whose activities fall within Annex III to the directive, the competent authority is not required
+         to establish fault, negligence or intent on the part of operators whose activities are held to be responsible for the environmental
+         damage. On the other hand, that authority must, first, carry out a prior investigation into the origin of the pollution found,
+         and has a discretion as to the procedures, means to be employed and length of such an investigation. Second, the competent
+         authority is required to establish, in accordance with national rules on evidence, a causal link between the activities of
+         the operators at whom the remedial measures are directed and the pollution. 
+      
+The applicants in the main proceedings submit that the pollution in the Augusta roadstead is attributable to Montedison SpA
+         and to the Italian navy and the merchant navy. It follows, in their view, that the competent authority cannot require them
+         to take remedial measures such as those imposed in the Decree of February 2008. 
+      
+It should be recalled, first, that in accordance with Article 11(4) of Directive 2004/35, operators have available to them
+         legal remedies to challenge remedial measures adopted on the basis of the directive and the existence of any causal link between
+         their activities and the pollution found. Second, in accordance with Article 8(3) of the directive, such operators are not
+         required to bear the costs of remedial actions where they can prove that the environmental damage was caused by a third party
+         and occurred despite the fact that appropriate safety measures were in place, since it is not a consequence of the ‘polluter
+         pays’ principle that operators must take on the burden of remedying pollution to which they have not contributed (see, by
+         analogy, Case C‑293/Standley and Others [1999] ECR I‑2603, paragraph 51). 
+      
+It should also be added that Article 16(1) of Directive 2004/35, in the same way as Article EC, expressly states that
+         the directive is not to prevent Member States from maintaining or adopting more stringent measures in relation to the prevention
+         and remedying of environmental damage. That provision also indicates that such measures may include, inter alia, the identification
+         of, first, additional activities to be subject to the requirements of the directive and, second, additional responsible parties.
+         
+      
+It follows that a Member State may decide, inter alia, that operators engaged in activities other than those set out in Annex
+         III to Directive 2004/can be held strictly liable for environmental damage, that is to say, as defined in Article 2(1)(a)
+         to (c) of the directive, not only damage to protected species and habitats but also water damage and land damage. 
+      
+In view of the foregoing, the answer to the first three questions is that:
+      
+–        Where, in a situation entailing environmental pollution, the conditions for the application ratione temporis and/or ratione
+         materiæ of Directive 2004/are not met, such a situation is governed by national law, in compliance with the rules of the
+         Treaty, and without prejudice to other secondary legislation.
+      
+–        Directive 2004/does not preclude national legislation which allows the competent authority acting within the framework
+         of the directive to operate on the presumption, also in cases involving diffuse pollution, that there is a causal link between
+         operators and the pollution found on account of the fact that the operators’ installations are located close to the polluted
+         area. However, in accordance with the ‘polluter pays’ principle, in order for such a causal link thus to be presumed, that
+         authority must have plausible evidence capable of justifying its presumption, such as the fact that the operator’s installation
+         is located close to the pollution found and that there is a correlation between the pollutants identified and the substances
+         used by the operator in connection with his activities.
+      
+–        Articles 3(1), 4(5) and 11(2) of Directive 2004/must be interpreted as meaning that, when deciding to impose measures for
+         remedying environmental damage on operators whose activities fall within Annex III to the directive, the competent authority
+         is not required to establish fault, negligence or intent on the part of operators whose activities are held to be responsible
+         for the environmental damage. On the other hand, that authority must, first, carry out a prior investigation into the origin
+         of the pollution found, and it has a discretion as to the procedures, means to be employed and length of such an investigation.
+         Second, the competent authority is required to establish, in accordance with national rules on evidence, a causal link between
+         the activities of the operators at whom the remedial measures are directed and the pollution.
+      
+ Question By its fourth question, the Tribunale amministrativo regionale della Sicilia asks the Court, in essence, whether the directives
+         governing public contracts, in particular Directive 2004/18, preclude national legislation which allows the competent authority
+         to award directly to a private-sector company the planning and implementation of public works and decontamination works to
+         reinstate a polluted site. 
+      
+In accordance with settled case-law, the procedure provided for by Article TFEU is a means of cooperation between the
+         Court of Justice and national courts, by which the Court provides the national courts with the points of interpretation of
+         European Union law which they need in order to decide the disputes before them (see, in particular, Case C-83/Meilicke [1992] ECR I‑4871, paragraph 22, and Case C‑313/Kitruna and Vigano [2008] ECR I-7907, paragraph 25). 
+      
+In the context of that cooperation, it is for the national court before which the dispute has been brought, which alone has
+         direct knowledge of the facts giving rise to the dispute and must assume responsibility for the subsequent judicial decision,
+         to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable
+         it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where questions submitted
+         concern the interpretation of EU law, the Court of Justice is bound, in principle, to give a ruling (Case C‑295/Asemfo [2007] ECR I‑2999, paragraph and the case-law cited). 
+      
+However, where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions
+         submitted to it, it must refuse to rule on a question referred by a national court (see, to that effect, Mesquer, paragraph 30). 
+      
+As regards the question under consideration, it is apparent that the referring court has failed to specify the public body
+         which awarded the contract for the execution of the works referred to in the question, the cost of those works or the act
+         by which those works were awarded to the two companies named in the question. 
+      
+The Tribunale amministrativo regionale della Sicilia refers simply to works ‘of significant environmental impact and very
+         high economic value’ which were awarded to those companies by the competent authority without their having to compete with
+         other private-sector companies for the contract. 
+      
+Moreover, even though a written question was put by the Court to the Italian Government and oral submissions were made at
+         the hearing, it has not been possible to clarify the circumstances under which the works in question were awarded to those
+         companies. Invitalia (Agenzia nazionale per l’attrazione degli investimenti e lo sviluppo d’impresa) SpA even claimed that
+         it was merely awarded a contract for simple planning activities and that the competent authority has abandoned the infrastructural
+         works referred to in question 4. 
+      
+In those circumstances, the Court considers that it does not have sufficient information on the factual context of the fourth
+         question referred by the Tribunale amministrativo regionale della Sicilia and must therefore declare that question inadmissible.
+         
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable. 
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+Where, in a situation entailing environmental pollution, the conditions for the application ratione temporis and/or ratione
+            materiæ of Directive 2004/35/EC of the European Parliament and of the Council of April on environmental liability
+            with regard to the prevention and remedying of environmental damage are not met, such a situation is governed by national
+            law, in compliance with the rules of the Treaty, and without prejudice to other secondary legislation. 
+Directive 2004/does not preclude national legislation which allows the competent authority acting within the framework
+            of the directive to operate on the presumption, also in cases involving diffuse pollution, that there is a causal link between
+            operators and the pollution found on account of the fact that the operators’ installations are located close to the polluted
+            area. However, in accordance with the ‘polluter pays’ principle, in order for such a causal link thus to be presumed, that
+            authority must have plausible evidence capable of justifying its presumption, such as the fact that the operator’s installation
+            is located close to the pollution found and that there is a correlation between the pollutants identified and the substances
+            used by the operator in connection with his activities.
+Articles 3(1), 4(5) and 11(2) of Directive 2004/must be interpreted as meaning that, when deciding to impose measures for
+            remedying environmental damage on operators whose activities fall within Annex III to the directive, the competent authority
+            is not required to establish fault, negligence or intent on the part of operators whose activities are held to be responsible
+            for the environmental damage. On the other hand, that authority must, first, carry out a prior investigation into the origin
+            of the pollution found, and it has a discretion as to the procedures, means to be employed and length of such an investigation.
+            Second, the competent authority is required to establish, in accordance with national rules on evidence, a causal link between
+            the activities of the operators at whom the remedial measures are directed and the pollution. 
+[Signatures]
+* Language of the case: Italian.
+      
+Top  
+ 

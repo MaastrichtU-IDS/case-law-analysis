@@ -1,0 +1,372 @@
+
+Case C-251/Gävle Kraftvärme AB
+v
+Länsstyrelsen i Gävleborgs län
+(Reference for a preliminary ruling from the Högsta domstolen)
+(Environment – Directive 2000/76/EC – Incineration of waste – Classification of an installation for the production of heat and electricity – Concepts of incineration plant and co-incineration plant)
+Summary of the Judgment
+1.        Environment – Waste – Incineration – Directive 2000/(European Parliament and Council Directive 2000/76, Art. 3(4) and (5)
+2.        Environment – Waste – Incineration – Directive 2000/(European Parliament and Council Directive 2000/76, Art. 3(4) and (5)
+1.        For the purposes of applying Directive 2000/on the incineration of waste, where a co-generation plant comprises a number
+         of boilers, each boiler and its associated equipment is to be regarded as constituting a separate plant.
+      
+(see para. 33, operative part 1)
+2.        It is on the basis of its main purpose that a plant is to be classified as an ‘incineration plant’ or a ‘co-incineration plant’
+         within the meaning of Article 3(4) and (5) of Directive 2000/on the incineration of waste. It is for the competent authorities
+         to identify that purpose on the basis of an assessment of the facts existing at the time at which that assessment is carried
+         out. In the context of such an assessment, account must be taken, in particular, of the volume of energy generated or material
+         products produced by the plant in question in relation to the quantity of waste incinerated in that plant and the stability
+         and continuity of that production.
+      
+(see para. 46, operative part 2)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+September (*)
+      
+(Environment – Directive 2000/76/EC – Incineration of waste – Classification of an installation for the production of heat and electricity – Concepts of incineration plant and co-incineration plant)
+In Case C‑251/07,
+REFERENCE for a preliminary ruling under Article EC from the Högsta domstolen (Sweden), made by decision of May 2007,
+         received at the Court on May 2007, in the proceedings
+      
+Gävle Kraftvärme AB
+v
+Länsstyrelsen i Gävleborgs län,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Chamber, R. Silva de Lapuerta, E. Juhász (Rapporteur), J. Malenovský and T. von
+         Danwitz, Judges,
+      
+Advocate General: J. Kokott,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on April 2008,
+after considering the observations submitted on behalf of:
+–        the Swedish Government, by A. Falk, Agent,
+–        the Austrian Government, by E. Riedl, Agent,
+–        the Commission of the European Communities, by J.‑B. Laignelot and P. Dejmek, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Directive 2000/76/EC of the European Parliament and
+         of the Council of December on the incineration of waste (OJ L 332, p. 91). 
+      
+The reference was made in the course of proceedings between Gävle Kraftvärme AB (‘Gävle Kraftvärme’) and the Länsstyrelsen
+         i Gävleborgs län (Regional Authority of Gävleborg (‘the required authority’)) regarding an application for authorisation to
+         operate a combined heat and power plant.
+      
+ Legal context
+Article 3(1) of Council Directive 75/442/EEC of July on waste (OJ L 194, p. 39), as amended by Commission Decision
+         96/350/EC of May (OJ L 135, p. 32) (‘Directive 75/442’), provides:
+      
+‘Member States shall take appropriate measures to encourage:
+(a)      first, the prevention or reduction of waste production and its harmfulness … 
+…
+(b)      second:
+–        the recovery of waste by means of recycling, re-use or reclamation or any other process with a view to extracting secondary
+         raw materials; or 
+      
+–        the use of waste as a source of energy.’
+Directive 75/was repealed and codified with effect from May by Directive 2006/12/EC of the European Parliament
+         and of the Council of April on waste (OJ L 114, p. 9). The wording of Article 3(1) of Directive 75/was taken,
+         in almost identical terms, from Article 3(1) of Directive 2006/12.
+      
+Recitals 7, and in the preamble to Directive 2000/state:
+      
+‘(7) … a high level of environmental protection and human health protection requires the setting and maintaining of stringent
+         operational conditions, technical requirements and emissions limit values for plants incinerating or co-incinerating waste
+         within the Community. The limit values set should prevent or limit as far as practicable negative effects on the environment
+         and the resulting risks to human health.
+      
+…
+(13) Compliance with the emissions limit values laid down by this Directive should be regarded as a necessary but not sufficient
+         condition for compliance with the requirements of [Council] Directive 96/61/EC [of September concerning integrated
+         pollution prevention and control (OJ L 257, p. 26)]. Such compliance may involve more stringent emissions limit values
+         for the pollutants envisaged by this Directive, emissions limit values for other substances and other media, and other appropriate
+         conditions. 
+      
+…
+(24) The requirements for recovering the heat generated by the incineration or co-incineration process and for minimising
+         and recycling residues resulting from the operation of incineration or co-incineration plants will assist in meeting the objectives
+         of Article on the waste hierarchy of Directive 75/442/EEC.’
+      
+As is apparent from the first paragraph of Article of Directive 2000/76, its aim is to prevent or to limit as far as practicable
+         negative effects on the environment, in particular pollution by emissions into air, soil, surface water and groundwater, and
+         the resulting risks to human health, from the incineration and co-incineration of waste. 
+      
+The second paragraph of that article states that that aim is to be met, inter alia, by means of stringent operational conditions
+         and technical requirements and through setting emissions limit values for waste incineration and co-incineration plants.
+      
+The expressions ‘incineration plant’ and ‘co-incineration plant’ are defined in Article 3(4) and (5) of Directive 2000/as follows:
+      
+‘4.      “incineration plant” means any stationary or mobile technical unit and equipment dedicated to the thermal treatment of wastes
+         with or without recovery of the combustion heat generated. This includes the incineration by oxidation of waste as well as
+         other thermal treatment processes such as pyrolysis, gasification or plasma processes in so far as the substances resulting
+         from the treatment are subsequently incinerated. 
+      
+This definition covers the site and the entire incineration plant including all incineration lines, waste reception, storage,
+         on site pretreatment facilities, waste[-,] fuel[-] and air-supply systems, boiler, facilities for the treatment of exhaust
+         gases, on-site facilities for treatment or storage of residues and waste water, stack, devices and systems for controlling
+         incineration operations, recording and monitoring incineration conditions;
+      
+5.      “co-incineration plant” means any stationary or mobile plant whose main purpose is the generation of energy or production
+         of material products and: 
+      
+–        which uses wastes as a regular or additional fuel; or 
+–        in which waste is thermally treated for the purpose of disposal. 
+If co-incineration takes place in such a way that the main purpose of the plant is not the generation of energy or production
+         of material products but rather the thermal treatment of waste, the plant shall be regarded as an incineration plant within
+         the meaning of point 4. 
+      
+This definition covers the site and the entire plant including all co-incineration lines, waste reception, storage, on site
+         pretreatment facilities, waste-, fuel- and air-supply systems, boiler, facilities for the treatment of exhaust gases, on-site
+         facilities for treatment or storage of residues and waste water, stack devices and systems for controlling incineration operations,
+         recording and monitoring incineration conditions.’
+      
+Article 3(12) of Directive 2000/defines the concept of ‘permit’ as follows:
+      
+‘a written decision (or several such decisions) delivered by the competent authority granting authorisation to operate a plant,
+         subject to certain conditions which guarantee that the plant complies with all the requirements of this Directive. A permit
+         may cover one or more plants or parts of a plant on the same site operated by the same operator.’
+      
+Article 4(2) of that directive provides:
+      
+‘Without prejudice to Directive 96/61/EC, the application for a permit for an incineration or co-incineration plant to the
+         competent authority shall include a description of the measures which are envisaged to guarantee that: 
+      
+…
+(b) the heat generated during the incineration and co-incineration process is recovered as far as practicable e.g. through
+         combined heat and power, the generating of process steam or district heating; 
+      
+…’
+Article 6(1) to (3) and (6) of the Directive provides:
+      
+‘1.      Incineration plants shall be operated in order to achieve a level of incineration such that the slag and bottom ashes total
+         organic carbon (TOC) content is less than 3% or their loss on ignition is less than 5% of the dry weight of the material.
+         If necessary, appropriate techniques of waste pretreatment shall be used. 
+      
+Incineration plants shall be designed, equipped, built and operated in such a way that the gas resulting from the process
+         is raised, after the last injection of combustion air, in a controlled and homogeneous fashion and even under the most unfavourable
+         conditions, to a temperature of 850°C, as measured near the inner wall or at another representative point of the combustion
+         chamber as authorised by the competent authority, for two seconds. If hazardous wastes with a content of more than 1% of halogenated
+         organic substances, expressed as chlorine, are incinerated, the temperature has to be raised to 100°C for at least two seconds.
+         
+      
+Each line of the incineration plant shall be equipped with at least one auxiliary burner. This burner must be switched on
+         automatically when the temperature of the combustion gases after the last injection of combustion air falls below 850°C or
+         100°C as the case may be. It shall also be used during plant start-up and shut-down operations in order to ensure that the
+         temperature of 850°C or 100°C as the case may be is maintained at all times during these operations and as long as unburned
+         waste is in the combustion chamber. 
+      
+During start-up and shut-down or when the temperature of the combustion gas falls below 850°C or 100°C as the case may be,
+         the auxiliary burner shall not be fed with fuels which can cause higher emissions than those resulting from the burning of
+         gasoil as defined in Article 1(1) of Council Directive 75/716/EEC [of November on the approximation of the laws of
+         the Member States relating to the sulphur content of certain liquid fuels (OJ L 307, p. 22)], liquefied gas or natural
+         gas. 
+      
+2.      Co-incineration plants shall be designed, equipped, built and operated in such a way that the gas resulting from the co-incineration
+         of waste is raised in a controlled and homogeneous fashion and even under the most unfavourable conditions, to a temperature
+         of 850°C for two seconds. If hazardous wastes with a content of more than 1% of halogenated organic substances, expressed
+         as chlorine, are co-incinerated, the temperature has to be raised to 100°C. 
+      
+3.      Incineration and co-incineration plants shall have and operate an automatic system to prevent waste feed: 
+(a)      at start-up, until the temperature of 850°C or 100°C as the case may be or the temperature specified according to paragraph
+         has been reached; 
+      
+(b)      whenever the temperature of 850°C or 100°C as the case may be or the temperature specified according to paragraph is not
+         maintained; 
+      
+(c)      whenever the continuous measurements required by this Directive show that any emissions limit value is exceeded due to disturbances
+         or failures of the purification devices.
+      
+…
+6.      Any heat generated by the incineration or the co-incineration process shall be recovered as far as practicable.’ 
+Article of Directive 2000/76, in conjunction with Annexes II and V thereto, set the emissions limit values for incineration
+         plants and for co-incineration plants. Under the second subparagraph of Article 7(2), the emissions limit values which apply
+         to incineration plants also apply to co-incineration plants in which more than 40% of the resulting heat release comes from
+         hazardous waste. 
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+Gävle Kraftvärme is an undertaking within the Gävle Energi group of companies, which, in turn, is wholly owned by an undertaking
+         owned by the municipality of Gävle. Gävle Kraftvärme operates the Johannes co-generation plant, which is the basic production
+         plant for Gävle’s district heating network, producing heat and electricity.
+      
+Having decided to extend that plant, Gävle Kraftvärme applied to Östersunds tingsrätt, miljödomstolen (Östersund District
+         Court, Environmental Court) for a permit to operate at a total installed supplied capacity of a maximum of MW in that
+         plant. That application related in particular to the following points:
+      
+–        a permit to continue operating the existing solid fuel furnace (Furnace No 1) with a total installed thermal capacity of MW;
+      
+–        installation and putting into operation of a new waste furnace (Furnace No 2) with a total installed thermal capacity of a
+         maximum of MW; and
+      
+–        installation and putting into operation of a new biofuel furnace with a total installed supplied capacity of a maximum of
+         MW (Furnace 3). 
+      
+The application was also for a permit to carry out additional changes necessary for the increased operations.
+      
+At the time the application was made, the precise manner in which the plant would be extended had not yet been finally determined.
+         Gävle Kraftvärme could either proceed to construct Furnace No and have Furnace No built only if necessary, or not construct
+         Furnace No but construct Furnace No instead. In any event, the combined power was not to exceed MW.
+      
+In its application for a permit, Gävle Kraftvärme had confirmed that both Furnace No and Furnace No could be classified
+         as ‘co-incineration plants’. The regional authority, which stated that it favoured the application, nevertheless took the
+         view that the activity in question corresponded more closely to that of a waste incineration plant. The court of first instance
+         confirmed the classification proposed by Gävle Kraftvärme, taking the view that the essential purpose of the plant was the
+         production of energy.
+      
+The regional authority contested that decision before the Svea Hovrätt, Miljööverdomstolen (Svea Court of Appeal, Environmental
+         Court of Appeal), submitting that Furnace No should be classified as a ‘co-incineration plant’, while Furnace No should
+         be classified as an ‘incineration plant’, which classifications that court adopted. 
+      
+Gävle Kraftvärme brought an appeal against the latter decision to the Högsta domstolen (Supreme Court), submitting that the
+         court of appeal erred in classifying the furnaces separately.
+      
+The referring court notes that the classification of a plant is important, since the requirements for its operation differ
+         according to the type of installation in question. Consequently, taking the view that the resolution of the dispute depends
+         on the interpretation of Community law, it decided to stay the proceedings and refer the following questions to the Court
+         of Justice for a preliminary ruling:
+      
+‘1.      Where a combined power and heating plant consists of a number of units (furnaces) for the purposes of the interpretation of
+         Directive 2000/…, is each unit to be assessed as a separate plant or is the assessment to cover the combined power and
+         heating plant as a whole?
+      
+2.      For the purposes of the interpretation of Directive [2000/76], is a plant constructed for waste incineration but having as
+         its main purpose the production of energy to be classified as an incineration plant or as a co-incineration plant?’ 
+      
+ The questions referred
+ The first question
+The concepts of ‘incineration plant’ and ‘co-incineration’ plant are defined in Article 3(4) and (5) of Directive 2000/76.
+      
+Under Article 3(4), a plant is defined as ‘any… technical unit or equipment’.
+      
+The term ‘plant’ is not expressly defined within the definition of ‘co-incineration plant’ in Article 3(5) of Directive 2000/76,
+         but it is clear that that provision refers by implication to the preceding paragraph of that article. It is apparent from
+         the wording of Article 3(5) that the definition of ‘co-incineration plant’ is based on the concept of ‘incineration plant’
+         in Article 3(4) and that those provisions do not differ with regard to all the technical elements which must be taken into
+         account for the classification of an incineration unit.
+      
+The technical elements which constitute an incineration plant and a co-incineration plant are listed in the second subparagraph
+         of Article 3(4) and the third subparagraph of Article 3(5) of Directive 2000/76. Included in those elements is the ‘boiler’.
+         As the Advocate General observed in point of her Opinion, in contrast to other elements listed which appear in the plural,
+         the term ‘boiler’ (and also the term ‘stack’) is referred to in the singular. 
+      
+The wording of Article 3(4) and (5) of Directive 2000/therefore strongly supports the interpretation that each individual
+         boiler, together with its associated equipment, constitutes a separate plant for the purposes of that directive. 
+      
+That interpretation is supported by the scheme and purpose of Directive 2000/76.
+      
+With regard, firstly, to its scheme, it is established that incineration plants and co-incineration plants are subject to
+         different rules as regards the operating conditions and emissions limit values which apply to them. In general, co-incineration
+         plants are subject to less restrictive rules. 
+      
+As regards operating conditions in particular, those applicable to incineration plants include requirements relating to the
+         slag and bottom ashes total organic carbon content and their loss on ignition which are not laid down for co-incineration
+         plants. Moreover, although for both types of plant those conditions include certain requirements regarding the temperature
+         of the combustion gases when waste is added, only incineration plants must be equipped with at least one auxiliary burner.
+      
+As the Advocate General observed in point of her Opinion, certain provisions relating to incineration plants can be applied
+         only to individual boilers. It follows that an interpretation by which, in a co-generation plant, each boiler is to be considered
+         a separate plant accords with the scheme of Directive 2000/76.
+      
+Such a conclusion is, furthermore, supported by the rules governing the issue of an operating permit for an incineration plant
+         or a co-incineration plant. Article 3(12) of Directive 2000/expressly provides that a permit may cover one or more plants
+         or parts of a plant on the same site operated by the same operator. 
+      
+With regard, secondly, to the purpose of Directive 2000/76, it is apparent from Article thereof that it seeks to prevent
+         or to limit as far as practicable negative effects on the environment of incineration or co-incineration of waste by means
+         of stringent operational conditions and technical requirements and through setting emissions limit values.
+      
+As was stated by the Austrian Government and the Commission of the European Communities in their observations, an interpretation
+         of Directive 2000/which excludes the separate classification of each boiler is likely to hinder achievement of that objective.
+         Thus, if a co-generation plant comprising incineration and co-incineration units were to be classified, in its entirety, as
+         a ‘co-incineration plant’, such a power station would be in a position to avoid the stricter obligations which apply to an
+         incineration plant. 
+      
+Having regard to the foregoing, the answer to the first question must be that, for the purposes of applying Directive 2000/76,
+         where a co-generation plant comprises a number of boilers, each boiler and its associated equipment is to be regarded as constituting
+         a separate plant. 
+      
+ The second question
+Under the first subparagraph of Article 3(4) of Directive 2000/76, a plant dedicated to the thermal treatment of waste constitutes
+         an incineration plant.
+      
+In accordance with the first subparagraph of Article 3(5), a plant whose main purpose is the generation of energy or production
+         of material products and which either uses waste as a regular or additional fuel or in which waste is thermally treated for
+         the purpose of disposal is to be regarded as a co-incineration plant.
+      
+The second subparagraph of Article 3(5) states that, if co-incineration takes place in such a way that the main purpose of
+         the plant is not the generation of energy or production of material products but rather the thermal treatment of waste, the
+         plant is to be regarded as an incineration plant within the meaning of Article 3(4).
+      
+It is clear from the wording of those provisions that a co-incineration plant constitutes a particular form of incineration
+         plant and that it is on the basis of the main purpose of a plant that the assessment of whether it is an incineration plant
+         or a co-incineration plant is to be made.
+      
+Assessment of the main purpose of a plant is made on the basis of facts existing at the time of that assessment, that is to
+         say, on the capacity and function of that plant or, if the plant in question has not yet been built, on the basis of the plan
+         in relation to which the application for an operating permit was made. 
+      
+In its written observations, the Swedish Government submits that an approach to classification of a plant based solely on
+         the main purpose of that plant could circumvent the purpose of Directive 2000/76. Many incineration units originally designed
+         and built to incinerate waste could be reclassified as co-incineration plants where the recovered heat is used to produce
+         energy. Those units would thus avoid the stricter conditions applicable to incineration plants. According to that Government,
+         in order to distinguish between the two types of plant, it is more appropriate to base the assessment on the purpose for which
+         the unit in question was built. 
+      
+Such an interpretation cannot, however, be accepted. Firstly, it conflicts with the clear wording of Directive 2000/76. As
+         the Commission pointed out in its observations before the Court, it is apparent from the express wording of Article 3(5) of
+         that directive that it is on the basis of their main purpose that co-incineration plants are to be distinguished from incineration
+         plants. However, that provision does not specify any criterion with regard to the purpose for which the plant was built.
+      
+Secondly, as is apparent from recital in the preamble to that directive and from Article 3(1)(b) of Directives 75/and
+         2006/12, the Community legislation on waste seeks to encourage, as far as practicable, the recovery of waste and, in particular,
+         its use as a source of energy. An overly restrictive interpretation of the concept of ‘co-incineration plant’ would be likely
+         to hinder achievement of that objective. The application of stricter rules to plants whose main purpose is effectively the
+         generation of energy or production of material products could dissuade operators of such units from commencing or continuing
+         an activity of that kind. 
+      
+Thirdly, it must be pointed out that the fact that a plant produces energy by incinerating limited volumes of waste is not
+         in itself sufficient to regard it as a unit whose main purpose is the generation of energy or production of material products.
+         Recital in the preamble to Directive 2000/and Articles 4(2)(b) and 6(6) thereof expressly envisage, where it is possible,
+         the recovery of heat produced not only in the co-incineration process but also in the incineration process.
+      
+Finally, it must be recalled that Directive 2000/imposes strict conditions for both types of plant and lays down specific
+         safeguards for co-incineration plants. For example, under the second subparagraph of Article 7(2), the emissions limit values
+         laid down for incineration plants also apply to co-incineration plants when more than 40% of the released heat produced comes
+         from hazardous waste. Furthermore, as is apparent from recital in the preamble to that directive, if, because of their
+         capacity, the plants referred to therein also fall within the scope of Directive 96/61, they must also comply with the provisions
+         of that directive, in particular with regard to emissions limit values. 
+      
+As the Advocate General observed in points to of her Opinion, the main purpose of an incineration unit must be assessed
+         objectively on the basis of a number of facts.
+      
+In the context of such an assessment, it is for the competent authorities to examine the specific circumstances of each plant.
+         In particular, they are to take account of the volume of energy generated or material products produced in relation to the
+         quantity of waste incinerated in the plant in question and the stability or continuity of that production.
+      
+Having regard to the foregoing, the answer to the second question must be that it is on the basis of its main purpose that
+         a plant is to be classified as an ‘incineration plant’ or a ‘co-incineration plant’ within the meaning of Article 3(4) and
+         (5) of Directive 2000/76. It is for the competent authorities to identify that purpose on the basis of an assessment of the
+         facts existing at the time at which that assessment is carried out. In the context of such an assessment, account must be
+         taken, in particular, of the volume of energy generated or material products produced by the plant in question in relation
+         to the quantity of waste incinerated in that plant and the stability and continuity of that production. 
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+1.      For the purposes of applying Directive 2000/76/EC of the European Parliament and of the Council of December on the
+            incineration of waste, where a co-generation plant comprises a number of boilers, each boiler and its associated equipment
+            is to be regarded as constituting a separate plant. 
+2.      It is on the basis of its main purpose that a plant is to be classified as an ‘incineration plant’ or a ‘co-incineration plant’
+            within the meaning of Article 3(4) and (5) of Directive 2000/76. It is for the competent authorities to identify that purpose
+            on the basis of an assessment of the facts existing at the time at which that assessment is carried out. In the context of
+            such an assessment, account must be taken, in particular, of the volume of energy generated or material products produced
+            by the plant in question in relation to the quantity of waste incinerated in that plant and the stability and continuity of
+            that production.
+[Signatures]
+* Language of the case: Swedish.
+      
+Top  
+ 

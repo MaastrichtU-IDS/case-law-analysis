@@ -1,0 +1,616 @@
+
+Case C-569/Internetportal und Marketing GmbH
+v
+Richard Schlicht
+(Reference for a preliminary ruling from the Oberster Gerichtshof)
+(Internet – .eu Top Level Domain – Regulation (EC) No 874/– Domain names – Phased registration – Special characters – Speculative and abusive registrations – Concept of ‘bad faith’)
+Summary of the Judgment
+1.        European Union law – Interpretation – Texts in several languages – Uniform interpretation
+(Commission Regulation No 874/2004, Art. 21(3)(a) to (e))
+2.        Trans-European networks – Telecommunications sector – Internet – Implementation and functions of a top level domain – Speculative
+            or abusive registrations
+(Commission Regulation No 874/2004, Art. 21(1)(b) and (3))
+1.        Article 21(3) of Regulation No 874/laying down public policy rules concerning the implementation and functions of the
+         .eu Top Level Domain and the principles governing registration must be interpreted as meaning that bad faith can be established
+         by circumstances other than those listed in Article 21(3)(a) to (e) of that regulation.
+      
+The necessity of uniform application and, accordingly, of uniform interpretation makes it impossible to consider one version
+         of the text in isolation but requires it to be interpreted on the basis of both the real intention of its author and the aim
+         he seeks to achieve, in the light in particular of the versions in all languages.
+      
+The objective of frustrating the registration of speculative or abusive domain names, which, by their very nature, may be
+         marked by a variety of circumstances of fact and law, would be compromised if bad faith, within the meaning of Article 21(1)(b)
+         of Regulation No 874/2004, could be established only in the circumstances exhaustively set out in Article 21(3)(a) to (e).
+      
+(see paras 35, 37, 39, operative part 1)
+2.        In order to assess whether there is conduct in bad faith within the meaning of Article 21(1)(b) of Regulation No 874/2004,
+         read in conjunction with Article 21(3) thereof, the national court must take into consideration all the relevant factors specific
+         to the particular case and, in particular, the conditions in which registration of the trade mark was obtained and those in
+         which the .eu top level domain name was registered.
+      
+With regard to the conditions in which registration of the trade mark was obtained, the national court must take into consideration,
+         in particular:
+      
+– the intention not to use the trade mark in the market for which protection was sought;
+– the presentation of the trade mark;
+– the fact of having registered a large number of other trade marks corresponding to generic terms; and
+– the fact of having registered the trade mark shortly before the beginning of phased registration of .eu top level domain
+         names.
+      
+With regard to the conditions in which the .eu top level domain name was registered, the national court must take into consideration,
+         in particular:
+      
+– the abusive use of special characters or punctuation marks, within the meaning of Article of Regulation No 874/2004,
+         for the purposes of applying the transcription rules laid down in that article;
+      
+– registration during the first part of the phased registration provided for in that regulation on the basis of a mark acquired
+         in circumstances such as those in the main proceedings; and
+      
+– the fact of having applied for registration of a large number of domain names corresponding to generic terms.
+There is nothing in the wording of the second paragraph of Article of Regulation No 874/laying down public policy
+         rules concerning the implementation and functions of the .eu Top Level Domain and the principles governing registration to
+         suggest any form of hierarchy as between the three transcription rules. It follows from Article 10(2) of Regulation No 874/that the registration of a .eu top level domain name on the basis of a prior right consists of the registration of the complete
+         name for which the prior right exists, as written in the documentation which proves that such a right exists. However, since
+         certain special characters which may appear in a name in respect of which a prior right is held cannot appear in a domain
+         name by reason of technical constraints, the legislature has laid down transcription rules for such special characters in
+         the second paragraph of Article of Regulation No 874/2004.
+      
+It thus follows from a joint reading of Articles 10(2) and of Regulation No 874/that application of the transcription
+         rules set out in the second paragraph of Article is subordinate to the objective of ensuring that the domain name which
+         it is sought to register and the name in respect of which a prior right is invoked are identical or as close as possible to
+         each other.
+      
+Both the presence of special characters in the name in respect of which a prior right is invoked and an applicant’s choice
+         in regard to the three rules for the transcription of such characters laid down in the second paragraph of Article of that
+         regulation, namely: elimination, replacement by a hyphen or rewriting, may thus point to the existence of conduct in bad faith
+         within the meaning of Article 21(1)(b) of that regulation, particularly in the case where the domain name which it is sought
+         to register does not concord with the name in respect of which a prior right is invoked.
+      
+By contrast, no relevance attaches to the fact that the proprietor under national or European Union law was unaware of the
+         applicant at the time of registration of the domain name. Since the existence of prior rights in respect of a name corresponding
+         to a generic term cannot therefore be excluded, conduct which is manifestly intended to circumvent the procedure for phased
+         registration established by Regulation No 874/could adversely affect holders of such rights. In addition, the adoption
+         of a course of conduct of that kind is tantamount to seeking to obtain an unfair advantage to the detriment of any other person
+         interested in the same domain name who cannot rely on a prior right and must therefore await the general opening of registration
+         for .eu top level domain names in order to be able to apply for registration.
+      
+(see paras 57, 60-63, 72, 75-77, operative part 2)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+June (*)
+      
+(Internet – .eu Top Level Domain – Regulation (EC) No 874/– Domain names – Phased registration – Special characters – Speculative and abusive registrations – Concept of ‘bad faith’)
+In Case C‑569/08,
+REFERENCE for a preliminary ruling under Article EC from the Oberster Gerichtshof (Austria), made by decision of November
+         2008, received at the Court on December 2008, in the proceedings
+      
+Internetportal und Marketing GmbH
+v
+Richard Schlicht,
+THE COURT (Second Chamber),
+composed of J.N. Cunha Rodrigues, President of the Chamber, P. Lindh, A. Rosas, A. Ó Caoimh and A. Arabadjiev (Rapporteur),
+         Judges,
+      
+Advocate General: V. Trstenjak,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on December 2009,
+after considering the observations submitted on behalf of:
+–        Internetportal und Marketing GmbH, by T. Höhne and T. Bettinger, Rechtsanwälte,
+–        R. Schlicht, by J. Puhr, Rechtsanwältin,
+–        the Czech Government, by M. Smolek, acting as Agent,
+–        the Italian Government, par  G. Palmieri, acting as Agent, assisted by W. Ferrante, avvocato dello Stato,
+–        the European Commission, by H. Krämer, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on February 2010,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article of Commission Regulation (EC) No 874/of April laying down public policy rules concerning the implementation and functions of the .eu Top Level Domain and
+         the principles governing registration (OJ L 162, p. 40).
+      
+The reference has been made in proceedings between Internetportal und Marketing GmbH – a company which is in the business
+         of operating websites and markets products via the internet and which is the proprietor of the Swedish trade mark ‘&R&E&I&F&E&N&’
+         – and Mr Schlicht, who is the proprietor of the Benelux trade mark ‘Reifen’, concerning the domain name ‘www.reifen.eu’.
+      
+ Legal context
+According to Article thereof, Regulation (EC) No 733/of the European Parliament and of the Council of April on the implementation of the .eu Top Level Domain (OJ L 113, p. 1) sets out general rules for the implementation of the
+         .eu Top Level Domain, including the designation of a Registry, and establishes the general policy framework within which that
+         Registry is to function.
+      
+In accordance with recital in the preamble to that regulation, ‘[t]he adoption of a public policy addressing speculative
+         and abusive registration of domain names should provide that holders of prior rights recognised or established by national
+         and/or Community law and public bodies will benefit from a specific period of time (a “sunrise period”) during which the registration
+         of their domain names is exclusively reserved to [those] holders … and … public bodies’.
+      
+Article 5(1)(b) of Regulation No 733/provides that ‘the Commission shall adopt … rules concerning [inter alia] … public
+         policy on speculative and abusive registration of domain names, including the possibility of registrations of domain names
+         in a phased manner to ensure appropriate temporary opportunities for the holders of prior rights recognised or established
+         by national and/or Community law and for public bodies to register their names’.
+      
+It was pursuant to that provision that the Commission adopted Regulation No 874/2004.
+      
+Recital in the preamble to Regulation No 874/is worded as follows:
+      
+‘In order to safeguard prior rights recognised by Community or national law, a procedure for phased registration should be
+         put in place. Phased registration should take place in two phases, with the aim of ensuring that holders of prior rights have
+         appropriate opportunities to register the names on which they hold prior rights. The Registry should ensure that validation
+         of the rights is performed by appointed validation agents. On the basis of evidence provided by the applicants, validation
+         agents should assess the right which is claimed for a particular name. Allocation of that name should then take place on a
+         first-come, first-served basis if there are two or more applicants for a domain name, each having a prior right.’
+      
+Article of Regulation No 874/2004, entitled ‘Eligible parties and the names they can register’, provides:
+      
+‘1.       Holders of prior rights recognised or established by national and/or Community law and public bodies shall be eligible to
+         apply to register domain names during a period of phased registration before general registration of .eu domain starts.
+      
+“Prior rights” shall be understood to include, inter alia, registered national and Community trademarks, geographical indications
+         or designations of origin, and, in as far as they are protected under national law in the Member State where they are held,
+         unregistered trademarks, trade names, business identifiers, company names, family names, and distinctive titles of protected
+         literary and artistic works.
+      
+…
+2.       The registration on the basis of a prior right shall consist of the registration of the complete name for which the prior
+         right exists, as written in the documentation which proves that such a right exists.
+      
+…’
+Article of Regulation No 874/2004, entitled ‘Special characters’, provides:
+      
+‘…
+Where the name for which prior rights are claimed contains special characters, spaces, or punctuations, these shall be eliminated
+         entirely from the corresponding domain name, replaced with hyphens, or, if possible, rewritten.
+      
+Special characters and punctuations as referred to in the second paragraph shall include the following: 
+~ @ # $ % ^ & * ( ) + = < > { } [ ] | \ /: ; ' , . ?
+…’
+Article 12(2) of Regulation No 874/provides that the duration of the phased registration period is to be four months
+         and that the general registration of domain names is not to start prior to the completion of the phased registration period.
+      
+The same provision provides that phased registration is to be comprised of two parts of two months each. During the first
+         part, only registered national and Community trademarks, geographical indications, and the names and acronyms of public bodies
+         may be applied for as domain names.
+      
+During the second part of phased registration, the names that can be registered in the first part as well as names based on
+         all other prior rights can be applied for as domain names.
+      
+Article of Regulation No 874/2004, entitled ‘Speculative and abusive registrations’, is worded as follows:
+      
+‘1.       A registered domain name shall be subject to revocation, using an appropriate extra-judicial or judicial procedure, where
+         that name is identical or confusingly similar to a name in respect of which a right is recognised or established by national
+         and/or Community law, such as the rights mentioned in Article 10(1), and where it:
+      
+(a)       has been registered by its holder without rights or legitimate interest in the name; or
+(b)       has been registered or is being used in bad faith.
+…
+3.       Bad faith, within the meaning of point (b) of paragraph 1, may be demonstrated where:
+(a)       circumstances indicate that the domain name was registered or acquired primarily for the purpose of selling, renting, or otherwise
+         transferring the domain name to the holder of a name in respect of which a right is recognised or established by national
+         and/or Community law or to a public body; or
+      
+(b)      the domain name has been registered in order to prevent the holder of such a name in respect of which a right is recognised
+         or established by national and/or Community law, or a public body, from reflecting this name in a corresponding domain name,
+         provided that:
+      
+(i)       a pattern of such conduct by the registrant can be demonstrated;
+(ii)  the domain name has not been used in a relevant way for at least two years from the date of registration; or
+(iii) in circumstances where, at the time the ADR procedure was initiated, the holder of a domain name in respect of which a right
+         is recognised or established by national and/or Community law or the holder of a domain name of a public body has declared
+         his/its intention to use the domain name in a relevant way but fails to do so within six months of the day on which the ADR
+         procedure was initiated;
+      
+(c)       the domain name was registered primarily for the purpose of disrupting the professional activities of a competitor; or
+(d)       the domain name was intentionally used to attract Internet users, for commercial gain, to the holder of a domain name website
+         or other on-line location, by creating a likelihood of confusion with a name on which a right is recognised or established
+         by national and/or Community law or a name of a public body, such likelihood arising as to the source, sponsorship, affiliation
+         or endorsement of the website or location or of a product or service on the website or location of the holder of a domain
+         name; or
+      
+(e)       the domain name registered is a personal name for which no demonstrable link exists between the domain name holder and the
+         domain name registered.
+      
+…’
+Article of Regulation No 874/2004, entitled ‘Alternative dispute resolution (ADR) procedure’ provides as follows:
+      
+‘1.       An ADR procedure may be initiated by any party where:
+(a)       the registration is speculative or abusive within the meaning of Article 21; or
+(b)       a decision taken by the Registry conflicts with this Regulation or with Regulation (EC) No 733/2002.
+…
+11.       In the case of a procedure against a domain name holder, the ADR panel shall decide that the domain name shall be revoked,
+         if it finds that the registration is speculative or abusive as defined in Article 21. The domain name shall be transferred
+         to the complainant if the complainant applies for this domain name and satisfies the general eligibility criteria set out
+         in Article 4(2)(b) of Regulation (EC) No 733/2002.
+      
+In the case of a procedure against the Registry, the ADR panel shall decide whether a decision taken by the Registry conflicts
+         with this Regulation or with Regulation (EC) No 733/2002. The ADR panel shall decide that the decision shall be annulled and
+         may decide in appropriate cases that the domain name in question shall be transferred, revoked or attributed, provided that,
+         where necessary, the general eligibility criteria set out in Article 4(2)(b) of Regulation (EC) No 733/are fulfilled.
+      
+…
+13.       The results of ADR shall be binding on the parties and the Registry unless court proceedings are initiated within calendar
+         days of the notification of the result of the ADR procedure to the parties.’
+      
+By Decision of May (OJ L 128, p. 29), the Commission, in accordance with Article 3(1) of Regulation (EC) No 733/2002,
+         designated the not-for-profit organisation European Registry for Internet Domains (EURid), which is based in Brussels, as
+         the .eu Top Level Domain Registry with responsibility for the organisation, management and administration of that domain.
+      
+EURid entrusted the administration of alternative-dispute-resolution proceedings under Article of Regulation (EC) No 874/to the Arbitration Court attached to the Economic Chamber of the Czech Republic and Agricultural Chamber of the Czech Republic
+         (‘the Czech Arbitration Court’).
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+The appellant in the main proceedings, a limited company with its registered office in Salzburg (Austria), is in the business
+         of operating websites and markets products via the Internet. In order to be eligible to apply to register domain names during
+         the first part of phased registration provided for in Regulation No 874/2004, the appellant applied – successfully – to the
+         Swedish trade mark register for registration of a total of generic terms as trade marks, each incorporating the special
+         character ‘&’ before and after each letter. Thus, on August 2005, the appellant lodged an application for registration
+         of the word mark ‘&R&E&I&F&E&N&’ within Class of the Nice Agreement of June concerning the International Classification
+         of Goods and Services for the Purposes of the Registration of Marks, as revised and amended (‘the Nice Agreement’), corresponding
+         to the description ‘safety belts’. That mark was registered on November under number 376729.
+      
+However, it is apparent from the case-file that the appellant in the main proceedings never intended to use that trade mark
+         for safety belts.
+      
+Subsequently, the appellant in the main proceedings registered the domain name ‘www.reifen.eu’ during the first part of phased
+         registration on the basis of its Swedish mark &R&E&I&F&E&N& by eliminating from it the special character ‘&’ in pursuance
+         of one of the transcription rules set out in Article of Regulation No 874/2004.
+      
+According to the findings of fact set out in the order for reference, since the word ‘Reifen’ means ‘tyres’ in German, the
+         objective of the appellant in the main proceedings in having the domain name ‘www.reifen.eu’ registered was to operate an
+         internet portal for trading in tyres, but, in view of the proceedings pending before the court making the reference and the
+         prior arbitration procedure, it has not yet taken any significant preparatory steps for the construction of that portal.
+      
+It is also apparent from the order for reference that, at the time of registration of the domain name at issue in the main
+         proceedings, the appellant in the main proceedings was unaware of the respondent in the main proceedings.
+      
+In addition, it is also apparent that the appellant in the main proceedings has submitted applications for the registration
+         of domain names, all consisting of generic terms.
+      
+The respondent in the main proceedings is the proprietor of the word mark ‘Reifen’, registered on November at the
+         Benelux Trademark Office for Classes and within the meaning of the Nice Agreement, corresponding, respectively, to ‘bleaching
+         preparations and other substances for laundry use; cleaning preparations, in particular, cleaning preparations containing
+         nanoparticles for cleaning window surfaces’ and ‘services which facilitate the marketing of such cleaning agents’. On November
+         2005, the respondent in the main proceedings also applied to register the Community word mark Reifen for the same two classes.
+         Under that trade mark, the spelling of which, according to the file, is based on the first three letters of the German words
+         ‘Reinigung’ (cleaning) and ‘Fenster’ (window), the respondent intends to market on a pan-European basis cleaning products
+         for surfaces akin to window glass. It commissioned the company Bergolin GmbH & Co KG to develop those products. On October
+         2006, a sample of cleaning solution I (Reifen A) was submitted.
+      
+The respondent in the main proceedings contested the registration, by the appellant in the main proceedings, of the domain
+         name ‘www.reifen.eu’ before the Arbitration Court. By decision of July (Case No 00910), the Arbitration Court upheld
+         his complaint, withdrew that domain name from the appellant in the main proceedings and transferred it to the respondent in
+         the main proceedings. In that decision, the Arbitration Court took the view that the character ‘&’ contained within a trade
+         mark was not to be eliminated but had to be rewritten. It was quite clear – so the Arbitration Court held – that the appellant
+         in the main proceedings had sought, in a whole series of cases seeking registration of domain names, to circumvent the transcription
+         rule laid down in the second paragraph of Article of Regulation No 874/2004. It followed that the appellant had acted in
+         bad faith in applying for registration of the domain name at issue in the main proceedings.
+      
+The appellant in the main proceedings challenged that decision by bringing an action in accordance with Article 22(13) of
+         Regulation No 874/2004. Since that action was dismissed as unfounded at first instance and on appeal, the appellant in the
+         main proceedings brought an appeal on a point of law (‘Revision’) before the court making the reference. 
+      
+As it took the view that resolution of the dispute hinges on the interpretation of European Union law and, in particular,
+         of Article of Regulation No 874/2004, the Oberster Gerichtshof (Austrian Supreme Court) stayed the proceedings and referred
+         the following questions to the Court for a preliminary ruling:
+      
+‘1.       Is Article 21(1)(a) of Regulation (EC) No 874/to be interpreted as meaning that a right within the meaning of that provision
+         exists: 
+      
+(a)       if, without any intention to use it for goods or services, a trade mark is acquired only for the purpose of being able to
+         register in the first phase of phased registration a domain corresponding to a German-language generic term?
+      
+(b)       if the trade mark underlying the domain [name] registration and coinciding with a German-language generic term deviates from
+         the domain in so far as the trade mark contains special characters which were eliminated from the domain name although the
+         special characters were capable of being rewritten and their elimination has the effect that the domain differs from the trade
+         mark in a way which excludes any likelihood of confusion?
+      
+2.       Is Article 21(1)(a) of Regulation (EC) No 874/to be interpreted as meaning that a legitimate interest exists only in
+         the cases mentioned in Article 21(2)(a) to (c)?
+      
+3.       [If that question is answered in the negative,] does a legitimate interest within the meaning of Article 21(1)(a) of Regulation
+         (EC) No 874/also exist if the domain holder intends to use the domain – coinciding with a German-language generic term
+         – for a thematic internet portal?
+      
+...
+4.       [If Questions and are answered in the affirmative,] is Article 21(3) of Regulation (EC) No 874/to be interpreted
+         as meaning that only the circumstances mentioned in points (a) to (e) of that provision are capable of establishing bad faith
+         within the meaning of Article 21(1)(b) of Regulation (EC) No 874/2004? 
+      
+…
+5.       [If the answer to that question is in the negative,] does bad faith within the meaning of Article 21(1)(b) of Regulation (EC)
+         No 874/also exist if a domain was registered in the first phase of phased registration on the basis of a trade mark,
+         coinciding with a German-language generic term, which the domain holder acquired only for the purpose of being able to register
+         the domain in the first phase of phased registration and thereby to pre-empt other interested parties, including the holders
+         of rights to the mark?’
+      
+ Consideration of the questions referred
+ Preliminary observation
+The appellant in the main proceedings argues, from the outset, that it cannot be held responsible for faults which may have
+         been committed by the Registry in regard to registration of the domain name at issue in the main proceedings. Such faults,
+         it argues, ought to have been raised by means of a procedure directed against the Registry under Article 22(1)(b) of Regulation
+         No 874/2004, and not by means of a procedure directed against the holder of the domain name in question.
+      
+Although the national court has not asked a question on this point, within the context of the procedure laid down by Article
+         TFEU providing for cooperation between national courts and the Court of Justice, and to the extent to which the argument
+         of the appellant in the main proceedings affects the resolution of the dispute in those proceedings, it is for the Court to
+         provide the national court with an answer which will be of use to it and enable it to determine the case before it (see, by
+         way of analogy, Case C‑295/Piaggio [1999] ECR I‑3735, paragraph 25). 
+      
+It must be pointed out in this regard that the first and second subparagraphs of Article 22(11) of Regulation No 874/permit any party to initiate an alternative-dispute-resolution procedure against the domain name holder in a case where the
+         registration is speculative or abusive, or against the Registry in a case where one of its decisions conflicts with Regulations
+         No 733/or No 874/2004. As the dispute in the main proceedings, which was initiated in accordance with Article of Regulation
+         No 874/2004, concerns an allegedly speculative or abusive registration, the procedure could legitimately be initiated against
+         the domain name holder.
+      
+In that regard, the argument of the appellant in the main proceedings is therefore without foundation.
+      
+ The fourth question
+By its fourth question, which it is appropriate to examine first, the national court asks, in essence, whether the circumstances
+         capable of establishing bad faith are listed exhaustively in Article 21(3)(a) to (e) of Regulation No 874/2004.
+      
+It must first be observed that there is a degree of disparity between the various language versions of Article 21(3) of Regulation
+         No 874/2004. Thus, the German version of that provision reads as follows: ‘Bösgläubigkeit im Sinne von Absatz Buchstabe
+         b) liegt vor, wenn …’ That form of words, which may be translated literally as ‘bad faith, within the meaning of point (b)
+         of paragraph 1, exists where …’, could suggest that the instances of bad faith referred to in Article 21(1)(b) of Regulation
+         No 874/are limited to the cases expressly set out in Article 21(3).
+      
+It should, however, be pointed out that the provision in question cannot be examined solely on the basis of the German version,
+         as provisions of European Union law must be interpreted and applied uniformly in the light of the versions existing in all
+         European Union languages (see, to that effect, Case C‑280/Jyske Finans [2005] ECR I‑10683, paragraph 31, and Case C‑187/Endendijk [2008] ECR I-2115, paragraph 22).
+      
+It follows from the language versions of Article 21(3) of Regulation No 874/2004, other than the German version, that the
+         list of the circumstances constituting bad faith which is set out in that provision is merely by way of example. Thus, the
+         French version of that provision is worded as follows: ‘La mauvaise foi au sens du paragraphe 1, point b), [of Article 21]
+         peut être démontrée quand …’ The idea expressed by the verb ‘pouvoir’ is also to be found in other language versions, including
+         the English (‘may’), Italian (‘può’), Spanish (‘podrá’), Polish (‘można’), Portuguese (‘pode’), Dutch (‘kan’) and Bulgarian
+         (‘може’) versions.
+      
+It must be borne in mind in this regard that, according to settled case‑law, the necessity for uniform application and, accordingly,
+         for uniform interpretation of a Community measure makes it impossible to consider one version of the text in isolation, but
+         requires that it be interpreted on the basis of both the real intention of its author and the aim the latter seeks to achieve,
+         in the light, in particular, of the versions in all languages (see, inter alia, Case 29/Stauder [1969] ECR 419, paragraph 3; Joined Cases C-261/and C-348/Zurita García and Choque Cabrera [2009] ECR I‑0000, paragraph 54; and Case C‑473/Eulitz [2010] ECR I‑0000, paragraph 22).
+      
+Furthermore, it must be pointed out in this regard that Regulation No 733/seeks, inter alia, to establish a public policy
+         addressing speculative and abusive registration of domain names which is intended to ensure respect for prior rights recognised
+         or established by national and/or European Union law. That public policy is implemented, more particularly, by Article of Regulation No 874/2004, which provides, essentially, that speculative or abusive registrations of domain names may be revoked.
+      
+However, the objective of thereby frustrating the registration of speculative or abusive domain names, which, by their very
+         nature, may be marked by a variety of circumstances of fact and law, would be compromised if bad faith, within the meaning
+         of Article 21(1)(b) of Regulation No 874/2004, could be established only in the circumstances exhaustively set out in Article
+         21(3)(a) to (e).
+      
+Finally, it follows from recital in the preamble to Regulation No 874/that the Registry must take into account the
+         international best practices in the area in question and, in particular, the relevant World Intellectual Property Organisation
+         (WIPO) recommendations, in order to ensure that speculative and abusive registrations are avoided as far as possible. As the
+         Commission points out, it is clear from the Final Report of the First WIPO Internet Domain Name Process, dated April 1999,
+         and, in particular, from paragraph of Recommendation No concerning the concept of ‘bad faith’, that the list of circumstances
+         constituting bad faith, which, indeed, corresponds largely to the list set out in Article 21(3) of Regulation No 874/2004,
+         is not exhaustive.
+      
+The answer to the fourth question referred is therefore that Article 21(3) of Regulation No 874/must be interpreted as
+         meaning that bad faith can be established by circumstances other than those listed in Article 21(3)(a) to (e) of that regulation.
+      
+ The fifth question
+By its fifth question, which it is appropriate to examine secondly, the national court seeks, in essence, an interpretation
+         by the Court of the concept of bad faith within the meaning of Article 21(1)(b) of Regulation No 874/2004.
+      
+Under that provision, a registered domain name may, where that name is identical or confusingly similar to a name in respect
+         of which a right is recognised or established by national and/or European Union law, be revoked if it has been registered,
+         or is being used, in bad faith.
+      
+The issue of whether an applicant is acting in bad faith must be the subject of an overall assessment, taking into account
+         all the factors relevant to the particular case (see, by way of analogy, Case C‑529/Chocoladefabriken Lindt & Sprüngli [2009] ECR I‑0000, paragraph 37).
+      
+With regard, more particularly, to the facts which characterise conduct such as that of the appellant in the main proceedings,
+         the following must be stated in the light of the findings of fact set out in the order for reference.
+      
+First of all, it is necessary to examine the conditions under which the word mark &R&E&I&F&E&N& was registered.
+      
+In that regard, consideration must first be given to the intention of the appellant in the main proceedings at the time when
+         it filed the application for registration of that mark as a subjective factor which must be determined by reference to the
+         objective circumstances of the particular case (see, to that effect, Chocoladefabriken Lindt & Sprüngli, paragraphs and 42).
+      
+The fact of applying for registration of a mark without the intention of using it as such but for the sole purpose of subsequently
+         registering, on the basis of the right to that mark, a .eu top level domain name during the first part of the phased registration
+         provided for in Regulation No 874/may, under certain circumstances, indicate conduct in bad faith within the meaning
+         of Article 21(1)(b) of that regulation.
+      
+In the present instance, it is apparent from the order for reference that, although the appellant registered the word mark
+         &R&E&I&F&E&N& in Sweden for safety belts, it actually intended to operate an internet portal for trading in tyres, which it
+         intended to register.
+      
+Consequently, according to the national court’s findings, and as the appellant in the main proceedings itself admits, the
+         latter had no intention of using the mark which it had thus registered for the goods covered by that registration.
+      
+Secondly, the presentation of the mark at issue may also be relevant in determining whether there is bad faith within the
+         meaning of Article 21(1)(b) of Regulation No 874/(see, by way of analogy, Chocoladefabriken Lindt & Sprüngli, paragraph 50).
+      
+In that regard, the national court points out that, leaving aside the special characters which surround each letter, the word
+         mark &R&E&I&F&E&N& corresponds to a generic term in German, namely ‘Reifen’ (‘tyres’). It must also be observed that the presentation
+         of the mark is unusual and linguistically irrational from a semantic and visual point of view. The special character ‘&’,
+         which was inserted before and after every letter, thus appears to be without any semantic meaning whatsoever. Such a presentation
+         may therefore suggest that the special character was introduced only in order to disguise the generic term which is hidden
+         behind the mark.
+      
+Thirdly, the repetitive nature of conduct may also be taken into account in order to assess whether or not it amounts to bad
+         faith within the meaning of Article 21(1)(b) of Regulation No 874/2004. In that regard, the national court points out that
+         the appellant in the main proceedings obtained registration in Sweden of a total of trade marks corresponding to generic
+         terms in German, using in each of them the special character ‘&’ before and after all the letters in the signs for which registration
+         was sought.
+      
+Fourthly, the chronology of events may also constitute a relevant factor of assessment. In this instance, the fact that the
+         appellant in the main proceedings registered the word mark &R&E&I&F&E&N& only a short time before the start of the first part
+         of the phased registration of .eu top level domain names also warrants special attention for the purpose of determining whether
+         there may have been bad faith. It is apparent in that regard from the order for reference that the appellant in the main proceedings
+         applied to the competent Swedish authorities for registration of the abovementioned trade mark on August and that
+         registration was granted on November 2005, while EURid had announced that registration of .eu top level domain names would
+         begin on December 2005.
+      
+In that context, although it is true that the Swedish word mark &R&E&I&F&E&N& remains valid inasmuch as it has not been revoked
+         or declared invalid, the conditions under which that mark was registered could point to conduct in bad faith within the meaning
+         of Article 21(1)(b) of Regulation No 874/2004.
+      
+With regard, secondly, to the conditions under which the domain name ‘www.reifen.eu’ was registered, it must be noted, first,
+         that the misuse of a special character or punctuation mark in the name in respect of which a right has been invoked may, having
+         regard to the transcription rules laid down in Article of Regulation No 874/2004, be a relevant factor for the purpose
+         of assessing whether there has been conduct in bad faith on the part of the holder of a domain name.
+      
+The second paragraph of Article of Regulation No 874/provides that, where the name in respect of which prior rights
+         are claimed contains special characters, such as the character ‘&’, these ‘shall to be eliminated entirely from the corresponding
+         domain name, replaced with hyphens, or, if possible, rewritten’. However, it is clear from the order for reference that, on
+         the basis of the first of those possibilities, the appellant was able to obtain the elimination of all of the ‘&’ characters
+         from its word mark &R&E&I&F&E&N& and thereby have the domain name ‘www.reifen.eu’ registered.
+      
+In that connection, the Commission’s argument that the three transcription rules set out in the second paragraph of Article
+         of Regulation No 874/should be applied in a hierarchical fashion cannot be accepted. According to the Commission,
+         special characters which have a semantic value should be rewritten, those which serve as separators should be replaced by
+         hyphens, and only those which neither have a semantic value nor serve as separators should be eliminated.
+      
+However, as the appellant in the main proceedings and the Czech Government point out, there is nothing in the wording of the
+         second paragraph of Article of Regulation No 874/to suggest any form of hierarchy as between the three transcription
+         rules.
+      
+The fact that the second paragraph of Article provides that special characters are to be rewritten ‘if possible’ changes
+         nothing in that regard. That expression must be understood, not as establishing any form of hierarchy as between the different
+         transcription possibilities, but as referring to the impossibility of rewriting certain special characters.
+      
+In addition, the consequence of the Commission’s argument would be, in cases of speculative or abusive registration, to favour
+         the use of special characters which could still be eliminated, whereas, in the case of registrations in good faith, applicants
+         would have no choice in regard to the transcription of special characters, with the result that they could be forced to accept
+         a .eu top level domain name which did not correspond, in their eyes, to the name in respect of which they had invoked a prior
+         right.
+      
+It must be pointed out in that regard that it follows from Article 10(2) of Regulation No 874/that the registration of
+         a .eu top level domain name on the basis of a prior right consists of the registration of the complete name for which the
+         prior right exists, as written in the documentation which proves that such a right exists.
+      
+However, since certain special characters which may appear in a name in respect of which a prior right is held cannot appear
+         in a domain name by reason of technical constraints, the legislature has laid down transcription rules for such special characters
+         in the second paragraph of Article of Regulation No 874/2004.
+      
+It thus follows from a joint reading of Articles 10(2) and of Regulation No 874/that application of the transcription
+         rules set out in the second paragraph of Article is subordinate to the objective of ensuring that the domain name which
+         it is sought to register and the name in respect of which a prior right is invoked are identical or as close as possible to
+         each other.
+      
+Both the presence of special characters in the name in respect of which a prior right is invoked and an applicant’s choice
+         in regard to the three rules for the transcription of such characters laid down in the second paragraph of Article of Regulation
+         No 874/2004, namely elimination, replacement by a hyphen or rewriting, may thus point to the existence of conduct in bad faith
+         within the meaning of Article 21(1)(b) of that regulation, particularly in the case where the domain name which it is sought
+         to register does not concord with the name in respect of which a prior right is invoked.
+      
+It follows in that regard from the order for reference that special characters inserted in a linguistically illogical fashion
+         in the name in respect of which a prior right was invoked were eliminated from the domain name which it was sought to register,
+         rather than being replaced by hyphens or rewritten, with the result that the concordance between that domain name and the
+         name subject to a prior right is compromised.
+      
+Secondly, it must be borne in mind that, in order to ensure that holders of prior rights have appropriate means of ensuring
+         registration of the names in respect of which they hold those rights, Regulation No 874/established, as can be seen from
+         recital in the preamble thereto, a procedure for phased registration.
+      
+Pursuant to Article of Regulation No 874/2004, that procedure consists of two parts. During the first part, only registered
+         national and Community trade marks, geographical indications, and the names and acronyms of public bodies, may be applied
+         for as domain names. The second part relates to the names that can be registered in the first part as well as names based
+         on all other prior rights. 
+      
+Consequently, the general opening of registration of .eu top level domain names could not commence until after the end of
+         the period provided for phased registration.
+      
+It thus appears that a domain name such as that at issue in the main proceedings, which corresponds to a generic term sought
+         as such, could have been registered during the first part of the phased registration only by means of the stratagem of a trade
+         mark created and registered for that purpose.
+      
+If it had not had a word mark registered, the appellant in the main proceedings would have had to wait until the general opening
+         of registration of .eu top level domain names in order to submit its application, thereby running the risk, in the same way
+         as any other person interested in the same domain name, of being pre-empted, in accordance with the first-come first-served
+         principle, by another application for registration introduced prior to its own application.
+      
+Conduct which is manifestly intended to circumvent the procedure for phased registration established by Regulation No 874/must therefore be taken into account in the assessment as to whether there is conduct in bad faith within the meaning of Article
+         21(1)(b) of that regulation.
+      
+Thirdly, the fact of having lodged a large number of applications for registration of domain names corresponding to generic
+         terms may also constitute relevant evidence on which to determine whether there is conduct in bad faith in the light of the
+         objective of Regulation No 874/to prevent or avoid speculative or abusive registrations or uses of domain names. In that
+         regard, it is apparent from the order for reference that the appellant in the main proceedings lodged such applications.
+      
+By contrast, no relevance attaches to the fact, mentioned in the order for reference, that the appellant in the main proceedings
+         was unaware of the respondent in the main proceedings at the time when it submitted its application for registration of the
+         domain name at issue in the main proceedings.
+      
+The appellant contends in that regard that the main proceedings concern the registration of a domain name consisting of a
+         generic term, which cannot, under any circumstances, adversely affect the rights of third parties since nobody has exclusive
+         rights over generic terms. The speculative or abusive conduct which the cases of bad faith set out in Article 21(3) of Regulation
+         No 874/are designed to combat is, it submits, therefore excluded, by definition, in the case of registration of domain
+         names consisting of generic terms. Consequently, the appellant in the main proceedings claims that it did not act in bad faith
+         within the meaning of Article 21(3).
+      
+That argument is misplaced on two grounds. First, it rests on the premise, rejected in paragraphs to of the present
+         judgment, that the list of cases of bad faith in Article 21(3) of Regulation No 874/is exhaustive. Second, it fails to
+         take account of the fact that prior rights can legitimately exist in respect of generic terms. As the Court has already held,
+         European Union law, and, in particular, Article 3(1)(b) and (c) of First Council Directive 89/104/EEC of December to approximate the laws of the Member States relating to trade marks (OJ L 40, p. 1), does not preclude the registration
+         in a Member State, as a national trade mark, of a term borrowed from the language of another Member State in which it is devoid
+         of distinctive character or is descriptive of the goods or services in respect of which registration is sought, unless the
+         relevant parties in the Member State in which registration is sought are capable of identifying the meaning of the term (Case
+         C‑421/Matratzen Concord [2006] ECR I‑2303, paragraphs and and the operative part). 
+      
+Since the existence of prior rights in respect of a name corresponding to a generic term cannot therefore be excluded, conduct
+         such as that engaged in by the appellant in the main proceedings could adversely affect holders of such rights.
+      
+In addition, the adoption of a course of conduct of the kind outlined in paragraph of the present judgment is tantamount
+         to seeking to obtain an unfair advantage to the detriment of any other person interested in the same domain name who cannot
+         rely on a prior right and must therefore await the general opening of registration for .eu top level domain names in order
+         to be able to apply for registration.
+      
+The answer to the fifth question referred must therefore be that, in order to assess whether there is conduct in bad faith
+         within the meaning of Article 21(1)(b) of Regulation No 874/2004, read in conjunction with Article 21(3) thereof, the national
+         court must take into consideration all the relevant factors specific to the particular case and, in particular, the conditions
+         under which registration of the trade mark was obtained and those under which the .eu top level domain name was registered.
+      
+With regard to the conditions under which registration of the trade mark was obtained, the national court must take into consideration,
+         in particular:
+      
+–        the intention not to use the trade mark in the market for which protection was sought;
+–        the presentation of the trade mark;
+–        the fact of having registered a large number of other trade marks corresponding to generic terms; and
+–        the fact of having registered the trade mark shortly before the beginning of phased registration of .eu top level domain names.
+With regard to the conditions under which the .eu top level domain name was registered, the national court must take into
+         consideration, in particular:
+      
+–        the abusive use of special characters or punctuation marks, within the meaning of Article of Regulation No 874/2004, for
+         the purposes of applying the transcription rules laid down in that article;
+      
+–        registration during the first part of the phased registration provided for in that regulation on the basis of a mark acquired
+         in circumstances such as those in the main proceedings; and
+      
+–        the fact of having applied for registration of a large number of domain names corresponding to generic terms.
+ The first, second and third questions
+Having regard to the answers given to the fourth and fifth questions referred and to the circumstances of the case in the
+         main proceedings, there is no need to answer the first three questions.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+1.      Article 21(3) of Commission Regulation (EC) No 874/of April laying down public policy rules concerning the implementation
+            and functions of the .eu Top Level Domain and the principles governing registration must be interpreted as meaning that bad
+            faith can be established by circumstances other than those listed in Article 21(3)(a) to (e) of that regulation.
+2.      In order to assess whether there is conduct in bad faith within the meaning of Article 21(1)(b) of Regulation No 874/2004,
+            read in conjunction with Article 21(3) thereof, the national court must take into consideration all the relevant factors specific
+            to the particular case and, in particular, the conditions under which registration of the trade mark was obtained and those
+            under which the .eu top level domain name was registered.
+With regard to the conditions under which registration of the trade mark was obtained, the national court must take into consideration,
+            in particular:
+–        the intention not to use the trade mark in the market for which protection was sought;
+–        the presentation of the trade mark;
+–        the fact of having registered a large number of other trade marks corresponding to generic terms; and 
+–        the fact of having registered the trade mark shortly before the beginning of phased registration of .eu top level domain names.
+With regard to the conditions under which the .eu top level domain name was registered, the national court must take into
+            consideration, in particular:
+–        the abusive use of special characters or punctuation marks, within the meaning of Article of Regulation No 874/2004, for
+            the purposes of applying the transcription rules laid down in that article;
+–        registration during the first part of the phased registration provided for in that regulation on the basis of a mark acquired
+            in circumstances such as those in the main proceedings; and
+–        the fact of having applied for registration of a large number of domain names corresponding to generic terms.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

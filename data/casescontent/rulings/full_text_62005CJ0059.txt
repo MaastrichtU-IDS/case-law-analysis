@@ -1,0 +1,216 @@
+
+Case C-59/Siemens AG
+v
+VIPA Gesellschaft für Visualisierung und Prozeßautomatisierung mbH
+(Reference for a preliminary ruling from the Bundesgerichtshof)
+(Approximation of laws – Directives 84/450/EEC and 97/55/EC – Comparative advertising – Taking unfair advantage of the reputation of a distinguishing mark of a competitor)
+Summary of the Judgment
+Approximation of laws – Misleading and comparative advertising – Directive 84/(Council Directive 84/450, Art. 3a(1)(g), as amended by Directive 97/55)
+Under Article 3a(1)(g) of Directive 84/concerning misleading and comparative advertising, as amended by Directive 97/55,
+         the benefit of comparative advertising to consumers must necessarily be taken into account in determining whether an advertiser
+         is taking unfair advantage of the reputation of a trade mark, trade name or other distinguishing marks of a competitor. On
+         the other hand, the benefit an advertiser derives from comparative advertising, which, by reason of its very nature, is self-evident
+         in all cases, cannot alone be determinative of whether the conduct of such an advertiser is lawful.
+      
+It follows that that provision must be interpreted as meaning that, by using in its catalogues the core element of a manufacturer’s
+         distinguishing mark, namely a system of order numbers for its products, which is known in specialist circles, a competing
+         supplier does not take unfair advantage of the reputation of that distinguishing mark.
+      
+(see paras 24-25, 27, operative part)
+  
+JUDGMENT OF THE COURT (First Chamber)
+February (*)
+      
+(Approximation of laws – Directives 84/450/CEE and 97/55/CE – Comparative advertising – Taking unfair advantage of the reputation of a distinguishing mark of a competitor)
+In Case C-59/05,
+REFERENCE for a preliminary ruling under Article EC, by the Bundesgerichtshof (Germany), made by decision of December
+         2004, received at the Court on February 2005, in the proceedings
+      
+Siemens AG
+v
+VIPA Gesellschaft für Visualisierung und Prozeßautomatisierung mbH,
+THE COURT (First Chamber),
+composed of P. Jann, President of the Chamber, J.N. Cunha Rodrigues (Rapporteur), K. Lenaerts, M. Ilešič and E. Levits, Judges,
+Advocate General: A. Tizzano,
+Registrar: R. Grass,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–        Siemens AG, by S. Jackermeier, Rechtsanwalt and D. Laufhütte, Patentanwalt,
+–        VIPA Gesellschaft für Visualisierung und Prozeßautomatisierung mbH, by A. Osterloh and E. Osterloh, Rechtsanwälte,
+–        the Republic of Poland, by T. Nowakowski, acting as Agent,
+–        the Commission of the European Communities, by A. Aresu and F. Hoffmeister, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 3a(1)(g) of Council Directive 84/450/EEC of
+         September concerning misleading and comparative advertising (OJ L 250, p. 17), as amended by Directive 97/55/EC
+         of the European Parliament and of the Council of October (OJ L 290, p. 18) (‘Directive 84/450’).
+      
+The reference was made in the course of proceedings between Siemens AG (‘Siemens’) and VIPA Gesellschaft für Visualisierung
+         und Prozeßautomatisierung mbH (‘VIPA’) concerning advertising engaged in by the latter to promote the sale of components compatible
+         with controllers manufactured and distributed by Siemens.
+      
+ Legal context
+ Community rules
+According to Article 2(2a) of Directive 84/450, ‘comparative advertising’ means ‘any advertising which explicitly or by implication
+         identifies a competitor or goods or services offered by a competitor’.
+      
+Article 3a(1) of Directive 84/provides:
+      
+‘Comparative advertising shall, as far as the comparison is concerned, be permitted when the following conditions are met:
+…
+(c)      it objectively compares one or more material, relevant, verifiable and representative features of those goods and services,
+         which may include price;
+      
+…
+(g)      it does not take unfair advantage of the reputation of a trade mark, trade name or other distinguishing marks of a competitor
+         or of the designation of origin of competing products;
+      
+…’.
+Recitals 2, and in the preamble to Directive 97/state as follows:
+      
+‘(2)      … the completion of the internal market will mean an ever wider range of choice; … given that consumers can and must make
+         the best possible use of the internal market, and that advertising is a very important means of creating genuine outlets for
+         all goods and services throughout the Community, the basic provisions governing the form and content of comparative advertising
+         should be uniform and the conditions of the use of comparative advertising in the Member States should be harmonised; … if
+         these conditions are met, this will help demonstrate objectively the merits of the various comparable products; … comparative
+         advertising can also stimulate competition between suppliers of goods and services to the consumer’s advantage;
+      
+…
+(14)      … it may, however, be indispensable, in order to make comparative advertising effective, to identify the goods or services
+         of a competitor, making reference to a trade mark or trade name of which the latter is the proprietor;
+      
+(15)      … such use of another’s trade mark, trade name or other distinguishing marks does not breach this exclusive right in cases
+         where it complies with the conditions laid down by this Directive, the intended target being solely to distinguish between
+         them and thus to highlight differences objectively’.
+      
+ National legislation
+Paragraph of the Law of June against unfair competition (Gesetz gegen den unlauteren Wettbewerb) (‘UWG’) provides,
+         in particular:
+      
+‘(1)      Comparative advertising means any advertising which explicitly or by implication identifies a competitor or goods or services
+         offered by a competitor.
+      
+(2)      Whoever engages in comparative advertising acts unlawfully … where the comparison:
+…
+4. takes unfair advantage of or is detrimental to the reputation of a mark used by a competitor …’.
+ The main proceedings and the questions referred for a preliminary ruling
+Siemens manufactures and distributes, amongst other products, programmable controllers under the name ‘Simatic’. Starting
+         in 1983, it introduced a system of order numbers for those controllers and their add-on components, which consist of a combination
+         of several capital letters and numbers.
+      
+VIPA also manufactures and sells components that are compatible with ‘Simatic’ controllers, for which, since 1988, it has
+         used an identification system that is virtually identical to that used by Siemens. The first group of characters of Siemens
+         order numbers – for example, ‘6ES5’ or ‘6ES7’ – are replaced by the company’s acronym ‘VIPA’, and this is followed by the
+         core elements of the order number of the original Siemens product. The core elements of the order number refer to the nature
+         of the product concerned and its utilisation in the control system, and the order number must be programmed into the system
+         in order that the controller can be operated.
+      
+VIPA thus distributes the component which corresponds to the original Siemens product carrying the order number ‘6ES928-3UB21’
+         under order number ‘VIPA 928-3UB21’. This number is indicated on its products and in its catalogue, where it also adds: ‘Please
+         check the order number of the memory modules you require in the handbook for your module or call us. The order numbers correspond
+         to those of Siemens programme modules’.
+      
+Siemens brought proceedings against VIPA, alleging that it was taking unfair advantage of the reputation of its products.
+         At first instance the court granted Siemens’ application by decision which was set aside on appeal. Siemens then brought an
+         appeal for ‘Revision’ before the Bundesgerichtshof (Federal Court of Justice) (Germany).
+      
+Taking the view that interpretation of Directive 84/was necessary in order to resolve the dispute before it, the Bundesgerichtshof
+         decided to stay the proceedings and refer the following questions to the Court of Justice for a preliminary ruling:
+      
+‘(1)      Is the reputation of an “other distinguishing mark” within the meaning of Article 3a(1)(g) of Directive 84/450/EEC taken advantage
+         of unfairly where an advertiser adopts in identical form the core elements of a distinguishing mark of a competitor (in this
+         case, a system of order numbers) which is known in trade circles, and refers to those identical elements in advertising?
+      
+(2)      In determining whether unfair advantage is taken of a reputation for the purposes of Article 3a(1)(g) of Directive 84/450/EEC,
+         is the benefit to the advertiser and the consumer procured by the adoption of the identical system a relevant factor?’
+      
+ The questions
+By its questions, which should be considered together, the national court asks, in essence, whether, by using in its catalogues
+         the core elements of a manufacturer’s distinguishing mark, namely a system of order numbers for its products, which is known
+         in trade circles, a competing supplier is taking unfair advantage of the reputation of that distinguishing mark within the
+         meaning of Article 3a(1)(g) of Directive 84/450, and whether, in order to answer that question, the benefit such use may represent
+         for the consumer and the advertiser should be taken into consideration.
+      
+Under Article 3a(1)(g) of Directive 84/450, comparative advertising is permitted provided, inter alia, that it does not take
+         unfair advantage of the reputation of a trade mark, trade name or other distinguishing marks of a competitor or of the designation
+         of origin of competing products.
+      
+It is settled case-law that it is necessary, when assessing whether the condition laid down in Article 3a(1)(g) of Directive
+         84/has been observed, to have regard to recital in the preamble to Directive 97/55, which states that the use of a
+         trade mark or distinguishing mark does not breach the right to the mark where it complies with the conditions laid down by
+         Directive 84/450, the aim being solely to distinguish between the products and services of the advertiser and those of his
+         competitor and thus to highlight differences objectively (see Case C-112/Toshiba Europe [2001] ECR I-7945, paragraph 53).
+      
+An advertiser cannot be regarded as taking unfair advantage of the reputation of the distinguishing marks of his competitor
+         if effective competition on the relevant market is conditional upon a reference to those marks (see Toshiba Europe, cited above, paragraph 54).
+      
+Further, the Court has already held that a third party’s use of a mark may take unfair advantage of the distinctive character
+         or the reputation of the mark or be detrimental to them, for example by giving the public a false impression of the relationship
+         between the advertiser and the trade mark owner (see Toshiba Europe, cited above, paragraph 55).
+      
+It is apparent from the order for reference that, by adopting the core element of the Siemens order number system, VIPA is
+         informing the public that the two products in question have equivalent technical features. There is, therefore, a comparison
+         of the material, relevant, verifiable and representative features of the goods within the meaning of Article 3a(1)(c) of Directive
+         84/(see Toshiba Europe, cited above, paragraph 56).
+      
+It is necessary, however, to determine whether its adoption could cause the public at whom the VIPA’s advertising is directed
+         to associate the manufacturer of the controllers at issue in the main proceedings, and their add-on components, with the competing
+         supplier, since the public might associate the reputation of that manufacturer’s products with the products distributed by
+         that supplier.
+      
+Firstly, it should be noted that the products at issue in the main proceedings are intended for a specialist public, which
+         is much less likely than final consumers to associate the reputation of Siemens products with that of products distributed
+         by VIPA (see, to that effect, Toshiba Europe, cited above, paragraph 52).
+      
+Next, the fact that VIPA uses its own acronym in the first part of its order numbers, and states in its catalogue that those
+         numbers correspond to those of the Siemens programme modules, makes it possible for a distinction to be made between VIPA’s
+         and Siemens’ respective identities and does not give a false impression either as to the origin of VIPA products or of there
+         being any association between those two companies (see, to that effect, Toshiba Europe, cited above, paragraph 59). 
+      
+Lastly, it is clear from the file lodged at the Court that the figures and numbers forming the core element of the order number
+         refer not only to the nature of the product concerned but also to its utilisation in the control system. Those numbers and
+         figures must be programmed into the assembly system to operate the controller.
+      
+With regard to the benefit to the advertiser and the consumer procured by the adoption of a distinguishing mark in identical
+         form to be taken into consideration, the Court has already held that comparative advertising is designed to enable consumers
+         to make the best possible use of the internal market, given that advertising is a very important means of creating genuine
+         outlets for all goods and services throughout the Community (see Case C-44/Pippig Augenoptik [2003] ECR I-3095, paragraph 64).
+      
+Further, it is clear from the second recital in the preamble to Directive 97/that the purpose of comparative advertising
+         is also to stimulate competition between suppliers of goods and services to the consumer’s advantage.
+      
+It follows that the benefit of comparative advertising to consumers must necessarily be taken into account in determining
+         whether an advertiser is taking unfair advantage of the reputation of a trade mark, trade name or other distinguishing marks
+         of a competitor. 
+      
+On the other hand, the benefit an advertiser derives from comparative advertising, which, by reason of its very nature, is
+         self-evident in all cases, cannot alone be determinative of whether the conduct of such an advertiser is lawful. 
+      
+In the present case, if a different core element were to be used for the order numbers of goods distributed by VIPA and intended
+         for use with Siemens controllers as add-on components, the users concerned would be required to look in comparative listings
+         for the order numbers corresponding with the goods sold by Siemens. That would be disadvantageous, as the national court pointed
+         out, to consumers and to VIPA. The possibility that there would be restrictive effects on competition in the market for add-on
+         components to the controllers manufactured by Siemens cannot therefore be excluded. 
+      
+In the light of the foregoing, the answer to the questions referred must be that Article 3a(1)(g) of Directive 84/must
+         be interpreted as meaning that, in circumstances such as those in the main proceedings, by using in its catalogues the core
+         element of a manufacturer’s distinguishing mark which is known in specialist circles, a competing supplier does not take unfair
+         advantage of the reputation of that distinguishing mark.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+Article 3a(1)(g) of Council Directive 84/450/EEC of September concerning misleading and comparative advertising, as
+            amended by Directive 97/55/EC of the European Parliament and of the Council of October 1997, must be interpreted as meaning
+            that, in circumstances such as those in the main proceedings, by using in its catalogues the core element of a manufacturer’s
+            distinguishing mark which is known in specialist circles, a competing supplier does not take unfair advantage of the reputation
+            of that distinguishing mark.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

@@ -1,0 +1,231 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Customs union — Regulation (EEC) No 2913/— Community Customs Code — Non-Community goods — External Community customs transit procedure — Unlawful removal from customs supervision of goods liable to import duties — Determination of the customs value — Article 29(1) — Conditions for the application of the transaction value method — Articles and — Choice of the method for determining the customs value — Obligation imposed upon the customs authorities to state reasons for the chosen method)
+In Case C‑46/16,
+REQUEST for a preliminary ruling under Article TFEU from the Augstākā tiesa (Supreme Court, Latvia), made by decision of January 2016, received at the Court on January 2016, in the proceedings
+Valsts ieņēmumu dienests
+v
+‘LS Customs Services’,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet (Rapporteur), M. Berger and F. Biltgen, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+‘LS Customs Services’ SIA, by D. Plotovs, acting as Agent,
+–
+the Latvian Government, by I. Kucina, A. Bogdanova and I. Kalniņš, acting as Agents,
+–
+the European Commission, by A. Sauka and L. Grønfeldt, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on March 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 29(1) and Articles and of Council Regulation (EEC) No 2913/of October establishing the Community Customs Code (OJ L 302, p. 1), as amended by Regulation (EC) No 955/of the European Parliament and of the Council of April (OJ L 119, p. 1) (‘the Customs Code’).
+The request was made in proceedings between ‘LS Customs Services’ SIA (‘LSCS’) and Valsts ieņēmumu dienests (national revenue authority, Latvia) concerning the applicable method for determining the customs value of goods unlawfully removed from customs supervision while they were in transit in the customs territory of the European Union.
+Legal context
+The Customs Code
+Article 6(3) of the Customs Code provides:
+‘Decisions adopted by the customs authorities in writing which either reject requests or are detrimental to the persons to whom they are addressed shall set out the grounds on which they are based. They shall refer to the right of appeal provided for in Article 243.’
+Article of the Customs Code provides:
+‘For the purposes of applying customs legislation, any person directly or indirectly involved in the operations concerned for the purposes of trade in goods shall provide the customs authorities with all the requisite documents and information, irrespective of the medium used, and all the requisite assistance at their request and by any time limit prescribed.’
+Under Article 29(1) of the Customs Code:
+‘The customs value of imported goods shall be the transaction value, that is, the price actually paid or payable for the goods when sold for export to the customs territory of the Community, adjusted, where necessary, in accordance with Articles and 33, provided:
+(a)
+that there are no restrictions as to the disposal or use of the goods by the buyer, other than restrictions which:
+–
+are imposed or required by a law or by the public authorities in the Community,
+–
+limit the geographical area in which the goods may be resold,
+or
+–
+do not substantially affect the value of the goods;
+(b)
+the sale or price is not subject to some condition or consideration for which a value cannot be determined with respect to the goods being valued;
+(c)
+that no part of the proceeds of any subsequent resale, disposal or use of the goods by the buyer will accrue directly or indirectly to the seller, unless an appropriate adjustment can be made in accordance with Article 32;
+and
+(d)
+that the buyer and seller are not related, or, where the buyer and seller are related, that the transaction value is acceptable for customs purposes under paragraph 2.’
+Article of the Customs Code provides as follows:
+‘1.   Where the customs value cannot be determined under Article 29, it is to be determined by proceeding sequentially through subparagraphs (a), (b), (c) and (d) of paragraph to the first subparagraph under which it can be determined, subject to the proviso that the order of application of subparagraphs (c) and (d) shall be reversed if the declarant so requests; it is only when such value cannot be determined under a particular subparagraph that the provisions of the next subparagraph in a sequence established by virtue of this paragraph can be applied.
+2.   The customs value as determined under this Article shall be:
+(a)
+the transaction value of identical goods sold for export to the customs territory of the Community and exported at or about the same time as the goods being valued;
+(b)
+the transaction value of similar goods sold for export to the Community and exported at or about the same time as the goods being valued;
+(c)
+the value based on the unit price at which the imported goods for identical or similar imported goods are sold within the Community in the greatest aggregate quantity to persons not related to the sellers;
+(d)
+the computed value, consisting of the sum of:
+–
+the cost or value of materials and fabrication or other processing employed in producing the imported goods,
+–
+an amount for profit and general expenses equal to that usually reflected in sales of goods of the same class or kind as the goods being valued which are made by producers in the country of exportation for export to the Community,
+–
+the cost or value of the items referred to in Article 32(1)(e).
+…’
+Article of the Customs Code provides:
+‘1.   Where the customs value of imported goods cannot be determined under Articles or 30, it shall be determined, on the basis of data available in the Community, using reasonable means consistent with the principles and general provisions of:
+–
+the agreement on implementation of Article VII of the General Agreement on Tariffs and Trade of 1994,
+–
+Article VII of the General Agreement on Tariffs and Trade of and
+–
+the provisions of this chapter.
+2.   No customs value shall be determined under paragraph on the basis of:
+(a)
+the selling price in the Community of goods produced in the Community;
+(b)
+a system which provides for the acceptance for customs purposes of the higher of two alternative values;
+(c)
+the price of goods on the domestic market of the country of exportation;
+(d)
+the cost of production, other than computed values which have been determined for identical or similar goods in accordance with Article 30(2)(d);
+(e)
+prices for export to a country not forming part of the customs territory of the Community;
+(f)
+minimum customs values;
+or
+(g)
+arbitrary or fictitious values.’
+Under Article 91(1) of the Customs Code:
+‘The external transit procedure shall allow the movement from one point to another within the customs territory of the Community of:
+(a)
+non-Community goods, without such goods being subject to import duties and other charges or to commercial policy measures;
+…’
+Article of the Customs Code states:
+‘1.   The principal shall be the [holder of the procedure] under the external Community transit procedure. He shall be responsible for:
+(a)
+production of the goods intact at the customs office of destination by the prescribed time limit and with due observance of the measures adopted by the customs authorities to ensure identification;
+(b)
+observance of the provisions relating to the Community transit procedure.
+2.   Notwithstanding the principal’s obligations under paragraph 1, a carrier or recipient of goods who accepts goods knowing that they are moving under Community transit shall also be responsible for production of the goods intact at the customs office of destination by the prescribed time limit and with due observance of the measures adopted by the customs authorities to ensure identification.’
+Article 192(1) of the Customs Code states:
+‘Where customs legislation makes it compulsory for security to be provided, and subject to the specific provisions laid down for transit in accordance with the committee procedure, the customs authorities shall fix the amount of such security at a level equal to:
+–
+the precise amount of the customs debt or debts in question where that amount can be established with certainty at the time when the security is required,
+–
+in other cases the maximum amount, as estimated by the customs authorities, of the customs debt or debts which have been or may be incurred.
+…’
+Under Article 203(1) and (3) of the Customs Code:
+‘1.   A customs debt on importation shall be incurred through:
+–
+the unlawful removal from customs supervision of goods liable to import duties.
+…
+3.   The debtors shall be:
+–
+the person who removed the goods from customs supervision,
+–
+any persons who participated in such removal and who were aware or should reasonably have been aware that the goods were being removed from customs supervision,
+–
+any persons who acquired or held the goods in question and who were aware or should reasonably have been aware at the time of acquiring or receiving the goods that they had been removed from customs supervision
+and
+–
+where appropriate, the person required to fulfil the obligations arising from temporary storage of the goods or from the use of the customs procedure under which those goods are placed.’
+Article 221(1) of the Customs Code provides:
+‘As soon as it has been entered in the accounts, the amount of duty shall be communicated to the debtor in accordance with appropriate procedures.’
+The Implementing Regulation
+Article 147(1) of Commission Regulation (EEC) No 2454/of July laying down provisions for the implementation of Regulation No 2913/(OJ L 253, p. and corrigendum OJ L 268, p. 32), as amended by Commission Regulation (EC) No 1762/of July (OJ L 171, p. 8) (‘the Implementing Regulation’), provides:
+‘For the purposes of Article of the [Customs] Code, the fact that the goods which are the subject of a sale are declared for free circulation shall be regarded as adequate indication that they were sold for export to the customs territory of the Community. In the case of successive sales before valuation, only the last sale, which led to the introduction of the goods into the customs territory of the Community, or a sale taking place in the customs territory of the Community before entry for free circulation of the goods shall constitute such indication.
+Where a price is declared which relates to a sale taking place before the last sale on the basis of which the goods were introduced into the customs territory of the Community, it must be demonstrated to the satisfaction of the customs authorities that this sale of goods took place for export to the customs territory in question.
+…’
+Article of the Implementing Regulation provides:
+‘1.   In applying Article 30(2)(a) of the [Customs] Code (the transaction value of identical goods), the customs value shall be determined by reference to the transaction value of identical goods in a sale at the same commercial level and in substantially the same quantity as the goods being valued. Where no such sale is found, the transaction value of identical goods sold at a different commercial level and/or in different quantities, adjusted to take account of differences attributable to commercial level and/or to quantity, shall be used, provided that such adjustments can be made on the basis of demonstrated evidence which clearly establishes the reasonableness and accuracy of the adjustment, whether the adjustment leads to an increase or a decrease in the value.
+…
+4.   In applying this Article, a transaction value for goods produced by a different person shall be taken into account only when no transaction value can be found under paragraph for identical goods produced by the same person as the goods being valued.
+…’
+Article of the Implementing Regulation is worded as follows:
+‘1.   In applying Article 30(2)(b) of the [Customs] Code (the transaction value of similar goods), the customs value shall be determined by reference to the transaction value of similar goods in a sale at the same commercial level and in substantially the same quantity as the goods being valued. Where no such sale is found, the transaction value of similar goods sold at a different commercial level and/or in different quantities, adjusted to take account of differences attributable to commercial level and/or to quantity, shall be used, provided that such adjustments can be made on the basis of demonstrated evidence which clearly establishes the reasonableness and accuracy of the adjustment, whether the adjustment leads to an increase or a decrease in the value.
+…
+3.   If, in applying this Article, more than one transaction value of similar goods is found, the lowest such value shall be used to determine the customs value for the imported goods.
+…
+5.   For the purposes of this Article, the “transaction value of similar imported goods” means a customs value previously determined under Article of the [Customs] Code, adjusted as provided for in paragraphs and of this Article.’
+Under Article 153(1) of the Implementing Regulation:
+‘In applying Article 30(2)(d) of the [Customs] Code (computed value), the customs authorities may not require or compel any person not resident in the Community to produce for examination, or to allow access to, any account or other record for the purposes of determining this value. Nonetheless, the information provided by the producer of the goods for the purposes of determining the customs value under that Article may be verified in a non-Community country by the customs authorities of a Member State with the agreement of the producer and provided that such authorities give sufficient advance notice to the authorities of the country in question and the latter do not object to the investigation.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On June 2011, LSCS, as the principal, submitted to a customs office situated in Latvia a customs declaration for transit concerning the transport of goods from China to Russia across the territory of the European Union.
+Failing any evidence that the transit procedure had been completed, the national revenue authority ordered, by initial decision of September and final decision of November (‘the contested decision’), LSCS to pay customs duties, anti-dumping duties and the value added tax applicable to the goods at issue.
+For the purpose of calculating the customs value of those goods, that authority applied the valuation method laid down in Article of the Customs Code, on the basis of the data available in the European Union.
+The national revenue authority took the view that the goods had been sold for export to Russia and that, consequently, Article of the Customs Code was not applicable. Furthermore, it had no information enabling it to apply the valuation methods laid down in Article 30(2)(a) to (d) of the Customs Code.
+LSCS brought an action for annulment of the contested decision before the administratīvā rajona tiesa (District Administrative Court, Latvia) which held, on August 2012, that the decision was not supported by a statement of reasons of the requisite legal standard.
+Hearing the case on appeal, the Administratīvā apgabaltiesa (Regional Administrative Court, Latvia) upheld that judgment by judgment of June 2014. It held, inter alia, that the initial decision of September and the contested decision failed to indicate the information on the basis of which the customs value had been calculated and the reason why it had not been possible to obtain information enabling the application of a method other than that laid down in Article of the Customs Code, which had prevented LSCS from fully defending its rights and interests in the administrative and legal proceedings brought by it.
+The national revenue authority brought an appeal on a point of law against that judgment before the Augstākā tiesa (Supreme Court, Latvia), which took the view that the outcome of the dispute in the main proceedings depended on the interpretation of EU law.
+In those circumstances, the Augstākā tiesa (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Should Article 29(1) of [the Customs Code] be interpreted as meaning that the method laid down in that article is also applicable when the import of the goods and their release for free circulation in the customs territory of the Community took place as a consequence of the fact that during the transit procedure the goods were removed from customs supervision, the goods concerned being goods liable to import duties, and the goods were not sold for export to the customs territory of the Community but for export outside the Community?
+(2)
+Should the expression ‘sequentially’ used in Article 30(1) of [the Customs Code], in the light of the right to good administration enshrined in Article of the Charter of Fundamental Rights of the European Union read together with the principle that reasons must be stated for administrative measures, be interpreted as meaning that, in order to be able to conclude that the applicable method is that set out in Article of [the Customs Code], the customs authorities are under an obligation to state in all administrative measures why in those specific circumstances the methods for determination of customs value of goods set out in Articles and cannot be used?
+(3)
+Should it be deemed to be sufficient, to exclude the application of the method in Article 30(2)(a) of the Customs Code, that the customs authority declare that it does not have in its possession the appropriate information, or is the customs authority obliged to obtain information from the producer?
+(4)
+Must the customs authority state reasons why the methods established in Article 30(2)(c) and (d) of the Customs Code are not to be used, if it determines the price of similar goods on the basis of Article 151(3) of [the Implementing Regulation]?
+(5)
+Must the decision of the customs authority contain a full statement of reasons as to what data is available in the Community, within the meaning of Article of the Customs Code, or can it produce that statement of reasons subsequently, in [legal] proceedings, submitting more complete evidence?’
+Consideration of the questions referred for a preliminary ruling
+The first question
+By its first question, the referring court asks, in essence, whether Article of the Customs Code must be interpreted as meaning that the method for determining customs value laid down by that provision is applicable to goods sold for export to a third country that were removed from customs supervision even though they fell under the external transit procedure.
+According to that article, ‘the customs value of imported goods shall be the transaction value, that is, the price actually paid or payable for the goods when sold for export to the customs territory of the Community’.
+It is apparent from the wording of that provision, in particular of the expression ‘sold for export to the customs territory of the Community’, that the transaction value must be equal to a price for export to the European Union. It must therefore be agreed, at the time of sale, that the goods originating in a third country will be transported into the customs territory of the European Union (see, to that effect, judgments of June 1990, Unifert, C‑11/89, EU:C:1990:237, paragraph 11, and of February 2008, Carboni e derivati, C‑263/06, EU:C:2008:128, paragraph 28).
+That interpretation is supported by the second subparagraph of Article 147(1) of the Implementing Regulation, relating to successive sales, from which it is apparent that only a price relating to goods destined for the territory of the European Union may be used for the customs valuation provided for in Article of the Customs Code.
+Furthermore, it would run counter to the objective of the EU rules on customs valuation to accept a sales price for export to a third country as the transaction value within the meaning of Article of the Customs Code.
+The customs value must reflect the real economic value of imported goods (see, to that effect, judgment of December 2013, Christodoulou and Others, C‑116/12, EU:C:2013:825, paragraph and the case-law cited).
+However, as the Advocate General noted in point of her Opinion, the price of goods in a given customs area corresponds to the market situation in that area. Accordingly, the price for export of goods to a third country does not necessarily correspond to the price that would have been established for export of those goods to the customs territory of the European Union.
+That is exactly the reason why Article 31(2)(c) and (e) of the Customs Code provide that the customs value determined pursuant to Article of that code may not be based on the price of goods on the domestic market of the country of exportation or the price for export to a country not forming part of the customs territory of the European Union.
+In those circumstances, a price corresponding to the sale of goods to a third country when they were removed from customs supervision during their transit in the customs territory of the European Union would not reflect the real economic value of the goods.
+It should be added that, in circumstances such as those in the dispute in the main proceedings, the principal may not rely on a legitimate expectation claiming that he could reasonably expect the amount of the customs debt to be equal to the amount of the guarantee provided on the release of the goods into the external transit procedure.
+In that regard, it should be recalled that only an economic operator on whose part the national authorities have promoted reasonable expectations on account of precise, unconditional and consistent assurances, given to that operator from authorised, reliable sources has the right to rely on the principle of the protection of legitimate expectations (see, to that effect, judgments of December 2015, Veloserviss, C‑427/14, EU:C:2015:803, paragraph 39, and of June 2016, Marchiani v Parliament, C‑566/P, EU:C:2016:437, paragraph 77).
+However, as the Advocate General noted in points to of her Opinion, the customs authorities’ recognition of the amount of the guarantee, insofar as it is without prejudice to the amount of the future customs debt, cannot be equated with such assurances.
+In the light of the foregoing considerations, the answer to the first question referred is that Article 29(1) of the Customs Code must be interpreted as meaning that the method for determining customs value laid down by that provision is not applicable to goods that were not sold for export to the European Union.
+The second and fifth questions
+By its second and fifth questions, which should be examined together, the referring court asks, in essence, whether Article of the Customs Code must be interpreted as meaning that the customs authorities are obliged to state, in their decision fixing the amount of import duties due, the reasons leading them to set aside the methods for determining customs value set out in Articles and of that code, before they could decide to apply the method laid down in Article of the code, and the data available in the European Union on the basis of which the customs value of the goods at issue was calculated.
+As a preliminary point, it should be noted that the right to good administration, insofar as it reflects a general principle of EU law, has requirements that must be met by the Member States when they implement EU law (see, by analogy, judgment of May 2014, N., C‑604/12, EU:C:2014:302, paragraphs and 50).
+Among those requirements, the obligation to state reasons for decisions adopted by the national authorities is particularly important, since it puts their addressee in a position to defend its rights under the best possible conditions and decide in full knowledge of the circumstances whether it is worthwhile to bring an action against those decisions. It is also necessary in order to enable the courts to review the legality of those decisions (see, to that effect, judgment of October 1987, Heylens and Others, 222/86, EU:C:1987:442, paragraph 15).
+As regards, in particular, the decisions taken by the customs authorities, Article 6(3) of the Customs Code recalls the obligation to state reasons incumbent on those authorities when they adopt decisions in writing which are detrimental to the persons to whom they are addressed.
+Moreover, in accordance with Article 221(1) of the Customs Code, notification of the amount of duties must ensure that the debtor receives adequate information and enable him, with full knowledge of the facts, to defend his rights (see, to that effect, judgment of February 2006, Molenbergnatie, C‑201/04, EU:C:2006:136, paragraph 54).
+It should be noted, lastly, that, in accordance with the settled case-law, the methods for determination of customs value set out in Articles to of the code are subordinately linked to each other. Thus, it is only when the customs value cannot be determined by applying a given method that it is appropriate to refer to the method which comes immediately after it in the order established by those provisions (see, to that effect, judgment of December 2013, Christodoulou and Others, C‑116/12, EU:C:2013:825, paragraph 43).
+In those circumstances, the obligation to state reasons incumbent on the customs authorities in the course of implementing those provisions must, first, make it possible to disclose clearly and unequivocally the reasons which led them to set aside one or more methods for determining customs value.
+Second, that obligation means that those authorities are required to set out, in their decision fixing the amount of import duties due, the data on the basis of which the customs value of the goods was calculated, both to enable the recipient of that value to defend its rights under the best possible conditions and decide in full knowledge of the circumstances whether it is worthwhile to bring an action against it, and to enable the courts to review the legality of that decision.
+It should be added, as the Advocate General noted in point of her Opinion, that it is for the Member States, exercising their procedural autonomy, to regulate the consequences of a failure by the customs authorities to fulfil their obligation to state reasons and to determine whether and to what extent such a failure may be remedied in the course of legal proceedings, subject to observance of the principles of equivalence and effectiveness (see, to that effect, judgment of July 2008, Commission v Ireland, C‑215/06, EU:C:2008:380, paragraph 57).
+In the light of the foregoing considerations, the answer to the second and fifth questions referred is that Article of the Customs Code, read in conjunction with Article 6(3) of the code, must be interpreted as meaning that the customs authorities are obliged to state, in their decision fixing the amount of import duties due, the reasons leading them to set aside the methods for determining customs value set out in Articles and of that code, before they could decide to apply the method laid down in Article of the code, and the data on the basis of which the customs value of the goods was calculated, in order to enable the person concerned to assess whether that decision is well founded and to decide in full knowledge of the circumstances whether it is worthwhile for him to bring an action against it. It is for the Member States, exercising their procedural autonomy, to regulate the consequences of a failure by the customs authorities to fulfil their obligation to state reasons and to determine whether and to what extent such a failure may be remedied in the course of legal proceedings, subject to observance of the principles of equivalence and effectiveness.
+The third question
+By its third question, the referring court asks, in essence, whether Article 30(2)(a) of the Customs Code must be interpreted as meaning that, before it can set aside the method for determining customs value laid down by that provision, the competent authority is required to ask the producer to provide it with the information necessary for the application of that method or whether it is sufficient for the customs authority to declare that it does not have that information in its possession.
+Pursuant to Article 30(2)(a) of the Customs Code, the customs value is determined on the basis of the transaction value of identical goods sold for export to the Union and exported at or about the same time as the goods being valued. Article 150(4) of the Implementing Regulation states, in that regard, that a transaction value for goods produced by a different person are to be taken into account only when no transaction value can be found for identical goods produced by the same person as the goods being valued.
+Application of the method set out in Article 30(2)(a) of the Customs Code consequently requires, first and foremost, knowledge of the transaction value of identical goods produced by the same person and sold for export to the European Union more or less concomitantly.
+In that context, it should be noted that, in accordance with Article 30(1) of the Customs Code, it is only when the customs value cannot be determined under Article 30(2)(a) of the code that Article 30(2)(b) of the code can be applied.
+Bearing in mind that the various methods for determining customs value set out in Article 30(2) of the Customs Code are subordinately linked, the customs authorities must exercise due care when implementing each of the successive methods set out in that provision before they can set it aside.
+For that purpose, those authorities may, in accordance with Article of the Customs Code, ask any person directly or indirectly involved in the operations concerned to provide them with information.
+However, neither the Customs Code nor the Implementing Regulation requires the customs authorities to obtain from the producer of the goods at issue the data necessary for the application of the method based on the transaction value of identical goods set out in Article 30(2)(a) of the Customs Code.
+Accordingly, it is for those authorities to assess, on the basis of the facts of each case and taking account of their obligation to exercise due care, recalled in paragraph of the present judgment, whether it is appropriate to obtain directly from the producer of the goods at issue the information necessary for the application of the method for determining customs value laid down in Article 30(2)(a) of the Customs Code.
+However, in view of the obligation imposed upon them to exercise due care when implementing that provision, the customs authorities are required to consult all the information sources and databases available to them. It is also appropriate to allow the person concerned to provide them with any information he may have in his possession which may contribute to determining the customs value of the goods pursuant to that provision.
+In the light of all the foregoing, the answer to the third question is that Article 30(2)(a) of the Customs Code must be interpreted as meaning that, before it can set aside the method for determining customs value laid down by that provision, the competent authority is not required to ask the producer to provide it with the information necessary for the application of that method. That authority is, however, required to consult all the information sources and databases available to it. It must also allow the economic operators concerned to provide it with any information which may contribute to determining the customs value of the goods pursuant to that provision.
+The fourth question
+By its fourth question, the referring court asks, in essence, whether Article 30(2) of the Customs Code must be interpreted as meaning that the customs authorities are required to state reasons why the methods set out in subparagraphs (c) and (d) of that provision are not to be applied, if they determine the customs value of the goods on the basis of the transaction value of similar goods in accordance with Article 151(3) of the Implementing Regulation.
+In that regard, it should be noted that, as is apparent from the wording of Article 151(1) of the Implementing Regulation, the third subparagraph of that article implements Article 30(2)(b) of the Customs Code.
+However, bearing in mind that the various methods for determining customs value set out in Articles to of the Customs Code are subordinately linked, recalled in paragraph of the present judgment, the customs authorities are not required to state reasons why the methods listed after the one they accepted are not to be used.
+Accordingly, insofar as it is in a position to determine the customs value of the goods at issue pursuant to Article 30(2)(b) of the Customs Code, the customs authority of a Member State is not required to take into account the methods set out in Article 30(2)(c) and (d) of the code.
+In the light of the foregoing considerations, the answer to the fourth question referred is that Article 30(2) of the Customs Code must be interpreted as meaning that the customs authorities are not required to state reasons why the methods set out in subparagraphs (c) and (d) of that provision are not to be applied, if they determine the customs value of the goods on the basis of the transaction value of similar goods in accordance with Article 151(3) of the Implementing Regulation.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+1.
+Article 29(1) of Council Regulation (EEC) No 2913/of October establishing the Community Customs Code, as amended by Regulation (EC) No 955/of the European Parliament and of the Council of April 1999, must be interpreted as meaning that the method for determining customs value laid down by that provision is not applicable to goods that were not sold for export to the European Union.
+ 
+2.
+Article of Regulation No 2913/92, as amended by Regulation No 955/1999, read in conjunction with Article 6(3) of that regulation, as amended, must be interpreted as meaning that the customs authorities are obliged to state, in their decision fixing the amount of import duties due, the reasons leading them to set aside the methods for determining customs value set out in Articles and of that regulation, as amended, before they could decide to apply the method laid down in Article of that regulation, as amended, and the data on the basis of which the customs value of the goods was calculated, in order to enable the person concerned to assess whether that decision is well founded and to decide in full knowledge of the circumstances whether it is worthwhile for him to bring an action against it. It is for the Member States, exercising their procedural autonomy, to regulate the consequences of a failure by the customs authorities to fulfil their obligation to state reasons and to determine whether and to what extent such a failure may be remedied in the course of legal proceedings, subject to observance of the principles of equivalence and effectiveness.
+ 
+3.
+Article 30(2)(a) of Regulation No 2913/92, as amended by Regulation No 955/1999, must be interpreted as meaning that, before it can set aside the method for determining customs value laid down by that provision, the competent authority is not required to ask the producer to provide it with the information necessary for the application of that method. That authority is, however, required to consult all the information sources and databases available to it. It must also allow the economic operators concerned to provide it with any information which may contribute to determining the customs value of the goods pursuant to that provision.
+ 
+4.
+Article 30(2) of Regulation No 2913/92, as amended by Regulation No 955/1999, must be interpreted as meaning that the customs authorities are not required to state reasons why the methods set out in subparagraphs (c) and (d) of that provision are not to be applied, if they determine the customs value of the goods on the basis of the transaction value of similar goods in accordance with Article 151(3) of Commission Regulation (EEC) No 2454/of July laying down provisions for the implementation of Regulation No 2913/92, as amended by Commission Regulation (EC) No 1762/of July 1995.
+ 
+[Signatures]
+(
+*)	Language of the case: Latvian.
+Top  
+ 

@@ -1,0 +1,96 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+June (
+*)
+‛Sixth VAT Directive — Article 4(1) and (2) — Concept of ‘economic activities’ — Deduction of input tax — Operation of a photovoltaic installation on the roof of a house which is used as a dwelling — Supply to the network — Remuneration — Electricity production lower than consumption’
+In Case C-219/12,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgerichtshof (Austria), made by decision of March 2012, received at the Court on May 2012, in the proceedings
+Finanzamt Freistadt Rohrbach Urfahr
+v
+Unabhängiger Finanzsenat Außenstelle Linz,
+in the presence of:
+Thomas Fuchs,
+THE COURT (Second Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, G. Arestis, J.-C. Bonichot, A. Arabadjiev (Rapporteur) and J. L. da Cruz Vilaça, Judges,
+Advocate General: E. Sharpston,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+the Austrian Government, by C. Pesendorfer, acting as Agent,
+—
+the German Government, by T. Henze and K. Petersen, acting as Agents,
+—
+the European Commission, by C. Soulay and B.-R. Killmann, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on March 2013,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), as amended by Council Directive 95/7/EC of April (OJ L 102, p. 18) (‘the Sixth Directive’).
+The request has been made in proceedings between the Finanzamt Freistadt Rohrbach Urfahr (Freistadt Rohrbach Urfahr Tax Office) (‘the Finanzamt’) and the Unabhängiger Finanzsenat Außenstelle Linz (Independent Finance Tribunal, Linz District), concerning the deduction of input value added tax (‘VAT’) relating to a photovoltaic installation on the roof of a house which is used as a dwelling.
+Legal context
+EU law
+Article – also Title II – of the Sixth Directive, entitled ‘Scope’, was worded as follows:
+‘The following shall be subject to [VAT]:
+1.
+the supply of goods or services effected for consideration within the territory of the country by a taxable person acting as such;
+…’
+Article 4(1) and (2) of the Sixth Directive provided:
+‘1.   “Taxable person” shall mean any person who independently carries out in any place any economic activity specified in paragraph 2, whatever the purpose or results of that activity.
+2.   The economic activities referred to in paragraph shall comprise all activities of producers, traders and persons supplying services including mining and agricultural activities and activities of the professions. The exploitation of tangible or intangible property for the purpose of obtaining income therefrom on a continuing basis shall also be considered an economic activity.’
+Under Article 5(1) and (2) of the Sixth Directive:
+‘1.   “Supply of goods” shall mean the transfer of the right to dispose of tangible property as owner.
+2.   Electric current … and the like shall be considered tangible property.’
+Article of the Sixth Directive, as amended by Article 28f thereof, provided:
+‘1.   The right to deduct shall arise at the time when the deductible tax becomes chargeable.
+2.   In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be entitled to deduct from the tax which he is liable to pay:
+(a)
+[VAT] due or paid within the territory of the country in respect of goods or services supplied or to be supplied to him by another taxable person;
+…’
+Austrian law
+Paragraph 2(1) of the Law on turnover tax (Umsatzsteuergesetz 1994, BGBl. 663/1994), in the version applicable to the dispute in the main proceedings, is worded as follows:
+‘A trader is any person who independently carries out a commercial or professional activity. An undertaking comprises the whole of a trader’s commercial or professional activity. Commercial or professional activity means any sustained activity carried out for the purpose of obtaining income, even where there is no intention to make a profit or an association carries out its activities only in relation to its members.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+In Mr Fuchs had a photovoltaic installation fitted on the roof of his house, which he uses as a dwelling, at a cost of EUR 367.76; this attracted a one-off grant of EUR 020.
+The installation has no storage capacity and the whole of the electricity produced thereby is supplied to the network on the basis of a contract, granting access to that network, which has been in force since July and was concluded for an indefinite duration with the company Ökostrom Solarpartner (Ö Vertriebs-GmbH). The consideration for that supply is the market price, that is, EUR 0.per kWh, and subjected to VAT. Such electricity as is necessary to meet Mr Fuchs’s household needs is bought back from the company at the same price as the price of the supply.
+During the period from to 2008, Mr Fuchs took kWh from the network to cover his household needs. He supplied kWh on a continuing basis to the network and directly consumed kWh therefrom. He thus fed into the network the whole of the electricity produced by his photovoltaic installation, namely kWh.
+In that regard, following a request for clarification made in accordance with Article of the Rules of Procedure of the Court of Justice, the Verwaltungsgerichtshof (Administrative Court) stated, in a decision of January received at the Court on January 2013, relying on a finding of fact by the appeal tribunal, that the concept of electricity ‘directly’ consumed had to be understood as meaning that that electricity had been taken from the public network either as soon as or soon after it had been fed into that network.
+Mr Fuchs applied for reimbursement of input VAT in the amount of EUR 394.in connection with his purchase of the photovoltaic installation.
+The Finanzamt took the view that Mr Fuchs was not entitled to deduct the input VAT on the ground that he had not carried out any economic activity by operating his photovoltaic installation. Mr Fuchs brought an appeal against that decision before the Unabhängiger Finanzsenat Außenstelle Linz, claiming that he was carrying out an economic activity as defined in Article 4(1) and (2) of the Sixth Directive.
+The Unabhängiger Finanzsenat Außenstelle Linz upheld that appeal and the Finanzamt challenged that tribunal’s decision before the Verwaltungsgerichtshof.
+In those circumstances, the Verwaltungsgerichtshof decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Is the operation of a network-connected photovoltaic installation with no independent power storage capability on or adjacent to a privately-owned house used for private residential purposes, which is technically designed such that the power generated by the installation is, on a continuing basis, below the total quantity of power privately consumed by the installation operator in the privately-owned house, an “economic activity” of the installation operator within the meaning of Article of the Sixth Directive …?’
+The question referred for a preliminary ruling
+Under Article 4(1) of the Sixth Directive, ‘taxable person’ means any person who independently carries out in any place any economic activity specified in paragraph thereof, whatever the purpose or results of that activity. ‘Economic activity’ is defined in Article 4(2) as including all activities of producers, traders and persons supplying services, inter alia the exploitation of tangible or intangible property for the purpose of obtaining income therefrom on a continuing basis (see Case C-284/T-Mobile Austria and Others [2007] ECR I-5189, paragraph 33, and Case C-369/Hutchison 3G and Others [2007] ECR I-5247, paragraph 27).
+The settled case-law of the Court states that an analysis of the definitions of ‘taxable person’ and ‘economic activities’ shows that the scope of the term ‘economic activities’ is very wide, and that the term is objective in character, in the sense that the activity is considered per se and without regard to its purpose or results (see T-Mobile Austria and Others, paragraph 35, and Hutchison 3G and Others, paragraph 29).
+In the present case, the activity at issue in the main proceedings was the operation of a photovoltaic installation. That activity must be regarded as falling within the concept of ‘economic activities’ as defined in Article 4(2) of the Sixth Directive if it is carried out for the purpose of obtaining income on a continuing basis.
+The issue of whether that activity is designed to obtain income on a continuing basis is an issue of fact which must be assessed having regard to all the circumstances of the case, which include the nature of the property concerned (see Case C-263/Rēdlihs [2012] ECR, paragraph 33).
+That criterion must also make it possible to determine whether an individual has used property in such a way that his activity is to be regarded as ‘economic activity’ within the meaning of the Sixth Directive. The fact that property is suitable only for economic exploitation will normally be sufficient for a finding that its owner is exploiting it for the purposes of economic activities and, consequently, for the purpose of obtaining income on a continuing basis. By contrast, if, by reason of its nature, property is capable of being used for both economic and private purposes, all the circumstances in which it is used will have to be examined in order to determine whether it is actually being used for the purpose of obtaining income on a continuing basis (see Case C-230/Enkler [1996] ECR I-4517, paragraph 27, and Rēdlihs, paragraph 34).
+In the latter case, comparing the circumstances in which the person concerned actually uses the property with the circumstances in which the corresponding economic activity is usually carried out may be one way of ascertaining whether the activity concerned is carried out for the purpose of obtaining income on a continuing basis (see Enkler, paragraph 28, and Rēdlihs, paragraph 35).
+In that regard, it must be stated that the property at issue in the main proceedings, namely a network-connected photovoltaic installation on or adjacent to a house which is used as a dwelling, is, by reason of its very nature, capable of being used for both economic and private purposes.
+First, regarding the issue of whether the supply of electricity in question was carried out for the purpose of obtaining income, it should be noted that the concept of ‘income’ must be understood as meaning remuneration received as consideration for the activity carried out.
+In that regard, it is clear from the order for reference that (i) the electricity produced by the photovoltaic installation at issue in the main proceedings was supplied to the network and (ii) under the contract granting access to that network, remuneration was provided as consideration for that supply.
+It is clear both from the wording of Article 4(1) of the Sixth Directive and the case-law of the Court that, for a finding that the exploitation of tangible or intangible property is carried out for the purpose of obtaining income therefrom, it is irrelevant whether or not that exploitation is intended to make a profit.
+Given that the installation on the roof of the house which is used by its operator as a dwelling produces electricity which is fed into the network in return for remuneration, it must be held that the exploitation of that installation is carried out for the purpose of obtaining income therefrom.
+Secondly, it is clear from the order for reference that the contract granting access to the network, which came into force on July 2005, was concluded for ‘an indefinite duration’. As the operation of that photovoltaic installation is being carried out within that time frame, it must be found that the supply of electricity by that photovoltaic installation to the network takes place on a continuing and not just on an occasional basis. Remuneration such as that received by the operator of the installation is thus provided on a continuing basis for the purposes of Article 4(2) of the Sixth Directive.
+Since the photovoltaic installation at issue in the main proceedings produces electricity which is supplied to the network in exchange for income on a continuing basis, it must be found that the activity in question meets the requirements for inclusion in the concept of ‘economic activities’ as defined in Article of the Sixth Directive.
+That finding is not undermined by the fact, noted by the referring court, that the amount of electricity produced by that installation is always lower than the amount of electricity consumed by the operator in meeting his household needs.
+Indeed, it should be noted that, in the present case, it is clear from the order for reference that, due to the technical nature of the installation in question, the electricity produced is supplied to the network and the electricity consumed is purchased from the operator of that network. As noted by the referring court, since the case concerns a network-connected installation for producing electricity, it may well be impossible to classify and determine the fungible property in question, namely, the electricity, after it has been fed into the network and been supplied back to the consumer by that network.
+In those circumstances, it must be held that the electricity supply activity at issue in the main proceedings takes place independently of the activity whereby the operator of the photovoltaic installation takes electricity from the network for his household needs and that the relationship between the amount of electricity produced on the one hand and the amount consumed on the other is therefore irrelevant for the purposes of defining that supply activity as an economic activity.
+Accordingly, the Austrian Government’s argument that the fact that the electricity produced by the photovoltaic installation does not exceed the operator’s household needs proves that the income obtained from supplying electricity to the network is the result of the operator seeking to reduce his electricity bill and, accordingly, the exploitation of that installation is not carried out by that operator for the purpose of obtaining income must be rejected.
+Moreover, given that, as is apparent from paragraph of this judgment, the operator of the installation is carrying out an economic activity as defined in Article 4(2) of the Sixth Directive and that it is common ground that that activity is being carried out independently, that operator must be considered to be a taxable person as defined in Article 4(1) thereof.
+In addition, it is clear from the case file submitted to this Court by the referring court that the operator invoices the other party to the contract for the VAT relating to the supply of all the electricity produced by his photovoltaic installation and that the tax authority collects the VAT thus invoiced. Therefore, first, the installation at issue in the main proceedings is used exclusively for the purposes of transactions that are taxable as outputs.
+Secondly, as the Advocate General noted in point of her Opinion, the Austrian tax authority’s argument as set out in the order for reference and relied on before the Court by the Austrian Government (namely, that the operator of that installation is acting in a private capacity) is not consistent with levying VAT on the electricity which he supplies.
+It should also be borne in mind that, according to the structure of the system introduced by the Sixth Directive, input taxes on goods or services used by a taxable person for his taxable transactions may be deducted. The deduction of input taxes is linked to the collection of output taxes. Where goods or services are used for the purposes of transactions that are taxable as outputs, deduction of the input tax on them is required in order to avoid double taxation (see Case C-184/Uudenkaupungin kaupunki [2006] ECR I-3039, paragraph 24, and Case C-72/Wollny [2006] ECR I-8297, paragraph 20).
+In the light of all of the foregoing, the answer to the question referred is that Article 4(1) and (2) of the Sixth Directive must be interpreted as meaning that the operation of a photovoltaic installation on or adjacent to a house which is used as a dwelling, which is designed such that the electricity produced is (i) always less than the electricity privately consumed by its operator and (ii) supplied to the network in exchange for income on a continuing basis, falls within the concept of ‘economic activities’ as defined in that Article.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article 4(1) and (2) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment, as amended by Council Directive 95/7/EC of April 1995, must be interpreted as meaning that the operation of a photovoltaic installation on or adjacent to a house which is used as a dwelling, which is designed such that the electricity produced is (i) always less than the electricity privately consumed by its operator and (ii) supplied to the network in exchange for income on a continuing basis, falls within the concept of ‘economic activities’ as defined in that Article.
+ 
+[Signatures]
+(
+*)	* Language of the case: German.
+Top  
+ 

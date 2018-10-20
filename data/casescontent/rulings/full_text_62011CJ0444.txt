@@ -1,0 +1,1265 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+July (*)
+      
+(Appeals – Competition – Agreements, decisions and concerted practices – Article EC and Article of the EEA Agreement – International removal services market in Belgium – Direct and indirect price-fixing, market-sharing and manipulation of the procedures for the submission of tenders – Single and continuous infringement – Imputability – Guidelines on the method of setting fines (2006) – Value of sales – Concept – Proportion – Additional amount – Mitigating circumstances – Obligation to state reasons – Imputability to the parent company of the infringement – Regulation (EC) No 1/– Article 23(2) – Ceiling of 10% of turnover – Proportionality)
+In Case C‑444/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on August 2011,
+Team Relocations NV, established in Zaventem (Belgium), represented by H. Gilliams, J. Bocken and L. Gyselen, advocaten,
+      
+Amertranseuro International Holdings Ltd, established in London (United Kingdom),
+      
+Trans Euro Ltd, established in London,
+      
+Team Relocations Ltd, established in London,
+      
+represented by L. Gyselen, advocaat,
+appellants,
+the other party to the proceedings being:
+European Commission, represented by A. Bouquet and N. von Lingen and by A. Antoniadis, acting as Agents, with an address for service in Luxembourg,
+      
+defendant at first instance,
+THE COURT (Third Chamber),
+composed of M. Ilešič, President of the Chamber, E. Jarašiūnas (Rapporteur), A. Ó Caoimh, C. Toader and C. G. Fernlund, Judges,
+Advocate General: J. Kokott,
+Registrar: V. Tourrès, Administrator,
+having regard to the written procedure and further to the hearing on October 2012,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By their appeal, Team Relocations NV, Amertranseuro International Holdings Ltd, Trans Euro Ltd and Team Relocations Ltd (‘Team
+         Relocations’, ‘Amertranseuro’, ‘Trans Euro’ and ‘TR’) seek to have set aside the judgment of the General Court of the European
+         Union of June in Joined Cases T‑204/and T‑212/Team Relocations and Others v Commission [2011] ECR II‑(‘the
+         judgment under appeal’), by which it dismissed their actions seeking, in Case T‑204/08, brought by Team Relocations, first,
+         the annulment of Articles and of Commission Decision C(2008) final of March relating to a proceeding under
+         Article [EC] and Article of the EEA Agreement (Case COMP/38.– International Removal Services) (‘the contested decision’)
+         in so far as they concern them, and, in the alternative, the annulment or reduction of the fine imposed on it in that decision
+         and, in Case T‑212/08, brought by Amertranseuro, Trans Euro and TR (together, ‘the Amertranseuro group’), first, the annulment
+         of Article 2(i) of that decision in so far as it found them jointly and severally liable for the infringement which Team Relocations
+         is alleged to have committed and, in the alternative, the annulment of Article 2(i) of that decision in so far as it does
+         not effectively limit the joint and several liability of Amertranseuro to EUR 1.million.
+      
+ Legal context 
+Council Regulation (EC) No 1/of December on the implementation of the rules on competition laid down in Articles
+         [EC] and [EC] (OJ L 1, p. 1) provides in Article 23(2) and (3) as follows:
+      
+‘2.      The Commission may by decision impose fines on undertakings … where, either intentionally or negligently:
+(a)      they infringe Article [EC] or Article [EC] …
+…
+For each undertaking … participating in the infringement, the fine shall not exceed 10% of its total turnover in the preceding
+         business year. 
+      
+...
+3.      In fixing the amount of the fine, regard shall be had both to the gravity and to the duration of the infringement.’
+The Guidelines on the method of setting fines imposed pursuant to Article 23(2)(a) of Regulation (EC) No 1/(OJ C
+         210, p. 2; ‘the Guidelines’) state under the heading ‘Basic amount of the fine’:
+      
+‘...
+A.      Calculation of the value of sales 
+13.      In determining the basic amount of the fine to be imposed, the Commission will take the value of the undertaking’s sales of
+         goods or services to which the infringement directly or indirectly … relates in the relevant geographic area within the [European
+         Economic Area (EEA)]. It will normally take the sales made by the undertaking during the last full business year of its participation
+         in the infringement (hereafter “value of sales”). 
+      
+…
+B.      Determination of the basic amount of the fine 
+19.      The basic amount of the fine will be related to a proportion of the value of sales, depending on the degree of gravity of
+         the infringement, multiplied by the number of years of infringement.  
+      
+20.      The assessment of gravity will be made on a case-by-case basis for all types of infringement, taking account of all the relevant
+         circumstances of the case. 
+      
+21.      As a general rule, the proportion of the value of sales taken into account will be set at a level of up to 30% of the value
+         of sales. 
+      
+22.      In order to decide whether the proportion of the value of sales to be considered in a given case should be at the lower end
+         or at the higher end of that scale, the Commission will have regard to a number of factors, such as the nature of the infringement,
+         the combined market share of all the undertakings concerned, the geographic scope of the infringement and whether or not the
+         infringement has been implemented. 
+      
+23.      Horizontal price-fixing, market-sharing and output-limitation agreements, which are usually secret, are, by their very nature,
+         among the most harmful restrictions of competition. As a matter of policy, they will be heavily fined. Therefore, the proportion
+         of the value of sales taken into account for such infringements will generally be set at the higher end of the scale.
+      
+24.      In order to take fully into account the duration of the participation of each undertaking in the infringement, the amount
+         determined on the basis of the value of sales … will be multiplied by the number of years of participation in the infringement.
+         ... 
+      
+25.      In addition, irrespective of the duration of the undertaking’s participation in the infringement, the Commission will include
+         in the basic amount a sum of between 15% and 25% of the value of sales … in order to deter undertakings from even entering
+         into horizontal price-fixing …’
+      
+Under the heading ‘Adjustments to the basic amount’, the Guidelines state:
+      
+‘27.      In setting the fine, the Commission may take into account circumstances that result in an increase or decrease in the basic
+         amount as determined in Section above. It will do so on the basis of an overall assessment which takes account of all the
+         relevant circumstances.
+      
+...
+B.      Mitigating circumstances 
+29.      The basic amount may be reduced where the Commission finds that mitigating circumstances exist, such as: 
+…
+–        where the undertaking provides evidence that its involvement in the infringement is substantially limited and thus demonstrates
+         that, during the period in which it was party to the offending agreement, it actually avoided applying it by adopting competitive
+         conduct in the market: the mere fact that an undertaking participated in an infringement for a shorter duration than others
+         will not be regarded as a mitigating circumstance since this will already be reflected in the basic amount; 
+      
+...
+–        where the anti-competitive conduct of the undertaking has been authorised or encouraged by public authorities or by legislation.
+...
+F.      Ability to pay 
+35.      In exceptional cases, the Commission may, upon request, take account of the undertaking’s inability to pay in a specific social
+         and economic context. It will not base any reduction granted for this reason in the fine on the mere finding of an adverse
+         or loss-making financial situation. A reduction could be granted solely on the basis of objective evidence that imposition
+         of the fine as provided for in these Guidelines would irretrievably jeopardise the economic viability of the undertaking concerned
+         and cause its assets to lose all their value.’
+      
+Under the heading ‘Final considerations’, the Guidelines lay down in point as follows: 
+      
+‘Although these Guidelines present the general methodology for the setting of fines, the particularities of a given case or
+         the need to achieve deterrence in a particular case may justify departing from such methodology or from the limits specified
+         in point 21.’
+      
+ Background to the dispute and the contested decision
+The background to the dispute and the contested decision, as apparent from paragraphs to of the judgment under appeal,
+         may be summarised as follows.
+      
+Since January 1994, the 100% parent company of Team Relocations has been TR, of which in turn all 100% of the shares are held
+         by Trans Euro. Since September 2000, 100% of the shares in Trans Euro have been held by Amertranseuro. In the financial
+         year ending September 2006, Amertranseuro achieved a consolidated turnover of EUR 733.
+      
+In the contested decision, the Commission found that the addressees of that decision, including the appellants, participated
+         in a cartel in the international removal services sector in Belgium by fixing prices, sharing customers and manipulating the
+         procedure for the submission of tenders, and thereby committed a single and continuous infringement of Article EC, or must
+         be held liable for that infringement, for all or part of the period from October until September 2003.
+      
+The services concerned by the infringement include removals of goods for natural persons and for undertakings or public institutions
+         to or from Belgium. In view of the fact that the international removal companies in question are all located in Belgium and
+         that the activities of the cartel took place there, Belgium was considered to be the geographic centre of the cartel. The
+         combined turnover of the participants in the cartel for those international removal services was estimated by the Commission
+         at EUR million for 2002. The size of the sector having been assessed at approximately EUR million, the combined market
+         share of the undertakings involved was therefore considered to be approximately 50% of the sector concerned. 
+      
+The Commission stated in the contested decision that one of the aims of the cartel was to establish and maintain high prices
+         and to share the market, and the cartel itself took various forms: agreements on prices (‘the price-fixing agreement’); agreements
+         on sharing the market by means of a system of false quotes known as ‘cover quotes’ (‘the cover quotes agreement’); and agreements
+         on a system of financial compensation for rejected offers or for not quoting at all, known as commissions (‘the commissions
+         agreement’). 
+      
+In the contested decision, the Commission found that, between and the beginning of the 1990s, the cartel operated inter
+         alia on the basis of written price‑fixing agreements, with the practice of commissions and cover quotes having been introduced
+         at the same time. Also, according to the contested decision, the practice of commissions was to be treated as the indirect
+         fixing of prices for international removal services in Belgium, since the cartel members issued invoices to each other for
+         commissions on rejected offers or offers not made, referring to fictitious services, and the amount represented by those commissions
+         was, moreover, invoiced to the customers.
+      
+As regards the cover quotes, the Commission stated in the contested decision that, through the submission of such quotes,
+         the removal company which wanted the contract ensured that the customer paying for the removal received several quotes. To
+         that end, that company indicated to its competitors the total price that they were to quote for the planned removal, which
+         was higher than the price quoted by the company itself. Thus, the system in operation was one of fictitious quotes submitted
+         by companies which did not intend to carry out the removal. The Commission took the view that that practice constituted a
+         manipulation of the tendering procedure to ensure that the price quoted for a removal was higher than it would have been in
+         a competitive environment. 
+      
+The Commission found, in the contested decision, that those arrangements were in place until and that those complex activities
+         had the same object: price‑fixing and market-sharing and, thereby, the distortion of competition.
+      
+In the light of those factors, the Commission adopted the contested decision, Article of which is worded as follows: 
+      
+‘By directly and indirectly fixing prices for international removal services in Belgium, sharing part of the market, and manipulating
+         the procedure for the submission of tenders, the following undertakings have infringed Article 81(1) [EC] and Article 53(1)
+         of the [Agreement on the European Economic Area of May (OJ L 1, p. 3)] in the periods indicated:
+      
+...
+g)      [Team Relocations] from January to September 2003; with [Trans Euro] and [TR] from January to September
+         2003; with [Amertranseuro], [Trans Euro] and [TR] from September to September 2003;
+      
+...’
+Consequently, under Article 2(i) of the contested decision, the Commission imposed a fine of EUR 3.million on Team Relocations,
+         of which Trans Euro and TR are held jointly and severally liable for the amount of EUR million and Amertranseuro, Trans
+         Euro and TR are held jointly and severally liable for the amount of EUR 1.million. That fine was calculated in accordance
+         with the methodology set out in the Guidelines. 
+      
+ The procedure before the General Court and the judgment under appeal
+By applications lodged at the Registry of the General Court on June 2008, Team Relocations and Amertranseuro group both
+         brought an action against the contested decision. The action brought by Team Relocations, registered as Case T‑204/sought,
+         first, the annulment of Articles and of the contested decision in so far as they concern it and, alternatively, a substantial
+         reduction in the fine imposed on it. Team Relocations also requested the Court to order the Commission to disclose the factors
+         which it took into account in awarding another undertaking referred to in the contested decision a reduction of 70% of the
+         fine that otherwise would have been imposed on that undertaking.
+      
+The action brought by the Amertranseuro group, registered under the number T‑212/08, sought, first, the annulment of Article
+         2(i) of the contested decision in so far as it finds Amertranseuro jointly and severally liable for the infringement committed
+         by Team Relocations and, second, the annulment of that provision in so far as it does not effectively limit the joint and
+         several liability of Amertranseuro to EUR 1.million.
+      
+By order of the President of the Eighth Chamber of the General Court of March 2010, Cases T‑204/and T‑212/were joined
+         for the purposes of the written and oral procedure and of the judgment.
+      
+In support of their actions, Team Relocations and the Amertranseuro group submitted eight pleas in law and two pleas in law
+         respectively, the latter two corresponding to part of the arguments presented by Team Relocations. By the contested judgment,
+         the General Court dismissed the actions in their entirety and ordered the appellants to pay the costs. In so doing, it reasoned,
+         inter alia, as follows.
+      
+In the context of its analysis of the first plea in law put forward by Team Relocations, by which it disputed that it was
+         a party to the single and continuous infringement described in the contested decision, the General Court held, in paragraphs
+         to of the judgment under appeal, that the case-law requires that three conditions be met in order to establish the participation
+         of an undertaking in such an infringement, that is, the existence of an overall plan pursuing a common objective, the intentional
+         contribution of the undertaking to that plan, and its awareness (proved or presumed) of the offending conduct of the other
+         participants. In that regard, it considered first of all, in paragraphs to of that judgment, that the first condition
+         was satisfied, since the commissions agreement and the cover quotes agreement pursued the same objective as the price-fixing
+         agreement. It then stated, in paragraphs to of that judgment, that Team Relocations, by participating in two of the
+         three practices described in the contested decision, had intentionally contributed to that overall plan. Finally, in paragraphs
+         to of that judgment, it concluded that Team Relocations must have been aware of the offending conduct of the other participants.
+      
+In paragraphs to of the judgment under appeal, the General Court rejected the second plea in law of Team Relocations,
+         by which it disputed the value of the sales taken into account for calculating the basic amount of the fine. It considered,
+         in essence, first, that point of the Guidelines covers the value of sales on the relevant market and, second, that
+         the Commission was correct not to exclude from that figure the turnover on removals for private individuals. 
+      
+With regard to the third plea in law relied upon by Team Relocations concerning the application of a tax rate of 17% to the
+         value of the sales in calculating the basic amount of the fine, the General Court, first, in paragraphs to of the judgment
+         under appeal, held that, while the gravity of the participation of an undertaking in an infringement and the individual circumstances
+         of the case must be taken into account by the Commission, the latter is free, applying the Guidelines, to take those
+         factors into account either when assessing the gravity of the infringement or when adjusting the basic amount to reflect mitigating
+         circumstances.
+      
+Second, in paragraph of the judgment under appeal, the General Court considered, in essence, that the rate of 17% applied
+         in this case was not disproportionate in relation to Team Relocations’ responsibility, which was ‘in the lower part of the
+         “higher end of the scale”’ provided for in point of the Guidelines with regard to horizontal price- fixing and market-sharing
+         agreements.
+      
+Finally, in paragraphs to of the judgment under appeal, the General Court rejected the limb of that third plea alleging
+         the failure to state reasons. In that regard, it stated that, in the context of the Guidelines, the Commission may no
+         longer, as a rule, simply state reasons only for the classification of an infringement as ‘very serious’ and not for the choice
+         of the proportion of sales taken into account. It however held that the reasoning given in this case was sufficient, since
+         the Commission applied ‘a percentage very close to the lower end of the scale laid down [in point of the Guidelines]
+         for the most serious restrictions’.
+      
+In paragraphs to of the judgment under appeal, the General Court rejected the fourth plea put forward by Team Relocations,
+         alleging, inter alia, the disproportionate character of point of the Guidelines, to the extent that point provides
+         for the multiplication of the amount determined on the basis of the value of sales by the number of years of participation
+         in the infringement. The General Court held that Article 23(3) of Regulation No 1/does not preclude such multiplication.
+      
+In paragraphs to of the judgment under appeal, the General Court rejected the fifth plea in law relied upon by Team
+         Relocations, alleging infringement of the principles of equal treatment and of proportionality in the context of the imposition
+         of an additional amount for deterrent purposes. It considered, first, that the first of those principles had not been infringed,
+         inter alia because the additional amount had been imposed on all the addressees of the contested decision on the ground that
+         they had all participated in the single and continuous infringement including the price-fixing and/or market-sharing and,
+         second, that the rate of 17% was proportionate.
+      
+The sixth plea in law put forward by Team Relocations, relating to the existence of mitigating circumstances, was also rejected
+         by the General Court, in paragraphs to of the judgment under appeal. The General Court, inter alia, in paragraphs
+         to of that judgment, found that there was nothing in the court file to show that the Commission, as an institution,
+         had authorised or encouraged the practice of cover quotes within the meaning of point 29, fifth indent, of the Guidelines.
+      
+The seventh plea in law relied upon by Team Relocations, concerning the turnover taken into account in order to determine
+         the ceiling of 10% provided for in Article of Regulation No 1/2003, and the first plea in law put forward by the Amertranseuro
+         group, by which the latter disputed that it could be held liable for infringements committed by Team Relocations, were rejected
+         by the General Court in paragraphs to of the judgment under appeal. The General Court, first, in paragraphs to
+         of that judgment, found that the Commission could hold Amertranseuro liable for Team Relocations’ infringement and that
+         Amertranseuro’s turnover could therefore be taken into account for the purposes of determining the ceiling of 10% provided
+         for in the second paragraph of Article 23(2) of Regulation No 1/2003. Second, in paragraphs to of that judgment, it
+         held that the Commission could choose to address the contested decision only to Team Relocations’ current parent companies
+         and not to its former owner. Finally, in paragraph of that judgment, it rejected the complaint as to the allegedly disproportionate
+         nature of the fine, inter alia on the ground that it was still below the 10% ceiling of Amertranseuro’s consolidated turnover.
+      
+In paragraphs to of the judgment under appeal, the General Court rejected the eighth plea in law submitted by Team
+         Relocations, concerning its inability to pay, and the second plea in law of Amertranseuro group, alleging misuse of powers
+         by the Commission in imposing on it a fine that it could not pay. The General Court, inter alia, in paragraph of the judgment
+         under appeal, rejected the complaint based on infringement of the principle of equal treatment with regard to another undertaking
+         covered by the contested decision, given that the appellants’ situation was not comparable with that of the latter undertaking
+         which, unlike the appellants, had submitted a request for a reduction of the fine on the ground of inability to pay. It stated,
+         in that regard, that the submission of such a request was a requirement and that in the absence of such a request no valid
+         assessment of the economic position of the undertaking could be carried out by the Commission. As a result, the General Court
+         also rejected Team Relocations’ request to order the Commission to disclose the factors taken into account in awarding a reduction
+         of 70% of the fine to that other undertaking.
+      
+ Form of order sought by the parties
+By their appeal, the appellants request, in essence, that the Court of Justice should: 
+      
+–        set aside the judgment under appeal; 
+–        in the event that the Court decides to apply Article 61, first paragraph, second sentence, of the Statute of the Court of
+         Justice of the European Union, annul Articles and of the contested decision in so far as they concern them;
+      
+–        in the alternative, reduce the fine;
+–        in the further alternative, annul Article of the contested decision in so far as it holds Amertranseuro jointly and severally
+         liable for an amount of EUR 1.million;
+      
+–        in the further alternative, order the Commission to disclose the factors which it took into account when awarding another
+         undertaking to which the contested decision applies a 70% reduction in the fine that would otherwise have been imposed on
+         that undertaking, and to subsequently allow Team Relocations an opportunity to explain in writing why these reasons also apply
+         to its own situation;
+      
+–        order the Commission to pay the costs. 
+The Commission contends that the Court of Justice should:
+      
+–        dismiss the appeal in its entirety, with, where appropriate, substitution of grounds; 
+–        in the alternative, dismiss the applications in Cases T‑204/and T‑212/08; and 
+–        order the appellants to pay the costs. 
+ The appeal
+In support of their appeal, the appellants put forward nine grounds of appeal, the third, sixth and ninth being put forward
+         in the alternative. The Commission nevertheless contends that they may only rely on pleas in law which they themselves put
+         forward at first instance in the case in which they were parties.
+      
+Admittedly, according to settled case-law, to allow a party to put forward for the first time before the Court of Justice
+         a plea in law which it has not raised before the General Court would mean allowing that party to bring before the Court, whose
+         jurisdiction in appeals is limited, a case of wider ambit than that which came before the General Court. In an appeal, the
+         jurisdiction of the Court of Justice is confined to review the findings of law on the pleas argued before the General Court
+         (see, inter alia, Joined Cases C‑514/P, C‑528/P and C‑532/P Sweden and Others v API and Commission [2010] ECR I‑8533, paragraph and case-law cited). 
+      
+However, since a party must be able to challenge all the grounds for a judgment adversely affecting it, where the General
+         Court has joined two cases and given a single judgment which answers all the pleas submitted by the parties to the proceedings
+         before the Court, each of those parties may criticise the reasoning concerning pleas which, before the General Court, were
+         raised only by the applicant in the other joined case, provided that that reasoning adversely affects it (see, to that effect,
+         Case C‑369/P ISD Polska and Others v Commission [2011] ECR I‑2011, paragraph and case-law cited). 
+      
+It follows that, contrary to what is contended by the Commission, the grounds and arguments put forward in this appeal by
+         the Amertranseuro group cannot be regarded as new and, therefore, inadmissible solely on the ground that they were not raised
+         by that group at first instance but only by the applicant in Case T‑204/08. The same applies to the grounds and arguments
+         put forward by Team Relocations in the present appeal but which had been raised at first instance only by the applicants in
+         Case T‑212/08. Since the responsibilities of Team Relocations and of the Amertranseuro group were linked with regard to the
+         contested decision, the entire judgment under appeal must be regarded as adversely affecting them.
+      
+ The first ground of appeal, alleging that Team Relocations is not responsible for the single and continuous infringement referred
+            to in Article of the contested decision 
+ Arguments of the parties
+The appellants claim that the General Court, by upholding in paragraphs to of the judgment under appeal the Commission’s
+         finding that Team Relocations had participated, since 1997, in the single and continuous infringement described in Article
+         of the contested decision, infringed Article EC, failed to comply with its obligation to state reasons and distorted
+         the clear sense of the evidence.
+      
+In the first place, the General Court erred by finding that Team Relocations was aware, within the meaning of the case-law
+         arising from Case C‑49/P Commission v Anic Partecipazioni [1999] ECR I‑of the overall plan identified in the contested decision. That case-law requires in that regard, first,
+         knowledge of the agreements as put in place by the initial participants in the cartel and, second, adherence to the overall
+         plan as first put into effect by them.
+      
+However, first, Team Relocations was never aware of the price-fixing agreement concluded by the initial participants in the
+         cartel in question.
+      
+Second, the commissions and cover quotes agreed to by Team Relocations do not provide proof of its accession to an overall
+         pre-existing plan. In particular, the reasoning of the judgment under appeal is deficient in that the General Court fails
+         to explain why Team Relocations can be held responsible for the overall plan in question, but the company Verhuizingen Coppens
+         cannot. Team Relocations refers in that regard to paragraph of Case T‑210/Verhuizingen Coppens v Commission [2011] ECR II‑3713. 
+      
+Third, the condition regarding awareness of the offending conduct of the other participants in the cartel cannot, in any event,
+         be satisfied, since Team Relocations was not aware, prior to 2002, of the cover quotes agreement. In that regard, paragraph
+         of the judgment under appeal distorted the clear sense of the evidence, infringed the rules concerning the burden of proof
+         and its reasoning was erroneous.
+      
+Fourth, in paragraphs to of the judgment under appeal, the General Court not only erroneously applied the case-law arising
+         from Commission v Anic Partecipazioni but also put forward contradictory and/or circular reasoning. It confined itself to establishing whether Team Relocations
+         was aware of the commissions agreement and, subsequently, of the cover quotes agreement, whereas it should have examined whether
+         it was aware of the overall plan referred to in Article of the contested decision, as put in place along with the price-fixing
+         agreement, and whether it intended to contribute to those agreements. The mere fact of having agreed to the commissions and
+         the cover quotes was insufficient in that regard, as is apparent from paragraphs and of Verhuizingen Coppens v Commission.
+      
+Fifth, and in any event, the commissions agreement and the cover quotes agreement did not have the same purpose as the price-fixing
+         agreement, the mere objective of distortion of competition being insufficient in that regard. By stating the contrary in paragraphs
+         to of the judgment, the General Court infringed Article EC, distorted the clear sense of the evidence, failed to
+         comply with its obligation to state reasons and made assertions for which it lacked evidence. In reality, the commissions
+         merely had the objective of preventing a company which failed to obtain a removals contract from having to bear the costs
+         linked to preparation of its offer for that removal and the cover quotes did not result in any price-fixing.
+      
+In the second place, and in the alternative, the appellants maintain that the General Court erred in law, failed to comply
+         with its obligation to state reasons and erroneously interpreted the rules regarding the burden of proof by holding, in paragraphs
+         to of the judgment under appeal that the condition established in Commission v Anic Partecipazioni concerning the intentional contribution to the overall plan pursued by all the participants was also satisfied. Not being
+         aware of the price-fixing agreement, Team Relocations cannot be found to have been part of a pre-existing overall plan. Therefore,
+         it cannot be held liable for the infringement referred to in Article of the contested decision.
+      
+In the third place, and in the further alternative, the General Court erred in law and distorted the clear sense of the evidence
+         by maintaining that Team Relocations had participated in the single infringement since 1997. The appellants refer in that
+         regard to paragraphs and of the judgment of the General Court in Verhuizingen Coppens v Commission.
+      
+The Commission submits, as a preliminary point, that the allegations relating to distortion of evidence are inadmissible.
+      
+On the substance, it contends, first, that the arguments made by Team Relocations with regard to the existence of an overall
+         plan are neither substantiated nor well founded and are based on an erroneous understanding of the case-law. In order to establish
+         the existence of an overall plan, it is sufficient to have objective elements which show the links and similarities between
+         the different conduct concerned. That is clearly the case with regard to the cover quotes and the commissions.
+      
+Second, in order to determine whether an undertaking has intentionally contributed to an overall plan, it is necessary, in
+         accordance with Commission v Anic Partecipazioni, to establish whether the conduct of the undertaking intended to further the alleged cartel. That is the case here, the General
+         Court having confirmed that the contested decision held Team Relocations responsible only for the cover quotes and the commissions
+         agreements and that they had the objective of the indirect fixing of prices and the sharing of customers and/or the market,
+         which formed the common objective of the overall plan.
+      
+Finally, the Commission observes, in particular, that the General Court confirmed that Team Relocations was not held responsible
+         for the price-fixing agreement. Therefore, the fact that it was not aware of that agreement did not make it possible to establish
+         a lack of awareness of the cartel as a whole. In addition, it states that Team Relocations, in contrast to the company Verhuizingen
+         Coppens, did indeed participate in the cover quotes agreement and in the commissions agreement.
+      
+ Findings of the Court
+In the first place, to the extent that, pursuant to the present ground of appeal, the appellants argue that the General Court
+         infringed Article EC by erroneously interpreting the criteria according to which responsibility may be imputed to an undertaking
+         for a serious and continuous infringement, it should be recalled that, according to the settled case-law of the Court, an
+         infringement of Article EC can result not only from an isolated act but also from a series of acts or from continuous conduct,
+         even where one or several elements of that series of acts or continuous conduct could also constitute in themselves and taken
+         in isolation an infringement of that provision. Accordingly, if the different actions form part of an ‘overall plan’, because
+         their identical object distorts competition within the common market, the Commission is entitled to impute responsibility
+         for those actions on the basis of participation in the infringement considered as a whole (Commission v Anic Partecipazioni, paragraph 81, and Joined Cases C‑204/P, C‑205/P, C‑211/P, C‑213/P, C‑217/P and C‑219/P Aalborg Portland and Others v Commission [2004] ECR I‑123, paragraph 258). 
+      
+An undertaking which has participated in such a single and complex infringement through its own conduct, which fell within
+         the definition of an agreement or concerted practice having an anti-competitive object within the meaning of Article 81(1)
+         EC and was intended to help bring about the infringement as a whole, may thus be responsible also in respect of the conduct
+         of other undertakings in the context of the same infringement throughout the period of its participation in the infringement.
+         That is the case where it can be shown that that undertaking intended, through its own conduct, to contribute to the common
+         objectives pursued by all the participants and that it was aware of the actual conduct planned or put into effect by other
+         undertakings in pursuit of the same objectives or that it could reasonably have foreseen it and that it was prepared to take
+         the risk (Commission v Anic Partecipazioni, paragraphs 83, and 203, and Aalborg Portland and Others v Commission, paragraph 83).
+      
+In the present case, the General Court, having recalled that case-law in paragraphs to of the judgment under appeal
+         and the relevant case-law of the General Court in paragraph of that judgment, inferred in paragraph of the judgment,
+         that ‘three conditions must be met in order to establish participation in a single and continuous infringement, namely the
+         existence of an overall plan pursuing a common objective, the intentional contribution of the undertaking to that plan, and
+         its awareness (proved or presumed) of the offending conduct of the other participants’.
+      
+The General Court undertook, in paragraphs to of the judgment under appeal, an examination of whether each of those
+         conditions was met in the present case. It held, following an analysis of the facts stated by the Commission in the contested
+         decision and the arguments made before it by Team Relocations, that that was the case. It stated, first, inter alia, in paragraphs
+         and of the judgment under appeal, that the commissions agreement and the cover quotes agreement pursued the same objective
+         as the price-fixing agreement, that common objective being ‘to establish and maintain a high price level for the provision
+         of international removal services in Belgium and to share this market’. It then stated that it was common ground that Team
+         Relocations had participated in two out of the three agreements described in the contested decision. It then, finally, held
+         that in the light of the functioning of the cartel in question, Team Relocations must have been aware of the offending conduct
+         of the other participants in the cartel since 1997. It concluded from this, in paragraph of the judgment under appeal,
+         that ‘the Commission was fully entitled to find that Team Relocations had been a party to the single and continuous infringement
+         described in the [contested decision]’.
+      
+That analysis does not contain any of the alleged errors of law. The conditions which the General Court considered, in paragraph
+         of the judgment under appeal, must be satisfied in order that an undertaking can be held responsible for a single and continuous
+         infringement are in fact compatible with the case-law of the Court referred to in paragraphs and above.
+      
+Contrary to what is submitted by the applicants, that case-law does not require, in order for the condition of awareness by
+         an undertaking of the offending conduct of the other participants in the single and continuous infringement to be satisfied,
+         that it be established that that undertaking was or should have been aware of the offending conduct of the initial participants
+         in the infringement or that it adhered to that infringement from the outset. It also does not lay down that that condition
+         of awareness can be established only if that undertaking contributed to the single and continuous infringement in a way identical
+         to that initially put in place.
+      
+On the contrary, by making clear that the responsibility of an undertaking which participated in a single and continuous infringement
+         is limited, with regard to the conduct planned or put into effect by the other participants and of which it was, or should
+         have been aware, to the actions which occurred during the period of participation of that undertaking in that infringement,
+         the case-law referred to in paragraph of this judgment necessarily accepts that an undertaking may be held responsible
+         for a single and continuous infringement even if it did not participate in all of the offending conduct of which it is made
+         up (see, to that effect, Case C‑441/P Commission v Verhuizingen Coppens [2012] ECR I‑0000, paragraphs to 45). 
+      
+The same applies to the condition concerning the intentional contribution to the common objectives pursued by all the participants.
+         It follows from the very wording of the case-law referred to in paragraphs and above that it does not mean that the
+         intentional contribution to those common objectives can be established only where the undertaking concerned has contributed
+         to those common objectives since the start of the infringement or on condition that it pursued those objectives in ways identical
+         to those put into effect when the infringement commenced.
+      
+With regard to the supposedly erroneous interpretation of the concept of the common objective, it suffices to point out that,
+         as is apparent from paragraph of the present judgment, the appellants’ arguments are based on a misreading of the judgment
+         under appeal, the General Court not having held that the condition linked to the pursuit of a common objective was already
+         satisfied by the sole fact that the three agreements in question had the objective of distorting competition.
+      
+In the second place, to the extent that the appellants claim that the General Court, in the light of the characteristics of
+         the agreements in question and the conduct of Team Relocations in the cartel, was not justified in concluding, like the Commission
+         in the contested decision, that the conditions laid down in the Commission v Anic Partecipazioni case-law were satisfied, in particular since 1997, it must be concluded that that argument seeks in reality to challenge
+         the General Court’s assessment of the facts.
+      
+It is clear from Article TFEU and the first paragraph of Article of the Statute of the Court of Justice that the General
+         Court has exclusive jurisdiction, first, to find the facts, except where the substantive inaccuracy of its findings is apparent
+         from the documents submitted to it, and, second, to assess those facts. When the General Court has found or assessed the facts,
+         the Court of Justice has jurisdiction under Article TFEU to review the legal characterisation of those facts and the legal
+         conclusions which the General Court has drawn from them (see, inter alia, Case C‑185/P Baustahlgewebe v Commission [1998] ECR I‑8417, paragraph 23, and Case C‑90/P General Química and Others v Commission [2011] ECR I‑1, paragraph and the case-law cited). 
+      
+The Court of Justice thus has no jurisdiction to establish the facts or, in principle, to examine the evidence which the General
+         Court accepted in support of those facts. Provided that the evidence has been properly obtained and the general principles
+         of law and the rules of procedure in relation to the burden of proof and the taking of evidence have been observed, it is
+         for the General Court alone to assess the value which should be attached to the evidence produced to it. Save where the clear
+         sense of that evidence has been distorted, that appraisal does not there constitute a point of law which is subject, as such,
+         to review by the Court of Justice (Baustahlgewebe v Commission, paragraph and case-law cited, and General Química and Others v Commission, paragraph and case-law cited).
+      
+It follows that those arguments must be rejected as inadmissible. 
+      
+In the third place, the allegations of distortion of the clear sense of the evidence put forward by the appellants also cannot
+         succeed. The Court has repeatedly held that, where the appellant alleges distortion of the evidence by the General Court,
+         he must, under Article TFUE, the first paragraph of Article of the Statute of the Court of Justice and Article 169(2)
+         of the Rules of Procedure of the Court of Justice, indicate precisely the evidence alleged to have been distorted by that
+         Court and show the errors of appraisal which, in his view, led to that distortion (see Aalborg Portland and Others v Commission, paragraph 50, and Case C‑445/P Bavaria v Commission [2012] ECR I‑0000, paragraph 27).
+      
+In the present case, the appellants do not refer to any specific evidence they believe to have been distorted. They confine
+         themselves to contesting certain parts of the judgment under appeal, without however indicating what specific evidence the
+         General Court is supposed to have distorted.
+      
+Finally, with regard to the allegedly deficient reasoning of the judgment under appeal arising from the fact that the General
+         Court, in infringement of the obligation to state reasons, failed to justify why it considered that Team Relocations could
+         be held responsible for the single and continuous infringement, but the company Verhuizingen Coppens could not, it should
+         be noted that, in line with settled case-law, the statement of the reasons on which a judgment is based must clearly and unequivocally
+         disclose the General Court’s thinking, so that the persons concerned can be apprised of the justification for the decision
+         taken and the Court of Justice can exercise its power of review (see, inter alia, Case C‑259/P Council v de Nil and Impens [1998] ECR I‑2915, paragraphs and 33, and General Química and Others v Commission, paragraph 59).
+      
+The obligation to state reasons does not however require the General Court to provide an account which responds exhaustively
+         and one by one all the arguments put forward by the parties to the case. The reasoning may therefore be implicit on condition
+         that it enables the persons concerned to know why the General Court has not upheld their arguments and provides the Court
+         with sufficient material for it to exercise its power of review (see, inter alia, Aalborg Portland and Others v Commission, paragraph 372).
+      
+In addition, the appellants cannot derive any useful argument from the judgment of the General Court in Verhuizingen Coppens v Commission, which in any case has since been set aside in Commission v Verhuizingen Coppens, in order to show that the judgment under appeal was insufficiently reasoned. The obligation on the General Court to state
+         the reasons for its judgments cannot in principle extend to imposing on it an obligation to justify the solution arrived at
+         in one case in the light of that found in another, even if it concerned the same decision. The Court has also held that, if
+         an addressee of a decision decides to bring an action for annulment, the matter to be tried by the European Union judicature
+         relates only to those aspects of the decision which concern that addressee. Unchallenged aspects concerning other addressees,
+         on the other hand, do not form part of the matter to be tried by the Union judicature (see Case C‑310/P Commission v AssiDomän Kraft Products and Others [1999] ECR I‑5363, paragraph 53, and Joined Cases C‑201/P and C‑216/P ArcelorMittal Luxembourg v Commission and Commission v ArcelorMittal Luxembourg and Others [2011] ECR I‑2239, paragraph 142), without prejudice to special circumstances (see, to that effect, Case C‑286/Commission v Tomkins [2013] ECR I‑0000, paragraphs and 49), which however are neither alleged not submitted in the present case.
+      
+As to the remainder, the General Court stated in paragraph of the judgment under appeal that ‘it is not disputed that [Team
+         Relocations] participated in two of the three practices described in the [contested decision], that is the agreements on commissions
+         and cover quotes’, whereas according to paragraph of Verhuizingen Coppens v Commission, the General Court had held that the participation of that company in the cartel in question ‘was limited to issuing cover
+         quotes’. That factual assessment contained in paragraph of the judgment under appeal is sufficient to understand why the
+         General Court considered that the characteristics of the infringement committed by Team Relocations were not comparable to
+         those of the infringement committed by that other company and, therefore, could be treated differently.
+      
+In the light of all the above considerations, the first ground of appeal must be rejected as in part unfounded and in part
+         inadmissible.
+      
+ The second ground of appeal, based on the infringement of point of the Guidelines and on deficient reasoning 
+ Arguments of the parties
+First, the appellants claim that the General Court misinterpreted point of the Guidelines. That point authorises the
+         Commission to calculate the amount of the fine only on the basis of the turnover to which the infringement is actually related
+         and not on the basis of the entire turnover achieved on the relevant market. The arguments put forward by the General Court
+         in paragraphs to of the judgment under appeal in order to support its position contain errors of law and are based on
+         deficient reasoning.
+      
+All the language versions of that point indicate that only those sales to which the infringement relates may be taken into
+         account. The fact that under the case-law of the European Union the Commission is not obliged to ascertain which individual
+         sales were affected by the cartel is not relevant, since the Commission has chosen to impose such an obligation on itself.
+         In addition, the burden of proof concerned is not impossible to discharge, since it suffices if the Commission produces sufficient
+         ‘evidence of the scope of a cartel’. The case-law cited by the General Court shows, in addition, that only the turnover obtained
+         by the sales which are actually related to the infringement are relevant and that the Commission’s decision of November
+         relating to a proceeding under Article [EC] and Article of the EEA Agreement (Case COMP/39.– Car glass) confirmed
+         that interpretation.
+      
+In the alternative, the appellants argue that the General Court erred in holding that the amount of the fine could be calculated
+         on the basis of the turnover including the turnover generated by removals for individuals, whereas according to paragraphs
+         and of the judgment under appeal it is common ground that the practices in question, at least in so far as they were
+         committed by Team Relocations, did not concern such removals. In particular, the position of the General Court in that regard
+         was based on simple suppositions regarding the conduct of the other participants, as is apparent from paragraph of the
+         judgment under appeal, and thus infringes the principle of in dubio pro reo, the presumption of innocence, the rules relating to the burden of proof and the nulla poena sine culpa principle.
+      
+The Commission replies that this ground of appeal is unfounded. In particular, the interpretation of point of the Guidelines put forward by the appellants does not take into account either its exact wording or the objective pursued by it.
+         In addition, the scope of an infringement is determined on the basis of a global assessment of all available evidence. The
+         absence of evidence showing that Team Relocations paid or received commissions in relation to removals for individuals cannot
+         therefore affect the scope of that infringement, since it is apparent from the contested decision and the judgment under appeal,
+         which is not contested on that point, that the commissions agreement also concerned removals for individuals.
+      
+ Findings of the Court
+According to point of the Guidelines: ‘[i]n determining the basic amount of the fine to be imposed, the Commission
+         takes the value of each undertaking’s sales of goods or services to which the infringement directly or indirectly … relates
+         in the relevant geographic area within the EEA.’
+      
+In the introductory section, those guidelines lay down, in their point 6, that ‘[t]he combination of the value of sales to
+         which the infringement relates and of the duration of the infringement is regarded as providing an appropriate proxy to reflect
+         the economic importance of the infringement as well as the relative weight of each undertaking in the infringement’.
+      
+Thus, the case-law preceding the adoption by the Commission of the Guidelines which aim to provide a framework for the
+         exercise of its power of discretion concerning the fixing of fines already showed in a consistent manner that, with regard
+         to the fixing of the fine, it is open to the Commission to take into account not only the undertaking’s global turnover, which
+         constitutes an indication, albeit an approximate and imperfect one, of the undertaking’s size and its economic power, but
+         also the proportion of that turnover accounted for by the goods in respect of which the infringement was committed, which
+         thus gives an indication of the scale of the infringement (see, inter alia, Joined Cases 100/to 103/Musique Diffusion française and Others v Commission [1983] ECR 1825, paragraphs and 121, and Commission v Anic Partecipazioni, paragraph 164).
+      
+It follows that point of the Guidelines pursues the objective of adopting as the starting point for the calculation
+         of the fine imposed on an undertaking an amount which reflects the economic significance of the infringement and the size
+         of the undertaking’s contribution to it. Consequently, while the concept of the value of sales referred to in point of
+         those guidelines admittedly cannot, extend to encompassing sales made by the undertaking in question which do not fall within
+         the scope of the alleged cartel, it would however be contrary to the goal pursued by that provision if that concept were understood
+         as applying only to turnover achieved by the sales in respect of which it is established that they were actually affected
+         by that cartel.
+      
+Such a limitation would, in addition, have the effect of artificially minimising the economic significance of the infringement
+         committed by a particular undertaking since the mere fact that a limited amount of direct evidence of sales actually affected
+         by the cartel had been found would lead to the imposition of a fine which bore no actual relation to the scope of application
+         of the cartel in question. Such a reward for being secretive would also adversely affect the objective of the effective investigation
+         and sanctioning of infringements of Article EC and, therefore, cannot be permitted.
+      
+In the present case, the General Court therefore correctly held, in paragraph of the judgment under appeal, that ‘it does
+         not follow from [that point 13] that only the value of sales for removals actually affected by the infringement may be taken
+         into account in order to determine the relevant value of sales’. In that regard, it could therefore rely, without erring in
+         law, in paragraph of that judgment on the objective of the European Union rules on competition, in paragraph of that
+         judgment on the need to take into account the secret character of cartels, which in the present case would make it ‘impossible
+         to find evidence in relation to each of the removals affected’ and, in paragraph of that judgment on the case-law resulting
+         from Musique Diffusion française and Others v Commission.
+      
+With regard to paragraphs and of the judgment under appeal, they also do not contain the errors of law alleged.
+      
+With regard to paragraph of the judgment under appeal, it is true that, in that paragraph, the General Court refers only
+         to the German wording of point of the Guidelines in order to substantiate its literal interpretation of point of
+         those guidelines, based on the French language version, according to which ‘[t]he wording of point therefore relates to
+         sales in the relevant market’.
+      
+However, first, it must be held that, as stated by the General Court in paragraph of the judgment under appeal, the German
+         language version of point refers in a ‘very clear’ way to ‘sales in the markets concerned by the infringement’ (‘Umsatz
+         auf den vom Verstoß betroffenen Märkten’). Second, according to settled case-law, although the other language versions of
+         point do not make it possible to justify clearly that literal interpretation of point of the Guidelines, as the
+         appellants claim, the need for a uniform interpretation of the various language versions of a provision of European Union
+         law requires, in the case of divergence between them, that the provision in question be interpreted by reference to the purpose
+         and general scheme of the rules of which it forms part (Case C‑72/Kraaijeveld and Others [1996] ECR I‑5403, paragraph 28, and Case C‑63/Profisa [2007] ECR I‑3239, paragraph 14). It is apparent from paragraph above that the literal interpretation adopted by the General
+         Court in paragraph of the judgment under appeal is fully consistent with the objective pursued by that provision and, more
+         generally, with the objective of EU rules on competition, as the General Court also stated in paragraph of the judgment
+         under appeal.
+      
+With regard to paragraph of the judgment under appeal, it is sufficient to note that, pursuant to settled case-law, the
+         Commission’s practice in previous decisions does not itself serve as a legal framework for the fines imposed in competition
+         matters (Case C‑167/P JCB Service v Commission [2006] ECR I‑8935, paragraph 205, and Case C‑549/P Tomra Systems and Others v Commission [2012] ECR I‑0000, paragraph 104). Thus, although the General Court erroneously held, in paragraph of the judgment under
+         appeal, that the Commission’s decision of November 2008, referred to in paragraph above, confirmed the interpretation
+         of point of the Guidelines adopted in paragraph of the judgment under appeal, the appellants may not deduce any
+         decisive argument in their favour from that decision. The complaint directed against paragraph of the judgment under appeal
+         must therefore be rejected as ineffective.
+      
+In addition, it follows from the considerations set out in paragraphs to of the present judgment that the reasoning
+         followed by the General Court in paragraphs to of the judgment under appeal responds to the requirements of the case-law
+         set out in paragraphs and above.
+      
+The first limb of this ground of appeal must therefore be rejected. 
+      
+With regard to the alternative branch, it must be pointed out, first, that, admittedly, the General Court held, in paragraph
+         of the judgment under appeal, that ‘it is apparent from recital of the [contested decision] that some of the other
+         addressees of that decision seem to have agreed to pay commissions in respect of international removals paid for by private
+         individuals. Therefore … it cannot be ruled out that certain private removals were affected by the single infringement at
+         issue’ and that it deduced from this that the concept of the value of sales referred to in that point could, in the present
+         case, include the turnover achieved by Team Relocations by removals for individuals.
+      
+Recital of the contested decision is worded as follows:
+      
+‘[An undertaking which participated in the cartel] put forward arguments for excluding certain types of customer, such as
+         individuals or key accounts. The Commission rejects these arguments. The file shows that international removals paid for by
+         such customers were affected by the price-fixing agreements, commissions agreements and cover quotes agreements. There is
+         ample evidence in the file that commissions were arranged for international removals that were paid for by such customers.
+         Of the international removals indicated in the table found during the investigation at [another undertaking which participated
+         in the cartel] … for example, there are six for which the “account” in the list contains the word “private”. The list also
+         contains the names of a number of important customers who, nevertheless, were also victims of the infringement. What is more,
+         the price agreements applied to all customers, without distinction.’
+      
+It must therefore be held that the appellants’ arguments alleging that the General Court had based its position on simple
+         assumptions, thus infringing the principle in dubio pro reo, the presumption of innocence, the rules on the burden of proof and the nulla poena sine culpa principle rely, in fact, not on an error of law but on mere inelegant drafting of the judgment under appeal which has no
+         legal bearing on the solution adopted. It must therefore be rejected as unfounded.
+      
+Second, on the one hand, it is apparent from paragraph above that the concept of the value of sales referred to in point
+         of the Guidelines cannot be interpreted as referring only to the sales actually affected by that cartel. On the other
+         hand, the appellants have not contested before the General Court the Commission’s finding in the contested decision that the
+         cartel in question related not only to removals for undertakings but also to removals for individuals.
+      
+In those circumstances, the General Court was correct, in paragraph of the judgment under appeal, to hold that, although,
+         ‘as regards Team Relocations, the Commission has not proved that commissions were agreed or applied to removals paid for by
+         private individuals’, Team Relocations’ argument that the value of the relevant sales may not include the turnover achieved
+         by removals for individuals must be rejected on the ground that ‘the Commission would [then] be obliged to include in the
+         relevant value of sales only the individual sales which were affected by the cartel and for which it has documentary evidence;
+         [t]he existence of an obligation of that kind has already been rejected in the course of examining the first limb of the [second]
+         plea’.
+      
+It follows from the above that the alternative limb of this ground of appeal cannot be upheld. Therefore, the second ground
+         of appeal must be rejected in its entirety.
+      
+ The third ground of appeal, alleging that there is no justification for applying a rate of 17% to the value of sales 
+ Arguments of the parties
+The appellants claim, in the first place, that in paragraphs to of the judgment under appeal the General Court erred
+         in law by holding that the Commission may, under the Guidelines, fix the basic amount of the fine by applying to all
+         the participants the same percentage applicable to the value of the sales, whereas the case-law requires the Commission to
+         assess the relative gravity of the participation of each undertaking in the cartel in question. The General Court’s assertion
+         that the Commission is free to carry out such an assessment of the relative gravity where it reviews whether mitigating and/or
+         aggravating circumstances exist is legally incorrect, not properly reasoned and leads to a reversal of the burden of proof
+         which is incompatible with the presumption of innocence and the rights of the defence.
+      
+In the second place, the appellants argue that paragraph of the judgment under appeal, in which the General Court states
+         that a rate of 17% is not disproportionate in relation to Team Relocations’ responsibility for the infringement, is based
+         on deficient reasoning. It contradicts paragraphs to of that same judgment and does not discuss Team Relocations’ actual
+         responsibility for the infringement but only provides a qualification of the infringement in general.
+      
+In the third place, the reasoning in paragraphs to of the judgment under appeal, concerning the assessment of the reasoning
+         contained in the contested decision, is insufficient and contradictory. The General Court acknowledges, in paragraphs to
+         of that judgment, that the contested decision does not contain sufficient reasoning in order to allow the undertakings
+         involved to understand why a percentage of 17% was applied in determining the basic amount of the fine. However, according
+         to that judgment, the duty to provide sufficient reasoning applies only after that judgment has been delivered. There was
+         however no foundation for the General Court’s decision to relieve the Commission of that obligation in the present case. In
+         addition, taking into account the new method introduced by the Guidelines, the assertion in paragraph of the judgment
+         under appeal, according to which it is not necessary to provide specific reasons where the rate applicable to the value of
+         sales is ‘only’ 17%, is incorrect and insufficiently reasoned.
+      
+The Commission contends, in the first place, that, on the one hand, according to settled case-law, a clear distinction is
+         to be made between the assessment of the gravity of the infringement as such and the assessment of the individual conduct
+         of each undertaking. On the other hand, the General Court’s stance does not affect the burden of proof since the Commission
+         takes into account the mitigating circumstances if it is clear from the facts of the case that such circumstances are applicable.
+         In the second place, the criticisms levelled at paragraph of the judgment under appeal are manifestly unfounded. In the
+         third place, it states that it shares the General Court’s conclusion that it (the Commission) provided sufficient reasons,
+         in the contested decision, for the application of the 17% rate. It considers, nevertheless, that paragraphs to of the
+         judgment under appeal are incorrect because, contrary to what is stated by the General Court, no more detailed reasoning is
+         required under the Guidelines. The Commission therefore requests the Court to substitute the General Court’s findings
+         in paragraphs to of the judgment under appeal.
+      
+ Findings of the Court
+With regard to the first limb of this ground of appeal, it must be borne in mind that the General Court alone has jurisdiction
+         to examine how in each particular case the Commission appraised the gravity of unlawful conduct. In the context of an appeal,
+         the purpose of review by the Court is, first, to examine to what extent the General Court took into consideration, in a legally
+         correct manner, all the essential factors to assess the gravity of particular conduct in the light of Article EC and Article
+         of Regulation No 1/and, second, to consider whether the General Court responded to a sufficient legal standard to
+         all the arguments raised by the appellant with a view to having the fine cancelled or reduced (see, inter alia, Baustahlgewebe v Commission, paragraph 128, and Joined Cases C‑189/P, C‑202/P, C‑205/P to C‑208/P and C‑213/P Dansk Rørindustri and Others v Commission [2005] ECR I‑5425, paragraph 244).
+      
+In addition, while the Commission enjoys a broad discretion and while the method for calculating fines set out in the Guidelines displays flexibility in a number of ways, enabling the Commission to exercise its discretion in accordance with
+         Article of Regulation No 1/2003, it is nevertheless for the Court to verify whether the General Court has correctly assessed
+         the Commission’s exercise of that discretion (see, to that effect, Joined Cases C‑322/P, C‑327/P and C‑338/P August Koehler and Others v Commission [2009] ECR I‑7191, paragraphs and and case-law cited).
+      
+On the other hand, it is not for the Court, when ruling on questions of law in the context of an appeal, to substitute, on
+         grounds of fairness, its own assessment for that of the General Court exercising its unlimited jurisdiction to rule on the
+         amount of fines imposed on undertakings for infringements of EU law (see, in particular, Baustahlgewebe v Commission, paragraph 129, and Dansk Rørindustri and Others v Commission, paragraph 245).
+      
+Furthermore, it should also be noted that, according to the settled case-law of the Court of Justice, in setting the amount
+         of fines, regard must be had to the duration of the infringements and to all the factors capable of affecting the assessment
+         of the gravity of those infringements (see Musique Diffusion française and Others v Commission, paragraph 129, and Dansk Rørindustri and Others v Commission, paragraph 240).
+      
+In that regard, according to the settled case-law of the Court, the gravity of infringements of EU competition law must be
+         determined by reference to numerous factors such as, in particular, the specific circumstances and context of the case and
+         the deterrent effect of fines, although no binding or exhaustive list of the criteria to be applied has been drawn up (see,
+         inter alia, Dansk Rørindustri and Others v Commission, paragraph 241, and Case C‑534/P Prym and Prym Consumer v Commission [2009] ECR I‑7415, paragraph 54).
+      
+The factors capable of affecting the assessment of the gravity of the infringements include the conduct of each of the undertakings,
+         the role played by each of them in the establishment of the cartel, the profit which they were able to derive from it, their
+         size, the value of the goods concerned and the threat that infringements of that type pose to the objectives of the EU (see,
+         to that effect, Musique Diffusion française and Others v Commission, paragraph 129, and Dansk Rørindustri and Others v Commission, paragraph 242).
+      
+In the present case, that case-law is not contradicted by the reasoning of the General Court in paragraphs to of the
+         judgment under appeal, in which it undertook, as stated in paragraph of that judgment, to establish ‘whether … it was open
+         to the Commission to abandon any distinction between the participants in the infringement and any consideration of the specific
+         circumstances of the case in order to assess the gravity of the infringement committed by Team Relocations’ and, thus, whether
+         the Commission was justified, in order to fix the basic amount of the fines, in adopting a rate of 17% of the value of the
+         sales for all of the undertakings concerned, and in assessing the individual conduct of Team Relocations only in the context
+         of mitigating or aggravating circumstances.
+      
+The General Court correctly noted, in paragraphs and of the judgment under appeal that, in accordance with EU case-law,
+         the gravity of the infringement must be assessed on an individual basis.
+      
+Considering the discretion enjoyed by the Commission in the matter, the General Court stated, in paragraphs and of the
+         judgment under appeal that, according to that case-law, ‘the Commission was at liberty to take into account certain aspects
+         of “gravity” within the meaning of Article of Regulation No 1/in the context of mitigating and aggravating circumstances’
+         and that ‘[t]his applies, in particular, to the assessment of the relative gravity of the participation in a single and continuous
+         infringement committed by several undertakings’.
+      
+In addition, the General Court rightly pointed out, in paragraph of the judgment under appeal that, applying the Guidelines,
+         it was open to the Commission to take into account the relative gravity of the participation of an undertaking in an infringement
+         and the particular circumstances of the case when assessing the gravity of the infringement or when adjusting the basic amount
+         according to the mitigating and/or aggravating circumstances. It added, correctly, that ‘[w]here the Commission follows the
+         latter approach, the assessment of mitigating and aggravating circumstances must, however, enable sufficient account to be
+         taken of the relative gravity of the participation in a single infringement, and any variation in that gravity over time’.
+      
+That option is not only consistent with the case-law referred to in paragraphs and above, since the undertaking’s individual
+         conduct must, in any event, be taken into account when the amount of the fine is determined, but also because it is foreseen
+         by the Commission in the Guidelines. While, under point of those guidelines, the gravity of the infringement must
+         be assessed on a case-by-case basis for all types of infringement, taking account of all relevant circumstances of the case,
+         point thereof also provides that, in setting the fine, the Commission may take into account circumstances that result in
+         an increase or decrease in the basic amount of that , on the basis of an overall assessment which takes account of all the
+         relevant circumstances, a list of examples of aggravating and mitigating circumstances being indicated in points and of those guidelines. 
+      
+In those circumstances, the General Court did not err in law when holding, in essence, in paragraph of the judgment under
+         appeal, that the Commission was entitled to lay down a single rate for all the undertakings concerned and that the relative
+         gravity of Team Relocations’ participation in the cartel could be examined in the context of the assessment of mitigating
+         circumstances.
+      
+Contrary to what is maintained by the appellants, such an approach does not entail any unlawful reversal of the burden of
+         proof.
+      
+It is true that point of the Guidelines states, in relation to a number of the mitigating circumstances referred to
+         therein, that it is for the undertaking concerned to provide evidence of the circumstances on which it relies. However, the
+         fact remains that the burden of proof is on the Commission to establish, subject to review by the European Union judicature,
+         the degree of gravity of the individual conduct of the undertakings which it intends to sanction for infringing Article EC and that it must to that end take into account all the relevant circumstances, in accordance with the case-law referred
+         to in paragraphs and above and point of the Guidelines. 
+      
+Furthermore, it follows from the above considerations that the reasoning put forward by the General Court in order to dismiss
+         the arguments of Team Relocations, claiming that there was an obligation to set the fine imposed on it on the basis of its
+         individual role satisfied the conditions laid down in the case-law referred to in paragraphs and above. 
+      
+Therefore, the first limb of this ground must be dismissed as unfounded. 
+      
+With regard to the second limb of the third ground of appeal, directed against paragraph of the judgment under appeal,
+         it should be noted that the General Court stated in that paragraph as follows:
+      
+‘As regards the alleged infringement of the principle of proportionality, the Court considers that, taken separately, a rate
+         of 17% is not disproportionate in relation to Team Relocations’ actual responsibility for the infringement, which consisted,
+         inter alia, in market-sharing and manipulating the procedure for the submission of tenders. Point of the Guidelines
+         states clearly that the proportion of the value of sales taken into account for horizontal price-fixing and market-sharing
+         agreements will generally be set “at the higher end of the scale”. The Commission was therefore entitled to set a rate of
+         17%, which is in the lower part of the “higher end of the scale”.’ 
+      
+It follows from the above, first, that, however concise, the reasoning put forward in that paragraph makes it perfectly possible
+         to understand the reasons why the General Court rejected Team Relocations’ complaint alleging the infringement, by the Commission,
+         of the principle of proportionality when fixing the rate applicable to the value of sales in order to determine the basic
+         amount of the fine imposed on it.
+      
+Second, considering that, as is apparent from paragraph above, the General Court, without erring in law, could consider
+         that the Commission was entitled to take into account the relative gravity of the participation of Team Relocations in the
+         infringement in question when assessing the mitigating or aggravating circumstances, the General Court could, without contradicting
+         itself, consider that, in the context of the fixing of the rate of the value of sales to be adopted in order to determine
+         the basic amount of the fine, the Commission could limit itself to referring to the nature of the infringement in question.
+      
+Finally, the General Court having set out, in paragraph of the judgment under appeal, that it would assess the relative
+         gravity of Team Relocations’ participation in the cartel in question in the context of its examination of the complaints alleging
+         that the Commission incorrectly assessed the mitigating circumstances – which it did in paragraphs to of the judgment
+         under appeal – it cannot be inferred from paragraph of the judgment under appeal that the General Court, in violation of
+         EU law, failed to examine Team Relocations’ individual responsibility.
+      
+It is thus apparent that the second limb of the first ground of appeal is also unfounded.
+      
+With regard to the third limb of the third ground of appeal it should be noted, as a preliminary point, that, even though
+         the General Court wrongly held, in paragraphs to of the judgment under appeal, that the adoption of the Guidelines
+         replacing those which had been adopted in rendered the Commission’s obligation to state reasons more onerous when imposing
+         sanctions for the infringement of EU competition law, that has no bearing on the analysis of whether the present limb is well
+         founded. In paragraphs and of the judgment under appeal, the General Court, in essence, held that the imposition of
+         such a higher standard of reasoning was unnecessary in the case before it. Thus, the General Court did not draw any factual
+         or legal conclusion from the considerations set out in paragraphs to of the judgment under appeal.
+      
+The Commission’s request must therefore be regarded as being directed against grounds included in the judgment under appeal
+         purely for the sake of completeness and, consequently, as it is ineffective, it must, in any event, be rejected (see, to that
+         effect, Order of March in Case C‑137/P SPO and Others v Commission [1996] ECR I‑1611, paragraph and case-law cited, and Case C‑182/P Salzgitter v Commission [2003] ECR I‑10761, paragraphs and 55).
+      
+With regard to the appellants’ arguments, since they rely, in essence, both on the infringement of the General Court’s duty
+         to review the Commission’s obligation to state reasons and of its own obligation to state reasons, it should, first, be borne
+         in mind that the obligation to state reasons laid down in Article EC is an essential procedural requirement that must
+         be distinguished from the question whether the reasoning is well founded, which goes to the substantive legality of the measure
+         at issue (Case C‑521/P Elf Aquitaine v Commission [2011] ECR I‑8947, paragraph and case-law cited).
+      
+In that regard, first, the statement of reasons required under Article EC must be appropriate to the measure in question
+         and must disclose in a clear and unequivocal fashion the reasoning followed by the institution which adopted that measure,
+         in such a way as to enable the persons concerned to ascertain the reasons for the measure and to enable the competent Court
+         of the European Union to exercise its jurisdiction to review legality. With regard, in particular, to the reasons given for
+         individual decisions, the purpose of the obligation to state reasons for an individual decision is, in addition to permitting
+         review by the Courts, to provide the person concerned with sufficient information to know whether the decision may be vitiated
+         by an error enabling its validity to be contested (Elf Aquitaine v Commission, paragraphs and and case-law cited).
+      
+Second, the requirement to state reasons must be assessed by reference to the circumstances of the case, in particular the
+         content of the measure in question, the nature of the reasons given and the interest which the addressees of the measure,
+         or other parties to whom it is of direct and individual concern, may have in obtaining explanations. It is not necessary for
+         the reasoning to go into all the relevant facts and points of law, since the question whether the statement of reasons meets
+         the requirements of Article EC must be assessed with regard not only to its wording but also to its context and to all
+         the legal rules governing the matter in question (see Elf Aquitaine v Commission, paragraph and case‑law cited).
+      
+Furthermore, with regard to the choice of the proportion of the value of the sales used for determining the basic amount of
+         the fine, point of the Guidelines states that ‘[a]s a general rule, the proportion of the value of sales taken into
+         account will be set at a level of up to 30% of the value of sales’. Point of those guidelines states that ‘[i]n order to
+         decide whether the proportion of the value of sales to be considered in a given case should be at the lower end or at the
+         higher end of that scale, the Commission will have regard to a number of factors, such as the nature of the infringement,
+         the combined market share of all the undertakings concerned, the geographic scope of the infringement and whether or not the
+         infringement has been implemented’. Point of the Guidelines states that ‘the proportion of the value of sales taken
+         into account for [horizontal price‑fixing, market-sharing and output-limitation agreements, which are usually secret] will
+         generally be set at the higher end of the scale’.
+      
+In the present case, with regard to the proportion of the value of sales used for determining the basic amount of the fine,
+         the General Court, after holding, in paragraph of the judgment under appeal, that ‘the Commission gave sufficient reasons
+         for classifying the infringement as “very serious” and noting, in paragraph of that judgment, the essential elements of
+         points 19, and of the Guidelines, stated in paragraph of that judgment, as follows:
+      
+‘… in recital of the [contested decision], the Commission set the percentage at a level scarcely above the mid-point of
+         the scale, namely at 17%, basing its choice solely on the “very serious” nature of the infringement. However, the Commission
+         has failed to explain in a more detailed manner how the classification of the infringement as “very serious” has led it to
+         set the percentage at 17% and not at a percentage considerably more “at the higher end of the scale”. That reasoning can be
+         sufficient only where the Commission applies a percentage very close to the lower end of the scale laid down for the most
+         serious restrictions, that being, moreover, highly favourable to the applicant. In that case, supplementary reasons going
+         beyond the reasoning inherent in the guidelines are not necessary. By contrast, had the Commission wished to apply a higher
+         percentage, it would have had to provide more detailed reasons …’ 
+      
+The General Court concluded from the above, in paragraph of the judgment under appeal, that ‘[a]s regards the reasoning
+         concerning the setting of an undifferentiated percentage at 17%, it may be inferred from the [contested decision] that the
+         Commission proceeds from the principle that the finding of a single and continuous infringement justifies the application
+         of a single percentage. That finding is sufficiently reasoned and well founded’, the General Court referring in that regard
+         to paragraphs et seq. of the judgment under appeal, in which it held that the Commission had correctly found that Team
+         Relocations had taken part in the single and continuous infringement described in the contested decision.
+      
+It follows from those considerations, first of all, that the General Court held, in conformity with the case-law referred
+         to in paragraph above, that the reasons put forward by the Commission in the contested decision relating to the proportion
+         of the value of sales adopted in order to determine the basic amount of the fine are clear, unequivocal and compatible with
+         the method stated in points and of the Guidelines. In that regard, it should be recalled that, in those points
+         and 23, the Commission stated that, as a general rule, it would set a proportion at a level of up to 30% of the value of
+         sales but that, for infringements such as horizontal price-fixing and market-sharing agreements – the classification adopted
+         in the contested decision for the single and continuous infringement in question and which the appellants did not contest
+         before the General Court – the proportion adopted would generally be set ‘at the higher end of the scale’.
+      
+Second, since the 17% rate was markedly lower than the upper limit of the scale mentioned by the Commission in those guidelines
+         for the most serious infringements, the General Court, correctly, stated that that rate was extremely favourable to Team Relocations.
+         Therefore, in accordance with the case-law referred to in paragraph above, the General Court was justified in holding
+         that Team Relocations did not have the right to receive a specific explanation regarding the choice to apply that percentage
+         and that the Commission was therefore not bound to provide a specific statement of reasons in the contested decision on that
+         point.
+      
+Finally, it is not apparent from the judgment under appeal and is moreover not alleged by the appellants, that the contested
+         decision was adopted in a specific context or related to a cartel that presented particular features which called for a specific
+         statement of reasons from the Commission with regard to its choice of the proportion of the value of sales adopted in order
+         to determine the basic amount of the fine, going beyond that put forward, the absence of which should have been sanctioned
+         by the General Court.
+      
+Accordingly, it cannot be considered that the General Court infringed Article EC by not sanctioning deficient reasoning
+         in the contested decision with regard to the choice of the proportion of the value of sales adopted in order to determine
+         the basic amount of the fine, or even in relieving the Commission of any obligation to state reasons in that regard.
+      
+In the second place, it follows from the above that the reasoning of the General Court in paragraphs to of the judgment
+         under appeal satisfies the requirements of the case-law referred to in paragraphs and above.
+      
+The third limb of this ground must, therefore be rejected as unfounded as, consequently, must the third ground of appeal.
+      
+ The fourth ground of appeal, relating to the multiplication of the value of the sales by the number of years of the infringement
+            
+ Arguments of the parties
+The appellants claim that paragraphs to of the judgment under appeal contain an error of law and deficient reasoning
+         in so far as they reject the plea based on the infringement of the proportionality principle set out by point of the Guidelines. The General Court failed to respond to the complaint that the systematic multiplication of the amount of the value
+         of the fines by the number of years of participation in the infringement leads to excessive amounts of fines which do not
+         reasonably reflect their gravity.
+      
+The Commission considers that that plea is unfounded, the General Court having, inter alia, explained how point of the
+         Guidelines remains within the limits of Article 23(3) of Regulation No 1/and how that provision allows the same
+         weight to be attached both to the gravity of the infringement and its duration.
+      
+ Findings of the Court
+In the first place, in accordance with the case-law referred to in paragraphs and above, the fact that the General Court
+         may have omitted to reply to one of the appellants’ arguments does not constitute an infringement of the obligation to state
+         reasons since the grounds relied on enable them to know the reasons why the General Court did not uphold their plea and place
+         the Court in a position to exercise its power of review.
+      
+In the present case, first, in paragraph of the judgment under appeal, the General Court noted the content of Article
+         23(3) of Regulation No 1/2003, referring to that provision as not ‘specifying the specific manner in which the duration should
+         be taken into account’ and stating that that provision ‘has been clarified in the various guidelines on the method of setting
+         fines’. Second, in paragraph of that judgment under appeal, it stated that even though the method of multiplication by
+         the number of years ‘represents a fundamental change in methodology as to how the duration of a cartel is taken into consideration’,
+         ‘Article 23(3) of Regulation No 1/does not … preclude such a development’, referring in that regard to the fact that
+         various language versions of that provision ‘indicate that [it] attaches equal weight to the gravity and the duration of the
+         infringement’. 
+      
+In addition, the fact that the appellants disagree with the reply given by the General Court to their plea cannot constitute
+         a lack of reasoning of the judgment under appeal, in conformity with the case-law referred to in paragraph above.
+      
+In the second place, to the extent that the appellants seek to rely on the erroneous character of the analysis carried out
+         by the General Court by alleging that for the General Court to reject the plea in question was to ‘err in law’, it must be
+         held that that allegation is too general and imprecise to be capable of legal analysis and must, therefore, be rejected as
+         inadmissible (see, by analogy, order of December in Case C‑129/P Autosalone Ispra v Commission, not published in the ECR, paragraphs and and the case-law cited). A mere abstract statement of the grounds in the
+         application does not satisfy the requirements of Article of the Statute of the Court or Article 168(1)(d) of its Rules
+         of Procedure (order in Autosalone Ispra v Commission, paragraph and case-law cited, and order of March in Case C‑465/P Simov v Commission and Bulgaria, not published in the ECR, paragraph 13).
+      
+It follows from the above that the fourth ground of appeal is in part unfounded and in part in admissible.
+      
+ The fifth ground of appeal, relating to the additional amount imposed as a deterrent
+ Arguments of the parties
+The appellants submit that, assuming that the Court upholds Team Relocations’ participation in an overall plan, that company
+         did not in any event participate in the price-fixing or market-sharing agreements or in the limitation of production. Therefore,
+         the General Court was wrong to find, in paragraphs to of the judgment under appeal, that the Commission was justified
+         in imposing on it an additional amount of 17% of the value of the sales.
+      
+The Commission considers that this ground must be rejected, for the reasons already given by it in the context of the first
+         ground.
+      
+ Findings of the Court
+According to point of the Guidelines, ‘irrespective of the duration of the undertaking’s participation in the infringement,
+         the Commission will include in the basic amount a sum of between 15% and 25% of the value of sales … in order to deter undertakings
+         from even entering into horizontal price-fixing … agreements’.
+      
+First, as follows from the analysis of the first ground of appeal, the General Court did not err in law by holding that the
+         Commission was entitled to consider that Team Relocations had participated in the single and continuous infringement referred
+         to in Article of the contested decision. Second, the appellants do not contest the findings of the General Court in paragraphs
+         and of the judgment under appeal according to which, in essence, ‘the commission and cover quote arrangements were concerned
+         with price’. Third, since they have not denied participating in the single and continuous infringement referred to in Article
+         of the contested decision, the appellants did not, before the General Court, call into question the fact that that infringement
+         falls within the category of horizontal price-fixing agreements mentioned in paragraph 25.
+      
+Accordingly, the General Court cannot have erred in law by considering in essence, in paragraphs to of the judgment
+         under appeal, that the Commission was justified in imposing upon them an additional amount intended to have deterrent effect
+         under point of the Guidelines. Thus, the fifth ground of appeal cannot be upheld.
+      
+ The sixth plea in law, relating to mitigating circumstances
+ Arguments of the parties
+The appellants claim that the General Court erred in holding that there were no mitigating circumstances which justified a
+         reduction of the fine imposed on Team Relocations.
+      
+First, in paragraphs to of the judgment under appeal, the General Court erred in law and distorted the clear sense
+         of the evidence, on the grounds already set out in the context of the first ground of appeal, by holding that the commissions
+         and cover quotes agreements in which Team Relocations took part did not constitute less serious infringements than the price-fixing
+         agreement and that the fact that it had only participated in the system of cover quotes from February was not relevant
+         for the assessment of the gravity of the infringement. In relation to the latter point, it also failed to comply with its
+         duty to state reasons, inter alia in the light of the position it adopted in Verhuizingen Coppens v Commission.
+      
+Second, the General Court, in paragraphs to of the judgment under appeal, erred in law and failed to comply with its
+         obligation to state reasons by not responding to the argument according to which, in so far as the Commission can hold an
+         undertaking responsible for the unlawful conduct of its employees regardless of whether the undertaking authorised, encouraged
+         or instigated that conduct or was even aware of it, it cannot disclaim liability for the cover quotes that were for the most
+         part issued at the request of its own officials.
+      
+The Commission takes the view that this ground is unfounded. First, as already explained in response to the first ground,
+         both the commissions and the cover quotes had an effect on the prices and the sharing of the market. Second, taking into account
+         the wording of the fifth indent of point of the Guidelines, the only relevant question was whether the Commission
+         had authorised or encouraged the cover quotes agreement. According to the General Court, that was not the case.
+      
+ Findings of the Court
+In the first place, to the extent that the applicant alleges that the General Court ‘distorts the clear sense of the evidence
+         for the reasons discussed in the context of the first ground of appeal’, it must be held that that allegation, which is moreover
+         formulated in a very general way, has the same defects as that formulated in the context of the first ground of appeal. It
+         must, therefore, be rejected on the same grounds as those already stated in paragraphs to above. With regard to the
+         alleged error of law which, according to the appellants, was also established in the context of the first ground of appeal,
+         it should be recalled that that first ground has, in paragraph above, been rejected as partly unfounded and partly inadmissible.
+         The same must therefore apply to that allegation, since it is based on that ground.
+      
+In the second place, by their argument according to which the continuous and single infringement in question was less grave
+         in nature during the period in which Team Relocations participated in it compared to when the infringement was initiated,
+         the applicants seek to call into question assessments of a factual nature carried out by the General Court, without referring
+         in that regard to distortion. That argument is, consequently, inadmissible, in accordance with the case-law set out in paragraphs
+         and of this appeal.
+      
+In the third place, it should be recalled that, according to the third indent of point of the Guidelines, ‘[t]he basic
+         amount may be reduced where the Commission finds that the anti-competitive conduct of the undertaking has been authorised
+         or encouraged by public authorities or by legislation’, as the General Court observed in paragraph of the judgment under
+         appeal. According to the clear wording of that provision, in order to assess the possibility of granting the benefit of those
+         mitigating circumstances, it is not a question of determining whether a public authority can be held responsible for the anti-competitive
+         conduct in question as a result of the alleged conduct of some of its agents but only of determining whether such an authority,
+         in its capacity as a public authority, has ‘authorised or encouraged’ that conduct. 
+      
+The General Court did not therefore misinterpret that provision by holding only, in order to reject Team Relocations’ plea,
+         in paragraph of the judgment under appeal, that ‘there is nothing in the documents before the Court which shows that the
+         Commission, as an institution, authorised, encouraged or requested the cover quotes’ and in developing the reasoning in support
+         of that assertion in paragraphs to of that judgment.
+      
+Finally, the reasoning of the General Court in paragraphs to of the judgment under appeal is in conformity with the
+         requirements of the case-law referred to in paragraphs and above. First, for the reasons already set out in paragraphs
+         and above, the position adopted by the General Court in Verhuizingen Coppens v Commission was not relevant for the present case. Second, in paragraph of the judgment under appeal, the General Court rejected in
+         a reasoned manner the argument that Team Relocations drew from the Commission’s alleged awareness of the anti-competitive
+         conduct in question. Third, considering, as follows from paragraph above, that Team Relocations’ arguments, being influenced
+         by the principles governing the responsibility of parent companies for the conduct of their subsidiaries, were not relevant
+         for the assessment of whether the appellants were entitled to benefit from the mitigating circumstance provided for in the
+         fifth indent of point of the Guidelines, the General Court was not bound to reply to it explicitly, beyond the reasoning
+         already advanced in that regard in paragraph of the judgment under appeal.
+      
+In the light of the foregoing, the sixth ground of appeal must be rejected as partly inadmissible and partly unfounded.
+      
+ The seventh ground of appeal, alleging the lack of any basis for attributing the infringements committed by Team Relocations
+            to Amertranseuro 
+ Arguments of the parties
+The appellants claim that the General Court wrongly found, in paragraphs to of the judgment under appeal, that Amertranseuro
+         can be held jointly and severally liable for the payment of EUR 1.million. First, the General Court was not entitled to
+         rely on its judgment in Joined Cases T‑259/to T‑264/and T‑271/Raiffeisen Zentralbank Österreich and Others v Commission [2006] ECR II‑so as to hold that the Commission could choose to address the contested decision only to the current parent
+         companies of Team Relocations, and not to the natural person who was its proprietor until September 2000. The facts of the
+         case which gave rise to that judgment are not comparable to those at issue in the present case.
+      
+Second, the General Court was not entitled to hold that the contested decision dealt ‘symmetrically’ with the period before
+         September and that after that date on the ground that, in respect of those two periods, the Commission did not hold
+         Team Relocations’ ultimate owner responsible – Amertranseuro being itself owned by another company – without evaluating the
+         respective positions of the ultimate owner in the light of the case-law concerning the responsibility of parent companies
+         for the conduct of their subsidiaries. In the present case, the person who owned Team Relocations during the first period
+         was directly involved in its management, in contrast to the ultimate parent company of Team Relocations during the second
+         period.
+      
+The Commission replies that this ground ought to be rejected. It states, first, that the General Court accepted that it was
+         entitled to hold Amertranseuro responsible for the infringement committed by Team Relocations from September to September and that Amertranseuro does not contest that. Second, it maintains that the case-law may not be interpreted
+         as meaning that the Commission’s power not to impute responsibility to a parent company is limited to cases in which that
+         company has ceased to exist. Finally, the General Court cannot be criticised for not examining the respective positions of
+         the ultimate owners of Team Relocations in the light of the case-law concerning the responsibility of parent companies, since
+         the contested decision did not contain any assessment in that regard.
+      
+ Findings of the Court
+As a preliminary point, it should be borne in mind that the appellants do not dispute that the reasoning applied in paragraphs
+         to of the judgment under appeal, in which the General Court rejected Amertranseuro’s arguments alleging that the Commission
+         could not hold it responsible for the infringement committed by Team Relocations as from its acquisition of Trans Euro, in
+         so far as the Commission had not held the earlier owner of Trans Euro responsible for that infringement in respect of the
+         period during which that proprietor owned Trans Euro.
+      
+In that regard, it should be observed, first, that, under Article 15(2) of Regulation No and Article 23(2)(a) of Regulation
+         No 1/2003, the Commission may by decision impose fines on undertakings which infringe Article EC. 
+      
+In addition, the conduct of a subsidiary may be imputed to the parent company in particular when, although having a separate
+         legal personality, that subsidiary does not decide independently on its own conduct on the market, but carries out, in all
+         material respects, the instructions given to it by the parent company, having regard in particular to the economic, organisational
+         and legal links which tie those two legal entities. That is the case because, in such a situation, the parent company and
+         its subsidiary form a single economic unit and therefore form a single undertaking for the purposes of EU case-law (Case C‑97/P
+         Akzo Nobel and Others v Commission [2009] ECR I‑8237, paragraphs and 59, and Joined Cases C‑628/P and C‑14/P Alliance One International and Standard Commercial Tobacco v Commission and Commission v Alliance One International and Others [2012] ECR I‑0000, paragraphs and 44).
+      
+According to the Court’s settled case-law, the concept of an undertaking covers any entity engaged in an economic activity,
+         regardless of its legal status and the way in which it is financed (Dansk Rørindustri and Others v Commission, paragraph 112, and Akzo Nobel and Others v Commission, paragraph 54). That concept must be understood as designating an economic unit even if in law that economic unit consists
+         of several persons, natural or legal (Case 170/Hydrotherm Gerätebau [1984] ECR 2999, paragraph 11, and Akzo Nobel and Others v Commission, paragraph 55).
+      
+It thus follows both from Article 23(2)(a) of Regulation No 1/and from the case-law referred to in the preceding
+         paragraphs that, while the Commission may impose fines on undertakings which infringe Article EC and may, where the necessary
+         conditions are satisfied, impute responsibility for the offending conduct of a subsidiary to its parent, these are mere options
+         (see also, to that effect, Joined Cases C‑125/P, C‑133/P, C‑135/P and C‑137/P Erste Group Bank and Others v Commission [2009] ECR I‑8681, paragraph 82). Neither that provision nor the case-law, in so far as they employ the verb ‘may’ and refer
+         to the concept of an undertaking, lay down which legal or natural person the Commission is obliged to hold responsible for
+         the infringement or to sanction by the imposition of a fine.
+      
+Considering the discretion which it enjoys in that regard, the fact that the Commission holds a parent company responsible
+         for the conduct of its subsidiary which participated directly in the infringement does not imply in any way that it is also
+         under the obligation to hold the earlier parent company of that subsidiary responsible or jointly responsible. In that regard,
+         it may also be recalled that, where an undertaking has acted in breach of Article EC, it cannot escape being penalised
+         altogether on the ground that another trader has not been fined (see, to that effect, Joined Cases C‑89/85, C‑104/85, C‑114/85,
+         C‑116/85, C‑117/and C‑125/to C‑129/Ahlström Osakeyhtiö and Others v Commission [1993] ECR I‑1307, paragraph 197).
+      
+Accordingly, the General Court did not err in law when holding, in paragraph of the judgment under appeal, that ‘[a]ccording
+         to case-law, the Commission has a margin of discretion as to whether to extend the responsibility for an infringement to a
+         parent company, in addition to the company directly involved in the anti‑competitive conduct’ and that ‘[t]hat margin of discretion
+         also implies that the Commission may choose to address the decision only to the current parent companies of the undertaking
+         in question and not to the former owners of the group’, without it being necessary for the Court to rule on whether it was
+         well founded in law for the General Court to refer in that regard to its judgment in Raiffeisen Zentralbank Österreich and Others v Commission.
+      
+In the second place, it should be noted that, in the exercise of the discretion which is thus conferred upon it, the Commission
+         is bound to comply with the general principles of EU law and the fundamental rights guaranteed at European Union level, including
+         the principle of equal treatment (see, to that effect, Alliance One International and Standard Commercial Tobacco v Commission and Commission v Alliance One International and Others, paragraphs and and case-law cited).
+      
+In the present case, the General Court nevertheless, in paragraph of the judgment under appeal, ruled out any risk of
+         unequal treatment of the ultimate owners of Team Relocations, relied on by the appellants before it, stating that ‘the Commission
+         did not extend responsibility for the infringement at issue to … the applicants’ current holding company’. 
+      
+In the third place it is true that it falls, in principle, to the natural or legal person managing the undertaking in question
+         when the infringement was committed to answer for that infringement, even if, when the decision finding the infringement was
+         adopted, another person had assumed responsibility for operating the undertaking (Case C‑279/P Cascades v Commission [2000] ECR I‑9693, paragraph 78, and Case C‑286/P Stora Kopparbergs Bergslags v Commission [2000] ECR I‑9925, paragraph 37).
+      
+However, in the present case, it is apparent from Article 1(g) of the contested decision that Amertranseuro is held responsible
+         for the infringement committed by Team Relocations only for the period during which the Commission found, as upheld by the
+         General Court, that it constituted with Team Relocations, TR and Trans Euro one and the same undertaking within the meaning
+         of Article EC. The fact that Amertranseuro may, pursuant to accounting obligations or other legal obligations, bear the
+         entire cost of the fine imposed on Team Relocations is not relevant to the assessment, in the light of Article EC, of the
+         lawfulness of the imputation of the responsibility for the infringement in question to Amertranseuro.
+      
+Finally, in so far as, by the present ground of appeal, the appellants seek to call into question the conclusion at which
+         the General Court arrived by referring to the factual circumstances which should, according to them, have led it to ruling
+         in their favour, their arguments are inadmissible, in accordance with the case-law referred to in paragraphs and above.
+      
+It follows that the seventh ground of appeal is in part unfounded and in part inadmissible.
+      
+ The eighth ground of appeal, alleging that the fine is disproportionate 
+ Arguments of the parties
+The appellants claim, first, that according to the seventh ground of appeal, the parent companies of Team Relocations cannot
+         be held responsible for the infringement in question. They claim, second, that, in paragraphs and of the judgment
+         under appeal the General Court failed to reply to the complaint according to which, in the light of small size of the market
+         in question and the limited market share on that market of Team Relocations, the amount of the fine which was imposed on it,
+         which exceeds 60% of its total turnover in 2006, is manifestly disproportionate and infringes Article of Regulation No
+         1/2003. There was no justification for its finding that such a fine satisfied the requirement of proportionality. 
+      
+The Commission replies that this ground ought to be rejected.
+      
+ Findings of the Court 
+In the first place, it should be recalled that, on the one hand, as follows from the analysis of the seventh ground of appeal,
+         the General Court did not err in law when holding, in essence, that the Commission was entitled to impute to Amertranseuro
+         the responsibility for the infringement committed by Team Relocations.
+      
+On the other hand, according to Article 23(2) of Regulation No 1/2003, the fines which the Commission may impose on undertakings
+         which infringe Article EC are not to infringe, for each undertaking participating in the infringement, 10% of its total
+         turnover in the business year preceding the adoption of the decision imposing the fine (Case C‑291/P Sarrió v Commission [2000] ECR I‑9991, paragraph 85).
+      
+According to settled case-law, that maximum limit relates to the overall turnover of the undertaking concerned, which alone
+         gives an indication of that undertaking’s size and influence on the market (Case C‑308/P SGL Carbon v Commission [1986] ECR I‑5977, paragraph and case-law cited).
+      
+It follows from the above that the undertaking to be taken into account for the purposes of the application of that provision
+         is the undertaking, within the meaning of EU competition law, which is held responsible for the infringement, and not, if
+         that is constituted by a number of entities, only one of the natural or legal persons which constitute it.
+      
+It follows that, since the General Court found that the appellants in fact constitute a single undertaking within the meaning
+         of Article EC and, consequently, the undertaking to take into account for the purposes of the application of the limit
+         of 10% of the turnover set out in Article 23(2) of Regulation No 1/2003, the General Court cannot be regarded as having infringed
+         that provision when holding, in paragraph of the judgment under appeal that ‘[t]he fact that the amount of the fine imposed
+         on Team Relocations exceeds 10% of its turnover is irrelevant since that amount is still well below the 10% ceiling of the
+         Amertranseuro group’s turnover’.
+      
+In the second place, with regard to the allegation according to which, by ruling accordingly, the General Court nevertheless
+         infringed the principle of proportionality, since the amount of the fine imposed on Team Relocations exceeded 60% of its turnover
+         in 2006, it follows from the foregoing that the question whether a fine is proportionate must also be assessed in the light
+         of the situation of the undertaking, within the meaning of Article EC, which is held responsible for the infringement in
+         question.
+      
+In the present case, the proportionality of the fine in question therefore had to be assessed in the light of the situation
+         of the entire Amertranseuro group. However, before the General Court, Team Relocations did not develop arguments intended
+         to establish that the fine which was imposed on it by the contested decision was disproportionate in the light of the situation
+         of the undertaking to which it belonged and which was held responsible for the infringement by that decision. On the contrary,
+         it follows from the file relating to the proceedings before the General Court that Team Relocations alleged only that the
+         fine imposed on it was disproportionate because it exceeded the ceiling of 10% of its own turnover. Equally, the Amertranseuro
+         group referred only to the allegedly high level of the fine imposed on it in order to prove that it was unable to pay.
+      
+The General Court did not, therefore, in paragraphs and of the judgment under appeal, disregard the principle of proportionality
+         when rejecting as irrelevant the argument which Team Relocations based on its own turnover.
+      
+In the third place, on the one hand, in the light of the above factors and the fact that, in paragraph of the judgment
+         under appeal, the General Court stated that, since the appellants constituted an undertaking within the meaning of EU competition
+         law, ‘Amertranseuro’s turnover may be taken into account for the purposes of determining the 10% ceiling provided for in the
+         second subparagraph of Article 23(2) of Regulation No 1/2003’ and considering, on the other hand, the case-law referred to
+         in paragraphs and above, the General Court provided sufficient reasons for its rejection of the argument alleging that
+         the fine imposed was disproportionate.
+      
+The eighth ground of appeal must accordingly be rejected. 
+      
+ The ninth ground of appeal, based on the refusal to review the reasoning relating to the reduction of the fine imposed on
+            another undertaking 
+ Arguments of the parties
+The appellants claim that paragraphs to of the judgment under appeal err in law and contain deficient reasoning. First,
+         the General Court was not entitled to deny Team Relocations equal treatment with another undertaking which participated in
+         the cartel on the ground that, in contrast to the latter, it did not make a request for reduction of the fine before the adoption
+         of the contested decision, such a requirement being impossible to satisfy. The evidence required by point of the Guidelines
+         cannot be adduced as long as the amount of the fine is not known.
+      
+Second, the reasoning put forward by the General Court is contradictory and incomplete. The fact that that a reduction was
+         granted to that other undertaking shows that the lack of a specific social and economic context was not relevant to the grant
+         of a reduction on the ground of inability to pay. The General Court was therefore not entitled to reject the appellants’ request
+         on the ground that they did not dispute the fact that no such context existed in the present case.
+      
+In reality, either the Commission did not have a valid ground for granting that reduction only to that other undertaking or
+         it should have explained why it granted a reduction only to it. The grounds for which that reduction has been granted to that
+         other undertaking are not however made apparent in the contested decision as addressed to the appellants. The General Court
+         having, moreover, rejected the request for production of documents presented by Team Relocations, the appellants are deprived
+         of the possibility of showing that, had the Commission applied to them the criteria applicable to that other undertaking,
+         they would also have received a reduction in the fine. Thus, the present ground must be upheld and, should the Court decide
+         to rule itself on the dispute, the Commission should be ordered to disclose those criteria and then to provide Team Relocations
+         the opportunity of explaining why those grounds also apply to its situation, or to reduce the fine by an amount which reflects
+         the principles which the Commission applied to that other undertaking.
+      
+The Commission rejects those claims.
+      
+ Findings of the Court
+In the first place, it should be borne in mind that, according to point of the Guidelines, ‘[t]he Commission may,
+         upon request, take account of the undertaking’s inability to pay in a specific social and economic context’, it being specified
+         that ‘[a] reduction could be granted solely on the basis of objective evidence that imposition of the fine as provided for
+         in these Guidelines would irretrievably jeopardise the economic viability of the undertaking concerned and cause its assets
+         to lose all their value’. 
+      
+Having regard to the clear wording of that provision, the General Court did not err in law when holding, in paragraph of the judgment under appeal that, in order to have the possibility of obtaining the reduction which the Commission may grant
+         under that point, it is imperative that a request be submitted to it. The requirement is not impossible to satisfy, including
+         at the stage of the administrative procedure, since, in the light of the information which must appear in the statement of
+         objections and what is stated concerning the method of calculating the fines contained in the Guidelines, the undertaking
+         in question will be able to assess, before the adoption of the decision finding an infringement of Article EC, whether
+         it is reasonably possible to foresee that the fine which could be imposed on it risks, in accordance with that point, irretrievably
+         jeopardising its economic viability and causing its assets to lose all their value.
+      
+Furthermore, it must be recalled that the principle of equal treatment is a general principle of European Union law, enshrined
+         in Articles and of the Charter of Fundamental Rights of the European Union. The Court has consistently held that the
+         principle of equal treatment requires that comparable situations must not be treated differently, and different situations
+         must not be treated in the same way, unless such treatment is objectively justified (see Case C‑550/P Akzo Nobel Chemicals and Akcros Chemicals v Commission and Others [2010] ECR I‑8301, paragraphs and and case-law cited).
+      
+A breach of the principle of equal treatment as a result of different treatment presumes that the situations concerned are
+         comparable, having regard to all the elements which characterise them. The elements which characterise different situations,
+         and hence their comparability, must in particular be determined and assessed in the light of the subject matter and purpose
+         of the European Union act which makes the distinction in question. The principles and objectives of the field to which the
+         act relates must also be taken into account (see Case C‑127/Arcelor Atlantique et Lorraine and Others [2008] ECR I‑9895, paragraphs and and case-law cited).
+      
+Considering that, as follows from paragraphs and above, the undertaking in question was obliged to submit a request
+         to enable the Commission to assess whether it could grant that undertaking the reduction provided for in point 35, the General
+         Court was correct to hold, in paragraph of the judgment under appeal, when assessing whether the Commission had treated
+         the appellants and the other undertaking at issue equally, that, in the absence of the submission of such a request by the
+         appellants, their situation was not comparable to that of the other undertaking, which thus entitled it to reject, correctly,
+         the appellants’ complaint alleging an infringement of the principle of equal treatment.
+      
+In the second place, according to the file of the proceedings before the General Court and paragraph of the judgment under
+         appeal, the other undertaking in question was granted a reduction in the fine not under point of the Guidelines, since
+         the specific social and economic context required for the application of that point was absent in the present case, but
+         under point of those guidelines, by reason of its particular situation. Point does not refer to the need to establish,
+         as a condition for the advantage it may confer, the existence of a specific social and economic context. It follows that the
+         appellants’ argument alleging contradictory reasoning is based on a misunderstanding of the conditions of application, first,
+         of point of the Guidelines and, second, of point thereof. That contradiction is not, therefore, established.
+      
+It follows from the above that the ninth ground of appeal must be rejected and likewise, accordingly, the appellants’ requests
+         to order the Commission to produce certain documents and to have the possibility of commenting on them.
+      
+Since none of the grounds of appeal can be upheld, the appeal must be dismissed in its entirety.
+      
+ Costs
+In accordance with the second paragraph of Article of the Rules of Procedure, where the appeal is unfounded, the Court
+         shall make a decision as to the costs. Under Article 138(1) of those rules, which apply to the procedure on appeal by virtue
+         of Article 184(1) of those rules, the unsuccessful party must be ordered to pay the costs if they have been applied for in
+         the successful party’s pleadings. Since the appellants have failed in their appeal and the Commission has applied for costs
+         to be awarded against those companies, they should be ordered to pay the costs. Since they brought the appeal jointly, they
+         must bear those costs jointly and severally.
+      
+On those grounds, the Court (Third Chamber) hereby:
+1.      Dismisses the appeal.
+2.      Orders Team Relocations NV, Amertranseuro International Holdings Ltd, Trans Euro Ltd and Team Relocations Ltd jointly and
+            severally to bear the costs.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

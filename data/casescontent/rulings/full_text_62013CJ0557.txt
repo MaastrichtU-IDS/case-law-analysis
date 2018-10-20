@@ -1,0 +1,160 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+April (
+*)
+‛Reference for a preliminary ruling — Regulation (EC) No 1346/— Articles and — Insolvency proceedings — Payment made after the date on which insolvency proceedings were opened on the basis of attachment carried out before that date — Action to set aside an act detrimental to the interests of the creditors — Limitation periods or other time-bars relating to actions to set transactions aside — Procedural requirements for the action — Applicable law’
+In Case C‑557/13,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Germany), made by decision of October 2013, received at the Court on October 2013, in the proceedings
+Hermann Lutz
+v
+Elke Bäuerle, acting as liquidator of ECZ Autohandel GmbH,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, S. Rodin, A. Borg Barthet, E. Levits and M. Berger (Rapporteur), Judges,
+Advocate General: M. Szpunar,
+Registrar: L. Carrasco Marco, Administrator,
+having regard to the written procedure and further to the hearing on September 2014,
+after considering the observations submitted on behalf of:
+—
+Mr Lutz, by C. Brändle, Rechtsanwalt,
+—
+Ms Bäuerle, acting as liquidator of ECZ Autohandel GmbH, by W. Nassall, Rechtsanwalt,
+—
+the German Government, by T. Henze, J. Kemper and D. Kuon, acting as Agents,
+—
+the Greek Government, by G. Skiani and M. Germani, acting as Agents,
+—
+the Spanish Government, by M. García-Valdecasas Dorrego, acting as Agent,
+—
+the Portuguese Government, by L. Inez Fernandes and F. de Figueiroa Quelhas, acting as Agents,
+—
+the European Commission, by M. Wilderspin, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on November 2014,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles 4(2)(m) and of Council Regulation (EC) No 1346/of May on insolvency proceedings (OJ L 160, p. 1).
+The request has been made in proceedings between Mr Lutz, residing in Austria, and Ms Bäuerle, acting as liquidator in insolvency proceedings opened in Germany in respect of the assets of ECZ Autohandel GmbH (‘the debtor company’), concerning an action to set a transaction aside.
+Legal context
+EU law
+Recitals to in the preamble to Regulation No 1346/state:
+‘(23)
+This Regulation should set out, for the matters covered by it, uniform rules on conflict of laws which replace, within their scope of application, national rules of private international law. Unless otherwise stated, the law of the Member State of the opening of the proceedings should be applicable (lex concursus). This rule on conflict of laws should be valid both for the main proceedings and for local proceedings; the lex concursus determines all the effects of the insolvency proceedings, both procedural and substantive, on the persons and legal relations concerned. It governs all the conditions for the opening, conduct and closure of the insolvency proceedings.
+(24)
+Automatic recognition of insolvency proceedings to which the law of the opening State normally applies may interfere with the rules under which transactions are carried out in other Member States. To protect legitimate expectations and the certainty of transactions in Member States other than that in which proceedings are opened, provisions should be made for a number of exceptions to the general rule.
+(25)
+There is a particular need for a special reference diverging from the law of the opening State in the case of rights in rem, since these are of considerable importance for the granting of credit. The basis, validity and extent of such a right in rem should therefore normally be determined according to the lex situs and not be affected by the opening of insolvency proceedings. The proprietor of the right in rem should therefore be able to continue to assert his right to segregation or separate settlement of the collateral security. …’
+Article of Regulation No 1346/provides:
+‘1.   Save as otherwise provided in this Regulation, the law applicable to insolvency proceedings and their effects shall be that of the Member State within the territory of which such proceedings are opened, hereafter referred to as the “State of the opening of proceedings”.
+2.   The law of the State of the opening of proceedings shall determine the conditions for the opening of those proceedings, their conduct and their closure. It shall determine in particular:
+…
+(f)
+the effects of the insolvency proceedings on proceedings brought by individual creditors, with the exception of lawsuits pending;
+…
+(m)
+the rules relating to the voidness, voidability or unenforceability of legal acts detrimental to all the creditors.’
+Article of Regulation No 1346/provides:
+‘1.   The opening of insolvency proceedings shall not affect the rights in rem of creditors or third parties in respect of tangible or intangible, moveable or immoveable assets — both specific assets and collections of indefinite assets as a whole which change from time to time — belonging to the debtor which are situated within the territory of another Member State at the time of the opening of proceedings.
+2.   The rights referred to in paragraph shall in particular mean:
+(a)
+the right to dispose of assets or have them disposed of and to obtain satisfaction from the proceeds of or income from those assets, in particular by virtue of a lien or a mortgage;
+(b)
+the exclusive right to have a claim met, in particular a right guaranteed by a lien in respect of the claim or by assignment of the claim by way of a guarantee;
+…
+4.   Paragraph shall not preclude actions for voidness, voidability or unenforceability as referred to in Article 4(2)(m).’
+Article of Regulation No 1346/provides:
+‘Article 4(2)(m) shall not apply where the person who benefited from an act detrimental to all the creditors provides proof that:
+—
+the said act is subject to the law of a Member State other than that of the State of the opening of proceedings, and
+—
+that law does not allow any means of challenging that act in the relevant case.’
+Article 20(1) of Regulation No 1346/is worded as follows:
+‘A creditor who, after the opening of the proceedings referred to in Article 3(1) obtains by any means, in particular through enforcement, total or partial satisfaction of his claim on the assets belonging to the debtor situated within the territory of another Member State, shall return what he has obtained to the liquidator, subject to Articles and 7.’
+Article 12(1) of Regulation (EC) No 593/of the European Parliament and of the Council of June on the law applicable to contractual obligations (Rome I) (OJ L 177, p. 6; ‘the Rome I Regulation’) provides:
+‘The law applicable to a contract by virtue of this Regulation shall govern in particular:
+…
+(d)
+the various ways of extinguishing obligations, and prescription and limitation of actions;
+…’
+German law
+Paragraph of the Insolvenzordnung (Insolvency Code) of October (BGBl. I, p. 2866), in the version applicable to the facts in the main proceedings (‘the InsO’), provides:
+‘If a creditor, during the month preceding the lodging of an application to open the insolvency proceedings or thereafter, has acquired by virtue of enforcement a security over the debtor’s assets forming part of the total assets, that security shall become legally invalid once the insolvency proceedings are opened.’
+Austrian law
+Paragraph 43(1) and (2) of the Insolvenzordnung (Insolvency Code) (RGBl. 337/1914), in the version applicable to the facts in the main proceedings (‘the IO’), provides:
+‘(1)   A transaction may be set aside by means of a legal action …
+(2)   An action to set a transaction aside must be brought within one year after the opening of insolvency proceedings, failing which it shall be time-barred. …’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+ECZ GmbH was a German company whose registered office was, at the material time, in Tettnang (Germany). Its object was the sale of cars. In order to trade on the Austrian market, it used a subsidiary established in Bregenz (Austria) — the debtor company in the present case. Mr Lutz purchased a car from that company but, owing to the failure to deliver that car, he brought an action before the Bezirksgericht Bregenz (District Court, Bregenz), seeking reimbursement of the price which he had paid to that company. On March 2008, that court issued an enforceable payment order against that company for EUR plus interest.
+On April 2008, the debtor company filed an application before the Amtsgericht Ravensburg (District Court, Ravensburg, Germany) for insolvency proceedings to be opened.
+On May 2008, the Bezirksgericht Bregenz having granted leave to enforce its payment order of March 2008, three bank accounts held by the debtor company at a bank established in Austria were attached. The attachment was notified to that bank on May 2008.
+On August 2008, the Amtsgericht Ravensberg opened insolvency proceedings against the debtor company.
+On March 2009, the bank holding the debtor company’s bank accounts that had been attached paid Mr Lutz the sum of EUR 11778.48. Prior to that date, the then liquidator had, by a letter of March 2009, given notice to that bank that he reserved the right to challenge, in connection with the insolvency, any payment made in favour of the debtor company’s creditors.
+By a letter of June 2009, the then liquidator informed Mr Lutz that he was challenging the enforcement which had been authorised on May by the Bezirksgericht Bregenz, and also the payment made on March 2009. On October 2009, Ms Bäuerle, acting as liquidator of the debtor company, brought an action against Mr Lutz seeking to have the transaction set aside and recovery of the total sum paid to him on March 2009.
+The Landgericht Ravensburg (Ravensburg Regional Court) upheld the action brought by Ms Bäuerle. Mr Lutz lodged an appeal against the decision of the Landgericht Ravensburg but his appeal was unsuccessful. He then appealed on a point of law to the Bundesgerichtshof (Federal Court of Justice), continuing to seek the dismissal of that action.
+The referring court considers that the outcome of the appeal depends on the interpretation of Article of Regulation No 1346/2000, on the assumption that that provision is applicable to the facts in the main proceedings. Article 4(2)(m) of that regulation provides that the law of the Member State within the territory of which the insolvency proceedings are opened (‘the lex fori concursus’) determines the rules relating to the voidness, voidability or unenforceability of legal acts detrimental to all the creditors. However, under Article of that regulation, that provision does not apply where the person who benefited from an act detrimental to all the creditors provides proof that the said act is subject to the law of a Member State other than that of the State of the opening of proceedings and that that law does not allow any means of challenging that act in the relevant case.
+In that regard, the referring court observes that, in the dispute in the main proceedings, according to the applicable lex fori concursus, in the present case Paragraph of the InsO, the right to attach the credit balance on the debtor company’s bank accounts became legally invalid on the date when the insolvency proceedings against that company were opened, since that attachment was authorised and effected after the application to open those proceedings. The referring court states that the subsequent payment of the attached sum from the balance on the bank accounts is therefore also invalid.
+The referring court adds that, according to Mr Lutz, who relies on Article of Regulation No 1346/2000, the payment at issue in the main proceedings can no longer be challenged under the law applicable to that payment, namely Austrian law. Paragraph 43(2) of the IO lays down a limitation period of one year, from the date when the insolvency proceedings were opened, for commencing an action to set aside. The referring court notes that that period was not respected in the case in the main proceedings.
+The referring court observes that, by contrast, under German law, the limitation period for bringing an action to set a transaction aside is three years and that, in the case in the main proceedings, that period was respected.
+In those circumstances the Bundesgerichtshof decided to stay the proceedings before it and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Is Article of Regulation No 1346/applicable if the payment challenged by the insolvency administrator of a sum attached before the opening of the insolvency proceedings was made only after the opening of the proceedings?
+(2)
+If the reply to the first question is in the affirmative: does the defence under Article of Regulation No 1346/also apply to limitation periods or other time-bars relating to actions to set aside transactions under the law which governs the dispute concerning the contested legal transaction (lex causae)?
+(3)
+If the reply to the second question is in the affirmative: are the relevant procedural requirements for asserting a claim for the purpose of Article of Regulation No 1346/also to be determined according to the lex causae or by the lex fori concursus?’
+Consideration of the questions referred
+Preliminary observations
+The questions asked by the referring court concern, in essence, the applicability of Article of Regulation No 1346/to a payment made to a creditor after the opening of insolvency proceedings in respect of a debtor, on the basis of a right to attach established before the opening of those proceedings. Those questions are however based on two premisses which should be examined first.
+The referring court observes that, whilst Article 5(1) of Regulation No 1346/provides that the opening of insolvency proceedings is not to affect the rights in rem of creditors in respect of assets belonging to a debtor, Article 5(4) of that regulation states that ‘[p]aragraph shall not preclude actions for voidness, voidability or unenforceability’.
+The referring court therefore considers implicitly, first, that the right to attach bank accounts by virtue of enforcement constitutes a ‘right in rem’ capable of being protected under Article 5(1) of Regulation No 1346/2000.
+Secondly, that court considers that the protection thus granted may however be overridden, pursuant to Article 5(4) of Regulation No 1346/2000, in the situations and in accordance with the procedures laid down by the lex fori concursus. Therefore, that court states that, since the right to attach the credit balance on the bank accounts at issue in the main proceedings arose only after the filing, on April 2008, of the application to open insolvency proceedings against the debtor company, that right became legally invalid, under Paragraph of the InsO, from the opening of those proceedings on August 2008, as did the payment to Mr Lutz of the attached sum from the balance on that company’s bank accounts, which took place on March 2009.
+With regard to the categorisation of a right to attach the credit balance on bank accounts as a ‘right in rem’, it should be noted that Article 5(2) of Regulation No 1346/mentions, among the ‘rights in rem’ referred to in Article 5(1) of that regulation, the exclusive right to have a claim met. In addition, as is apparent from recital of that regulation, the basis, validity and extent of a right in rem should normally be determined according to the lex situs.
+Consequently, the right resulting from the attachment of the bank accounts at issue in the main proceedings was in fact capable of constituting a ‘right in rem’ within the meaning of Article 5(1) of Regulation No 1346/2000, provided that, under the national law concerned (in the present case, Austrian law), that right was exclusive in relation to the other creditors of the debtor company, which is a matter for the referring court to ascertain.
+In addition, so far as concerns the question whether the right resulting from the attachment of the bank accounts at issue in the main proceedings, on the assumption that it constitutes a ‘right in rem’ within the meaning of Article 5(1) of Regulation No 1346/2000, automatically became legally invalid as a result of the opening of insolvency proceedings against the debtor company, Article 5(4) of that regulation does indeed exclude the application of Article 5(1) of that regulation only in the case of an ‘action’ for voidness, voidability or unenforceability as referred to in Article 4(2)(m) of Regulation No 1346/2000.
+However, as the Advocate General observed in point of his Opinion, the reference, in the majority of language versions of Article 5(4) of Regulation No 1346/2000, to ‘actions’ for voidness, voidability or unenforceability does not indicate that the scope of that provision is limited solely to court actions. That provision should be read in conjunction with Article 4(2)(m) of that regulation, which refers generally to ‘the rules relating to … voidness, voidability or unenforceability’ and not solely to ‘actions’ for voidness, voidability or unenforceability. Consequently, in order to determine whether the voidness, voidability or unenforceability of an act may result from legal action, from another legal measure or even from the effect of law, reference should be made to the competent lex fori concursus for determining, in accordance with Article 4(2)(m) of Regulation No 1346/2000, the rules relating to voidness, voidability or unenforceability.
+On that last point, it should be added that, whereas Article 4(2)(m) of Regulation No 1346/provides that the lex fori concursus determines the rules relating to the voidness, voidability or unenforceability of legal acts detrimental to all the creditors, Article of that regulation, to which Mr Lutz refers, allows an exception to that rule, since it rules out the application of Article 4(2)(m) of that regulation and applies the law governing the act challenged by the liquidator (‘the lex causae’), when certain conditions are satisfied. The questions asked by the referring court should therefore be answered in such a way as to enable the referring court to also establish whether the application of Paragraph of the InsO and, therefore, the automatic invalidity of the attachment of the bank accounts at issue in the main proceedings are not excluded because of the application, under Article of Regulation No 1346/2000, of Austrian law.
+The first question
+By its first question, the referring court asks, in essence, whether Article of Regulation 1346/must be interpreted as applying to a situation in which a payment, challenged by an insolvency administrator, of a sum of money attached before the opening of the insolvency proceedings was made only after the opening of those proceedings.
+In that regard, it must be recalled, first of all, that the wording of Article of Regulation No 1346/does not contain any restriction limiting its scope according to the date on which the detrimental act concerned takes place.
+However, Article of Regulation No 1346/does provide for an exception to the general rule, in Article 4(1) of Regulation No 1346/2000, that the law applicable to insolvency proceedings and their effects is to be the lex fori concursus. That exception, which, as stated in recital of that regulation, aims to protect legitimate expectations and the certainty of transactions in Member States other than that in which proceedings are opened, must be interpreted strictly, and its scope cannot go beyond what is necessary to achieve that objective.
+To interpret Article of Regulation No 1346/as also applying to acts which took place after the opening of insolvency proceedings would go beyond what is necessary to protect legitimate expectations and the certainty of transactions in Member States other than that in which proceedings are opened. As from the opening of insolvency proceedings, the creditors of the debtor concerned are able to predict the effects of the application of the lex fori concursus on the legal relations which they maintain with that debtor. As the Advocate General correctly noted in point of his Opinion, they cannot therefore in principle claim to benefit from greater protection.
+It must therefore be held that Article of Regulation No 1346/is not, in principle, applicable to acts which take place after the opening of insolvency proceedings.
+Notwithstanding the conclusion in the preceding paragraph, it should be noted that the transaction challenged by the action at issue in the main proceedings — in the present case, the payment made on March in favour of Mr Lutz — could have taken place on the basis of a right in rem, namely a right to attach the credit balance on the debtor company’s bank accounts. Since that right to attach was established before the opening of the insolvency proceedings against the debtor company, that act could benefit, according to the provisions of Regulation No 1346/2000, from special protection.
+As stated in recital of Regulation No 1346/2000, the legislature intended to provide for a special reference diverging from the lex fori concursus in the case of rights in rem, since these rights are of considerable importance for the granting of credit. According to the same recital, the proprietor of a right in rem accrued before the opening of the insolvency proceedings should therefore be able to continue to assert, after that opening, his right to segregation or separate settlement of the collateral security.
+In order to achieve that objective, Article 5(1) of Regulation No 1346/states that the opening of insolvency proceedings ‘shall not affect’ the rights in rem falling within the scope of that provision. Obviously, that rule seeks, inter alia, to enable the creditor to assert, effectively and even after the opening of insolvency proceedings, a right in rem established before the opening of those proceedings.
+However, in order to enable a creditor to assert his right in rem effectively, that creditor must be able to exercise that right after the opening of the insolvency proceedings, in principle under the lex causae. The special feature of Article of Regulation No 1346/is thus that it seeks to protect not only acts completed before the opening of the insolvability proceedings but also, and above all, acts taking place after the opening of those proceedings. It should be added in that regard that, although Article 20(1) of that regulation states that a creditor who, after the opening of the insolvency proceedings, has obtained total or partial satisfaction of his claim on the assets belonging to the debtor situated within the territory of a Member State other than the State of the opening of proceedings is to return what he has obtained to the liquidator, that same provision states that the creditor’s obligation to return is ‘subject’, inter alia, to Article of that regulation. Therefore, Article 20(1) of that regulation is not relevant in the case in the main proceedings.
+Consequently, since Article of Regulation No 1346/covers, inter alia, acts carried out after the opening of insolvency proceedings, the considerations set out in paragraphs to of the present judgment, according to which Article of that regulation does not, in principle, apply to acts which took place after the opening of those insolvency proceedings, cannot be applied to the situation in which a creditor exercises a right in rem falling within Article 5(1) of that regulation.
+Accordingly, although Article 5(4) of Regulation No 1346/2000, read in conjunction with Article 4(2)(m) of that regulation, permits the bringing of an action for voidness, voidability or unenforceability of an act which has as its object the exercise of a right in rem after the opening of insolvency proceedings, those provisions must be interpreted, in order to ensure the effectiveness of Article 5(1) of that regulation, as not precluding the creditor from relying on Article of that regulation in order to claim that the act concerned is subject to the law of a Member State other than that of the State of the opening of proceedings and that that law does not allow any means of challenging that act in the relevant case.
+In those circumstances, the answer to the first question is that Article of Regulation 1346/must be interpreted as applying to a situation in which a payment, challenged by an insolvency administrator, of a sum of money attached before the opening of the insolvency proceedings was made only after the opening of those proceedings.
+The second question
+By its second question, the referring court asks, in essence, whether Article of Regulation No 1346/must be interpreted as meaning that the defence which it establishes also applies to limitation periods or other time-bars relating to actions to set aside transactions under the lex causae.
+In that regard, it should be noted, first, that, in referring to the lex causae, Article of Regulation No 1346/draws no distinction between limitation periods and other time-bars relating to actions to set aside transactions.
+Secondly, whilst Article 12(1)(d) of the Rome I Regulation states that prescription and limitation of actions are governed by ‘the law applicable to a contract’, it must be held that those provisions do not apply to actions to set transactions aside falling within Articles and of Regulation No 1346/2000. Those articles constitute a lex specialis in relation to the Rome I Regulation and must be interpreted in the light of the objectives pursued by Regulation No 1346/2000.
+Therefore, since Article of Regulation No 1346/draws no distinction between substantive and procedural provisions and does not contain, in particular, any criterion for identifying periods of a procedural nature, the classification of a period as procedural or substantive should necessarily be made under the lex causae.
+However, as the Commission essentially observed, if Article of Regulation No 1346/were to be interpreted as meaning that periods classified by the lex causae as procedural periods are excluded from the scope of that article, that interpretation would lead to arbitrary discrimination according to the legal-theory models adopted by the Member States. In addition, and irrespective of whether it is for the lex fori concursus or the lex causae to ascertain whether a period is of a procedural or substantive nature, that interpretation would clearly prevent a uniform application of Article of Regulation No 1346/2000.
+In those circumstances, the answer to the second question is that Article of Regulation No 1346/must be interpreted as meaning that the defence which it establishes also applies to limitation periods or other time-bars relating to actions to set aside transactions under the lex causae.
+The third question
+By its third question, the referring court asks, in essence, whether the relevant procedural requirements for the exercise of an action to set a transaction aside are to be determined according to the lex causae or the lex fori concursus.
+In that regard, it must be noted, first of all, that nothing in the wording of Article of Regulation No 1346/indicates that procedural requirements are excluded from the scope of that provision.
+In addition, as the Advocate General noted in point of his Opinion, formal rules may be substantive or procedural in nature. Consequently, with regard more particularly to Austrian law, the obligation, laid down in Paragraph 43(2) of the IO, to bring an action to set a transaction aside within one year after the opening of insolvency proceedings may be regarded not only as aiming to facilitate proof of compliance with that period, but also as a substantive condition for bringing such an action.
+However, it follows from the considerations in paragraphs to of the present judgment, which are capable of being applied to the examination of the third question, that Article of Regulation No 1346/draws no distinction between substantive and procedural provisions.
+In addition, the procedural conditions to which actions for voidness, voidability or unenforceability of an act are subject may also seek to protect public interests, such as the interest in ensuring adequate publicity of those actions with a view to protecting the legitimate expectations not only of the persons against whom those actions are brought but also of the third-party purchasers of goods which are the subject of those actions. As is apparent from recital of Regulation No 1346/2000, the objective of the exceptions to the application of the lex fori concursus, including the exception laid down in Article of that regulation, is precisely to protect legitimate expectations and the certainty of transactions in Member States other than that in which the insolvency proceedings are opened.
+Since, as is apparent from paragraph of the present judgment, the provisions of the Rome I Regulation do not apply to the case in the main proceedings, the classification of a given requirement as a procedural requirement, and also the determination of the objectives pursued by that requirement, should therefore be matters for the lex causae. To interpret Article of Regulation No 1346/as meaning that requirements classified as procedural requirements by the lex causae must be excluded from the scope of that article would again lead to arbitrary discrimination on the basis of the legal-theory models adopted by the Member States and would prevent a uniform application of that article.
+In the light of the foregoing, the answer to the third question is that the relevant procedural requirements for the exercise of an action to set a transaction aside are to be determined, for the purposes of the application of Article of Regulation No 1346/2000, according to the lex causae.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+1.
+Article of Council Regulation (EC) No 1346/of May on insolvency proceedings must be interpreted as applying to a situation in which a payment, challenged by an insolvency administrator, of a sum of money attached before the opening of the insolvency proceedings was made only after the opening of those proceedings.
+ 
+2.
+Article of Regulation No 1346/must be interpreted as meaning that the defence which it establishes also applies to limitation periods or other time-bars relating to actions to set aside transactions under the law governing the act challenged by the liquidator.
+ 
+3.
+The relevant procedural requirements for the exercise of an action to set a transaction aside are to be determined, for the purposes of the application of Article of Regulation No 1346/2000, according to the law governing the act challenged by the liquidator.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

@@ -1,0 +1,365 @@
+
+Case C-317/Proceedings brought by 
+Lahti Energia Oy
+(Reference for a preliminary ruling from the Korkein hallinto-oikeus)
+(Directive 2000/76/EC – Incineration of waste – Purification and combustion – Crude gas produced from waste – Definition of waste – Incineration plant – Co‑incineration plant)
+Summary of the Judgment
+1.        Environment – Waste – Incineration – Directive 2000/(European Parliament and Council Directive 2000/76, Art. 3(1))
+2.        Environment – Waste – Incineration – Directive 2000/(European Parliament and Council Directive 2000/76, Art. 3(4))
+3.        Environment – Waste – Incineration –  Directive 2000/(European Parliament and Council Directive 2000/76, Art. 3(4) and (5))
+1.        The definition of ‘waste’ in Article 3(1) of Directive 2000/on the incineration of waste does not cover gaseous substances.
+      
+(see para. 17, operative part 1)
+2.        The definition of ‘incineration plant’ in Article 3(4) of Directive 2000/on the incineration of waste relates to any technical
+         unit and equipment in which waste is thermally treated, on condition that the substances resulting from the use of the thermal
+         treatment process are subsequently incinerated. In that connection, the presence of an incineration line is not a necessary
+         condition for the purposes of such classification.
+      
+(see para. 22, operative part 2)
+3.        As regards a power-generating complex in which a gas plant, sited next to a power plant, provides the latter with purified
+         gas which is obtained by the gasification of waste and used in the power plant as a fuel alongside fossil fuels, a separate
+         examination of the gas plant and the power plant should in principle be carried out for the purposes of applying Directive
+         2000/on the incineration of waste.
+      
+A gas plant whose objective is to obtain products in gaseous form, in this case purified gas, by thermally treating waste
+         must be classified as a ‘co-incineration plant’ within the meaning of Article 3(5) of Directive 2000/76; a power plant which
+         uses as an additional fuel, in substitution for fossil fuels used for the most part in its production activities, a purified
+         gas obtained by the co-incineration of waste in a gas plant does not fall within the scope of that directive. In that connection,
+         for the purposes of classifying a unit as an incineration or co-incineration plant, there is no need to take account of which
+         classification would enable the level of emissions most favourable to the environment to be achieved.
+      
+(see paras 25, 41-43, operative part 3)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+December (*)
+      
+(Directive 2000/76/EC – Incineration of waste – Purification and combustion – Crude gas produced from waste – Definition of waste – Incineration plant – Co-incineration plant)
+In Case C‑317/07,
+REFERENCE for a preliminary ruling under Article EC, from the Korkein hallinto-oikeus (Finland), made by decision of July 2007, received at the Court on July 2007, in the proceedings brought by
+      
+Lahti Energia Oy,
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of the Chamber, K. Schiemann, J. Makarczyk, L. Bay Larsen and C. Toader (Rapporteur),
+         Judges,
+      
+Advocate General: J. Kokott,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on July 2008,
+after considering the observations submitted on behalf of:
+–        Lahti Energia Oy, by T. Rinne, asianajaja, and M. Kivelä and H. Takala, director and engineer respectively,
+–        Hämeen ympäristökeskus, by P. Mäkinen and E. Mecklin, acting as Agents,
+–        Salpausselän luonnonystävät ry, by M. Vikberg and S. Niemelä, asianajaja,
+–        the Finnish Government, by J. Heliskoski, acting as Agent,
+–        the Italian Government, by I. M. Braguglia, acting as Agent, and G. Fiengo, avvocato dello Stato,
+–        the Netherlands Government, by C. Wissels and M. de Grave, acting as Agents,
+–        the Austrian Government, by E. Riedl, acting as Agent,
+–        the Commission of the European Communities, by I. Koskinen and J.‑B. Laignelot, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article of Directive 2000/76/EC of the European Parliament
+         and of the Council of December on the incineration of waste (OJ L 332, p. 91).
+      
+The reference was made in the course of proceedings between Lahti Energia Oy (‘Lahti Energia’), an undertaking owned by the
+         municipality of Lahti, and Itä-Suomen ympäristölupavirasto (East Finland Environmental Permit Authority, ‘ympäristölupavirasto’)
+         concerning whether a complex comprising a gas plant and a power plant is subject to the requirements of Directive 2000/76.
+      
+ Legal context
+ Directive 2000/Recitals and in the preamble to Directive 2000/are worded as follows:
+      
+‘(5)      In accordance with the principles of subsidiarity and proportionality as set out in Article of the Treaty, there is a need
+         to take action at the level of the Community. The precautionary principle provides the basis for further measures. This Directive
+         confines itself to minimum requirements for incineration and co-incineration plants.
+      
+…
+(27)      The co-incineration of waste in plants not primarily intended to incinerate waste should not be allowed to cause higher emissions
+         of polluting substances in that part of the exhaust gas volume resulting from such co‑incineration than those permitted for
+         dedicated incineration plants and should therefore be subject to appropriate limitations.’
+      
+Under Article of Directive 2000/76:
+      
+‘For the purposes of this Directive:
+1.      “waste” means any solid or liquid waste as defined in Article 1(a) of [Council Directive 75/442/EEC of July on waste
+         (OJ L 194, p. 39)];
+      
+…
+4.      “incineration plant” means any stationary or mobile technical unit and equipment dedicated to the thermal treatment of wastes
+         with or without recovery of the combustion heat generated. This includes the incineration by oxidation of waste as well as
+         other thermal treatment processes such as pyrolysis, gasification or plasma processes in so far as the substances resulting
+         from the treatment are subsequently incinerated.
+      
+This definition covers the site and the entire incineration plant including all incineration lines, waste reception, storage,
+         on site pre-treatment facilities, waste-fuel and air-supply systems, boiler, facilities for the treatment of exhaust gases,
+         on site facilities for treatment or storage of residues and waste water, stack, devices and systems for controlling incineration
+         operations, recording and monitoring incineration conditions;
+      
+5.      “co-incineration plant” means any stationary or mobile plant whose main purpose is the generation of energy or production
+         of material products and:
+      
+–        which uses wastes as a regular or additional fuel; or
+–        in which waste is thermally treated for the purpose of disposal.
+If co-incineration takes place in such a way that the main purpose of the plant is not the generation of energy or production
+         of material products but rather the thermal treatment of waste, the plant shall be regarded as an incineration plant within
+         the meaning of point 4.
+      
+This definition covers the site and the entire plant including all co-incineration lines, waste reception, storage, on site
+         pre-treatment facilities, waste-, fuel- and air-supply systems, boiler, facilities for the treatment of exhaust gases, on
+         site facilities for treatment or storage of residues and waste water, stack devices and systems for controlling incineration
+         operations, recording and monitoring incineration conditions;
+      
+…
+“permit” means a written decision (or several such decisions) delivered by the competent authority granting authorisation
+         to operate a plant, subject to certain conditions which guarantee that the plant complies with all the requirements of this
+         Directive. A permit may cover one or more plants or parts of a plant on the same site operated by the same operator;
+      
+13.      “residue” means any liquid or solid material (including bottom ash and slag, fly ash and boiler dust, solid reaction products
+         from gas treatment, sewage sludge from the treatment of waste waters, spent catalysts and spent activated carbon) defined
+         as waste in Article 1(a) of Directive 75/442/EEC, which is generated by the incineration or co-incineration process, the exhaust
+         gas or waste water treatment or other processes within the incineration or co-incineration plant.’
+      
+Article of Directive 2000/76, entitled ‘Air emission limit values’ provides:
+      
+‘1.      Incineration plants shall be designed, equipped, built and operated in such a way that the emission limit values set out in
+         Annex V are not exceeded in the exhaust gas.
+      
+2.      Co-incineration plants shall be designed, equipped, built and operated in such a way that the emission limit values determined
+         according to or set out in Annex II are not exceeded in the exhaust gas.
+      
+…’
+ Directive 2006/12/EC
+Under Article of Directive 2006/12/EC of the European Parliament and of the Council of April on waste (OJ L
+         114, p. 9) which, in order to clarify matters, codifies Directive 75/442, ‘waste’ is to mean ‘any substance or object in the
+         categories set out in Annex I which the holder discards or intends or is required to discard’.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+Lahti Energia applied to the ympäristölupavirasto for an environmental permit with respect to the activities of its gas and
+         power plants. That permit concerns a complex with two separate plants on the same site: a plant producing gas from waste and
+         a power plant whose steam boiler burns the purified gas which is produced in the gas plant.
+      
+The ympäristölupavirasto issued a provisional environmental permit to Lahti Energia and laid down the conditions pursuant
+         to which that permit was granted. The ympäristölupavirasto thus took the view that the gas plant which produces gas and the
+         power plant burning the gas together constitute a co-incineration plant within the meaning of Directive 2000/76.
+      
+Lahti Energia brought an appeal against that decision before the Vaasan hallinto-oikeus (Administrative Court, Vaasa) seeking
+         a declaration that the combustion in a main boiler of gas purified and refined in a separate gas production plant was not
+         to be regarded as co-incineration of waste within the meaning of Directive 2000/76.
+      
+The Vaasan hallinto-oikeus dismissed the appeal. It held in particular that attainment of the objectives of Directive 2000/might be prejudiced if its scope were interpreted so restrictively that its requirements were not applied to the combustion
+         of pre-treated waste. However, the court held that, as a separate operation, the gas plant was not to be regarded as an incineration
+         plant within the meaning of Directive 2000/76, because gasification is a thermal treatment and that, to be regarded as an
+         incineration plant, a plant must have a line specifically for incineration.
+      
+Nevertheless, the Vaasan hallinto-oikeus held that the gas and power plants together constituted a co-incineration plant within
+         the meaning of Directive 2000/76. 
+      
+Lahti Energia therefore brought an appeal before the Korkein hallinto-oikeus (Supreme Administrative Court), which decided
+         to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+      
+‘(1)      Is Article 3(1) of Directive 2000/76/EC to be interpreted as meaning that the directive does not apply to the combustion of
+         gaseous waste?
+      
+(2)      Is a gas plant where gas is generated from waste by means of pyrolysis to be regarded as an incineration plant within the
+         meaning of Article 3(4) of Directive 2000/76/EC even if it has no incineration line?
+      
+(3)      Is combustion in the boiler of a power plant of gas which is generated in the gas plant and purified after the gasification
+         process to be regarded as an operation within the meaning of Article of Directive 2000/76/EC? Does it have any bearing that
+         the purified gas replaces the use of fossil fuels and that the emissions per unit of energy generated by the power plant would
+         be lower when using purified gas generated from waste than when using other fuels? Is it of any relevance to the interpretation
+         of the scope of Directive 2000/76/EC, first, whether the gas plant and the power plant form one plant having regard to the
+         technical production aspects and the distance between them or, second, whether the purified gas generated at the gas plant
+         is portable and may be used elsewhere, for example for energy production, as a fuel or for another purpose?
+      
+(4)      Under what conditions may the purified gas generated in the gas plant be regarded as a product so that the rules on waste
+         no longer apply to it?’
+      
+ The questions referred for a preliminary ruling
+ The first question
+By its first question, the referring court wishes to know whether the definition of ‘waste’ in Article 3(1) of Directive 2000/also covers gaseous substances.
+      
+In the context of the case in the main proceedings, that question must be understood as relating to whether the gas resulting
+         from the pyrolysis, carried out in a gas plant, of solid waste of various kinds may be regarded as ‘waste’ within the meaning
+         of Directive 200/so that that gaseous substance, used subsequently as a fuel in a power plant alongside other fuels, could
+         therefore be considered to be either a substance which ‘[is] subsequently incinerated’ within the meaning of the first subparagraph
+         of Article 3(4) of that directive, or waste used as ‘additional fuel’ or ‘thermally treated for the purpose of disposal’ within
+         the meaning of the first subparagraph of Article 3(5) thereof.
+      
+In that connection, as Lahti Energia, the Finnish and Italian Governments and the Commission of the European Communities have
+         pointed out, it is evident that the clear wording of Article 3(1) of Directive 2000/defines ‘waste’ in the context of that
+         directive as any ‘solid’ or ‘liquid’ waste as defined in Article 1(a) of Directive 75/442.
+      
+A literal interpretation of that provision is sufficient for a finding that only waste in solid or liquid form is covered
+         by Directive 2000/76, and there is therefore no need to examine in addition whether the definition of ‘waste’ in Directive
+         75/itself covers waste in gaseous form.
+      
+Therefore, the answer to the first question must be that the definition of ‘waste’ in Article 3(1) of Directive 2000/does
+         not cover gaseous substances.
+      
+ The second question
+By its second question, the referring court asks the Court of Justice whether the existence of an incineration line is a necessary
+         condition of the classification of a unit, such as a plant producing gas from waste, as an ‘incineration plant’ within the
+         meaning of Article 3(4) of Directive 2000/76.
+      
+In accordance with the first subparagraph of Article 3(4) of Directive 2000/76, the definition of incineration plant covers
+         any technical unit and equipment dedicated to the thermal treatment of wastes, which includes the incineration by oxidation
+         of waste as well as other thermal treatment processes such as, in particular, pyrolysis or gasification.
+      
+In that connection, as is clear from a comparison of the various language versions of Article 3(4) of Directive 2000/76, and
+         as Lahti Energia, Hämeen ympäristökeskus, the Finnish Government and the Commission have submitted, a unit in which waste
+         is thermally treated will be classified as an ‘incineration plant’ only if the substances resulting from the use of that thermal
+         treatment process are subsequently incinerated.
+      
+As the Netherlands Government rightly observed, the list of technical elements in the second subparagraph of Article 3(4)
+         of Directive 2000/cannot be regarded as either an exhaustive list of the elements which may constitute an incineration
+         plant or as a list of the elements which are necessary to constitute such a plant. Therefore, the presence of an incineration
+         line is not a necessary condition for the purposes of the classification of a unit as an ‘incineration plant’.
+      
+In those circumstances, the answer to the second question must be that the definition of ‘incineration plant’ in Article 3(4)
+         of Directive 2000/relates to any technical unit and equipment in which waste is thermally treated, on condition that the
+         substances resulting from the use of the thermal treatment process are subsequently incinerated and that, in that connection,
+         the presence of an incineration line is not a necessary condition for the purposes of such classification.
+      
+ The third question
+By its third question, the referring court asks essentially how to classify, in the light of Article of Directive 2000/76,
+         a power-generating complex in which a gas plant, sited next to a power plant, provides the latter with purified gas which
+         is obtained by the gasification of waste and used in the power plant as a fuel alongside fossil fuels. The referring court
+         asks in particular about the relevance, for the purposes of classifying that complex, first, of the fact that the use of the
+         purified gas by the power plant produces lower emissions as compared with the use of fossil fuels and, second, the fact that
+         the functions of the two units making up that complex overlap to a certain extent in that the gas plant is intended partially
+         to cover the fuel requirements of the power plant but, at the same time, the gas produced in the gas plant might be sold off
+         site.
+      
+As a preliminary point, it must be stated that, for the purposes of applying Directive 2000/76, where a co-generation plant
+         comprises a number of boilers, each boiler and its associated equipment are to be regarded as constituting a separate plant
+         (Case C-251/Gävle Kraftvärme [2008] ECR I-0000, paragraph 33).
+      
+Therefore, in the same way, with respect to two units such as those at issue in the main proceedings, a separate examination
+         of the gas plant and the power plant should in principle be carried out for the purposes of applying Directive 2000/76.
+      
+In accordance with the first subparagraph of Article 3(5) of Directive 2000/76, a plant whose main purpose is the generation
+         of energy or production of material products, which either uses wastes as a regular or additional fuel or in which waste is
+         thermally treated for the purpose of its disposal, is to be regarded as a co-incineration plant (see Gävle Kraftvärme, paragraph 35).
+      
+The second subparagraph of Article 3(5) states that, if co-incineration takes place in such a way that the main purpose of
+         the plant is not the generation of energy or production of material products but rather the thermal treatment of waste, the
+         plant is to be regarded as an incineration plant within the meaning of Article 3(4) (Gävle Kraftvärme, paragraph 36).
+      
+Accordingly, it is clear from the wording of those provisions that a co-incineration plant constitutes a particular form of
+         incineration plant and that it is on the basis of the main purpose of a plant that the assessment of whether it is an incineration
+         plant or a co-incineration plant is to be made (Gävle Kraftvärme, paragraph 37).
+      
+ The classification of the gas plant
+In the case in the main proceedings, and subject to the findings of fact which are the prerogative of the referring court,
+         it is apparent that in the gas plant waste is thermally treated but the resulting substances are not incinerated there. The
+         substances resulting from the thermal treatment, in this case crude gas, are filtered with the aid of a purifier which produces
+         purified gas free from undesirable solid particles and therefore suitable for use as fuel.
+      
+Thus, in so far as the substances resulting from the thermal treatment of the waste are not incinerated at the gas plant,
+         the operation and characteristics of such a plant do not permit it to be classified, as such, as an ‘incineration plant’ within
+         the meaning of Article 3(4) of Directive 2000/76.
+      
+However, it is apparent that the main purpose of the gas plant is the production of a fuel, in this case a purified gas, and
+         that within the plant waste is thermally treated for the purpose of disposal.
+      
+In that connection, while it is admittedly true, as stated in paragraph of this judgment, that a co-incineration plant
+         constitutes a particular form of incineration plant, the fact remains that the two types of plant have definitions which are
+         particular to them. Thus, as the Advocate General stated in point of her Opinion, although the condition relating to the
+         thermal treatment of waste may be required in both cases, the wording of Article 3(5) of Directive 2000/does not, by contrast,
+         as regards classification as a co-incineration plant, require that the resulting substances be subsequently incinerated.
+      
+It follows that, in accordance with the findings in paragraph of this judgment, a gas plant such as that at issue in the
+         main proceedings satisfies the conditions necessary for its classification as a co-incineration plant within the meaning of
+         Article 3(5) of Directive 2000/76.
+      
+As regards purified gas resulting from the thermal treatment of waste, the Austrian Government submits that it could be considered
+         that the purified gas thus produced by the gas plant corresponds to a substance which results from the thermal treatment of
+         waste in that plant and that, in so far as the gas is then burnt in the power plant, the gas plant may be regarded as an incineration
+         plant within the meaning of Article 3(4) of Directive 2000/76.
+      
+In that connection, first, as it appears from the information given by the referring court, the gas concerned, by reason in
+         particular of its filtration in the purifier, has properties similar to a fossil fuel and thereby constitutes a gas suitable
+         for use as a fuel for the production of energy both in the power plant for which the production of the gas plant is intended
+         and in other power plants.
+      
+In those circumstances, there is no question of a substance resulting from the thermal treatment of waste in the gas plant
+         which is incinerated in the power plant in order to complete a simple process of waste disposal. As the Finnish and Italian
+         Governments have submitted, when the process is completed within the gas plant a product having the characteristics of a fuel
+         is generated from waste.
+      
+Second, where, in a plant whose main purpose is to produce material products, in this case, gas products, waste is thermally
+         treated in order to dispose of it, such a plant must be classified as a co-incineration plant in accordance with the scheme
+         of Article 3(4) and (5) of Directive 2000/which makes the classification of a unit as an incineration or co-incineration
+         plant dependent on its main purpose (see, to that effect, Gävle Kraftvärme, paragraph 40).
+      
+ The classification of the power plant
+As regards the activities of the power plant at issue in the main proceedings, it is apparent that its purpose is the production
+         of energy through combustion of primary materials such as coal and, partly, of purified gas as produced by the gas plant.
+         Therefore, it must be stated that the main purpose of such a plant is not the incineration of substances resulting from the
+         thermal treatment of waste undertaken in the gas plant.
+      
+Furthermore, it cannot be argued that the combustion of the purified gas in the power plant together with fossil fuels constitutes
+         thermal treatment of ‘waste’ within the meaning of Directive 2000/which would enable the power plant to be classified as
+         an incineration plant.
+      
+As stated in paragraph of this judgment, the directive does not in any way include gaseous substances in the category ‘waste’.
+         Therefore, it cannot be held that the combustion in the power plant of purified gas produced by the gas plant constitutes
+         thermal treatment of waste.
+      
+It follows that, in circumstances such as those at issue in the main proceedings, where the purpose of the gas plant is to
+         obtain products in gaseous form by thermally treating waste, which is sufficient for it to be classified as a co-incineration
+         plant within the meaning of Article 3(5) of Directive 2000/76, the power plant which uses purified gas obtained by co-incinerating
+         waste in the gas plant, as a replacement for fossil fuels principally used in its energy production, does not fall within
+         the scope of that directive.
+      
+In that connection, for the purposes of classifying a unit as an incineration or co-incineration plant, there is no need to
+         take account of which classification would enable the level of emissions most favourable to the environment to be achieved.
+         That issue falls within the competence of the Community legislature, which has defined the conditions necessary for the legal
+         classifications of plants and the level of emissions acceptable both for incineration and co-incineration plants and for large
+         combustion plants. Accordingly, only the requirements set out in Article 3(4) and (5) of Directive 2000/are relevant for
+         the national court dealing with such a question.
+      
+In light of the foregoing, the answer to the third question must be that, in circumstances such as those at issue in the main
+         proceedings:
+      
+–        a gas plant whose objective is to obtain products in gaseous form, in this case purified gas, by thermally treating waste
+         must be classified as a ‘co-incineration plant’ within the meaning of Article 3(5) of Directive 2000/76;
+      
+–        a power plant which uses as an additional fuel, in substitution for fossil fuels used for the most part in its production
+         activities, a purified gas obtained by the co-incineration of waste in a gas plant does not fall within the scope of that
+         directive.
+      
+ The fourth question
+By its fourth question, the referring court asks as from which chemical state waste may be considered to become ‘products’.
+      
+The referring court formulated such a question on the premiss that the gaseous substances obtained by the thermal treatment
+         of waste in a gas plant such as that at issue in the main proceedings are themselves ‘waste’ within the meaning of Article
+         3(1) of Directive 2000/76.
+      
+In that connection, in the answer to the first question it was stated that the definition of ‘waste’ in that provision does
+         not cover gaseous substances.
+      
+In those circumstances there is no need to answer the fourth question.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+1.      The definition of ‘waste’ in Article 3(1) of Directive 2000/76/EC of the European Parliament and of the Council of December
+            on the incineration of waste does not cover gaseous substances.
+2.      The definition of ‘incineration plant’ in Article 3(4) of Directive 2000/relates to any technical unit and equipment in
+            which waste is thermally treated, on condition that the substances resulting from the use of the thermal treatment process
+            are subsequently incinerated and that, in that connection, the presence of an incineration line is not a necessary condition
+            for the purposes of such classification.
+3.      In circumstances such as those at issue in the main proceedings:
+–        a gas plant whose objective is to obtain products in gaseous form, in this case purified gas, by thermally treating waste
+            must be classified as a ‘co-incineration plant’ within the meaning of Article 3(5) of Directive 2000/76;
+–        a power plant which uses as an additional fuel, in substitution for fossil fuels used for the most part in its production
+            activities, a purified gas obtained by the co-incineration of waste in a gas plant does not fall within the scope of that
+            directive.
+[Signatures]
+* Language of the case: Finnish.
+      
+Top  
+ 

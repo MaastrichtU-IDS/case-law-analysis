@@ -1,0 +1,259 @@
+
+         				Arrêt de la Cour
+         			
+      
+Case C-467/Ikegami Electronics (Europe) GmbH
+v
+Oberfinanzdirektion Nürnberg
+(Reference for a preliminary ruling from the Finanzgericht München)
+(Common Customs Tariff – Tariff headings – Tariff classification of a digital recording machine – Classification under the Combined Nomenclature)
+Opinion of Advocate General Kokott delivered on January Judgment of the Court (Fourth Chamber), March 2005. 
+Summary of the Judgment
+Common Customs Tariff – Tariff headings – Machine which records and reproduces signals for video surveillance purposes – Machine
+            which performs a specific function other than data processing within the meaning of Note 5(E) to Chapter of the Combined
+            Nomenclature
+A machine which, for video surveillance purposes, records signals from cameras and, after compressing them, reproduces them
+         on screen, performs a specific function other than data processing within the meaning of Note 5(E) to Chapter of the Combined
+         Nomenclature of the Common Customs Tariff in Annex I to Regulation No 2658/on the tariff and statistical nomenclature and
+         on the Common Customs Tariff, as amended by Regulation No 2031/2001.
+      
+(see para. 31, operative part)
+  
+JUDGMENT OF THE COURT (Fourth Chamber)March 2005(1)
+(Common Customs Tariff  –  Tariff headings  –  Tariff classification of a digital recording machine  –  Classification under the Combined Nomenclature)
+ In Case C-467/03,REFERENCE for a preliminary ruling under Article EC from the Finanzgericht München (Germany), by order of June 2003, received at the Court on November 2003, in the proceedings
+            
+Ikegami Electronics (Europe) GmbH
+v
+Oberfinanzdirektion Nürnberg,
+THE COURT (Fourth Chamber),,
+ composed of K. Lenaerts (Rapporteur), President of the Chamber, J.N. Cunha Rodrigues and E. Levits, Judges,
+            
+ Advocate General: J. Kokott,Registrar: K. Sztranc, Administrator,
+             having regard to the written procedure and following the hearing on December 2004,after considering the observations submitted on behalf of:
+            
+–
+ Ikegami Electronics (Europe) GmbH, by H. Nehm, Rechtsanwalt,
+            
+–
+ the Commission of the European Communities, by J.‑C. Schieferer, acting as Agent,
+            
+after hearing the Opinion of the Advocate General at the sitting on January 2005,
+gives the following
+Judgment
+            
+ The reference for a preliminary ruling concerns the interpretation of Note 5(E) in Chapter of the Combined Nomenclature
+         of the Common Customs Tariff (hereinafter ‘the CN’) in Annex I to Council Regulation (EEC) No 2658/of July on the
+         tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation
+         (EC) No 2031/of August (OJ L 279, p. 1).
+         
+            
+ The reference was made in the course of a dispute between Ikegami Electronics (Europe) GmbH (hereinafter ‘Ikegami’) and the
+         Oberfinanzdirektion (Principal Revenue Office) regarding the binding tariff information given by the Zolltechnische Prüfungs-
+         und Lehranstalt München (Customs Laboratory and Training College, Munich) for a digital recording machine.
+         
+Relevant provisions
+            
+ The version of the CN applicable at the time of the facts in the main proceedings is set out in Annex I to Regulation No 2031/2001.
+         Part Two of that annex contains Section XVI, entitled ‘Machinery and mechanical appliances; electrical equipment; parts thereof;
+         sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’.
+         
+            
+ That section contains two chapters, namely Chapter 84, entitled ‘Nuclear reactors, boilers, machinery and mechanical appliances;
+         parts thereof’, and Chapter 85, entitled ‘Electrical machinery and equipment and parts thereof; sound recorders and reproducers,
+         television image and sound recorders and reproducers, and parts and accessories of such articles’.
+         
+            
+ Under Chapter is set out, among others, heading 8471, entitled ‘Automatic data processing machines and units thereof; magnetic
+         or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not
+         elsewhere specified or included’.
+         
+            
+ Subheading concerns ‘[d]igital processing units other than those of subheadings and 49, whether or not
+         containing in the same housing one or two of the following types of unit: storage units, input units, output units’. Subheading
+         covers those of such products which are not for use in civil aircraft. Under Regulation No 2031/2001, those products
+         are exempt from conventional duty.
+         
+            
+ Under Chapter of the CN is set out, among others, heading 8521, entitled ‘Video recording or reproducing apparatus, whether
+         or not incorporating a video tuner’. Subheading covers those of such products without magnetic tapes. Under Regulation
+         No 2031/2001, the conventional duty in respect of those products is fixed at 14%.
+         
+            
+ Note to Section XVI of the CN provides that, ‘[w]here a machine (including a combination of machines) consists of individual
+         components (whether separate or interconnected by piping, by transmission devices, by electric cables or by other devices)
+         intended to contribute together to a clearly defined function covered by one of the headings in Chapter or 85, then the
+         whole falls to be classified in the heading appropriate to that function’.
+         
+            
+ Note to Chapter of the CN contains, among others, the following statements:
+         
+‘(A)
+For the purposes of heading 8471, the expression “automatic data processing machines” means:
+(a)
+digital machines, capable of:
+(1)
+storing the processing program or programs and at least the data immediately necessary for the execution of the program;
+(2)
+being freely programmed in accordance with the requirements of the user;
+(3)
+performing arithmetical computations specified by the user; and
+(4)
+executing, without human intervention, a processing program which requires them to modify their execution, by logical decision
+                           during the processing run;
+                        
+…
+         
+(E)
+Machines performing a specific function other than data processing and incorporating or working in conjunction with an automatic
+               data processing machine are to be classified in the headings appropriate to their respective functions or, failing that, in
+               residual headings.’
+            
+The main proceedings and the question referred for a preliminary ruling
+            
+ On December 2001, Ikegami applied to the Zolltechnische Prüfungs- und Lehranstalt München for a binding tariff information
+         for a machine designated as a ‘Digital Recorder SDR‑G 8000‑8’. It requested that the machine be classified under subheading
+         of the CN.
+         
+            
+ The order for reference described the machine as follows:
+         ‘In addition to a keyboard and a built-in glide mouse, the apparatus has a video digitiser board for four video cards with
+         connector ports for up to eight television cameras, image movement control, a main board with a processor and three hard disk
+         slots, a video storage device, sound, LAN, graphics and modem cards, a hard disk and a CDRW drive. The Windows ME operating
+         system, software for the digital recorder, and the software for the CDRW drive are pre‑installed on the hard disk.’
+         
+            
+ On January 2002, the Zolltechnische Prüfungs- und Lehranstalt München issued binding tariff information under number DE M/119/02‑1,
+         classifying the machine under subheading of the CN.
+         
+            
+ After an unsuccessful objection, Ikegami brought an action before the Finanzgericht München (Finance Court, Munich) against
+         that binding tariff information, arguing that the apparatus ought to be regarded as a data processing machine on the ground
+         that the exclusive purpose of both its individual components and its method of operation was such processing.
+         
+            
+ The Finanzgericht München observes, in the order for reference, that the apparatus in question satisfies the requirements
+         of an automatic data processing machine laid down in Note 5(A)(a) to Chapter of the CN and that it could be used as a personal
+         computer, but that, because of its special equipment, it is described as a digital video recorder and is marketed and used
+         as such. That court states that the apparatus processes data for a precise purpose and that it is equipped in relation to
+         that sole function, namely the recording, viewing and storage or reproduction of video signals. It adds that the lack of sufficient
+         software prevents the apparatus from being used for other purposes. The referring court considers that that specific function
+         of the apparatus could constitute a function other than data processing within the meaning of Note 5(E) to Chapter of the
+         CN.
+         
+            
+ In those circumstances, the Finanzgericht München decided to stay the proceedings and to refer the following question to the
+         Court for a preliminary ruling:
+         ‘Is Note 5(E) of the Combined Nomenclature, in the version of Annex I to Regulation (EC) No 2031/... amending Annex I
+         to Council Regulation (EEC) No 2658/... , to be interpreted as meaning that video monitoring apparatus which stores signals
+         from several video cameras compressed on hard disks for reproduction on monitors performs a function other than that of data
+         processing?’
+         
+The question referred for a preliminary ruling
+            
+ By the question referred, the national court is asking, in essence, whether a digital recording machine, such as that at issue
+         in the main proceedings, is to be regarded as performing a specific function other than data processing within the meaning
+         of Note 5(E) to Chapter of the CN.
+         
+            
+ It is settled case‑law that, in the interests of legal certainty and for ease of verification, the decisive criterion for
+         the classification of goods for customs purposes is in general to be sought in their objective characteristics and properties
+         as defined in the wording of the relevant heading of the CN. The Explanatory Notes to the CN formulated by the Commission,
+         and those drawn up within the World Customs Organisation as regards the Harmonised Commodity Description and Coding System
+         (hereinafter ‘the HS’), may be an important aid to the interpretation of the scope of the various tariff headings but do not
+         have legally binding force (see Case C‑130/Krings [2004] ECR I‑0000, paragraph 28).
+         
+            
+ In this case, the wording of heading in the CN, under which, according to Ikegami, the machine in question in the main
+         proceedings comes, covers, among others, automatic data processing machines and units thereof. The wording of heading in the CN, under which, according to the German Customs Administration, that machine is to be classified, concerns, among
+         others, video recording or reproducing apparatus.
+         
+            
+ It is clear from Note 5(E) to Chapter of the CN that machines performing a specific function other than data processing
+         and incorporating or working in conjunction with an automatic data processing machine are to be classified in the headings
+         appropriate to their respective functions or, failing that, in residual headings.
+         
+            
+ According to the description mentioned in the order for reference, as supplemented by the information presented by Ikegami
+         both in its written observations and at the hearing, the machine in question in the main proceedings comprises, apart from
+         equipment characteristic of an automatic data processing machine, special equipment enabling the storage of analogue signals
+         corresponding to pictures or sounds transmitted by external sources, the digital conversion of those signals, their compression
+         and their reproduction on screen. The national court adds that, because of that special equipment, the machine is marketed
+         as a digital video recorder, which Ikegami confirmed in its observations at the hearing.
+         
+            
+ Whilst it is equipped to process data, the machine is different, by virtue not only of its specific function of storage of
+         video signals, but also the manner in which it is marketed and presented to the public (see, in that regard, Case T‑243/Sony Computer Entertainment Europe v Commission [2003] ECR II‑4189, paragraph 112) from an automatic machine which undertakes only data processing.
+         
+            
+ While, as Ikegami submits, the machine in question in the main proceedings cannot simultaneously record sound and pictures
+         or record and reproduce moving images, that fact, assuming it to be true, is no obstacle to holding that the machine, which
+         is equipped with components which can store and reproduce both sounds and pictures, performs a function going beyond automatic
+         data processing.
+         
+            
+ It is important also to make clear that, according to the Court’s case‑law, the intended use of a product may constitute an
+         objective criterion in relation to tariff classification if it is inherent in the product, and such inherent character must
+         be capable of being assessed on the basis of the product’s objective characteristics and properties (Case C‑201/Deutsche Nichimen [2001] ECR I-2701, paragraph 20, and Krings, cited above, paragraph 30).
+         
+            
+ In this case, the description in the order for reference reveals that one of the objective characteristics of the machine
+         in question in the main proceedings is the possibility which it offers of being connected to television cameras for the purposes
+         of video surveillance. As is clear from that decision and from the information provided by Ikegami at the hearing, the machine
+         is equipped with a device which enables the size of the pictures to be adjusted and the orientation of the cameras connected
+         to it to be changed. At the hearing, Ikegami also pointed out that the commercial promotion of that machine is aimed at those
+         responsible for the surveillance of buildings.
+         
+            
+ The national court states also that, except for the automatic data processing which the basic equipment it contains enables
+         it to perform, the machine, as equipped, cannot be used for purposes other than the recording and reproduction of images and
+         sounds in the course of video surveillance, as it lacks sufficient software.
+         
+            
+ That particular intended use, which is inherent in the objective characteristics of the components with which the machine
+         in question in the main proceedings is equipped, supports the argument that the machine fulfils a specific function other
+         than automatic data processing.
+         
+            
+ In support of its argument, Ikegami relies on the note which appears below the Explanatory Notes to the HS, relating to Note
+         to Section XVI of the CN, in the version thereof in force at the time of the facts in the main proceedings.
+         
+            
+ The text of that note is as follows:
+         ‘It should be noted that component parts not complying with the terms of Note to Section XVI fall in their own appropriate
+         headings. This applies, for example, to closed circuit video‑surveillance systems, consisting of a combination of a variable
+         number of television cameras and video monitors connected by coaxial cables to a controller, switchers, audio board/receivers
+         and possibly automatic data processing machines (for saving data) and/or video recorders (for recording pictures).’
+         
+            
+ Ikegami submits that, in view of that note, the machine in question in the main proceedings must be regarded as a data processing
+         machine which, while capable of constituting a video‑surveillance system when it is combined with television cameras, must
+         nevertheless be given a different classification for tariff purposes.
+         
+            
+ However, by referring separately to automatic data processing machines for ‘saving data’, on the one hand, and to machines
+         whose function consists of recording pictures (‘video recorders’), on the other hand, the note reproduced in paragraph of this judgment confirms that a machine, such as that in question in the main proceedings, which is equipped with a digital
+         image and sound recording function, must be regarded as performing a specific function, going beyond automatic data processing.
+         
+            
+ In the light of all the foregoing, the reply to the question referred for a preliminary ruling must be that a machine which,
+         for video‑surveillance purposes, records signals from cameras and, after compressing them, reproduces them on screen, performs
+         a specific function other than data processing within the meaning of Note 5(E) to Chapter of the CN.
+         
+Costs
+            
+ Since these proceedings are, for the parties to the main proceedings, a step in the action before the national court, it is
+         for that court to decide upon the costs. Costs incurred in submitting observations to the Court, other than those of the said
+         parties, cannot be recovered.
+         
+ On those grounds, the Court (Fourth Chamber) hereby rules:
+         A machine which, for video‑surveillance purposes, records signals from cameras and, after compressing them, reproduces them
+               on screen, performs a specific function other than data processing within the meaning of Note 5(E) to Chapter of the Combined
+               Nomenclature of the Common Customs Tariff in Annex I to Council Regulation (EEC) No 2658/of July on the tariff
+               and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EC) No 2031/of August 2001.[Signatures]
+      
+ –
+            
+Language of the case: German.
+Top  
+ 

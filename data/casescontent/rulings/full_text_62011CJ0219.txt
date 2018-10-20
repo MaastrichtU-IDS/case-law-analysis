@@ -1,0 +1,99 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+November (
+*)
+‛Reference for a preliminary ruling — Directive 93/42/EEC — Medical devices — Scope — Interpretation of the concept of ‘medical device’ — Product marketed for non-medical use — Investigation of a physiological process — Free movement of goods’
+In Case C‑219/11,
+REFERENCE for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Germany), made by decision of April 2011, received at the Court on May 2011, in the proceedings
+Brain Products GmbH
+v
+BioSemi VOF,
+Antonius Pieter Kuiper,
+Robert Jan Gerard Honsbeek,
+Alexander Coenraad Metting van Rijn,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, acting as President of the Third Chamber, E. Juhász (Rapporteur), G. Arestis, J. Malenovský and T. von Danwitz, Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Impellizzeri, Administrator,
+having regard to the written procedure and further to the hearing on March 2012,
+after considering the observations submitted on behalf of:
+—
+Brain Products GmbH, by B. Ackermann and F. Bernreuther, Rechtsanwälte,
+—
+BioSemi VOF and Messrs Kuiper, Honsbeek and Metting van Rijn, by D. Wieddekind, P. Baukelmann and H. Büttner, Rechtsanwälte,
+—
+the European Commission, by A. Sipos and G. Wilms, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2012,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of the third indent of Article 1(2)(a) of Council Directive 93/42/EEC of June concerning medical devices (OJ L 169, p. 1), as amended by Directive 2007/47/EC of the European Parliament and of the Council of September (OJ L 247, p. 1) (‘Directive 93/42’).
+The reference has been made in proceedings between (i) Brain Products GmbH (‘Brain Products’) and (ii) BioSemi VOF and Messrs Kuiper, Honsbeek and Metting van Rijn (‘BioSemi and Others’) concerning the application of Directive 93/to a product, for which the non-medical use has been defined by its manufacturer, which is intended for investigation of a physiological process.
+Legal context
+Recitals 2, 3, 5, and in the preamble to Directive 93/are worded as follows:
+‘Whereas the content and scope of the laws, regulations and administrative provisions in force in the Member States with regard to the safety, health protection and performance characteristics of medical devices are different; whereas the certification and inspection procedures for such devices differ from one Member State to another; whereas such disparities constitute barriers to trade within the Community;
+Whereas the national provisions for the safety and health protection of patients, users and, where appropriate, other persons, with regard to the use of medical devices should be harmonised in order to guarantee the free movement of such devices within the internal market;
+…
+Whereas medical devices should provide patients, users and third parties with a high level of protection and attain the performance levels attributed to them by the manufacturer; whereas, therefore, the maintenance or improvement of the level of protection attained in the Member States is one of the essential objectives of this Directive;
+…
+Whereas medical devices should, as a general rule, bear the CE mark to indicate their conformity with the provisions of this Directive to enable them to move freely within the Community and to be put into service in accordance with their intended purpose;
+Whereas, in the fight against AIDS and in the light of the conclusions of the Council adopted on May regarding future activities on AIDS prevention and control at Community level, medical devices used for protection against the HIV virus must afford a high level of protection; whereas the design and manufacture of such products should be verified by a notified body;’
+Article of Directive 93/42, entitled ‘Definitions, scope’, provides:
+‘1.   This Directive shall apply to medical devices and their accessories. For the purposes of this Directive, accessories shall be treated as medical devices in their own right. Both medical devices and accessories shall hereinafter be termed devices.
+2.   For the purposes of this Directive, the following definitions shall apply:
+(a)
+“medical device” means any instrument, apparatus, appliance, software, material or other article, whether used alone or in combination, together with any accessories, including the software intended by its manufacturer to be used specifically for diagnostic and/or therapeutic purposes and necessary for its proper application, intended by the manufacturer to be used for human beings for the purpose of:
+—
+diagnosis, prevention, monitoring, treatment or alleviation of disease,
+—
+diagnosis, monitoring, treatment, alleviation of or compensation for an injury or handicap,
+—
+investigation, replacement or modification of the anatomy or of a physiological process,
+—
+control of conception,
+and which does not achieve its principal intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its function by such means;
+…’
+Recital in the preamble to Directive 2007/is worded as follows:
+‘It is necessary to clarify that software in its own right, when specifically intended by the manufacturer to be used for one or more of the medical purposes set out in the definition of a medical device, is a medical device. Software for general purposes when used in a healthcare setting is not a medical device.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Biosemi and Others market electrotechnical systems and equipment, in particular, a system called ‘ActiveTwo’ which enables human brain activity to be recorded. According to Brain Products, a company incorporated in Germany, since ActiveTwo is a medical device and BioSemi and Others do not have CE certification for such devices, the marketing of that product should be prohibited.
+BioSemi and Others submit that since ActiveTwo is not intended for medical use it cannot be classified as a ‘medical device’ within the meaning of Directive 93/42. Moreover, the fact that that system can be transformed into a diagnostic device does not lead to it being classified as a medical device. BioSemi and Others assert that a restriction on the marketing of ActiveTwo would be contrary to the principle of the free movement of goods since the competent Netherlands health authority takes the view that there is no need to certify that system.
+The German lower courts held that ActiveTwo could not be classified as a ‘medical device’ within the meaning of Directive 93/42. According to the court of appeal, that system satisfies the criteria in the third indent of Article 1(2)(a) of Directive 93/42, but not the additional implied condition that its intended purpose must be for medical use, so that BioSemi and Others are not required to submit ActiveTwo to clinical examination.
+In the appeal on a point of law brought by Brain Products before the Bundesgerichtshof, it takes the view that it may be held that the purpose of the device concerned is necessarily medical only in the cases referred to in the first and second indents of Article 1(2)(a) of Directive 93/42. However, it is not apparent from that article that the devices referred to in its third and fourth indents have to be conceived for medical purposes in order to fall within the scope of Directive 93/42. The referring court therefore has doubts as to whether the medical purpose constitutes an implied condition of the concept of ‘medical device’ within the meaning of the directive.
+In those circumstances, the Bundesgerichtshof decided to stay the proceedings and refer the following question to the Court for a preliminary ruling:
+‘Does a product which is intended by the manufacturer to be applied for human beings for the purpose of investigation of a physiological process constitute a medical device, within the terms of the third indent of Article 1(2)(a) of Directive 93/42/EEC, only in the case where it is intended for a medical purpose?’
+Consideration of the question referred for a preliminary ruling
+By its question, the referring court asks essentially whether the third indent of Article 1(2)(a) of Directive 93/must be interpreted as meaning that the concept of ‘medical device’ covers an object conceived by its manufacturer to be used for human beings for the purposes of investigating a physiological process without being intended for a medical purpose.
+As far as concerns the wording of the third indent of Article 1(2)(a) of Directive 93/42, it must be held that, in the expression ‘investigation of a physiological process’, a medical purpose is not apparent, unlike in the first and second indents of that provision, where, in particular, the words ‘disease’, ‘injury’, ‘handicap’ and ‘treatment’ refer to such a purpose.
+Nevertheless, according to the Court’s settled case‑law, in interpreting a provision of European Union law, it is necessary to consider not only its wording but also the context in which it occurs and the objectives pursued by the rules of which it is part (Case C-433/Yaesu Europe [2009] ECR I-11487, paragraph 24, and Case C‑112/ebookers.com Deutschland [2012] ECR, paragraph 12).
+In the first place, as regards the context of the third indent of Article 1(2)(a) of Directive 93/42, it must be stated that, according to its title, that directive concerns ‘medical’ devices.
+It must also be observed that according to recital in the preamble to that directive the latter was adopted in order to harmonise national provisions for the safety and health protection of patients, users and, as the case may be, other persons with regard to the use of medical devices.
+Next, it must be stated that the wording of Article 1(2)(a) of Directive 93/was amended by Article of Directive 2007/47, recital of which states that a software in its own right is a medical device when specifically intended by the manufacturer to be used for one or more of the medical purposes set out in the definition of a medical device. That recital adds that software for general purposes when used in a healthcare setting is not a medical device.
+As regards software, the legislature thus made unequivocally clear that in order for it to fall within the scope of Directive 93/it is not sufficient that it be used in a medical context, but that it is also necessary that the intended purpose, defined by the manufacturer, is specifically medical.
+Although that amendment only concerns a single type of product, namely software, that definition in the legislation militates in favour of an interpretation of the third indent of Article 1(2)(a) of Directive 93/according to which a device used in humans for the investigation of a physiological process falls within the scope of Directive 93/only if the intended purpose of that device, defined by its manufacturer, is medical.
+Furthermore, nothing in Directives 93/and 2007/indicates that the legislature intended that a wider scope should apply for ‘non-software devices’ than for ‘software’.
+Finally, it must be observed that, under the fourth indent of Article 1(2)(a) of Directive 93/42, devices intended to be used upon humans for the purpose of controlling conception fall within the scope of that directive, regardless of whether or not they are intended for a medical use.
+It is apparent from recital in the preamble to Directive 93/that on account of the specific objectives linked to the fight against AIDS that the European Union legislature decided to include contraceptive devices in the scope of that directive so as to be able to ensure the effectiveness of the quality control of those devices.
+Although, in that recital, the legislature has indicated why Directive 93/was to be applied to the specific case of devices to control conception, it has not, however, provided such an explanation as regards devices for the investigation of a physiological process in the third indent of Article 1(2)(a) of Directive 93/42.
+It may be considered that the silence by the European Union legislature on that point is explained by the fact that medical use is inherent in the devices concerned.
+That analysis is supported by Commission guidelines (Meddev 2.1/1) published in April 1994, which seek a uniform application of the provisions of Directive 93/within the European Union. That document contains Section I, entitled ‘Field of Applications – Definitions’ containing Chapter I, entitled ‘Directive 93/42/EEC on medical devices. Point I.1.1(b) in that chapter expressly states that medical devices are intended to be used for a medical purpose.
+In the second place, as far as concerns the objectives pursued by Directive 93/42, it is clear from recital in the preamble thereto that medical devices must provide patients, users and third parties with a high level of protection and attain the performance levels attributed to them by the manufacturer and that, therefore, the maintenance or improvement of the level of protection attained in the Member States is one of the essential objectives of that directive.
+The legislature’s other main objective is the implementation of the conditions for an internal market in medical devices by the free movement of such devices in the European Union, as demonstrated by the eighth subparagraph of point I of the explanatory memorandum of the proposal for the Council directive on medical devices (COM (91) final – SYN 353) submitted by the Commission on August 1991, and recitals and in the preamble to Directive 93/42. According to recital 2, in particular, the differences between national rules concerning safety, health protection and performance characteristics of medical devices, on the one hand, and the disparities between the certification and inspection procedures for such devices, on the other, constitute barriers to trade within the European Union.
+As the Advocate General states in point of his Opinion, in the field of medical devices account must be taken not only of the protection of health, but also of the requirements of the free movement of goods.
+In such circumstances Directive 93/must reconcile the free movement of medical devices with the protection of patients’ health (see, to that effect, Case C-6/Medipac-Kazantzidis [2007] ECR I-4557, paragraph 52).
+It follows that Directive 93/may have the effect of limiting the free movement of medical devices, by providing for an obligation for certification and CE marking in respect of those products only where such a limitation is necessary for the protection of public health.
+Therefore, in situations in which a product is not conceived by its manufacturer to be used for medical purposes, its certification as a medical device cannot be required.
+That is the case, in particular, of many sports goods which enable the functioning of certain organs in the human body to be measured without any medical use. If such articles were to be classified as medical devices, they would be subject to a certification procedure without any justification for that requirement.
+Accordingly, in interpreting the concept in Article 1(2)(a) of Directive 93/42, on account of the context of that provision and the objectives of that directive, medical use must be regarded as inherent in that concept.
+Having regard to the foregoing, the answer to the question referred is that the third indent of Article 1(2)(a) of Directive 93/must be interpreted as meaning that the concept of ‘medical device’ covers an object conceived by its manufacturer to be used for human beings for the purpose of the investigation of a physiological process only if it is intended for a medical purpose.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+The third indent of Article 1(2)(a) of Council Directive 93/42/EEC of June concerning medical devices, as amended by Directive 2007/47/EC of the European Parliament and of the Council of September 2007, must be interpreted as meaning that the concept of ‘medical device’ covers an object conceived by its manufacturer to be used for human beings for the purpose of investigation of a physiological process only if it is intended for a medical purpose.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

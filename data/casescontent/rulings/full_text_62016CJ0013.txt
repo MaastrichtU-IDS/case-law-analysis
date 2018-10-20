@@ -1,0 +1,126 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+May (
+*)
+‛Reference for a preliminary ruling — Directive 95/46/EC — Article 7(f) — Personal data — Conditions for the lawful processing of personal data — Concept of ‘necessity for the realisation of the legitimate interests of a third party’ — Request for disclosure of personal data of a person responsible for a road accident in order to exercise a legal claim — Obligation on the controller to grant such a request — No such obligation’
+In Case C‑13/16,
+REQUEST for a preliminary ruling under Article TFEU from the Augstākās tiesas, Administratīvo lietu departaments (Supreme Court, Administrative Division, Latvia), made by decision of December 2015, received at the Court on January 2016, in the proceedings
+Valsts policijas Rīgas reģiona pārvaldes Kārtības policijas pārvalde
+v
+Rīgas pašvaldības SIA ‘Rīgas satiksme’,
+THE COURT (Second Chamber),
+composed of M. Ilešič, President of the Chamber, A. Prechal, A. Rosas (Rapporteur), C. Toader and E. Jarašiūnas, Judges,
+Advocate General : M. Bobek,
+Registrar: M. Aleksejev, Administrator,
+having regard to the written procedure and further to the hearing on November 2016,
+after considering the observations submitted on behalf of:
+—
+Rīgas pašvaldības SIA ‘Rīgas satiksme’ by L. Bemhens, acting as Agent,
+—
+the Latvian Government, by I. Kalniņš and by A. Bogdanova, acting as Agents,
+—
+the Czech Government, by J. Vláčil and M. Smolek, acting as Agents,
+—
+the Spanish Government, by M.J. García-Valdecasas Dorrego, acting as Agent,
+—
+the Austrian Government, by G. Eberhard, acting as Agent,
+—
+the Portuguese Government, by L. Inez Fernandes and M. Figueiredo and by C. Vieira Guerra, acting as Agents,
+—
+the European Commission, by D. Nardi and H. Kranenborg and by I. Rubene, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on January 2017,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 7(f) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31).
+The request has been made in proceedings between Valsts policijas Rīgas reģiona pārvaldes Kārtības policijas pārvalde (Office responsible for road traffic administrative infringements of the Security Police of the Region of Riga, Latvia) (‘the national police’) and Rīgas pašvaldības SIA ‘Rīgas satiksme’ (‘Rīgas satiksme’), a trolleybus company in the city of Riga, relating to a request for disclosure of data identifying the perpetrator of an accident.
+Legal context
+EU law
+Article of Directive 95/46, entitled ‘Object of the Directive’, provides:
+‘1.   In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.
+2.   Member States shall neither restrict nor prohibit the free flow of personal data between Member States for reasons connected with the protection afforded under paragraph 1.’
+Article of that directive provides:
+‘For the purpose of this Directive:
+(a)
+“personal data” shall mean any information relating to an identified or identifiable natural person (“data subject”); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
+(b)
+“processing of personal data” (“processing”) shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction;
+…
+(d)
+“controller” shall mean the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data; where the purposes and means of processing are determined by national or Community laws or regulations, the controller or the specific criteria for his nomination may be designated by national or Community law;
+…’
+Article of Directive 95/states:
+‘Member States shall, within the limits of the provisions of this Chapter, determine more precisely the conditions under which the processing of personal data is lawful.’
+In Section II, entitled ‘Criteria for making data processing legitimate’, of Chapter II of Directive 95/46, Article provides:
+‘Member States shall provide that personal data may be processed only if:
+(a)
+the data subject has unambiguously given his consent; or
+(b)
+processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract; or
+(c)
+processing is necessary for compliance with a legal obligation to which the controller is subject; or
+(d)
+processing is necessary in order to protect the vital interests of the data subject; or
+(e)
+processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed; or
+(f)
+processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection under Article 1(1).’
+Article 8(2)(e) of Directive 95/provides that the prohibition on the processing of certain types of personal data, such as that revealing racial origin or political opinions, is not to apply where the processing relates to data which is manifestly made public by the data subject or is necessary for the establishment, exercise or defence of legal claims.
+Latvian law
+Article of the Fizisko personu datu aizsardzības likums (Law on the protection of personal data), of March (Latvijas Vēstnesis, 2000, No 123/124), provides:
+‘Everyone has the right to the protection of personal data concerning him or her.’
+Article of that law, which seeks to transpose Article of Directive 95/46, provides that the processing of personal data is to be authorised only if that law does not provide otherwise and if at least one of the following requirements is met:
+‘(1)
+the data subject has given his consent;
+(2)
+processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;
+(3)
+processing is necessary for compliance with a legal obligation to which the controller is subject;
+(4)
+processing is necessary in order to protect the vital interests of the data subject, including his life and health;
+(5)
+processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed;
+(6)
+processing is necessary for the purposes of the legitimate interests pursued by the data controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subject.’
+Article of that Law provides that personal data relating to criminal offenses, criminal and administrative convictions, as well as judicial decisions or judicial case files, may be processed only by persons provided for by law and in the cases provided for by law.
+According to Article of the Latvijas Administratīvo pārkāpumu kodekss (Latvian Administrative Infringements Code), a person who has suffered harm caused by an infringement may be given the status of victim in the context of administrative proceedings leading to sanctions, by the body or official who is authorised to examine the case. That provision provides for the rights of victims, including the right to consult the case file and to use his procedural rights to obtain compensation.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+In December a road accident occurred in Riga. A taxi driver had stopped his vehicle at the side of the road. As a trolleybus of Rīgas satiksme was passing alongside the taxi, a passenger sitting in the back seat of that taxi opened the door, which scraped against and damaged the trolleybus. Administrative proceedings leading to sanctions were initiated and a report was drawn up finding an administrative offence.
+As the taxi driver was initially held responsible for that accident, Rīgas satiksme sought compensation from the insurance company covering the civil liability of the owner and lawful user of the taxi. However, that insurance company informed Rīgas satiksme that it would not pay Rīgas satiksme any compensation on the basis that the accident had occurred due to the conduct of the passenger in that taxi, rather than the driver. It stated that Rīgas satiksme could bring civil proceedings against that passenger.
+Rīgas satiksme then applied to the national police asking it to provide information concerning the person on whom an administrative penalty had been imposed following the accident, to provide copies of the statements given by the taxi driver and the passenger on the circumstances of the accident, and to indicate the first name and surname, identity document number, and address of the taxi passenger. Rīgas satiksme indicated to the national police that the information requested would be used only for the purpose of bringing civil proceedings.
+The national police responded by granting Rīgas satiksme’s request in part, namely by providing the first name and surname of the taxi passenger but refusing to provide the identity document number and address of that person. Nor did it send Rīgas satiksme the statements given by the persons involved in the accident.
+The decision of the national police was based on the fact that documents in the case file in administrative proceedings leading to sanctions may be provided only to the parties to those proceedings. Rīgas satiksme is not a party to the case at issue. Under the Latvian Administrative Infringements Code, a person may at his express request be given the status of victim in administrative proceedings leading to sanctions by the body or official responsible for examining the case. In the present case Rīgas satiksme did not exercise that right.
+Rīgas satiksme brought an administrative law action before the administratīvā rajona tiesa (District Administrative Court, Latvia) against the decision of the national police in so far as it refused to reveal the identity document number and address of the passenger involved in the accident. By judgment of May 2014, that court upheld the action brought by Rīgas satiksme and ordered the national police to provide the information relating to the identity document number and place of residence of that passenger.
+The national police brought an appeal in cassation before the referring court. That court sought an opinion from the Datu valsts inspekcija (National Data Protection Agency, Latvia) the Data Protection Agency which stated, in its response of October 2015, that Article 7(6) of the Law on the Protection of Personal Data could not be used as a legal basis to provide personal data in the case in the main proceedings as the Latvian Administrative Infringements Code sets out the persons to which the national police may disclose the information relating to a case. Consequently, according to the National Data Protection Agency, the disclosure of personal data relating to administrative proceedings leading to sanctions may be carried out only in accordance with paragraphs and of that article in the situations laid down by the law. Article of the law does not oblige the data controller, in this case, the national police, to process the data, but simply permits it.
+The National Data Protection Agency also indicated that Rīgas satiksme had two other means of obtaining that information. It could either submit a reasoned request to the Civil Registry or apply to the courts pursuant to Articles to of the Latvian Law on Civil Procedure for the production of evidence, in order for the court in question to request from the national police the personal data so that Rīgas satiksme would be able to bring proceedings against the person concerned.
+The referring court has doubts regarding the effectiveness of the means of obtaining the personal data referred to by the National Data Protection Agency. It states, in that regard, first, that if an application made to the Civil Registry mentions only the name of the taxi passenger, it may be that that passenger cannot be identified by his identity document number as the same surname and first name may be shared by several people. Second, the referring court takes the view that, in the light of the national law on the provision on evidence, in order to bring a civil action, the applicant would have to know at least the place of residence of the defendant.
+In that regard, the referring court is of the opinion that there are doubts as to the interpretation of the concept of ‘necessity’ referred to in Article 7(f) of that directive.
+In those circumstances, the Augstākās tiesas Administratīvo lietu departaments (Supreme Court, Administrative Division, Latvia) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Must the phrase ‘is necessary for the purposes of the legitimate interests pursued by the … third party or parties to whom the data are disclosed’, in Article 7(f) of Directive 95/46/EC, be interpreted as meaning that the national police must disclose to Rīgas satiksme the personal data sought [by the latter] which are necessary in order for civil proceedings to be initiated?
+(2)
+Is the fact that, as the documents in the case file indicate, the taxi passenger whose data is sought by Rīgas satiksme was a minor at the time of the accident relevant to the answer to that question?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court asks whether Article 7(f) of Directive 95/must be interpreted as imposing the obligation to disclose personal data to a third party in order to enable him to bring an action for damages before a civil court for harm caused by the person concerned by the protection of that data, and if the fact that that person is a minor has a bearing on the interpretation of that provision.
+In the case in the main proceedings, it is common ground that the identity document number and the address of the taxi passenger, of which Rīgas satiksme requests communication, constitute information concerning an identified or identifiable natural person and, therefore, ‘personal data’ within the meaning of Article 2(a) of Directive 95/46. It is also common ground that the national police, to which that request was addressed, is responsible for processing that data and, in particular, for their possible communication within the meaning of Article 2(d) of that directive.
+In accordance with Article of Directive 95/46, it is for the Member States to specify, within the limits of the provisions of that directive, the conditions under which the processing of personal data is lawful. Article of that directive, which lays down the principles relating to the legitimacy of such processing, provides in that regard that ‘Member States shall provide that [it] may be processed only if’ one of the situations listed exhaustively by that provision exists. Under Article 7(f), such processing may be carried out where it is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection under Article 1(1) of Directive 95/46.
+It is accordingly clear from the scheme of Directive 95/and from the wording of Article thereof that Article 7(f) of Directive 95/does not, in itself, set out an obligation, but expresses the possibility of processing data such as the communication to a third party of data necessary for the purposes of the legitimate interests pursued by that third party. As the Advocate General stated in points to of his Opinion, such an interpretation may also be deduced from other EU instruments touching upon personal data (see, to that effect, as regards the processing of personal data in the electronic communications sector, judgment of January 2008, Promusicae, C‑275/06, EU:C:2008:54, paragraphs and 55).
+However, it should be pointed out that Article 7(f) of Directive 95/does not preclude such communication, in the event that it is made on the basis of national law, in accordance with the conditions laid down in that provision.
+In that regard, Article 7(f) of Directive 95/lays down three cumulative conditions so that the processing of personal data is lawful, namely, first, the pursuit of a legitimate interest by the data controller or by the third party or parties to whom the data are disclosed; second, the need to process personal data for the purposes of the legitimate interests pursued; and third, that the fundamental rights and freedoms of the person concerned by the data protection do not take precedence.
+As regards the condition relating to the pursuit of a legitimate interest, as the Advocate General stated in points 65, and of his Opinion, there is no doubt that the interest of a third party in obtaining the personal information of a person who damaged their property in order to sue that person for damages can be qualified as a legitimate interest (see, to that effect, judgment of January 2008, Promusicae, C‑275/06, EU:C:2008:54, paragraph 53). That analysis is supported by Article 8(2)(e) of Directive 95/46, which provides that the prohibition on the processing of certain types of personal data, such as those revealing racial origin or political opinions, is not to apply, in particular, where the processing is necessary for the establishment, exercise or defence of legal claims.
+As regards the condition relating to the necessity of processing personal data, it should be borne in mind that derogations and limitations in relation to the protection of personal data must apply only in so far as is strictly necessary (judgments of November 2010, Volker und Markus Schecke and Eifert, C‑92/and C‑93/09, EU:C:2010:662, paragraph 86; of November 2013, IPI, C‑473/12, EU:C:2013:715, paragraph 39; and of December 2014, Ryneš, C‑212/13, EU:C:2014:2428, paragraph 28). In that regard, according to the information provided by the national court, communication of merely the first name and surname of the person who caused the damage does not make it possible to identify that person with sufficient precision in order to be able to bring an action against him. Accordingly, for that purpose, it is necessary to obtain also the address and/or the identification number of that person.
+Finally, as regards the condition of balancing the opposing rights and interests at issue, it depends in principle on the specific circumstances of the particular case (see, to that effect, judgments of November 2011, Asociación Nacional de Establecimientos Financieros de Crédito, C‑468/and C‑469/10, EU:C:2011:777, paragraph 40, and of October 2016, Breyer, C‑582/14, EU:C:2016:779, paragraph 62).
+In that regard, the Court has held that it is possible to take into consideration the fact that the seriousness of the infringement of the data subject’s fundamental rights resulting from that processing can vary depending on the possibility of accessing the data at issue in public sources (see, to that effect, judgment of November 2011, Asociación Nacional de Establecimientos Financieros de Crédito, C‑468/and C‑469/10, EU:C:2011:777, paragraph 44).
+As regards the second part of the question referred for a preliminary ruling as set out in paragraph of the present judgment, it should be noted that the age of the data subject may be one of the factors which should be taken into account in the context of that balancing of interests. However, as the Advocate General pointed out in points to of his Opinion and subject to the determination to be carried out in that respect by the national court, it does not appear to be justified, in circumstances such as those at issue in the main proceedings, to refuse to disclose to an injured party the personal data necessary for bringing an action for damages against the person who caused the harm, or, where appropriate, the persons exercising parental authority, on the ground that the person who caused the damage was a minor.
+It follows from the foregoing considerations that Article 7(f) of Directive 95/must be interpreted as not imposing the obligation to disclose personal data to a third party in order to enable him to bring an action for damages before a civil court for harm caused by the person concerned by the protection of that data. However, Article 7(f) of that directive does not preclude such disclosure on the basis of national law.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article 7(f) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data must be interpreted as not imposing the obligation to disclose personal data to a third party in order to enable him to bring an action for damages before a civil court for harm caused by the person concerned by the protection of that data. However, Article 7(f) of that directive does not preclude such disclosure on the basis of national law.
+ 
+[Signatures]
+(
+*)	Language of the case: Latvian.
+Top  
+ 

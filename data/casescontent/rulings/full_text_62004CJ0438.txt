@@ -1,0 +1,354 @@
+
+Case C-438/Mobistar SA
+v
+Institut belge des services postaux et des télécommunications (IBPT)
+(Reference for a preliminary ruling from the Cour d’appel de Bruxelles)
+(Telecommunications sector – Universal service and users’ rights – Telephone number portability – Set-up costs for the provision of number portability for mobile phones – Article 30(2) of Directive 2002/22/EC (Universal Service Directive) – Pricing for interconnection related to the provision of number portability – Price orientation by reference to costs – Regulatory power of national regulatory authorities – Article 4(1) of Directive 2002/21/EC (Framework Directive) – Effective legal protection – Protection of confidential information)
+Opinion of Advocate General Stix-Hackl delivered on March Judgment of the Court (Second Chamber), July Summary of the Judgment
+1.     Approximation of laws – Telecommunications sector – Universal service and users’ rights – Directive 2002/(European Parliament and Council Directive 2002/22, Art. 30(2))
+2.     Approximation of laws – Telecommunications sector – Regulatory framework for electronic communications networks and services
+            – Directive 2002/(European Parliament and Council Directive 2002/21, Art. 4)
+1.     Pricing for interconnection related to the provision of number portability, as referred to in Article 30(2) of Directive 2002/on universal service and users’ rights relating to electronic communications networks and services, concerns the traffic costs
+         of numbers ported and the set-up costs incurred by mobile telephone operators to implement requests for number porting. 
+      
+Article 30(2) of Directive 2002/does not preclude the adoption of a national measure laying down the specific method to
+         be used in calculating costs and which fixes in advance and on the basis of an abstract model of the costs maximum prices
+         which may be charged by the donor operator to the recipient operator as set-up costs, provided that the prices are fixed on
+         the basis of the costs in such a way that consumers are not dissuaded from making use of the facility of portability. 
+      
+(see paras 30, 37, operative part 1-2)
+2.     Article of Directive 2002/on a common regulatory framework for electronic communications networks and services must be
+         interpreted as meaning that the body responsible for hearing an appeal against a decision of the national regulatory authority
+         must have at its disposal all the information necessary in order to decide on the merits of the appeal, including, if necessary,
+         confidential information which that authority has taken into account in reaching the decision which is the subject of the
+         appeal.  However, that body must guarantee the confidentiality of the information in question whilst complying with the requirements
+         of effective legal protection and ensuring protection of the rights of defence of the parties to the dispute. 
+      
+(see para. 43, operative part 3)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+July (*)
+      
+(Telecommunications sector – Universal service and users’ rights – Telephone number portability – Set-up costs for the provision of number portability for mobile phones – Article 30(2) of Directive 2002/22/EC (Universal Service Directive) – Pricing for interconnection related to the provision of number portability – Price orientation by reference to costs – Regulatory power of national regulatory authorities – Article 4(1) of Directive 2002/21/EC (Framework Directive) – Effective legal protection – Protection of confidential information)
+In Case C-438/04,
+REFERENCE for a preliminary ruling under Article EC from the Cour d’appel de Bruxelles (Belgium), made by decision of
+         October 2004, received at the Court on October 2004, in the proceedings
+      
+Mobistar SA
+v
+Institut belge des services postaux et des télécommunications (IBPT),
+intervening parties:
+Belgacom Mobile SA,
+Base SA,
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of the Chamber, R. Schintgen, P. Kūris (Rapporteur), G. Arestis and J. Klučka, Judges,
+Advocate General: C. Stix-Hackl,
+Registrar: K. Sztranc, Administrator,
+having regard to the written procedure and further to the hearing on October 2005,
+after considering the observations submitted on behalf of:
+–       Mobistar SA, by F. Louis and A. Vallery, avocats,
+–       the Institut belge des services postaux et des télécommunications (IBPT), by S. Depré, C. Janssens and S. Adam, avocats, 
+–       Belgacom Mobile SA, by D. Van Liedekerke, avocat,
+–       Base SA, by A. Verheyden and Y. Desmedt, avocats,
+–       the Italian Government, by I.M. Braguglia, acting as Agent, and by  P. Gentili, avvocato dello Stato, 
+–       the Cypriot Government, by D. Lysandou, acting as Agent,
+–       the Lithuanian Government, by D. Kriaučiūnas, acting as Agent,
+–       the United Kingdom Government, by M. Bethell, acting as Agent, and by  K. Smith and G. Peretz, Barristers,
+–       the Commission of the European Communities, by D. Maidani and M. Shotter, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on March 2006,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Directive 2002/21/EC of the European Parliament and
+         of the Council of March on a common regulatory framework for electronic communications networks and services (Framework
+         Directive) (OJ L 108, p. 33; ‘the Framework Directive’) and Directive 2002/22/EC of the European Parliament and of the
+         Council of March on universal service and users’ rights relating to electronic communications networks and services
+         (Universal Service Directive) (OJ L 108, p. 51; ‘the Universal Service Directive’).
+      
+The reference was made in the context of a dispute between Mobistar SA (‘Mobistar’) and the Institut belge des services postaux
+         et des télécommunications (IBPT), a public law entity, concerning the latter’s decision of September fixing the set-up
+         costs payable by the receiving mobile telephone operator for number transfer or portability from one operator to another for
+         the period from October to October (‘the contested decision’). 
+      
+ Legal context
+ Community legislation
+Directive 97/33/EC of the European Parliament and of the Council of June on interconnection in telecommunications
+         with regard to ensuring universal service and interoperability through application of the principles of open network provision
+         (ONP) (OJ L 199, p. 32), as amended by Directive 98/61/EC of the European Parliament and of the Council of September
+         (OJ L 268, p. 37; ‘Directive 97/33’) was repealed by the Framework Directive with effect from July 2003.  Pursuant
+         to the first paragraph of Article 1, Directive 97/established a regulatory framework securing, in the European Community,
+         the interconnection of telecommunications networks and, in particular, the interoperability of services and the provision
+         of a universal service in an environment of open and competitive markets. 
+      
+Article 2(1)(a) of that directive defined the concept of ‘interconnection’ as being ‘the physical and logical linking of telecommunications
+         networks used by the same or a different organisation in order to allow the users of one organisation to communicate with
+         users of the same or another organisation or to access services provided by another organisation’. 
+      
+Article of Directive 97/laid down the principles for interconnection charges and governed the cost accounting systems
+         for interconnection.  Annex IV to that directive contained a ‘list of examples of elements for interconnection charges’. 
+         That annex stated, inter alia, that ‘interconnection charges may include a fair share, according to the principle of proportionality,
+         of joint and common costs and the costs incurred in providing equal access, and number portability, and the costs of ensuring
+         essential requirements (maintenance of the network integrity; network security in cases of emergency; interoperability of
+         services; and protection of data)’.
+      
+Article 12(5) of Directive 97/provided: 
+‘National regulatory authorities shall encourage the earliest possible introduction of operator number portability whereby
+         subscribers who so request can retain their number(s) on the fixed public telephone network and the integrated services digital
+         network (ISDN) independent of the organisation providing service, in the case of geographic numbers at a specific location
+         and in the case of other than geographic numbers at any location, and shall ensure that this facility is available by January
+         at the latest or, in those countries which have been granted an additional transition period, as soon as possible after,
+         but no later than two years after any later date agreed for full liberalisation of voice telephony services.
+      
+In order to ensure that charges to consumers are reasonable, national regulatory authorities shall ensure that pricing for
+         interconnection related to the provision of this facility is reasonable.’
+      
+A new legal framework was adopted for all networks and transmission services in the form of four directives, namely, in addition
+         to the Framework Directive and the Universal Service Directive, Directive 2002/19/EC of the European Parliament and of the
+         Council of March on access to, and interconnection of, electronic communications networks and associated facilities
+         (Access Directive) (OJ L 108, p. 7; ‘the Access Directive’) and Directive 2002/20/EC of the European Parliament and of
+         the Council of March on the authorisation of electronic communications networks and services (Authorisation Directive)
+         (OJ L 108, p. 21; ‘the Authorisation Directive’). 
+      
+Article of the Universal Service Directive provides that:
+‘1.      Member States shall ensure that all subscribers of publicly available telephone services, including mobile services, who so
+         request can retain their number(s) independently of the undertaking providing the service:
+      
+(a)      in the case of geographic numbers, at a specific location; and 
+(b)      in the case of non-geographic numbers, at any location. 
+This paragraph does not apply to the porting of numbers between networks providing services at a fixed location and mobile
+         networks. 
+      
+2.      National regulatory authorities shall ensure that pricing for interconnection related to the provision of number portability
+         is cost oriented and that direct charges to subscribers, if any, do not act as a disincentive for the use of these facilities.
+         
+      
+3.      National regulatory authorities shall not impose retail tariffs for the porting of numbers in a manner that would distort
+         competition, such as by setting specific or common retail tariffs.’ 
+      
+Article 4(1) of the Framework Directive provides:
+‘Member States shall ensure that effective mechanisms exist at national level under which any user or undertaking providing
+         electronic communications networks and/or services who is affected by a decision of a national regulatory authority has the
+         right of appeal against the decision to an appeal body that is independent of the parties involved.  This body, which may
+         be a court, shall have the appropriate expertise available to it to enable it to carry out its functions.  Member States shall
+         ensure that the merits of the case are duly taken into account and that there is an effective appeal mechanism.  Pending the
+         outcome of any such appeal, the decision of the national regulatory authority shall stand, unless the appeal body decides
+         otherwise.’
+      
+ National legislation
+By the contested decision, taken in application of the Belgian Law of January on the statute of the regulator of the
+         Belgian postal and telecommunications sectors (Moniteur belge, January 2003; ‘the Law of January 2003’) and of the Royal Decree of September on portability for end-users
+         of publicly available mobile telecommunications services (Moniteur belge, October 2002; ‘the Royal Decree of September 2002’), the IBPT, the national regulatory authority within the meaning
+         of Article 2(g) of the Framework Directive, fixed the set-up cost per mobile number successfully ported from one operator
+         to another at EUR 3.for a simple installation and EUR 23.for a complex installation for the period from October to October 2005.  In accordance with Article of the above Royal Decree, that cost was fixed on the basis of ‘the theoretical
+         costs of an efficient mobile operator’.  It follows from paragraph of the contested decision that the reference operator
+         is not necessarily the one whose costs are lowest but the one which is to be considered as competitive within the group of
+         comparable environments.  To reach the contested decision, the IBPT took into account information produced by Mobistar, Belgacom
+         Mobile SA (‘Belgacom Mobile’) and Base SA (‘Base’), which are the three mobile telephone operators active in Belgium.  , the IBPT,  
+      
+The Royal Decree of September includes, inter alia, provisions governing the attribution of costs incurred by operators
+         in connection with mobile number portability.  It draws a distinction between four types of costs: costs generated by the
+         setting-up of portability, per-line or per-number set-up costs (‘set-up costs’), costs connected with the central reference
+         databank, and traffic costs connected with number portability (‘traffic costs’). 
+      
+Set-up costs are defined in Article of the Royal Decree as ‘the non-recurrent additional cost generated as a consequence
+         of the porting of one or more mobile numbers, in addition to the costs connected with the transfer of clients without number
+         portability to another mobile operator or service provider or in order to terminate the provision of the service’. 
+      
+In accordance with Article of that Royal Decree, ‘the per-line or per-number set-up costs … shall be fixed by the [IBPT]
+         on the basis of the theoretical costs of an efficient mobile operator.  The amounts fixed by the [IBPT] to cover the per-line
+         or per-number set-up costs … shall be cost oriented’.
+      
+According to the decision for reference, these refer only to the costs incurred by the mobile operator from which a mobile
+         number is ported (‘the donor operator’).  The donor operator may charge the mobile operator to which the mobile number is
+         ported (‘the recipient operator’) set-up costs in the amount set by the IBPT.  That amount is a maximum amount and mobile
+         operators are permitted to negotiate a lower amount with one another.  However, a donor operator may, in principle, demand
+         the amount fixed by the IBPT even where its actual set-up costs are lower.
+      
+Under Article of the Royal Decree of September 2002, the donor operator may not demand payment from an end-user who
+         has his number ported.  However, the recipient operator is entitled to demand a payment of no more than EUR from that end-user
+         for the porting of the number.
+      
+Finally, under Article of that Royal Decree, traffic costs are ‘the additional costs generated on the network by calls
+         to ported numbers as compared with calls to non-ported numbers’.  Those costs are to be reimbursed to the donor operator on
+         a pro rata basis by the operator of the network from which the call is generated and which charges the end-user for the call.
+      
+ The main proceedings and the questions referred for a preliminary ruling
+Mobistar brought an action against the contested decision before the Cour d’appel de Bruxelles (Court of Appeal, Brussels),
+         claiming that the costs fixed by that decision are too high.  Mobistar brought that action against the IBPT, Belgacom Mobile
+         and Base.  Unlike Mobistar, Belgacom Mobile takes the view that those costs are not high enough, whilst Base, which supports
+         Mobistar’s claim, alleges that the Royal Decree of September 2002, and therefore also the contested decision of which it
+         forms the basis, is unlawful, claiming in particular failure to comply with Article 30(2) of the Universal Service Directive.
+      
+The Cour d’appel de Bruxelles found that the contested decision was to be regarded as having the effects of a measure by which
+         a common maximum price is imposed for porting a number, a price which may thus only be varied downwards and with the agreement
+         of the donor operator, and that the merits of the action depended on the answers to various questions concerning the lawfulness
+         of the Royal Decree of September which constituted the legal basis of that decision.
+      
+In those circumstances, the Cour d’appel de Bruxelles decided to stay the proceedings and refer the following questions to
+         the Court of Justice for a preliminary ruling: 
+      
+‘(1)      With regard to the number portability facility provided for in Article of [the Universal Service Directive]:
+(a)      Does Article 30(2) of the Universal Service Directive, which provides that national regulatory authorities are to ensure that
+         pricing for interconnection related to the provision of number portability is cost oriented, refer only to costs related to
+         traffic to the ported number, or does it also refer to tariffs of costs incurred by operators in executing requests for number
+         porting?
+      
+(b)      If Article 30(2) of the directive refers only to interconnection costs related to traffic to the ported number, must it be
+         interpreted:
+      
+(i)      as leaving operators free to negotiate the commercial conditions for the facility and as prohibiting Member States from imposing
+         ex ante commercial conditions on undertakings obliged to provide the number portability facility in respect of the services
+         provided in relation to the execution of a request for porting? 
+      
+(ii)      as not prohibiting Member States from imposing ex ante commercial conditions in respect of that facility on operators which
+         have been designated as having significant market power in a particular market?
+      
+(c)      If Article 30(2) of the directive must be interpreted as imposing on all operators the obligation of cost orientation in respect
+         of the costs of number porting, must it be interpreted as precluding:
+      
+(i)      a national regulatory measure imposing a specific method of calculating the costs in question?
+(ii)      a national measure which fixes ex ante the allocation of the costs between the operators?
+(iii) a national measure which empowers the national regulatory authority to fix ex ante for all operators and for a given period
+         the maximum amount of the charges which the donor operator may claim from the recipient operator? 
+      
+(iv)      a national measure which grants to the donor operator the right to apply the tariff set by the national regulatory authority,
+         relieving that operator of the obligation to prove that the tariff which it applies is oriented to its own costs?
+      
+(2)      With regard to the right of appeal provided for by Article of [the Framework Directive]:
+Must Article 4(1) of the Framework Directive be interpreted as meaning that the authority designated to hear and determine
+         appeals must be able to have at its disposal all the information necessary for the merits of the case to be duly taken into
+         account, including the confidential information on the basis of which the national regulatory authority adopted the decision
+         which is the subject-matter of the appeal?’ 
+      
+ The questions
+ The first question
+ The first part of the first question
+By the first part of the first question, the referring court essentially asks whether pricing for interconnection related
+         to the provision of number portability, as referred to in Article 30(2) of the Universal Service Directive, concerns the set-up
+         costs in addition to the traffic costs.
+      
+Mobistar and Belgacom Mobile, together with the IBPT, the Commission of the European Communities and the Cypriot and Lithuanian
+         Governments, submit that the provisions of Article 30(2) relate only to the costs connected with traffic to the number ported
+         and not to the costs incurred in implementing a request for porting of numbers between mobile operators. 
+      
+However, Base and the Italian and United Kingdom Governments take the view that the pricing for interconnection referred to
+         in that article includes all services linked to the implementation of number portability for which the operators are entitled
+         to seek payment.
+      
+Firstly, it must be stated that the concept of number portability covers the facility available to a mobile telephone subscriber
+         to retain the same number when changing operator.
+      
+The implementation of that facility requires the platforms between operators to be compatible, the subscriber’s number to
+         be ported from one operator to another and technical operations to allow the forwarding of telephone calls to the ported number.
+         
+      
+Number portability is intended to remove the obstacles to consumers’ freedom of choice particularly between mobile telephone
+         operators and thus to ensure development of effective competition on the telephone services market.
+      
+With a view to achieving those aims, the Community legislature provided, in Article 30(2) of the Universal Service Directive,
+         that national regulatory authorities are to ensure that pricing for interconnection related to the provision of number portability
+         is cost oriented and that direct charges to subscribers, if any, do not act as a disincentive for the use of these facilities.
+      
+The interpretation according to which the set-up costs are not covered by that provision would be contrary to the aim and
+         purpose of the Universal Service Directive and might limit its effectiveness from the point of view of the provision of portability.
+         
+      
+The set-up costs represent a large part of the costs which may be passed on directly or indirectly by the recipient operator
+         to the subscriber who wishes to make use of the portability facility for his mobile number.
+      
+Although such costs do not fall within the scope of the checks laid down in Article 30(2) of the Universal Service Directive,
+         their fixing at excessive levels by donor operators, in particular those already established on the market which have a large
+         client base, might dissuade consumers from making use of that facility, or even make it in fact largely illusory.
+      
+The answer to the first part of the first question must therefore be that pricing for interconnection related to the provision
+         of number portability, as referred to in Article 30(2) of the Universal Service Directive, concerns the traffic costs of numbers
+         ported and the set-up costs incurred by mobile telephone operators to implement requests for number porting.
+      
+ The second and third parts of the first question
+In view of the answer given to the first part of the first question, it is necessary to answer only the third part of that
+         question.
+      
+By this part of the first question, the referring court asks essentially whether the national regulatory authorities are permitted
+         to fix ex ante maximum prices in respect of all mobile telephone operators on the basis of an abstract model of the costs.
+      
+At the outset, it should be noted that Article 30(2) of the Universal Service Directive requires the national regulatory authorities
+         to ensure that the operators set the prices on the basis of their costs and, furthermore, that the prices do not dissuade
+         consumers.
+      
+Once it is established that prices are fixed on the basis of costs, that provision confers a certain discretion on the national
+         authorities to assess the situation and define the method which appears to them to be the most suitable to make portability
+         fully effective, in a manner which ensures that consumers are not dissuaded from making use of that facility. 
+      
+Clearly, the limits of that discretion have not been exceeded in the present case by the national regulatory authorities.
+         A method consisting in defining a maximum price, such as that chosen by the Belgian authorities, may be considered compatible
+         with Article 30(2) of the Universal Service Directive, provided that it is genuinely possible for new operators to contest
+         the application of maximum prices by operators already present in the market by showing that those prices are too high in
+         relation to their cost structure.
+      
+Thus, it follows from the foregoing that, in principle, the Universal Service Directive does not preclude the competent national
+         authorities from fixing ex ante maximum prices in respect of all mobile telephone operators on the basis of an abstract model
+         of the costs.
+      
+In the light of all those considerations, the answer to the third part of the first question must be that Article 30(2) of
+         the Universal Service Directive does not preclude the adoption of a national measure such as that at issue in the main proceedings
+         which fixes in advance and on the basis of an abstract model of the costs maximum prices which may be charged by the donor
+         operator to the recipient operator as set-up costs, provided that the prices are fixed on the basis of the costs in such a
+         way that consumers are not dissuaded from making use of the facility of portability. 
+      
+ The second question
+By its second question, the referring court is seeking to ascertain whether under Article of the Framework Directive an
+         independent body covered by that provision, such as the referring court, must have at its disposal all the information necessary
+         to examine the merits of an appeal before it, including information which is confidential under the applicable legislation
+         on business confidentiality.
+      
+According to the decision for reference, the IBPT is relying on the duty of confidentiality imposed on it by its statute as
+         defined by the Law of January 2003. 
+      
+In that regard, it is appropriate to note that the body responsible for hearing an appeal against a decision of the national
+         regulatory authority in accordance with Article of the Framework Directive must be able to have at its disposal all the
+         information necessary in order to decide in full knowledge of the facts on the merits of the appeal, including information
+         that is subject to confidentiality.  However, the protection of such information and business confidentiality must be guaranteed
+         and must be adjusted to reconcile it with the requirements of effective legal protection and the rights of defence of the
+         parties to the dispute. 
+      
+Article 4(1) of the Framework Directive provides expressly that the right of appeal against the decision of a national regulatory
+         authority which may be exercised by any user or service provider affected by it must be based on an effective appeal mechanism
+         which permits the merits of the case duly to be taken into account. 
+      
+Furthermore, Article 5(3) of that directive provides that, in the context of exchanges of information between the national
+         regulatory authorities and the Commission, information considered confidential by those authorities may be communicated to
+         the Commission which is, however, to guarantee such confidentiality. 
+      
+Accordingly, the answer to the second question must be that Article of the Framework Directive must be interpreted as meaning
+         that the body responsible for hearing an appeal against a decision of the national regulatory authority must have at its disposal
+         all the information necessary in order to decide on the merits of the appeal, including, if necessary, confidential information
+         which that authority has taken into account in reaching the decision which is the subject of the appeal.  However, that body
+         must guarantee the confidentiality of the information in question whilst complying with the requirements of effective legal
+         protection and ensuring protection of the rights of defence of the parties to the dispute.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+1.      Pricing for interconnection related to the provision of number portability, as referred to in Article 30(2) of Directive 2002/22/EC
+            of the European Parliament and of the Council of March on universal service and users’ rights relating to electronic
+            communications networks and services (Universal Service Directive), concerns the traffic costs of numbers ported and the set-up
+            costs incurred by mobile telephone operators to implement requests for number porting.
+2.      Article 30(2) of Directive 2002/does not preclude the adoption of a national measure laying down the specific method to
+            be used in calculating costs and which fixes in advance and on the basis of an abstract model of the costs maximum prices
+            which may be charged by the donor operator to the recipient operator as set-up costs, provided that the prices are fixed on
+            the basis of the costs in such a way that consumers are not dissuaded from making use of the facility of portability. 
+3.      Article of Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory framework
+            for electronic communications networks and services (Framework Directive) must be interpreted as meaning that the body responsible
+            for hearing an appeal against a decision of the national regulatory authority must have at its disposal all the information
+            necessary in order to decide on the merits of the appeal, including, if necessary, confidential information which that authority
+            has taken into account in reaching the decision which is the subject of the appeal.  However, that body must guarantee the
+            confidentiality of the information in question whilst complying with the requirements of effective legal protection and ensuring
+            protection of the rights of defence of the parties to the dispute. 
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

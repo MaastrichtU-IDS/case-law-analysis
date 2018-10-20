@@ -1,0 +1,409 @@
+
+         				Arrêt de la Cour
+         			
+      
+Case C-350/Commission of the European Communities
+v
+Kingdom of the Netherlands
+(Failure of a Member State to fulfil obligations – Processing of personal data and the protection of privacy in the electronic communications sector – Articles and of Directive 97/66/EC – Requirement for specific statement of grounds of complaint in the reasoned opinion)
+Summary of the Judgment
+1.        Actions for failure to fulfil obligations – Pre-litigation procedure – Delimitation of the subject-matter of the dispute –
+            Reasoned opinion – Detailed statement of grounds of complaint – Ground of complaint alleged in the application which, although
+            set out in the letter of formal notice, was not set out in the reasoned opinion – Not permissible
+(Art. EC)
+2.        Actions for failure to fulfil obligations – Examination of the merits by the Court – Situation to be taken into consideration
+            – Situation on expiry of the period laid down in the reasoned opinion
+(Art. CE)
+1.        In an action for failure to fulfil obligations, whilst the letter of formal notice which comprises an initial succinct résumé
+         of the alleged infringement, may be useful in construing the reasoned opinion, the Commission is none the less obliged to
+         specify precisely in that opinion the grounds of complaint which it already raised more generally in the letter of formal
+         notice and alleges against the Member State concerned, after taking cognisance of any observations submitted by it under the
+         first paragraph of Article EC. That requirement is essential in order to delimit the subject-matter of the dispute prior
+         to any initiation of the contentious procedure provided for in the second paragraph of Article EC and in order to ensure
+         that the Member State in question is accurately apprised of the grounds of complaint maintained against it by the Commission
+         and can thus bring an end to the alleged infringements or put forward its arguments in defence prior to any application to
+         the Court by the Commission.
+      
+Therefore, a ground of complaint alleged in the Commission’s application which was set out in the letter of formal notice
+         but was not set out in the reasoned opinion must be regarded as irregular.
+      
+(see paras 21, 28)
+2.        In the context of an action under Article EC, the question whether a Member State has failed to fulfil its obligations
+         must be determined as at the end of the period laid down in the reasoned opinion.
+      
+(see para. 31)
+  
+JUDGMENT OF THE COURT (First Chamber)June 2004(1)
+(Failure of a Member State to fulfil its obligations  –  Processing of personal data and the protection of privacy in the electronic communications sector  –  Articles and of Directive 97/66/EC  –  Requirement for specific statement of grounds of complaint in the reasoned opinion)
+ In Case C-350/02,
+            
+Commission of the European Communities,  represented by M. Shotter and W. Wils, acting as Agents, with an address for service in Luxembourg,
+            
+applicant,
+v
+Kingdom of the Netherlands, represented by  S. Terstal, acting as Agent,
+            
+defendant,
+ APPLICATION for a declaration that, by failing to adopt all the laws, regulations and administrative provisions necessary
+            to transpose into national law Articles and of Directive 97/66/EC of the European Parliament and of the Council of December concerning the processing of personal data and the protection of privacy in the telecommunications sector (OJ
+            L 24, p. 1) or, at least, by not communicating those provisions to the Commission, the Kingdom of the Netherlands has
+            failed to fulfil its obligations under the EC Treaty,
+            
+THE COURT (First Chamber),,
+ composed of:  P. Jann, President of the Chamber, A. La Pergola, S. von Bahr, R. Silva de Lapuerta and K. Lenaerts (Rapporteur),
+            Judges, 
+            
+ Advocate General: J. Kokott,Registrar:  M.-F. Contet, Principal Administrator,
+            
+ after hearing oral argument from the parties at the hearing on November at which the Commission was represented by
+            W. Wils, assisted by P. Gerard, expert, and the Kingdom of the Netherlands, by C. Wissels, acting as Agent, assisted by R.J.I.
+            Dielemans, expert,
+            
+after hearing the Opinion of the Advocate General at the sitting on January 2004,
+gives the following
+Judgment
+            
+ By application lodged at the Court Registry on October 2002, the Commission of the European Communities brought an action
+         under Article EC for a declaration that, by failing to adopt all the laws, regulations and administrative provisions necessary
+         to transpose into national law Articles and of Directive 97/66/EC of the European Parliament and of the Council of December concerning the processing of personal data and the protection of privacy in the telecommunications sector (OJ
+         L 24, p. 1) or, at least, by not communicating those provisions to the Commission, the Kingdom of the Netherlands has
+         failed to fulfil its obligations under the EC Treaty.
+         
+Legal framework
+Community provisions
+            
+ Under Article 1(1) thereof, Directive 97/66, which was in force at the material time, provided for ‘the harmonisation of the
+         provisions of the Member States required to ensure an equivalent level of protection of fundamental rights and freedoms, and
+         in particular the right to privacy, with respect to the processing of personal data in the telecommunications sector and to
+         ensure the free movement of such data and of telecommunications equipment and services in the Community’.
+         
+            
+ Article of Directive 97/provided:
+         ‘1.     Traffic data relating to subscribers and users processed to establish calls and stored by the provider of a public telecommunications
+         network and/or publicly available telecommunications service must be erased or made anonymous upon termination of the call
+         without prejudice to the provisions of paragraphs 2, and 4.
+          2.       For the purpose of subscriber billing and interconnection payments, data indicated in the Annex may be processed. Such processing
+         is permissible only up to the end of the period during which the bill may lawfully be challenged or payment may be pursued.
+          3.       For the purpose of marketing its own telecommunications services, the provider of a publicly available telecommunications
+         service may process the data referred to in paragraph 2, if the subscriber has given his consent.
+          4.       Processing of traffic and billing data must be restricted to persons acting under the authority of providers of the public
+         telecommunications networks and/or publicly available telecommunications services handling billing or traffic management,
+         customer enquiries, fraud detection and marketing the provider’s own telecommunications services and it must be restricted
+         to what is necessary for the purposes of such activities.
+          5.       Paragraphs 1, 2, and shall apply without prejudice to the possibility for competent authorities to be informed of billing
+         or traffic data in conformity with applicable legislation in view of settling disputes, in particular interconnection or billing
+         disputes.’
+         
+            
+ Article of Directive 97/was worded as follows:
+         ‘Member States shall ensure that there are transparent procedures governing the way in which a provider of a public telecommunications
+         network and/or a publicly available telecommunications service may override the elimination of the presentation of calling
+         line identification:
+         
+(a)
+on a temporary basis, upon application of a subscriber requesting the tracing of malicious or nuisance calls; in this case,
+               in accordance with national law, the data containing the identification of the calling subscriber will be stored and be made
+               available by the provider of a public telecommunications network and/or publicly available telecommunications service; 
+            
+(b)
+on a per-line basis for organisations dealing with emergency calls and recognised as such by a Member State, including law
+               enforcement agencies, ambulance services and fire brigades, for the purpose of answering such calls.’
+            
+            
+ The annex to Directive 97/stated:
+         ‘For the purpose referred to in Article 6(2) the following data may be processed:
+          Data containing the:
+         
+–
+number or identification of the subscriber station,
+–
+address of the subscriber and the type of station,
+–
+total number of units to be charged for the accounting period,
+–
+called subscriber number,
+–
+type, starting time and duration of the calls made and/or the data volume transmitted,
+–
+date of the call/service,
+–
+other information concerning payments such as advance payment, payments by instalments, disconnection and reminders.’
+            
+ Under the first subparagraph of Article 15(1) of Directive 97/the Member States were to bring into force the laws, regulations
+         and administrative provisions necessary for them to comply with this directive not later than October 1998. Under Article
+         15(4) thereof, the Member States were to communicate to the Commission the text of the provisions of national law adopted
+         by them in the field governed by the directive.
+         
+National provisions
+            
+ The Wet houdende regels inzake de telecommunicatie (law governing the telecommunications sector, hereinafter the ‘Telecommunicatiewet’),
+         promulgated on October (Staatsblad 1998, p. 610), contains a Chapter seeking to transpose Directive 97/66.
+         
+            
+ Article 11(5) of the Telecommunicatiewet, which concerns the transposition of Article of Directive 97/66, is worded as follows:
+         ‘1.     In order to safeguard personal and private data, providers of a public telecommunications network and providers of a public
+         telecommunications network shall ensure that, upon termination of a communication, traffic data processed concerning subscribers
+         and users, as may be determined by general administrative measure, are to be subject to erasure or anonymity.
+          2.       By way of exception to paragraph above, traffic data may be processed only if and in so far as is necessary:
+         
+(a)
+to calculate the bill of a subscriber or of the person who has undertaken in law to the provider to pay that bill, or for
+               the purpose of payments for interconnection or other forms of access;
+            
+(b)
+to enable the provider to undertake market research or to market its own telecommunications services, if the subscriber has
+               given his consent thereto;
+            
+(c)
+to examine disputes or determine them under Article 12(1) or to define the rules under Article 6(3),
+(d)
+to manage traffic,
+(e)
+to provide customers with traffic data provided such data relates to such customers,
+(f)
+to detect fraud; or
+(g)
+it is lawful by or under a law.
+ 3.       Measures implementing this article shall be adopted by general administrative measure. Such provisions may relate only to
+         data which may be processed in conjunction with traffic data, to the purposes for which processing may take place, to the
+         period within which processing is lawful, and to the persons who may be entrusted with processing.’
+         
+Pre-litigation procedure
+            
+ By letter of January the Kingdom of the Netherlands communicated to the Commission the text of the Telecommunicatiewet,
+         stating that it should be regarded as constituting the transposition into national law of Directive 97/66.
+         
+            
+ In accordance with Article EC, the Commission, taking the view that the Telecommunicatiewet did not correctly transpose
+         Articles 6, 9, and of Directive 97/66, put the Kingdom of the Netherlands on formal notice to submit its observations.
+         
+            
+ By letter of January the Netherlands Government replied to that letter of formal notice, stating in particular that
+         legislative measures were being drawn up which would fully satisfy its obligations under Directive 97/66.
+         
+            
+ On July the Commission sent the Kingdom of the Netherlands a reasoned opinion in which it submitted that, upon examination
+         of the national provisions at issue and the legislative measures being drawn up, it was of the view that the Netherlands had
+         failed to fulfil its obligations under Articles and of Directive 97/66. The Kingdom of the Netherlands was requested to
+         comply with that reasoned opinion within a period of two months of its notification.
+         
+            
+ The Kingdom of the Netherlands replied to the reasoned opinion by letter of October 2001. Since it was not satisfied by
+         that reply, the Commission decided to bring this action.
+         
+The actionAdmissibility
+            
+ In support of its application, the Commission raised four grounds of complaint concerning the Netherlands legislation transposing
+         directive 97/66. Three of them relate to Article of the directive and the fourth to Article thereof.
+         
+            
+ One of the grounds of complaint relating to Article of Directive 97/alleges the incorrect transposition in Article 11(5)(2)
+         of the Telecommunicatiewet of Article 6(2) to (5) of the directive. The Commission maintains that the provision of Netherlands
+         law is not in conformity with Directive 97/inasmuch as it provides for a greater number of derogations from the principle
+         laid down in Article 6(1) of the directive than are permitted under the terms thereof.
+         
+            
+ The Kingdom of the Netherlands argues that that ground of complaint was not mentioned in the reasoned opinion and is therefore
+         inadmissible.
+         
+            
+ At the hearing the Commission submitted that the reasoned opinion had to be read in the light of the letter of formal notice
+         which expressly mentioned the ground of complaint at issue.
+         
+            
+ In that regard it should be pointed out that in an action for failure to fulfil obligations the purpose of the pre-litigation
+         procedure is to give the Member State concerned an opportunity, on the one hand, to comply with its obligations under Community
+         law and, on the other, to avail itself of its right to defend itself against the charges formulated by the Commission (see,
+         in particular, Case 293/Commission v Belgium [1988] ECR 305, paragraph 13; Case C-96/Commission  v Germany [1997] ECR I-1653, paragraph 22; and Case C-439/Commission v Italy [2002] ECR I-305, paragraph 10).
+         
+            
+ The proper conduct of that procedure constitutes an essential guarantee required by the Treaty not only in order to protect
+         the rights of the Member State concerned, but also so as to ensure that any contentious procedure will have a clearly defined
+         dispute as its subject-matter (see Case C-1/Commission v France [2001] ECR I-9989, paragraph 53, and Case C-287/Commission v Germany [2002] ECR I-5811, paragraph 17).
+         
+            
+ It follows that the subject-matter of proceedings under Article EC is delimited by the pre-litigation procedure governed
+         by that provision. The Commission’s reasoned opinion and the application must be based on the same grounds and pleas, with
+         the result that the Court cannot examine a ground of complaint which was not formulated in the reasoned opinion (Case 76/Commission v Germany [1989] ECR 1021, paragraph 8), which for its part must contain a cogent and detailed exposition of the reasons which led
+         the Commission to the conclusion that the Member State concerned had failed to fulfil one of its obligations under the Treaty
+         (see, in particular, Commission v Italy, paragraph 12, and Case C‑287/Commission v Germany, paragraph 19). 
+         
+            
+ It should also be emphasised that, whilst the formal letter of notice which comprises an initial succinct résumé of the alleged
+         infringement, may be useful in construing the reasoned opinion, the Commission is none the less obliged to specify precisely
+         in that opinion the grounds of complaint which it already raised more generally in the letter of formal notice and alleges
+         against the Member State concerned, after taking cognizance of any observations submitted by it under the first paragraph
+         of Article EC. That requirement is essential in order to delimit the subject-matter of the dispute prior to any initiation
+         of the contentious procedure provided for in the second paragraph of Article and in order to ensure that the Member State
+         in question is accurately apprised of the grounds of complaint maintained against it by the Commission and can thus bring
+         an end to the alleged infringements or put forward its arguments in defence prior to any application to the Court by the Commission.
+         
+            
+ In the present case it must be stated that in the letter of formal notice of November the Commission set out three
+         specific grounds of complaint concerning the transposition into Netherlands law of Article of Directive 97/66. The first
+         ground of complaint concerns the transposition of Article 6(1) of Directive 97/by Article 11(5)(1) of the Telecommunicatiewet.
+         The second ground of complaint relates to the non-conformity of Article 11(5)(2) of the Telecommunicatiewet with Article 6(2)
+         to (5) of Directive 97/and alleges that the Netherlands provision includes more derogations than those permitted by those
+         paragraphs of Article 6. The third ground of complaint alleges a failure to notify the implementing provisions mentioned at
+         Article 11(5)(3) of the Telecommunicatiewet.
+         
+            
+ In its reply of January to the letter of formal notice, the Netherlands Government acknowledged that the grounds of
+         complaint concerning transposition of Article 6(1) of Directive 97/and the failure to notify the implementing provisions
+         mentioned in Article 11(5)(3) of the Telecommunicatiewet were well founded, at the same time pointing out that legislative
+         measures were being drawn up in order to correct those deficiencies. Conversely, the Netherlands Government denied that Article
+         11(5)(2) of the Telecommunicatiewet provides for more derogations than those permitted by Article 6(2) to (5) of that directive.
+         
+            
+ It cannot but be noted that the Commission did not reproduce in its reasoned opinion of July the ground of complaint
+         based on the incorrect transposition of Article 6(2) to (5) of Directive 97/by Article 11(5)(2) of the Telecommunicatiewet.
+         Furthermore, that reasoned opinion does not include any assessment concerning the objections formulated concerning that ground
+         of complaint by the Netherlands authorities in their reply to the letter of formal notice.
+         
+            
+ In the reasoned opinion the Commission relies solely on the incompleteness of the transposition of Article of Directive
+         97/owing to the fact the legislative measures mentioned in the reply by the Netherlands Government to the letter of formal
+         notice were not communicated to it. Unlike the letter of formal notice, the reasoned opinion gives no indication such as to
+         convey that Article 11(5)(2) of the Telecommunicatiewet is not in conformity with the provisions of Article 6(2) to (5) of
+         that directive. Although the reasoned opinion refers to Article 6(1) thereof, and to the implementing provisions mentioned
+         in Article 11(5)(3) of the Telecommunicatiewet, conversely it refers neither to paragraphs to of that article nor to paragraph
+         of Article 11(5).
+         
+            
+ In its reasoned opinion, the Commission accordingly clearly gave the impression that, unlike the two other grounds of complaint
+         concerning Article of Directive 97/mentioned in the letter of formal notice, the ground of complaint based on the incorrect
+         transposition of paragraphs to of that provision by Article 11(5)(2) of the Telecommunicatiewet had been abandoned, in
+         the same way as the grounds of complaint concerning transposition of Articles and of that directive. Thus, in their
+         reply of October to that reasoned opinion, the Netherlands authorities merely gave an account of progress in the enactment
+         of the legislation mentioned in their letter of January without expressing a view on the ground of complaint at issue.
+         
+            
+ The general reference to the letter of formal notice in the reasoned opinion in regard to Article of Directive 97/cannot
+         in that context be regarded as a sufficient indication enabling the Kingdom of the Netherlands to understand that the Commission
+         had maintained against it the ground of complaint alleging incorrect transposition of Article 6(2) to (5) of that directive.
+         
+            
+ Under those circumstances the ground of complaint alleged in the Commission’s application concerning the incorrect transposition
+         of Article 6(2) to (5) of Directive 97/by Article 11(5)(2) of the Telecommunicatiewet must be regarded as irregular inasmuch
+         as, on the one hand, it constitutes an extension of the subject-matter of the dispute as opposed to its extent as specified
+         in the reasoned opinion and inasmuch as, on the other, the Kingdom of the Netherlands was deprived, owing to the failure to
+         mention that ground of complaint in that opinion, of the opportunity of bringing an end to the infringement of which it was
+         accused or of explaining itself in that regard prior to an application to the Court by the Commission.
+         
+            
+ Accordingly, the action must be declared inadmissible in so far as it concerns the ground of complaint alleging incorrect
+         transposition of Article 6(2) to (5) of Directive 97/by Article 11(5)(2) of the Telecommunicatiewet.
+         
+Substance
+            
+ The three other grounds of complaint formulated in the application are based, in the case of the first two, on the incomplete
+         transposition of Article of Directive 97/and, in the case of the third, on the incomplete transposition of Article of that directive.
+         
+            
+ Before those complaints are examined, it should be recalled at the outset that, as the Court has repeatedly held, the question
+         whether a Member State has failed to fulfil its obligations must be determined as at the end of the period laid down in the
+         reasoned opinion (see, inter alia, Case C-384/Commission v Greece [2000] ECR I-3823, paragraph 35, and Case C-152/Commission v Netherlands [2001] ECR I-3463, paragraph 21).
+         
+            
+ Accordingly, the matters relied on by the Netherlands in its pleadings concerning, on the one hand, repeal of Directive 97/by Article of Directive 2002/58/EC of the European Parliament and of the Council of July concerning the processing
+         of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic
+         communications) (OJ L 201, p. 37) with effect from October and, on the other, the existence of a bill to transpose
+         the latter directive into Netherlands law, cannot affect the assessment to be made of the obligations of the Kingdom of the
+         Netherlands as at expiry of the period of two months laid down in the reasoned opinion. 
+          Grounds of complaint concerning incomplete transposition of Article of Directive 97/In the first place, the Commission maintains that Article 11(5)(1) of the Telecommunicatiewet derogates from the general principle
+         set out in Article 6(1) of Directive 97/66. It stresses that for that national provision to be in conformity with that directive
+         the general administrative measure envisaged should include an exhaustive list of information. Since no measure containing
+         such a list was communicated to it, the Commission considers that Article of Directive 97/was not completely transposed.
+         
+            
+ Since the Netherlands Government acknowledges that not all the provisions necessary for the transposition of Article 6(1)
+         of Directive 97/have been adopted, the ground of complaint raised by the Commission must be regarded as well founded.
+         
+            
+ Secondly, the Commission submits that, although Article 11(5)(3) of the Telecommunicatiewet refers to implementing provisions,
+         none of them have been communicated to it. Consequently, it is of the view that Article of Directive 97/was not fully
+         transposed.
+         
+            
+ The Netherlands authorities retort that, since those implementing provisions have not been adopted, they could not be communicated
+         to the Commission.
+         
+            
+ None the less, it should be pointed out that the Netherlands Government does not dispute that, in light of the wording in
+         force at that time of Article 11(5) of the Telecommunicatiewet, the adoption of the implementing provisions mentioned in paragraph
+         of that article was necessary in order to support a finding that Article of Directive 97/had been fully transposed.
+         
+            
+ Given that, first, the Netherlands Government has acknowledged that, as at the expiry of the period laid down in the reasoned
+         opinion, the implementing provisions at issue had not been communicated to the Commission and that, second, failure to adopt
+         those provisions by that date cannot reasonably be relied on to justify that infringement, it must be concluded that the ground
+         of complaint raised by the Commission is well founded. 
+         
+            
+ It follows from the foregoing that the Commission is legally entitled to take the view that Article of Directive 97/has
+         not been fully transposed into Netherlands law on the ground that, on the one hand, Article 11(5)(1) of the Telecommunicatiewet
+         refers to a list of information to be determined by a general administrative measure which was not communicated to it and
+         that, second, the implementing provisions mentioned in paragraph of Article 11(5) aforesaid were not communicated to it.
+          Ground of complaint based on the incomplete transposition of Article of Directive 97/The Commission alleges that Article 9(a) of Directive 97/has not been transposed into Netherlands law with the result that
+         that article has not been fully transposed.
+         
+            
+ Since there have in fact been no Netherlands provisions transposing Article 9(a) of Directive 97/66, as the Netherlands Government
+         has moreover acknowledged, the Commission’s ground of complaint alleging incomplete transposition of Article aforesaid must
+         be regarded as well founded.
+         
+            
+ It must therefore be held that, by incompletely transposing Article of Directive 97/66, in that, first, Article 11(5)(1)
+         of the Telecommunicatiewet refers to a general administrative measure which was not communicated to the Commission and in
+         that, second, the implementing provisions mentioned in Article 11(5)(3) of the Telecommunicatiewet were not communicated to
+         the Commission, and by incompletely transposing Article of that directive, the Kingdom of the Netherlands has failed to
+         fulfil its obligations under that directive.
+         
+Costs
+            
+ Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         asked for in the successful party’s pleadings. Under Article 69(3) thereof, the Court may order that costs be shared or that
+         the parties are to bear their own costs if each party succeeds on some and fails on other heads. Since the Kingdom of the
+         Netherlands has been unsuccessful in respect of three of the four grounds of complaint raised by the Commission, it must,
+         in accordance with the form of order sought by the Commission, be ordered  to bear three quarters of the Commission’s costs.
+         Since the Kingdom of the Netherlands made no request concerning costs, as to the remainder the parties are to bear their own
+         costs.
+         
+On those grounds,
+THE COURT (First Chamber)
+ hereby:
+         
+ 
+1.
+Declares that, by incompletely transposing Article of Directive 97/66/EC  of the European Parliament and of the Council
+                     of December concerning the processing of personal data and the protection of privacy in the telecommunications sector,
+                     in that, first, Article 11(5)(1) of the Wet houdende regels inzake de telecommunicatie (Telecommunicatiewet) refers to a general
+                     administrative measure which was not communicated to the Commission of the European Communities and in that, second, the implementing
+                     provisions mentioned in Article 11(5)(3) of the Telecommunicatiewet were not communicated to the Commission, and by incompletely
+                     transposing Article of that directive, the Kingdom of the Netherlands has failed to fulfil its obligations under that directive;
+                  
+ 
+2.
+Dismisses the remainder of the action;
+ 
+3.
+Orders the Kingdom of the Netherlands to bear, in addition to its own costs, three quarters of the Commission’s costs;
+ 
+4.
+As to the remainder of the action orders the Commission to bear its own costs.
+Jann
+La Pergola
+von Bahr
+Silva de Lapuerta
+Lenaerts
+ Delivered in open court in Luxembourg on June 2004.
+         
+R. Grass
+P. Jann
+Registrar
+President of the Chamber
+ –
+            
+Language of the case: Dutch.
+Top  
+ 

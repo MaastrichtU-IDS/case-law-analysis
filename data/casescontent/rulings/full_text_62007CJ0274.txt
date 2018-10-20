@@ -1,0 +1,397 @@
+
+Case C-274/Commission of the European Communities
+v
+Republic of Lithuania
+(Failure of a Member State to fulfil obligations – Directive 2002/22/EC – Universal service and users’ rights relating to electronic communications networks and services – Article 26(3) – Single European emergency call number – Making available caller location information)
+Summary of the Judgment
+Approximation of laws – Telecommunications sector – Universal service and users’ rights – Directive 2002/(European Parliament and Council Directive 2002/22, Art. 26(3))
+Under Article 26(3) of Directive 2002/on universal service and users’ rights relating to electronic communications networks
+         and services, Member States are to ensure that undertakings which operate public telephone networks make caller location information
+         available to authorities handling emergencies, to the extent technically feasible, for all calls to the single European emergency
+         call number ‘112’.
+      
+That provision aims to improve the level of protection and the security of users of ‘112’ services and assist the emergency
+         services in the discharge of their duties. 
+      
+It follows from the wording and the aim of that provision that it imposes on Member States, subject to technical feasibility,
+         an obligation to achieve a result which is not limited to putting in place an appropriate regulatory framework, but which
+         requires that the location information for all callers to the ‘112’ be actually transmitted to the emergency services.
+      
+The failure to acquire or adapt the equipment necessary cannot be regarded as a lack of technical feasibility within the meaning
+         of Article 26(3). 
+      
+As regards the method to be employed in order to transmit location information on callers to the ‘112’ number, that article
+         does not contain any information in that regard and therefore leaves the Member States to decide the manner in which they
+         wish actually ensure to that that information is transmitted.
+      
+(see paras 38-40, 46-47)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber) 
+September (*)
+      
+(Failure of a Member State to fulfil obligations – Directive 2002/22/EC – Universal service and users’ rights relating to electronic communications networks and services – Article 26(3) – Single European emergency call number – Making available caller location information)
+In Case C‑274/07,
+ACTION under Article EC for failure to fulfil obligations, brought on June 2007,
+Commission of the European Communities, represented by G. Braun and A. Steiblytė, acting as Agents, with an address for service in Luxembourg,
+      
+applicant,
+v
+Republic of Lithuania, represented by D. Kriaučiūnas, acting as Agent, 
+      
+defendant,
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of the Chamber, L. Bay Larsen, K. Schiemann, P. Kūris and C. Toader (Rapporteur),
+         Judges,
+      
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: R. Grass,
+having regard to the written procedure,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its action the Commission of the European Communities asks the Court to declare that, by not ensuring in practice that
+         authorities handling emergencies are, to the extent technically feasible, given caller location information for all callers
+         to the single European emergency call number ‘112’ when public telephone networks are used, the Republic of Lithuania has
+         failed to fulfil its obligations under Article 26(3) of Directive 2002/22/EC of the European Parliament and of the Council
+         of March on universal service and users’ rights relating to electronic communications networks and services (‘Universal
+         Service’ Directive) (OJ L 108, p. 51) (the ‘Universal Service Directive’).
+      
+ Legal background
+ Community law
+The 36th recital in the preamble to the Universal Service Directive states that:
+      
+‘It is important that users should be able to call the single European emergency number “112”, and any other national emergency
+         telephone numbers, free of charge, from any telephone, including public pay telephones, without the use of any means of payment.
+         … Caller location information, to be made available to the emergency services, will improve the level of protection and the
+         security of users of “112” services and assist the emergency services, to the extent technically feasible, in the discharge
+         of their duties, provided that the transfer of calls and associated data to the emergency services concerned is guaranteed.
+         ...’
+      
+Article 26(3) of the Universal Service Directive provides:
+      
+‘Member States shall ensure that undertakings which operate public telephone networks make caller location information available
+         to authorities handling emergencies, to the extent technically feasible, for all calls to the single European emergency call
+         number “112”.’
+      
+According to Article 38(1) of the Universal Service Directive, Member States are to adopt and publish the laws, regulations
+         and administrative provisions necessary to comply with the directive by July at the latest and they are to immediately
+         inform the Commission thereof. They are to apply those provisions from July 2003.
+      
+In accordance with Article 2, read in combination with Article of the Act concerning the conditions of accession of the
+         Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic
+         of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments
+         to the Treaties on which the European Union is founded (OJ L 236, p. 33) (the ‘Act of Accession’), the Republic of Lithuania
+         was to comply with the Universal Service Directive from the date of its accession to the European Union, on May 2004.
+      
+Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory framework for electronic
+         communications networks and services (Framework Directive) (OJ L 108, p. 33) (the ‘Framework Directive’) provides in
+         Article 19(1):
+      
+‘Where the Commission, acting in accordance with the procedure referred to in Article 22(2), issues recommendations to Member
+         States on the harmonised application of the provisions in this Directive and the Specific Directives in order to further the
+         achievement of the objectives set out in Article 8, Member States shall ensure that national regulatory authorities take the
+         utmost account of those recommendations in carrying out their tasks. Where a national regulatory authority chooses not to
+         follow a recommendation, it shall inform the Commission giving the reasoning for its position.’
+      
+The 10th recital in the preamble to Commission Recommendation 2003/558/EC of July on the processing of caller location
+         information in electronic communication networks for the purpose of location-enhanced emergency call services (OJ L 189,
+         p. 49) is worded as follows:
+      
+‘The effective implementation of location-enhanced emergency call services requires that the caller’s location as determined
+         by the provider of the public telephone network or service is transmitted automatically to any appropriate public safety answering
+         point that can receive and use the location data provided.’
+      
+Points and of Recommendation 2003/state:
+      
+‘4.      For every emergency call made to the European emergency call number 112, public telephone network operators should, initiated
+         by the network, forward (push) to public safety answering points the best information available as to the location of the
+         caller, to the extent technically feasible. For the intermediate period up to the conclusion of the review as referred to
+         in point below, it is acceptable that operators make available location information on request only (pull).
+      
+…
+13.      Member States should require their national authorities to report to the Commission on the situation of Eimplementation
+         by the end of so that the Commission can undertake a review taking into account the emerging requirements from public
+         safety answering points and emergency services and the evolutions and availability of technological capabilities for location
+         determination.’
+      
+ National law
+Article 26(3) of the Universal Service Directive, which was transposed into Lithuanian law by Article 65(4) of Law No IX-on electronic communications (Elektroninių ryšių įstatymas Nr. IX-2135), of April (Žin., 2004, Nr. 69-2382) (‘Law
+         on electronic communications’), and entered into force on May 2004, provides:
+      
+‘Providers of public communications networks and electronic communications services accessible to the public shall supply,
+         without the consent of subscribers or users of electronic communications services, information on location (together with
+         flow data) to bodies responsible for processing emergency calls, in particular to the judicial authorities, the ambulance
+         service, the fire service and other emergency services in order for those bodies to answer calls from subscribers and users
+         of electronic communications services and respond appropriately ….’
+      
+On September 2007, Law No X‑of April (Žin., 2007, Nr. 46‑1723), amending Article of the Law on electronic
+         communications, entered into force. As amended, Article 65(4) states that providers of public communications networks and
+         electronic communications services accessible to the public are required to provide caller location information free of charge
+         to the Joint Emergency Services Centre and that the costs of acquisition, installation (adaptation), refurbishment and operation
+         of the equipment necessary for that purpose shall be reimbursed out of public funds.
+      
+In addition to the Law on electronic communications, the Republic of Lithuania adopted a number of other acts intended to
+         implement Article 26(3) of the Universal Service Directive. They include:
+      
+–        Law No IX-on the Joint Emergency Services Centre (Bendrojo pagalbos centro įstatymas Nr. IX-2246), of May (Žin.,
+         2004, Nr. 90-3306);
+      
+–        Resolution No of the Government of the Republic of Lithuania on the establishment of the Joint Emergency Services Centre,
+         the strategy for the introduction of the single European emergency call number, and the approval of its implementation plan
+         (Lietuvos Respublikos Vyriausybės nutarimas Nr. dėl Bendrojo pagalbos centro įsteigimo ir vieno skubaus iškvietimo telefono
+         numerio įvedimo strategijos, jos įgyvendinimo plano patvirtinimo), of September (Žin., 2002, Nr. 95-4114), and
+      
+–        Decree No 1V-of the Director of the Communications Regulatory Authority approving the procedure and the mode of transmission
+         of calls from subscribers and/or users of communications services to the numbers of the Joint Emergency Services Centre and/or
+         the emergency services (Ryšių reguliavimo tarnybos direktoriaus įsakymas Nr. 1V-dėl abonentų ir(ar) paslaugų gavėjų skambučių
+         siuntimo į Bendrojo pagalbos centro ir(ar) pagalbos tarnybų numerius tvarkos ir sąlygų aprašo patvirtinimo) of April (Žin., 2005, Nr. 55-1918).
+      
+ Pre-litigation procedure
+By letter of formal notice of April 2006, the Commission informed the Republic of Lithuania of its concerns regarding the
+         incorrect application of Article 26(3) of the Universal Service Directive. Those concerns arose from the fact that when emergency
+         calls to the single European emergency number ‘112’ come from a mobile telephone, caller location information is not provided
+         to the emergency services.
+      
+In their response sent on July 2006, the Lithuanian authorities confirmed that fact, explaining that not all the operators
+         of public communications networks and electronic communications services accessible to the public had the technical equipment
+         necessary for that purpose and that the authorities had not reached an agreement with the operators concerning the responsibility
+         for costs related to locating callers. On September 2006, the Lithuanian Government sent to the Commission the most recent
+         information, setting out the measures envisaged in order to implement Article 26(3) of the Universal Service Directive.
+      
+On October 2006, the Commission issued a reasoned opinion in which it stated that the Republic of Lithuania was unable
+         to ensure in practice that caller location information is made available where emergency calls to the ‘112’ number are made
+         from a mobile telephone, thereby failing to fulfil its obligations under Article 26(3) of the Universal Service Directive.
+         At the same time, it called on that Member State to take the measures necessary in order to comply with that opinion within
+         two months of its notification.
+      
+In its reply of January 2007, the Lithuanian Government indicated that a draft law amending Article of the Law on electronic
+         communications had been put before the Lithuanian Parliament, providing that the costs relating to the caller location information
+         transmission service borne by the providers of public mobile telephone networks were to be financed from the national budget.
+         Appended to that letter was an agreement concluded on December between the Joint Emergency Services Centre and the
+         mobile telephone operators relating to caller location services.
+      
+Taking the view, however, that the situation remained unsatisfactory, the Commission brought the present action.
+      
+ The action
+ Admissibility
+ Arguments of the parties
+The Lithuanian Republic submits that the action should be dismissed as inadmissible on the ground that the complaints set
+         out in the reasoned opinion differed in their content from those raised in the application. Whereas the statement of reasons
+         in the reasoned opinion emphasised the fact that in Lithuania, as regards calls to the ‘112’ number from a mobile telephone,
+         caller location information is not provided according to the ‘pull’ method, the application sets out an obligation to apply
+         the ‘push’ method. 
+      
+The Commission replies that the reasoned opinion and the application mention both ‘push’ and ‘pull’ methods, set out in Recommendation
+         No 2003/558, and leave the Republic of Lithuania the choice as to which of those methods to apply in order to implement Article
+         26(3) of the Universal Service Directive.
+      
+In its rejoinder, the Republic of Lithuania submits that it is only at the stage of the reply that the Commission clarified
+         its new position, according to which the Member States not only may but must take the simplest technical measures to localise
+         the caller, that is to say apply the ‘pull’ method. Since the Commission’s position therefore remained unclear until that
+         stage the complaints that it made did not comply with the requirement to precisely formulate the subject-matter of an action
+         for failure to fulfil obligations. 
+      
+ Findings of the Court
+First of all, it is settled case-law that the purpose of the pre-litigation procedure is to give the Member State concerned
+         an opportunity to comply with its obligations under Community law, on the one hand, and, on the other, to avail itself of
+         its right to defend itself against the objections formulated by the Commission (see, in particular, Case C-484/Commission v United Kingdom [2006] ECR I-7471, paragraph 24, and the case-law cited).
+      
+The proper conduct of that procedure constitutes an essential guarantee required by the EC Treaty not only in order to protect
+         the rights of the Member State concerned, but also to ensure that any contentious procedure will have a clearly defined dispute
+         as its subject-matter (see, Case C-34/Commission v Netherlands [2007] ECR I-1387, paragraph 49, and the case-law cited).
+      
+It follows, first, that the subject-matter of the proceedings under Article EC is delimited by the pre-litigation procedure
+         governed by that provision. Accordingly, the application must be based on the same grounds and pleas as the reasoned opinion
+         (see, Case C-287/Commission v Germany [2002] ECR I-5811, paragraph 18, and Case C-305/Commission v United Kingdom [2006] ECR I‑1213, paragraph 22).
+      
+Second, the reasoned opinion must contain a cogent and detailed exposition of the reasons which led the Commission to the
+         conclusion that the Member State concerned has failed to fulfil one of its obligations under Community law (see, Commission v Germany, cited above, paragraph 19, and Commission v United Kingdom, cited above, paragraph 26).
+      
+In this case, it must be stated first of all that the complaint made against the Republic of Lithuania remained unchanged
+         throughout the pre-litigation and contentious procedures. Both during the pre-litigation procedure and before the Court, the
+         Commission complained that that Member State had failed to fulfil its obligations under Article 26(3) of the Universal Service
+         Directive by failing to ensure in practice that, to the extent technically feasible, authorities handling emergencies are
+         given caller location information for all callers to the single European emergency call number ‘112’.
+      
+As regards the specific content and the reasoning of that complaint, the Commission relied, in the letter of formal notice
+         and the reasoned opinion, on the fact that it was technically feasible for fixed and mobile telephone operators operating
+         in Lithuania to provide that information at least according to the ‘pull’ method referred to in Recommendation 2003/558. However,
+         in so doing it had in no way imposed that method on the Republic of Lithuania, but merely stated that in its view the obligation
+         laid down in Article 26(3) of the Universal Service Directive is in fact applicable in this case, since the condition of technical
+         feasibility to which Article 26(3) subjects that obligation is satisfied.
+      
+Contrary to the Republic of Lithuania’s submissions, the Commission did not assert, during the proceedings before the Court,
+         that Member States have an obligation to implement a specific method in order to comply with Article 26(3) of the Universal
+         Service Directive. The application and the reply, like the letter of formal notice and the reasoned opinion before them, simply
+         refer to point of Recommendation 2003/558, without requiring one or other method mentioned in that paragraph to be implemented.
+      
+Thus, the Commission submitted – in particular in its reply – not that the Republic of Lithuania must use the ‘pull’ method,
+         but that that Member State is required to implement at least the most simple technical measures in order to ensure that, from
+         the date laid down in the Act of Accession, the relevant information is actually transmitted. That position corresponds exactly
+         to the view expressed by the Commission during the pre-litigation procedure.
+      
+It is clear from the foregoing that the plea of inadmissibility raised by the Republic of Lithuania must be dismissed.
+      
+ Substance
+ Arguments of the parties
+The Commission takes the view that it is technically feasible for Lithuanian operators of public mobile telephone networks
+         to provide caller location information when the caller dials the ‘112’ number from a mobile telephone. Therefore, it follows
+         from the information provided by the defendant itself that the mobile telephone networks in Lithuania do not have specific
+         characteristics which, from a technical point of view, prevent the transmission of that information.
+      
+In particular, the agreement concluded on December between the Joint Emergency Services Centre and the providers of
+         public mobile telephone network services states that it is technically possible to transmit the information, but that that
+         might require additional investment. The lack of investment and the delays in acquiring the technical equipment necessary
+         for that purpose cannot be regarded as a lack of technical feasibility within the meaning of Article 26(3) of the Universal
+         Service Directive.
+      
+In its reply, the Commission states that point of Recommendation 2003/558, to which it referred in its application, cannot,
+         having regard to the non-binding nature of that recommendation, require the Member States to apply the ‘push’ method rather
+         than the ‘pull’ method in order to transmit caller location information. Although the Republic of Lithuania is therefore free
+         as to the choice of method it must, however, in accordance with Article 26(3) of the Universal Service Directive, implement
+         at least the most simple technical measures in order to ensure that the operators of fixed and mobile public telephone networks
+         provide that information from the date set in the Act of Accession.
+      
+The Republic of Lithuania contends that the complaint made by the Commission is unfounded solely because it is not formulated
+         in an appropriate manner. Since that Member State has adopted all the legal, technical and organisational measures possible
+         in order to fulfil the obligations laid down by Article 26(3) of the Universal Service Directive, the Commission’s head of
+         claim should have been formulated so as to seek a declaration that the Republic of Lithuania has failed to fulfil its obligations
+         by not ensuring that the undertakings which operate public telephone networks make the relevant information available to the
+         authorities handling emergencies.
+      
+As regards technical feasibility, the Republic of Lithuania explains that the Joint Emergency Services Centre has the technical
+         means to receive the location information on a person calling the ‘112’ number. However, the operators of public mobile telephone
+         networks active in Lithuania do not always have the technical means to provide that information.
+      
+That Member State points out that the adaptation of the ‘pull’ method, used by certain operators for commercial purposes,
+         would have been far simpler than the transition to a system based on the ‘push’ method. However, at the same time as a decision
+         was taken to use the latter, more modern method, the extra investment to adapt the ‘pull’ method to the needs of the location
+         of calls to the ‘112’ number was refused.
+      
+In that context, it states that the technical means necessary to transmit the information concerned differ radically according
+         to whether the ‘pull’ or ‘push’ method is used and that the two systems require investment and a certain amount of preparation
+         time. The factor of technical feasibility should be taken into consideration when examining the reasons why Lithuanian mobile
+         telephone operators are not ready to transmit information to the emergency services.
+      
+In addition, account should be taken of the uncertainty raised by Recommendation 2003/as to the manner in which the obligations
+         arising from Article 26(3) of the Universal Service Directive are to be implemented and the time-limit to be respected in
+         that regard. There would be a failure to fulfil obligations only if it were known from the outset which method may and must
+         be applied and from which date. According to the Republic of Lithuania, if it had been clearly established that Member States
+         are free to apply the ‘pull’ method which is simpler from a technical point of view, it could have made use of that option,
+         which would have saved a considerable amount of time.
+      
+Furthermore, points and of Recommendation 2003/should be interpreted as meaning that the aims of the Universal Service
+         Directive are not achieved in an effective manner by employing the ‘pull’ method and therefore it is necessary to introduce
+         the ‘push’ method as widely as possible. Since extra time was necessary in order to implement this method, the Commission
+         provided for an additional period in the recommendation.
+      
+ Findings of the Court
+It must be recalled that, under Article 26(3) of the Universal Service Directive, Member States are to ensure that undertakings
+         which operate public telephone networks make caller location information available to authorities handling emergencies, to
+         the extent technically feasible, for all calls to the single European emergency call number ‘112’.
+      
+As is clear from the 36th recital in the preamble to the Universal Service Directive, that provision aims to improve the level
+         of protection and the security of users of ‘112’ services and assist the emergency services in the discharge of their duties.
+      
+It follows from the wording and the aim of the provision that it imposes on Member States, subject to technical feasibility,
+         an obligation to achieve a result which is not limited to putting in place an appropriate regulatory framework, but which
+         requires that the location information for all callers to the ‘112’ be actually transmitted to the emergency services.
+      
+In this case, the Republic of Lithuania does not deny that when the period prescribed in the reasoned opinion expired, that
+         information was not transmitted in cases where the call came from a mobile telephone.
+      
+First, the Republic of Lithuania’s argument that the Commission’s complaint is not formulated in an appropriate manner since
+         it has adopted all the legal, technical and organisational measures necessary to transpose Article 26(3) of the Universal
+         Service Directive, cannot be accepted. It is clear from the formulation and the reasoning of that complaint that the Commission
+         does not criticise the Republic of Lithuania for having incorrectly or insufficiently transposed that provision, but for not
+         being able to ensure in practice that the information at issue is actually made available to the emergency services.
+      
+Second, as regards the requirement of technical feasibility which accompanies the obligation imposed on the Member States
+         by Article 26(3) of the Universal Service Directive, it must be held that, according to the information provided by the Republic
+         of Lithuania, the failure to transmit information on the location of calls from the public mobile telephone networks is due
+         to the fact that the operators of those networks do not have the necessary technical equipment, which would require substantial
+         investment.
+      
+It has been explained in that regard that after an initial disagreement between the operators and the Lithuanian authorities
+         concerning the financing of the costs of such investment the legislature amended Article 65(4) of the Law on electronic communications
+         with effect from September 2007, so as to provide that from now on operators are to provide the information at issue free
+         of charge to the Joint Emergency Services Centre and that the costs of acquiring, installing, adapting, refurbishing and operating
+         the equipment necessary for that purpose are to be reimbursed from public funds.
+      
+It follows from that evidence, without there being any need to examine the agreement concluded on December between
+         the Joint Emergency Services Centre and the providers of public mobile telephone network services, the interpretation of which
+         is a matter of dispute between the parties, that the reason for the failure to transmit information on the location of calls
+         from those networks does not arise from technical characteristics of those networks, which would prevent the transmission
+         of that information, but from the lack of the investment required in order to acquire or adapt the equipment so as to allow
+         that transmission.
+      
+As the Commission rightly stated, the failure to acquire or adapt the equipment necessary cannot be regarded as a lack of
+         technical feasibility within the meaning of Article 26(3) of the Universal Service Directive.
+      
+Lastly, as regards the arguments put forward by the Republic of Lithuania regarding the method to be employed in order to
+         transmit location information on callers to the ‘112’ number, it must be held, first of all, that Article 26(3) of the Universal
+         Service Directive does not contain any information in that regard and therefore leaves the Member States to decide the manner
+         in which they wish to actually ensure that that information is transmitted.
+      
+In point 4, Recommendation 2003/mentions two methods. The first method, called the ‘push’ method consists in the automatic
+         transmission of that information by the operators of telephone networks, while according to the second method, the ‘pull’
+         method, that information is provided solely at the request of public safety answering points.
+      
+Although it follows from the wording of point and the 10th recital in the preamble to Recommendation 2003/that the Commission
+         regards the application of the first method to be the most effective and recommends that the Member States impose it, at least
+         after an intermediate period, on public telephone networks operating on their territory, it is equally clear that that recommendation,
+         in the light of its non-binding nature, cannot require the Member States to use a specific method in order to implement Article
+         26(3) of the Universal Service Directive.
+      
+Not only is the non-binding nature of Recommendation 2003/clear from the fifth paragraph of Article EC, but it is
+         also explicitly confirmed by Article of the Framework Directive on the basis of which the recommendation was adopted. It
+         is clear from Article 19(1) that the national regulatory authorities may choose not to follow a recommendation adopted by
+         the Commission on the basis of the latter provision, on condition that they inform the Commission thereof and communicate
+         to the Commission the reasoning for their position.
+      
+Although the Member States are therefore free to chose the method to be used by the operators of public telephone networks
+         in order to transmit the location information of callers to the ‘112’ number, they are however bound by the clear and precise
+         obligation to achieve a result laid down in Article 26(3) of the Universal Service Directive, which requires them to ensure
+         that that information is made available to the emergency services.
+      
+In particular, a Member State cannot justify any delay in the implementation of that obligation by the fact that it has decided
+         to put in place the ‘push’ method based on the automatic transmission of location information.
+      
+In that connection it must be held that, contrary to the Republic of Lithuania’s assertions, Recommendation 2003/does
+         not give extra time to Member States which have opted for the ‘push’ method. Not only does the Commission lack powers to legitimately
+         extend the binding time-limit allowed to Member States for compliance with Article 26(3) of the Universal Service Directive,
+         but it also follows from the wording of point of that recommendation that it by no means intends to provide for exemption
+         from compliance with that time-limit. Although point mentions the possibility of implementing the ‘push’ method only after
+         an intermediate period, it explains at the same time that during that period the information on location must at least be
+         provided at the request of the emergency services, that is according to the ‘pull’ method.
+      
+Lastly, as to the alleged uncertainties concerning the method and the period in which to implement the obligation laid down
+         in Article 26(3) of the Universal Service Directive, it must be held that that provision and Recommendation 2003/do not
+         give rise to any objective doubt in that respect. In those circumstances, and taking account of the fact in particular that
+         the Republic of Lithuania itself explained in its defence that Recommendation 2003/is not binding on the Member States,
+         it cannot reasonably argue that its delay in effectively implementing Article 26(3) of the Universal Service Directive is
+         justified by a misunderstanding as to its obligations.
+      
+In light of the foregoing, it must be held that, by not ensuring in practice that authorities handling emergencies are, to
+         the extent technically feasible, given caller location information for all callers to the single European emergency call number
+         ‘112’ when public telephone networks are used, the Republic of Lithuania has failed to fulfil its obligations under Article
+         26(3) of the Universal Services Directive.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party’s pleadings. Since the Commission has applied for costs to be awarded against the Republic
+         of Lithuania and the latter has been unsuccessful, it must be ordered to pay the costs.
+      
+On those grounds, the Court (Second Chamber) hereby:
+1.      Declares that, by not ensuring in practice that authorities handling emergencies are, to the extent technically feasible,
+            given caller location information for all callers to the single European emergency call number ‘112’ when public telephone
+            networks are used, the Republic of Lithuania has failed to fulfil its obligations under Article 26(3) of Directive 2002/22/EC
+            of the European Parliament and of the Council of March on universal service and users’ rights relating to electronic
+            communications networks and services;
+2.      Orders the Republic of Lithuania to pay the costs.
+[Signatures]
+* Language of the case: Lithuanian.
+      
+Top  
+ 

@@ -1,0 +1,183 @@
+
+ORDER OF THE COURT (Third Chamber)
+January (
+*)
+‛Copyright — Information society — Directive 2001/29/EC — Article 5(1) and (5) — Literary and artistic works — Reproduction of short extracts of literary works — Newspaper articles — Temporary and transient reproductions — Technological process consisting in scanning of articles followed by conversion into text file, electronic processing of the reproduction and storage of part of that reproduction — Acts of temporary reproduction which form an integral and essential part of such a technological process — Purpose of those acts being the lawful use of a work or protected subject-matter — Independent economic significance of those acts’
+In Case C-302/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Højesteret (Denmark), made by decision of June 2010, received at the Court on June 2010, in the proceedings
+Infopaq International A/S
+v
+Danske Dagblades Forening,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, J. Malenovský (Rapporteur), E. Juhász, G. Arestis and T. von Danwitz, Judges,
+Advocate General: V. Trstenjak,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Infopaq International A/S, by A. Jensen, advokat,
+—
+the Danske Dagblades Forening, by M. Dahl Pedersen, advokat,
+—
+the Spanish Government, by N. Díaz Abad, acting as Agent,
+—
+the European Commission, by J. Samnadda and H. Støvlbæk, acting as Agents,
+the Court, proposing to give its decision by reasoned order in accordance with the first subparagraph of Article 104(3) of its Rules of Procedure,
+makes the following
+Order
+This reference for a preliminary ruling concerns the interpretation of Article 5(1) and (5) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167, p. 10).
+The reference has been made in the context of proceedings between Infopaq International A/S (‘Infopaq’) and Danske Dagblades Forening (‘DDF’) concerning the dismissal of Infopaq’s application for a declaration that it was not required to obtain the consent of the rightholders for acts of reproduction of newspaper articles using an automated process consisting in the scanning of those articles and their conversion into a digital file followed by electronic processing of that file.
+Legal context
+European Union Law
+Directive 2001/states the following in Recitals (4), (9) to (11), (21) (22), (31) and (33) in the preamble thereto:
+‘(4)
+A harmonised legal framework on copyright and related rights, through increased legal certainty and while providing for a high level of protection of intellectual property, will foster substantial investment in creativity and innovation, including network infrastructure. ...
+...
+(9)
+Any harmonisation of copyright and related rights must take as a basis a high level of protection, since such rights are crucial to intellectual creation...
+(10)
+If authors or performers are to continue their creative and artistic work, they have to receive an appropriate reward for the use of their work. …
+(11)
+A rigorous, effective system for the protection of copyright and related rights is one of the main ways of ensuring that European cultural creativity and production receive the necessary resources and of safeguarding the independence and dignity of artistic creators and performers.
+...
+(21)
+This Directive should define the scope of the acts covered by the reproduction right with regard to the different beneficiaries. This should be done in conformity with the acquis communautaire. A broad definition of these acts is needed to ensure legal certainty within the internal market.
+(22)
+The objective of proper support for the dissemination of culture must not be achieved by sacrificing strict protection of rights or by tolerating illegal forms of distribution of counterfeited or pirated works.
+...
+(31)
+A fair balance of rights and interests between the different categories of rightholders, as well as between the different categories of rightholders and users of protected subject-matter must be safeguarded. ...
+...
+(33)
+The exclusive right of reproduction should be subject to an exception to allow certain acts of temporary reproduction, which are transient or incidental reproductions, forming an integral and essential part of a technological process and carried out for the sole purpose of enabling either efficient transmission in a network between third parties by an intermediary, or a lawful use of a work or other subject-matter to be made. To the extent that they meet these conditions, this exception should include acts which enable browsing as well as acts of caching to take place, including those which enable transmission systems to function efficiently, provided that the intermediary does not modify the information and does not interfere with the lawful use of technology, widely recognised and used by industry, to obtain data on the use of the information. A use should be considered lawful where it is authorised by the rightholder or not restricted by law.’
+Article 1(1) of Directive 2001/states:
+‘This Directive concerns the legal protection of copyright and related rights in the framework of the internal market, with particular emphasis on the information society.’
+Pursuant to Article 2(a) of that directive:
+‘Member States shall provide for the exclusive right to authorise or prohibit direct or indirect, temporary or permanent reproduction by any means and in any form, in whole or in part:
+(a)
+for authors, of their works’.
+Article of that directive states:
+‘1.   Temporary acts of reproduction referred to in Article 2, which are transient or incidental [and] an integral and essential part of a technological process and whose sole purpose is to enable:
+(a)
+a transmission in a network between third parties by an intermediary, or
+(b)
+a lawful use
+of a work or other subject-matter to be made, and which have no independent economic significance, shall be exempted from the reproduction right provided for in Article 2.
+...
+3.   Member States may provide for exceptions or limitations to the rights provided for in Articles and in the following cases: …
+...
+(c)
+reproduction by the press, communication to the public or making available of published articles on current economic, political or religious topics or of broadcast works or other subject-matter of the same character, in cases where such use is not expressly reserved, and as long as the source, including the author’s name, is indicated, or use of works or other subject-matter in connection with the reporting of current events, to the extent justified by the informatory purpose and as long as the source, including the author’s name, is indicated, unless this turns out to be impossible;
+(d)
+quotations for purposes such as criticism or review, provided that they relate to a work or other subject-matter which has already been lawfully made available to the public, that, unless this turns out to be impossible, the source, including the author’s name, is indicated, and that their use is in accordance with fair practice, and to the extent required by the specific purpose;
+...
+5.   The exceptions and limitations provided for in paragraphs 1, 2, and shall only be applied in certain special cases which do not conflict with a normal exploitation of the work or other subject-matter and do not unreasonably prejudice the legitimate interests of the rightholder.’
+National law
+Articles and 5(1) of Directive 2001/were transposed into Danish law by Paragraphs and 11a(1) of Law No on copyright (lov no om ophavsret) of June (Lovtidende A, p. 1796), as amended and consolidated by, inter alia, Law No (lov no 1051) of December (Lovtidende A, p. 7881).
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Infopaq operates a media monitoring and analysis business which consists primarily in drawing up summaries of selected articles from Danish daily newspapers and other periodicals. The articles are selected on the basis of certain subject criteria chosen by its customers and is carried out by means of a process known as ‘data capture’. The summaries are sent to customers by e-mail.
+The DDF is the professional association of Danish daily newspaper publishers whose function is inter alia to assist its members with copyright issues.
+In 2005, DDF became aware that Infopaq was scanning newspaper articles for commercial purposes without authorisation from the relevant rightholders. Taking the view that such consent was necessary for processing articles using the process in question, DDF complained to Infopaq about this procedure.
+The data capture process comprises the five phases described below which, according to DDF, lead to four acts of reproduction of newspaper articles.
+First, the publications concerned are registered manually by Infopaq employees in an electronic registration database.
+Secondly, once the spines are cut off the publications so that all the pages consist of loose sheets, the publications are scanned. The section to be scanned is selected from the registration database before the publication is put into the scanner. Scanning allows a Tagged Image File Format (‘TIFF’) file to be created for each page of the publication. When scanning is completed, the TIFF file is transferred to an OCR (‘Optical Character Recognition’) server.
+Thirdly, the OCR server translates the TIFF file into data that can be processed digitally. During that process, the image of each letter is translated into a character code which tells the computer what type of letter it is. For instance, the image of the letters ‘TDC’ is translated into something the computer can treat as the letters ‘TDC’ and put in a text format which can be recognised by the computer’s system. These data are saved as a text file which can be understood by any text processing program. The OCR process is completed by deleting the TIFF file.
+Fourthly, the text file is processed to find a search word defined beforehand. Each time a match for a search word is found, a file is generated giving the publication, section and page number on which the match was found, together with a value expressed as a percentage between and indicating how far into the text it is to be found, in order to make it easier to read the article. In order to make it even easier to find the search word when reading the article, the five words which come before and after the search word are captured (‘extract of words’). At the end of the process the text file is deleted.
+Fifthly, at the end of the data capture process a cover sheet is printed out in respect of all the pages where the relevant search word was found. The following is an example of the text of a cover sheet:
+‘November — Dagbladet Arbejderen, page 3:
+TDC: % “forthcoming sale of the telecommunications group TDC, which is expected to be bought”.’
+Infopaq disputed the claim that the procedure required consent from the rightholders and brought an action against DDF before the Østre Landsret (Eastern Regional Court), claiming that DDF should be ordered to acknowledge that Infopaq is entitled to apply the abovementioned procedure without the consent of DDF or of its members. Since that claim was rejected, Infopaq brought an appeal before the referring court.
+According to the Højesteret, it is not disputed in this case that consent from the rightholders is not required to engage in press monitoring activity and the writing of summaries consisting in physical reading of each publication, selection of the relevant articles on the basis of predetermined search words, and transmission of a manually prepared cover sheet for the summary writers, giving an identified search word in an article and its position in the newspaper. Similarly, the parties in the main proceedings do not dispute that in itself summary writing is lawful and does not require consent from the rightholders.
+Nor is it disputed in this case that the data capture process described above involves two acts of reproduction: the creation of a TIFF file when the printed articles are scanned and the conversion of the TIFF file into a text file. In addition, it is common ground that this procedure entails the reproduction of parts of the scanned printed articles since the extract of words is stored and those words are printed out on paper.
+There is, however, disagreement between the parties as to whether the two last mentioned acts constitute reproduction as contemplated by Article of Directive 2001/29. Likewise, they disagree as to whether, if there is reproduction, the acts in question, taken as a whole, are covered by the exemption from the right of reproduction provided for in Article 5(1) of that directive.
+In those circumstances, the Højesteret, on December 2007, decided to stay the proceedings and to refer questions concerning the interpretation of Articles 2(a) and 5(1) and (5) of that directive to the Court of Justice for a preliminary ruling.
+The Court responded to these questions in its judgment of July in Case C-5/Infopaq International [2009] ECR I-(‘Infopaq International’), in which it found, first, that an act occurring during a data capture process, which consists of storing an extract of a protected work comprising words and printing out that extract, is such as to come within the concept of reproduction in part within the meaning of Article of Directive 2001/29, if, which it was for the national court to establish, the elements thus reproduced are the expression of the intellectual creation of their author. Secondly, the Court concluded that while Article 5(1) of that directive allowed an exemption from the reproduction right for temporary acts of reproduction which are transient or incidental, the last act of the data capture process in issue in the main proceedings, during which Infopaq printed out extracts of words did not constitute such a transient or incidental act. Consequently, the Court found that that act and the data capture process of which it was part could not be carried out without the consent of the rightholders.
+Following that judgment, however, the Højesteret found that it could still be called upon to decide whether Infopaq infringed Directive 2001/by carrying out that process, with the exception of the extract of words, that is to say by confining itself to the implementation of the first three acts of reproduction. The Højesteret therefore referred the following questions to the Court for a preliminary ruling:
+‘1.
+Is the stage of the technological process at which temporary acts of reproduction take place relevant to whether they constitute “an integral and essential part of a technological process”, within the meaning of Article 5(1) of Directive 2001/29?
+2.
+Can temporary acts of reproduction be an “integral and essential part of a technological process” if they consist of manual scanning of entire newspaper articles whereby the latter are transformed from a printed medium into a digital medium?
+3.
+Does the concept of “lawful use”, within the meaning of Article 5(1) of Directive 2001/29, include any form of use which does not require the copyright holder’s consent?
+4.
+Does the concept of “lawful use”, within the meaning of Article 5(1) of Directive 2001/29, include the scanning by a commercial business of entire newspaper articles and subsequent processing of the reproduction, for use in the business’s summary writing, even where the rightholder has not given consent to those acts, if the other requirements in the provision are satisfied?
+Is it relevant to the answer to the question whether the words are stored after the data capture process is terminated?
+5.
+What criteria should be used to assess whether temporary acts of reproduction have “independent economic significance”, within the meaning of Article 5(1) of Directive 2001/if the other requirements in the provision are satisfied?
+6.
+Can the user’s efficiency gains from temporary acts of reproduction be taken into account in assessing whether the acts have “independent economic significance”, within the meaning of Article 5(1) of Directive 2001/29?
+7.
+Can the scanning by a commercial business of entire newspaper articles and the subsequent processing of the reproduction, be regarded as constituting “certain special cases which do not conflict with a normal exploitation” of the newspaper articles and “not unreasonably [prejudicing] the legitimate interests of the rightholder”, pursuant to Article 5(5) of Directive 2001/29, if the requirements in Article 5(1) of the directive are satisfied?
+Is it relevant to the answer to the question whether the words are stored after the data capture process is terminated?’
+Consideration of the questions referred
+Pursuant to the first subparagraph of Article 104(3) of the Rules of Procedure of the Court of Justice, where the answer to a question referred to the Court for a preliminary ruling may be clearly deduced from existing case-law, the Court may, after hearing the Advocate General, at any time, and referring to the case-law in issue, give its decision by reasoned order. That is the situation in the present case.
+Preliminary observations
+Under Article 5(1) of Directive 2001/29, an act of reproduction is exempted from the reproduction right provided for in Article thereof provided that it fulfils five conditions, namely, where
+—
+the act is temporary;
+—
+it is transient or incidental;
+—
+it is an integral and essential part of a technological process;
+—
+its sole purpose is to enable a transmission in a network between third parties by an intermediary or a lawful use of a work or protected subject-matter; and
+—
+the act has no independent economic significance.
+First, it must be borne in mind that those conditions are cumulative in the sense that non-compliance with any one of them will lead to the act of reproduction not being exempted, pursuant to Article 5(1) of Directive 2001/29, from the reproduction right provided for in Article of that directive (Infopaq International, paragraph 55).
+Secondly, it is apparent from the Court’s case-law that the conditions listed above must be interpreted strictly because Article 5(1) of that directive is a derogation from the general principle established by that directive, namely the requirement that the rightholder authorise any reproduction of a protected work (see Infopaq International, paragraphs and 57, and Cases C-403/and C-429/Football Association Premier League and Others [2011] ECR I-9083, paragraph 162).
+It is in that context that it is necessary to examine the questions referred for a preliminary ruling by which the referring court seeks to determine whether the acts of reproduction performed during a technological process, such as that at issue in the main proceedings, satisfy the third, fourth and fifth conditions laid down in Article 5(1) of Directive 2001/29, and those referred to in Article 5(5) of that directive. However, the reference for a preliminary ruling does not concern the first and second conditions laid down in Article 5(1) of that directive, since the Court has already ruled on those conditions at paragraphs to of the judgment in Infopaq International.
+Questions and relating to the condition that the acts of reproduction must constitute an integral and essential part of a technological process
+By its first and second questions, which should be considered together, the referring court asks, in essence, whether Article 5(1) of Directive 2001/must be interpreted as meaning that the acts of reproduction carried out during a data capture process, such as those in issue in the main proceedings, fulfil the condition that those acts must constitute an integral and essential part of a technological process. In that regard, the referring court asks in particular whether the stage of the technological process at which those acts took place and the fact that that technological process involves human intervention should be taken into account.
+The concept of the ‘integral and essential part of a technological process’ requires the temporary acts of reproduction to be carried out entirely in the context of the implementation of the technological process and, therefore, not to be carried out, fully or partially, outside of such a process. This concept also assumes that the completion of the temporary act of reproduction is necessary, in that the technological process concerned could not function correctly and efficiently without that act (see, to that effect, Infopaq International, paragraph 61).
+Furthermore, given that Article 5(1) of Directive 2001/does not specify at which stage of the technological process the acts of temporary reproduction must be carried out, it cannot be excluded that such an act can initiate or terminate that process.
+Similarly, there is nothing in that provision to indicate that the technological process must not involve any human intervention and that, in particular, manual activation of that process be precluded, in order to achieve a first temporary reproduction.
+In the present case, it should be recalled that the technological process in question consists of carrying out electronic and automatic research in newspaper articles and identifying and extracting predefined key words from those articles, in order to render the drafting of summaries of newspaper articles more efficient.
+In that context, there are three successive acts of reproduction involved. They materialise through the creation of the TIFF file, then that of the text file and, finally, through that of the file containing the extract of words.
+In that context, first, it is not in dispute that none of those acts are completed outside of that technological process.
+Secondly, in the light of the considerations set out at paragraphs to of the present order, it is irrelevant that such a technological process is activated by the manual insertion of newspaper articles into a scanner, in order to achieve a first temporary reproduction — the creation of a TIFF file — and that it is terminated by an act of temporary reproduction, namely the creation of a file containing an extract of words.
+Finally, it should be noted that the technological process in question could not function correctly and efficiently without the acts of reproduction concerned. That technological process aims at identifying predefined key words in newspaper articles and extracting them on a digital medium. Such electronic research thus requires a transformation of those articles, from a paper-based medium, into digital data, since that transformation is necessary in order to recognise that data, to identify the key words and to extract those key words.
+Contrary to DDF’s claim, that conclusion is not invalidated by the fact that it would be possible to draft the summaries of the newspaper articles without reproduction. In that context, it is sufficient to note that such a summary is completed outside of that process, being subsequent to it, and, therefore, it is irrelevant in assessing whether such a process can function correctly and efficiently without the acts of temporary reproduction concerned.
+In view of the above, the answer to the first and second questions is that Article 5(1) of Directive 2001/must be interpreted as meaning that the acts of temporary reproduction carried out during a data capture process, such as those in issue in the main proceedings, fulfil the condition that those acts must constitute an integral and essential part of a technological process, notwithstanding the fact that they initiate and terminate that process and involve human intervention.
+Questions and relating to the condition that the acts of reproduction must pursue a sole purpose, namely to enable either the transmission of a protected work or a protected subject-matter in a network between third parties by an intermediary, or the lawful use of such a work or such a subject-matter
+By its third and fourth questions, which should be considered together, the referring court asks, in essence, whether Article 5(1) of Directive 2001/must be interpreted as meaning that the acts of temporary reproduction carried out during a data capture process, such as those in issue in the main proceedings, fulfil the condition that the acts of reproduction must pursue a sole purpose, namely to enable either the transmission of a protected work or a protected subject-matter in a network between third parties by an intermediary, or the lawful use of such a work or such a subject-matter.
+It must be noted at the outset that the acts of reproduction concerned are not intended to enable a transmission in a network between third parties by an intermediary. In those circumstances, it should be examined whether the sole purpose of those acts is to enable the lawful use of a protected work or a protected subject-matter.
+In that respect, as is apparent from Recital in the preamble to Directive 2001/29, a use should be considered lawful where it is authorised by the right holder or where it is not restricted by the applicable legislation (Football Association Premier League and Others, paragraph 168).
+In the case in the main proceedings, it should be noted, first, that in the situation outlined by the referring court, where the last act of the technological process of data capture, namely the printing of the extract of words, is not performed, the technological process concerned, including therefore the creation of the TIFF file, that of the text file and that of the file containing the extract of words, is intended to enable a more efficient drafting of summaries of newspaper articles and, therefore, a use of those articles. Secondly, there is nothing in the file before the Court to indicate that the result of that technological process, namely the extract of words, is intended to enable another use.
+In respect of the lawful or unlawful character of the use, it is not disputed that the drafting of a summary of newspaper articles is not, in the present case, authorised by the holders of the copyright over these articles. However, it should be noted that such an activity is not restricted by European Union legislation. Furthermore, it is apparent from the statements of both Infopaq and the DDF that the drafting of that summary is not an activity which is restricted by Danish legislation.
+In those circumstances, that use cannot be considered to be unlawful.
+In view of the foregoing, the answer to the third and fourth questions is that Article 5(1) of Directive 2001/must be interpreted as meaning that the acts of temporary reproduction carried out during a data capture process, such as those in issue in the main proceedings, fulfil the condition that those acts must pursue a sole purpose, namely the lawful use of a protected work or a protected subject-matter.
+Questions and relating to the condition that the acts of reproduction must not have independent economic significance
+In the light of the context of the case in the main proceedings as a whole, as well as the scope of the above questions, the fifth and sixth question must be understood as seeking to ascertain whether the temporary acts of reproduction carried out during a data capture process, such as those in issue in the main proceedings, fulfil the condition laid down in Article 5(1) of Directive 2001/that those acts must not have independent economic significance.
+In that regard, it should be recalled that the acts of temporary reproduction, within the meaning of Article 5(1), aim to make access to the protected works and their use possible. Since those works have a specific economic value, access to them and their use necessarily has economic significance (see, to that effect, Football Association Premier League and Others, paragraph 174).
+Furthermore, as is apparent from Recital in the preamble to Directive 2001/29, the acts of temporary reproduction — like the acts enabling ‘browsing’ and ‘caching’ — have the purpose of facilitating the use of a work or making that use more efficient. Thus, an inherent feature of those acts is to enable the achievement of efficiency gains in the context of such use and, consequently, to lead to increased profits or a reduction in production costs.
+However, those acts must not have independent economic significance, in that the economic advantage derived from their implementation must not be either distinct or separable from the economic advantage derived from the lawful use of the work concerned and it must not generate an additional economic advantage going beyond that derived from that use of the protected work (see, to that effect, Football Association Premier League and Others, paragraph 175).
+The efficiency gains resulting from the implementation of the acts of temporary reproduction, such as those in issue in the main proceedings, have no such independent economic significance, inasmuch as the economic advantages derived from their application only materialise during the use of the reproduced subject matter, so that they are neither distinct nor separable from the advantages derived from its use.
+On the other hand, an advantage derived from an act of temporary reproduction is distinct and separable if the author of that act is likely to make a profit due to the economic exploitation of the temporary reproductions themselves.
+The same is true if the acts of temporary reproduction lead to a change in the subject matter reproduced, as it exists when the technological process concerned is initiated, because those acts no longer aim to facilitate its use, but the use of a different subject matter.
+Consequently, the answer to the fifth and sixth questions is that Article 5(1) of Directive 2001/must be interpreted as meaning that the acts of temporary reproduction carried out during a data capture process, such as those in issue in the main proceedings, fulfil the condition that those acts must not have an independent economic significance provided, first, that the implementation of those acts does not enable the generation of an additional profit, going beyond that derived from lawful use of the protected work and, secondly, that the acts of temporary reproduction do not lead to a modification of that work.
+Question relating to the condition that the acts of reproduction must neither conflict with the normal exploitation of the work nor unreasonably prejudice the legitimate interests of the rightholder
+By its seventh question, the referring court asks, in essence, whether Article 5(5) of Directive 2001/must be interpreted as meaning that the acts of temporary reproduction carried out during a data capture process, such as those in issue in the main proceedings, fulfil the condition that those acts must neither conflict with the normal exploitation of the work nor unreasonably prejudice the legitimate interests of the rightholder.
+In that regard, suffice it to note that if those acts of reproduction fulfil all the conditions of Article 5(1) of Directive 2001/29, as interpreted by the case-law of the Court, it must be held that they do not conflict with the normal exploitation of the work or unreasonably prejudice the legitimate interests of the rightholder (Football Association Premier League and Others, paragraph 181).
+Consequently, the answer to the seventh question is that Article 5(5) of Directive 2001/must be interpreted as meaning that, if they fulfil all the conditions laid down in Article 5(1) of that directive, the acts of temporary reproduction carried out during a ‘data capture’ process, such as those in issue in the main proceedings, must be regarded as fulfilling the condition that the acts of reproduction may not conflict with a normal exploitation of the work or unreasonably prejudice the legitimate interests of the rightholder.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the proceedings pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+(1)
+Article 5(1) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society must be interpreted as meaning that the acts of temporary reproduction carried out during a ‘data capture’ process, such as those in issue in the main proceedings,
+—
+fulfil the condition that those acts must constitute an integral and essential part of a technological process, notwithstanding the fact that they initiate and terminate that process and involve human intervention;
+—
+fulfil the condition that those acts of reproduction must pursue a sole purpose, namely to enable the lawful use of a protected work or a protected subject-matter;
+—
+fulfil the condition that those acts must not have an independent economic significance provided, first, that the implementation of those acts does not enable the generation of an additional profit going beyond that derived from the lawful use of the protected work and, secondly, that the acts of temporary reproduction do not lead to a modification of that work.
+ 
+(2)
+Article 5(5) of Directive 2001/must be interpreted as meaning that, if they fulfil all the conditions laid down in Article 5(1) of that directive, the acts of temporary reproduction carried out during a ‘data capture’ process, such as those in issue in the main proceedings, must be regarded as fulfilling the condition that the acts of reproduction may not conflict with a normal exploitation of the work or unreasonably prejudice the legitimate interests of the rightholder.
+ 
+[Signatures]
+(
+*)   Language of the case: Danish.
+Top  
+ 

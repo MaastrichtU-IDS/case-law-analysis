@@ -1,0 +1,157 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+November (
+*)
+‛Reference for a preliminary ruling — Customs union — Tariff classification — Common Customs Tariff — Combined Nomenclature — Headings and — Modules for short-range data transmission and reception — Subheadings and — Definition of parts of electrical machinery and apparatus’
+In Case C‑666/13,
+REQUEST for a preliminary ruling under Article TFEU from the Finanzgericht Düsseldorf (Germany), made by decision of November 2013, received at the Court on December 2013, in the proceedings
+Rohm Semiconductor GmbH
+v
+Hauptzollamt Krefeld,
+THE COURT (Eighth Chamber),
+composed of C. Toader (Rapporteur), acting as President of the Eighth Chamber, E. Jarašiūnas and C.G. Fernlund, Judges,
+Advocate General: N. Jääskinen,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Rohm Semiconductor GmbH, by H. Nehm, Rechtsanwalt,
+—
+the European Commission, by B.-R. Killmann and A. Caeiros, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of headings and and subheadings and of the Combined Nomenclature in Annex to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 1832/of August (OJ L 290, p. 1) (‘the CN’).
+The request has been made in proceedings between Rohm Semiconductor GmbH (‘Rohm Semiconductor’) and the Hauptzollamt Krefeld (Principal Customs Office, Krefeld) concerning the recovery of customs duties on imports of modules for short-range data transmission and reception.
+Legal context
+EU legislation
+The CN is based on the Harmonised Commodity Description and Coding System (‘the HS’) drawn up by the Customs Cooperation Council, now the World Customs Organisation (WCO), and established by the International Convention on the Harmonised Commodity Description and Coding System concluded at Brussels on June 1983, approved on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1). It uses the six-digit classification of the headings and subheadings of the HS, adding seventh and eighth digits to create its own specific subdivisions.
+Part One of the CN consists of a number of preliminary provisions. In that part, under Section I, which contains the general rules, Subsection A, entitled ‘General rules for the interpretation of the [CN]’, provides:
+‘Classification of goods in the [CN] shall be governed by the following principles:
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+2.
+(a)
+Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided that, as presented, the incomplete or unfinished article has the essential character of the complete or finished article. It shall also be taken to include a reference to that article complete or finished (or falling to be classified as complete or finished by virtue of this rule), presented unassembled or disassembled.
+...
+6.
+For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, mutatis mutandis, to the above rules, on the understanding that only subheadings at the same level are comparable.
+...’
+The second part of the CN, entitled ‘Schedule of Customs Duties’, contains a Section XVI. That section includes, inter alia, Chapter 85, entitled ‘Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’.
+Under the heading of that Section is note 2, which stipulates:
+‘...
+(a)
+Parts which are goods included in any of the headings of Chapter or (other than headings 8409, 8431, 8448, 8466, 8473, 8485, 8503, 8522, 8529, and 8548) are in all cases to be classified in their respective headings.
+…
+(c)
+All other parts are to be classified in heading 8409, 8431, 8448, 8466, 8473, 8503, 8522, or as appropriate or, failing that, in heading or 8548.’
+Chapter contains, inter alia, the following headings and subheadings:
+‘Parts suitable for use solely or principally with the apparatus of headings to 8528:
+...
+Other:
+‐ ‐ Assemblies and sub-assemblies consisting of two or more parts or pieces fastened or joined together, for apparatus of subheadings 10, 11, and 10, for use in civil aircraft ...
+‐ ‐ Other:
+‐ ‐ ‐ Parts of apparatus of subheadings 50, 91, 99, and ‐ ‐ ‐ Other:
+‐ ‐ ‐ ‐ Cabinets and cases:
+…
+Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes; mounted piezoelectric crystals:
+...
+Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter:
+...
+– Other machinery:
+...
+– — Other
+...
+– — – — Other
+– Parts:
+...
+– — Other
+...’
+Article of Council Regulation (EC) No 1255/of June temporarily suspending the autonomous Common Customs Tariff duties on certain industrial, agricultural and fishery products (OJ L 158, p. 1), as amended by Council Regulation (EC) No 2264/of December (OJ L 350, p. 1) (‘Regulation No 1255/96’), provided that the autonomous Common Customs Tariff duties for the products listed in its annex were suspended at the levels indicated against each of them. According to that annex, products of subheading were not subject to customs duties. Those products included ‘assemblies of products falling within heading or mounted on a printed circuit contained in a housing’. Regulation No 1255/was repealed by Council Regulation (EU) No 1344/suspending the autonomous Common Customs Tariff duties on certain agricultural, fishery and industrial products and repealing Regulation (EC) No 1255/(OJ L 349, p. 1). However, Regulation No 1255/is still applicable in circumstances such as those at issue in the main proceedings.
+The HS Explanatory Notes
+The WCO approves, under the conditions laid down in Article of the International Convention on the Harmonised Commodity Description and Coding System, concluded at Brussels on June 1983, the Explanatory Notes and Classification Opinions adopted by the HS Committee.
+The HS Explanatory Notes to heading 8541, under part B entitled ‘Photosensitive Semiconductor Devices’, contains the following information:
+‘This group comprises photosensitive semiconductor devices in which the action of visible rays, infrared rays or ultraviolet rays causes variations in resistivity.
+...
+Photosensitive semiconductor devices fall in this heading whether presented mounted (i.e., with their terminals or leads), packaged or unmounted.’
+The HS Explanatory Notes to heading state the following, inter alia:
+‘The electrical appliances and apparatus of this heading must have individual functions. The introductory provisions of Explanatory Note to heading concerning machines and mechanical appliances having individual functions apply, mutatis mutandis, to the appliances and apparatus of this heading.’
+In that regard the HS Explanatory Notes to heading state:
+‘This heading is restricted to machinery having individual functions, which:
+...
+(c)
+cannot be classified in any other particular heading of this Chapter since:
+...
+(i)
+no other heading covers it by reference to its method of functioning, description or type;
+...
+The machinery of this heading is distinguished from the parts of machinery, etc., that fall to be classified in accordance with the general provisions concerning parts, by the fact that it has individual functions.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+In 2003, Rohm Semiconductor declared for release for free circulation modules for short-range data transmission and reception in interaction with other electronic tools using infrared light. Those modules are intended to be incorporated in telephones and laptops. They are each composed, inter alia, of a printed circuit on which photo-diodes and light emitting diodes (‘LEDs’) are mounted.
+In and 2007, the Hauptzollamt Krefeld imposed customs duty at the rate of 3.7% on those modules on the ground that the modules fall within subheading of the CN. It therefore issued, in respect of Rohm Semiconductor, two decisions for the recovery of customs duty for a total amount of EUR 397.15.
+Rohm Semiconductor brought an action against those decisions before the Finanzgericht Düsseldorf (Finance Court, Düsseldorf). It submits that the modules at issue in the main proceedings come under tariff heading which includes, inter alia, diodes, transistors and similar semiconductor devices, as well as LEDs, and that, as a consequence, those modules are exempt from customs duty. In support of that argument, it relies on the judgment in X, C‑411/07, EU:C:2008:535, in which the Court found that optocouplers come under CN heading 8541.
+The Hauptzollamt Krefeld disputes the relevance of that argument. The modules at issue can be distinguished from optocouplers in that, unlike optocouplers, modules operate through the interaction between the diodes incorporated in them and the external diodes installed in other electronic devices.
+It considers, first of all, that the mere fact that those modules are not optocouplers precludes them from being classified under heading 8541. In optocouplers there is a galvanic separation between the light-producing and light-receiving elements, which prevents an electronic connection between the circuits which are connected to one another by those components. Conversely, in the modules at issue in the main proceedings, the LEDs and the photo-diodes are not designed to interact with one another, but must respectively transmit signals to and receive signals from external devices.
+Next, those modules have a different function from that of the optocoupler. As transmitter/receiver modules, they are intended for wireless optical communication.
+Finally, that function is distinct from that of the devices, mobile phones or laptops in which they are incorporated. Those modules, by their function, are not an integrated or inseparable part of those devices.
+Having regard to the arguments submitted, the referring court expresses doubts as to whether those modules come under heading of the CN on the basis of their composition, or heading of the CN on the basis of their individual function.
+In those circumstances, the Finanzgericht Düsseldorf decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Does the fact that goods have an individual function within the meaning of heading of the CN mean that they may not be classified in heading 8541, despite their composition?
+2.
+If the answer to Question is in the affirmative, in what circumstances must transmitter/receiver modules of the type described in more detail in the grounds, which have an individual function within the meaning of heading 8543, be regarded as parts of machines or apparatus in heading 8543?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether, the CN must be interpreted as meaning that modules, each consisting of the interconnection of an LED, a photo-diode and a number of other semiconductor devices, and which can be used as infrared transmitters/receivers where their electricity supply derives from the devices in which they are incorporated, come under heading or of the CN.
+It must first be recalled that it is clear from the settled case-law of the Court that when the Court is requested to give a preliminary ruling on a matter of tariff classification, its task is to provide the national court with guidance on the criteria the implementation of which will enable the latter to classify the products at issue correctly in the CN, rather than to effect that classification itself, a fortiori since the Court does not necessarily have available to it all the information which is essential in that regard. In any event, the national court is in a better position to do so. However, in order to give the referring court a useful answer, the Court may, in a spirit of cooperation with national courts, provide that court with all the guidance that it deems necessary (see, inter alia, judgments in Data I/O, C‑370/08, EU:C:2010:284, paragraph and the case-law cited, and in Data I/O, C‑297/13, EU:C:2014:331, paragraph and the case-law cited).
+Next, as Rohm Semiconductor and the European Commission submit, in order to ensure legal certainty and ease of verification, the decisive criterion for the classification of goods for customs purposes is in general to be sought in their objective characteristics and their properties as defined in the wording of the relevant heading of the CN and in the section or chapter notes (see, inter alia, judgments in Peacock, C‑339/98, EU:C:2000:573, paragraph 9; Codirex Expeditie, C‑400/06, EU:C:2007:519, paragraph and the case-law cited; and Sysmex Europe, C‑480/13, EU:C:2014:2097, paragraph 29).
+Finally, the Explanatory Notes drawn up by the Commission as regards the CN and by the WCO as regards the HS may be an important aid to the interpretation of the scope of the various tariff headings but do not have legally binding force (see, to that effect, judgments in Data I/O, EU:C:2014:331, paragraph and the case-law cited, and Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph and the case-law cited).
+First, as regards heading of the CN, the Court has held that photosensitive semiconductor devices, such as optocouplers, inter alia, come under that heading (judgment in X, EU:C:2008:535, paragraph 30).
+Secondly, so far as heading is concerned, it applies to an electrical machine or apparatus only if it has an individual function, and if it cannot be classified under other headings of Chapter of the CN (see, to that effect, judgment in X, EU:C:2008:535, paragraphs and 28).
+Since the referring court found that the modules at issue in the main proceedings had an individual function, it is necessary to examine the second of those conditions.
+It is clear from the subsidiary nature of heading that it includes products which, although they come under Chapter of the CN, they do not correspond to any other heading of that chapter (see, by analogy, judgment in Data I/O, EU:C:2014:331, paragraph 49).
+First, the characteristics of the product at issue in the main proceedings are more complex than those of an optocoupler.
+Modules such as those at issue in the main proceedings can be distinguished from a mere semiconductor device or a diode in that, as the referring court observes, they are composed of a number of circuits placed on a number of semiconductor devices, as well as an LED and a photo-diode, are placed. Therefore, none of those components confers a characteristic function on those modules since the modules may be used both to transmit and to receive signals.
+Also, while the optocouplers transmit a signal from one electric circuit to another within the same product, the modules at issue allow external communication to products in which they are incorporated. Thus, the communication of data through those same modules occurs between separate devices.
+Secondly, as the Commission notes in its written observations, the fact that modules such as those at issue in the main proceedings are composed of elements which, considered in isolation, could each be classified under CN heading 8541, is not such as to call into question their classification under another heading, since, as a result of the assembly of those elements, they constitute products that are distinct from those elements (see, by analogy, judgment in Kloosterboer Services, C‑173/08, EU:C:2009:382, paragraph 29).
+Thus, since modules, such as those at issue in the main proceedings, used to transmit and receive short-range data in interaction with other electronic tools using infrared light, have an individual function, and those modules, which are each composed of the interconnection of an LED, a photo-diode and a number of other semiconductor devices, and which are intended to be inserted in other devices from which their electricity supply is derived, are not included in any heading of Chapter of the CN other than heading 8543, those modules come under the latter heading.
+It follows from all of the foregoing considerations that the answer to the first question is that the CN must be interpreted as meaning that modules, each consisting of the interconnection of an LED, a photo-diode and a number of other semiconductor devices, and which may be used as infrared transmitters/receivers where their electricity supply derives from the devices in which they are incorporated, come under CN heading 8543.
+The second question
+Admissibility
+Rohm Semiconductor claims that the second question is hypothetical and consequently proposes that the Court should declare it inadmissible. In that regard, it relies on the definition of the term ‘parts’, adopted by the Court in its judgment in X (EU:C:2008:535), in order to infer that, since the modules at issue in the main proceedings cannot function effectively, independently of the mobile phones for which they are designed, they must be classified as ‘parts’ of those mobile phones. According to Note 2(c) of Section XVI of the CN, those modules should be classified under subheading in that they are specifically intended to be incorporated in mobile phones.
+According to Rohm Semiconductor, the second question thus seeks to determine whether, in a situation where the wording of CN heading excludes mobile phones, such modules, like mobile phones, must be regarded as a machine/device coming under heading on the grounds that they have a function that is specific to them, separate from that of a mobile phone, or whether, despite that individual function, those modules are parts of machines coming under that heading.
+As a preliminary point, it should be noted that, according to the Court’s settled case-law, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that Court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see, inter alia, judgments in Pohotovosť, C‑470/12, EU:C:2014:101, paragraph and the case-law cited, and Kušionová, C‑34/13, EU:C:2014:2189, paragraph 38).
+First, in the light of the answer to the first question, namely that the CN must be interpreted as meaning that modules such as those at issue in the main proceedings come under heading 8543, it is all the clearer that it is necessary and appropriate to provide the referring court with an answer to the second question in order to resolve the dispute in the main proceedings.
+Secondly, it should be borne in mind that, under the terms of Note 2(a) of Section XVI of the CN ‘parts which are goods included in any of the headings of Chapter or (other than headings 8409, 8431, 8448, 8466, 8473, 8485, 8503, 8522, 8529, and 8548) are in all cases to be classified in their respective headings’. That classification rule applies where the parts in question consist of goods which, because of their individual characteristics, are covered by a particular tariff heading under Chapter or of the CN. By virtue of that rule, parts of machines are classified in accordance with their individual characteristics as stand-alone goods under the particular heading which those goods come under.
+That clarification is not without significance because, as the referring court observes, the payment of customs duty is suspended for certain products coming under heading of the CN by virtue of Regulation No 1255/96. The products under heading of the CN, for which such a suspension exists, include those which are presented as an ‘assembly of products falling within heading or mounted on a printed circuit contained in a housing’. As was observed in paragraph above, it is possible that the product in question in the main proceedings, composed of devices which individually all come under CN heading 8541, may fit that description. In order for the benefit of that suspension to be granted, it is, however, necessary for that product to be classified as a ‘part’. Therefore, resolving the dispute in the main proceedings does depend on the answer to the second question.
+It follows from all the foregoing considerations that the second question is admissible.
+Substance
+By its second question, the referring court asks, in essence, whether the CN must be interpreted as meaning that modules such as those at issue in the main proceedings incorporated in devices for the mechanical or electrical functioning of which they are not necessary, constitute parts for the purposes of CN subheading 80, or as meaning that those modules come under CN subheading relating to other electrical machines and apparatus, having individual functions, not specified or included elsewhere in Chapter of the CN.
+The notion of ‘parts’, within the meaning of Note of Section XVI of the CN, is not defined by the latter. In the interests of a consistent and uniform application of the Common Customs Tariff, the Court has given that notion a single definition common to all the chapters of the CN (see, to that effect, judgment in HARK, C‑450/12, EU:C:2013:824, paragraph 37).
+It is clear from the case-law of the Court concerning heading and note 2(b) to Section XVI of the CN that the notion of ‘parts’ implies a whole for the functioning of which the part is essential (judgments in Peacock, EU:C:2000:573, paragraph 21, and Data I/O, EU:C:2014:331, paragraph and the case-law cited).
+In order to be able to classify a product as a ‘part’, it is not sufficient to show that, without that product, the machine is not able to function properly. It remains necessary to establish that the mechanical or electrical functioning of the machine in question is dependent upon that product (judgments in HARK, EU:C:2013:824, paragraph and the case-law cited, and in Data I/O, EU:C:2014:331, paragraph and the case-law cited).
+The HS Explanatory Notes to heading state that the electrical appliances and apparatus of this heading must have individual functions. That paragraph also states that the introductory provisions of the HS Explanatory Note to heading concerning machines and mechanical appliances having individual functions apply, mutatis mutandis, to the appliances and apparatus of heading of the HS.
+In that regard, the HS Explanatory Notes to heading state, first, that it is restricted to machinery having individual functions which cannot be classified in any other particular heading of Chapter of the HS, since no other heading covers it by reference to its method of functioning, description or type, and, secondly, the machinery of this heading is distinguished from the parts of machinery that fall to be classified in accordance with the general provisions concerning parts, by the fact that it has individual functions.
+According to Rohm Semiconductor, the Court found that the optocouplers at issue in the judgment in X (EU:C:2008:535, paragraph 28) could not be classified under heading 8543, even if it was considered that they do not come under CN heading 8541.
+Although it is true that paragraph of the German version of that judgment refers to ‘machine parts’, those terms do not refer to the notion of ‘parts’ within the meaning of the CN, but imply that the optocoupler is a constituent element of other machines, for which reason its classification under heading was appropriate.
+As the Commission notes in its written observations, the French version of the judgment in X (EU:C:2008:535) could cause the same confusion as that caused by the German version. However, in paragraph of the English version of that judgment the term ‘machine components’ is used instead of the term ‘parties de machine’ from the French version. Where ‘parts’, within the meaning of the CN were under discussion, reference was made in the English version of the judgment in X to the term ‘parts of machines’, as in paragraph of that version, in particular.
+Although the Court did indeed find that optocouplers, such as those at issue in X (EU:C:2008:535), could not be classified under heading 8543, as it states in paragraph of that judgment, that was precisely because they were suitable for use with many types of machines or apparatus and not only the residual category of machines and apparatus referred to in heading of the CN, corresponding to electrical machines and apparatus, having individual functions, not specified or included elsewhere in Chapter 85.
+As the referring court stated, although it is true that the modules at issue in the main proceedings are incorporated in mobile phones or other devices, they are not essential for their use. As the Commission submitted in its written observations, those modules, in themselves, do not play any role in the process of telephony, data-transfer, printing or creation and reproduction of photographs. According to the information provided by that court, the fact that those modules are not incorporated in mobile phones, laptops, printers or digital cameras does not impede their functioning.
+As incorporation is not necessary for the functioning of those machines, those modules cannot therefore be regarded as parts within the meaning of CN subheading 80.
+Therefore, the answer to the second question is that the CN must be interpreted as meaning that modules such as those at issue in the main proceedings incorporated in devices for the mechanical or electrical functioning of which they are not necessary, do not constitute parts for the purposes of CN subheading 80, but do come under CN subheading relating to other electrical machines and apparatus having individual functions, not specified or included elsewhere in Chapter of the CN.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+1.
+The Combined Nomenclature in Annex to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EC) No 1832/of August must be interpreted as meaning that modules, each consisting of the interconnection of a light emitting diode, a photo-diode and a number of other semiconductor devices, and which may be used as infrared transmitters/receivers where their electricity supply derives from the devices in which they are incorporated, come under CN heading 8543.
+ 
+2.
+The Combined Nomenclature in Annex to Regulation No 2658/87, as amended by Regulation No 1832/must be interpreted as meaning that modules such as those at issue in the main proceedings incorporated in devices for the mechanical or electrical functioning of which they are not necessary, do not constitute parts for the purposes of subheading of that nomenclature, but do come under subheading of that nomenclature, relating to other electrical machines and apparatus having individual functions, not specified or included elsewhere in Chapter of that nomenclature.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

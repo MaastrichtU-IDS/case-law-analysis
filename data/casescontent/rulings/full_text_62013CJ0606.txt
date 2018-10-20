@@ -1,0 +1,138 @@
+
+JUDGMENT OF THE COURT (Seventh Chamber)
+October (
+*
+)
+‛Reference for a preliminary ruling — Directive 2003/96/EC — Articles and — Directive 2008/118/EC — Directive 92/12/EEC — Article 3(1) — Scope — Rules of a Member State — Levying of a tax on the thermal power of nuclear reactors’
+In Case C‑606/13,
+REQUEST for a preliminary ruling under Article TFEU from the Kammarrätten i Sundsvall (Sweden), made by decision of October 2013, received at the Court on November 2013, in the proceedings
+OKG AB
+v
+Skatteverket,
+THE COURT (Seventh Chamber),
+composed of J.-C. Bonichot, President of the Chamber, A. Arabadjiev and J.L. da Cruz Vilaça (Rapporteur), Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+OKG AB, by M. Nilsson and M. Palm, advokater,
+—
+the German Government, by T. Henze and K. Petersen, acting as Agents,
+—
+the Swedish Government, by A. Falk, C. Meyer-Seitz, U. Persson, E. Karlsson, L. Swedenborg, C. Hagerman and K. Sparrman, acting as Agents,
+—
+the European Commission, by A. Cordewener and J. Enegren, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of, first, Articles 4(2) and 21(5) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, p. 51) and, second, Article 1(1) of Council Directive 2008/118/EC of December concerning the general arrangements for excise duty and repealing Directive 92/12/EEC (OJ L 9, p. 12).
+The request has been made in proceedings between OKG AB (‘OKG’) and the Skatteverket (Swedish Tax Agency) concerning the latter’s decision to tax OKG by way of tax on the thermal power of nuclear reactors.
+Legal context
+EU law
+Article of Directive 2003/is worded as follows:
+‘Member States shall impose taxation on energy products and electricity in accordance with this Directive.’
+Article of that directive provides:
+‘1.   For the purposes of this Directive, the term “energy products” shall apply to products:
+(a)
+falling within CN codes to 1518, if these are intended for use as heating fuel or motor fuel;
+...
+(h)
+falling within CN code if these are intended for use as heating fuel or motor fuel.
+2.   This Directive shall also apply to: Electricity falling within CN code 2716.
+3.   When intended for use, offered for sale or used as motor fuel or heating fuel, energy products other than those for which a level of taxation is specified in this Directive shall be taxed according to use, at the rate for the equivalent heating fuel or motor fuel.
+…
+4.   This Directive shall not apply to:
+…
+(b)
+the following uses of energy products and electricity:
+—
+energy products used for purposes other than as motor fuels or as heating fuels,
+...’
+According to Article of that directive:
+‘References in [Council Directive 92/12/EEC of February on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products (OJ L 76, p. 1)] to “mineral oils” and “excise duty”, insofar as [they apply] to mineral oils, shall be interpreted as covering all energy products, electricity and national indirect taxes referred to respectively in Articles and 4(2) of this Directive.’
+Article 4(2) of the same directive provides:
+‘For the purpose of this Directive “level of taxation” is the total charge levied in respect of all indirect taxes (except [value added tax]) calculated directly or indirectly on the quantity of energy products and electricity at the time of release for consumption.’
+Article 21(5) of Directive 2003/provides:
+‘For the purpose of applying Articles and of Directive 92/12/EEC, electricity and natural gas shall be subject to taxation and shall become chargeable at the time of supply by the distributor or redistributor. ...’
+Article of Directive 92/provides that:
+‘1.   This Directive lays down the arrangements for products subject to excise duties and other indirect taxes which are levied directly or indirectly on the consumption of such products, except for value added tax and taxes established by the Community.
+...’
+Article 3(1) of that directive provides:
+‘This Directive shall apply at Community level to the following products as defined in the relevant Directives:
+—
+mineral oils,
+—
+alcohol and alcoholic beverages,
+—
+manufactured tobacco.’
+Article 1(1) of Directive 2008/provides:
+‘This Directive lays down general arrangements in relation to excise duty which is levied directly or indirectly on the consumption of the following goods (hereinafter “excise goods”):
+(a)
+energy products and electricity covered by Directive 2003/96/EC;
+...’
+According to Article of that directive:
+‘1.   Directive 92/12/EEC is repealed with effect from April 2010.
+...
+2.   References to the repealed Directive shall be construed as references to this Directive.’
+Swedish law
+Paragraph of Law (2000:466) on taxation of the thermal power of nuclear reactors (lagen (2000:466) om skatt på termisk effekt i kärnkraftsreaktorer) provides:
+‘A tax on the thermal power of a nuclear reactor shall be paid to the State pursuant to the present Law. For the purposes of this Law, “thermal power” means the heat production capacity of a nuclear reactor.’
+Paragraph of that law provides that ‘[t]he tax shall be paid for each calendar month that the authorisation to own and operate a nuclear reactor exists. Where the authorisation to operate has expired or is withdrawn before the end of a calendar month, the tax liability shall cease at that time’.
+Under Paragraph of that law:
+‘The person who has authority to own and operate a nuclear reactor shall be the party liable for the tax.’
+Paragraph of that law provides:
+‘Where a nuclear reactor has been out of operation for a continuous period of over calendar days, a deduction of SEK [Swedish crowns (approximately EUR 43.54)] per megawatt of thermal power may be made for the number of calendar days in excess of 90.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+OKG operates a nuclear plant. For the accounting periods April, May and June 2009, it paid the tax on the thermal power of nuclear reactors.
+The company subsequently contested the underlying tax assessment and requested a refund of that tax from the Skatteverket. In support of its request, it stated, inter alia, that in practice the tax constitutes an excise duty on electricity generation which is contrary to Articles 4(2) and 21(5) of Directive 2003/96.
+When the Skatteverket upheld its initial decision, OKG brought proceedings before the Förvaltningsrätten i Falun (Administrative Court in Falun), which dismissed the action, holding that the tax in question did not come within the scope of either Directive 2003/or Directive 2008/118.
+OKG brought an appeal against that judgment before the referring court, arguing that the tax on the thermal power of nuclear reactors in practice constitutes an excise duty on electricity generation, given the direct link present between the thermal power of the plant and the electricity generated by it. Further proof of the existence of that link can be found in the fact that if electricity generation is interrupted for over days, no tax is payable.
+OKG submits, lastly, that the situation is analogous to that which gave rise to the judgment in Braathens (C‑346/97, EU:C:1999:291), in which the Court held that a tax, resulting from a flat-rate calculation according to the estimated quantity of hydrocarbons emitted by an aircraft, was in fact levied on the consumption of aircraft fuel and that therefore Council Directive 92/81/EEC of October on the harmonisation of the structures of excise duties on mineral oils (OJ L 316, p. 12) was applicable and that the tax in question was incompatible with that directive.
+The Skatteverket takes the view that the tax in question is a fixed-rate tax based on the maximum authorised heat production capacity of a nuclear reactor and not a variable tax on the amount of electricity actually generated. It emphasises that the tax is levied even if generation is suspended. It is only in the event of an extraordinary power stoppage of over consecutive days that the tax is not payable.
+In those circumstances, the Kammarrätten i Sundsvall (Administrative Court of Appeal in Sundsvall) decided to stay the proceedings and refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Article 4(2) of [Directive 2003/96] states that “level of taxation” is the total charge levied in respect of all indirect taxes (except [value added tax]) calculated directly or indirectly on the quantity of electricity at the time of release for consumption. Under Article 21(5) of that directive, electricity is to be subject to taxation and the tax liability is to become applicable at the time of supply by the distributor or redistributor. Do these articles preclude a tax levied on the thermal power of nuclear reactors?
+(2)
+Does a tax on thermal power constitute an excise duty which is levied directly or indirectly on the consumption of such goods (excise goods) as are referred to in Article 1(1) of [Directive 2008/118]?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether Articles 4(2) and 21(5) of Directive 2003/must be interpreted as precluding a national rule, such as the one at issue in the main proceedings, which provides for the levying of a tax on the thermal power of nuclear reactors.
+It should be noted that the first question, as formulated by the referring court, is based on the premiss that Directive 2003/is applicable ratione materiae to the dispute in the main proceedings. According to the wording of Article of that directive, its scope is restricted to the taxation of energy products and electricity, as defined in Article 2(1) and (2) thereof.
+In those circumstances, it must first be ascertained whether ‘thermal power of a nuclear reactor’, understood as referring to the heat production capacity of that reactor, comes within the scope of Directive 2003/96.
+It is appropriate to begin by recalling that Article 2(1) of that directive defines ‘energy products’ for the purposes of that directive by drawing up an exhaustive list of the products covered by that definition by reference to the codes of the combined nomenclature (judgment in Kernkraftwerke Lippe-Ems, C‑5/14, EU:C:2015:354, paragraph 47).
+Since the thermal power of a nuclear reactor is not on that list, it cannot be considered to be an ‘energy product’ for the purposes of Directive 2003/96.
+That interpretation is supported by Article 2(1), (3) and (4)(b) of that directive, from which it is apparent that ‘energy product’ refers only to those products which are intended for use as motor fuel or heating fuel. The same cannot be said of the thermal power of a nuclear reactor, which refers to the reactor’s heat production capacity.
+Consequently, the thermal power of nuclear reactors does not come within the definition of ‘energy product’ for the purposes of Directive 2003/96.
+Secondly, Article 2(2) of Directive 2003/states that electricity is to be understood as defined in CN code 2716.
+In that regard, given the definition of ‘tax on the thermal power of a nuclear reactor’ in paragraph of this judgment, it must be observed that the tax at issue in the main proceedings consists in the levying of a fixed monthly amount calculated according to a theoretical value, being the quantity of megawatts of maximum thermal power fixed for each nuclear reactor by the authorisation, issued by the national authorities, to own and operate that nuclear reactor. Moreover, the holder of the authorisation to own and operate a nuclear reactor remains liable for the tax on the thermal power even when it is not being operated, except for extraordinary power stoppages of over consecutive days.
+There is therefore no link between, on the one hand, the chargeable event for the tax at issue in the main proceedings, being the theoretical production capacity of the nuclear reactor and, on the other, the amount of electricity actually generated by that reactor.
+Accordingly, the thermal power of a nuclear reactor, as construed in the national legislation at issue in the main proceedings, does not come within the definition of ‘electricity’ for the purposes of Directive 2003/96.
+Thirdly, in the light of the considerations set out in paragraphs and of this judgment, a tax such as the one at issue in the main proceedings cannot be regarded as having been calculated directly or indirectly on the quantity of energy products and electricity ‘at the time of release for consumption’ within the meaning of Article 4(2) of Directive 2003/96.
+Similarly, nor can there be said to be a direct and inseverable link between the chargeable event for the tax and the consumption of electricity generated by a given nuclear reactor, as held in the judgment in Braathens (C‑346/97, EU:C:1999:291, paragraph 23).
+It follows from all the foregoing considerations that a tax such as that at issue in the main proceedings, levied on the thermal power of a nuclear reactor, does not come within the scope of that directive.
+The answer to the first question referred is therefore that Articles 4(2) and 21(5) of Directive 2003/must be interpreted as not precluding a national rule, such as the one at issue in the main proceedings, which provides for the levying of a tax on the thermal power of nuclear reactors, in so far as such a tax does not come within the scope of that directive.
+The second question
+It should be noted as a preliminary point that, under Article of Directive 2008/118, Directive 92/was repealed with effect from April 2010. Since the taxation periods at issue in the main proceedings precede that date, the second question must be appraised in the light of Directive 92/12.
+Consequently, by its second question, the referring court should be understood as asking, in essence, whether Directive 92/must be interpreted as meaning that a tax on the thermal power of a nuclear reactor is an excise duty for the purposes of that directive.
+Article 3(1) of that directive states that it is applicable to mineral oils, alcohol and alcoholic beverages and manufactured tobacco, as defined in the relevant directives.
+It follows from Article of Directive 2003/that, in addition to the taxation of those products, Directive 92/also governs the taxation of the products referred to in Articles and 4(2) of Directive 2003/96, including in particular the consumption of electricity.
+As observed by the Court in paragraph above, a tax such as that at issue in the main proceedings does not come within the scope of Directive 2003/96. Accordingly, nor does such a tax come within the scope of Directive 92/12.
+The answer to the second question referred is therefore that Directive 92/must be interpreted as meaning that a tax on the thermal power of a nuclear reactor is not an excise duty for the purposes of that directive.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Seventh Chamber) hereby rules:
+ 
+1.
+Articles 4(2) and 21(5) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity must be interpreted as not precluding a national rule, such as the one at issue in the main proceedings, which provides for the levying of a tax on the thermal power of nuclear reactors, in so far as such a tax does not come within the scope of that directive.
+ 
+2.
+Council Directive 92/12/EEC of February on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products must be interpreted as meaning that a tax on the thermal power of a nuclear reactor is not an excise duty for the purposes of that directive.
+ 
+[Signatures]
+(
+*
+)   Language of the case: Swedish.
+Top  
+ 

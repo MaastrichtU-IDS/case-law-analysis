@@ -1,0 +1,409 @@
+
+Case C-346/European Commission
+v
+United Kingdom of Great Britain and Northern Ireland
+(Failure of a Member State to fulfil obligations – Directive 2001/80/EC – Pollution and nuisance – Combustion plants – Limitation of emissions of certain pollutants into the air – Directive not applied to the Lynemouth power plant (United Kingdom))
+Summary of the Judgment
+Environment – Atmospheric pollution – Directive 2001/– Scope – Large combustion plants – Exceptions
+(European Parliament and Council Directive 2001/80, Art. 2(7), second subpara., 1st sentence)
+Since Directive 2001/on the limitation of emissions of certain pollutants into the air from large combustion plants defines
+         a combustion plant as technical apparatus in which fuels are oxidised in order to use the heat thus generated, electricity
+         is not a product of combustion. The products of combustion are in fact the waste gases, ash and other residues and also the
+         heat generated on combustion. The electric current is neither a physical product of combustion nor heat, but results from
+         a series of processes in which combustion releases heat which is used to generate steam in a boiler, the steam in turn propels
+         a turbine and the turbine, finally, generates electricity. To take the view that electricity constitutes a product of combustion
+         would require that concept to be interpreted so broadly that it would also encompass other products which do not result directly
+         from combustion and which do not correspond to the usual meaning of the term both in scientific language and in everyday language.
+      
+The first sentence of the second subparagraph of Article 2(7) of Directive 2001/does not simply define the term ‘combustion
+         plant’ more precisely but excludes certain plants from the directive’s scope. The fact that this provision has the character
+         of a derogation is indeed clearly expressed by its wording, because it states that the directive is to apply to plants designed
+         for production of energy with the exception of those which make direct use of the products of combustion in manufacturing
+         processes. A restrictive interpretation of this provision is all the more necessary because the exclusion of certain combustion
+         plants from the directive’s scope runs counter to the very objective of the directive. The directive is intended to combat
+         acidification by reducing emissions of sulphur dioxide and nitrogen oxides, to which large combustion plants, including installations
+         for the production of electricity, are significant contributors. To extend the exception set out in the first sentence of
+         the second subparagraph of Article 2(7) of the directive to power plants which have direct use made of their electricity production
+         in a manufacturing process would thus compromise the directive’s effectiveness.
+      
+(see paras 36-37, 40-42)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+April (*)
+      
+(Failure of a Member State to fulfil obligations – Directive 2001/80/EC – Pollution and nuisance – Combustion plants – Limitation of emissions of certain pollutants into the air – Directive not applied to the Lynemouth power plant (United Kingdom))
+In Case C‑346/08,
+ACTION under Article EC for failure to fulfil obligations, brought on July 2008,
+European Commission, represented by P. Oliver and A. Alcover San Pedro, acting as Agents, with an address for service in Luxembourg,
+      
+applicant,
+v
+United Kingdom of Great Britain and Northern Ireland, represented by L. Seeboruth, acting as Agent, and D. Wyatt QC,
+      
+defendant,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, G. Arestis, J. Malenovský, T. von Danwitz and D. Šváby (Rapporteur), Judges,
+Advocate General: J. Kokott,
+Registrar: R. Grass,
+having regard to the written procedure,
+after hearing the Opinion of the Advocate General at the sitting on December 2009,
+gives the following
+Judgment
+By its application, the Commission of the European Communities requests the Court to declare that, by failing to apply Directive
+         2001/80/EC of the European Parliament and of the Council of October on the limitation of emissions of certain pollutants
+         into the air from large combustion plants (OJ L 309, p. 1) to the power plant operated by Rio Tinto Alcan Smelting and
+         Power (UK) Ltd (‘Alcan’) in Lynemouth, in north-east England (‘the Lynemouth power plant’), the United Kingdom of Great Britain
+         and Northern Ireland has failed to fulfil its obligations under that directive.
+      
+ Legal context
+Directive 2001/80, which replaced Council Directive 88/609/EEC of November on the limitation of emissions of certain
+         pollutants into the air from large combustion plants (OJ L 336, p. 1), forms part of the Community strategy to combat
+         acidification and has the aim of limiting emissions of sulphur dioxide, nitrogen oxides and dust from large combustion plants
+         the rated thermal input of which is equal to or greater than megawatts (MW). The limitation of emissions is effected in
+         Annexes III to VII to Directive 2001/80, pursuant to which emission limit values, expressed as maximum concentrations of those
+         pollutants in the flue gases, are applicable to the plants.
+      
+Recitals and in the preamble to Directive 2001/state:
+      
+‘(6)      Existing large combustion plants are significant contributors to emissions of sulphur dioxide and nitrogen oxides in the Community
+         and it is necessary to reduce these emissions. It is therefore necessary to adapt the approach to the different characteristics
+         of the large combustion plant sector in the Member States.
+      
+…
+(11)      Installations for the production of electricity represent an important part of the large combustion plant sector.’
+Article of the directive provides:
+      
+‘This Directive shall apply to combustion plants, the rated thermal input of which is equal to or greater than MW, irrespective
+         of the type of fuel used (solid, liquid or gaseous).’
+      
+Article is worded as follows:
+      
+‘For the purpose of this Directive:
+…
+(7)      “combustion plant” means any technical apparatus in which fuels are oxidised in order to use the heat thus generated.
+This Directive shall apply only to combustion plants designed for production of energy with the exception of those which make
+         direct use of the products of combustion in manufacturing processes. In particular, this Directive shall not apply to the
+         following combustion plants:
+      
+(a)      plants in which the products of combustion are used for the direct heating, drying, or any other treatment of objects or materials
+         e.g. reheating furnaces, furnaces for heat treatment;
+      
+(b)      post-combustion plants i.e. any technical apparatus designed to purify the waste gases by combustion which is not operated
+         as an independent combustion plant;
+      
+(c)      facilities for the regeneration of catalytic cracking catalysts;
+(d)      facilities for the conversion of hydrogen sulphide into sulphur;
+(e)      reactors used in the chemical industry;
+(f)      coke battery furnaces;
+(g)      cowpers;
+(h)      any technical apparatus used in the propulsion of a vehicle, ship or aircraft;
+(i)      gas turbines used on offshore platforms;
+(j)      gas turbines licensed before November or which in the view of the competent authority are the subject of a full request
+         for a licence before November provided that the plant is put into operation no later than November without
+         prejudice to Article 7(1) and Annex VIII(A) and (B).
+      
+Plants powered by diesel, petrol and gas engines shall not be covered by this Directive.
+Where two or more separate new plants are installed in such a way that, taking technical and economic factors into account,
+         their waste gases could, in the judgement of the competent authorities, be discharged through a common stack, the combination
+         formed by such plants shall be regarded as a single unit;
+      
+…’
+Under Article 4(3) of Directive 2001/80, the Member States had to achieve significant emission reductions for existing combustion
+         plants by January at the latest, either by taking appropriate measures in order that the existing plants concerned
+         complied with the emission limit values set in the annexes to the directive or by ensuring that those plants were subject
+         to the national emission reduction plan (‘NERP’). By virtue of Article 4(6) of the directive, any Member State which elected
+         to implement a NERP was obliged to communicate it to the Commission no later than November and the Commission was
+         obliged to evaluate, within six months of the communication, whether or not it met the requirements of Article 4(6). 
+      
+ Pre-litigation procedure
+By letter of November the United Kingdom submitted to the Commission the first version of its NERP, which included
+         the Lynemouth power plant among the combustion plants concerned by the application of Directive 2001/80. On April the United Kingdom submitted an updated NERP in which that plant was also included. However, it omitted the plant from the
+         revised version of its NERP submitted to the Commission on February 2006.
+      
+By letter of September the Commission indicated to the United Kingdom that in its view that omission did not comply
+         with Directive 2001/80. In its reply of February the United Kingdom contended that the Lynemouth power plant had to
+         qualify for the general exception provided for in Article 2(7) of the directive on the ground that it was completely integrated
+         with an aluminium smelter and had as its sole purpose the production of aluminium. The United Kingdom also stated that the
+         power plant’s environmental impact was slight and that there was a risk that Alcan would be prompted to cease operation of
+         the aluminium smelter if the power plant had to be subject to the limitations laid down by the directive.
+      
+On June the Commission sent a letter of formal notice to the United Kingdom, which replied by letter of August
+         2007.
+      
+As the Commission was not satisfied by that reply, on October it sent the United Kingdom a reasoned opinion calling
+         upon it to put an end to the alleged infringement within two months of receipt of the opinion. 
+      
+Since the Commission was not persuaded by the arguments put forward by the United Kingdom in its letter of December in response to the reasoned opinion, the Commission brought the present action.
+      
+ The action
+ Arguments of the parties
+The Commission maintains that Directive 2001/applies to the Lynemouth power plant and notes that the United Kingdom initially
+         shared that view since it included the plant in the various versions of its NERP, not omitting it until the revised version
+         submitted to the Commission on February 2006.
+      
+According to the Commission, Directive 2001/applies to all combustion plants except those which are expressly excluded
+         in Article 2(7), namely: 
+      
+–        combustion plants not designed for production of energy (‘exception 1’);
+–        combustion plants which make direct use of the products of combustion in manufacturing processes (‘exception 2’); 
+–        the plants referred to in subparagraphs (a) to (f) of the second subparagraph of Article 2(7), which are illustrations of
+         exceptions and 2; and
+      
+–        the various sui generis exceptions set out in subparagraphs (g) to (j) of the second subparagraph of Article 2(7) and in the third subparagraph of
+         Article 2(7).
+      
+The Commission submits that all the plants covered by subparagraphs (a) to (f) of the second subparagraph of Article 2(7)
+         of Directive 2001/fall within exception or and that it is logical that they fall outside the scope of the directive
+         because the methodology or the emission limit values established by the directive are not readily applicable to them. It explains
+         in this regard that Directive 2001/aims to regulate the emissions caused by the combustion (oxidation) of fuel and that
+         the process by which the emission limit values are calculated is reliant on the assumption that the emissions to be expected
+         following the combustion of the fuel used to fire the combustion plant are predictable. Where the hot flue gases from the
+         fuel combustion process become mixed with other substances not normally associated with a combustion process prior to emission,
+         the results are not sufficiently predictable and the emission limit values set out for fuel combustion by the directive cannot
+         be applied.
+      
+The Commission acknowledges that, on the other hand, the plants covered by subparagraphs (g) to (j) of the second subparagraph
+         of Article 2(7) of Directive 2001/relate neither to exception nor to exception and states that they correspond to sui generis exceptions. 
+      
+More specifically, so far as concerns cowpers, which are referred to in subparagraph (g) of the second subparagraph of Article
+         2(7) of Directive 2001/and on whose example the United Kingdom is stated to found the fundamental part of its case, the
+         Commission explains that cowpers contain refractory bricks which are heated through direct contact with the hot flue gases
+         from the combustion of fuel. The hot bricks are then used to heat the cold air that is passed over them in order to produce
+         the ‘hot blast’, which is then fed to the blast furnace. In view of the heating of the bricks, cowpers are fundamentally different
+         from any other type of combustion plant. Furthermore, cracks in the brickwork of the chambers frequently occur, which lead
+         to the gas resulting from combustion being contaminated by unburned blast furnace gases. Both factors make the emission limit
+         values laid down by the directive not readily applicable to cowpers.
+      
+The Commission stresses that none of the plants referred to in the provisions relating to exception involves the use of
+         electricity in a manufacturing process or the use of the products of combustion outside the combustion plant itself. 
+      
+Whilst it is not contested that the Lynemouth power plant is not covered by exception 1, it equally cannot benefit from exception
+         2, because it does not make direct use of the products of combustion in manufacturing processes.
+      
+The Commission submits that if it were to be accepted that the direct use in a manufacturing process of electricity produced
+         by a power plant brings that plant within exception 2, many large combustion plants would fall outside the confines of Directive
+         2001/80, which would have severe consequences for the environment.
+      
+The Commission observes that the Lynemouth power plant is the ninth largest emitter of sulphur dioxide in the United Kingdom,
+         accounting for about 4% of the total reported emissions of that pollutant gas in that Member State.
+      
+The United Kingdom contends that a power plant that is designed to provide electricity to a smelter producing aluminium by
+         electrolysis and that has been built solely for that purpose is part of the technical apparatus which comprises a combustion
+         plant designed for the production of energy, which makes direct use of the products of combustion in a manufacturing process,
+         and thereby qualifies for exemption under Article 2(7) of Directive 2001/80.
+      
+First, the United Kingdom submits that the electricity produced is used directly in the process of manufacturing aluminium.
+         The smelter operated by Alcan cannot, contrary to what the Commission argues, just as easily use electricity from the national
+         grid. 
+      
+Second, the United Kingdom submits that electricity produced by a coal-fired power station is an indirect product of combustion.
+         Article 2(7) of Directive 2001/concerns not direct use of the direct products of combustion but direct use of the products
+         of combustion. Energy, such as electricity, produced by the oxidisation of fuels is to be regarded as a product of combustion,
+         since it is only combustion plants in which fuels are oxidised for the production of energy which are covered by the directive.
+         Article 2(7) does not state that it concerns only direct products of combustion and it is inappropriate to interpret it to
+         that effect. There must be a direct link not between the combustion and the manufacturing process but between the products
+         of combustion and the manufacturing process. In the present case, there is a direct link between the electricity produced
+         from combustion and the manufacturing process employed since electricity is used by that process to produce aluminium. 
+      
+The reference in subparagraph (g) of the second subparagraph of Article 2(7) of Directive 2001/to cowpers confirms the
+         fact that the exemption does not have only the restricted meaning put forward by the Commission. The United Kingdom observes
+         in this regard that it follows from the original scheme of Article 2(7) of Directive 88/that the processes listed in subparagraphs
+         (a) to (g) of the second subparagraph of Article 2(7) of Directive 2001/are particular examples of combustion plants which
+         are excluded from the latter directive’s scope either because they are not designed for production of energy or because they
+         make direct use of the products of combustion in a manufacturing process. The hot air used in cowpers is heated not directly
+         by the oxidisation of fuel but indirectly as a result of the oxidisation of fuel heating refractory bricks, which in turn
+         heat air that is fed into the manufacturing process. The energy produced indirectly in this way is rightly treated as a product
+         of combustion for the purposes of Article 2(7) of Directive 2001/80, although it is an indirect product of combustion, in
+         the same way as electricity is an indirect product of combustion in the case of the Lynemouth power plant. On the true construction
+         of Article 2(7), the cowper stands in the same relation to the blast furnace as the Lynemouth power plant to the aluminium
+         smelter operated by Alcan. Both are dedicated energy sources integrated into manufacturing processes.
+      
+Contrary to the Commission’s assertion, cowpers as referred to in subparagraph (g) of the second subparagraph of Article 2(7)
+         of Directive 2001/do not constitute a sui generis exception. The wording of Article 2(7) of Directive 88/makes it clear that the sui generis exceptions are in subparagraphs (h) to (j) of the second subparagraph of Article 2(7) of Directive 2001/80.
+      
+So far as concerns the Commission’s argument that the United Kingdom’s view would gravely undermine the operation of Directive
+         2001/80, the United Kingdom acknowledges that it would be anomalous if all combustion plants producing electricity for direct
+         use in manufacturing were to escape the requirements of the directive. It stresses that it is only in a case where a plant
+         is designed for the sole purpose of supplying electricity for a production process that the plant is excluded. All the examples
+         listed in subparagraphs (a) to (i) of the second subparagraph of Article 2(7) of the directive relate to captive energy sources
+         designed and built to service the processes or activities specified. It states that the only products of combustion referred
+         to are those which comprise energy.
+      
+The United Kingdom submits that the Community legislature exempted plants from the scope of Directive 2001/not to save
+         national regulatory bodies from minor inconvenience but to balance the environmental advantages against the economic cost
+         of including those plants within the directive’s scope. In the case of the plant at issue, the economic and social costs related
+         to the directive’s application to it would considerably outweigh, because of the risk of closure of the plant leading to the
+         loss of direct or indirect jobs in an area where unemployment is high, the slight environmental benefit that would result
+         from its application, having regard to the significant sums invested by Alcan over the past years to improve environmental
+         performance, to the obligation to reduce sulphur emissions under Directive 2008/1/EC of the European Parliament and of the
+         Council of January concerning integrated pollution prevention and control (OJ L 24, p. 8) and to the replacement
+         of the production in question by imports from plants outside the European Union that are subject to less environmental regulation.
+         Since aluminium production is highly energy intensive and as such it is an industry under pressure, Directive 2001/is to
+         be interpreted in such a way as to exclude from its scope dedicated power plants providing electricity for electrolysis.
+      
+In response to the Commission’s argument that, first, other aluminium smelters have already had to adapt to the requirements
+         of Directive 2001/and, second, there is no reason to confer a competitive advantage on the smelter operated by Alcan, the
+         United Kingdom submits that, if the Lynemouth power plant is excluded from the scope of the directive, it is because of objective
+         considerations which apply to all plants in the same situation. The Lynemouth power plant is the only plant in the European
+         Economic Area comprising a captive energy source designed and built solely to provide electricity for electrolysis.
+      
+It is logical to exempt combustion plants dedicated to the powering of manufacturing processes because they have just a sole
+         ‘internal customer’ and therefore only one way to recoup expenditure incurred in order to comply with Directive 2001/80. Furthermore,
+         the end products of the manufacturing process are internationally traded commodities and are subject to direct competition
+         from less strictly regulated and lower cost producers established outside the European Union, whereas non-dedicated combustion
+         plants supply a range of customers, are often owned by Member States and have no real competitors. 
+      
+The United Kingdom contests the Commission’s argument that Article 2(7) of Directive 2001/contains a general principle,
+         required to be interpreted broadly, and two exceptions to be interpreted strictly. That provision contains a definition of
+         plants falling within the scope of the directive and definitions of those not subject to the directive. The United Kingdom
+         adds that, in any event, the Court has decided against interpreting exceptions strictly where such an interpretation would
+         undermine the aim of the exceptions (Case C-498/Kingcrest Associates and Montecello [2005] ECR I‑4427, paragraphs and 32).
+      
+ Findings of the Court
+The question raised by the present action for failure to fulfil obligations is whether the Lynemouth power plant must be considered
+         to be a combustion plant to which Directive 2001/applies.
+      
+Whilst, as the Commission notes, it may indeed seem surprising that, after including the Lynemouth power plant among the combustion
+         plants concerned by the application of Directive 2001/in the first two versions of the NERP submitted to the Commission
+         in and under that directive, and after including it in all the reports or documents drawn up from under Directive
+         88/which preceded Directive 2001/and was couched in almost identical terms on the point at issue, the United Kingdom
+         now submits that the power plant is not subject to the requirements of Directive 2001/80, that circumstance is, however, irrelevant
+         to whether the power plant falls within the scope of Directive 2001/80.
+      
+It is common ground that the Lynemouth power plant is a combustion plant the rated thermal input of which is greater than
+         MW, for the purposes of Article and the first subparagraph of Article 2(7) of Directive 2001/80.
+      
+The United Kingdom contends, however, that that power plant, constructed with the exclusive objective of providing electricity
+         for the production of aluminium in the adjoining smelter, satisfies the conditions for exemption laid down in the first sentence
+         of the second subparagraph of Article 2(7) of Directive 2001/80, which states that the directive is to apply only to combustion
+         plants designed for production of energy with the exception of those which make direct use of the products of combustion in
+         manufacturing processes.
+      
+It is indeed true that direct use is made in the aluminium production process of the electricity produced by the Lynemouth
+         power plant. Under the Hall-Heroult process applied in the smelter operated by Alcan, alumina is fed into an electrolyte,
+         in which it dissolves, and an electric current is passed from anode to cathode separating the alumina into aluminium and oxygen
+         as well as providing heat to keep the electrolyte molten.
+      
+However, as the Commission submits, electricity is not a product of combustion. The products of combustion are in fact the
+         waste gases, ash and other residues and also the heat generated on combustion, since Directive 2001/defines a combustion
+         plant as ‘technical apparatus in which fuels are oxidised in order to use the heat thus generated’. The electric current is
+         neither a physical product of combustion nor heat, but results from a series of processes in which combustion releases heat
+         which is used to generate steam in a boiler, the steam in turn propels a turbine and the turbine, finally, generates electricity.
+         
+      
+To take the view that electricity constitutes a ‘product of combustion’ would require that concept to be interpreted so broadly
+         that it would also encompass other products which do not result directly from combustion and which do not correspond to the
+         usual meaning of the term both in scientific language and in everyday language.
+      
+The first sentence of the second subparagraph of Article 2(7) of Directive 2001/also prevents a broad interpretation of
+         that kind from being given to ‘product of combustion’, since this provision refers to combustion plants which make ‘direct’
+         use of the products of combustion in manufacturing processes. There cannot be direct use of the products of combustion in
+         a manufacturing process if there are intermediate steps, such as the production of electricity, between the combustion and
+         the manufacturing process.
+      
+The fact that the concept of ‘product of combustion’ defines the extent of an exception to a general rule also militates against
+         a broad interpretation of that concept. In accordance with settled case-law, exceptions are to be interpreted strictly so
+         that general rules are not negated (see, to this effect, Case C-476/Kapper [2004] ECR I‑5205, paragraph 72).
+      
+Contrary to the United Kingdom’s submissions, it is evident that the first sentence of the second subparagraph of Article
+         2(7) of Directive 2001/does not simply define the term ‘combustion plant’ more precisely but excludes certain plants from
+         the directive’s scope. The fact that this provision has the character of a derogation is indeed clearly expressed by its wording,
+         because it states that the directive is to apply to plants designed for production of energy ‘with the exception of those
+         which make direct use of the products of combustion in manufacturing processes’.
+      
+A restrictive interpretation of the first sentence of the second subparagraph of Article 2(7) of Directive 2001/is all
+         the more necessary because the exclusion of certain combustion plants from the directive’s scope runs counter to the very
+         objective of the directive. As is apparent from recitals to in its preamble, the directive is intended to combat acidification
+         by reducing emissions of sulphur dioxide and nitrogen oxides, to which large combustion plants are significant contributors.
+      
+Finally, since installations for the production of electricity are identified, in recital in the preamble to Directive
+         2001/80, as the principal combustion plants covered by the directive, to extend the exception set out in the first sentence
+         of the second subparagraph of Article 2(7) to power plants which have direct use made of their electricity production in a
+         manufacturing process would compromise the directive’s effectiveness.
+      
+It follows from the foregoing that the Lynemouth power plant does not qualify for the exemption laid down in the first sentence
+         of the second subparagraph of Article 2(7) of Directive 2001/for combustion plants which make direct use of the products
+         of combustion in manufacturing processes.
+      
+None of the arguments advanced by the United Kingdom is capable of calling that finding into question.
+      
+As regards, first, the argument that the exceptions laid down by Directive 2001/are based on a weighing up of the costs
+         of applying the emission limit values and the environmental advantages resulting from them, an appraisal which is stated to
+         justify in the present instance the exclusion of the Lynemouth power plant from the directive’s scope, it should be noted
+         at the outset that neither the directive nor even its travaux préparatoires set out the reasons justifying both the general, abstract exclusion of combustion plants which make direct use of the products
+         of combustion in manufacturing processes and the examples of particular plants contained in subparagraphs (a) to (g) of the
+         second subparagraph of Article 2(7) of Directive 2001/80.
+      
+According to the Commission, the combustion plants falling within those exceptions have been excluded from the scope of Directive
+         2001/because of contamination of the waste combustion gases by pollutants when direct use is made of the products of combustion
+         in manufacturing processes, with the result that the methodology and emission limit values set out in the annexes to the directive
+         for isolated combustion processes are not directly applicable to them. The Commission has also shown that, in the case of
+         all the types of plant referred to in subparagraphs (a) to (g) of the second subparagraph of Article 2(7) of the directive,
+         the waste combustion gases become contaminated, whilst, on the other hand, it is common ground that the use of electricity
+         to produce aluminium does not affect the emissions produced by the Lynemouth power plant.
+      
+The United Kingdom does not deny that the combustion gases are contaminated in the various plants referred to in subparagraphs
+         (a) to (g) of the second subparagraph of Article 2(7) of Directive 2001/80, but is of the view that the exceptions are founded
+         not on difficulties in applying the directive but on an assessment of the costs and advantages.
+      
+Without there being any need to determine the precise purpose of those exceptions, the United Kingdom’s line of argument must,
+         in any event, be rejected since the exception set out in abstract terms in the first sentence of the second subparagraph of
+         Article 2(7) of Directive 2001/cannot be founded on a weighing up of the costs and the advantages. Whilst it is possible
+         to assess the costs and the advantages which are associated with the application of the emission limit values as regards a
+         particular plant, or even for particular types of plant, such as those referred to in subparagraphs (a) to (g) of the second
+         subparagraph of Article 2(7) of the directive, that cannot, on the other hand, be the case where it is a question of plants
+         that make direct use of the products of combustion.
+      
+As regards, second, the argument that the exception for cowpers in subparagraph (g) of the second subparagraph of Article
+         2(7) of Directive 2001/shows that the concept of ‘product of combustion’ must be construed broadly and that it includes
+         indirect products of combustion such as electric current, it need merely be observed that, as the Advocate General has stated
+         in point of her Opinion, this exception concerns the use of a direct product of combustion, namely heat. Cowpers transmit,
+         via refractory bricks, the heat resulting from combustion into the air, which is then fed to the blast furnace to facilitate
+         the production of pig iron.
+      
+Whilst cowpers admittedly do not constitute an application of the abstract derogation set out in the first sentence of the
+         second subparagraph of Article 2(7) of Directive 2001/80, since the heat resulting from combustion is used only indirectly,
+         this cannot however be taken to mean that that derogation must be interpreted in such a way as to exclude from the directive’s
+         scope plants which use indirect products of combustion in a manufacturing process. 
+      
+As the Commission has acknowledged, there is a drafting anomaly in the sense that cowpers constitute a sui generis exception and not an application of the abstract exception contained in the first sentence of the second subparagraph of
+         Article 2(7) of Directive 2001/80. The Commission has however explained, without being contradicted by the United Kingdom,
+         the particular reasons why the emission limit values set by the directive are not readily applicable to this kind of plant,
+         given that the heating of the refractory bricks makes a cowper fundamentally different from any other type of combustion plant
+         and that the frequent occurrence of cracks in the brickwork of the chamber leads to the waste combustion gases being contaminated
+         by unburned blast furnace gases. Also, as the Advocate General has observed in the footnote to point of her Opinion, in
+         order to save energy cowpers regularly burn blast furnace gas, which is already polluted, so that, despite use of the best
+         available technique, the emission limit values set by the directive cannot be complied with.
+      
+The addition, in subparagraphs (h) to (j) of the second subparagraph of Article 2(7) of Directive 2001/80, of supplementary
+         derogations for three types of plant which can clearly no longer fall within the general and abstract exception contained
+         in the first sentence of the second subparagraph of Article 2(7) of the directive confirms, moreover, that the meaning and
+         effect of that general exception cannot be determined on the basis of a specific exception.
+      
+It is also to be pointed out that none of the specific exceptions referred to in subparagraphs (a) to (g) of the second subparagraph
+         of Article 2(7) of Directive 2001/extends to use of the products of combustion outside the combustion plant itself or to
+         the use of electricity in a manufacturing process.
+      
+It follows from all of the foregoing considerations that Directive 2001/applies to the Lynemouth power plant and that the
+         Commission’s action must be upheld.
+      
+Consequently, it is to be declared that, by failing to apply Directive 2001/to the Lynemouth power plant, the United Kingdom
+         has failed to fulfil its obligations under that directive.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party’s pleadings. Since the Commission has applied for costs and the United Kingdom has been
+         unsuccessful, the latter must be ordered to pay the costs.
+      
+On those grounds, the Court (Third Chamber) hereby:
+1.      Declares that, by failing to apply Directive 2001/80/EC of the European Parliament and of the Council of October on
+            the limitation of emissions of certain pollutants into the air from large combustion plants to the power plant operated by
+            Rio Tinto Alcan Smelting and Power (UK) Ltd in Lynemouth, in north-east England, the United Kingdom of Great Britain and Northern
+            Ireland has failed to fulfil its obligations under that directive;
+2.      Orders the United Kingdom of Great Britain and Northern Ireland to pay the costs.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

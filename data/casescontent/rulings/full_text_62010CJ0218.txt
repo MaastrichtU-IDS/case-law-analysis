@@ -1,0 +1,131 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+January (
+*)
+‛VAT — Sixth Directive — Articles 9, and — Determination of the place where services are supplied — Concept of ‘supply of staff’ — Self-employed persons — Need to ensure that a provision of services is assessed identically in relation to the provider and in relation to the recipient’
+In Case C-218/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Finanzgericht Hamburg (Germany), made by decision of April 2010, received at the Court on May 2010, in the proceedings
+ADV Allround Vermittlungs AG, in liquidation,
+v
+Finanzamt Hamburg-Bergedorf,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, A. Borg Barthet, M. Ilešič, J.-J. Kasel (Rapporteur) and M. Berger, Judges,
+Advocate General: J. Mazák,
+Registrar: B. Fülöp, Administrator,
+having regard to the written procedure and further to the hearing on March 2011,
+after considering the observations submitted on behalf of:
+—
+ADV Allround Vermittlungs AG, in liquidation, by S. Heinrichshofen and B. Burgmaier, Rechtsanwälte,
+—
+the German Government, by T. Henze, acting as Agent,
+—
+the European Commission, by D. Triantafyllou, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on June 2011,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles 9(2)(e), 17(1), 17(2)(a), 17(3)(a) and 18(1)(a) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1) (‘the Sixth Directive’).
+The reference has been made in proceedings between ADV Allround Vermittlungs AG, in liquidation (‘ADV’), and the Finanzamt (Tax Office) Hamburg-Bergedorf (‘Finanzamt’) concerning the determination, for the purpose of the imposition of value added tax (‘VAT’), of the place where services are provided.
+Legal context
+European Union law
+The seventh recital in the preamble to the Sixth Directive reads:
+‘… the determination of the place where taxable transactions are effected has been the subject of conflicts concerning jurisdiction as between Member States, in particular as regards supplies of goods for assembly and the supply of services; … although the place where a supply of services is effected should in principle be defined as the place where the person supplying the services has his principal place of business, that place should be defined as being in the country of the person to whom the services are supplied, in particular in the case of certain services supplied between taxable persons where the cost of the services is included in the price of the goods’.
+Article 9(1) of the Sixth Directive provides:
+‘The place where a service is supplied shall be deemed to be the place where the supplier has established his business or has a fixed establishment from which the service is supplied or, in the absence of such a place of business or fixed establishment, the place where he has his permanent address or usually resides.’
+Article 9(2)(e) of that directive is worded as follows:
+‘However:
+…
+(e)
+the place where the following services are supplied, when performed for customers established outside the Community or for taxable persons established in the Community but not in the same country as the supplier, shall be the place where the customer has established his business or has a fixed establishment to which the service is supplied or, in the absence of such a place, the place where he has his permanent address or usually resides:
+…
+—
+the supply of staff,
+…’
+Article 17(1) of the Sixth Directive provides:
+‘The right to deduct shall arise at the time when the deductible tax becomes chargeable.’
+Article 17(2)(a) of that directive is worded as follows:
+‘In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be entitled to deduct from the tax which he is liable to pay:
+(a)
+[VAT] due or paid within the territory of the country in respect of goods or services supplied or to be supplied to him by another taxable person;
+…’
+Under Article 17(3)(a) of the Sixth Directive:
+‘Member States shall also grant to every taxable person the right to a deduction or refund of the [VAT] referred to in paragraph in so far as the goods and services are used for the purposes of:
+(a)
+transactions relating to the economic activities as referred to in Article 4(2) carried out in another country, which would be eligible for deduction of tax if they had occurred in the territory of the country’.
+Article 18(1)(a) of the Sixth Directive provides:
+‘To exercise his right to deduct, the taxable person must:
+(a)
+in respect of deductions under Article 17(2)(a), hold an invoice drawn up in accordance with Article 22(3)’.
+National law
+The first sentence of Paragraph 3a(1) of the Law on Turnover Tax (Umsatzsteuergesetz 1999, BGBl. I, p. 1270), in the version resulting from the Communication of February (‘the UStG’), provides:
+‘Subject to Paragraphs 3b and 3f, other services shall be performed at the place from which the trader conducts his business.’
+Under the first sentence of Paragraph 3a(3) of the UStG:
+‘If the recipient of one of the other services referred to in (4) is a trader, the other service shall, in derogation from (1), be performed at the place where the recipient conducts his business.’
+Paragraph 3a(4) of the UStG provides:
+‘Other services within the meaning of (3) are: …
+(7)   the supply of staff …’.
+Paragraph 15(1), first sentence, point (1), of the UStG provides:
+‘A trader may deduct the following forms of input tax:
+(1)
+Tax statutorily payable on goods and services provided to his business by another trader. Deduction of the input tax is subject to the condition that the trader must hold an invoice drawn up in accordance with Paragraphs and 14a.’
+The third sentence of Paragraph 18(9) of the UStG provides:
+‘Applications for refunds shall be made within six months of the end of the calendar year in which the right to a refund arose.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+ADV, a company incorporated under German law, was engaged, during 2005, in the supply of self-employed lorry drivers to haulage contractors established in Germany and outside the territory of that Member State, in particular in Italy. Under the terms of the contracts concluded between ADV and the drivers, known as ‘agency agreements’, the drivers were to charge ADV for the services which they provided. ADV, in turn, charged the various client haulage contractors the price stipulated in those agency agreements, plus a margin which varied between % and %.
+Initially, ADV did not add VAT when invoicing Italian customers. It took the view that the services which it provided should be classified as ‘supply of staff’ within the meaning of Paragraph 3a(4)(7) of the UStG and that, accordingly, the place where services were supplied was in Italy, the place where the recipients of those services were established.
+The Finanzamt (Tax Office) ruled that the services at issue could not be classified as a ‘supply of staff’ and that, consequently, the place where the services were supplied was, pursuant to Paragraph 3a(1) of UStG, the place in which the service provider was established. VAT, it held, had therefore to be charged in Germany.
+However, the Bundeszentralamt für Steuern (Federal Central Tax Office), which is the institution responsible for ruling on the applications for VAT refunds submitted, in the main proceedings, by the Italian customers, found that the services provided by ADV constituted a ‘supply of staff’ and did not give rise to VAT invoicing in Germany. Taking the view that, pursuant to the first sentence of Paragraph 3a(3) of the UStG, those services ought to have been taxed in the place where the recipients of those services have their registered office, that is to say in Italy, that institution refused to refund German VAT to the Italian undertakings.
+The Finanzgericht Hamburg (Finance Court, Hamburg), before which this dispute has been brought, states, first, that, in so far as the seventh recital in the preamble to the Sixth Directive provides that the list in Article 9(2) of that directive includes ‘in particular … certain services supplied between taxable persons where the cost of the services is included in the price of the goods’, that provision might also apply to the supply of self-employed persons, but that there is uncertainty in that regard.
+The Finanzgericht Hamburg also seeks to ascertain, first, whether or not the VAT debt incurred by the service provider and the right of the service recipient to a refund of input VAT are necessarily linked, in particular by reason of the principle of fiscal neutrality and, secondly, whether that link creates an obligation on the part of the competent national authorities to avoid adopting contradictory decisions between themselves.
+Finally, the Finanzgericht Hamburg expresses uncertainty as to whether the period of six months accorded to the customer to submit an application for a refund, a period which, pursuant to national legislation, begins to run from the end of the calendar year during which the right to a refund arose, must be suspended or interrupted in the absence of a decision on the tax situation of the provider.
+In those circumstances, the Finanzgericht Hamburg decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Is the sixth indent of Article 9(2)(e) of [the Sixth Directive] … to be interpreted as meaning that “supply of staff” also includes the supply of self-employed persons not in the employ of the trader providing the service?
+2.
+Are Articles 17(1), 17(2)(a), 17(3)(a) and 18(1)(a) of [the Sixth Directive] … to be interpreted as meaning that provision must be made in national procedural law to ensure that the taxability and liability to tax of one and the same service are assessed in the same way in relation to the trader providing the service and the trader receiving it, even where the two traders fall within the jurisdiction of different tax authorities?
+Only if the answer to Question is in the affirmative:
+3.
+Are Articles 17(1), 17(2)(a), 17(3)(a) and 18(1)(a) of [the Sixth Directive] … to be interpreted as meaning that the period within which the recipient of a service may apply for a deduction of the input tax connected with the service received must not expire before a decision on taxability and liability to tax which is binding on the trader providing the service has been adopted?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether the sixth indent of Article 9(2)(e) of the Sixth Directive must be interpreted as meaning that ‘supply of staff’ also includes the supply of self-employed persons who are not in the employ of the trader providing the service.
+It must be stated at the outset, as both the referring court and the parties which lodged observations before the Court have stated, that neither the wording of the sixth indent of Article 9(2)(e) nor a comparison of the different linguistic versions of that provision makes it possible to establish whether self-employed persons can be regarded as ‘staff’ within the meaning of that provision.
+It must, however, be stated that, for the reasons given by the Advocate General at points and of his Opinion, it cannot automatically be ruled out that, having regard to its wording, the sixth indent of Article 9(2)(e) of the Sixth Directive also applies to the supply of ‘self-employed’ staff.
+As is clear from settled case-law, in interpreting a provision of European Union law, it is necessary to consider not only the wording of that provision but also the context in which it occurs and the objective pursued by the rules of which it is part (see, inter alia, Case C-114/Gillan Beach [2006] ECR I-2427, paragraph and the case-law cited).
+In that regard, it should be borne in mind that Article of the Sixth Directive contains rules for determining the place where services are deemed to be supplied for tax purposes. Whereas Article 9(1) lays down a general rule in that regard, Article 9(2) sets out a number of specific instances of places where certain services are deemed to be supplied. In accordance with settled case-law, the object of those provisions is to avoid, first, conflicts of jurisdiction which may result in double taxation, and, secondly, non-taxation (see, inter alia, Case C-327/Dudda [1996] ECR I-4595, paragraph 20; Gillan Beach, paragraph 14; and Case C-291/Kollektivavtalsstiftelsen TRR Trygghetsrådet [2008] ECR I-8255, paragraph 24).
+An interpretation of the sixth indent of Article 9(2)(e) of the Sixth Directive under which the term ‘staff’ appearing therein covers not only employed persons but also self-employed persons better reflects the objective of a conflict-of-laws rule such as that established in Article of that directive, which seeks to avoid the risks of double taxation and of non-taxation.
+In so far as that interpretation confines the place where the services concerned are deemed to have been supplied to a single place, it makes it possible precisely to prevent double taxation of the supply of services or the latter’s escaping all charging of value added tax.
+Likewise, this interpretation is of such a kind as to make it easier to give effect to that conflict-of-laws rule, by making it possible simply to operate, at the place where the services are supplied, the rules governing the collection of taxes and the prevention of tax avoidance, since the recipient of the services has no need to enquire as to the legal nature of the relations between the supplier and the ‘staff’ being supplied.
+Furthermore, that interpretation is consistent with the principle of legal certainty since, by making more predictable the determination of the place where the service is deemed to be supplied, it simplifies the application of the provisions of the Sixth Directive and contributes to ensuring accurate and reliable collection of VAT (see, to that effect, Case C-421/Stoppelkamp [2011] ECR I-9309, paragraph 34).
+In the light of those considerations, the answer to the first question is that the sixth indent of Article 9(2)(e) of the Sixth Directive must be interpreted as meaning that the ‘supply of staff’ referred to in that provision also includes the supply of self-employed persons not in the employ of the trader providing the service.
+The second question
+By its second question, the referring court asks, in essence, whether Articles 17(1), 17(2)(a), 17(3)(a) and 18(1)(a) of the Sixth Directive must be interpreted as requiring the Member States to amend their domestic procedural rules in such a way as to ensure that the taxability and liability to VAT of a service are assessed in a consistent way in relation to the provider and in relation to the recipient of that service, even though they fall within the jurisdiction of different tax authorities.
+In that regard, it should be noted, as did the referring court, that the Sixth Directive does not contain any provision expressly providing that the Member States are required to adopt a measure such as that referred to in the question submitted for a preliminary ruling.
+However, in accordance with settled case-law, in the absence of European Union rules in the area, it is for the domestic legal system of each Member State, in particular, to designate the authorities responsible and to lay down detailed procedural rules for safeguarding rights which individuals derive from European Union law, provided that such rules are not less favourable than those governing similar domestic actions (principle of equivalence) and that they do not render impossible in practice or excessively difficult the exercise of rights conferred by the European Union legal order (principle of effectiveness) (see, inter alia, Case C-228/Aprile [1998] ECR I-7141, paragraph 18, and Case C-472/Alstom Power Hydro [2010] ECR I-623, paragraph 17).
+As regards the principle of equivalence, it should be noted that, in the present case, there is nothing before the Court that is capable of raising any doubts as to the consistency of legislation such as that at issue in the main proceedings with that principle.
+By contrast, doubts have been expressed, in particular by the referring court, as to whether such a situation satisfies the requirements of the principle of effectiveness. In the absence of specific rules in national procedural law, the right of the service provider and that of the service recipient, recognised by the Court in its judgment in Case C-342/Genius [1989] ECR and consisting of being treated identically with regard to taxability and liability to VAT in respect of one and the same service, would in practice be rendered totally ineffective.
+In that regard, it should be recalled that the principle of effectiveness must be considered to be infringed in a case where the exercise of a right conferred by the legal order of the European Union proves to be impossible or excessively difficult.
+That, however, does not appear to be the position in a case such as that in the main proceedings.
+First, as the Advocate General noted at point of his Opinion, the judgment in Genius relates only to the scope of the right to deduct. It does not say anything about a potential right on the part of the provider or recipient of services to have — in proceedings brought by the other party to the transaction subject to VAT before an administrative authority other than that under the jurisdiction of which the former falls — that service classified, in particular so far as concerns the place where it is performed, in the same way as that adopted by the administrative authority or court under the jurisdiction of which that provider or recipient falls.
+Secondly, it must be noted that both the service provider and the service recipient have the possibility to defend their rights, not only before the administrative authorities, but also before the courts having jurisdiction in respect of VAT matters, according to procedures which — it is common ground — ensure, in principle, a correct and uniform interpretation and application of the provisions of the Sixth Directive.
+The uniform interpretation and application of European Union law are ultimately ensured by the procedure for references for a preliminary ruling on questions of the interpretation or validity of European Union law under Article TFEU, which establishes a system of cooperation between the national courts and the Court of Justice. There is nothing in the case-file before the Court to suggest that national legislation such as that at issue in the main proceedings prevents the proper functioning of that judicial cooperation.
+Were it nevertheless to be found that, even when there were no questions of interpretation or validity or even if the competent courts or tribunals were to refuse to make a reference to the Court of Justice for a preliminary ruling on the interpretation or validity of European Union law, various administrative authorities and/or courts of a Member State were continuing systematically to adopt divergent positions so far as concerns the place where one and the same service is deemed to be supplied with regard to the supplier, on the one hand, and the recipient, on the other, so as to jeopardise the principle of fiscal neutrality, the obligations imposed on that Member State under the Sixth Directive could be considered to have been breached.
+Even though Articles 17(1), 17(2)(a), 17(3)(a) and 18(1)(a) of the Sixth Directive do not specify in concrete terms the content of procedural or other measures which must be taken to ensure that VAT is collected accurately and that the principle of fiscal neutrality is observed, the fact none the less remains that those provisions bind the Member States as regards the objective to be achieved, while leaving them with discretion when determining whether it is necessary to adopt such measures.
+In those conditions, the answer to the second question is that Articles 17(1), 17(2)(a), 17(3)(a) and 18(1)(a) of the Sixth Directive must be interpreted as not requiring the Member States to amend their domestic procedural rules in such a way as to ensure that the taxability and liability to VAT of a service are assessed in a consistent way in relation to the provider and in relation to the recipient of that service, even though they fall within the jurisdiction of different tax authorities. However, those provisions require the Member States to adopt the measures that are necessary to ensure that VAT is collected accurately and that the principle of fiscal neutrality is observed.
+The third question
+Having regard to the answer to the second question, there is no need to answer the third question.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+1.
+The sixth indent of Article 9(2)(e) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment must be interpreted as meaning that the ‘supply of staff’ referred to in that provision also includes the supply of self-employed persons not employed by the trader providing the service.
+ 
+2.
+Articles 17(1), 17(2)(a), 17(3)(a) and 18(1)(a) of Sixth Directive 77/must be interpreted as not requiring the Member States to amend their domestic procedural rules in such a way as to ensure that the taxability and liability to value added tax of a service are assessed in a consistent way in relation to the provider and in relation to the recipient of that service, even though they fall within the jurisdiction of different tax authorities. However, those provisions require the Member States to adopt the measures that are necessary to ensure that value added tax is collected accurately and that the principle of fiscal neutrality is observed.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

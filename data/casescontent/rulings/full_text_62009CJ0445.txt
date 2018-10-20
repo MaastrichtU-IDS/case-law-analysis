@@ -1,0 +1,276 @@
+
+Case C-445/IMC Securities BV
+v
+Stichting Autoriteit Financiële Markten
+(Reference for a preliminary ruling from the 
+College van Beroep voor het bedrijfsleven)
+(Directive 2003/6/EC – Market manipulation – Securing prices at an abnormal or artificial level)
+Summary of the Judgment
+Approximation of laws – Insider dealing and market manipulation (market abuse) – Prohibition – Market manipulation – Fixing
+            the price of one or more financial instruments at an abnormal or artificial level – Definition
+(European Parliament and Council Directive 2003/6, Art. 1(2)(a), second indent, and 5)
+Article 1(2)(a), second indent, of Directive 2003/on insider dealing and market manipulation (market abuse) must be interpreted
+         as not requiring, in order for the price of one or more financial instruments to be considered to have been fixed at an abnormal
+         or artificial level, that price to maintain an abnormal or artificial level beyond a certain period.
+      
+In that respect, the purpose of Directive 2003/6, as is noted, in particular, in recitals and in the preamble thereto,
+         is to protect the integrity of EU financial markets and to enhance investor confidence in those markets. That confidence depends
+         on, inter alia, investors being placed on an equal footing and protected against the improper use of insider information and
+         price manipulations. The objectives thus pursued by Directive 2003/would be compromised if conduct such as that contemplated
+         in Article 1(2)(a), second indent, of that directive could fall outside the scope of the prohibition of market manipulation
+         set out in Article of that directive solely on the ground that it gave rise to a single transaction and, consequently, a
+         single listing, without the price of the financial instrument or instruments at issue maintaining an abnormal or artificial
+         level beyond a certain period. 
+      
+(see paras 27, 29-30, and operative part)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+July (*)
+      
+(Directive 2003/6/EC – Market manipulation – Securing prices at an abnormal or artificial level)
+In Case C‑445/09,
+REFERENCE for a preliminary ruling under Article EC from the College van Beroep voor het bedrijfsleven (Netherlands),
+         made by decision of November 2009, received at the Court on November 2009, in the proceedings
+      
+IMC Securities BV 
+v
+Stichting Autoriteit Financiële Markten,
+THE COURT (Second Chamber),
+composed of J.N. Cunha Rodrigues, President of the Chamber, A. Arabadjiev, A. Rosas, U. Lõhmus and P. Lindh (Rapporteur),
+         Judges,
+      
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–        IMC Securities BV, represented by G.P. Roth, advocaat,
+–        Stichting Autoriteit Financiële Markten, by H.J. Sachse, and P.L. Reeser Cuperus, advocaten,
+–        the Netherlands Government, by C.M. Wissels and Y. de Vries, acting as Agents,
+–        the Belgian Government, by M. Jacobs and J.-C. Halleux, acting as Agents,
+–        the Czech Government, by M. Smolek, acting as Agent,
+–        the Estonian Government, by M. Linntam, acting as Agent,
+–        the Italian Government, by W. Ferrante, acting as Agent, assisted by P. Gentili, avvocato dello Stato,
+–        the Commission of the European Communities, by I.V. Rogalski and W. Roels, acting as Agents, 
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 1(2)(a), second indent, of Directive 2003/6/EC
+         of the European Parliament and of the Council of January on insider dealing and market manipulation (market abuse)
+         (OJ L 96, p. 16). 
+      
+This reference has been made in proceedings between IMC Securities BV (‘IMC’) and Stichting Autoriteit Financiële Markten
+         (the Netherlands Financial Markets Authority) (‘AFM’), which had imposed a fine on IMC for market manipulation. 
+      
+ Legal context
+ European Union (‘EU’) law
+Recitals 2, and in the preamble to Directive 2003/state:
+      
+‘(2)      An integrated and efficient financial market requires market integrity. The smooth functioning of securities markets and public
+         confidence in markets are prerequisites for economic growth and wealth. Market abuse harms the integrity of financial markets
+         and public confidence in securities and derivatives.
+      
+…
+(12)      Market abuse consists of insider dealing and market manipulation. The objective of legislation against insider dealing is
+         the same as that of legislation against market manipulation: to ensure the integrity of Community financial markets and to
+         enhance investor confidence in those markets. It is therefore advisable to adopt combined rules to combat both insider dealing
+         and market manipulation. A single Directive will ensure throughout the Community the same framework for allocation of responsibilities,
+         enforcement and cooperation. 
+      
+…
+(15)      Insider dealing and market manipulation prevent full and proper market transparency, which is a prerequisite for trading for
+         all economic actors in integrated financial markets.’ 
+      
+Article 1(2) of Directive 2003/provides: 
+      
+‘For the purposes of this Directive …:
+…
+2.      “Market manipulation” shall mean:
+(a)      transactions or orders to trade:
+–        which give, or are likely to give, false or misleading signals as to the supply of, demand for or price of financial instruments,
+         or
+      
+–        which secure, by a person, or persons acting in collaboration, the price of one or several financial instruments at an abnormal
+         or artificial level,
+      
+unless the person who entered into the transactions or issued the orders to trade establishes that his reasons for so doing
+         are legitimate and that these transactions or orders to trade conform to accepted market practices on the regulated market
+         concerned;
+      
+(b)      transactions or orders to trade which employ fictitious devices or any other form of deception or contrivance; 
+(c)      dissemination of information through the media, including the Internet, or by any other means, which gives, or is likely to
+         give, false or misleading signals as to financial instruments, including the dissemination of rumours and false or misleading
+         news, where the person who made the dissemination knew, or ought to have known, that the information was false or misleading.
+         In respect of journalists when they act in their professional capacity, such dissemination of information is to be assessed,
+         without prejudice to Article 11, taking into account the rules governing their profession, unless those persons derive, directly
+         or indirectly, an advantage or profits from the dissemination of the information in question.
+      
+In particular, the following instances are derived from the core definition given in points (a), (b) and (c) above:
+–        conduct by a person, or persons acting in collaboration, to secure a dominant position over the supply of or demand for a
+         financial instrument which has the effect of fixing, directly or indirectly, purchase or sale prices or creating other unfair
+         trading conditions,
+      
+–        the buying or selling of financial instruments at the close of the market with the effect of misleading investors acting on
+         the basis of closing prices,
+      
+–        taking advantage of occasional or regular access to the traditional or electronic media by voicing an opinion about a financial
+         instrument (or indirectly about its issuer) while having previously taken positions on that financial instrument and profiting
+         subsequently from the impact of the opinions voiced on the price of that instrument, without having simultaneously disclosed
+         that conflict of interest to the public in a proper and effective way. 
+      
+The definitions of market manipulation shall be adapted so as to ensure that new patterns of activity that in practice constitute
+         market manipulation can be included.’
+      
+Article of Directive 2003/reads as follows:
+      
+‘Member States shall prohibit any person from engaging in market manipulation.’
+ National law
+The Law on market abuse (Wet marktmisbruik) transposes Directive 2003/into the Netherlands legal system. It came into force
+         on October 2005. That Law amended, inter alia, Article 46b of the Law on the supervision of securities transactions
+         (Wet toezicht effectenverkeer 1995) (‘the Law’) as follows:
+      
+‘1.      In respect of the securities referred to in the relevant section, it is prohibited, in or from a State as referred to in Article
+         46(1)(a) or (b),
+      
+(a)      to undertake, or cause the undertaking of, transactions or to place, or cause the placing of, orders to trade which give,
+         or are likely to give, a false or misleading signal as to the supply of, demand for or price of those securities;
+      
+(b)      to undertake, or cause the undertaking of, transactions or to place, or cause the placing of, orders to trade with a view
+         to securing (“houden”) the price of those securities at an artificial level.’
+      
+On January the Law on financial supervision (Wet op het financieel toezicht) and the Law establishing and amending
+         the Law on financial supervision (Invoerings- en aanpassingswet Wet op het financieel toezicht) entered into force. 
+      
+The Law was repealed. The prohibition laid down in Article 46b(1)(b) of the Law is now laid down in Article 5:58(1)(b)
+         of the Law on financial supervision, which provides: 
+      
+‘1.      In respect of the financial instruments referred to in the relevant section, it is prohibited, in or from a State referred
+         to in Article 5:56(1)(a), (b) or (d):
+      
+...
+(b)      to undertake a transaction, or cause it to be undertaken, or to issue an order to trade, or cause it to be issued, in financial
+         instruments with a view to securing (“houden”) the price of those financial instruments at an artificial level, unless the
+         person who undertook the transactions, or caused them to be undertaken, or issued the orders to trade, or caused them to be
+         issued, establishes that his reasons for so doing are legitimate and that those transactions or orders to trade conform to
+         accepted market practices on the regulated market concerned or the multilateral trading facility concerned for which the investment
+         undertaking has a licence as referred to in Article 2:96.’
+      
+ The dispute in the main proceedings and the question referred for a preliminary ruling 
+IMC is a Netherlands firm which trades in securities for its own account. 
+      
+On October 2005, consulting the information published by the Euronext Amsterdam market, IMC established that the ABN AMRO
+         bank had placed a ‘stop loss order’ on Wereldhave shares. Pursuant to that order, those shares automatically had to
+         be sold at the best price possible as soon as the triggering threshold indicated by ABN AMRO was reached.
+      
+IMC sought to establish what was the triggering threshold set by ABN AMRO. After calculating a hypothetical threshold, IMC
+         refined its estimate by testing its hypothesis on October by placing and then withdrawing sell orders before official
+         hours at various prices. As a result, IMC estimated that ABN AMRO’s order would be triggered at a price of EUR 77.75.
+      
+On October 2005, the price of Wereldhave shares fluctuated between EUR 81.and EUR 80. The average volume of transactions
+         was 000. IMC thereafter proceeded in two phases.
+      
+IMC first of all placed a purchase order on Wereldhave shares at a price of EUR 73, for a total volume of shares. This
+         was an ‘iceberg order’, that is to say, an order the total quantity of which did not appear in the order books. The price
+         of EUR was approximately 10% lower than the applicable price of the shares, but just above the threshold at which the listing
+         of that share would have been automatically suspended, namely EUR 72.95.
+      
+Approximately two minutes later, when Wereldhave shares were being quoted at around EUR 80.40, IMC placed an order for the
+         sale of Wereldhave shares with a limit of EUR 76.50. The partial execution of that order had the effect of causing
+         the share price to fall to EUR 76.50. That fall in turn triggered ABN AMRO’s order to sell and caused a further fall, from
+         EUR 76.to EUR 73, the level corresponding to IMC’s purchase order. As a result, IMC was able to acquire Wereldhave
+         shares from ABN AMRO at EUR 73. This last phase did not last longer than one second.
+      
+Shortly thereafter, a new transaction involving the shares in question made it possible for their price to be set at EUR 80.15.
+         The transaction enabled IMC to realise a profit of almost 10% within a few minutes.
+      
+On August 2006, Stichting Autoriteit Financiële Markten decided that those facts constituted a prohibited market manipulation
+         and it fined IMC approximately EUR for breaching Article 46b(1)(b) of the Law. 
+      
+By a ruling of December 2007, the Rechtbank (District Court) Rotterdam reduced the amount of the fine to EUR 000.
+      
+IMC appealed against that ruling to the College van Beroep voor het bedrijfsleven (Administrative Court for Trade and Industry).
+      
+That court asks whether a sudden fluctuation in the price of a share, such as that at issue in the main proceedings, can come
+         within the scope of Article 46b(1)(b) of the Law on the supervision of securities transactions, in so far as under that
+         provision it is prohibited: ‘to undertake, or cause the undertaking of, transactions or to place, or cause the placing of,
+         orders to trade with a view to securing (houden) the price of those securities at an artificial level’. The specific question is whether that clause refers only to abnormal
+         or artificial price stabilisation or also embraces an abnormal or artificial price change.
+      
+The referring court points out that it is unable, by reason of the nuances in the different language versions of Directive
+         2003/6, to draw any unambiguous conclusions as to the meaning of the verb ‘houden’ in the Dutch-language version of Article
+         1(2)(a), second indent, of that directive.
+      
+It was in those circumstances that the College van Beroep voor het bedrijfsleven decided to stay proceedings and to refer
+         the following question to the Court of Justice for a preliminary ruling:
+      
+‘Must the second indent of Article 1(2)(a) of [Directive 2003/6] be interpreted as meaning that the bringing about of price
+         changes in a time span such as that at issue through the commission of a combination of acts with a financial instrument,
+         namely transactions and orders to trade such as [those at issue in the main proceedings], should be regarded as “houden” (literally
+         “maintaining”) [the price of] such an instrument at an abnormal or artificial level?’
+      
+ The question referred for a preliminary ruling
+The referring court asks, in essence, whether Article 1(2)(a), second indent, of Directive 2003/must be interpreted as requiring,
+         in order for the price of one or more financial instruments to be considered to have been fixed at an abnormal or artificial
+         level, that that price must maintain an abnormal or artificial level for more than a certain duration.
+      
+It should be noted that the Dutch-language version of Article 1(2)(a), second indent, of Directive 2003/uses the verb ‘houden’
+         (to maintain). The Dutch‑language version reads as follows: ‘“Marktmanipulatie”: a) transacties of handelsorders … waarbij
+         een of meer personen samenwerken om de koers van een financieel instrument op een abnormaal of een kunstmatig niveau te houden.’
+         That wording, which translates literally as ‘“Market manipulation”: … transactions or orders to trade … by which a person,
+         or persons acting in collaboration, maintain the price of one or several financial instruments at an abnormal or artificial
+         level’ could suggest that only conduct by which, during a certain time span, the price was maintained at an abnormal or artificial
+         level falls within the meaning of market manipulation.
+      
+However, for the purpose of its interpretation, Article 1(2)(a), second indent, of Directive 2003/cannot be examined solely
+         in the Dutch-language version. 
+      
+According to settled case-law, the need for uniform application and, accordingly, for uniform interpretation of an EU measure
+         makes it impossible to consider one version of the text in isolation, but requires that it be interpreted on the basis of
+         both the real intention of its author and the aim which the latter seeks to achieve, in the light, in particular, of the versions
+         in all languages (see, inter alia, Case 29/Stauder [1969] ECR 419, paragraph 3; Joined Cases C‑261/and C‑348/Zurita García and Choque Cabrera [2009] ECR I‑10143, paragraph 54; and Case C‑473/Eulitz [2010] ECR I‑0000, paragraph 22).
+      
+As it is, versions of Article 1(2)(a), second indent, of Directive 2003/in languages other than Dutch contain no information
+         which would allow the conclusion to be drawn that only conduct which has the effect of maintaining the price of one or more
+         relevant financial instruments at an abnormal or artificial level for a certain period of time may constitute ‘market manipulation’
+         within the meaning of that provision. By contrast, it follows from, inter alia, the versions in Spanish (‘aseguren … el precio’),
+         Danish (‘sikrer at kursen’), German (‘den Kurs … in der Weise beeinflussen, dass ein … Kursniveau erzielt wird’), English
+         (‘secure … the price’), French (‘fixent … le cours’), Italian (‘fissare … il prezzo’), Portuguese (‘assegurem … o preço’),
+         Finnish (‘varmistaa … hinnan’) and Swedish (‘låser fast priset’), that it is sufficient if the conduct in question has led
+         to the setting of the price of one or more financial instruments at an abnormal or artificial level in order for it to come
+         within the meaning of market manipulation. Article 1(2)(a), second indent, of Directive 2003/does not require, among the
+         factors constituting market manipulation, that the price of the financial instrument or instruments at issue must maintain
+         an abnormal or artificial level for a certain duration. 
+      
+In that respect, it should be noted that the purpose of Directive 2003/– as is reiterated, in particular, in recitals and in the preamble thereto – is to protect the integrity of EU financial markets and to enhance investor confidence in
+         those markets. That confidence depends on, inter alia, investors being placed on an equal footing and protected against the
+         improper use of insider information and price manipulations (see, to that effect, Case C‑45/Spector Photo Group and Van Raemdonck [2009] ECR I‑0000, paragraph 47).
+      
+The EU legislature took the view, as is stated in recital in the preamble to Directive 2003/6, that insider dealing and
+         market manipulation prevent full and proper market transparency, which is a prerequisite for trading for all economic actors
+         in integrated financial markets.
+      
+The objectives thus pursued by Directive 2003/would be undermined if conduct such as that contemplated in Article 1(2)(a),
+         second indent, of that directive could fall outside the scope of the prohibition of market manipulation set out in Article
+         of that directive solely on the ground that it gave rise to a single transaction and, consequently, a single listing, without
+         the price of the financial instrument or instruments at issue maintaining an abnormal or artificial level for more than a
+         certain duration.
+      
+The answer to the question referred is therefore that Article 1(2)(a), second indent, of Directive 2003/must be interpreted
+         as not requiring, in order for the price of one or more financial instruments to be considered to have been fixed at an abnormal
+         or artificial level, that that price must maintain an abnormal or artificial level for more than a certain duration.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+Article 1(2)(a), second indent, of Directive 2003/6/EC of the European Parliament and of the Council of January on
+            insider dealing and market manipulation (market abuse) must be interpreted as not requiring, in order for the price of one
+            or more financial instruments to be considered to have been fixed at an abnormal or artificial level, that that price must
+            maintain an abnormal or artificial level for more than a certain duration.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 

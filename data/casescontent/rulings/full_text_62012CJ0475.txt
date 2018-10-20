@@ -1,0 +1,263 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+April (
+*)
+‛Telecommunications sector — Electronic communications networks and services — Freedom to provide services — Article TFEU — Directive 2002/21/EC — Cross-border provision of a package of radio and television programmes — Conditional access — Competence of the national regulatory authorities — Registration — Requirement of establishment’
+In Case C‑475/12,
+REQUEST for a preliminary ruling under Article TFEU from the Fővárosi Törvényszék (Hungary), made by decision of September 2012, received at the Court on October 2012, in the proceedings
+UPC DTH Sàrl
+v
+Nemzeti Média- és Hírközlési Hatóság Elnökhelyettese,
+THE COURT (Second Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, J.L. da Cruz Vilaça (Rapporteur), G. Arestis, J.-C. Bonichot and A. Arabadjiev, Judges,
+Advocate General: J. Kokott,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on November 2013,
+after considering the observations submitted on behalf of:
+—
+UPC DTH Sàrl, by G. Ormai, D. Petrányi, Z. Okányi, P. Szilas and E. Csapó, ügyvédek,
+—
+the Nemzeti Média- és Hírközlési Hatóság Elnökhelyettese, by N. Beke, acting as Agent, and by G. Molnár-Bίró, ügyvéd,
+—
+the Hungarian Government, by K. Szíjjártó, Z. Fehér and G. Koós, acting as Agents,
+—
+the Belgian Government, by M. Jacobs and T. Materne, acting as Agents,
+—
+the Czech Government, by M. Smolek and T. Müller, acting as Agents,
+—
+the Lithuanian Government, by D. Kriaučiūnas and D. Stepanienė, acting as Agents,
+—
+the Netherlands Government, by M. Bulterman and C. Wissels, acting as Agents,
+—
+the Romanian Government, by R.‑H. Radu, R.I. Munteanu and I. Bara-Buşilă, acting as Agents,
+—
+the Slovak Government, by B. Ricziová, acting as Agent,
+—
+the European Commission, by G. Braun and by L. Nicolae and K. Talabér-Ritz, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on January 2014,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 2(c) and (f) of Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, p. 33), as amended by Directive 2009/140/EC of the European Parliament and of the Council of November (OJ L 337, p. 37; ‘the Framework Directive’), and of Article TFEU.
+The request has been made in proceedings between UPC DTH Sàrl (‘UPC’), a company governed by Luxembourg law, and the Nemzeti Média- és Hírközlési Hatóság Elnökhelyettese (Deputy Chairman of the National Media and Communications Authority; ‘the NMHH’), concerning market surveillance proceedings relating to the Hungarian electronic communications market brought against UPC.
+Legal context
+EU law
+Article of Directive 98/84/EC of the European Parliament and of the Council of November on the legal protection of services based on, or consisting of, conditional access (OJ L 320, p. 54) provides:
+‘The objective of this Directive is to approximate provisions in the Member States concerning measures against illicit devices which give unauthorised access to protected services.’
+The new regulatory framework applicable to electronic communications services
+The new regulatory framework applicable to electronic communications services (‘the NRF’) is composed of the Framework Directive and four specific directives which accompany it, including Directive 2002/20/EC of the European Parliament and of the Council of March on the authorisation of electronic communications networks and services (Authorisation Directive) (OJ L p. 21), as amended by Directive 2009/(‘the Authorisation Directive’), Directive 2002/19/EC of the European Parliament and of the Council of March on access to, and interconnection of, electronic communications networks and associated facilities (Access Directive) (OJ L 108, p. 7), as amended by Directive 2009/(‘the Access Directive’), and Directive 2002/22/EC of the European Parliament and of the Council of March on universal service and users’ rights relating to electronic communications networks and services (Universal Service Directive) (OJ L 108, p. 51), as amended by Directive 2009/136/EC of the European Parliament and of the Council of November (OJ L 337, p. 11; ‘the Universal Service Directive’).
+– The Framework Directive
+Recital in the preamble to the Framework Directive is worded as follows:
+‘The provisions of this Directive and the Specific Directives are without prejudice to the possibility for each Member State to take the necessary measures to ensure the protection of its essential security interests, to safeguard public policy and public security, and to permit the investigation, detection and prosecution of criminal offences, including the establishment by national regulatory authorities of specific and proportional obligations applicable to providers of electronic communications services.’
+Article 1(1) and (3) of that directive provides:
+‘1.   This Directive establishes a harmonised framework for the regulation of electronic communications services, electronic communications networks, associated facilities and associated services … It lays down tasks of national regulatory authorities and establishes a set of procedures to ensure the harmonised application of the regulatory framework throughout the Community.
+…
+3.   This Directive as well as the Specific Directives are without prejudice to measures taken at Community or national level, in compliance with Community law, to pursue general interest objectives, in particular relating to content regulation and audio-visual policy.’
+Article of the Framework Directive, entitled ‘Definitions’, provides:
+‘For the purposes of this Directive:
+(a)
+“electronic communications network” means transmission systems … which permit the conveyance of signals by wire … or other electromagnetic means, including satellite networks, …
+…
+(c)
+“electronic communications service” means a service normally provided for remuneration which consists wholly or mainly in the conveyance of signals on electronic communications networks, including telecommunications services and transmission services in networks used for broadcasting, but exclude services providing, or exercising editorial control over, content transmitted using electronic communications networks and services; it does not include information society services, as defined in Article of Directive 98/34/EC, which do not consist wholly or mainly in the conveyance of signals on electronic communications networks;
+…
+(ea)
+“associated services” means those services associated with an electronic communications network and/or an electronic communications service which enable and/or support the provision of services via that network and/or service or have the potential to do so and include, inter alia, … conditional access systems …
+(f)
+“conditional access system” means any technical measure and/or arrangement whereby access to a protected radio or television broadcasting service in intelligible form is made conditional upon subscription or other form of prior individual authorisation;
+…
+(k)
+“subscriber” means any natural person or legal entity who or which is party to a contract with the provider of publicly available electronic communications services for the supply of such services;
+…’
+It is apparent from Article 8(1) of the Framework Directive that the Member States are to ensure that the national regulatory authorities take all reasonable measures to promote competition in the provision of electronic communications services, to develop the internal market and to promote the interests of the citizens of the European Union, and that such measures are to be proportionate to those objectives.
+– The Authorisation Directive
+Recital in the preamble to that directive is worded as follows:
+‘The conditions, which may be attached to the general authorisation and to the specific rights of use, should be limited to what is strictly necessary to ensure compliance with requirements and obligations under Community law and national law in accordance with Community law.’
+Article of the Authorisation Directive, entitled ‘General authorisation of electronic communications networks and services’, provides in paragraphs and 3:
+‘2.   The provision of electronic communications networks or the provision of electronic communications services may, without prejudice to the specific obligations referred to in Article 6(2) or rights of use referred to in Article 5, only be subject to a general authorisation. The undertaking concerned may be required to submit a notification but may not be required to obtain an explicit decision or any other administrative act by the national regulatory authority before exercising the rights stemming from the authorisation. Upon notification, when required, an undertaking may begin activity, where necessary subject to the provisions on rights of use in Articles 5, and 7.
+Undertakings providing cross-border electronic communications services to undertakings located in several Member States shall not be required to submit more than one notification per Member State concerned.
+3.   The notification referred to in paragraph shall not entail more than a declaration by a legal or natural person to the national regulatory authority of the intention to commence the provision of electronic communication networks or services and the submission of the minimal information which is required to allow the national regulatory authority to keep a register or list of providers of electronic communications networks and services. This information must be limited to what is necessary for the identification of the provider, such as company registration numbers, and the provider’s contact persons, the provider’s address, a short description of the network or service, and an estimated date for starting the activity.’
+Article of the Authorisation Directive, entitled ‘Conditions attached to the general authorisation and to the rights of use for radio frequencies and for numbers, and specific obligations’, provides, in paragraphs and 3:
+‘1.   The general authorisation for the provision of electronic communications networks or services and the rights of use for radio frequencies and rights of use for numbers may be subject only to the conditions listed in the Annex. Such conditions shall be non-discriminatory, proportionate and transparent …
+…
+3.   The general authorisation shall only contain conditions which are specific for that sector and are set out in Part A of the Annex and shall not duplicate conditions which are applicable to undertakings by virtue of other national legislation.’
+Article 11(1) of the Authorisation Directive is worded as follows:
+‘Without prejudice to information and reporting obligations under national legislation other than the general authorisation, national regulatory authorities may only require undertakings to provide information under the general authorisation … that is proportionate and objectively justified …’
+Point of Part A of the Annex to the Authorisation Directive mentions consumer protection rules and conditions specific to the electronic communications sector.
+– The Access Directive
+Article 9(1) of the Access Directive provides:
+‘National regulatory authorities may, in accordance with the provisions of Article 8, impose obligations for transparency in relation to interconnection and/or access, requiring operators to make public specified information, such as accounting information, technical specifications, network characteristics, terms and conditions for supply and use …’
+– Directive 2009/Recital in the preamble to Directive 2009/is worded as follows:
+‘The aim is progressively to reduce ex-ante sector specific rules as competition in the markets develops and, ultimately, for electronic communications to be governed by competition law only. Considering that the markets for electronic communications have shown strong competitive dynamics in recent years, it is essential that ex-ante regulatory obligations only be imposed where there is no effective and sustainable competition.’
+Hungarian law
+The NRF was transposed into Hungarian law, in particular, by Law C of on electronic communications (Az elektronikus hírközlésről szóló törvény, Magyar Közlöny 2003/(XI.27)).
+Paragraph of that law provides:
+‘(1)   This Law shall apply
+(a)
+to all electronic communications activity carried out in the territory of the Republic of Hungary or intended for that territory, and to any activity in which a radio-frequency signal is transmitted;
+(b)
+to all natural persons or legal entities and any other bodies not having legal personality and the directors thereof who are providing the service or carrying out the activity referred to in subparagraph (a) or an associated activity.
+…’
+Under Paragraph 10(m) of that Law, the national regulatory authority deals, inter alia, with administrative issues linked to the notification of electronic communications services, identifier management, the keeping of statutory registers, interference suppression and market surveillance.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+UPC is a commercial company registered in Luxembourg which supplies, from Luxembourg, to subscribers resident in other Member States, in particular in Hungary, packages of radio and audio-visual broadcast services that are subject to conditional access and may be received by satellite.
+Since it does not own the satellite infrastructure, UPC uses the services of third parties for that purpose. Moreover, it does not exercise any editorial control over programmes. The price which users of the service are charged includes not only broadcasting costs but also fees paid to radio stations and collecting societies in connection with the publication of their content.
+In Hungary, the NMHH is the competent national authority in the field of electronic communications services.
+In the context of the restructuring of its activities in Hungary, UPC had discussions with the predecessor of the NMHH from spring 2010, concerning, in particular, the obligation for a provider of electronic communications services to be registered by the competent national regulatory authority in the territory in which that provider intends to supply such services.
+On October 2010, UPC informed the NMHH that it had submitted a request for an opinion to the authority that was competent by reason of UPC’s registered office, namely the Institut luxembourgeois de régulation (the Luxembourg Regulatory Institute; ‘the ILR’), in order to clarify its legal position. The ILR had issued an opinion stating that the Luxembourg authorities had territorial competence in respect of the services supplied by UPC and that, by reference to Luxembourg law, the service supplied by that company was not an electronic communications service.
+By a decision of October 2010, the NMHH, as first-instance authority, initiated market surveillance proceedings against UPC. In the context of those proceedings, the NMHH ordered UPC to provide it with documentation relating to its contractual relationship with one of its subscribers.
+In reliance in particular on the opinion from the ILR, UPC refused to provide the information sought and asked the NMHH to terminate the market surveillance proceedings for lack of international competence and for lack of competence ratione materiae. The NMHH then imposed a fine of Hungarian forint (HUF) on UPC, by a decision of December 2010, on the ground that UPC had not provided the information requested. UPC lodged a complaint against that decision with the Deputy Chairman of the NMHH who, in his capacity as the second-instance authority, dismissed that complaint.
+UPC then brought an application for judicial review of that decision before the referring court, citing an infringement of national law. The Fővárosi Törvényszék annulled that decision for procedural reasons, and ordered the Deputy Chairman of the NMHH to re-examine it.
+In the context of that re-examination, the Deputy Chairman of the NMHH declared that he had international competence and competence ratione materiae, and again dismissed UPC’s complaint against the first-instance decision, although he reduced the fine to HUF 100000.
+UPC then brought an application for judicial review before the referring court, by which it sought annulment of that decision and of the decision given at first instance.
+According to the Fővárosi Törvényszék, the determination of the dispute before it requires that an answer first be given to questions concerning the competence ratione materiae and the territorial competence of the Hungarian and Luxembourg authorities and the compatibility with EU law of the service supplied by UPC.
+In those circumstances the Fővárosi Törvényszék decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘1.
+May Article 2(c) of the Framework Directive … be interpreted as meaning that a service by which a service provider supplies, for consideration, conditional access to a package of programmes which contains radio and television broadcast services and is retransmitted by satellite is to be classified as an electronic communications service?
+2.
+May the [FEU Treaty] be interpreted as meaning that the principle of the free movement of services is applicable to the service described in the first question, in the case of a service supplied from Luxembourg to Hungary?
+3.
+May the [FEU Treaty] be interpreted as meaning that, in the case of the service described in the first question, the country of destination, to which the service is sent, is entitled to limit the supply of that type of services by requiring that the [supplier of the] service has to be registered in that Member State and has to be established as a branch or separate legal entity, and allowing this type of services to be supplied only through the establishment of a branch or separate legal entity?
+4.
+May the [FEU Treaty] be interpreted as meaning that administrative proceedings relating to the services described in the first question, regardless of the Member State in which the undertaking supplying that service operates or is registered, will be subject to the administrative authority of the Member State which has jurisdiction on the basis of the place in which the service is supplied?
+5.
+May Article 2(c) of the [Framework Directive] be interpreted as meaning that the service described in the first question must be classified as an electronic communications service, or must such a service be classified as a conditional access service supplied using the conditional access system defined in Article 2(f) of the Framework Directive?
+6.
+On the basis of all the foregoing, may the relevant provisions be interpreted as meaning that the service provider described in the first question must be classified as a provider of electronic communications services pursuant to [EU] law?’
+Consideration of the questions referred
+As a preliminary point, it should be noted that the questions referred to the Court of Justice by the referring court may be divided into two separate groups, according to the provisions of EU law of which interpretation is sought.
+While the first group concerns the interpretation of the Framework Directive with a view to determining the nature and content of the activity carried out by UPC (first, fifth and sixth questions), the second group concerns the application of the principle of the freedom to provide services — as enshrined in Article TFEU — to the services at issue in the main proceedings (second, third and fourth questions).
+Interpretation of the Framework Directive
+By its first, fifth and sixth questions, which it is appropriate to consider together, the referring court asks, in essence, whether a service consisting in the supply, for consideration, of conditional access to a package of programmes which contains radio and television broadcast services and is retransmitted by satellite falls within the definition of ‘electronic communications service’ within the meaning of Article 2(c) of the Framework Directive, or whether it must be classified as a ‘conditional access system’ within the meaning of Article 2(f) of that directive. The referring court also seeks to establish whether the provider of such a service must be regarded as a provider of electronic communications services pursuant to the NRF.
+In its judgment in Case C‑518/UPC Nederland
+EU:C:2013:709, the Court determined a question similar to that which the referring court raises first of all.
+UPC Nederland concerned a service for the supply of a package of radio and television programmes accessible via cable that was offered by that company to residents of a Netherlands municipality.
+In that judgment, the Court noted that the Framework Directive makes a clear distinction between the production of content, which involves editorial responsibility, and the transmission of content, which does not entail any editorial responsibility. The Court stated that content and transmission are covered by different measures which pursue their own specific objectives (see UPC Nederland
+EU:C:2013:709, paragraph 41).
+The Court also pointed out that although customers of UPC Nederland BV take out a subscription for the purposes of gaining access to the basic cable package offered by that company, that does not mean that that company’s business, which consists in broadcasting programmes produced by the content editors (in this case radio and television channels) by transmitting those programmes to the connection point of its cable network in its subscribers’ homes, must be excluded from the definition of ‘electronic communications service’ within the meaning of Article 2(c) of the Framework Directive (see UPC Nederland
+EU:C:2013:709, paragraph 43).
+On the basis of those considerations, the Court concluded that the provision of a basic cable package falls within the definition of electronic communications service and, therefore, the substantive scope of the NRF, in so far as that service includes the conveyance of signals on the cable network (see UPC Nederland
+EU:C:2013:709, paragraph 44).
+Further, the Court stated that the fact that the transmission costs charged to subscribers incorporate the payments made to broadcasting channels and the royalties paid to copyright collecting societies in connection with the transmission of programme content cannot preclude the service supplied by UPC Nederland BV from being characterised as an ‘electronic communications service’ for the purposes of the NRF (see UPC Nederland
+EU:C:2013:709, paragraph 46).
+However, like UPC Nederland BV, and as is evident from the documents before the Court in the present case, UPC does not itself produce the radio and television programmes it broadcasts, and does not assume editorial responsibility for their content. Moreover, subscription to the service supplied by UPC includes not only the transmission costs but also the fees paid to radio stations and collecting societies in connection with publication of the content of the programmes broadcast.
+Furthermore, as is apparent from Article 2(a) and (c) of the Framework Directive, the fact that the conveyance of signals on electronic communications networks is effected by cable or by satellite infrastructure is in no way decisive for the purposes of the interpretation of ‘electronic communications service’ within the meaning of that provision.
+However, UPC argues that it does not supply an electronic communications service within the meaning of Article 2(c) of the Framework Directive, since it does not transmit any signal and does not have an electronic communications network, that is to say, satellite infrastructure. For that purpose it calls on the services of, and systems belonging to, third parties.
+In that regard, it must be noted that the fact that the transmission of signals is by means of an infrastructure that does not belong to UPC is of no relevance to the classification of the nature of the service. All that matters in that regard is that UPC is responsible vis-à-vis the end-users for transmission of the signal which ensures that they are supplied with the service to which they have subscribed.
+Any other interpretation would considerably reduce the scope of the NRF, undermine the effectiveness of its provisions and therefore compromise the achievement of the objectives pursued by that framework. Since the purpose of the NRF, as is apparent from recital in the preamble to Directive 2009/140, is to establish a genuine internal market for electronic communications, in which those communications are ultimately to be governed by competition law only, the exclusion of the activities of an undertaking such as UPC from its scope, on the pretext that it is not the owner of the satellite infrastructure which enables signals to be transmitted, would deprive the NRF of much of its meaning (see, to that effect, UPC Nederland
+EU:C:2013:709, paragraph 45).
+While the interpretation given by the Court in UPC Nederland enables an answer to be given to the question of the classification, under the NRF, of the service supplied by UPC, it must nevertheless be noted that that service is subject to conditional access, since UPC’s subscribers’ access to programmes broadcast by satellite is subject to prior decryption.
+That aspect caused the referring court to query whether the service supplied by UPC should be regarded as a ‘conditional access system’ within the meaning of Article 2(f) of the Framework Directive, instead of as an electronic communications service within the meaning of Article 2(c) of that directive.
+As the Advocate General stated in point of her Opinion, that doubt on the part of the referring court seems to be founded on the premiss that an electronic communications service and a conditional access system are mutually exclusive.
+That premiss is incorrect.
+It should be borne in mind that Article 2(f) of the Framework Directive defines ‘conditional access system’ within the meaning of that provision as ‘any technical measure and/or arrangement whereby access to a protected radio or television broadcasting service in intelligible form is made conditional upon subscription or other form of prior individual authorisation’.
+It follows from that provision that a conditional access system constitutes a means of access to a radio or television service and presupposes that a technical system is put in place the purpose of which is to limit access to that service to persons who have a subscription with the service provider. However, a conditional access system does not, by itself, enable access to be given to a radio or television service. Such access still depends on the transmission of signals by the electronic communications network.
+The operation of a conditional access system is therefore directly linked to the provision of the protected service. In any situation in which the operator of the conditional access system is simultaneously the provider of the radio or television programme broadcasting service, which appears to be the case in the main proceedings, the service is a unified service in which the supply of the radio or television service is the core element of the activity carried out by that operator, the conditional access system being the ancillary element.
+In view of its ancillary nature, a conditional access system may be attached to an electronic communications service for the broadcasting of radio or television programmes, without that service losing the status of an electronic communications service.
+That conclusion is reinforced by Article 2(ea) of the Framework Directive, according to which conditional access systems are services associated with an electronic communications network and/or an electronic communications service which enable the provision of services via that network and/or service.
+Furthermore, while it is true that Directive 98/lays down specific rules for conditional access systems, the fact remains that, according to Article thereof, the scope of that directive is limited to the approximation of provisions in the Member States concerning measures against illicit devices which give unauthorised access to protected services. That being the case, Directive 98/does not affect the classification of an electronic communications service whose content is subject to conditional access.
+As regards, moreover, the question whether the provider of a service such as that supplied by UPC must be regarded as a provider of electronic communications services pursuant to the NRF, it must be noted that neither the Framework Directive nor the Authorisation Directive contains a definition of ‘provider of electronic communications services’.
+However, Article 2(k) of the Framework Directive defines a ‘subscriber’ as any natural person or legal entity who or which is party to a contract with a ‘provider of publicly available electronic communications services for the supply of such services’.
+It must therefore be noted that a person who supplies electronic communications services within the meaning of Article 2(c) of the Framework Directive is a provider of electronic communications services for the purposes of that directive.
+Consequently, the answer to the first, fifth and sixth questions is that Article 2(c) of the Framework Directive must be interpreted as meaning that a service consisting in the supply, for consideration, of conditional access to a package of programmes which contains radio and television broadcast services and is retransmitted by satellite falls within the definition of ‘electronic communications service’ within the meaning of that provision. The fact that that service includes a conditional access system within the meaning of Article 2(ea) and (f) of the Framework Directive is irrelevant in that regard. An operator supplying a service such as that at issue in the main proceedings must be regarded as a provider of electronic communications services under the Framework Directive.
+The freedom to provide services
+The second question
+By its second question, the referring court asks, in essence, whether, in circumstances such as those at issue in the main proceedings, a service consisting in the supply, for consideration, of conditional access to a package of programmes which contains radio and audio-visual broadcast services and is retransmitted by satellite constitutes a provision of services for the purposes of Article TFEU.
+It is common ground that UPC is a company established in Luxembourg that supplies packages of radio and audio-visual broadcast services to subscribers resident in other Member States.
+According to the well-established case-law of the Court, the transmission of television signals falls within the rules of the Treaty on the provision of services (see, to that effect, Case C‑17/De Coster
+EU:C:2001:651, paragraph 28, and Case C‑250/United Pan-Europe Communications Belgium and Others
+EU:C:2007:783, paragraph 28).
+However, the question whether national legislation in the electronic communications services sector, such as Law C of 2003, must be considered on the basis of Article TFEU depends on the degree of harmonisation within the European Union in that sector.
+A national measure in a sphere which has been the subject of full harmonisation at EU level must be assessed in the light of the provisions of the harmonising measure and not those of the Treaty (see, in particular, Case C‑322/Deutscher Apothekerverband
+EU:C:2003:664, paragraph 64, and Case C‑265/Citroën Belux
+EU:C:2013:498, paragraph 31).
+In that regard, it must be noted that, according to recital in the preamble to the Framework Directive, ‘[t]he provisions of this Directive and the Specific Directives [which compose the NRF] are without prejudice to the possibility for each Member State to take the necessary measures to ensure the protection of its essential security interests … including the establishment by national regulatory authorities of specific and proportional obligations applicable to providers of electronic communications services’.
+Thus, Article 1(3) of the Framework Directive provides that it is to be without prejudice to measures taken at national level, in compliance with EU law, to pursue general interest objectives.
+It is apparent, moreover, from Article 8(1) of the Framework Directive that the Member States are to ensure that the national regulatory authorities take all reasonable measures to promote competition in the provision of electronic communications services, to develop the internal market and to promote the interests of the citizens of the European Union, and that such measures are to be proportionate to those objectives.
+Along the same lines, recital in the preamble to the Authorisation Directive states that the conditions which may be attached to the general authorisation must be limited to what is strictly necessary to ensure compliance with obligations under national law in accordance with EU law.
+As regards the Access Directive, this provides, in Article 9(1), that the national authorities may impose obligations for transparency in relation to interconnection and/or access, requiring operators to make public specified information.
+Lastly, in Case C‑522/Telekomunikacja Polska
+EU:C:2010:135, paragraph 29, the Court, after finding that Article of the Universal Service Directive applied without prejudice to national rules on consumer protection in conformity with EU law, ruled that the Framework Directive and the Universal Service Directive do not provide for full harmonisation of consumer-protection aspects.
+In those circumstances, it must be noted that EU law has not been fully harmonised in the electronic communications services sector and, accordingly, the national legislation at issue in the main proceedings must be considered in the light of Article TFEU so far as concerns those aspects that are not covered by the NRF.
+The NMHH and the Hungarian Government propose, none the less, that the second question should be answered in the negative, in so far as UPC is not engaged in any activity for the provision of radio and audio-visual broadcast services in the Member State in which it has its registered office.
+In that regard it is sufficient to note that the right of an economic operator, established in a Member State, to provide services in another Member State, which Article TFEU lays down, is not subject to the condition that the said operator also provides such services in the Member State in which he is established. Article TFEU requires only that the provider be established in a Member State other than that of the recipient (see Case C‑46/Carmen Media Group
+EU:C:2010:505, paragraph and the case-law cited).
+The Czech, Romanian and Slovak Governments submit also that the activity carried out by UPC in Hungary does not fall within the scope of Article TFEU, in so far as that activity is not of a temporary or occasional nature but permanent and systematic. That being the case, UPC is relying unreasonably on the application of the rules on the freedom to provide services safeguarded by that article.
+It should also be observed that no provision of the Treaty affords a means of determining, in an abstract manner, the duration or frequency beyond which the supply of a service or of a certain type of service in another Member State can no longer be regarded as the provision of services, and accordingly ‘services’ within the meaning of the Treaty may cover services varying widely in nature, including services which are provided over an extended period, even over several years (see Case C‑215/Schnitzer
+EU:C:2003:662, paragraphs and 31, and Joined Cases C‑357/to C‑359/Duomo Gpa and Others
+EU:C:2012:283, paragraph 32).
+Consequently, the mere fact that a business established in one Member State supplies identical or similar services with a greater or lesser degree of frequency or regularity in a second Member State, without having an infrastructure there enabling it to pursue a professional activity there on a stable and continuous basis and, from the infrastructure, to hold itself out to, amongst others, nationals of the second Member State, is not sufficient for it to be regarded as established in the second Member State (Schnitzer
+EU:C:2003:662, paragraph 32).
+It must be noted, moreover, that the fact that an undertaking has established itself in one Member State in order to escape the legislation of another Member State does not preclude its broadcasts being regarded as services within the meaning of the Treaty. That is distinct from the question of what measures a Member State may take to prevent a provider of services established in another Member State from circumventing its domestic legislation (see Case C‑23/TVEU:C:1994:362, paragraph 15).
+Furthermore, the exercise of a fundamental freedom for the purpose of benefiting from the more favourable legislation of another Member State does not in itself suffice to constitute abuse of that freedom (see, to that effect, Case C‑196/Cadbury Schweppes and Cadbury Schweppes Overseas
+EU:C:2006:544, paragraph 37).
+Having regard to the foregoing considerations, the answer to the second question is that, in circumstances such as those at issue in the main proceedings, a service consisting in the supply, for consideration, of conditional access to a package of programmes which contains radio and audio-visual broadcast services and is retransmitted by satellite constitutes a provision of services for the purposes of Article TFEU.
+The fourth question
+By its fourth question, the referring court seeks to establish, in essence, whether surveillance proceedings relating to electronic communications services such as that at issue in the main proceedings will be subject to the administrative authorities of the Member State in which the recipients of those services are resident, or to those of the Member State in whose territory the undertaking supplying those services is located.
+That question arises from the debate in the dispute in the main proceedings regarding the respective competences — ratione materiae and territorial — of the Luxembourg and Hungarian authorities in respect of surveillance proceedings applicable to radio and audio-visual broadcasting activities conducted from Luxembourg and intended for persons resident in Hungary.
+It must be borne in mind that the main proceedings concern the lawfulness of a fine imposed on UPC by the NMHH, owing to UPC’s refusal to provide the NMHH with information concerning the contractual relationship between UPC and one of its subscribers. That request for information had been made in the context of market surveillance proceedings against UPC that were initiated following complaints from UPC subscribers.
+It is apparent from paragraph of the present judgment that UPC supplies ‘electronic communications services’, within the meaning of Article 2(c) of the Framework Directive, in Hungary.
+In that context, the broadcasting by UPC to subscribers resident in Hungary of packages of radio and audio-visual broadcast services that are subject to conditional access and may be received by satellite falls within the scope of the NRF and, in particular, of the Authorisation Directive.
+It must be noted in that regard that, in accordance with Article 6(1) and (3) of the Authorisation Directive, the general authorisation for the provision of electronic communications networks or services may be subject only to the conditions listed in Part A of the Annex to that directive.
+It should also be observed that, under Article 11(1)(b) of the Authorisation Directive, read in conjunction with point of Part A of the Annex thereto, national authorities may request from undertakings information that is proportionate and objectively justified for verification of compliance with conditions relating to consumer protection where a complaint has been received or in the case of an investigation by the national authority on its own initiative.
+It follows from those aspects that, as EU law currently stands, the Authorisation Directive does not lay down any obligation for the competent national authorities as regards the recognition of authorisation decisions taken in the State from which the services concerned are supplied.
+Therefore, the Member State in whose territory the recipients of the electronic communications services are resident may make the provision of those services subject to certain conditions, in accordance with the provisions of that directive.
+In those circumstances, the answer to the fourth question is that surveillance proceedings relating to electronic communications services, such as that at issue in the main proceedings, will be subject to the authorities of the Member State in which the recipients of those services are resident.
+The third question
+By its third question, the referring court asks, in essence, whether Article TFEU must be interpreted as meaning that the authorities of a Member State are precluded from requiring undertakings which supply electronic communications services, such as that at issue in the main proceedings, in the territory of that State to register those services and to establish in that State a branch or a legal entity separate from that located in the Member State of transmission.
+– Admissibility
+The NMHH and the Hungarian Government take the view that the third question is inadmissible.
+They claim that the dispute in the main proceedings has no connection with the freedom of establishment or with the aspects of EU law linked to cross-border services that are raised in that question. By that question, the referring court was raising problems of a different nature from that of the present case. The issue is one on which the referring court is not required to rule and is therefore of no relevance to the outcome of the dispute in the main proceedings.
+It should be borne in mind in that regard that it has consistently been held that the procedure provided for in Article TFEU is an instrument of cooperation between the Court of Justice and the national courts, by means of which the Court provides the national courts with the points of interpretation of EU law which they need in order to decide the disputes before them (see, in particular, Case C‑279/Fish Legal and Shirley
+EU:C:2013:853, paragraph 29).
+Questions on the interpretation of EU law referred by a national court in the factual and legislative context which that national court is responsible for defining and the accuracy of which is not a matter for the Court to determine enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling from a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see, in particular, Fish Legal and Shirley
+EU:C:2013:853, paragraph 30).
+In the present case, when questioned by the Court in the context of a request for clarification under Article 101(1) of the Rules of Procedure of the Court of Justice, the referring court explained why an answer to that question could be useful to it, should the Court find that there had been an infringement of Article TFEU. It is not obvious, therefore, that the interpretation of EU law sought bears no relation to the actual facts of the main action or its purpose.
+The third question referred for a preliminary ruling must therefore be declared admissible.
+– Substance
+As regards the obligation to register a service such as that at issue in the main proceedings in the Member State in whose territory it is supplied, it must be noted that it is clear from Article 3(2) and (3) of the Authorisation Directive that the provider of electronic communications services may be required, before starting the activity, to submit to the national regulatory authorities a notification which must contain the minimal information required to allow those authorities to keep a register.
+It is also apparent from Article 3(2) and (3) of the Authorisation Directive that this information must be limited to what is necessary for the identification of the provider, such as company registration numbers, and the provider’s contact persons, the provider’s address, a short description of the network or service, and an estimated date for starting the activity. That article also makes clear that provision of the electronic communication service may not be made subject to the obtaining of an explicit decision or any other administrative act. Furthermore, after providing notification, an undertaking may begin its activity.
+It must be noted that, as the Court has held in paragraph of the present judgment, the fact that the Framework Directive and the Specific Directives composing the NRF, including the Authorisation Directive, do not fully harmonise national legislation in the electronic communications networks and services sector does not preclude the EU legislature from circumscribing the discretion of the Member States by means of strict limits, with regard to certain specific aspects of the NRF.
+That is precisely the case as regards Article of the Authorisation Directive, which contains a legal framework in respect of the conditions which the regulatory authorities of a Member State may impose in order to allow undertakings established in other Member States to supply electronic communications services in the territory of that first State.
+It must be noted, therefore, that the obligation for undertakings which supply electronic communications services to register those services with the regulatory authorities of the Member State in whose territory those services are supplied is expressly laid down in the Authorisation Directive. Consequently, Article TFEU does not preclude Member States from imposing such an obligation, provided that they act in compliance with the requirements set out in Article of the Authorisation Directive.
+So far as concerns the obligation under which an undertaking wishing to supply electronic communications services in a Member State other than that in which it is established is required to establish a branch or a separate legal entity there, it must be borne in mind that, according to settled case-law, Article TFEU requires not only the elimination of all discrimination against providers of services on grounds of nationality or the fact that they are established in a Member State other than that where the services are to be provided, but also the abolition of any restriction, even if it applies without distinction to national providers of services and to those of other Member States, which is liable to prohibit, impede or render less advantageous the activities of a provider of services established in another Member State where he lawfully provides similar services (Case C‑475/Konstantinides
+EU:C:2013:542, paragraph 44).
+It must be held that a provision of national law under which an undertaking established in another Member State must create a permanent establishment in the Member State in which it seeks to supply electronic communications services breaches the prohibition, laid down in Article TFEU, of any restriction on the freedom to provide services.
+Admittedly, restrictions on that freedom may, in general, be allowed as derogations on grounds of public policy, public security or public health, as expressly provided for under Article TFEU, which is applicable in this area by virtue of Article TFEU, or justified, in accordance with the case-law of the Court, by overriding reasons in the public interest (Case C‑470/Garkalns
+EU:C:2012:505, paragraph 35).
+However, a requirement of establishment is the very negation of the freedom to provide services and has the result of depriving Article TFEU of all effectiveness (see, to that effect, Case 205/Commission v Germany
+EU:C:1986:463, paragraph 52, and Case C‑546/Commission v Germany
+EU:C:2010:25, paragraph 39).
+In any event, and as the Advocate General noted in points and of her Opinion, the more extensive monitoring opportunities that would be opened up by the establishment of a branch or a separate legal entity are not justified in the main action.
+In the light of the foregoing, the answer to the third question is that Article TFEU must be interpreted as meaning that:
+—
+Member States are not precluded from requiring undertakings which supply electronic communications services, such as that at issue in the main proceedings, in their territory to register those services, provided that Member States act in compliance with the requirements set out in Article of the Authorisation Directive; and
+—
+on the other hand, undertakings wishing to supply electronic communications services, such as that at issue in the main proceedings, in a Member State other than that in which they are established cannot be required to establish in that State a branch or a legal entity separate from that located in the Member State of transmission.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+1.
+Article 2(c) of Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework Directive), as amended by Directive 2009/140/EC of the European Parliament and of the Council of November 2009, must be interpreted as meaning that a service consisting in the supply, for consideration, of conditional access to a package of programmes which contains radio and television broadcast services and is retransmitted by satellite falls within the definition of ‘electronic communications service’ within the meaning of that provision.
+The fact that that service includes a conditional access system within the meaning of Article 2(ea) and (f) of Directive 2002/21, as amended by Directive 2009/140, is irrelevant in that regard.
+An operator supplying a service such as that at issue in the main proceedings must be regarded as a provider of electronic communications services under Directive 2002/21, as amended by Directive 2009/140.
+ 
+2.
+In circumstances such as those at issue in the main proceedings, a service consisting in the supply, for consideration, of conditional access to a package of programmes which contains radio and audio-visual broadcast services and is retransmitted by satellite constitutes a provision of services for the purposes of Article TFEU.
+ 
+3.
+Surveillance proceedings relating to electronic communications services, such as that at issue in the main proceedings, will be subject to the authorities of the Member State in which the recipients of those services are resident.
+ 
+4.
+Article TFEU must be interpreted as meaning that:
+—
+Member States are not precluded from requiring undertakings which supply electronic communications services, such as that at issue in the main proceedings, in their territory to register those services, provided that Member States act in compliance with the requirements set out in Article of Directive 2002/20/EC of the European Parliament and of the Council of March on the authorisation of electronic communications networks and services (Authorisation Directive), as amended by Directive 2009/140; and
+—
+on the other hand, undertakings wishing to supply electronic communications services, such as that at issue in the main proceedings, in a Member State other than that in which they are established cannot be required to establish in that State a branch or a legal entity separate from that located in the Member State of transmission.
+ 
+[Signatures]
+(
+*)   Language of the case: Hungarian.
+Top  
+ 

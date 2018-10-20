@@ -1,0 +1,614 @@
+
+Case C-545/Apis-Hristovich EOOD
+v
+Lakorda AD
+(Reference for a preliminary ruling from the Sofiyski gradski sad)
+(Directive 96/9/EC – Legal protection of databases – Sui generis right – Obtaining, verification or presentation of the contents of a database – Extraction – Substantial part of the contents of a database – Database containing official legal data)
+Summary of the Judgment
+1.        Approximation of laws – Legal protection of databases – Directive 96/(European Parliament and Council Directive 96/9, Art. 7)
+2.        Approximation of laws – Legal protection of databases – Directive 96/(European Parliament and Council Directive 96/9, Art. 7)
+3.        Approximation of laws – Legal protection of databases – Directive 96/(European Parliament and Council Directive 96/9, Arts 1(2) and 7)
+1.        As is clear from the very terms of Article 7(2)(a) of Directive 96/on the legal protection of databases, the Community legislature
+         intended to include in the concept of ‘extraction’ within the meaning of Article not merely acts of ‘permanent transfer’
+         but also those of ‘temporary transfer’. The delimitation of the concepts of ‘permanent transfer’ and ‘temporary transfer’
+         in Article is based on the criterion of the length of time during which materials extracted from a protected database are
+         stored in a medium other than that database. The time at which there is an extraction, within the meaning of Article 7, from
+         a protected database, accessible electronically, is when the materials which are the subject of the act of transfer are stored
+         in a medium other than that database. The concept of extraction is independent of the objective pursued by the perpetrator
+         of the act at issue, of any modifications he may make to the contents of the materials thus transferred, and of any differences
+         in the structural organisation of the databases concerned.
+      
+The fact that the physical and technical characteristics present in the contents of a protected database made by a particular
+         person also appear in the contents of a database made by another person may be interpreted as evidence of extraction within
+         the meaning of Article of Directive 96/9, unless that coincidence can be explained by factors other than a transfer between
+         the two databases concerned. The fact that materials obtained by the maker of a database from sources not accessible to the
+         public also appear in a database made by another person is not sufficient, in itself, to prove the existence of such extraction
+         but can constitute circumstantial evidence thereof.
+      
+The nature of the computer programme used to manage two electronic databases is not a factor in assessing the existence of
+         extraction within the meaning of Article of Directive 96/9.
+      
+(see paras 42, 55, operative part 1)
+2.        Article of Directive 96/on the legal protection of databases must be interpreted as meaning that, where there is a body
+         of materials composed of separate modules, the volume of the materials allegedly extracted and/or re-utilised from one of
+         those modules must, in order to assess whether there has been extraction and/or re‑utilisation of a substantial part, evaluated
+         quantitatively, of the contents of a database within the meaning of that article, be compared with the total contents of that
+         module, if the latter constitutes, in itself, a database which fulfils the conditions for protection by the sui generis right
+         set out in Article 7(1) of that directive. Otherwise, and in so far as the body of materials constitutes a database protected
+         by that right, the comparison must be made between the volume of the materials allegedly extracted and/or re-utilised from
+         the various modules of that database and its total contents.
+      
+The fact that the materials allegedly extracted and/or re-utilised from a database protected by the sui generis right were
+         obtained by the maker of that database from sources not accessible to the public may, according to the amount of human, technical
+         and/or financial resources deployed by the maker to collect the materials at issue from those sources, affect the classification
+         of those materials as a substantial part, evaluated qualitatively, of the contents of the database concerned, within the meaning
+         of Article of Directive 96/9.
+      
+The fact that part of the materials contained in a database are official and accessible to the public does not relieve the
+         national court of an obligation, in assessing whether there has been extraction and/or re-utilisation of a substantial part
+         of the contents of that database, to verify whether the materials allegedly extracted and/or re-utilised from that database
+         constitute a substantial part, evaluated quantitatively, of its contents or, as the case may be, whether they constitute a
+         substantial part, evaluated qualitatively, of the database inasmuch as they represent, in terms of the obtaining, verification
+         and presentation thereof, a substantial human, technical or financial investment. 
+      
+(see para. 74, operative part 2)
+3.        It is apparent both from the general nature of the terms used in Article 1(2) of Directive 96/on the legal protection of
+         databases to define the concept of a database within the meaning of the Directive and from the objective of the protection
+         afforded by the sui generis right instituted by Article of the Directive that the Community legislature intended to give
+         that concept a wide scope, unencumbered by considerations relating, in particular, to the substantive content of the body
+         of materials in question.
+      
+Moreover, as is apparent from Article 7(4) of Directive 96/9, the sui generis right applies independently of whether the database
+         and/or its contents are protected, inter alia, by copyright.
+      
+It follows that the fact that the materials contained in a legal information system are, by reason of their official nature,
+         not eligible for copyright protection does not, as such, justify a collection consisting of those materials being refused
+         classification as a ‘database’ within the meaning of Article 1(2) of Directive 96/or that such a collection should be excluded
+         from the scope of the protection accorded by the sui generis right.
+      
+(see paras 69-71)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+March (*)
+      
+(Directive 96/9/EC – Legal protection of databases – Sui generis right – Obtaining, verification or presentation of the contents of a database – Extraction – Substantial part of the contents of a database – Database containing official legal data)
+In Case C‑545/07,
+REFERENCE for a preliminary ruling under Article EC from the Sofiyski gradski sad (Bulgaria), made by decision of November
+         2007, received at the Court on December 2007, in the proceedings
+      
+Apis-Hristovich EOOD
+v
+Lakorda AD,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts (Rapporteur), President of the Chamber, T. von Danwitz, R. Silva de Lapuerta, E. Juhász and J. Malenovský,
+         Judges,
+      
+Advocate General: E. Sharpston,
+Registrar: N. Nanchev, Administrator,
+having regard to the written procedure and further to the hearing on November 2008,
+after considering the observations submitted on behalf of:
+–        Apis-Hristovich EOOD, by E. Marcov and A. Andréev, lawyers,
+–        Lakorda AD, by D. Mateva and M. Mladenov, lawyers,
+–        the Bulgarian Government, by E. Petranova, D. Drambozova and A. Ananiev, acting as Agents,
+–        the Commission of the European Communities, by N. Nikolova and H. Krämer, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling relates to the interpretation of Article 7(1) and (2) of Directive 96/9/EC of the
+         European Parliament and of the Council of March on the legal protection of databases (OJ L 77, p. 20).
+      
+The reference has been made in the course of proceedings brought by Apis‑Hristovich EOOD (‘Apis’) against Lakorda AD (‘Lakorda’),
+         two companies incorporated under Bulgarian law, who market electronic databases for official legal data.
+      
+ Legal context
+According to Article 1(1) thereof, Directive 96/‘concerns the legal protection of databases in any form’.
+      
+For the purposes of the application of the directive, Article 1(2) thereof defines the concept of database as ‘a collection
+         of independent works, data or other materials arranged in a systematic or methodical way and individually accessible by electronic
+         or other means’.
+      
+According to Article 1(3) of the Directive, ‘[p]rotection under this Directive shall not apply to computer programs used in
+         the making or operation of databases accessible by electronic means’.
+      
+Article of Directive 96/provides as follows:
+      
+‘This Directive shall apply without prejudice to Community provisions relating to:
+(a)      the legal protection of computer programs;
+…’
+Article 3(1) of the Directive introduces protection for ‘databases which, by reason of the selection or arrangement of their
+         contents, constitute the author’s own intellectual creation’.
+      
+Article of the Directive, entitled ‘Object of protection’, introduced a sui generis right in the following terms:
+      
+‘1.      Member States shall provide for a right for the maker of a database which shows that there has been qualitatively and/or quantitatively
+         a substantial investment in either the obtaining, verification or presentation of the contents to prevent extraction and/or
+         re-utilisation of the whole or of a substantial part, evaluated qualitatively and/or quantitatively, of the contents of that
+         database.
+      
+2.      For the purposes of this Chapter:
+(a)      “extraction” shall mean the permanent or temporary transfer of all or a substantial part of the contents of a database to
+         another medium by any means or in any form;
+      
+(b)      “re-utilisation” shall mean any form of making available to the public all or a substantial part of the contents of a database
+         by the distribution of copies, by renting, by on-line or other forms of transmission. The first sale of a copy of a database
+         within the Community by the rightholder or with his consent shall exhaust the right to control resale of that copy within
+         the Community.
+      
+Public lending is not an act of extraction or re-utilisation.
+3.      The right referred to in paragraph may be transferred, assigned or granted under contractual licence.
+4.      The right provided for in paragraph shall apply irrespective of the eligibility of that database for protection by copyright
+         or by other rights. Moreover, it shall apply irrespective of eligibility of the contents of that database for protection by
+         copyright or by other rights. Protection of databases under the right provided for in paragraph shall be without prejudice
+         to rights existing in respect of their contents.
+      
+5.      The repeated and systematic extraction and/or re-utilisation of insubstantial parts of the contents of the database implying
+         acts which conflict with a normal exploitation of that database or which unreasonably prejudice the legitimate interests of
+         the maker of the database shall not be permitted.’
+      
+Under the law of the Republic of Bulgaria, the legal protection of databases is governed by the Law on copyright and related
+         rights (Zakon za avtorskoto pravo i srodnite mu prava, Darzhaven vestnik n° 56, of June 1993), as amended in Darzhaven vestnik n° 73, of September (‘ZAPSP’). The provisions of Article 1(2) and (3) of Directive 96/were transposed by Article
+         2(13) of the Additional Provisions of ZAPSP and those of Article 7(1) and (2) of the Directive by Articles 93b and 93c(1)
+         of ZAPSP.
+      
+ The facts of the main proceedings and the questions referred to the Court
+Apis brought proceedings before the Sofiyski gradski sad (Sofia City Court), first, for cessation of the allegedly unlawful
+         extraction and re-utilisation by Lakorda of substantial parts of its modules ‘Apis pravo’ (‘Apis law’) and ‘Apis praktika’
+         (‘Apis case-law’), which form part of a general legal information system, namely, at the time of the facts in the main proceedings,
+         ‘Apis 5x’, later ‘Apis 6’ and, second, for compensation for the damage suffered by the applicant in the main proceedings by
+         reason of Lakorda’s conduct.
+      
+Apis states that it is a database-maker within the meaning of ZAPSP and that it made a substantial investment in the compilation,
+         verification, systemisation and updating of the databases of the product modules ‘Apis pravo’ and ‘Apis praktika’. The principal
+         activities linked to that investment are digitalisation, conversion, correction, technological processing and consolidation
+         of the texts of legislative measures, and legal editing.
+      
+Apis claims that persons who previously worked in its software department before founding Lakorda unlawfully extracted substantial
+         parts of its modules, which permitted the latter to produce and market, in September 2006, its own modules, called ‘Balgarsko
+         pravo’ (‘Bulgarian law’) and ‘Sadebna praktika’ (‘Case-law of the courts’), which form part of the general legal information
+         system ‘Lakorda legis’.
+      
+Apis claims that Lakorda extracted without its consent from the database of the product module ‘Apis pravo’ the texts, in
+         their consolidated version, of more than documents, comprising normative measures that were then in force, measures
+         amending or repealing earlier measures, and non-normative measures. In addition, more than documents, which were earlier
+         versions of legislative measures from the period to 2006, were extracted from the ‘Apis pravo’ module and reutilised
+         in ‘Lakorda legis’. Thus, 82.5% of the total number of documents contained in that product module were extracted and re-used
+         by Lakorda, which represents a substantial part, evaluated quantitatively, of the content of that module.
+      
+Moreover, Apis claims that unpublished judicial decisions, obtained by Apis with the permission of the relevant courts
+         and which it had collected in the ‘Apis praktika’ module, were extracted therefrom by Lakorda and incorporated in the ‘Sadebna
+         praktika’ module, which, having regard to the particular value of that unpublished case-law, represents, according to Apis,
+         a substantial part, evaluated qualitatively, of the ‘Apis praktika’ module.
+      
+Apis claims that the acts of extraction and re-utilisation carried out by Lakorda concerned, not merely the texts of the documents
+         contained in the ‘Apis pravo’ and ‘Apis praktika’ modules, but also the data connected with those documents, such as references
+         between the documents and the legal definitions of certain terms and concepts. The fact that this unauthorised conduct took
+         place is shown by the presence in Lakorda’s modules of features identical to those in its own modules, such as editor’s notes,
+         references to translations of the documents into English, commands, fields, hyperlinks and the chronology of legislative measures.
+      
+Lakorda denies any unlawful extraction and re-utilisation of Apis’s modules. It contends that its ‘Lakorda legis’ system is
+         the fruit of a substantial, independent investment of around BGN 000. Establishment of the system involved a team of software
+         specialists, lawyers and managers and is based on original computer programmes for the establishment, updating and visualisation
+         of databases, allowing data to be processed and information to be accessed in a faster and more efficient way that other legal
+         information systems. In addition, its modules have a fundamentally different structure than those of Apis.
+      
+Lakorda contends that, in setting up its project, it relied on its contacts with various national and European authorities.
+         It also used publicly accessible sources, such as the Darzahven vestnik (Official Journal of the Republic of Bulgaria) and the official websites of national institutions and courts, which explains
+         the great similarity of the contents of its modules and those of Apis and the presence, although limited, of features similar
+         to Apis’s modules regarding, in particular, references to translations and commands. Moreover, by virtue of ZAPSP, official
+         measures adopted by State bodies are not covered by the copyright rules.
+      
+Lakorda adds that that the great majority of editorial notes and hyperlinks in the ‘Lakorda legis’ system are derived from
+         a personal concept based on an extremely detailed systematic processing, classification and marking of the measures collected.
+         That system thus contains individually accessible, structured data and more than hyperlinks, created in
+         accordance with a unique method of recognition and classification. Moreover, there are considerable differences between judicial
+         decisions collected in Lakorda’s and Apis’s respective information systems, in particular at the level of the materials mentioned
+         as essential for the reading of the decision concerned. The editorial techniques used in the Apis modules result from the
+         generally applicable punctuation rules of the Bulgarian language.
+      
+The Sofiyski gradski sad states that, in order to determine whether an infringement has been committed in the case before
+         it, it must interpret and apply Article 93c(1) of ZAPSP, which transposed Article 7(2) of Directive 96/9.
+      
+The national court emphasises that the central subject of the dispute in the main proceedings is alleged unlawful extraction
+         by Lakorda of the contents of Apis’s modules and that that content comprises measures adopted by State bodies which are constantly
+         amended, supplemented and repealed and it considers that in order to determine whether an infringement of ZAPSP has been committed,
+         it is therefore important to determine the time at which the alleged extraction occurred and whether it constitutes a permanent
+         transfer or a temporary transfer.
+      
+Since those two concepts are not defined in ZAPSP, the national court wonders whether, in interpreting the terms ‘permanent’
+         or ‘temporary’ in Article 7(2)(a) of Directive 96/9, it is necessary to apply a test based on the duration of the period of
+         transfer or on the time during which the extracted product is stored on another medium. It considers that if the second test
+         is applied, it would have to be determined whether the database from which the alleged extraction was made was stored on a
+         fixed medium (hardware), in which case there is a permanent transfer, or whether the database was stored temporarily in the
+         computer’s ‘working’ memory, in which case, the transfer would be temporary.
+      
+Bearing in mind Lakorda’s contention that the ‘Apis pravo’ and ‘Apis praktika’ modules do not represent a substantial part,
+         evaluated quantitatively, of its ‘Lakorda legis’ system, the national court considers that it must interpret the concept of
+         a substantial part, evaluated qualitatively, within the meaning of Article 7(1) and (2) of Directive 96/9. It wonders, in
+         that regard, whether, in order to determine whether there has been extraction of a substantial part, the quantity of data
+         extracted from the modules in question should be compared with the quantity contained in Lakorda’s modules taken separately
+         or, on the other hand, taken together.
+      
+Apis’s claim that its ‘Apis praktika’ module contains judicial decisions which were obtained from courts whose case-law is
+         not generally accessible to the public leads the national court to wonder whether the relevant test in assessing the existence
+         of a substantial part, evaluated qualitatively, of the contents of a database within the meaning of Article 7(1) and (2) of
+         Directive 96/is the accessibility of the data with a view to their capture or the value of the data in the light of the
+         information which they contain.
+      
+Finally, the national court wonders whether, for the purpose of determining whether extraction, within the meaning of Article
+         of Directive 96/9, has taken place, not only the databases as such should be compared, but also the computer programmes
+         which manage them.
+      
+Faced with those difficulties of interpretation, the Sofiyski gradski sad decided to stay proceedings and refer the following
+         questions to the Court for a preliminary ruling:
+      
+‘1.      How are the terms “permanent transfer” and “temporary transfer” to be interpreted and to be delimited in relation to each
+         other for the purpose of: 
+      
+–        determining whether extraction within the meaning of Article 7(2)(a) of Directive 96/… from a database accessible by electronic
+         means has taken place[?]
+      
+–        at what point in time is it to be assumed that extraction within the meaning of Article 7(2)(a) of Directive 96/… from a
+         database accessible by electronic means has taken place[?]
+      
+–        what is the significance, for the assessment of extraction, of the fact that the content of a database extracted in this way
+         has served to create a new and amended database?
+      
+2.      Which criterion is to be applied in interpreting the concept “extraction of a substantial part, evaluated quantitatively”
+         if the databases are divided into separate subgroups and are used in these subgroups, which are independent commercial products?
+         Is the size of the databases in the entire commercial product or the size of the databases in the relevant subgroup to be
+         used as the criterion?
+      
+3.      In interpreting the concept “a substantial part, evaluated qualitatively”, is the fact that a certain type of data allegedly
+         extracted was obtained by the database maker from a source which is not generally accessible, so that it was possible to procure
+         the data only by extracting them from the databases of that very database maker, to be used as a criterion?
+      
+4.      What criteria are to be applied when determining whether extraction from a database accessible by electronic means has taken
+         place? Can it be regarded as an indication that extraction has taken place if the maker’s database has a particular structure,
+         notes, references, commands, fields, hyperlinks and editorial text and these elements are also found in the database of the
+         person who has committed the alleged infringement? In the carrying out of this assessment, are the various original organisational
+         structures of the two opposing databases relevant?
+      
+5.      When determining whether extraction has taken place, is the computer program/the system for database management material if
+         it is not part of the database?
+      
+6.      Since, according to Directive 96/… and the case-law of the Court of Justice of the European Communities, “a substantial
+         part of the database from a quantitative and qualitative point of view” is linked to substantial investment in the obtaining,
+         verification or presentation of a database: how are these concepts to be interpreted in relation to legislative measures,
+         and measures having individual application, which have been adopted by executive State bodies and are publicly accessible,
+         to their official translations and to case-law?’
+      
+ The questions referred to the Court
+ Admissibility
+Lakorda considers that the reference for a preliminary ruling is not necessary to resolve the dispute in the main proceedings.
+      
+Lakorda contends that the dispute does not concern the interpretation of expressions such as ‘extraction’ or a ‘substantial
+         part’ of a database within the meaning of Directive 96/9. It contends that the concept of extraction is defined in Bulgarian
+         law and that the provisions of the Directive referred to in the reference have already been interpreted by the Court. It adds,
+         in regard to the alleged unlawful extraction complained of, that the national court is in a position to assess the materials
+         with which the parties have provided it in the light, in particular, of the reports from technical and accounting experts
+         which it called for and obtained in order to resolve the dispute in the main proceedings, without any intervention on the
+         part of the Court.
+      
+In this respect, it must be recalled that, according to the settled case-law of the Court, it is solely for the national court
+         before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine
+         in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver
+         judgment and the relevance of the questions which it submits to the Court (Case C‑415/Bosman [1995] ECR I‑4921, paragraph 59; Case C‑380/Centro Europa [2008] ECR I‑349, paragraph 52; and Case C‑213/Michaniki [2008] ECR I‑0000, paragraph 32).
+      
+Consequently, where the questions submitted concern the interpretation of Community law, the Court is in principle bound to
+         give a ruling (see, inter alia, Case C‑326/IKA [2003] ECR I‑1703, paragraph 27, and Michaniki [2008] ECR I‑0000, paragraph 33).
+      
+The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious
+         that the interpretation of Community law that is sought bears no relation to the actual facts of the main action or its purpose,
+         where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give
+         a useful answer to the questions submitted to it (see, inter alia, Case C‑379/PreussenElektra [2001] ECR I‑2099, paragraph 39, and Michaniki [2008] ECR I‑0000, paragraph 34).
+      
+However, it must be pointed out that the present case does not fall under any of the hypotheses set out in the preceding paragraph.
+         On the contrary, the description of the legal and factual framework of the main proceedings contained in the order for reference
+         shows – and that, indeed, was confirmed at the hearing – that the resolution of the dispute before the national court requires,
+         inter alia, that that court obtain a series of explanations concerning the expressions ‘extraction’ and ‘substantial part’,
+         evaluated qualitatively or quantitatively, of the contents of a database within the meaning of Article of Directive 96/9.
+      
+It must be added that, in the procedure referred to in Article EC, which is based on a clear separation of functions between
+         the national courts and the Court of Justice, any assessment of the facts in the case is a matter for the national court.
+         However, in order to give the national court a useful answer, the Court may, in a spirit of cooperation with national courts,
+         provide it with all the guidance that it deems necessary (Case C‑49/MOTOE [2008] ECR I‑0000, paragraph and the case-law cited therein).
+      
+Under those circumstances, the reference for a preliminary ruling must be regarded as admissible.
+      
+ Substance
+The first, fourth and fifth questions, which should be considered together, concern, principally, the concept of extraction,
+         in the sense of the physical transfer of data, in the context of Directive 96/9. The second, third and sixth questions, which
+         should also be considered together, concern, essentially, the concept of a substantial part, evaluated qualitatively or quantitatively,
+         of the contents of a database in the same context.
+      
+ The first, fourth and fifth questions, concerning the expression ‘extraction’ within the meaning of Article of Directive
+         96/In its first question, the national court is seeking an interpretation of the concepts of ‘permanent transfer’ and ‘temporary
+         transfer’ used in Article 7(2)(a) of Directive 96/to define the concept of extraction. It also wonders when extraction is
+         deemed to take place in regard to a database accessible by electronic means and whether the fact that the content extracted
+         from a database is used to set up another, modified, database influences the assessment regarding the existence of such an
+         extraction.
+      
+The fourth question concerns, essentially, the relevance, in the context of the assessment of the existence of extraction
+         from a database accessible by electronic means, first, of the fact that the physical and technical characteristics of that
+         database are to be found in the database of the alleged perpetrator of an infringement of the sui generis right and, second,
+         of the difference between the structural organisation of the two databases concerned.
+      
+In its fifth question, the national court asks whether the software programme used to manage a database, but which is not
+         part of the database itself, affects the assessment of whether or not there has been extraction.
+      
+In that respect, it must be recalled that the concept of extraction is defined in Article 7(2)(a) of Directive 96/as ‘the
+         permanent or temporary transfer of all or a substantial part of the contents of a database to another medium by any means
+         or in any form’.
+      
+Since the concept of extraction is used in various provisions of Article of Directive 96/9, the answers to the questions
+         being considered must be placed in the general context of that article (see, to that effect, Case C‑304/Directmedia Publishing [2008] ECR I‑0000, paragraph 28).
+      
+The Court has already held that, having regard to the terms employed in Article 7(2)(a) of Directive 96/to define the concept
+         of extraction and to the objective of the sui generis right instituted by the Community legislature (see, in that regard,
+         Case C‑203/The British Horseracing Board and Others [2004] ECR I‑10415, paragraphs 45, and 51, and Directmedia Publishing, paragraphs to 33), that concept must, in the context of Article 7, be given a broad interpretation as referring to any
+         unauthorised act of appropriation of the whole or a part of the contents of a database, the nature and form of the process
+         used being immaterial (see, to that effect, The British Horseracing Board and Others, paragraphs and 67, and Directmedia Publishing, paragraphs 34, 35, and 38).
+      
+The decisive criterion in this respect is to be found in the existence of an act of ‘transfer’ of all or part of the contents
+         of the database concerned to another medium, whether of the same nature as the medium of that database or of a different nature.
+         Such a transfer implies that all or part of the contents of a database are to be found in a medium other than that of the
+         original database (see Directmedia Publishing, paragraph 36).
+      
+In that context, it should be borne in mind, in connection with the national court’s first question, that, as is clear from
+         the very terms of Article 7(2)(a) of Directive 96/9, the Community legislature intended to include in the concept of ‘extraction’
+         within the meaning of Article not merely acts of ‘permanent transfer’ but also those of ‘temporary transfer’.
+      
+As the Commission of the European Communities stated at the hearing, the Community legislature’s objective was to exclude
+         explicitly a form of de minimis rule in the interpretation and application of the concept of ‘transfer’ within the meaning
+         of Article of Directive 96/9. Moreover, as the Commission also confirmed at the hearing, while the directive itself attaches
+         no specific legal consequence to the permanent or the temporary nature of the transfer concerned, the question of the existence
+         of a permanent transfer or of a temporary transfer might, depending on the national law at issue, be relevant to assessing
+         the gravity of any infringement of the sui generis right of the maker of a protected database or the scope of the reparable
+         damage connected with such an infringement.
+      
+Like the Commission, the Court considers that the distinction between permanent transfer and temporary transfer lies in the
+         duration of storage on another medium of materials extracted from the original database. There is permanent transfer when
+         those materials are stored in a permanent manner on a medium other than the original medium, whereas the transfer is temporary
+         if the materials are stored for a limited period on another medium, such as the operating memory of a computer.
+      
+The time at which extraction from an electronic database takes place is the time at which the materials being extracted are
+         placed on a medium other than that of the original database, independently of whether they are placed there permanently or
+         temporarily.
+      
+Moreover, the objective pursued by the act of transfer is immaterial for the purpose of assessing whether there has been an
+         extraction. Thus, it is of little importance that the act of transfer in question is for the purpose of creating another database,
+         whether in competition with the original database or not, or that the act is part of an activity, whether commercial or not,
+         other than the creation of a database (see, to that effect, Directmedia Publishing, cited above, paragraphs and 47, and the case-law cited therein).
+      
+As is confirmed by the 38th recital in Directive 96/9, it is also immaterial, for the purposes of interpreting the concept
+         of extraction, that the transfer of the contents of a protected database to another medium result in an arrangement or an
+         organisation of the material concerned which is different from that in the original database (see, to that effect, Directmedia Publishing, paragraph 39).
+      
+Consequently, bearing in mind the technical possibilities of reorganisation which are possible with electronic databases,
+         the fact that all or part of the contents of a database protected by the sui generis right is found in a modified form in
+         another database does not, as such, preclude a finding that there has been extraction. The same is true in regard to the organisational
+         structures of the two databases concerned, referred to by the national court in its fourth question.
+      
+It must also be stated in that regard that, if it is established – and that is for the national court to determine – that
+         the contents or a substantial part of the contents of a database protected by the sui generis right was transferred, without
+         the permission of its maker, to a medium owned by another person so as to be made available to the public subsequently by
+         that person, for example in the form of another, possibly modified, database, that fact would show, in addition to the existence
+         of extraction, the existence of re-utilisation within the meaning of Article of Directive 96/9, re-utilisation being the
+         making available to the public of all or a substantial part of the contents of a protected database (see, to that effect,
+         The British Horseracing Board and Others, cited above, paragraph and 67).
+      
+As the Commission has pointed out, it is also important to emphasise that the fact – the existence of which must also be ascertained
+         by the national court – that an unlawful extraction from a protected database took place for the purpose of setting up and
+         marketing a new database, in competition with the original database could, in certain circumstances be relevant in assessing
+         the extent of the damage caused by that act to the maker of the original database.
+      
+The fact, also referred to by the national court in its fourth question, that the physical and technical characteristics present
+         in the contents of a database also appear in the contents of another database may also be interpreted as an indication of
+         the existence of a transfer between the two databases and therefore, of an extraction. However, as Lakorda pointed out, it
+         is for the national court to assess whether that coincidence can be explained by other factors, such as the use of identical
+         sources when the two databases were being set up and the presence of those characteristics in the common sources.
+      
+It should also be stated, as the Bulgarian Government does, that the fact that materials obtained by the maker of a database
+         from sources not available to the public also appear in a database made by another person is not, as such, sufficient to prove
+         that there has been a transfer from the first database to the second, having regard to the possibility that those materials
+         might also have been collected directly by the maker of the second base from the sources used by the first maker. That fact
+         may, none the less, constitute circumstantial evidence of extraction.
+      
+Finally, as the Bulgarian Government and the Commission contend, the fact – referred to by Lakorda in the main proceedings
+         and being the ground for the national court’s fifth question – that the perpetrator of an alleged infringement of the sui
+         generis right of the maker of another database has used an original software programme to manage his database could certainly
+         be relevant in the context of Council Directive 91/250/EEC of May on the legal protection of computer programs (OJ
+         L 122, p. 42) (see, in that regard, the 23rd recital and Article 2(a) of Directive 96/9).
+      
+On the other hand, such a situation does not, as such, exclude the possibility that the presence of all or part of the materials
+         appearing in the database of the alleged perpetrator of such an infringement is due to an unauthorised transfer of that material
+         from the protected database.
+      
+In the light of the foregoing considerations, the answer to the first, fourth and fifth questions is that:
+      
+–        The delimitation of the concepts of ‘permanent transfer’ and ‘temporary transfer’ in Article of Directive 96/is based
+         on the criterion of the length of time during which materials extracted from a protected database are stored in a medium other
+         than that database. The time at which there is an extraction, within the meaning of Article 7, from a protected database,
+         accessible electronically, is when the materials which are the subject of the act of transfer are stored in a medium other
+         than that database. The concept of extraction is independent of the objective pursued by the perpetrator of the act at issue,
+         of any modifications he may make to the contents of the materials thus transferred, and of any differences in the structural
+         organisation of the databases concerned.
+      
+–        The fact that the physical and technical characteristics present in the contents of a protected database made by a particular
+         person also appear in the contents of a database made by another person may be interpreted as evidence of extraction within
+         the meaning of Article of Directive 96/9, unless that coincidence can be explained by factors other than a transfer between
+         the two databases concerned. The fact that materials obtained by the maker of a database from sources not accessible to the
+         public also appear in a database made by another person is not sufficient, in itself, to prove the existence of such extraction
+         but can constitute circumstantial evidence thereof.
+      
+–        The nature of the computer program used to manage two electronic databases is not a factor in assessing the existence of extraction
+         within the meaning of Article of Directive 96/9.
+      
+ The second, third and sixth questions concerning the concept of a ‘substantial part of the contents of a database’ within
+         the meaning of Article of Directive 96/In its second question, the national court asks, essentially, in what way the concept of extraction of a ‘substantial part’,
+         evaluated quantitatively, of the contents of a database, within the meaning Article of Directive 96/9, is to be interpreted
+         where the databases concerned are separate modules, constituting independent commercial products, within a body of materials.
+      
+The third question seeks essentially to know whether the fact that some of the materials allegedly extracted from a database
+         were obtained by the database maker from a source not freely accessible to the public has an influence on the interpretation
+         of the concept of a ‘substantial part’, evaluated qualitatively, of the contents of a database, within the meaning of Article
+         of Directive 96/9.
+      
+In its sixth question, the national court asks, essentially, in what way the concept of ‘a substantial part of the contents
+         of a database’ is to be interpreted in the context of Article of Directive 96/9, bearing in mind the guidance already contained
+         in the Court’s case-law, where that database contains official measures accessible to the public, such as legislative measures
+         or individual acts of the executive branch of the State, their official translations, and case-law.
+      
+With regard to the national court’s second question, it must be recalled that, according to the Court’s case-law, the concept
+         of a substantial part, evaluated quantitatively, of the contents of a protected database refers to the volume of materials
+         extracted from the database and/or re-utilised, and must be assessed in relation to the volume of the contents of the whole
+         of that database. If a user extracts and/or re-utilises a quantitatively significant part of the contents of a database whose
+         creation required the deployment of substantial resources, the investment in the extracted or re-utilised part is, proportionately,
+         equally substantial (The British Horseracing Board and Others, cited above, paragraph 70).
+      
+On the other hand, as the Commission pointed out, the size of the contents of the database into which material from a protected
+         database has been transferred is of no relevance in assessing the substantial nature of the part of the contents of the latter
+         database affected by the alleged extraction and/or re-utilisation.
+      
+Moreover, as Apis, the Bulgarian Government and the Commission all pointed out, the assessment, from the quantitative point
+         of view, of the substantial nature of an extraction and/or re-utilisation can, in any event, be carried out only in the light
+         of a body of materials capable of protection by the sui generis right by reason, first, of the fact that it is a database
+         within the meaning of Article 1(2) of Directive 96/and, secondly, of the substantial investment involved in setting up that
+         database, within the meaning of Article 7(1) of the Directive.
+      
+It follows that in a situation such as that referred to by the national court in its second question, where a body of materials
+         consists of several separate modules, it is necessary, in order to assess whether an extraction and/or re-utilisation allegedly
+         made from one of the modules covered a substantial part, evaluated quantitatively, of the contents of a database, to determine
+         first whether that module itself constitutes a database within the meaning of Directive 96/(see, in that regard, Case C-444/Fixtures Marketing [2004] ECR I-10549, paragraphs to 32) and, in addition, fulfils the criteria laid down in Article 7(1) of the Directive
+         for protection by the sui generis right.
+      
+In the affirmative, the volume of materials allegedly extracted and/or re‑utilised from the module concerned must be compared
+         with the total contents solely of that module.
+      
+In the negative, and in so far as the body of materials of which the module is a part itself constitutes a database eligible
+         for protection by the sui generis right by reason of the combined application of Articles 1(2) and 7(1) of Directive 96/9,
+         the comparison must be made between the volume of materials allegedly extracted and/or re-utilised from that module and any
+         other modules, and the total content of that body of materials.
+      
+It must also be stated in that regard that the fact that the various modules of one body of materials are marketed separately
+         as independent products is not, in itself, sufficient to make them databases eligible, as such, for protection by the sui
+         generis right. Such a classification is based, not on commercial considerations, but on fulfilment of all the legal conditions
+         laid down in Articles 1(2) and 7(1) of the Directive.
+      
+With regard to the national court’s third question, it must be pointed out that, according to the Court’s case-law, the concept
+         of a substantial part, evaluated qualitatively, of the contents of a protected database refers to the scale of the investment
+         in the obtaining, verification or presentation of the contents of the subject of the act of extraction and/or re-utilisation,
+         regardless of whether that subject represents a quantitatively substantial part of the general contents of the protected database.
+         A quantitatively negligible part of the contents of a database may in fact represent, in terms of obtaining, verification
+         or presentation, significant human, technical or financial investment (The British Horseracing Board and Others, cited above, paragraph 71).
+      
+In the light of the 46th recital in Directive 96/9, according to which the existence of the sui generis right does not give
+         rise to the creation of a new right in the works, data or materials themselves, it has been held moreover that the intrinsic
+         value of the materials affected by the act of extraction and/or re-utilisation does not constitute a relevant criterion for
+         assessment in that regard (The British Horseracing Board and Others, paragraphs and 78).
+      
+Bearing in mind what was stated in paragraph of the present judgment, the fact that the materials allegedly extracted and/or
+         re-utilised from a database protected by the sui generis right were obtained by its maker from sources not accessible to the
+         public may, according to the amount of human, technical and/or financial resources deployed in collecting the materials at
+         issue from those sources, affect the assessment of whether there has been a substantial investment in the ‘obtaining’ of the
+         material within the meaning of Article 7(1) of Directive 96/(see, to that effect, Case 46/Fixtures Marketing [2004] ECR I‑10365, paragraphs and 38) and, consequently, influence the classification of the material as a substantial
+         part, evaluated qualitatively, of the contents of the database concerned.
+      
+Finally, with regard to the presence in the database concerned of official materials accessible to the public, referred to
+         in the national court’s sixth question, it must be pointed out that it is apparent both from the general nature of the terms
+         used in Article 1(2) of Directive 96/to define the concept of a database within the meaning of the Directive and from the
+         objective of the protection afforded by the sui generis right that the Community legislature intended to give that concept
+         a wide scope, unencumbered by considerations relating, in particular, to the substantive content of the body of materials
+         in question (see, to that effect, Case 444/Fixtures Marketing, cited above, paragraphs to 21).
+      
+Moreover, as is apparent from Article 7(4) of Directive 96/9, the sui generis right applies independently of whether the database
+         and/or its contents are protected, inter alia, by copyright.
+      
+Thus, as the Bulgarian Government pointed out, it follows that the fact, alleged by Lakorda, that the materials contained
+         in Apis’s legal information system are, by reason of their official nature, not eligible for copyright protection does not,
+         as such, justify a collection consisting of those materials being refused classification as a ‘database’ within the meaning
+         of Article 1(2) of Directive 96/or that such a collection should be excluded from the scope of the protection accorded by
+         the sui generis right instituted by Article of the Directive.
+      
+Consequently, as Apis, the Bulgarian Government and the Commission argue, the fact that all or part of the materials brought
+         together in a collection of data are official and publicly accessible does not relieve the national court of an obligation
+         to verify, in the light of all relevant facts, whether that collection constitutes a database capable of being protected by
+         the sui generis right on the ground that a substantial investment, in quantitative or qualitative terms, was necessary to
+         obtain, verify and/or present its overall contents (see, to that effect, Case 46/Fixtures Marketing, cited above, paragraphs to 38). 
+      
+The fact that the contents of a protected database consist essentially of official materials, accessible to the public, also
+         does not relieve the national court of an obligation to verify, in order to assess whether there has been extraction and/or
+         re‑utilisation of a substantial part of those contents, whether the materials extracted or re-utilised from that database
+         constitute a substantial part, quantitatively evaluated, of the total contents of the database or, as the case may be, a substantial
+         part thereof, qualitatively evaluated, by reason of the fact that the obtaining, verification and presentation of those materials
+         represent a substantial human, technical or financial investment.
+      
+In the light of the foregoing considerations, the answer to the second, third and sixth questions is that:
+      
+–        Article of Directive 96/must be interpreted as meaning that, where there is a body of materials composed of separate modules,
+         the volume of the materials allegedly extracted and/or re-utilised from one of those modules must, in order to assess whether
+         there has been extraction and/or re‑utilisation of a substantial part, evaluated quantitatively, of the contents of a database
+         within the meaning of that article, be compared with the total contents of that module, if the latter constitutes, in itself,
+         a database which fulfils the conditions for protection by the sui generis right. Otherwise, and in so far as the body of materials
+         constitutes a database protected by that right, the comparison must be made between the volume of the materials allegedly
+         extracted and/or re-utilised from the various modules of that database and its total contents.
+      
+–        The fact that the materials allegedly extracted and/or re-utilised from a database protected by the sui generis right were
+         obtained by the maker of that database from sources not accessible to the public may, according to the amount of human, technical
+         and/or financial resources deployed by the maker to collect the materials at issue from those sources, affect the classification
+         of those materials as a substantial part, evaluated qualitatively, of the contents of the database concerned, within the meaning
+         of Article of Directive 96/9.
+      
+–        The fact that part of the materials contained in a database are official and accessible to the public does not relieve the
+         national court of an obligation to, in assessing whether there has been extraction and/or re-utilisation of a substantial
+         part of the contents of that database, to verify whether the materials allegedly extracted and/or re-utilised from that database
+         constitute a substantial part, evaluated quantitatively, of its contents or, as the case may be, whether they constitute a
+         substantial part, evaluated qualitatively, of the database inasmuch as they represent, in terms of the obtaining, verification
+         and presentation thereof, a substantial human, technical or financial investment.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+1.      The delimitation of the concepts of ‘permanent transfer’ and ‘temporary transfer’ in Article of Directive 96/9/EC of the
+            European Parliament and of the Council of March on the legal protection of databases is based on the criterion of
+            the length of time during which materials extracted from a protected database are stored in a medium other than that database.
+            The time at which there is an extraction, within the meaning of Article 7, from a protected database, accessible electronically,
+            is when the materials which are the subject of the act of transfer are stored in a medium other than that database. The concept
+            of extraction is independent of the objective pursued by the perpetrator of the act at issue, of any modifications he may
+            make to the contents of the materials thus transferred, and of any differences in the structural organisation of the databases
+            concerned.
+The fact that the physical and technical characteristics present in the contents of a protected database made by a particular
+            person also appear in the contents of a database made by another person may be interpreted as evidence of extraction within
+            the meaning of Article of Directive 96/9, unless that coincidence can be explained by factors other than a transfer between
+            the two databases concerned. The fact that materials obtained by the maker of a database from sources not accessible to the
+            public also appear in a database made by another person is not sufficient, in itself, to prove the existence of such extraction
+            but can constitute circumstantial evidence thereof.
+The nature of the computer program used to manage two electronic databases is not a factor in assessing the existence of extraction
+            within the meaning of Article of Directive 96/9.
+2.      Article of Directive 96/must be interpreted as meaning that, where there is a body of materials composed of separate modules,
+            the volume of the materials allegedly extracted and/or re-utilised from one of those modules must, in order to assess whether
+            there has been extraction and/or re-utilisation of a substantial part, evaluated quantitatively, of the contents of a database
+            within the meaning of that article, be compared with the total contents of that module, if the latter constitutes, in itself,
+            a database which fulfils the conditions for protection by the sui generis right. Otherwise, and in so far as the body of materials
+            constitutes a database protected by that right, the comparison must be made between the volume of the materials allegedly
+            extracted and/or re-utilised from the various modules of that database and its total contents.
+The fact that the materials allegedly extracted and/or re‑utilised from a database protected by the sui generis right were
+            obtained by the maker of that database from sources not accessible to the public may, according to the amount of human, technical
+            and/or financial resources deployed by the maker to collect the materials at issue from those sources, affect the classification
+            of those materials as a substantial part, evaluated qualitatively, of the contents of the database concerned, within the meaning
+            of Article of Directive 96/9.
+The fact that part of the materials contained in a database are official and accessible to the public does not relieve the
+            national court of an obligation, in assessing whether there has been extraction and/or re‑utilisation of a substantial part
+            of the contents of that database, to verify whether the materials allegedly extracted and/or re-utilised from that database
+            constitute a substantial part, evaluated quantitatively, of its contents or, as the case may be, whether they constitute a
+            substantial part, evaluated qualitatively, of the database inasmuch as they represent, in terms of the obtaining, verification
+            and presentation thereof, a substantial human, technical or financial investment.
+[Signatures]
+* Language of the case: Bulgarian.
+      
+Top  
+ 

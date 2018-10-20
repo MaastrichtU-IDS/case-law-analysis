@@ -1,0 +1,394 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+May (*)
+      
+(Preliminary ruling — Common system of value added tax — Sixth Directive 77/388/EEC — Exemption — Article 13B(d)(3) — Transactions in respect of payments and transfers — Concept — Purchase of tickets for shows or other events — Payment by debit or credit card — ‘Card processing’ services’)
+In Case C‑130/15,
+REQUEST for a preliminary ruling under Article TFEU from the Upper Tribunal (Tax and Chancery Chamber), United Kingdom,
+         made by decision of March 2015, received at the Court on March 2015, in the proceedings
+      
+Commissioners for Her Majesty’s Revenue and Customs
+v
+National Exhibition Centre Limited,
+THE COURT (Second Chamber),
+composed of M. Ilešič, President of the Chamber, C. Toader, A. Rosas, A. Prechal and E. Jarašiūnas (Rapporteur), Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on December 2015,
+after considering the observations submitted on behalf of:
+–        National Exhibition Centre Limited, by O. Jarratt, advocate, B. Horn and A. Bache, Solicitors, and by J. Peacock QC,
+–        the United Kingdom Government, by M. Holt, acting as Agent, and by K. Beal QC,
+–        the Greek Government, by K. Nasopoulou and S. Lekkou, acting as Agents,
+–        the Portuguese Government, by L. Inez Fernandes, A. Cunha and R. Campos Laires, acting as Agents,
+–        the Finnish Government, by H. Leppo, acting as Agent,
+–        the European Commission, by R. Lyal and L. Lozano Palacios, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 13B(d)(3) of Sixth Council Directive 77/388/EEC
+         of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added
+         tax: uniform basis of assessment (OJ L 145, p. 1, ‘the Sixth Directive’). 
+      
+The reference has been made in proceedings between the Commissioners for Her Majesty’s Revenue and Customs (‘the tax authority’)
+         and the National Exhibition Centre Limited (‘the NEC’) regarding a refusal to reimburse value added tax (VAT) which the NEC
+         considers that it unduly paid on the supply of certain services.
+      
+ Legal context
+ EU law
+Article 2(1) of the Sixth Directive makes subject to VAT ‘the supply of goods or services effected for consideration within
+         the territory of the country by a taxable person acting as such’.
+      
+Article 13B(d), point of that directive provides:
+      
+‘Without prejudice to other Community provisions, Member States shall exempt ...
+...
+(d) the following transactions:
+...
+3.      transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other
+         negotiable instruments, but excluding debt collection and factoring ...’
+      
+ UK law
+Section 31(1) of the Value Added Tax Act (‘the Act’) provides that ‘A supply of goods or services is an exempt supply
+         if it is of a description for the time being specified in Schedule 9’. 
+      
+Schedule refers to several groups of goods and services that qualify for exemption from VAT. Group in that schedule covers
+         finance. It provides exemption for the following services: 
+      
+‘...
+1.      The issue, transfer or receipt of, or any dealing with, money, any security for money or any note or order for the payment
+         of money.
+      
+...
+5.      The provision of intermediary services in relation to any transaction comprised in item 1, 2, 3, or (whether or not any
+         such transaction is finally concluded) by a person acting in an intermediary capacity.
+      
+...’
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+The NEC owns and operates the National Exhibition Centre and other venues in Birmingham (United Kingdom) which are used to
+         stage trade and public exhibitions, sporting events, concerts and other events. It hires its venues to third party promoters
+         and sells tickets for those events. It does not at any time take ownership of the tickets as the agent for those promoters.
+         The tickets can be bought from the NEC’s call centre, via its website, by post or over the counter. 
+      
+During the relevant period, from August to April 2002, when customers bought tickets for events taking place in
+         NEC venues and paid by debit card in the case of remote payment, or by credit card in all cases, NEC invoiced them, in addition
+         to the price of the tickets, for a ‘booking fee’ which increased the price by about 10%, or even more for certain events.
+         NEC refunded the event promoter the part of the amount paid by the customer corresponding to the ticket price and kept the
+         amount corresponding to the booking fee. 
+      
+The Upper Tribunal (Tax and Chancery Chamber) notes that, in practice, the purchase of a ticket paid for by debit or credit
+         card, for example by telephone, takes place as follows. After confirming the availability of the ticket sought by the customer,
+         NEC informs the customer of the ticket price and the booking fee and other applicable fees, takes that customer’s details
+         and the information concerning his payment card, such as the card number, the authorisation code on the back of the card and
+         its expiry date, and transfers those details from its computer programme for checking the availability of places to its computer
+         programme ‘allowing the secure movement of data for electronic funds transfers’. By means of that programme, NEC passes that
+         information to its merchant acquirer bank which in turn forwards the information to the cardholder’s bank, the ‘card issuer’.
+         If the card issuer accepts the transaction, it sends back an authorisation code to NEC via the merchant acquirer bank. Once
+         that code is received, NEC informs the customer that the operation has been authorised and allocates the ticket to him. 
+      
+By means of the same computer programme allowing the secure movement of data for electronic funds transfers, each day NEC
+         creates a file of all the card transactions that have taken place, including, inter alia, the amount of the payment, the card
+         number and the authorisation codes and, at the end of the day, it sends that file to the relevant card issuers via the merchant
+         acquirer bank. Once those files are received by the card issuers, payment — corresponding to the price of the ticket plus
+         the booking fee and other fees after deduction of the commission charged to NEC by its merchant acquirer bank — is made to
+         NEC’s account, once more via the merchant acquirer bank. NEC then holds the amounts paid for the tickets in its capacity as
+         agent for the relevant promoter and holds the booking fees and other fees for itself, and the relevant tickets are issued
+         and sent to the customer.
+      
+On November 2002, the NEC claimed a VAT repayment on the basis that it considered that it had overpaid in respect of the
+         booking fees charged to customers during the period from August to April 2002. By a decision of February 2003,
+         the tax authority refused that claim on the basis that those fees charged by NEC were consideration for supplies that were
+         subject to VAT at the standard rate. 
+      
+On February 2003, the NEC lodged an appeal against that decision before the First-tier Tribunal (Tax Chamber). By a decision
+         of May 2013, that tribunal held, first, that the booking fees charged by the NEC corresponded to a debit or credit card
+         processing service (‘the card processing service’) and, secondly, that those booking fees were exempt from VAT on the basis
+         that they were consideration for an exempt financial service under Article 13B(d)(3) of the Sixth Directive.
+      
+The tax authority appealed to the Upper Tribunal (Tax and Chancery Chamber) against that decision, contending that the NEC
+         did not supply a card processing service to its customers and that, in any event, the supply made by the NEC did not fall
+         within the exemption provided for in Article 13B(d)(3) of the Sixth Directive. That supply did not consist, or at least not
+         principally, in the performance of a service that possesses the essential characteristics that were identified by the Court
+         of Justice in its judgment of June in SDC (C‑2/95, EU:C:1997:278). Alternatively, in any event, it came within the concept of ‘debt recovery’, an activity expressly
+         excluded from the benefit of that exemption. 
+      
+The NEC maintains, on the other hand, that when it takes debit or credit card details from a customer, seeks authorisation
+         for the payment from the card issuer, confirms payment by the customer for the benefit of the promoter once authorisation
+         is received, and then creates a file containing daily transaction details which is sent via the merchant acquirer to the card-issuing
+         bank on the basis of which payment is automatically made, it is debiting one account and crediting another, and accordingly
+         performing an exempt transaction within the meaning of Article 13B(d)(3) of the Sixth Directive. In any event, the concept
+         of ‘debt collection’ does not apply to that supply, that concept not extending to services provided to debtors. 
+      
+On January 2015, the referring court dismissed the appeal brought by the tax authority in so far as it related to the issue
+         of the nature of the supply made by NEC. In relation to the exemption issue, that court states that, in the light of the arguments
+         which were presented before it and the case-law of the Court of Justice, it questions whether it is possible to apply the
+         exemption under Article 13B(d)(3) of the Sixth Directive for ‘transactions ... concerning ... payments, transfers’ to a card
+         processing service of the kind at issue before it. 
+      
+In those circumstances, the Upper Tribunal (Tax and Chancery Chamber) decided to stay proceedings and to refer the following
+         questions to the Court for a preliminary ruling:
+      
+‘(1)      With regard to the exemption from VAT in Article 13B(d)(3) of the [Sixth Directive] as interpreted by the Court of Justice
+         in the judgment of June in SDC (C‑2/95, EU:C:1997:278), what are the relevant principles to be applied for determining whether or not a service has “the
+         effect of transferring funds and entail[s] changes in the legal and financial situation” within the meaning of paragraph of that judgment? In particular:
+      
+(a)      Is the exemption applicable to a service, such as that performed by the taxpayer in the present case, which does not involve
+         the taxpayer debiting or crediting any accounts over which it has control, but which is, where a transfer of funds results,
+         the cause of a transfer of funds made by an independent financial institution?
+      
+(b)      In a case where payment is made by credit or debit card, does the answer to Question [a] depend on whether the service provider
+         itself obtains authorisation codes directly from the cardholder’s bank, or alternatively obtains those codes via its merchant
+         acquirer bank? 
+      
+(c)      What factors distinguish (i) a service which consists in the provision of financial information without which a payment would
+         not be made but which do not fall within the exemption [such as in the judgment of July in Nordea Pankki Suomi (C‑350/10, EU:C:2011:532), from (ii) a data handling service which functionally has the effect of transferring funds and which
+         the Court of Justice has identified as therefore being capable of falling within the exemption [such as in the judgment of
+         June in SDC (C‑2/95, EU:C:1997:278) at paragraph 66]?
+      
+(2)      What are the relevant principles to be applied for determining whether or not a service such as that performed by the taxpayer
+         in the present case falls within the scope of the “debt collection” exclusion from the exemption in Article 13B(d)(3) of the
+         Sixth Directive? In particular, if a service of processing payment by a particular method (e.g. debit or credit card) would,
+         pursuant to the principles in the judgment of October in Axa UK (C‑175/09, EU:C:2010:646), constitute “debt collection” in circumstances where the supply of that service was to the person
+         to whom that payment was due (i.e. the person receiving the payment), will that service also constitute “debt collection”
+         in circumstances where the supply of that service is to the person from whom the payment is due (i.e. the person making the
+         payment)? Further, in the circumstances of this case, does a “debt” even exist to be “collected”?’ 
+      
+ Consideration of the questions referred
+ Preliminary observations
+The referring court bases its request for a preliminary ruling on the premiss that the card processing service, performed
+         by the NEC when a person buys, via the NEC, a ticket for a show or other event organised in one of its venues which he pays
+         for by means of a debit or credit card, constitutes a separate service which is independent from the sale, marketing or reservation
+         of that ticket.
+      
+The Court, however, has already held that the additional charges invoiced by a service provider to its customers, where the
+         latter pay for those services by credit card, debit card, cheque or cash over the counter at a bank or authorised payment
+         agent acting on behalf of that service provider, do not constitute consideration for a supply of services distinct and independent
+         from the principal supply of services in respect of which that payment was made (see, to that effect, judgment of December
+         in Everything Everywhere, C‑276/09, EU:C:2010:730, paragraph 32).
+      
+In that regard, the Court held, first, that the making available to customers, by the principal service provider, of an infrastructure
+         enabling them to pay the price of that service, inter alia, by bank card does not constitute for those customers an end in
+         itself and that the supposed supply of services, which those customers are unable to access separately from the purchase of
+         the main service, can have no interest for such consumers that is independent of that service (see, to that effect, judgment
+         of December in Everything Everywhere, C‑276/09, EU:C:2010:730, paragraph 27). 
+      
+The Court then added that the receipt of a payment and the handling of that payment are intrinsically linked to any supply
+         of services provided for consideration and that it is inherent in such a supply that the provider should seek payment and
+         make appropriate efforts to ensure that the customer can make effective payment in consideration for the service supplied,
+         the Court holding that, in principle, any method of payment for a supply of services involves the provider taking certain
+         steps in the handling of the payment, even if the extent of those steps may vary from one method of payment to another (see,
+         to that effect, judgment of December in Everything Everywhere, C‑276/09, EU:C:2010:730, paragraph 28).
+      
+Lastly, the Court stated that the fact that a separate price for the supposed financial service is identified in the contract
+         document and itemised separately in the invoices issued to customers is not decisive in that regard, the Court holding that
+         the fact that a single price is invoiced, or that separate prices were contractually stipulated, has no decisive significance
+         for the purposes of determining whether it is necessary to find that there are two or more distinct and independent transactions
+         or only a single economic transaction (see, to that effect, judgment of December 2010, Everything Everywhere, C‑276/09, EU:C:2010:730, paragraph and the case-law cited).
+      
+In accordance with the Court’s settled case-law, it is for the national court to assess if, having regard to the economic
+         and commercial reality of the transactions at issue, the contractual structure of the transaction notwithstanding, the material
+         put before the court discloses the characteristics of a single transaction (see, to that effect, judgments of February
+         in Part Service, C‑425/06, EU:C:2008:108, paragraph 54, and of June in Newey, C‑653/11, EU:C:2013:409, paragraphs to 45) and having regard to all the circumstances in which the transaction takes
+         place (see, to that effect, judgment of December in Everything Everywhere, C‑276/09, EU:C:2010:730, paragraph and the case-law cited). 
+      
+In the light of those factors, it is for the referring court to ascertain whether, in the main proceedings, the NEC’s card
+         processing service must be considered for VAT purposes to be a service which is ancillary to the sale of the tickets concerned
+         or as a service ancillary to another principal service which is provided by the NEC to the purchasers of those tickets, which
+         could be the reservation or the delivery of tickets for shows or other events and, therefore, forming with that principal
+         service a single service with the result that that service must share the tax treatment of that principal service (see, to
+         that effect, judgments of February in CPP, C‑349/96, EU:C:1999:93, paragraph 32, and of April in Wojskowa Agencja Mieszkaniowa w Warszawie, C‑42/14, EU:C:2015:229, paragraph 31). 
+      
+Subject to that reservation, in the present case the Court must provide the interpretation of the EU law sought by the referring
+         court. 
+      
+ The first question 
+By its first question and the three sub-questions, which it is necessary to consider together, the referring court asks, in
+         essence, whether Article 13B(d)(3) of the Sixth Directive must be interpreted as meaning that the VAT exemption which is laid
+         down there applies to a ‘card processing’ service, such as that in the main proceedings, carried out by taxable person, the
+         provider of that service, where an individual buys, via that provider, a ticket for a show or other event which it sells in
+         the name and on behalf of another entity and which that individual pays for by credit or debit card. 
+      
+It is apparent from the order for reference that the card processing service consists, first, of the service provider obtaining
+         from the buyer the details of the debit or credit card which that buyer wishes to use and transmitting those details to its
+         merchant acquirer bank which then transmits them to the card issuer. Next, it consists — when the card issuer, after receipt
+         of those details, has confirmed to the merchant acquirer bank, by transmitting to the latter an authorisation code, the validity
+         of the card and the availability of the necessary funds — of the receipt of that code by the provider via its merchant acquirer
+         bank, which authorises it to make the sale. Lastly, it consists of the retransmission by that provider to its merchant acquirer
+         bank, at the end of the day, of a settlement file summarising all the sales made during the day and including the relevant
+         details of the payment cards used, including the authorisation codes, which is forwarded by the merchant acquirer bank to
+         the various card issuers, who then make the payments or transfers to that merchant acquirer bank, which transfers the relevant
+         funds to the account of the service provider. 
+      
+As a preliminary point, it should be noted that the exemptions provided for in Article 13B(d)(1) to (6) of the Sixth Directive
+         have been carried over, without any substantive changes, to Article 135(1)(b) to (g) of Council Directive 2006/112/EC of November
+         on the common system of value added tax (OJ L 347, p. 1). The case-law concerning those new provisions is, therefore,
+         relevant in interpreting the equivalent provisions in the Sixth Directive. 
+      
+In accordance with the Court’s settled case-law, the exemptions laid down in Article of the Sixth Directive constitute
+         independent concepts of EU law whose purpose is to avoid divergences in the application of the VAT system as between one Member
+         State and another (see judgments of March in Skandinaviska Enskilda Banken, C‑540/09, EU:C:2011:137, paragraph and the case-law cited and of October in Hedqvist, C‑264/14, EU:C:2015:718, paragraph and the case-law cited).
+      
+It is also established case-law that the terms used to specify those exemptions are to be interpreted strictly, since they
+         constitute exceptions to the general principle that VAT is to be levied on all services supplied for consideration by a taxable
+         person (see, inter alia, judgments of July in Nordea Pankki Suomi, C‑350/10, EU:C:2011:532, paragraph and of October in Hedqvist, C‑264/14, EU:C:2015:718, paragraph and the case-law cited). 
+      
+In that context, it should be noted that Article 13B(d)(3) of the Sixth Directive provides that Member States may exempt ‘transactions,
+         including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments
+         but excluding debt collection and factoring’.
+      
+The transactions exempted under that provision are thus defined according to the nature of the services provided and in terms
+         of the person supplying or receiving the service. Accordingly, the exemption is not subject to the condition that the transactions
+         be effected by a certain type of institution or legal person where the transactions in question relate to the sphere of financial
+         transactions (see judgment of October in Axa UK, C‑175/09, EU:C:2010:646, paragraph and the case-law cited).
+      
+In the present case, it is common ground that only the exemption provided for in Article 13B(d)(3) of the Sixth Directive
+         in favour of ‘transactions ... concerning ... payments [and] transfers’ is relevant to the case at issue in the main proceedings.
+      
+The Court has already held that a transfer is a transaction consisting of the execution of an order for the transfer of a
+         sum of money from one bank account to another. It is characterised in particular by the fact that it involves a change in
+         the legal and financial situation existing, on the one hand, between the person giving the order and the recipient and, on
+         the other, between those parties and their respective banks and, in some cases, between the banks. Moreover, the transaction
+         which produces this change is simply the transfer of funds between accounts, irrespective of its cause. Thus, a transfer being
+         only a means of transmitting funds, the functional aspects are decisive for the purpose of determining whether a transaction
+         constitutes a transfer for the purposes of Article 13B(d)(3) of the Sixth Directive (see, to that effect, judgments of June
+         in SDC, C‑2/95, EU:C:1997:278, paragraph and of July in Nordea Pankki Suomi, C‑350/10, EU:C:2011:532, paragraph 25). 
+      
+Furthermore, the wording of point of Article 13B(d) of the Sixth Directive does not in principle preclude a transfer from
+         being broken down into separate services which then constitute ‘transactions concerning transfers’ within the meaning of that
+         provision (judgment of June in SDC, C‑2/95, EU:C:1997:278, paragraph 64). While it cannot be ruled out that the exemption at issue may include services which
+         are not intrinsically transfers, it remains the case that that exemption can relate only to transactions which, viewed broadly,
+         form a distinct whole and which fulfil in effect the specific, essential functions of such transfers (see, to that effect,
+         judgment of June in SDC, C‑2/95, EU:C:1997:278, paragraphs to 68). 
+      
+It follows from the above that in order to be characterised as transactions concerning transfers for the purposes of Article 13B(d)(3)
+         of the Sixth Directive, the services at issue must, viewed broadly, form a distinct whole, fulfilling in effect the specific,
+         essential functions of a transfer and, therefore, have the effect of transferring funds and entail changes in the legal and
+         financial situation. In this regard, a service which is exempt under the Sixth Directive must be distinguished from a mere
+         physical or technical supply. Accordingly, the national court must examine in particular the extent of the responsibility
+         of the supplier of services vis-à-vis the banks, in particular the question whether that responsibility is restricted to technical
+         aspects or whether it extends to the specific, essential aspects of the transactions (see, to that effect, judgments of June
+         in SDC, C‑2/95, EU:C:1997:278, paragraph 66, and of July in Nordea Pankki Suomi, C‑350/10, EU:C:2011:532, paragraph 24). 
+      
+It should also be stated that, as the functional aspects are decisive in determining whether a transaction concerns a transfer
+         within the meaning of Article 13B(d)(3) of the Sixth Directive, the criterion by which a transaction having the effect of
+         transferring funds and entailing changes in the legal and financial situation, within the meaning of the case-law referred
+         to in paragraphs to of the present judgment, coming within the exemption at issue, can be distinguished from a transaction
+         not having such effects and, therefore, not coming within that exemption, is whether the transaction in question transfers,
+         actually or potentially, the ownership of the funds in question or has the effect of fulfilling the specific, essential aspects
+         of such a transfer (see, to that effect, judgment of July in Nordea Pankki Suomi, C‑350/10, EU:C:2011:532, paragraph 33). 
+      
+In that regard, although the fact that the service provider in question itself debits directly and/or credits an account or
+         intervenes by way of accounting entries on the accounts of the same account holder, permits, in principle, a finding that
+         that condition is met and that the service in question qualifies as exempt (see, to that effect, judgment of March in ATP PensionService, C‑464/12, EU:C:2014:139, paragraphs 80, and 85), the mere fact that that service does not directly include such a task
+         cannot, however, exclude from the outset that it falls within the exemption concerned, considering that the interpretation
+         referred to in paragraph of the present judgment does not presuppose any particular method for effecting transfers (see,
+         to that effect, judgment of March in ATP PensionService, C‑464/12, EU:C:2014:139, paragraph 80).
+      
+Furthermore, according to the Court’s settled case-law, considerations relating to transactions concerning transfers are also
+         applicable to transactions concerning payments (see, to that effect, judgments of June in SDC, C‑2/95, EU:C:1997:278, paragraph 50, and of July in Nordea Pankki Suomi, C‑350/10, EU:C:2011:532, paragraph 26). 
+      
+In the present case, it should be noted that, as is apparent from the description in paragraph of the present judgment,
+         a card processing service, such as that at issue in the main proceedings, results in the execution of a payment or transfer
+         and such a service may be regarded as being indispensable for that execution, since, as is apparent from the decision to refer,
+         it is the transmission of the settlement file at the end of the day by the service provider to his merchant acquirer bank
+         which triggers the payment process or the transfer of the sums concerned from the card issuers to the merchant acquirer bank
+         and, ultimately, to the service provider’s account, and that only the payments or transfers in respect of which the necessary
+         information is included in that file are actually made. 
+      
+However, first, as Article 13B(d)(3) of the Sixth Directive must be interpreted strictly, the mere fact that a service is
+         essential for completing an exempt transaction does not warrant the conclusion that that service is exempt (see, to that effect,
+         judgments of June in SDC, C‑2/95, EU:C:1997:278, paragraph 65, and of July in Nordea Pankki Suomi, C‑350/10, EU:C:2011:532, paragraph 31).
+      
+Secondly, neither the obtaining by the service provider from the purchaser of the card details which the purchaser wishes
+         to use, nor their transmission by that service provider to its merchant acquirer bank, nor the receipt by that service provider
+         of the authorisation code sent by the card issuer, nor even the forwarding by that service provider to his merchant acquirer
+         bank, at the end of the day, of the settlement file containing, inter alia, the authorisation codes relating to the sales
+         can individually, or taken together, be considered to be carrying out a specific, essential function of a payment or transfer
+         transaction within the meaning of Article 13B(d)(3) of the Sixth Directive. 
+      
+It is common ground, having regard to that description, that the provider of such a service neither debits or credits directly
+         the accounts concerned, nor intervenes by way of accounting entries, nor even orders such a debit or credit since it is the
+         buyer who, by using his payment card for a purchase, decides that his account will be debited in favour of a third party’s
+         account. 
+      
+Furthermore, as the European Commission indicated at the hearing, the settlement files presented by a services supplier to
+         its merchant acquirer bank are nothing more than a demand for payment in electronic form. The forwarding of such a file at
+         the end of the day is, consequently, only to inform the relevant payment system that a previously authorised sale has indeed
+         taken place. It cannot, therefore, be regarded as executing the payment or transfer concerned or as having the effect of fulfilling
+         the specific, essential functions.
+      
+It must also be stated that, as is apparent from the decision to refer, the authorisation code — which the supplier, moreover,
+         simply requests, receives and forwards and over the issuing of which he has, therefore, no control — which is contained in
+         that file represents only authorisation to proceed with the sale which the card issuer concerned supplies to the service provider
+         via the merchant acquirer bank. It is not, therefore, a specific, essential function of the transfer of ownership of the funds
+         in question. Consequently, the fact that such a code is obtained by the provider of that service directly from the card issuer,
+         or indeed via its merchant acquirer bank, is without relevance in determining whether or not a card processing service, such
+         as that at issue in the main proceedings, falls within the exemption at issue. 
+      
+Thirdly, it is not apparent from the decision to refer that the provider of such a service assumes responsibility in relation
+         to the making of the legal and financial changes which characterise the existence of an exempt transfer or payment transaction
+         within the meaning of Article 13B(d)(3) of the Sixth Directive and, therefore, concerning the specific, essential functions
+         of the fund transfer process which takes place between the card issuers and the merchant acquirer bank, then from the merchant
+         acquirer bank to the account of that service provider. 
+      
+It follows from all of those factors that the provider of a payment card processing service, such as that at issue in the
+         main proceedings, does not participate specifically and essentially in the legal and financial changes giving rise to a transfer
+         in the ownership of the funds concerned and permitting, in accordance with the Court’s case-law, the transaction to be characterised
+         as a transaction concerning payments or transfers which is exempt under Article 13B(d)(3) of the Sixth Directive, but merely
+         applies technical and administrative means which enable it to collect information and communicate that information to the
+         merchant acquirer bank and to receive, by the same means, the information which enables it to make a sale and receive the
+         corresponding funds. 
+      
+In that regard, it should be borne in mind that the automated nature of such a service and, in particular, the fact that the
+         sending of the settlement file automatically triggers the payments or transfers under consideration, cannot alter the nature
+         of the service supplied and, consequently, has no bearing on the application of the exemption in question (see, to that effect,
+         judgment of June in SDC, C‑2/95, EU:C:1997:278, paragraph 37).
+      
+A card processing service, such as that at issue in the main proceedings, thus consisting, in essence, of an exchange of information
+         between a trader and its merchant acquirer bank with a view to receiving payment for goods or services offered for sale, cannot
+         fall within the exemption provided for in Article 13B(d)(3) of the Sixth Directive for transactions concerning payments and
+         transfers. 
+      
+Moreover, first, such a service cannot be considered to be, by its nature, a financial transaction within the meaning of Article 13B(d)
+         of the Sixth Directive, unless the view were taken that any trader who takes the steps necessary to receive a payment by debit
+         or credit card carries out a financial transaction within the meaning of that provision, which would render that concept meaningless
+         and would be contrary to the requirement that VAT exemptions be strictly interpreted. 
+      
+Secondly, to grant the exemption provided for in Article 13B(d)(3) of the Sixth Directive to a card processing service, such
+         as that at issue in the main proceedings, would run counter to the objectives pursued by the exemption of financial transactions
+         which seeks to alleviate the difficulties connected with determining the tax base and the amount of VAT deductible and to
+         avoid an increase in the cost of consumer credit (judgment of April in Velvet & Steel Immobilien, C‑455/05, EU:C:2007:232, paragraph and the order of May in Tiercé Ladbroke and Derby, C‑231/and C‑232/07, not published, EU:C:2007:332, paragraph 24). 
+      
+The VAT liability of a card processing service, such as that at issue in the main proceedings, does not present such difficulties.
+         In particular, the taxable amount, which corresponds to the consideration received in return for that service, that is to
+         say the commission charged to the ticket purchaser for that service, can easily be determined and such a transaction does
+         not involve any credit to the purchaser by that service provider. Such a service does not therefore qualify for exemption
+         under Article 13B(d)(3) of the Sixth Directive. 
+      
+In the light of all the foregoing considerations, the answer to the first question and the sub-questions is that Article 13B(d)(3)
+         of the Sixth Directive must be interpreted as meaning that the VAT exemption which is provided in respect of transactions
+         concerning payments and transfers does not apply to a service described as ‘processing of payment by debit or credit card’,
+         such as that at issue in the main proceedings, carried out by a taxable person, the provider of that service, where an individual
+         buys, via that provider, a ticket for a show or other event which the provider sells in the name and on behalf of another
+         entity which that individual pays for by debit or credit card.
+      
+ The second question
+Given the answer to the first question, there is no need to answer the second question.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+Article 13B(d)(3) of the Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member
+            States relating to turnover taxes — Common system of value added tax: uniform basis of assessment must be interpreted as meaning
+            that the exemption from value added tax which is provided for in that article in respect of transactions concerning payments
+            and transfers does not apply to a service described as ‘processing of payment by debit or credit card’, such as that at issue
+            in the main proceedings, carried out by a taxable person, the provider of that service, where an individual buys, via that
+            provider, a ticket for a show or other event which the provider sells in the name and on behalf of another entity, which that
+            individual pays for by debit or credit card. 
+[Signatures]
+*Language of the case: English.
+      
+Top  
+ 

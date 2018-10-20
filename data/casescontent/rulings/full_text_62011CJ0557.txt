@@ -1,0 +1,92 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+October (
+*)
+‛VAT — Directive 2006/112/EC — Articles to — Special scheme for travel agents — Transport services carried out by travel agents acting in their own name — Concept of single service — Article — Reduced VAT rate’
+In Case C-557/11,
+REFERENCE for a preliminary ruling under Article TFEU from the Naczelny Sąd Administracyjny (Poland), made by decision of August 2011, received at the Court on November 2011, in the proceedings
+Maria Kozak
+v
+Dyrektor Izby Skarbowej w Lublinie,
+THE COURT (Sixth Chamber),
+composed of A. Rosas, acting as President of the Sixth Chamber, U. Lõhmus and C.G. Fernlund (Rapporteur), Judges,
+Advocate General: E. Sharpston,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Ms Kozak, by A. Bartosiewicz and R. Kamiński, doradcy podatkowi,
+—
+the Polish Government, by M. Szpunar and B. Majczyna, acting as Agents,
+—
+the European Commission, by L. Lozano Palacios and K. Herrmann, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1; ‘the VAT Directive’), read in conjunction with Annex III to that directive, and of Articles to of that directive.
+The reference has been made in proceedings between Ms Kozak and the Dyrektor Izby Skarbowej w Lublinie (Director of the Tax Office, Lublin) regarding the decision concerning the calculation of the value added tax (‘VAT’) applicable to her activity as a travel agent.
+Legal context
+European Union law
+In Section of Chapter of Title VIII of the VAT Directive, headed ‘Reduced rates’, Article of the directive states:
+‘(1)   Member States may apply either one or two reduced rates.
+(2)   The reduced rates shall apply only to supplies of goods or services in the categories set out in Annex III.
+...’
+Annex III to the VAT Directive, headed ‘Lists of supplies of goods and services to which the reduced rates referred to in Article may be applied’ provides:
+‘...
+(5)
+transport of passengers and their accompanying luggage;
+...’
+In Chapter of Title XII of the VAT Directive, headed ‘Special scheme for travel agents’, Articles to of the directive state:
+‘Article (1)   Member States shall apply a special VAT scheme, in accordance with this Chapter, to transactions carried out by travel agents who deal with customers in their own name and use supplies of goods or services provided by other taxable persons, in the provision of travel facilities.
+...
+(2)   For the purposes of this Chapter, tour operators shall be regarded as travel agents.
+Article Transactions made, in accordance with the conditions laid down in Article 306, by the travel agent in respect of a journey shall be regarded as a single service supplied by the travel agent to the traveller.
+The single service shall be taxable in the Member State in which the travel agent has established his business or has a fixed establishment from which the travel agent has carried out the supply of services.
+Article The taxable amount and the price exclusive of VAT, within the meaning of point (8) of Article 226, in respect of the single service provided by the travel agent shall be the travel agent’s margin, that is to say, the difference between the total amount, exclusive of VAT, to be paid by the traveller and the actual cost to the travel agent of supplies of goods or services provided by other taxable persons, where those transactions are for the direct benefit of the traveller.
+...
+Article VAT charged to the travel agent by other taxable persons in respect of transactions which are referred to in Article and which are for the direct benefit of the traveller shall not be deductible or refundable in any Member State.’
+Polish law
+Article 119(1), (5) and (6) of the Law on the tax on goods and services (ustawa o podatku od towarów i usług) of March (Dz. U No 54, heading 535), in the version applicable to the facts in the main proceedings (‘the Law on VAT’), provides:
+‘1.   The taxable amount, in respect of the provision of tourist services, shall be the amount of the margin, reduced by the amount of the tax payable, without prejudice to paragraph 5.
+...
+5.   Where, in the course of provision of tourist services, in addition to the services bought in from other taxable persons and which are for the direct benefit of the traveller, the taxable person himself provides some of the services (hereafter ‘in-house services’), the taxable amount shall be determined differently depending on whether the services at issue are in-house services or services bought in from other taxable persons and which are for the direct benefit of the traveller. The taxable amount of in-house services shall be applied by applying, mutatis mutandis, the provisions of Article 29.
+6.   In the situations referred to in paragraph 5, the taxable person is obliged to state in his tax records, on the one hand, the proportion of the price of the services attributable to services bought in from other taxable persons and which are for the direct benefit of the traveller and, on the other hand, the proportion attributable to in-house services.
+...’
+In accordance with Article 41(2) of the Law on VAT, and paragraph of Annex to that law, services consisting in the transport of passengers by land shall be taxable at the reduced VAT rate of 7%, whereas the standard rate of VAT is 22%.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Ms Kozak operates a travel agency which is established in Poland. In the course of 2007, she sold directly to tourists all-inclusive packages comprising accommodation and meals, for which she used the services of other suppliers, and transport, for which she used her own fleet of coaches.
+When calculating the VAT, Ms Kozak applied, with regard to the services bought in from third parties, the special scheme for travel agent transactions, using as the taxable amount the travel agent’s margin, in accordance with Article of the VAT Directive, making that margin subject to the 22% standard VAT rate. With regard to the in-house transport services, she applied the normal VAT rules, inter alia with regard to the taxable amount, making them subject to the reduced rate of 7% provided for in relation to passenger transport services.
+The tax authorities took the view that the transport services were an essential part of the tourist services as a whole offered by the travel agent and should be regarded as an integral part thereof. Accordingly, under the Law on VAT, Ms Kozak should not, according to those authorities, have applied a reduced VAT rate to those transport services by treating them as a distinct service, but should have made them subject to the same rate as the other services, that is to say the standard rate of 22%. A decision was therefore adopted which found that Ms Kozak’s VAT calculation for the months of May to June and October to December was unlawful.
+Ms Kozak disputed that interpretation of the Law on VAT and appealed against that decision to the Wojewódzki Sąd Administracyjny w Lublinie (Regional Administrative Court, Lublin). That court however upheld the stance of the tax authorities. Ms Kozak therefore appealed on a point of law to the Naczelny Sąd Administracyjny (Supreme Administrative Court).
+That court has doubts concerning the reply given by the Wojewódzki Sąd Administracyjny w Lublinie according to which the 22% VAT rate must be applied to transport services provided in-house as it is to services bought in from a third party, even if their respective taxable amounts differ. It asks in particular whether it would be useful to use the concept of a ‘single supply’ referred to in paragraph of Case C-34/Primback [2001] ECR I-3833, where the Court held that where a transaction consists of several elements, there is a single supply, particularly where one element is to be regarded as constituting the principal service, whilst another is to be regarded as an ancillary service sharing the tax treatment of the principal service.
+Given its doubts as to the interpretation of Articles to of the VAT Directive and of Article thereof, read in conjunction with paragraph of Annex III thereto, the Naczelny Sąd Administracyjny decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Where an in-house transport service is supplied by a travel agent within the framework of an all-inclusive price which is charged to a tourist for a tourist service supplied to him that is taxed under Articles to of [the VAT Directive], which lay down a special VAT scheme for travel agents, is that in-house transport service taxable – as an essential element for the supply of that tourist service – at the standard rate of tax applicable to tourist services, or at the reduced rate of tax applicable to passenger transport services under Article of that directive, read in conjunction with [paragraph 5] of Annex III thereto.’
+Consideration of the question referred for a preliminary ruling
+Observations submitted to the Court
+Ms Kozak and the Commission claim that the concept of a single service provided by the travel agent covers only the services bought in from third parties, in accordance with Article of the VAT Directive. It does not apply to in-house services provided by the operator. It follows that the normal VAT regime, including the tax rate, applies to the transport service provided in-house and that, in a case such as that in the main proceedings, the transport service should be subject to the reduced VAT rate provided for under national legislation, in conformity with Article of the VAT Directive, read in conjunction with paragraph of Annex III to that directive.
+The Polish Government maintains, for its part, that, where the in-house service provided is essential for the provision of tourist services, it must be regarded as an ancillary element thereof, the provision of tourist services being a single and principal supply of services, subject to the special VAT scheme laid down in Articles to of the VAT Directive. The transport service must, on that basis, receive the same tax treatment as the principal service and be subject to the special VAT scheme laid down in those articles, with regard to the place and rate of taxation, while being subject to the normal VAT regime with regard to the taxable amount and the right of deduction, because Article of that directive does not apply to in-house services.
+The Court’s reply
+The VAT scheme applicable to transactions carried out by travel agents, laid down in Articles to of the VAT Directive, reproduces in essence the provisions of Article of the Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1). That scheme is a special scheme which contains specific rules regarding the activity of travel agents, which derogate from the normal VAT regime.
+Under Article of the VAT Directive, Member States are to apply the special VAT scheme to transactions carried out by travel agents who deal with customers in their own name and use supplies of goods or services provided by other taxable persons, in the provision of travel facilities.
+It is apparent from the very wording of that provision that the services concerned are those bought in from third parties.
+The essential aim of the rules of the special VAT scheme applicable to transactions carried out by travel agents is to avoid the difficulties to which traders would be exposed by application of the normal principles of the VAT Directive concerning transactions involving the supply of services bought in from third parties (see, to that effect, Joined Cases C-308/and C-94/Madgett and Baldwin [1998] ECR I-6229, paragraph 33). The application of the normal rules on the place of taxation, taxable amount and deduction of input tax would, by reason of the multiplicity of services and the places in which they are provided, entail practical difficulties for those undertakings of such a nature as to obstruct their operations (see C-163/Van Ginkel [1992] ECR I-5723, paragraph 14).
+As an exception to the normal regime applicable under the VAT Directive, the scheme laid down in Articles to thereof must be applied only to the extent necessary to achieve its objective (Madgett and Baldwin, paragraph 34).
+The Court has thus previously held that the special VAT scheme applicable to transactions carried out by travel agents applies only to the services bought in from third parties (see Madgett and Baldwin, paragraph 35).
+That same line of reasoning led the Court to hold that that scheme does not cover transport services supplied without the involvement of any intermediary, which are covered by the normal provisions applicable to transport undertakings (Case C-74/Commission v Germany [1992] ECR I-5437, paragraph 26).
+The Court accordingly concluded that, where a trader subject to the provisions of the special VAT scheme effects, in return for a package price, transactions consisting in services supplied partly by himself and partly by other taxable persons, that special scheme applies only to the services supplied by third parties (see, to that effect, Madgett and Baldwin, paragraph 47).
+That is the context in which the concept of the supply of a ‘single service’ referred to in Articles and of the VAT Directive must be understood. That concept covers only services which were bought in from a third party. In addition, the single service rule relied on by the referring court and referred to in paragraph above, which applies under the normal VAT regime, cannot affect the assessment of that concept in the context of the special VAT scheme applicable to transactions carried out by travel agents.
+Accordingly, the fact relied on by the referring court that the in-house transport services provided are an essential element of the overall tourist service provided by the travel agent to the customer does not in any way alter the foregoing considerations. Irrespective of whether those services are or are not an essential part of that overall tourist service, it does not follow that they must be regarded as forming together with that service a ‘single service’ within the meaning of Articles and of the VAT Directive, or that, consequently, they must be given the same tax treatment as that service.
+It follows that, with regard to the in-house transport services provided by a travel agent, such as those carried out by Ms Kozak herself, those services cannot be made subject to the special VAT scheme applicable to transactions carried out by travel agents, whether in relation to the determination of the taxable amount or the application of the other rules relating to the calculation of VAT. With regard to the tax rate, the rules contained in Title VIII of the VAT Directive apply. In accordance with Article 98(2) of that directive, read in conjunction with paragraph of Annex III thereto, the Member States are free to provide for a reduced tax rate for the transport of passengers and their accompanying luggage. As is apparent from paragraph above, the Republic of Poland exercised that option when applying a 7% rate to that service.
+The answer to the question referred is, therefore, that Articles to of VAT Directive must be interpreted as meaning that where, in the context of a tourist service provided to a tourist in return for an all-inclusive price imposed in conformity with those provisions, a travel agent provides to that tourist an in-house transport service which forms part of that tourist service, that supply of services is subject to the normal VAT regime, inter alia in relation to the tax rate, and not to the special VAT scheme applicable to transactions carried out by travel agents. In accordance with Article of that directive, if the Member States have provided for a reduced rate of VAT for transport services, that reduced rate applies to that supply of services.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Articles to of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that where, in the context of a tourist service provided to a tourist in return for an all-inclusive price imposed in conformity with those provisions, a travel agent provides to that tourist an in-house transport service which forms part of that tourist service, that supply of services is subject to the normal value added tax regime, inter alia in relation to the tax rate, and not to the special value added tax scheme applicable to transactions carried out by travel agents. In accordance with Article of that directive, if the Member States have provided for a reduced rate of value added tax for transport services, that reduced rate applies to that supply of services.
+ 
+[Signatures]
+(
+*)   Language of the case: Polish.
+Top  
+ 

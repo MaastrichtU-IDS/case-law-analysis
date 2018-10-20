@@ -1,0 +1,151 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+July (
+*)
+‛Reference for a preliminary ruling — Common Customs Tariff — Combined Nomenclature — Headings and — Explanatory notes — Agreement on trade in information technology products — ‘Screenplays’’
+In Case C‑97/15,
+REQUEST for a preliminary ruling under Article TFEU from the Hoge Raad der Nederlanden (Supreme Court of the Netherlands), made by decision of February 2015, received at the Court on February 2015, in the proceedings,
+Sprengen/Pakweg Douane BV
+v
+Staatssecretaris van Financiën,
+THE COURT (Ninth Chamber),
+composed of C. Lycourgos, President of the Chamber, C. Vajda (Rapporteur), and K. Jürimäe, Judges,
+Advocate General: M. Bobek,
+Registrar: M. Ferreira, principal administrator,
+having regard to the written procedure and further to the hearing on February 2016,
+after considering the observations submitted on behalf of:
+—
+Sprengen/Pakweg Douane BV, by H. de Bie, S.S. Mulder and N. van den Broek, advocaten,
+—
+the Netherlands Government, by M. Noort, M. Bulterman and M. Gijzen, acting as Agents,
+—
+the European Commission, by A. Caeiros, F. Wilman and W. Roels, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the Combined Nomenclature (‘the CN’) set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), in the versions resulting, successively, from Commission Regulation (EC) No 1549/of October (OJ L 301, p. 1) and Commission Regulation (EC) No 1214/of September (OJ L 286, p. 1), and, more specifically, the interpretation of CN headings and 8521.
+The request has been made in proceedings between Sprengen/Pakweg Douane BV (‘Sprengen’) and the Staatssecretaris van Financiën (State Secretary for Finance) concerning the classification within the CN of devices, known as ‘screenplays’, containing a multimedia hard disk and offering the means of reproducing directly on a television or video monitor a wide variety of multimedia files transferred from a computer, including photos, music and films.
+Legal context
+The CN and the HS
+The customs classification of goods imported into the European Union is governed by the CN.
+The CN is based on the Harmonised Commodity Description and Coding System (‘the HS’), which was drawn up by the Customs Cooperation Council, now the World Customs Organisation (WCO), and established by the convention creating that council, concluded in Brussels on December 1950. The HS was established by the International Convention on the Harmonised Commodity Description and Coding System (‘the HS Convention’), concluded in Brussels on June and approved, with its amending protocol of June 1986, on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1). The CN reproduces the headings and subheadings of the HS to six digits, with only the seventh and eighth digits creating further subheadings which are specific to it.
+Article of Regulation No 2658/provides that the European Commission is to adopt each year, by means of a regulation, a complete version of the CN together with the corresponding autonomous and conventional rates of duty of the Common Customs Tariff, as it results from measures adopted by the Council of the European Union or by the Commission. That regulation is to be published not later than October in the Official Journal of the European Union and is to apply from January of the following year.
+It is apparent from the file submitted to the Court that the versions of the CN applicable to the facts in the main proceedings are those for the years and 2008, resulting, respectively, from Regulation No 1549/and Regulation No 1214/2007. In the versions resulting from those regulations, the wording of the general rules and the tariff headings Chapters and of the CN and the notes to those chapters which are relevant to the questions referred does not differ.
+The second part of the CN includes Section XVI, entitled ‘Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles.’
+Notes and to Section XVI of the CN read as follows:
+‘3.
+Unless the context otherwise requires, composite machines consisting of two or more machines fitted together to form a whole and other machines designed for the purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that component or as being that machine which performs the principal function.
+...
+5.
+For the purposes of these notes, the expression “machine” means any machine, machinery, plant, equipment, apparatus or appliance cited in the headings of Chapter or 85.’
+Section XVI of the CN includes Chapter 84, entitled ‘Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof’.
+Note to that chapter is worded as follows:
+‘…
+(C)
+Subject to paragraphs (D) and (E) below, a unit is to be regarded as being a part of an automatic data-processing system if it meets all of the following conditions:
+(1)
+It is of a kind solely or principally used in an automatic data processing system;
+(2)
+it is connectable to the central processing unit either directly or through one or more other units; and
+(3)
+it is able to accept or deliver data in a form (codes or signals) which can be used by the system.
+Separately presented units of an automatic data processing machine are to be classified in heading 8471.
+However, keyboards, X-Y co-ordinate input devices and disk storage units which satisfy the conditions of paragraphs (C)(2) and (C)(3) above, are in all cases to be classified as units of heading 8471.
+(D)
+…
+(E)
+Machines incorporating or working in conjunction with an automatic data processing machine and performing a specific function other than data processing are to be classified in the headings appropriate to their respective functions or, failing that, in residual headings.’
+CN heading and subheading thereof are worded as follows:
+‘ Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:
+...
+– Storage units
+...
+– — — — — Hard disk drives
+...’
+Section XVI of the CN also contains Chapter 85, entitled ‘Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles.’
+Heading of the CN and subheading thereof are worded as follows:
+‘Video recording or reproducing apparatus, whether or not incorporating a video tuner:
+...
+– Other.’
+The HS Explanatory Notes
+The WCO is to approve, under the conditions laid down in Article of the HS Convention, the Explanatory Notes and Classification Opinions adopted by the HS Committee, a body the organisation of which is governed by Article thereof. Under Article 7(1) of the HS Convention, the functions of that committee include proposing amendments to the Convention and preparing Explanatory Notes, Classification Opinions and other advice as guides to the interpretation of the HS.
+Under Article 3(1) of the HS Convention, each Contracting Party undertakes to ensure that its customs tariff and statistical nomenclatures are in conformity with the HS, to use all the headings and subheadings of the HS without addition or modification together with their related codes, and to follow the numerical sequence of that system. Each Contracting Party also undertakes to apply the General Rules for the interpretation of the HS and all the section, chapter and subheading notes of the HS, and not to modify their scope.
+In the version adopted in 2007, the HS Explanatory Notes relating to heading were drafted as follows:
+‘(A) RECORDING AND COMBINED RECORDING AND REPRODUCING APPARATUS
+These are apparatus which, when connected to a television camera or a television receiver, record on media electric impulses (analogue signals) or analogue signals converted into digital code (or a combination of these) which correspond to the images and sound captured by a television camera or received by a television receiver. Generally the images and sound are recorded on the same media. The method of recording can be by magnetic or optical means and the recording media is usually tapes or discs.
+The heading also includes apparatus which record, generally on a magnetic disc, digital code representing video images and sound, by transferring the digital code from an automatic data processing machine (e.g., digital video recorders).
+In magnetic recording on tape the images and sound are recorded on different tracks on the tape whereas in magnetic recording on disc the images and sound are recorded as magnetic patterns or spots in spiral tracks on the surface of the disc.
+In optical recording, digital data representing the images and sound are encoded by a laser onto a disc.
+Video recording apparatus which receive signals from a television receiver also incorporate a tuner which enables selection of the desired signal (or channel) from the frequency band of signals transmitted by the television transmitting station.
+When used for reproduction, the apparatus convert the recording into video signals. These signals are passed on either to a transmitting station or to a television receiver.
+(B) REPRODUCING APPARATUS
+These apparatus are designed only to reproduce images and sound directly on a television receiver. The media to be used in these instruments are prerecorded mechanically, magnetically or optically on special recording equipment. The following are examples of such apparatus:
+(1) Apparatus using discs in which the image and sound data are stored on the disc by various methods and picked up by a laser optical reading system, capacitive sensor, pressure sensor or magnetic head. Subject to Note to Section XVI, apparatus which are capable of reproducing both video and audio recordings are to be classified in this heading.
+(2) Apparatus that decodes and converts into a video signal image data recorded on a light sensitive film (the sound being recorded by a magnetic process on the same film).’
+The Agreement on trade in information technology products
+The Agreement on trade in information technology products, made up of the Ministerial Declaration on trade in information technology products adopted on December at the first Conference of the World Trade Organisation (WTO) in Singapore, its annexes and attachments (‘the ITA’), and the Communication on its implementation were approved, on behalf of the Community, by Council Decision 97/359/EC of March concerning the elimination of duties on information technology products (OJ L 155, p. 1). The ITA stipulates, in its first paragraph, that each party’s trade regime should evolve in a manner that enhances market access opportunities for information technology products.
+Council Regulation (EC) No 2559/of November amending Annex I to Regulation No 2658/(OJ L 293, p. 1) was adopted for the purposes of applying the ITA, in accordance with recitals and of that regulation.
+Attachments A and B of the Annex to the ITA are drafted as follows:
+‘Attachment A, Section ...
+Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:
+...
+Storage units, including central storage units, optical disk storage units, hard disk drives and magnetic tape storage units
+...
+Attachment B
+Positive list of specific products to be covered by this agreement wherever they are classified in the HS.
+...
+Proprietary format storage devices including media therefor for automatic data processing machines, with or without removable media and whether magnetic, optical or other technology, including Bernoulli Box, SyQuest, or Zip drive cartridge storage units.
+...’
+The dispute in the main proceedings and the questions referred
+In and 2008, Sprengen made declarations, in its own name and on its own account, for the benefit of its principal, Iomega International S.A., for the release into free circulation of devices known as ‘screenplays’.
+According to the order for reference screenplays are devices which enable multimedia files to be stored and to be played on a television or video monitor.
+For that purpose, the screenplays include a hard disk, on which video, music or photo files in various common formats can be stored from a personal computer. The connection with the personal computer is achieved by means of the Firewire or USB connector incorporated in the screenplays.
+Those devices may then be disconnected from the computer and connected by means of a cable to a television or a video monitor in order to reproduce those videos, music or photos. Using the equipment and software found in the screenplays, (digital) media files stored on the hard disks are decoded and converted into an (analogue) PAL/NTSC signal, which can be displayed on that television or video monitor.
+The manual supplied with the screenplays states the following:
+‘Using the Iomega Screenplay Multimedia-drive you can play your favourite multimedia files on your computer or TV. Copy standard films, photos and music from a PC or Mac computer to the screenplay Pro-drive via the USB or FireWire connector. Then you can play the films, slide presentations of the photos and your music on any television set.’
+The screenplays were declared by Sprengen under CN subheading 50, as a ‘hard disk drive’, which corresponds to a customs duty of 0%.
+The Netherlands customs authorities, following an inspection, took the view that the screenplays had to be classified as ‘video reproducing apparatus’ under CN subheading 00, which corresponds to a customs duty of 13.9%. In that context, requests for payment were drawn up and issued to Sprengen.
+Sprengen lodged a complaint against those requests for payments. Following the rejection of that complaint, it brought an action against those requests for payment before the Rechtbank Haarlem (District Court of Haarlem, Netherlands), which dismissed it on December 2011. Sprengen then brought an appeal against that judgment before the Gerechtshof Amsterdam (Court of Appeal of Amsterdam, Netherlands), which also dismissed it, by a judgment of October 2013, on the ground that the screenplays ought to be classified under CN heading 8521.
+Sprengen appealed in cassation against the judgment on appeal before the Hoge Raad der Nederlanden (Supreme Court of the Netherlands). Before that court, Sprengen claimed, in the first place, that the court of appeal interpreted the scope of CN heading and, in particular, the concept of ‘video reproducing apparatus’ within the meaning of that heading, too broadly and that that interpretation is contrary to the HS and the CN. In the second place, even if the screenplays could be classified under CN heading 8521, Sprengen considered that the appeal court misinterpreted Note to Section XVI of the CN, under which machines designed for the purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that component or as being that machine which performs the principal function. In the last place, Sprengen argued that the Gerechtshof Amsterdam (Court of Appeal of Amsterdam) was wrong to find that screenplays were outside the scope of the ITA and that it could not rely successfully on that agreement as regards the application of the customs tariff.
+In those circumstances the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Must the last paragraph of Note 5(C) to Chapter of the CN — whether or not having regard to [Attachments A and B to the ITA] — be interpreted as meaning that apparatus such as the screenplays described in this judgment are to be classified as ‘hard disk drives’ in CN subheading 50, even though the apparatus has features and characteristics such that it is capable of reproducing on a television set or video monitor multimedia files stored on the hard disks, after converting those files into analogue signals?
+(2)
+If question must be answered in the negative, must CN heading then be interpreted as meaning that apparatus such as the screenplays can be classified under it, even though their video reproducing function is not their specific function, but is their principal function?’
+Consideration of the questions referred
+By its questions, which should be considered together, the referring court asks, in essence, whether the CN must be interpreted as meaning that devices, such as the screenplays at issue in the main proceedings, whose function is both to store multimedia files and to reproduce them on a television or video monitor, come under CN subheading or heading of that nomenclature.
+In order to answer the questions referred, it must be stated, first, that the general rules for the interpretation of the CN provide that the classification of goods is to be determined according to the terms of the headings and any section or chapter notes, the titles of sections, chapters and sub-chapters being provided for ease of reference only (see judgments of June in Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph 33, and June in Baby Dan, C‑272/14, EU:C:2015:388, paragraph 25).
+Second, according to settled case-law, in the interests of legal certainty and ease of verification, the decisive criterion for the classification of goods for customs purposes is in general to be found in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and of the notes to the sections or chapters (see, inter alia, judgments of February in Proxxon, C‑500/04, EU:C:2006:111, paragraph 21, and March in Vario Tek, C‑178/14, EU:C:2015:152, paragraph and the case-law cited).
+In that regard, it follows from the very wording of CN heading 8471, under which subheading falls, and CN heading and the Explanatory Notes thereto, that the function of the goods concerned is decisive for the classification of those goods under one of those headings.
+Those headings specifically describe the function fulfilled by the goods which they cover. Accordingly, CN heading relates, inter alia, to ‘automatic data-processing machines and units thereof’. CN heading concerns ‘video recording or reproducing apparatus, whether or not incorporating a video tuner.’
+It follows from the order for reference that the devices at issue in the main proceedings have functions which, considered in themselves, enable them to be classified under the two headings referred in paragraph of the present judgment. Those devices have, more specifically, functions to store multimedia files, on the one hand, and to reproduce them on a television or video monitor, on the other.
+It also follows from that decision that the principal function of those devices consists of video reproduction.
+It should, in the first place, be stated that the Note to Section XVI of the CN, which contains Chapters and of that nomenclature, states that unless the context otherwise requires, composite machines consisting of two or more machines fitted together to form a whole and other machines designed for the purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that component or as being that machine which performs the principal function.
+It follows that, having regard to their principal function, devices such as the screenplays at issue in the main proceedings should, in principle, be classified under CN heading 8521, which specifically concerns video reproduction apparatus.
+Such a finding cannot be called into question by Sprengen’s argument that such a classification is excluded due to the Explanatory Note to heading of the HS. In that context, Sprengen claimed that, according to that Note, it is solely devices designed ‘only’ to reproduce images and sound directly on a television receiver which come under that heading. According to Sprengen, even assuming that the screenplays have such a reproductive function, that is not, in any event, the ‘only’ function of that apparatus.
+In that regard, following settled case-law, the Explanatory Notes to the HS are an important aid for interpreting the scope of the various tariff headings but do not have legally binding force. The wording of those notes must therefore be consistent with the provisions of the CN and cannot alter their scope (judgment of November in Duval, C‑44/15, EU:C:2015:783, paragraph 24).
+Accordingly, the fact that Section B of the Explanatory Notes to heading of the HS states that apparatus covered by that heading are designed ‘only’ to reproduce images and sound directly on a television receiver does not preclude the finding in paragraph of the present judgment. In fact, the use of the word ‘only’ is not such as to exclude any apparatus also having functions other than that of video reproduction, but is intended to differentiate such apparatus from those referred to as ‘combined recording and reproducing apparatus’ covered by Section A of that Explanatory Note.
+Such an interpretation is, in the second place, confirmed by Note to Chapter of the CN, which contains CN subheading 50. Note 5(C) to that chapter contains provisions which apply subject to those of Notes 5(D) and 5(E) to the same chapter. Under Note 5(E) to Chapter of the CN ‘[m]achines incorporating or working in conjunction with an automatic data processing machine and performing a specific function other than data processing are to be classified in the headings appropriate to their respective functions or, failing that, in residual headings.’
+It follows from the wording of Note 5(E) to Chapter of the CN that the expression ‘specific function’ which it uses designates a function ‘other than data processing’ (see, to that effect, judgment of December in Kip Europe and Others, C‑362/and C‑363/07, EU:C:2008:710, paragraph 32).
+Furthermore, it follows from the general scheme and purpose of that note that the expression ‘are to be classified in the headings appropriate to their respective functions’ included in that note, seeks to prevent apparatus whose function has nothing to do with data processing from being classified under heading for the sole reason that they incorporate an automatic data-processing machine or work in connection with such a machine (judgment of December in Kip Europe and Others, C‑362/and C‑363/07, EU:C:2008:710, paragraph 33).
+It should be noted that, as the Netherlands Government and the Commission have stated before the Court, the devices at issue in the main proceedings have a specific function, within the meaning of that provision, which comprises the reproduction of images and sounds on television screens. That function cannot, in fact, be regarded as a data-processing function within the meaning of CN heading 8471.
+Contrary to what the referring court stated, the fact that a device performs two functions, as the apparatus at issue in the main proceedings does, has no effect on the applicability of Note 5(E) to Chapter of the CN. In fact, that note necessarily presupposes that the apparatus concerned can perform several functions.
+Accordingly, under Note 5(E) to Chapter of the CN, the devices at issue in the main proceedings do not come under CN heading and, more particularly, under subheading of that nomenclature.
+In the third place, it should be examined whether that interpretation of the CN is called into question by the provisions of the ITA to which the referring court refers. In that regard, it should be borne in mind that, according to equally settled case-law, even though the provisions of an agreement such as the ITA are not such as to create rights upon which individuals may rely directly before the courts under EU law, where the European Union has legislated in the field in question, the primacy of international agreements concluded by the European Union over provisions of secondary Community legislation means that such provisions must, so far as is possible, be interpreted in a manner that is consistent with those agreements (judgment of November in Digitalnet and Others, C‑320/11, C‑330/11, C‑382/and C‑383/11, EU:C:2012:745, paragraph and the case-law cited).
+According to Sprengen, the apparatus at issue in the main proceedings comes under both Attachment A as ‘storage units’ and Attachment B, as ‘proprietary format storage devices’ of the Annex to the ITA.
+Attachment A includes a reference to subheading of the HS corresponding to subheading of the CN. As follows from paragraph of the present judgment, that apparatus cannot be classified under that CN subheading. Therefore, Attachment A is irrelevant to the case in the main proceedings.
+Attachment B of the Annex to the ITA, which contains a list of specific products covered by the ITA, irrespective of their classification in the HS, refers to ‘proprietary format storage devices’. As the Commission argued at the hearing, in order to determine whether the devices at issue in the main proceedings come within that definition, it is necessary to take account of their principal function and their objective characteristics. It is clear from the order for reference that the principal function of those devices is video reproduction and not data storage. Accordingly, that apparatus does not fall within the definition of ‘proprietary format storage devices’ to which Attachment B refers.
+Accordingly, Attachments A and B of the Annex to the ITA must be considered to be irrelevant to the case in the main proceedings.
+Having regard to all the foregoing, the answer to the questions referred is that the CN must be interpreted as meaning that devices such as the screenplays at issue in the main proceedings, whose function is both to store multimedia files and to reproduce them on a television or video monitor, come under heading of that nomenclature.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+The Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, in the versions resulting, successively, from Commission Regulation (EC) No 1549/of October and Commission Regulation (EC) No 1214/of September 2007, must be interpreted as meaning that devices such as the screenplays at issue in the main proceedings, whose function is both to store multimedia files and to reproduce them on a television or video monitor, come under heading of that nomenclature.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  
+ 

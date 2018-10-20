@@ -1,0 +1,428 @@
+
+Case C-630/University of Queensland
+and
+CSL Ltd
+v
+Comptroller General of Patents, Designs and Trade Marks
+(Reference for a preliminary ruling from the High Court of Justice (England and Wales), Chancery Division (Patents Court))
+(Article 104(3), first subparagraph, of the Rules of Procedure – Medicinal products for human use – Supplementary protection certificate – Regulation (EC) No 469/– Article – Conditions for obtaining a certificate – Concept of a ‘product protected by a basic patent in force’ – Criteria – Existence of further or different criteria for a medicinal product comprising more than one active ingredient or for a vaccine
+         against multiple diseases (‘Multi-disease vaccine’ or ‘multivalent vaccine’))
+      
+Summary of the Order
+1.        Approximation of laws – Uniform legislation – Industrial and commercial property – Patent law – Supplementary protection certificate
+            for medicinal products – Conditions for granting – Product covered by a basic patent in force
+(European Parliament and Council Regulation No 469/2009, Art. 3(a))
+2.        Approximation of laws – Uniform legislation – Industrial and commercial property – Patent law – Supplementary protection certificate
+            for medicinal products – Medicinal product protected by several basic patents – Right to only one certificate for each basic
+            patent
+(European Parliament and Council Regulation No 469/2009, Art. 3(c))
+3.        Approximation of laws – Uniform legislation – Industrial and commercial property – Patent law – Supplementary protection certificate
+            for medicinal products – Conditions for granting – Product covered by a basic patent in force
+(European Parliament and Council Regulation No 469/2009, Arts 3(b), and 5)
+4.        Approximation of laws – Uniform legislation – Industrial and commercial property – Patent law – Supplementary protection certificate
+            for medicinal products – Conditions for granting – Product other than that identified in the wording of the claims of the
+            basic patent – Not permissible
+(European Parliament and Council Regulation No 469/2009, Art. 3(a))
+1.        Article 3(a) of Regulation No 469/concerning the supplementary protection certificate for medicinal products must be
+         interpreted as precluding the competent industrial property office of a Member State from granting a supplementary protection
+         certificate relating to active ingredients that are not identified in the wording of the claims of the basic patent relied
+         on in support of the application for such a certificate.
+      
+(see para. 31, operative part 1)
+2.        When a medicinal product is protected by a number of basic patents in force, each of those patents may be designated for the
+         purpose of the procedure for the grant of a supplementary protection certificate for medicinal products but only one certificate
+         may be granted for a basic patent.
+      
+(see para. 35)
+3.        Article 3(b) of Regulation No 469/concerning the supplementary protection certificate for medicinal products must be
+         interpreted as meaning that, provided the other requirements laid down in Article are also met, that provision does not
+         preclude the competent industrial property office of a Member State from granting a supplementary protection certificate for
+         an active ingredient specified in the wording of the claims of the basic patent relied on where the medicinal product for
+         which the marketing authorisation is submitted in support of the supplementary protection certificate application contains
+         not only that active ingredient but also other active ingredients.
+      
+(see para. 36, operative part 2)
+4.        In the case of a basic patent relating to a process by which a product is obtained, Article 3(a) of Regulation No 469/concerning the supplementary protection certificate for medicinal products precludes a supplementary protection certificate’s
+         being granted for a product other than that identified in the wording of the claims of that patent as the product deriving
+         from the process in question. Whether it is possible to obtain the product directly as a result of that process is irrelevant
+         in that regard.
+      
+(see para. 41, operative part 3)
+  
+  
+ORDER OF THE COURT (Fourth Chamber)
+November (*)
+      
+(Article 104(3), first subparagraph, of the Rules of Procedure – Medicinal products for human use – Supplementary protection certificate – Regulation (EC) No 469/– Article – Conditions for obtaining a certificate – Concept of a ‘product protected by a basic patent in force’ – Criteria – Existence of further or different criteria for a medicinal product comprising more than one active ingredient or for a vaccine
+         against multiple diseases (‘Multi-disease vaccine’ or ‘multivalent vaccine’))
+      
+In Case C‑630/10,
+REFERENCE for a preliminary ruling under Article TFEU from the High Court of Justice of England and Wales, Chancery Division
+         (Patents Court) (United Kingdom), made by decision of December 2010, received at the Court on December 2010, in the
+         proceedings
+      
+University of Queensland,
+CSL Ltd,
+v
+Comptroller General of Patents, Designs and Trade Marks,
+THE COURT (Fourth Chamber),
+composed of J.-C. Bonichot, President of the Chamber, A. Prechal, L. Bay Larsen, C. Toader (Rapporteur) and E. Jarašiūnas,
+         Judges,
+      
+Advocate General: V. Trstenjak,
+Registrar: A. Calot Escobar,
+the Court proposing to give its decision by reasoned order in accordance with the first subparagraph of Article 104(3) of
+         its Rules of Procedure, 
+      
+after hearing the Advocate General,
+makes the following
+Order
+This reference for a preliminary ruling concerns the interpretation of Article of Regulation (EC) No 469/of the European
+         Parliament and of the Council of May concerning the supplementary protection certificate for medicinal products (OJ
+         L 152, p. 1).
+      
+The reference has been made in proceedings between the University of Queensland and CSL Ltd (‘the University of Queensland’),
+         the applicants in the main proceedings, and the Comptroller General of Patents, Designs and Trade Marks (‘the Patent Office’)
+         concerning the latter’s refusal to grant the University of Queensland’s applications for supplementary protection certificates
+         (‘SPCs’). 
+      
+ Legal context
+ European Union law
+Recital and recitals to in the preamble to Regulation No 469/are worded as follows:
+      
+‘(1)      Council Regulation (EEC) No 1768/of June concerning the creation of a supplementary protection certificate for
+         medicinal products [OJ L 182, p. 1] has been substantially amended several times. In the interests of clarity and rationality
+         the said Regulation should be codified. 
+      
+…
+(4)      At the moment, the period that elapses between the filing of an application for a patent for a new medicinal product and authorisation
+         to place the medicinal product on the market [“MA”] makes the period of effective protection under the patent insufficient
+         to cover the investment put into the research.
+      
+(5)      This situation leads to a lack of protection which penalises pharmaceutical research. 
+(6)      There exists a risk of research centres situated in the Member States relocating to countries that offer greater protection.
+         
+      
+(7)      A uniform solution at Community level should be provided for, thereby preventing the heterogeneous development of national
+         laws leading to further disparities which would be likely to create obstacles to the free movement of medicinal products within
+         the Community and thus directly affect the functioning of the internal market. 
+      
+(8)      Therefore, the provision of a [SPC] granted, under the same conditions, by each of the Member States at the request of the
+         holder of a national or European patent relating to a medicinal product for which [MA] has been granted is necessary. A regulation
+         is therefore the most appropriate legal instrument. 
+      
+(9)      The duration of the protection granted by the certificate should be such as to provide adequate effective protection. For
+         this purpose, the holder of both a patent and a certificate should be able to enjoy an overall maximum of years of exclusivity
+         from the time the medicinal product in question first obtains [MA] in the Community. 
+      
+(10)      All the interests at stake, including those of public health, in a sector as complex and sensitive as the pharmaceutical sector
+         should nevertheless be taken into account. For this purpose, the certificate cannot be granted for a period exceeding five
+         years. The protection granted should furthermore be strictly confined to the product which obtained authorisation to be placed
+         on the market as a medicinal product.’ 
+      
+Article of Regulation No 469/2009, headed ‘Definitions’, provides as follows:
+      
+‘For the purposes of this Regulation, the following definitions shall apply:
+(a)      “medicinal product” means any substance or combination of substances presented for treating or preventing disease in human
+         beings …; 
+      
+(b)      “product” means the active ingredient or combination of active ingredients of a medicinal product; 
+(c)      “basic patent” means a patent which protects a product as such, a process to obtain a product or an application of a product,
+         and which is designated by its holder for the purpose of the procedure for grant of a certificate; 
+      
+(d)      “certificate” means the supplementary protection certificate;
+…’
+Article of Regulation No 469/2009, entitled ‘Scope’, is worded as follows: 
+      
+‘Any product protected by a patent in the territory of a Member State and subject, prior to being placed on the market as
+         a medicinal product, to an administrative authorisation procedure as laid down in Directive 2001/81/EC of the European Parliament
+         and of the Council of November on the Community code relating to medicinal products for human use [OJ L 311, p.
+         67] or Directive 2001/82/EC of the European Parliament and of the Council of November on the Community code relating
+         to veterinary medicinal products [OJ L 311, p. 1] may, under the terms and conditions provided for in this Regulation,
+         be the subject of a certificate.’ 
+      
+Article of Regulation No 469/2009, entitled ‘Conditions for obtaining a certificate’, provides as follows:
+      
+‘A certificate shall be granted if, in the Member State in which the application referred to in Article is submitted and
+         at the date of that application: 
+      
+(a)      the product is protected by a basic patent in force; 
+(b)      a valid authorisation to place the product on the market as a medicinal product has been granted in accordance with Directive
+         2001/83/EC or Directive 2001/82/EC, as appropriate; 
+      
+(c)      the product has not already been the subject of a certificate; 
+(d)      the authorisation referred to in point (b) is the first authorisation to place the product on the market as a medicinal product.’
+         
+      
+Article of Regulation No 469/2009, entitled ‘Subject matter of protection’, is worded as follows:
+      
+‘Within the limits of the protection conferred by the basic patent, the protection conferred by a certificate shall extend
+         only to the product covered by the authorisation to place the corresponding medicinal product on the market and for any use
+         of the product as a medicinal product that has been authorised before the expiry of the certificate.’ 
+      
+Article of Regulation No 469/2009, entitled ‘[e]ffects of the certificate’, provides that ‘[s]ubject to the provisions of
+         Article 4, the certificate shall confer the same rights as conferred by the basic patent and shall be subject to the same
+         limitations and the same obligations’.
+      
+ The European Patent Convention
+Under the heading ‘Extent of Protection’, Article of the Convention on the Grant of European Patents, signed on October
+         1973, in the amended version applicable at the time of the facts in the main proceedings (‘the European Patent Convention’),
+         provides as follows:
+      
+‘(1)      The extent of the protection conferred by a European patent or a European patent application shall be determined by the claims.
+         Nevertheless, the description and drawings shall be used to interpret the claims. 
+      
+(2)      For the period up to grant of the European patent, the extent of the protection conferred by the European patent application
+         shall be determined by the claims contained in the application as published. However, the European patent as granted or as
+         amended in opposition, limitation or revocation proceedings shall determine retroactively the protection conferred by the
+         application, in so far as such protection is not thereby extended.’ 
+      
+Article of the Protocol on the Interpretation of Article of the European Patent Convention, which forms an integral part
+         of the convention in accordance with Article 164(1) thereof, provides as follows:
+      
+‘Article should not be interpreted as meaning that the extent of the protection conferred by a European patent is to be
+         understood as that defined by the strict, literal meaning of the wording used in the claims, the description and drawings
+         being employed only for the purpose of resolving an ambiguity found in the claims. Nor should it be taken to mean that the
+         claims serve only as a guideline and that the actual protection conferred may extend to what, from a consideration of the
+         description and drawings by a person skilled in the art, the patent proprietor has contemplated. On the contrary, it is to
+         be interpreted as defining a position between these extremes which combines a fair protection for the patent proprietor with
+         a reasonable degree of legal certainty for third parties.’ 
+      
+ National law
+Section of the United Kingdom Patents Act (‘UK Patents Act 1977’), headed ‘[m]eaning of infringement’, provides as
+         follows:
+      
+‘(1)      Subject to the provisions of this section, a person infringes a patent for an invention if, but only if, while the patent
+         is in force, he does any of the following things in the United Kingdom in relation to the invention without the consent of
+         the proprietor of the patent, that is to say: 
+      
+(a)      where the invention is a product, he makes, disposes of, offers to dispose of, uses or imports the product or keeps it whether
+         for disposal or otherwise; 
+      
+…’ 
+Section of the UK Patents Act 1977, headed ‘[e]xtent of invention’, is worded as follows:
+      
+‘(1)      For the purposes of this Act an invention … for which a patent has been granted, shall, unless the context otherwise requires,
+         be taken to be that specified in a claim of the specification of the … patent … as interpreted by the description and any
+         drawings contained in that specification, and the extent of the protection conferred by a patent … shall be determined accordingly.
+         
+      
+…
+(3)      The Protocol on the Interpretation of Article of the European Patent Convention (which Article contains a provision corresponding
+         to subsection (1) above) shall, as for the time being in force, apply for the purposes of subsection (1) above as it applies
+         for the purposes of that Article.’ 
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+On July 1992, the University of Queensland submitted an application for a European patent which was registered by the European
+         Patents Office (EPO) under number EP and entitled ‘Vaccine against the papillomavirus’. The patent relates to methods
+         of production of papillomavirus-like particles (‘VLPs’) of the Human papillomavirus (‘HPV’) Type (HPV‑6) and Type (HPV‑11),
+         the VLPs per se and vaccines produced from or comprising VLPs. The mother patent was granted on March and is due to
+         expire on July 2012. There are many HPV genotypes, which are grouped according to the similarity of their DNA sequence.
+         
+      
+Claim Nos 1, and of the patent are worded as follows: 
+      
+‘(1)      A method of production of papillomvirus virus‑like particles (VLPs) of HPV‑or HPV‑6, including the steps of: 
+(i)      constructing: a recombinant DNA molecule which encodes a papillomavirus Lprotein of HPV-or HPV-6; or one or more recombinant
+         DNA molecules which encodes or encode a combination of papillomavirus Lprotein of HPV‑and a papillomavirus Lprotein
+         of HPV‑or which encodes or encode a combination of a papillomavirus Lprotein of HPV-and a papillomavirus Lprotein
+         of HPV‑6;
+      
+(ii)      transfecting a host cell with said recombinant DNA molecule or molecules so that virus‑like particles (VLPs) of HPV‑or
+         HPV‑are produced within the cell after expression of the Lprotein or of the combination of Land Lproteins; and 
+      
+(iii)      obtaining virus-like partciles (VLPs) of HP‑V11or HPV‑from the host cells. 
+…
+16.      Virus-like particles (VLPs) of HPV‑or HPV‑obtainable by a method according to any one of the preceding claims. 
+17.      A vaccine produced from papillomavirus virus-like particles (VLPs) of HPV‑or HPV‑obtainable by a method according to
+         any one of claims to 15.’ 
+      
+Relying on that patent and the MA granted on September by the European Medicines Agency (EMA) to Sanofi Pasteur MSD
+         SNC for the medicinal product Gardasil containing HPV‑6, HPV‑11, HPV‑and HPV‑purified proteins obtained from yeast cells
+         (Saccharomyces cerevisiae), the University of Queensland submitted SPC applications on February covering a combination
+         of VLPs of types HPV‑6, HPV‑11, HPV‑and HPV‑(SPC/GB07/014), the HPV‑VLP alone (SPC/GB/015) and the HPV‑VLP alone
+         (SPC/GB07/016). 
+      
+The University of Queensland is also the holder of European patent EP B1, entitled ‘Vaccine against Human Papillomavirus
+         (Type 18)’, the subject of a divisional patent application which was granted on March and is due to expire on the same
+         date as the parent patent, namely on July 2012. 
+      
+Relying on that patent and on the MA granted for Gardasil, the University of Queensland filed an application with the Patent
+         Office on March for a SPC covering the HPV‑VLP (SCP/GB07/021). Moreover, relying on the same patent but on the MA
+         granted on September by the EMA to GlaxoSmithKline Biologicals SA for the medicinal product Cervarix containing purified
+         HPV‑and HPV‑proteins obtained from insect cells (Trichoplusia ni), the University of Queensland applied on December
+         for two other SPCs covering HPV‑VLPs (SPC/GB07/082) and a combination of HPV‑and HPV‑VLPs (SPC/GB/084), respectively.
+         
+      
+Lastly, the University of Queensland is the holder of a third European Patent, registered under number EP B1, entitled
+         ‘polynucleotide segment of the HPV‑genome’. That patent, which was also the subject of a divisional patent application,
+         was granted on July and is also due to expire on July 2012. 
+      
+Relying on that patent and the MA granted for Gardasil, the University of Queensland filed an application on February for a SPC covering the HPV‑VLP alone (SPC/GB07/017). Furthermore, relying on that patent but, additionally, on the MA granted
+         for Cervarix, the University of Queensland applied on December for a SPC covering the HPV‑VLP (SPC/GB07/081). 
+      
+By decision of September 2010, the Patent Office rejected all the SPC applications submitted to it, either because the
+         combination of active ingredients in question was not, as such, claimed in the patents concerned (SPC/GB07/and SPC/GB07/084),
+         or because, while the applications related to individual active ingredients, claimed as such in the patents concerned, the
+         MAs provided in support of the SPC applications related to medicinal products containing other active ingredients, not claimed
+         as such in any of those patents (SPC/GB07/015, SPC/GB07/016, SPC/GB07/017, SPC/GB07/021, SPC/GB07/and SPC/GB07/082). 
+      
+By application of October 2010, the University of Queensland brought an action against the Patent Office’s decision before
+         the referring court. 
+      
+In those circumstances, the High Court of Justice of England and Wales, Chancery Division (Patents Court) decided to stay
+         the proceedings before it and to refer the following questions to the Court for a preliminary ruling: 
+      
+‘(1)      Regulation No 469/… recognises amongst the other purposes identified in the recitals, the need for the grant of a SPC
+         by each of the Member States of the Community to holders of national or European patents to be under the same conditions,
+         as indicated in recitals and [of the Regulation]. In the absence of Community harmonisation of patent law, what is meant
+         in Article 3(a) of the Regulation by “the product is protected by a basic patent in force” and what are the criteria for deciding
+         this? 
+      
+(2)      In a case like the present one involving a medicinal product comprising more than one active ingredient, are there further
+         or different criteria for determining whether or not “the product is protected by a basic patent” according to Article 3(a)
+         of … Regulation [No 469/2009] and, if so, what are those further or different criteria? 
+      
+(3)      Is one of these further or different criteria whether the active ingredients are admixed together rather than being delivered
+         in separate formulations but at the same time?
+      
+(4)      For the purposes of Article 3(a) [of the Regulation], is a multi‑disease vaccine comprising multiple antigens “protected by
+         a basic patent” if one antigen of the vaccine is “protected by the basic patent in force”? 
+      
+(5)      In a case like the present one involving a medicinal product comprising more than one active ingredient, is it relevant to
+         the assessment of whether or not “the product is protected by a basic patent” according to Article 3(a) [of Regulation No 469/2009]
+         that the basic patent is one of a family of patents based on the same original patent application and comprising a parent
+         patent and two divisional patents which between them protect all the active ingredients in the medicinal product? 
+      
+(6)      In a case like the present one involving a basic patent with claims to “a process to obtain a product” in the sense of Article
+         1(c) [of Regulation No 469/2009], does the “product” of Article 3(a) [of the Regulation] have to be obtained directly by means
+         of that process? 
+      
+…
+(7)      Does … Regulation [No 469/2009] and, in particular, Article 3(b), permit the grant of a [SPC] for a single active ingredient
+         where: 
+      
+(a)      a basic patent in force protects the single active ingredient within the meaning of Article 3(a) of the … Regulation; and
+         
+      
+(b)      a medicinal product containing the single active ingredient together with one or more active ingredients is the subject of
+         a valid authorisation granted in accordance with Directive 2001/83/EC or [Directive] 2001/82/EC which is the first [MA] that
+         places the single active ingredient on the market?
+      
+(8)      Does the answer to Question differ depending on whether the authorisation is for the single active ingredient admixed with
+         the one or more other active ingredients rather than being delivered in separate formulations but at the same time?’ 
+      
+ Consideration of the questions referred
+The first subparagraph of Article 104(3) of its Rules of Procedure provides that where a question referred for a preliminary
+         ruling is identical to a question on which the Court has already ruled, or where the answer to such a question may be clearly
+         deduced from existing case-law, the Court may, after hearing the Advocate General, at any time give its decision by reasoned
+         order. The Court considers that that is the case here.
+      
+The questions referred in the present case are, for all essential purposes, similar to those referred by the Court of Appeal
+         (England and Wales) (Civil Division) and by the referring court in the cases which gave rise to the judgments of November
+         in Case C‑322/Medeva [2011] ECR I‑and Case C‑422/Georgetown University and Others [2011] ECR I‑0000. 
+      
+Consequently, the answers and clarifications given by the Court in those judgments are equally valid as regards the question
+         raised by the referring court in the present case.
+      
+ Questions to By its first five questions, which it is appropriate to consider together, the referring court asks, in essence, whether Article
+         3(a) of Regulation No 469/must be interpreted as precluding the competent industrial property office of a Member State
+         from granting a SPC where the active ingredients specified in the SPC application include active ingredients not identified
+         in the wording of the claims of the basic patent relied in support of that application. 
+      
+As European Union law currently stands, the provisions concerning patents have not yet been made the subject of harmonisation
+         at European Union level or of an approximation of laws (see Case C‑392/Farmitalia [1999] ECR I‑5553, paragraph 26, and Medeva, paragraph 22). 
+      
+Accordingly, in the absence of European Union harmonisation of patent law, the extent of patent protection can be determined
+         only in the light of the non‑European Union rules which govern patents (see Farmitalia, paragraph 27, and Medeva, paragraph 23). 
+      
+It should be noted that Regulation No 469/establishes a uniform solution at European Union level by creating a SPC which
+         may be obtained by the holder of a national or European patent under the same conditions in each Member State. It thus aims
+         to prevent the heterogeneous development of national laws leading to further disparities which would be likely to create obstacles
+         to the free movement of medicinal products within the European Union and thus directly affect the establishment and functioning
+         of the internal market (see Case C‑350/Spain v Council [1995] ECR I‑1985, paragraphs and 35; Case C‑127/Hässle [2003] ECR I‑14781, paragraph 37; Case C‑482/AHP Manufacturing [2009] ECR I‑7295, paragraph 35; and Medeva, paragraph 24).
+      
+Moreover, it should be recalled that Article of Regulation No 469/provides that any SPC confers the same rights as
+         conferred by the basic patent and is subject to the same limitations and the same obligations. It follows that Article 3(a)
+         of the regulation precludes the grant of a SPC relating to active ingredients which are not specified in the wording of the
+         claims of the basic patent (Medeva, paragraph 25).
+      
+The answer to the first five questions is, therefore, that Article 3(a) of Regulation No 469/must be interpreted as precluding
+         the competent industrial property office of a Member State from granting a SPC relating to active ingredients which are not
+         identified in the wording of the claims of the basic patent relied on in support of the SPC application. 
+      
+ Questions and By Questions and 8, which it is appropriate to consider together, the referring court asks, in essence, whether Article
+         3(b) of Regulation No 469/must be interpreted as not precluding the competent industrial property office of a Member
+         State from granting a SPC for an active ingredient specified in the wording of the claims of the basic patent relied on where
+         the medicinal product for which the MA is submitted in support of the SPC application contains not only that active ingredient
+         but also other active ingredients.  
+      
+Article 3(b) of Regulation No 469/does not, in principle, preclude the competent industrial property office of a Member
+         State from granting a SPC for an active ingredient specified in the wording of the claims of the basic patent relied on, where
+         the medicinal product for which the MA is submitted in support of the SPC application contains not only that active ingredient
+         but also other active ingredients (see Medeva, paragraph 42, and Georgetown University and Others, paragraph 35). 
+      
+In accordance with Article of Regulation No 469/2009, a SPC thus granted in connection with such a product confers, upon
+         the expiry of the patent, the same rights as were conferred by the basic patent in relation to the product, within the limits
+         of the protection conferred by the basic patent, as provided for in Article of the regulation. Accordingly, if, during the
+         period in which the patent was valid, the patent holder could oppose, on the basis of his patent, all use or certain uses
+         of his product in the form of a medicinal product consisting of such a product or containing it, the SPC granted in relation
+         to that product would confer on the holder the same rights for all uses of the product, as a medicinal product, which were
+         authorised before the expiry of the certificate (Medeva, paragraph 39, and Georgetown University and Others, paragraph 32). 
+      
+Moreover, where a product is protected by a number of basic patents in force, each of those patents may be designated for
+         the purpose of the procedure for the grant of a certificate but only one certificate may be granted for a basic patent (see
+         Case C‑181/Biogen [1997] ECR I‑357, paragraph 28; Medeva, paragraph 41; and Georgetown University and Others, paragraph 34). 
+      
+In view of the foregoing, the answer to Questions and is that Article 3(b) of Regulation No 469/must be interpreted
+         as meaning that, provided the other requirements laid down in Article are also met, that provision does not preclude the
+         competent industrial property office of a Member State from granting a SPC for an active ingredient specified in the wording
+         of the claims of the basic patent relied on where the medicinal product for which the MA is submitted in support of the SPC
+         application contains not only that active ingredient but also other active ingredients. 
+      
+ Question By Question 6, the referring court asks whether, in a case involving a basic patent relating to a process by which a product
+         is obtained, it is necessary for the purpose of granting a SPC, in the light in particular of Article 1(c) of Regulation No 469/2009,
+         for it to be possible for the ‘product’ to be obtained directly by means of that process. 
+      
+It is sufficient to point out that a patent protecting the process by which a ‘product’ within the meaning of Regulation No 469/is obtained may, in accordance with Article of the regulation, enable a SPC to be granted and, in that case, in accordance
+         with Article of the regulation, the SPC confers the same rights as conferred by the basic patent as regards the process
+         by which the product is obtained (see Medeva, paragraph 32). 
+      
+If the law applicable to such a patent so provides, a SPC granted on the basis of that patent will also extend the protection
+         of the process by which the product is obtained to the product thus obtained (see, to that effect, Medeva, paragraph 32). 
+      
+However, just as Article 3(a) of Regulation No 469/precludes the grant of a SPC relating to active ingredients which
+         are not specified in the wording of the claims of the basic patent (Medeva, paragraph 25), where the basic patent relied on in support of a SPC application relates to the process by which a product
+         is obtained, that provision also precludes a SPC being granted for a product other than that identified in the wording of
+         the claims of that patent as the product deriving from that process. The grant of a SPC is not conditional on whether it is
+         possible to obtain a product directly as a result of the process by which the product is obtained, where that process has
+         been the subject of a patent. 
+      
+The answer to Question is therefore that, in the case of a basic patent relating to a process by which a product is obtained,
+         Article 3(a) of Regulation No 469/precludes a SPC being granted for a product other than that identified in the wording
+         of the claims of that patent as the product deriving from the process in question. Whether it is possible to obtain the product
+         directly as a result of that process is irrelevant in that regard. 
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+1.      Article 3(a) of Regulation (EC) No 469/of the European Parliament and of the Council of May concerning the supplementary
+            protection certificate for medicinal products must be interpreted as precluding the competent industrial property office of
+            a Member State from granting a supplementary protection certificate relating to active ingredients which are not identified
+            in the wording of the claims of the basic patent relied on in support of the application for such a certificate. 
+2.      Article 3(b) of Regulation No 469/must be interpreted as meaning that, provided the other requirements laid down in Article
+            are also met, that provision does not preclude the competent industrial property office of a Member State from granting
+            a supplementary protection certificate for an active ingredient specified in the wording of the claims of the basic patent
+            relied on where the medicinal product for which the marketing authorisation is submitted in support of the supplementary protection
+            certificate application contains not only that active ingredient but also other active ingredients.
+3.      In the case of a basic patent relating to a process by which a product is obtained, Article 3(a) of Regulation No 469/precludes a supplementary protection certificate being granted for a product other than that identified in the wording of
+            the claims of that patent as the product deriving from the process in question. Whether it is possible to obtain the product
+            directly as a result of that process is irrelevant in that regard. 
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

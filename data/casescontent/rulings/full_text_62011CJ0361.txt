@@ -1,0 +1,166 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+January (
+*)
+‛Common Customs Tariff — Combined Nomenclature — Tariff classification — Multifunctional printers combining a laser printing module and a scanning module, with a copying function — CN code — Validity of Regulation (EC) No 1031/2008’
+In Case C-361/11,
+REQUEST for a preliminary ruling under Article TFEU from the Rechtbank Haarlem (Netherlands), made by decision of June 2011, received at the Court on July 2011, in the proceedings
+Hewlett-Packard Europe BV
+v
+Inspecteur van de Belastingdienst/Douane West, kantoor Hoofddorp,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, A. Borg Barthet, M. Ilešič, M. Safjan (Rapporteur) and M. Berger, Judges,
+Advocate General: P. Mengozzi,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on July 2012,
+after considering the observations submitted on behalf of:
+—
+Hewlett-Packard Europe BV, by H. de Bie and E. Zietse, advocaten,
+—
+the Netherlands Government, by C. Wissels and M. Noort, acting as Agents,
+—
+the European Commission, by L. Bouyon and B. Burggraaf, acting as Agents, assisted by E. Valerdi Rodriguez, as expert,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Council Regulation (EC) No 254/of January (OJ L 28, p. 16) (‘the CN’), and also the validity of customs law corresponding to CN code as regards multifunctional printers combining a laser printing module and a scanning module, with a copying function.
+The request has been made in proceedings between Hewlett-Packard Europe BV (‘Hewlett-Packard’) and the Inspecteur van de Belastingdienst/Douane West, kantoor Hoofddorp (Inspector of the Tax and Customs Authority West, Hoofddorp office) (‘the customs authority’) concerning the tariff classification of multifunctional printers released for free circulation in April 2009.
+Legal context
+The CN
+The customs classification of goods imported into the European Union is governed by the CN. The version thereof in force on the date of the facts in the main proceedings is that resulting from Commission Regulation (EC) No 1031/of September amending Annex I to Regulation No 2658/(OJ L 291, p. 1).
+The CN is based on the Harmonised Commodity Description and Coding System (‘HS’) drawn up by the Customs Cooperation Council, now the World Customs Organisation, and established by the International Convention on the Harmonised Commodity Description and Coding System (‘the HS Convention’) concluded at Brussels on June 1983, which, together with the Protocol of Amendment thereto of June 1986, was approved on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1).
+Under Article 3(1) of the HS Convention, each Contracting Party undertakes to ensure that its customs tariff and statistical nomenclatures will be in conformity with the HS, to use all of the headings and subheadings of the HS without addition or modification, together with their related numerical codes, and to follow the numerical sequence of that system. Each Contracting Party also undertakes to apply the General Rules for the interpretation of the HS and all the section, chapter and subheading notes of the HS, and not to modify their scope.
+Article 9(1) and (2) of Regulation No 2658/is worded as follows:
+‘1.   Measures relating to the matters set out below shall be adopted in accordance with the procedure defined in Article 10:
+(a)
+application of the combined nomenclature and the Taric concerning in particular:
+—
+the classification of goods in the nomenclatures referred to in Article 8,
+—
+[additional] notes,
+...
+(b)
+amendments to the combined nomenclature to take account of changes in requirements relating to statistics or to commercial policy;
+(c)
+amendments to Annex II;
+(d)
+amendments to the combined nomenclature and adjustments to duties in accordance with decisions adopted by the Council or the Commission;
+(e)
+amendments to the combined nomenclature intended to adapt it to take account of technological or commercial developments or aimed at the alignment or clarification of texts;
+(f)
+amendments to the combined nomenclature resulting from changes to the harmonised system nomenclature;
+...
+2.   The provisions adopted under paragraph shall not amend:
+—
+the rates of customs duties,
+...’
+Part Two of the CN, which contains the table of customs duties, includes Section XVI, headed ‘Machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles’. Section XVI contains Chapter 84, entitled ‘Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof’.
+The table of customs duties in Chapter of the CN has been amended a number of times. In the version thereof resulting from Commission Regulation (EC) No 1719/of October amending Annex I to Regulation No 2658/(OJ L 286, p. 1), which entered into force on January 2006, that table included a heading 8471, which read as follows:
+‘Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included;
+...
+‐ Input or output units, whether or not containing storage units in the same housing:
+– – Printers
+...’
+Goods coming under CN code were exempt from customs duties.
+Heading of the CN was worded as follows:
+‘Photocopying apparatus incorporating an optical system or of the contact type and thermo-copying apparatus:
+ 
+‐ Electrostatic photocopying apparatus:
+‐ ‐ Operating by reproducing the original image directly onto the copy (direct process)
+‐ ‐ Operating by reproducing the original image via an intermediate onto the copy (indirect process)’.
+Goods coming under CN code were exempt from customs duties, whilst those coming under CN code were subject to a customs duty rate of 6%.
+Regulation No 1719/was implicitly repealed, with effect from January 2007, by Commission Regulation (EC) No 1549/of October amending Annex I to Regulation No 2658/(OJ L 301, p. 1). Regulation No 1549/deleted heading and subheading of the CN.
+Regulation No 1031/2008, which entered into force on January 2009, did not restore that heading and subheading of the CN.
+Moreover, Regulation No 1549/amended heading of the CN, which henceforth reads as follows:
+‘Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof:
+...
+‐ Other printers, copying machines and facsimile machines, whether or not combined:
+‐ ‐ Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network:
+‐ ‐ ‐ Machines performing the functions of copying and facsimile transmission, whether or not with a printing function, with a copying speed not exceeding monochrome pages per minute
+‐ ‐ ‐ Other:
+‐ ‐ ‐ ‐ Machines performing a copying function by scanning the original and printing the copies by means of an electrostatic print engine
+...’
+Goods coming under CN code are subject to a customs duty rate of 6%.
+Regulation No 1031/did not amend either the wording of that heading and those subheadings or the rate of customs duties applicable to goods coming under CN code 91.
+The WTO Agreements
+By Council Decision 94/800/EC (of December 1994) concerning the conclusion on behalf of the European Community, as regards matters within its competence, of the agreements reached in the Uruguay Round multilateral negotiations (1986-1994) (OJ L 336, p. 1), the Council approved the Agreement establishing the World Trade Organization (WTO) and the agreements contained in Annexes to to that agreement (‘the WTO agreements’), including the Understanding on Rules and Procedures Governing the Settlement of Disputes (DSU).
+In accordance with the DSU, a Dispute Settlement Body (DSB) was established within the WTO. Article 3(2) of the DSU states:
+‘… The Members recognise that [the dispute settlement procedure of the WTO] serves to preserve the rights and obligations of Members under the covered agreements [listed in Appendix to this Understanding], and to clarify the existing provisions of those agreements in accordance with customary rules of interpretation of public international law. Recommendations and rulings of the DSB cannot add to or diminish the rights and obligations provided in the covered agreements.’
+Article of the DSU, which is headed ‘Surveillance of Implementation of Recommendations and Rulings’, provides:
+‘1.   Prompt compliance with recommendations or rulings of the DSB is essential in order to ensure effective resolution of disputes to the benefit of all Members.
+...
+3.   At a DSB meeting held within days after the date of adoption of the panel or Appellate Body report, the Member concerned shall inform the DSB of its intentions in respect of implementation of the recommendations and rulings of the DSB. If it is impracticable to comply immediately with the recommendations and rulings, the Member concerned shall have a reasonable period of time in which to do so. The reasonable period of time shall be:
+(a)
+the period of time proposed by the Member concerned, … approved by the DSB; or, in the absence of such approval,
+(b)
+a period of time mutually agreed by the parties to the dispute …; or, in the absence of such agreement,
+(c)
+a period of time determined through binding arbitration …
+...’
+The General Agreement on Tariffs and Trade (GATT) of (‘the GATT’), and, in particular, the Understanding on the Interpretation of Article II:1(b) of the GATT are part of the Agreement establishing the WTO.
+The Agreement on trade in information technology products, made up of the Ministerial Declaration on trade in information technology products adopted on December at the first Conference of the WTO in Singapore, and its annexes and attachments (‘the ITA’), and the Communication on its implementation were approved, on behalf of the Community, by Council Decision 97/359/EC of March concerning the elimination of duties on information technology products (OJ L 155, p. 1).
+The ITA stipulates, in its first paragraph, that each Contracting Party’s trade regime should evolve in a manner that enhances market access opportunities for information technology products. Under paragraph of the ITA, each party is to bind and eliminate customs duties and other duties and charges of any kind, within the meaning of Article II:1(b) of the GATT, with respect to certain products classified in the HS, including ‘automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included’ and ‘Digital electrostatic photocopying apparatus operating by reproducing the original image via an intermediate onto the copy (indirect process)’.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+The order for reference indicates that the customs authority issued to Hewlett-Packard a request for the payment of customs duties and additional duties for goods released for free circulation between and April 2009. Those duties included the ones relating to the declaration for the import of multifunctional printers under CN code 91.
+By decision of July 2009, the customs authority rejected the claim brought by Hewlett-Packard against that request for payment. Hewlett-Packard brought an action against that decision before the Rechtbank Haarlem (District Court, Haarlem).
+According to the referring court, those printers, which are intended for use in households and also small- and medium-sized businesses, combined a laser printing module and a scanning module. They possessed scanning and printing functions when connected directly or through a network to an automatic data-processing machine. They also had a copying function, which could be used independently from an automatic data-processing machine. Some of the printers at issue also had a facsimile (fax) function.
+Printing and copying was done through the same printer unit, which was the principal component of the printers in question. Although the copying function required the document to be scanned first, the printing speed was identical for the printing and copying functions. The referring court also mentions that the different paper trays used on the printers in question could be used for both copying and printing. The sheet feeder could be used for copying, scanning and fax functions.
+The referring court observes that, under the CN applicable before January 2007, multifunctional printers could be classified, according to their objective characteristics and properties, under CN codes or 00, which provided for an exemption from customs duties, or under CN code 00, to which a customs duty of 6% applied.
+The referring court adds that, in Joined Cases C-362/and C-363/Kip Europe and Others [2008] ECR I-9489, the Court provided indications on the CN classification of multifunctional machines and that, on the basis of those indications, it is possible that, if they had been imported before January 2007, multifunctional printers such as those at issue in the main proceedings would have been classified under CN code 20.
+However, due to amendments introduced into the CN by Regulation No 1549/2006, which entered into force on January 2007, such printers could no longer be classified under CN code and came under CN code 91, which attracts a customs duty of 6%.
+It follows that if those printers had been classified before January under CN code 20, the customs duty would have gone from 0% to 6% following the entry into force of Regulation No 1549/2006.
+The referring court seeks to know whether, in such circumstances, the Commission acted in a manner contrary to Article 9(2) of Regulation No 2658/in amending the CN through Regulation No 1549/2006.
+The referring court refers to a judgment of the Cour d’appel de Paris (Court of Appeal, Paris) (France) of May 2010, which concerned multifunctional printers having the same objective characteristics and properties as the printers at issue in the main proceedings in this case. In that judgment, ‘not being principally a copier or scanner, the printer function is predominant; in fact ..., the printer represents not only most of the volume and weight of the machine, but also its value; consequently, the machine in question comes under [CN code 60]’.
+The referring court also observes that, according to Hewlett-Packard, the printers at issue in the main proceedings come under the ITA and should accordingly be exempt from customs duties.
+In those circumstances the Rechtbank Haarlem decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘1.
+In the light of its examination … concerning print and copying speeds, the Rechtbank [Haarlem] requests the Court of Justice to provide it with further guidance on the answer to the question of the significance to be attached to a situation in which the print and copying speeds are determined by the same printing unit and the difference in speed between those functions is attributable solely to the fact that a document to be copied must first be scanned before printing can take place?
+2.
+In the light of its examination ... concerning the number of paper trays and the presence of a sheet feeder, the Rechtbank [Haarlem] requests the Court of Justice to clarify whether its guidance in the judgment in [Kip Europe and Others] in that connection must be interpreted as meaning that the presence of more than one paper tray and a sheet feeder are objective characteristics which indicate that the device concerned is a copying device rather than a printing unit?
+3.
+In the light of its examination ... concerning the appraisal of the question as to what is the essential characteristic of the devices here at issue, in the light of, inter alia, the criteria laid down by the Cour d’appel de Paris in its judgment of May in this matter with regard to devices similar to those here at issue, the Rechtbank [Haarlem] requests the Court of Justice to provide it with further guidance on the question whether the value and weight of the central printing unit (the print engine) must be attributed to the print function or to the copying function and whether the value and weight of the scanner must be fully or partly attributed to the copying function?
+4.
+In the light of the examination carried out by the Rechtbank [Haarlem] ..., is the rate of customs duty of 6% specified for CN code by Regulation No 1031/valid in so far as it applies to MFPs [multifunctional printers] which, according to the guidance given by the Court of Justice in its judgment in [Kip Europe and Others], ought to have been classified under CN code if they were imported before January 2007?’
+Consideration of the questions referred
+It should be observed as a preliminary point that, in the context of the procedure laid down by Article TFEU providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. In that light, the Court may have to reformulate the questions referred to it (see, inter alia, Case C-334/Krüger [1997] ECR I-4517, paragraphs and 23, and Case C-249/Byankov [2012] ECR, paragraph 57).
+In the present case, it is apparent from the order for reference that, by its four questions, which it is appropriate to consider together, the referring court seeks to know, in essence, whether Regulation No 1031/is valid in so far as it classifies under CN code multifunctional printers such as those at issue in the main proceedings, combining a laser printing module and a scanning module, with a copying function, released for free circulation in April 2009.
+It should be observed in that regard, first, that it is not disputed that, on the date of their release for free circulation, multifunctional printers such as those at issue in the main proceedings were classified under CN code 91, which is subject to a 6% customs duty.
+Second, it should be noted that CN code did not exist in the version of the CN applicable before January 2007. It was introduced into the CN by Regulation No 1549/and retained in Regulation No 1031/2008.
+Moreover, according to settled case-law, the Council has conferred upon the Commission, acting in cooperation with the customs experts of the Member States, a broad discretion to define the subject-matter of tariff headings falling to be considered for the classification of particular goods. However, the Commission’s power to adopt the measures mentioned in Article 9(1)(a), (b), (d) and (e) of Regulation No 2658/does not authorise it to alter the subject-matter of the tariff headings which have been defined on the basis of the HS established by the Convention whose scope the European Union has undertaken, under Article thereof, not to modify (see Case C-267/France v Commission [1995] ECR I-4845, paragraphs and 20; Case C-15/Kawasaki Motors Europe [2006] ECR I-3657, paragraph 35; and Joined Cases C-522/and C-65/Dinter and Europol Frost-Food [2009] ECR I-10333, paragraph 32).
+Furthermore, it follows from Article 9(2) of Regulation No 2658/that the Commission has no power to act on its own to amend customs duty rates.
+It follows from the foregoing that, should it be established that printers such as those at issue in the main proceedings, imported before January 2007, ought to have been classified under CN code and, therefore, ought to have been exempted from customs duties, whilst those same printers, imported after that date, were subject to a 6% customs duty, then the Commission exceeded the powers conferred on it by Article of Regulation No 2658/87.
+Accordingly, it must be determined, in accordance with the referring court’s request, whether, given their objective characteristics and properties, such printers ought to have been classified before January under CN code or CN code 00.
+It should be borne in mind that heading of the CN referred to ‘automatic data-processing machines’ and that CN code of the CN related to ‘printers’. Heading of the CN referred to ‘photocopying apparatus incorporating an optical system or of the contact type and thermo-copying apparatus’ and CN code referred to ‘electrostatic photocopying apparatus operating by reproducing the original image via an intermediate onto the copy (indirect process)’.
+According to Hewlett-Packard, if printers such as those at issue in the main proceedings had been imported before January 2007, they would have been classified under CN code 20.
+The Kingdom of the Netherlands and the Commission argue that such printers would have been classified under CN code 00.
+It should be remembered, first of all, that according to the Court’s case-law, heading of the CN included, in addition to photocopiers incorporating an optical system and of the direct reproduction type, those which incorporated an intermediate for reproduction by the indirect process. In that case, reproduction by the indirect process was effected by converting the image into digital data (see, to that effect Case C-67/Rank Xerox [1997] ECR I-5401, paragraph 21).
+The Court has also held that, since it classifies machines capable of performing printing, electronic scanning and reproduction operations under CN code on the ground that none of the functions corresponding to those operations can be regarded as giving those machines their essential character, without, in principle, requiring all machines having those three functions to be classified as photocopiers, the relevant Commission regulation was valid (see, to that effect, Kip Europe and Others, paragraph 62).
+In the present case, the characteristics of the printers at issue in the main proceedings, as referred to in paragraphs and above, indicate that, similarly to the machines at issue in Kip Europe and Others, they perform a number of functions, namely scanning, printing, copying and in some cases fax, none of which can be regarded as giving them their essential character.
+In those circumstances, if the printers at issue in the main proceedings had been imported before January 2007, then following the case-law they would have been classified under CN code 00.
+Consequently, in classifying multifunctional printers such as those at issue in the main proceedings under CN code 91, the Commission did not amend the 6% customs duty applicable to them. The Commission did not, therefore, exceed the powers conferred on it by Article of Regulation No 2658/87.
+Secondly, under the ITA, a WTO Panel published its reports in Cases WT/DS375/R, WT/DS376/R and WT/DS377/R (European Communities and its Member States – Tariff treatment of certain information technology products) on August 2010, which were adopted by the DSB on September 2010.
+Those reports state inter alia that ‘because the [multifunctional machines connected to an automatic data-processing machine] at issue are not photocopiers incorporating an optical system that operate by reproducing the original image onto the copy via an intermediate (indirect process), they cannot fall within the scope of the concession in subheading of the [list of European Community concessions in the Schedule to the GATT], regardless of the primary, secondary, or equivalent nature of the copying function vis-à-vis these machines’ other functions’.
+The reasonable time period granted to the European Union to implement those reports adopted by the DSB expired on June 2011.
+The Commission took account of the reports of the WTO Panel in adopting Implementing Regulation (EU) No 620/of June amending Annex I to Regulation No 2658/(OJ L 166, p. 16). Under Article thereof, that regulation entered into force on July 2011.
+Recital in the preamble to that regulation states, ‘[f]ollowing the WTO Panel Report, digital copying should not constitute photocopying under the GATT and copying speed should not be the sole classification criterion. [CN code 31] and the corresponding duty rate should therefore be amended accordingly’. The Annex to that regulation thus provides that CN code is deleted.
+At the hearing, the Commission indicated that, following that deletion, multifunctional printers could be classified under CN code 20, thereby attracting a customs duty of 2.2%, or under CN code and be exempt from customs duties. Those two CN codes are worded as follows:
+‘– – – Machines having digital copying as principal function, where the copying is performed by scanning the original and printing the copies by means of an electrostatic print engine
+...
+– – – Other’.
+According to the Court’s settled case-law, given their nature and purpose, the WTO agreements are not in principle among the rules in the light of which the Court of Justice is to review the legality of measures adopted by the European Union institutions. It is only where the European Union intends to implement a particular obligation assumed in the context of the WTO or where the European Union measure refers expressly to specific provisions of the WTO agreements that the Court can review the legality of the measure at issue in the light of the WTO rules (see Case C-377/Van Parys [2005] ECR I-1465, paragraphs and 40, and judgment of November in Joined Cases C-319/and C-320/X and X, paragraph 35).
+In any event, for the period prior to the expiry date of the reasonable period granted to the European Union in accordance with the DSU to comply with the recommendations or decisions of the DSB, the European Union Courts cannot conduct a review of the lawfulness of the European Union measures in the light of the WTO rules, without rendering that reasonable period ineffective (see, to that effect, Case C-93/P Biret International v Council [2003] ECR I-10497, paragraphs and 62, and X and X, paragraph 41).
+Moreover, although Regulation No 620/reflects the intention of the European Union to implement the WTO Panel Report adopted by the DSB, to which it makes specific reference, that regulation is subsequent to the facts of the dispute in the main proceedings and, under Article thereof, has no retroactive effect whatsoever.
+Consequently, in those circumstances, it is not possible to place retroactive reliance on the Panel Reports in the assessment of the validity of Regulation No 1031/in so far as it classifies printers such as those at issue in the main proceedings under CN code 91.
+In the light of the foregoing, the answer to the questions referred is that consideration of the question raised has disclosed no factor of such a kind as to affect the validity of Regulation No 1031/in so far as it classifies under CN code multifunctional printers, such as those at issue in the main proceedings, combining a laser printing module and a scanning module, with a copying function, released for free circulation in April 2009.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Consideration of the question raised has disclosed no factor of such a kind as to affect the validity of Commission Regulation (EC) No 1031/of September amending Annex I to Council Regulation (EEC) No 2658/on the tariff and statistical nomenclature and on the Common Customs Tariff, in so far as it classifies under CN code of the Combined Nomenclature, contained in Annex I to Regulation No 2568/87, as amended by Council Regulation (EC) No 254/of January 2000, multifunctional printers, such as those at issue in the main proceedings, combining a laser printing module and a scanning module, with a copying function, released for free circulation in April 2009.
+ 
+[Signatures]
+(
+*)   Language of the case: Dutch.
+Top  
+ 

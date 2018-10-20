@@ -1,0 +1,384 @@
+
+Case C-418/Société Papillon
+v
+Ministère du Budget, des Comptes publics et de la Fonction publique
+(Reference for a preliminary ruling from the Conseil d’État (France))
+(Freedom of establishment – Direct taxation – Corporation tax – Group taxation regime – Resident parent company – Resident sub-subsidiaries held through a non-resident subsidiary)
+Summary of the Judgment
+Freedom of movement for persons – Freedom of establishment – Tax legislation – Corporation tax
+(Art. of the EC Treaty (now, after amendment, Art. EC))
+Article of the Treaty (now, after amendment, Article EC) is to be interpreted as meaning that it precludes legislation
+         of a Member State by virtue of which a group tax regime is made available to a parent company which is resident in that Member
+         State and holds subsidiaries and sub-subsidiaries which are also resident in that State, but is unavailable to such a parent
+         company if its resident sub-subsidiaries are held through a subsidiary which is resident in another Member State.
+      
+Such legislation gives rise to unequal treatment based on the place of the registered office of the subsidiary through which
+         the resident parent company holds its resident sub-subsidiaries. Inasmuch as, from a taxation perspective, it puts Community
+         situations at a disadvantage compared with purely domestic situations which are objectively comparable having regard to the
+         objective pursued by that legislation, the legislation in question thus constitutes a restriction which is, in principle,
+         prohibited by the provisions of the Treaty relating to the freedom of establishment.
+      
+That restriction cannot be justified by the allocation of the power to impose taxes between Member States, since the question
+         whether the profits and losses of companies belonging to the group should be taken into account arises only in relation to
+         companies which are resident in a single Member State. That also excludes, prima facie, a risk of tax avoidance.
+      
+Nor can that legislation be justified by the need to ensure the coherence of the tax system. It is true that, in refusing
+         to extend the benefit of the tax integration regime to a resident parent company wishing to include its resident sub-subsidiaries
+         in that regime where it holds those sub-subsidiaries through a non-resident subsidiary, the legislation in question has the
+         effect of ensuring the coherence of that regime. Should the subsidiary be a non-resident company, the losses recorded by the
+         sub-subsidiary would be taken into account twice, first, in the form of the direct losses of that sub-subsidiary and, secondly,
+         in the form of a provision made by the parent company for the depreciation of its holding in that subsidiary. That is because
+         internal transactions would not be neutralised since the non-resident subsidiary is not subject to the tax integration regime.
+         In such circumstances, resident companies would enjoy the advantages of the tax integration regime, as regards the consolidation
+         of results and the immediate taking into account of the losses of all the companies subject to that tax regime, without the
+         losses of the sub-subsidiary and the provisions made by the parent company being capable of being neutralised. Accordingly,
+         the direct link which exists between the tax advantages and the neutralisation of intra-group transactions, which avoids,
+         inter alia, the use of losses twice at the level of resident companies falling under the tax integration regime, would thus
+         be eliminated, thereby affecting the coherence of that regime.
+      
+However, where measures which are less restrictive of the freedom of establishment exist for the purposes of attaining the
+         objective of ensuring the coherence of the tax system, such legislation goes beyond what is necessary in order to attain that
+         objective.  First, practical difficulties, such as the difficulty in ascertaining whether a risk exists that losses may be
+         used twice where a non‑resident subsidiary is interposed between the parent company and its sub‑subsidiaries, cannot of themselves
+         justify the infringement of a freedom guaranteed by the Treaty. Next, the Member States may request from the competent authorities
+         of the other Member States all information which may be relevant in assessing, inter alia, the corporation tax payable. Lastly,
+         where parent companies which are resident in a Member State wish to benefit from the tax integration regime together with
+         sub-subsidiaries held through subsidiaries resident in another Member State, the tax authorities of the first State may request
+         those subsidiaries to provide the evidence the authorities consider necessary in order for the transparency of the provisions
+         made by the subsidiaries to be fully guaranteed. The legislation in question prevents, in every case, those resident companies
+         from proving that there is no risk of losses being used twice under the tax integration regime.
+      
+(see paras 30-32, 39-40, 46, 48-51, 53-55, 58, 60-63, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+November (*)
+      
+(Freedom of establishment – Direct taxation – Corporation tax – Group taxation regime – Resident parent company – Resident sub-subsidiaries held through a non-resident subsidiary)
+In Case C‑418/07,
+REFERENCE for a preliminary ruling under Article EC from the Conseil d’État (France), made by decision of July 2007,
+         received at the Court on September 2007, in the proceedings
+      
+Société Papillon
+v
+Ministère du Budget, des Comptes publics et de la Fonction publique,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts (Rapporteur), President of the Chamber, R. Silva de Lapuerta, E. Juhász, G. Arestis and J. Malenovský,
+         Judges,
+      
+Advocate General: J. Kokott,
+Registrar: B. Fülöp, Administrator,
+having regard to the written procedure and further to the hearing on June 2008,
+after considering the observations submitted on behalf of:
+–        Société Papillon, by G. Calisti, avocat,
+–        the French Government, by G. de Bergues and J.‑C. Gracia, acting as Agents,
+–        the German Government, by C. Blaschke, acting as Agent,
+–        the Spanish Government, by M. Muñoz Pérez, acting as Agent,
+–        the Netherlands Government, by C. Wissels, C. ten Dam and M. de Grave, acting as Agents,
+–        the Commission of the European Communities, by R. Lyal and J.‑P. Keppenne, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling relates to the interpretation of Article of the EC Treaty (now, after amendment,
+         Article EC).
+      
+That reference was made in proceedings between Société Papillon (‘Papillon’), established in France, and the Ministère du
+         Budget, des Comptes publics et de la Fonction publique (French Ministry of the Budget, Public Accounts and the Civil Service)
+         relating to the refusal by the latter to acknowledge Papillon’s entitlement to benefit from the scheme known as the ‘tax integration’
+         regime.
+      
+ Legal context
+In the version applicable to the facts of the dispute in the main proceedings, Article 223A of the Code général des impôts
+         (French General Tax Code) (‘the CGI’) stated:
+      
+‘A company … can render itself the sole party liable for corporation tax due on the overall profits of the group formed by
+         it and the  companies of which it is the holder, continuously throughout the financial year, directly or indirectly through
+         companies in the group, of at least 95% of the capital …  . The companies in the group remain obliged to declare their results
+         … . Only those companies which have given their consent and whose results are subject to corporation tax may be members of
+         the group …’.
+      
+The national court states that the effect of Article 223A of the CGI is that the parent company of the group is entirely free
+         to determine the membership of that group. However, the parent company may hold another of the group’s member companies indirectly
+         only through a company which is itself a member of the integrated group and therefore subject to corporation tax in France.
+      
+Article 223B of the CGI provides that ‘the overall profit is to be determined by the parent company through the algebraic
+         sum of the results of each of the companies in the group …’.
+      
+Articles 223B, 223D and 223F of the CGI provide, inter alia, for the neutrality of intra-group transactions, such as provisions
+         for doubtful claims or risks between the companies in the group, waivers of debt or intra-group payments, provisions for depreciation
+         of shares held in other companies in the group, and the transfer of fixed assets within the group. 
+      
+ The dispute in the main proceedings and the questions referred 
+During the tax years at issue in the main proceedings, that is to say, from January to December 1991, Papillon held
+         100% of the capital of the Netherlands company Artist Performance and Communication, which in turn held 99.99% of the shares
+         in Kiron SARL, a company resident in France. In those circumstances, Papillon elected to be taxed under the tax integration
+         regime, governed by Articles 223A to 223F of the CGI, which allows a resident company to assume sole liability for the corporation
+         tax due in respect of the whole of the results of the group comprising that company and the companies in which it holds, directly
+         or indirectly, a minimum of 95% of their capital. For that purpose, Papillon included Kiron SARL and a number of subsidiaries
+         of that company which were also resident in France as members of the integrated group of which it was the parent.
+      
+The tax authorities refused to extend the benefit of that regime to Papillon on the ground that it could not form part of
+         an integrated group with companies held indirectly through a company resident in the Netherlands, since, in the absence of
+         a permanent establishment in France, the latter company was not subject to corporation tax in France.
+      
+On its tax liability being recalculated as a result, Papillon was charged to tax on the amount of the profits it had itself
+         declared, and was unable to offset them by the results of the other companies in the integrated group.
+      
+Papillon challenged the additional corporation tax levied on it for the period from to as a result before the Tribunal
+         administratif de Paris (Administrative Court, Paris) which rejected its arguments by judgment of February 2004. In an appeal
+         against that judgment before the Cour administrative d’appel de Paris (Administrative Court of Appeal, Paris) that court ordered
+         only a partial discharge of the disputed taxes and penalties by judgment of June 2005.
+      
+In an appeal brought by Papillon against that judgment, the Conseil d’État (French Council of State) asks whether the tax
+         integration regime, as in force in France, which allows a resident parent company to offset the results of all of the companies
+         in the integrated group and enables tax neutrality to be achieved for all intra-group transactions, is liable to constitute
+         a restriction on the freedom of establishment of at least one of the members of the group, inasmuch as a resident sub-subsidiary
+         cannot take advantage of that regime where the shares in it are held by a non-resident subsidiary.
+      
+The Conseil d’État asks whether, on the assumption that such a restriction is found to exist, it may be justified by overriding
+         reasons of public interest, in particular by the need to ensure the coherence of the tax system. 
+      
+In those circumstances, the Conseil d’État decided to stay the proceedings and to refer the following questions to the Court
+         for a preliminary ruling:
+      
+‘1.      Inasmuch as the tax benefit arising under the “tax integration” scheme affects the liability to tax of the parent company
+         of the group, which can offset the profits and losses of all the companies of the integrated group, and benefit from the tax
+         neutrality of the internal transactions of that group, does the impossibility – resulting from the scheme defined by Article
+         223A et seq. of the [CGI] – of including within the membership of a tax-integrated group a sub-subsidiary of the parent company,
+         when it is held through a subsidiary which, being established in another Member State … and not carrying on business in France,
+         is not subject to French corporation tax and thus cannot itself form part of the group, constitute a restriction on the freedom
+         of establishment by reason of the tax consequences arising from the choice of the parent company as to whether to hold a sub-subsidiary
+         through a French subsidiary or instead through a subsidiary established in another Member State? 
+      
+2.      If the answer is in the affirmative, can such a restriction be justified either by the need to maintain the coherence of the
+         “tax integration” system – in particular the arrangements for the tax neutrality of transactions within the group, having
+         regard to the consequences of a system which consists of treating a subsidiary established in another Member State as belonging
+         to the group solely for the purposes of the condition as to the indirect holding of the sub-subsidiary, while remaining automatically
+         excluded from the application of the group scheme since it is not subject to French tax – or by any other overriding reason
+         of public interest? 
+      
+ The questions referred
+By its two questions, which should be considered together, the national court is essentially asking whether legislation of
+         a Member State in terms of which a group taxation regime is made available to a parent company which is resident in that Member
+         State and has subsidiaries and sub-subsidiaries which are also resident in that State, but the benefit of that regime is excluded
+         in the case of a parent company if its sub-subsidiaries are held through a subsidiary which is resident in another Member
+         State, constitutes a restriction on the freedom of establishment, and, should that be the case, whether that restriction can
+         be justified.
+      
+In that regard, it should be pointed out that freedom of establishment entails for companies or firms formed in accordance
+         with the law of a Member State and having their registered office, central administration or principal place of business within
+         the European Community, the right to exercise their activity in other Member States through a subsidiary, branch or agency
+         (Case C-471/Keller Holding [2006] ECR I-2107, paragraph 29, and Case C-414/Lidl Belgium [2008] ECR I-0000, paragraph 18).
+      
+Even though, according to their wording, the provisions of the EC Treaty concerning freedom of establishment are directed
+         to ensuring that foreign nationals and companies are treated in the host Member State in the same way as nationals of that
+         State, they also prohibit the Member State of origin from hindering the establishment in another Member State of one of its
+         nationals or of a company incorporated under its legislation (Case C-264/ICI [1998] ECR I‑4695, paragraph 21; Case C-298/Columbus Container Services [2007] ECR I‑10451, paragraph 33; and Lidl Belgium, paragraph 19).
+      
+It must be noted at the outset that the national court does not, in the main proceedings, ask whether the fact that it is
+         impossible for the Netherlands subsidiary of Papillon to be included in the tax integration constitutes a restriction on the
+         freedom of establishment. As the Advocate General observed in points and of her Opinion, the reference for a preliminary
+         ruling asks whether a restriction on the freedom of establishment under Article of the Treaty arises by virtue of the fact
+         that a parent company established in one Member State cannot benefit from the tax integration regime as regards the group
+         constituted by that company and its sub-subsidiaries, all of whom have their seat in the same State, where the intermediate
+         subsidiary, which is established in another Member State, is not subject to corporation tax in the first State.
+      
+As the order for reference states, the tax integration regime reduces the tax liability of the parent company by allowing
+         it to offset the profits and losses of all the companies in the fiscally-integrated group. That regime constitutes a tax advantage
+         inasmuch, in particular, as the offsetting which is permitted allows a group to take the losses of certain of its members
+         into account immediately.
+      
+Under Article 223A et seq. of the CGI, that tax advantage is, however, not available where a parent company established in
+         France holds a sub-subsidiary which also has its registered office in France through a subsidiary which is established in
+         another Member State and which does not carry on business in France.
+      
+As was noted in paragraphs and of this judgment, the parent company of the group can, if it is to benefit from the tax
+         integration regime, have an indirect holding in another group company only if this is done through a company which is itself
+         a member of the integrated group and is accordingly liable to corporation tax in France.
+      
+Thus, a parent company which has its registered office in France and which holds its French sub-subsidiaries through a subsidiary
+         established in another Member State cannot benefit from the tax integration regime. By contrast, a French parent company is
+         able to achieve tax integration with its French sub-subsidiaries where the intermediate subsidiary is established in France.
+      
+As the Advocate General stated at point of her Opinion, the effect is that the provisions of the CGI at issue in the main
+         proceedings create a difference in treatment since the ability to elect for the tax integration regime is dependent on whether
+         the parent company holds its indirect shares through a subsidiary established in France or in another Member State.
+      
+The French Government contends, however, that that difference in treatment can be explained by the fact that those two situations
+         are not objectively comparable.
+      
+In a situation such as that which arises in the main proceedings, a subsidiary which is established in a Member State other
+         than the French Republic is, by virtue of that fact, not subject to corporation tax in France, unlike the position which arises
+         when the subsidiary has its registered office in that State.
+      
+That argument cannot be accepted.
+      
+Acceptance of the proposition that the Member State may freely apply a different treatment solely by reason of the fact that
+         a company’s registered office is situated in another Member State would deprive the rules relating to the freedom of establishment
+         of all meaning (see, to that effect, Case 270/Commission v France [1986] ECR 273, paragraph 18, and Joined Cases C-397/and C-410/Metallgesellschaft and Others [2001] ECR I-1727, paragraph 42).
+      
+In order to establish whether discrimination exists, the comparability of a Community situation with one which is purely domestic
+         must be examined by taking into account the objective pursued by the national provisions at issue (see, to that effect, Metallgesellschaft and Others, paragraph 60, and Case C-231/Oy AA [2007] ECR I-6373, paragraph 38).
+      
+In the main proceedings, the provisions of the CGI at issue aim to treat, as far as possible, a group constituted by a parent
+         company with its subsidiaries and its sub-subsidiaries in the same way as an undertaking with a number of permanent establishments,
+         by allowing the results of each company to be consolidated. 
+      
+That objective can be attained both in the situation of a parent company which is resident in a Member State and holds sub-subsidiaries
+         also resident in that State through a subsidiary which is itself resident, and in the situation of a parent company which
+         is resident in the same Member State and holds sub-subsidiaries also resident in that State, but through a subsidiary established
+         in another Member State.
+      
+Having regard to the objectives of the CGI at issue in the main proceedings, those situations are thus objectively comparable.
+         
+      
+Consequently, the tax regime at issue in the main proceedings gives rise to unequal treatment based on the place of the registered
+         office of the subsidiary through which the resident parent company holds its resident sub-subsidiaries.
+      
+Inasmuch as, from a taxation perspective, they put Community situations at a disadvantage compared with purely domestic situations,
+         the provisions of the CGI at issue in the main proceedings thus constitute a restriction which is, in principle, prohibited
+         by the provisions of the Treaty relating to the freedom of establishment. 
+      
+It is clear from the Court’s case-law that such a restriction of the freedom of establishment is permissible only if it is
+         justified by overriding reasons of public interest. It is necessary in such a case, moreover, that its application be appropriate
+         to ensuring the attainment of the objective in question and not go beyond what is necessary to attain it (Lidl Belgium, paragraph and the case-law cited).
+      
+In that regard, it must be noted, first, that the German and Netherlands Governments argue in the written observations which
+         they have submitted to the Court that the restriction on the freedom of establishment which arises under the legislation at
+         issue in the main proceedings may be justified by the necessity to preserve the allocation of the power to impose taxes between
+         Member States.
+      
+In that regard, those Governments refer to Case C-446/Marks & Spencer [2005] ECR I-and to Oy AA and argue that the restriction imposed by the CGI at issue in the main proceedings is necessary in order to prevent losses
+         being used twice and the risk of tax avoidance.
+      
+Those justifications cannot be accepted.
+      
+In Marks & Spencer and Oy AA, the questions referred related, in the former case, to the taking into account of losses recorded in a Member State other
+         than that in which the taxpayer was resident and, in the latter case, to a risk of tax avoidance.
+      
+In the main proceedings, those questions do not arise, since the object of the reference for a preliminary ruling is to establish
+         whether the fact that a company which is resident in a Member State cannot benefit from the tax integration regime with its
+         sub-subsidiaries which are also resident in that State when the intermediate subsidiary is established in another Member State
+         constitutes a restriction, and not to establish whether the non-resident subsidiary should be capable of falling under that
+         regime.
+      
+In the main proceedings, the question as to whether the profits and losses of companies belonging to the group in question
+         should be taken into account arises only in relation to companies which are resident in a single Member State. Accordingly,
+         the question which is put relates to the taking into account of losses recorded in one and the same Member State, which also
+         excludes, prima facie, a risk of tax avoidance.
+      
+Consequently, the restriction established in paragraphs to of this judgment cannot be justified by the allocation of
+         the power to impose taxes between Member States.
+      
+Secondly, it must be noted that the national court asks whether the restriction at issue can be justified by the need to ensure
+         the coherence of the tax system, with the French Government considering, in the written observations it has submitted to the
+         Court, that that is the case in the main proceedings.
+      
+The national court observes that, since the non-resident subsidiary is automatically excluded from the application of the
+         tax integration regime, because it is not subject to corporation tax in France, the coherence of the system for neutralising
+         intra-group transactions is affected, since the treatment of transactions involving that subsidiary is different from that
+         applying to transactions involving a resident subsidiary and might lead to cases of double deduction, unlike a system which
+         applies only to companies subject to that tax.
+      
+In that regard, it must be pointed out that the Court has already acknowledged that the need to maintain the coherence of
+         a tax system can justify a restriction on the exercise of the fundamental freedoms guaranteed by the Treaty (Case C-204/Bachmann [1992] ECR I-249, paragraph 28; Case C-319/Manninen [2004] ECR I-7477, paragraph 42; and Keller Holding, paragraph 40).
+      
+For an argument based on such a justification to succeed, the Court requires, however, that a direct link be established between
+         the tax advantage concerned and the offsetting of that advantage by a particular tax levy (Case C-484/Svensson and Gustavsson [1995] ECR I-3955, paragraph 18; ICI, paragraph 29; Manninen, paragraph 42; and Keller Holding, paragraph 40), with the direct nature of that link falling to be examined in the light of the objective pursued by the rules
+         in question (Manninen, paragraph 43, and Case C-293/Deutsche Shell [2008] ECR I-0000, paragraph 39).
+      
+In the main proceedings, the French Government states that the tax integration regime provides for the tax consolidation of
+         companies and, to offset this, for the neutralisation of certain transactions between the group companies in accordance with
+         Articles 223B, 223D and 223F of the CGI.
+      
+In that regard, it must be pointed out that neutralisation of transactions which are internal to the group avoids, inter alia,
+         the use of losses twice at the level of resident companies falling under the tax integration regime.
+      
+In the case of losses recorded by the sub-subsidiary, the subsidiary will generally provide for the depreciation of its holding
+         in that sub-subsidiary and the parent company will, as a result, provide for the depreciation of its holding in its subsidiary.
+         Since those circumstances involve one and the same loss, originating at the level of the sub-subsidiary, where each of those
+         companies is subject to the tax integration regime, the neutralisation mechanism results in the provision for depreciation
+         made by the parent company and the subsidiary being disregarded.
+      
+Nevertheless, should the subsidiary be a non-resident company, the losses recorded by the sub-subsidiary would be taken into
+         account twice, first, in the form of the direct losses of that sub-subsidiary and, secondly, in the form of a provision made
+         by the parent company for the depreciation of its holding in that subsidiary. The internal transactions would not be neutralised
+         because the non-resident subsidiary is not subject to the tax integration regime.
+      
+In such circumstances, it is clear that resident companies would enjoy the advantages of the tax integration regime, as regards
+         the consolidation of results and the immediate taking into account of the losses of all the companies subject to that regime,
+         without the losses of the sub-subsidiary and the provisions made by the parent company being capable of being neutralised.
+      
+As a result, the direct link which exists under the tax integration regime between the tax advantages and the neutralisation
+         of intra-group transactions would thus be eliminated, thereby affecting the coherence of that regime.
+      
+Consequently, in refusing to extend the benefit of the tax integration regime to a resident parent company wishing to include
+         its resident sub-subsidiaries in that regime where it holds those sub-subsidiaries through a non-resident subsidiary, the
+         provisions of the CGI at issue in the main proceedings have the effect of ensuring the coherence of that regime.
+      
+However, it is also necessary that that national legislation does not go beyond what is necessary to attain that objective,
+         that is to say, that the same objective cannot also be attained by measures which are less restrictive of the freedom of establishment.
+      
+In that regard, the French Government argues that the provisions of the CGI in question are made necessary by the difficulty
+         which the French tax authorities have in ascertaining whether a risk exists that losses may be used twice where a non-resident
+         subsidiary is interposed between the parent company and its sub-subsidiaries. The amount of a provision does not generally
+         correspond to the loss of the subsidiary and it is not always possible to identify the exact origin of a provision.
+      
+In this respect, it must first be pointed out that practical difficulties cannot of themselves justify the infringement of
+         a freedom guaranteed by the Treaty (Case C-334/Commission v France [2004] ECR I-2229, paragraph 29; Case C‑386/Centro di Musicologia Walter Stauffer [2006] ECR I-8203, paragraph 48; and Case C-446/Test Claimants in the FII Group Litigation [2006] ECR I‑11753, paragraph 70).
+      
+Next, it must be noted that Community legislation, namely Council Directive 77/799/EEC of December concerning mutual
+         assistance by the competent authorities of the Member States in the field of direct taxation (OJ L 336, p. 15), allows
+         the Member States to request from the competent authorities of the other Member States all information which may be relevant
+         in assessing, inter alia, the corporation tax payable.
+      
+Lastly, it must be added, as the Advocate General stated at point of her Opinion, that the tax authorities concerned are
+         entitled to demand from the parent company such documents as they consider necessary in order to determine whether the provisions
+         made by that company for the losses in share values in the subsidiary can be explained indirectly by a loss of the sub-subsidiary
+         through the provisions of that subsidiary (see, to that effect, Centro di Musicologia Walter Stauffer, paragraph 49; Case C-150/Commission v Denmark [2007] ECR I‑1163, paragraph 54; Case C-347/Rewe Zentralfinanz [2007] ECR  I-2647, paragraph 57; and Case C-451/ELISA [2007] ECR I-8251, paragraph 95).
+      
+In relations between Member States, information requested or provided by the tax authorities concerned is all the more likely
+         to allow it to be ascertained whether the conditions laid down under national legislation are satisfied since Community harmonisation
+         measures apply in the field of company accounts, with the result that it is possible to produce reliable and verifiable evidence
+         relating to a company established in another Member State (see, to that effect, Case C-101/A [2007] ECR I-11531, paragraph 62).
+      
+Thus, where parent companies which are resident in a Member State wish to benefit from the tax integration regime together
+         with sub-subsidiaries held through subsidiaries resident in another Member State, as in the main proceedings, the tax authorities
+         of the first State may request those subsidiaries to provide the evidence the authorities consider necessary in order for
+         the transparency of the provisions made by the subsidiaries to be fully guaranteed.
+      
+Companies established in France which hold resident sub-subsidiaries through subsidiaries which are resident in another Member
+         State and which are accordingly not entitled to benefit from the tax integration regime are not permitted, under the provisions
+         of the CGI at issue in the main proceedings, to provide documentary evidence which might serve to establish that there is
+         no risk of losses being used twice.
+      
+Consequently, that legislation prevents, in every case, those resident companies from proving that there is no risk of losses
+         being used twice under the tax integration regime.
+      
+It follows that measures which are less restrictive of the freedom of establishment exist for the purposes of attaining the
+         objective of ensuring the coherence of the tax system.
+      
+Accordingly, the provisions of the CGI at issue in the main proceedings go beyond what is necessary in order to attain that
+         objective and cannot, as a result, be justified by the need to ensure the coherence of the tax system.
+      
+In the light of all of the above, the answer to the questions referred must be that Article of the Treaty is to be interpreted
+         as meaning that it precludes legislation of a Member State by virtue of which a group tax regime is made available to a parent
+         company which is resident in that Member State and holds subsidiaries and sub-subsidiaries which are also resident in that
+         State, but is unavailable to such a parent company if its resident sub-subsidiaries are held through a subsidiary which is
+         resident in another Member State.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+Article of the Treaty (now, after amendment, Article EC) is to be interpreted as meaning that it precludes legislation
+            of a Member State by virtue of which a group tax regime is made available to a parent company which is resident in that Member
+            State and holds subsidiaries and sub-subsidiaries which are also resident in that State, but is unavailable to such a parent
+            company if its resident sub-subsidiaries are held through a subsidiary which is resident in another Member State.
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

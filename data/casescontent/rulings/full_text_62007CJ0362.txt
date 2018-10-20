@@ -1,0 +1,512 @@
+
+Joined Cases C-362/and C-363/Kip Europe SA and Others 
+and
+Hewlett Packard International SARL 
+v
+Administration des douanes – Direction générale des douanes et droits indirects
+(References for a preliminary ruling from the Tribunal d’instance du VIIe arrondissement de Paris)
+      
+(Common Customs Tariff – Combined Nomenclature – Tariff classification – Multi-function apparatus – Apparatus combining the functions of laser printer and a digital electronic scanner module, with a copier function – Heading – Heading 9009)
+Summary of the Judgment
+1.        Common Customs Tariff – Tariff headings – Machines performing a ‘specific function’ within the meaning of Note 5(E) to Chapter
+            of the Combined Nomenclature – Meaning 
+(Council Regulation No 2658/87, Annex I; Commission Regulation No 1719/2005)
+2.        Common Customs Tariff – Tariff headings – Multi-function apparatus consisting of a a laser printer and a digital electronic
+            scanner module, with a copier function 
+(Council Regulation No 2658/87, Annex I; Commission Regulation No 1719/2005)
+3.        Common Customs Tariff – Tariff headings – Multi-function apparatus capable of printing, digital electronic scanning and copying,
+            in accordance with Heading of the Combined Nomenclature
+(Commission Regulation No 400/2006)
+1.        Note 5(E) to Chapter of the combined nomenclature constituting Annex I to Regulation No 2658/on the tariff and statistical
+         nomenclature and on the Common Customs Tariff, as amended by Regulation No 1719/2005, is to be interpreted as meaning that
+         only machines incorporating an automatic data-processing machine or working in conjunction with such a machine, whose function
+         is not data processing, perform ‘a specific function other than data processing’. It follows that machines comprising, in
+         a single housing, a laser printer module and a scanner module, including, in addition to the copying function, which is not
+         data processing, printing and electronic scanning functions, do not perform such a ‘specific function’. 
+      
+(see paras 35-36, operative part 1)
+2.        Machines characterised by the fact, firstly, that they perform printing and electronic scanning functions in connection, directly
+         or over a network, with automatic data-processing machines and, secondly, that the copying function which they have is used
+         autonomously are likely simultaneously to meet the three requirements laid down in Note 5(B)(a) to (c) to Chapter of the
+         Combined Nomenclature, constituting Annex I to Regulation No 2658/on the tariff and statistical nomenclature and on the
+         Common Customs Tariff, as amended by Regulation No 1719/2005, for them to be considered units forming part of an automatic
+         data-processing system, that is to say to be of a kind used solely or principally in an automatic data-processing system,
+         capable of connection to the central processing unit and receiving or supplying data in a form usable by that system.
+      
+It is, however, for the referring court to assess, taking into account the objective characteristics of those machines such
+         as the print and reproduction speeds, the existence of an automatic page feeder for originals to be photocopied or the number
+         of paper feeder trays, whether the copying function is secondary in relation to the other two functions or whether, on the
+         contrary, it is equivalent in importance. 
+      
+If the copying function is secondary in relation to the printing and electronic scanning functions, those machines must be
+         considered units of automatic data-processing machines within the meaning of Note 5(B) to Chapter of the combined nomenclature,
+         which units, by application of Note 5(C) to that chapter, if they are presented in isolation, fall within heading 8471. In
+         such a case, the relevant subheading must be determined in accordance with Note to Section XVI of that nomenclature.
+      
+However, if the importance of that copying function is equivalent to that of the other two functions, those machines could
+         not be considered units of automatic data-processing machines because they do not meet the condition laid down in Note 5(B)(a)
+         to Chapter of the Combined Nomenclature, that is to say, that they be ‘of a kind solely or principally used in an automatic
+         data-processing system’. Accordingly, those machines must be classified, by application of General Rule 3(b) for the interpretation
+         of that nomenclature, under the heading corresponding to the module which gives those machines their essential character,
+         provided that such determination is possible. Should that be impossible, they must be classified under heading in accordance
+         with General Rule 3(c).
+      
+(see paras 40-41, 46-48, 56, operative part 2)
+3.        In the interpretation of a classification regulation, in order to determine its scope, account must be taken inter alia of
+         the reasons given. With regard to point of the Annex to Regulation No 400/concerning the classification of certain
+         goods in the Combined Nomenclature, it follows from the second paragraph of the reasons for that point that it applies only
+         in the event that none of the functions performed by the machine to be classified gives it its essential character. 
+      
+Accordingly, since it classifies machines capable of performing printing, electronic scanning and reproduction operations
+         under subheading by application of General Rules 1, 3(c) and for the interpretation of the Combined Nomenclature,
+         of Note 5(E) to Chapter of the Combined Nomenclature and of the wording of heading and subheading and 00,
+         on the ground that none of the functions corresponding to those operations can be regarded as giving those machines their
+         essential character, without, in principle, requiring all machines having those three functions to be classified as photocopiers,
+         Regulation No 400/is valid.
+      
+(see paras 60-62, operative part 3)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+December (*)
+      
+(Common Customs Tariff – Combined Nomenclature – Tariff classification – Multi-function apparatus – Apparatus combining the functions of laser printer and a digital electronic scanner module, with a copier function – Heading – Heading 9009)
+In Joined Cases C‑362/and C‑363/07,
+REFERENCES for a preliminary ruling pursuant to Article EC from the Tribunal d’instance du VIIe arrondissement de Paris (France), made by decision of July 2007, received at the Court on August 2007, in the proceedings
+      
+Kip Europe SA and Others (C-362/07),
+      
+Hewlett Packard International SARL (C‑363/07)
+      
+v
+Administration des douanes – Direction générale des douanes et droits indirects,
+THE COURT (Third Chamber),
+composed of A. Rosas, President of the Chamber, A. Ó Caoimh, J.N. Cunha Rodrigues, U. Lõhmus (Rapporteur) and A. Arabadjiev,
+         Judges,
+      
+Advocate General: P. Mengozzi,
+Registrar: M.-A. Gaudissart, Head of Unit,
+having regard to the written procedure and further to the hearing on June 2008,
+after considering the observations submitted on behalf of:
+–        Kip Europe SA and Others, by F. Goguel and F. Foucault, avocats,
+–        Hewlett Packard International SARL, by F. Goguel and F. Foucault, avocats,
+–        the French Government, by G. de Bergues and A.-L. During, acting as Agents,
+–        the Netherlands Government, by C.M. Wissels and D.J.M. de Grave, acting as Agents,
+–        the Polish Government, by T. Nowakowski, acting as Agent,
+–        the Commission of the European Communities, by G. Wilms, acting as Agent, and by F. Tuytschaever, advocaat,
+after hearing the Opinion of the Advocate General at the sitting on July 2008,
+gives the following
+Judgment
+The references for a preliminary ruling concern the interpretation of the combined nomenclature constituting Annex I to Council
+         Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ
+         L 256, p. 1), as amended by Commission Regulation (EC) No 1719/of October (OJ L 286, p. 1; ‘the CN’),
+         and the validity of Commission Regulation (EC) No 400/of March concerning the classification of certain goods
+         in the Combined Nomenclature (OJ L 70, p. 9).
+      
+These references have been made in the context of two disputes between, on the one hand, Kip Europe SA and Others (‘Kip and
+         Others’) and, on the other, Hewlett Packard International SARL (‘Hewlett Packard’) and the Administration des douanes – direction
+         générale des douanes et droits indirects (Customs Administration – Directorate-General of Customs and Indirect Taxes) (‘the
+         administration des douanes’) concerning the tariff classification, with effect from July 2006, of multi-function machines
+         imported into the European Community under different trade names.
+      
+ Legal context
+The CN, established by Regulation No 2658/87, is based on the international Harmonised Commodity Description and Coding System
+         (‘the HS’) drawn up by the Customs Cooperation Council, now the World Customs Organisation, and established by the International
+         Convention concluded at Brussels on June and approved on behalf of the Community by Council Decision 87/369/EEC of
+         April (OJ L 198, p. 1). The CN takes six-digit headings and subheadings from the HS, only the seventh and eighth
+         digits forming subdivisions that are specific to it.
+      
+In accordance with the first subparagraph of Article of Regulation No 1719/2005, which introduced a new version of the CN,
+         that regulation entered into force on January 2006. It was impliedly repealed, with effect from January 2007, by Commission
+         Regulation (EC) No 1549/of October amending Annex I to Regulation No 2658/(OJ L 301, p. 1).
+      
+Part One of the CN contains preliminary provisions. In that part, Section I, which contains general rules, subsection A, entitled
+         ‘General rules for the interpretation of the [CN]’ (‘the general rules’), provides: 
+      
+‘Classification of goods in the [CN] shall be governed by the following principles: 
+1.      The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification
+         shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings
+         or notes do not otherwise require, according to the following provisions. 
+      
+…
+3.      When, by application of rule 2(b) or for any other reason, goods are prima facie classifiable under two or more headings,
+         classification shall be effected as follows: 
+      
+(a)      …
+(b)      Mixtures, composite goods consisting of different materials or made up of different components, and goods put up in sets for
+         retail sale, which cannot be classified by reference to 3(a), shall be classified as if they consisted of the material or
+         component which gives them their essential character, in so far as this criterion is applicable. 
+      
+(c)      when goods cannot be classified by reference to 3(a) or (b), they shall be classified under the heading which occurs last
+         in numerical order among those which equally merit consideration. 
+      
+…’
+Part Two of the CN, which contains the table of customs duties, includes Section XVI, headed ‘Machinery and mechanical appliances;
+         electrical equipment; parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers,
+         and parts and accessories of such articles’.
+      
+Under Note to Section XVI:
+      
+‘Unless the context otherwise requires, composite machines consisting of two or more machines fitted together to form a whole
+         and other machines designed for the purpose of performing two or more complementary or alternative functions are to be classified
+         as if consisting only of that component or as being that machine which performs the principal function.’ 
+      
+Section XVI contains Chapters and 85. The first includes nuclear reactors, boilers, machinery and mechanical appliances,
+         and parts thereof. The second concerns machinery and mechanical appliances; electrical equipment; parts thereof; sound recorders
+         and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles.
+      
+Under Note to Chapter 84:
+      
+‘(A)      For the purposes of heading 8471, the expression “automatic data-processing machines” means:
+…
+(B)      Automatic data-processing machines may be in the form of systems consisting of a variable number of separate units. Subject
+         to paragraph E below, a unit is to be regarded as being a part of a complete system if it meets all of the following conditions:
+      
+(a)      it is of a kind solely or principally used in an automatic data-processing system;
+(b)      it is connectable to the central processing unit either directly or through one or more other units; and
+(c)      it is able to accept or deliver data in a form (codes or signals) which can be used by the system.
+(C)      Separately presented units of an automatic data-processing machine are to be classified in heading [of the CN (‘heading
+         8471’)].
+      
+(D)      Printers, keyboards, X-Y coordinate input devices and disk storage units which satisfy the conditions of paragraphs (B)(b)
+         and (B)(c) above, are in all cases to be classified as units of heading 8471.
+      
+(E)      Machines performing a specific function other than data processing and incorporating or working in conjunction with an automatic
+         data-processing machine are to be classified in the headings appropriate to their respective functions or, failing that, in
+         residual headings.’ 
+      
+Tariff heading is worded as follows:
+      
+‘Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data
+         media in coded form and machines for processing such data, not elsewhere specified or included:
+      
+...
+− Input or output units, whether or not containing storage units in the same housing:
+− − Printers
+− − Other
+…’
+Section XVIII of the CN includes, inter alia, Chapter 90, which concerns optical, photographic, cinematographic, measuring,
+         checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof.
+      
+Tariff heading of the CN (‘Heading 9009’) is worded as follows:
+      
+‘Photocopying apparatus incorporating an optical system or of the contact type and thermo-copying apparatus:
+...
+− − Operating by reproducing the original image via an intermediate onto the copy (indirect process)
+…’ 
+At the time material to the main proceedings, the rate of customs duties on imports applicable to tariff subheading was 6%, while machinery coming under tariff subheading was exempt from duty. 
+      
+The Commission of the European Communities adopted Regulation No 400/in order to ensure uniform application of the CN
+         in respect of the goods referred to therein. 
+      
+Under point of the Annex to that regulation:
+      
+A multifunctional apparatus capable of performing the following functions: 
+– scanning,
+– laser printing,
+– laser copying (indirect process).
+The apparatus, which has several paper feed trays, is capable of reproducing up to Apages per minute.
+The apparatus operates either autonomously (as a copier) or in conjunction with an automatic data-processing machine or in
+                  a network (as a printer, a scanner and a copier).
+               
+Classification is determined by General Rules 1, 3(c) and for the interpretation of the Combined Nomenclature, Note 5(E)
+                  to Chapter and the wording of CN codes and 00.
+               
+The apparatus has several functions none of which are considered to give the product its essential character. 
+ The actions in the main proceedings and the questions referred for a preliminary ruling
+ Case C-362/Kip and Others imported into France apparatus comprising, in a single housing, a large-format-document laser printer module,
+         a large format digital scanner module (‘the scanner module’) and a computer running on the Windows operating system, connectable
+         to all kinds of network environments. Each apparatus incorporates all the hardware and software elements needed to perform
+         the various functions, which may be purchased in part or in their entirety by the customer, to whom a code is attributed by
+         reference to the option chosen, an option that can be extended at any time by the attribution of a different code. 
+      
+It is apparent from the observations of Kip and Others that those machines are intended for use by undertakings drafting plans,
+         such as design offices, architects and surveyors. It enables those undertakings, working with specific software, to print
+         plans on the printer linked to their computer over their local network or to digitalise existing plans in order to enter them
+         in computers on their local network and work on them. However, the idea of using those machines as stand-alone photocopiers
+         is purely marginal. 
+      
+ Case C-363/Hewlett Packard imported into France a number of models of multi-function colour and monochrome printers comprising, in a
+         single housing, a laser printer module and a scanner module having the functional capabilities of printing, digitalisation
+         and copying. Those machines are connectable to computers and receive and process signal code data which are used in the data-processing
+         environment. 
+      
+It is apparent from Hewlett Packard’s observations that those multi-functional printers are intended for home use and for
+         small and medium-sized enterprises and that they are basically intended to be connected either directly or via a network to
+         one or a number of computers.
+      
+ Facts common to the cases
+By six binding tariff opinions (‘BTOs’) issued, respectively, on July at the request of Kip and Others and on October
+         at the request of Hewlett Packard, the administration des douanes took the view that the various machines mentioned above
+         constituted electrostatic photocopying apparatus operating by reproducing the original image via an intermediate onto the
+         copy, which were to be classified in tariff subheading 00. The customs duties on imports applicable to that tariff
+         subheading were 6%.
+      
+The importing companies brought proceedings against the administration des douanes, seeking the annulment of those BTOs. Principally,
+         they submit that the machines in question should be classified under tariff subheading of the CN on the basis of General
+         Rule 3(b), since the print module or, at the very least, the print module and the scanner module give it its essential character.
+         In the alternative, they submit that the digital copy function carried out principally as an input and output unit of an automatic
+         data-processing machine would as such fall within subheading and that, under the criterion of the principal use of
+         the apparatus, it is appropriate to decide that print function is the main function and the subsidiary function is that of
+         an input and output unit of an automatic data-processing machine falling as such within subheading 60, which benefits
+         from an exemption from duty. Furthermore, those companies take the view that Regulation No 400/is unlawful in that it
+         bases the classification laid down in point of the Annex thereto on the premiss that the apparatus referred to does not
+         have a particular function which gives it its essential character. 
+      
+The administration des douanes takes the view that Note 5(E) to Chapter excludes any possibility of classification of the
+         products concerned in the main proceedings under heading 8471, in so far as those products perform a specific function other
+         than data processing. It submits that General Rule 3(b) is of no use for tariff classification of the products at issue, since
+         it is not possible to determine whether a material or component of those products gives them their ‘essential character’ within
+         the meaning of that rule. It also submits that the European Commission made a statement to that effect in Regulation No 400/in respect of classification for similar goods. The administration des douanes based its issue of the BTOs at issue in the
+         main proceedings, inter alia, on that regulation, classifying the machines concerned under subheading 00. 
+      
+In those circumstances, the tribunal d’instance du VIIe arrondissement de Paris decided to stay the proceedings and refer the following questions to the Court, in Case C‑362/07,
+         for a preliminary ruling:
+      
+‘1.      Does the copy function of a multifunction apparatus of the kind described in these proceedings, designed to operate through
+         a direct connection or a network with one or more computers, but capable, as regards the copying function only, of operating
+         autonomously, constitute a “specific function other than data processing” within the meaning of Note 5(E) to Chapter of
+         the [CN]?
+      
+2.      In the event of an affirmative answer to the first question, does the existence of that specific function, which is expressly
+         acknowledged not to give the product its essential character, mean that classification in Chapter 84, pursuant to Note 5(E),
+         is to be excluded, despite the existence of printing and scanner functions associated with data processing?
+      
+3.      If that is the case, and in relation to equipment made up of three materially distinct modules (printer, scanner and computer),
+         should the classification not be made on the basis of General Rule 3(b)?
+      
+4.      More generally, on a correct interpretation of the [HS] and of the [CN], must printers of the kind described in this procedure
+         be classified under heading or 00?
+      
+5.      Is it not the case that … Regulation … No 400/… is invalid, in particular because it is contrary to the [HS], to the
+         [CN] and to Rules and 3(b) of the General Rules for the Interpretation of the Harmonised System and the Combined Nomenclature,
+         in so far as it relies on the concept of a “function that gives the apparatus its essential character” and its effect would
+         be to classify printers of the kind described under [sub-]heading 00?’
+      
+With regard to Case C‑363/07, the tribunal d’instance du VIIe arrondissement de Paris also decided to stay the proceedings and refer questions to the Court for a preliminary ruling, identical
+         to those set out above with the exception of the third question, which reads as follows: 
+      
+‘3.      If that is the case, and in relation to equipment made up of two materially distinct modules (printer and scanner), should
+         the classification not be made on the basis of General Rule 3(b)?’
+      
+ The questions referred
+ The first questions
+By those questions, the referring court asks, essentially, whether Note 5(E) to Chapter of the CN is to be interpreted
+         as meaning that machines such as those at issue in the main proceedings are to be deemed to be performing a ‘specific function
+         other than data processing’ within the meaning of that note since, apart from the printing and electronic scanning functions
+         which they carry out in connection with an automatic data-processing machine, they also have an autonomous copying function.
+         
+      
+It is appropriate to bear in mind settled case-law, in accordance with which, in the interests of legal certainty and ease
+         of verification, the decisive criterion for the classification of goods for customs purposes is in general to be sought in
+         their objective characteristics and properties as defined in the wording of the relevant heading of the CN and in the section
+         or chapter notes (see, inter alia, Case C‑142/Olicom [2007] ECR I‑6675, paragraph 16, and the case-law cited).
+      
+Both the notes which head the chapters of the Common Customs Tariff and the Explanatory Notes to the SH are important means
+         of ensuring the uniform application of the Tariff and as such may be regarded as useful aids to its interpretation (see Case
+         C‑11/Siemens Nixdorf [1994] ECR I‑1945, paragraph 12; Case C‑382/Techex [1997] ECR I‑7363, paragraph 12; Case C-339/Peacock [2000] ECR I-8947, paragraph 10; and Olicom, paragraph 17).
+      
+In the present case, the wording of heading 8471, under which, according to both Kip and Others and Hewlett Packard, the machines
+         at issue in the main proceedings fall, refers, inter alia, to automatic data-processing machines and units thereof, while
+         the wording of heading 9009, under which, in the view of the French, Dutch and Polish Governments and the Commission, those
+         machines should be classified, concerns photocopying apparatus incorporating an optical system or of the contact type and
+         thermo-copying apparatus.
+      
+In that regard, those governments and the Commission take the view that the classification of the machines at issue in the
+         main proceedings under heading is impossible, having regard to Note 5(E) to Chapter of the CN, because, since they
+         can be used to make photocopies without being connected to an automatic data-processing machine, they perform a ‘specific
+         function other than data processing’ within the meaning of that note.
+      
+However, that argument cannot be accepted.
+      
+Under Note 5(E) to Chapter of the CN, ‘[m]achines performing a specific function other than data processing and incorporating
+         or working in conjunction with an automatic data-processing machine are to be classified in the headings appropriate to their
+         respective functions or, failing that, in residual headings’. 
+      
+It follows from the wording of Note 5(E) to Chapter of the CN that the ‘specific function’ performed by a machine working
+         with an automatic data-processing machine must be a function ‘other than data processing’ (see Olicom, paragraph 30).
+      
+Furthermore, it follows from the general scheme and purpose of that note that the expression ‘are to be classified in the
+         headings appropriate to their respective functions’ does not seek to have one function take priority over others also performed
+         by the apparatus to be classified and which also constitute data processing, but to prevent apparatus whose function has nothing
+         to do with data processing from being classified under heading for the sole reason that they incorporate an automatic
+         data-processing machine or work in connection with such a machine.
+      
+That interpretation is confirmed by the judgment in Case C‑467/Ikegami [2005] ECR I‑2389, paragraphs and 26, in which the Court held that a machine whose basic equipment enables it to perform
+         automatic data processing must nevertheless be considered to have a specific function within the meaning of Note 5(E) to Chapter
+         of the CN since, as equipped, it cannot be used for purposes other than the recording and reproduction of images and sounds
+         in the course of video surveillance, as it lacks sufficient software.
+      
+However, it is apparent from the documents before the Court in the present proceedings that the machines at issue in the main
+         proceedings, in addition to their copying function which is not data processing, also have printing and scanning functions.
+      
+Consequently, the answer to the first questions referred must be that Note 5(E) to Chapter of the CN is to be interpreted
+         as meaning that only machines incorporating an automatic data-processing machine or working in conjunction with such a machine,
+         whose function is not data processing, perform ‘a specific function other than data processing’. 
+      
+ The second questions
+It follows from the wording of those questions that they were referred in the event of it following from the answer to the
+         first questions referred that the copying function of a multi-function apparatus such as that at issue in the main proceedings
+         constitutes a ‘specific function other than data processing’ within the meaning of Note 5(E) to Chapter of the CN. Since
+         that is not the case, there is no need to answer the second questions referred.
+      
+ The third and fourth questions
+By these questions, which can be dealt with together, the referring court asks, essentially, whether machines such at those
+         at issue in the main proceedings are to be classified under heading 8471, which covers, inter alia, the units of an automatic
+         data-processing machine, or under heading 9009, which concerns photocopiers. In that regard, that court also asks whether
+         the classification is to be made by application of General Rule 3(b). 
+      
+In order to answer those questions, it is necessary to state, as a preliminary point, that, as is apparent from the wording
+         of General Rule 1, for legal purposes, classification is determined according to the terms of the headings and any relative
+         section or chapter notes, before the other provisions of the General Rules come to bear. General Rule applies only when
+         it is apparent that goods must be classified under a number of headings. 
+      
+It is apparent from an examination of the characteristics of the machines at issue in the main proceedings as described by
+         the referring court that they all comprise, in a single housing, a laser printer module and a scanner module. In addition,
+         the machines imported by Kip and Others are equipped with a computer running on the Windows operating system and are used
+         to process large-format documents, while those imported by Hewlett Packard are intended for home use and for small and medium-sized
+         enterprises. Nevertheless, irrespective of their intended end-use, all the machines at issue in the main proceedings are characterised
+         by the fact, firstly, that they perform printing and electronic scanning functions in connection, directly or over a network,
+         with automatic data-processing machines and, secondly, that the copying function which they have is used autonomously.
+      
+Accordingly, those machines are likely simultaneously to meet the three requirements laid down in Note 5(B)(a) to (c) to Chapter
+         of the CN for them to be considered units forming part of an automatic data-processing system, that is to say to be of
+         a kind used solely or principally in an automatic data-processing system, capable of connection to the central processing
+         unit and receiving or supplying data in a form usable by that system.
+      
+Firstly, the reference to Note 5(B) cannot be excluded in the present case because, according to its wording, it applies subject
+         to the provisions of Note 5(E) since, as is apparent from paragraph of the present judgment, the application of that latter
+         note is excluded because, in addition to the copying function, which is not data processing, the machines at issue in the
+         main proceedings are also equipped with printing and electronic scanning functions.
+      
+Secondly, although it is true that the machines at issue in the main proceedings are not of the kind used ‘solely … in an
+         automatic data-processing system’ within the meaning of Note 5(B)(a) to Chapter of the CN, the fact remains that they are
+         likely to be considered of the kind used ‘principally’ in such a system within the meaning of the same note.
+      
+In the present case, it is apparent from the description of the characteristics of those machines that most of the functions
+         which they perform, that is to say, printing and electronic scanning, can be used only in connection with an automatic data-processing
+         machine. Accordingly, those machines are likely to be of a kind used principally in an automatic data-processing system.
+      
+Nevertheless, the Court does not have sufficient information to enable it to evaluate the importance of the copying function
+         performed by the machines at issue in the main proceedings in relation to the other two functions.
+      
+It is therefore for the referring court to assess, taking into account the objective characteristics of those machines such
+         as the print and reproduction speeds, the existence of an automatic page feeder for originals to be photocopied or the number
+         of paper feeder trays, whether the copying function is secondary in relation to the other two functions or whether, on the
+         contrary, it is equivalent in importance. 
+      
+If the copying function is secondary in relation to the other two functions, those machines should be considered units of
+         automatic data-processing machines within the meaning of Note 5(B) to Chapter of the CN, which, if they are presented in
+         isolation, fall within heading 8471, by application of Note 5(C) to the same chapter. In such a case, the relevant subheading
+         within heading will have to be identified by application of Note to Section XVI of the CN, in accordance with which
+         ‘composite machines consisting of two or more machines fitted together to form a whole and other machines designed for the
+         purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that
+         component or as being that machine which performs the principal function’.
+      
+However, if the copying function of the machines at issue in the main proceedings is of an equivalent importance to that of
+         their other two functions, those machines could not be considered units of automatic data-processing machines because they
+         do not meet the condition laid down in Note 5(B)(a) to Chapter of the CN, that is to say, that they be ‘of a kind solely
+         or principally used in an automatic data-processing system’.
+      
+In such a case, machines made up of different components, that is to say either a printer module and a scanner module, or
+         a printer module, a scanner module and a computer module, should be classified, by application of General Rule 3(b), according
+         to the module which, of those two or three modules, is identified as determining their essential character, provided such
+         identification is possible. If that is not the case, in accordance with General Rule 3(c), they are to be classified under
+         the heading which occurs last in numerical order among those which equally merit consideration.
+      
+It follows that each of the machines at issue in the main proceedings should be classified under heading only if it is
+         apparent, on the basis of its objective characteristics, that it is not of a kind used principally in an automatic data-processing
+         system, since the copying function is of an importance equivalent to that of the other two functions, and that it proves impossible
+         to determine which, of the printing module or the scanner module or even, if applicable, the computer module, gives it its
+         essential character. 
+      
+That conclusion cannot be called into question by the argument raised as a subsidiary point by the French and Netherlands
+         Governments and by the Commission that if it is possible to classify the machines at issue in the main proceedings under heading
+         8471, it would also be possible to classify them under heading 9009. 
+      
+Those parties submit that those machines should be classified under heading by application of General Rule 3(c). In that
+         regard, they refer to Case C‑67/Rank Xerox [1997] ECR I‑5401, where the Court held that, in accordance with the version of the Combined Nomenclature applicable to the
+         case which gave rise to that judgment, machines comprising a scanning device, a digital storage device and a printing device
+         fall within subheading 00.
+      
+Nevertheless, it must be observed, firstly, that, unlike the present disputes in the main proceedings, which relate to machines
+         capable of falling within heading 8471, since the conditions laid down in Note 5(B) to Chapter of the CN must be taken
+         into consideration in that regard, the machines at issue in the case which gave rise to the judgment in Rank Xerox could have been classified either under heading of the CN as office machinery, or under heading of the CN as telecommunications
+         apparatus operating by carrier signal, or even under heading as photocopying machines. 
+      
+Accordingly, since the functions performed by the latter machines are not data processing, the notes to Chapter of the
+         CN relating to classification of units of automatic data-processing machines did not apply to them. 
+      
+Secondly, it is not apparent from the description of those machines that they were, like those at issue in the main proceedings
+         here, made up of different components. For that reason, General Rule 3(b) would not have been applicable either for the purposes
+         of classification of the machines at issue in the Rank Xerox case. 
+      
+Consequently, the answer to the third and fourth questions referred must be that, if the copying function performed by the
+         machines at issue in the main proceedings is secondary in relation to the printing and electronic scanning functions, they
+         must be considered units of automatic data-processing machines within the meaning of Note 5(B) to Chapter of the CN which,
+         by application of Note 5(C) to that chapter, if they are presented in isolation, fall within heading 8471. In such a case,
+         the relevant sub-heading must be determined in accordance with Note to Section XVI of the CN. However, if the importance
+         of that copying function is equivalent to that of the other two functions, those machines must be classified, by application
+         of General Rule 3(b), under the heading corresponding to the module which gives those machines their essential character.
+         If such identification is not possible, they must be classified under heading in accordance with General Rule 3(c). 
+      
+ The fifth questions
+By these questions, the referring court seeks a ruling from the Court on the validity of the classification made in point
+         of the Annex to Regulation No 400/2006, in particular in the light of General Rules and 3(b) for the interpretation of
+         the HS and General Rules and 3(b), in so far as it relies on the concept of a ‘function that gives the apparatus its essential
+         character’ and its effect would be to classify the machines at issue in the main proceedings under subheading 00.
+      
+It is apparent from the terms in which those questions are drafted that the referring court takes the view that, with regard
+         to the multi-functional machines at issue in the main proceedings, it is the printing function which is decisive for the purposes
+         of their classification. It refers to ‘printers of the kind described [in the present proceedings]’. In that context, that
+         court doubts the validity of point of the Annex to Regulation No 400/2006, which classified machines performing printing,
+         electronic scanning and copying functions under subheading 00, which covers photocopiers.
+      
+It is apparent from case-law, firstly, that a classification regulation, such as Regulation No 400/2006, is adopted by the
+         Commission when the classification in the CN of a particular product is such as to give rise to difficulty or to be a matter
+         for dispute and, secondly, such a regulation is of general application in so far as it does not apply to an individual trader
+         but, in general, to products identical to the one thus classified (see, to that effect, Case C‑119/Hewlett Packard [2001] ECR I‑3981, paragraphs and 19). 
+      
+It is also apparent from case-law that, in the interpretation of a classification regulation, in order to determine its scope,
+         account must be taken inter alia of the reasons given (see Hewlett Packard, paragraph and the case-law cited). 
+      
+With regard to point of the Annex to Regulation No 400/2006, it follows from the second paragraph of the reasons for that
+         point that it applies only in the event that none of the functions performed by the machine to be classified gives it its
+         essential character. 
+      
+Accordingly, since it classifies machines capable of performing printing, electronic scanning and reproduction operations
+         under subheading by application of General Rules 1, 3(c) and 6, of Note 5(E) to Chapter of the CN and of the
+         wording of heading and subheading and 00, on the ground that none of the functions corresponding to those operations
+         can be regarded as a giving those machines their essential character, without, in principle, requiring all machines having
+         those three functions to be classified as photocopiers, Regulation No 400/is valid.
+      
+Consequently, it must be held that an examination of the fifth questions referred has not raised any factor liable to affect
+         the validity of point of the Annex to Regulation No 400/2006. 
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+1.      Note 5(E) to Chapter of the combined nomenclature constituting Annex I to Council Regulation (EEC) No 2658/of July
+            on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EC)
+            No 1719/of October 2005, is to be interpreted as meaning that only machines incorporating an automatic data-processing
+            machine or working in conjunction with such a machine, whose function is not data processing, perform ‘a specific function
+            other than data processing’.
+2.      If the copying function performed by the machines at issue in the main proceedings is secondary in relation to the printing
+            and electronic scanning functions, they must be considered units of automatic data-processing machines within the meaning
+            of Note 5(B) to Chapter of the combined nomenclature constituting Annex I to Regulation No 2658/87, as amended by Regulation
+            No 1719/2005, which units, by application of Note 5(C) to that chapter, if they are presented in isolation, fall within heading
+            8471. In such a case, the relevant subheading must be determined in accordance with Note to Section XVI of the said nomenclature.
+            However, if the importance of that copying function is equivalent to that of the other two functions, those machines must
+            be classified, by application of General Rule 3(b) of the General rules for the interpretation of that nomenclature, under
+            the heading corresponding to the module which gives those machines their essential character. If such identification proved
+            impossible, they must be classified under heading in accordance with General Rule 3(c). 
+3.      Examination of the fifth questions referred has not raised any factor liable to affect the validity of point of the Annex
+            to Commission Regulation (EC) No 400/of March concerning the classification of certain goods in the Combined Nomenclature.
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

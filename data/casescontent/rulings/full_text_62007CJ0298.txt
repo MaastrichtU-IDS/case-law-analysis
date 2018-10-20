@@ -1,0 +1,299 @@
+
+Case C-298/Bundesverband der Verbraucherzentralen und Verbraucherverbände – Verbraucherzentrale Bundesverband eV
+v
+deutsche internet versicherung AG
+(Reference for a preliminary ruling from the Bundesgerichtshof)
+(Directive 2000/31/EC – Article 5(1)(c) – Electronic commerce – Internet service provider – Electronic mail)
+Summary of the Judgment
+Approximation of laws – Electronic commerce – Directive 2000/– Supply of services via the internet
+(European Parliament and Council Directive 2000/31, Art. 5(1)(c))
+Article 5(1)(c) of Directive 2000/on certain legal aspects of information society services, in particular electronic commerce,
+         in the internal market must be interpreted as meaning that a service provider is required to supply to recipients of the service,
+         before the conclusion of a contract with them, in addition to its electronic mail address, other information which allows
+         the service provider to be contacted rapidly and communicated with in a direct and effective manner. That information does
+         not necessarily have to be a telephone number. That information may be in the form of an electronic enquiry template through
+         which the recipients of the service can contact the service provider via the internet, to whom the service provider replies
+         by electronic mail except in situations where a recipient of the service, who, after contacting the service provider electronically,
+         finds himself without access to the electronic network, requests the latter to provide access to another, non-electronic,
+         means of communication.
+      
+(see para. 40, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+October (*)
+      
+(Directive 2000/31/EC – Article 5(1)(c) – Electronic commerce – Internet service provider – Electronic mail)
+In Case C‑298/07,
+REFERENCE for a preliminary ruling under Article EC from the Bundesgerichtshof (Germany), made by decision of April
+         2007, received at the Court on June 2007, in the proceedings
+      
+Bundesverband der Verbraucherzentralen und Verbraucherverbände – Verbraucherzentrale Bundesverband eV
+v
+deutsche internet versicherung AG,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the of Chamber, G. Arestis, R. Silva de Lapuerta, E. Juhász and J. Malenovský (Rapporteur),
+         Judges,
+      
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: R. Grass,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–        the Bundesverband der Verbraucherzentralen und Verbraucherverbände – Verbraucherzentrale Bundesverband eV, by H. Büttner,
+         Rechtsanwalt,
+      
+–        deutsche internet versicherung AG, by J. Kummer, Rechtsanwalt,
+–        the Italian Government, by I.M. Braguglia, acting as Agent, and F. Arena, avvocato dello Stato, 
+–        the Polish Government, by T. Nowakowski, acting as Agent,
+–        the Swedish Government, by S. Johannesson, acting as Agent,
+–        the Commission of the European Communities, by E. Montaguti and G. Braun, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 5(1)(c) of Directive 2000/31/EC of the European
+         Parliament and of the Council of June on certain legal aspects of information society services, in particular electronic
+         commerce, in the internal market (‘Directive on electronic commerce’) (OJ L 178, p. 1) (‘the Directive’).
+      
+The reference was made in the course of proceedings between the Bundesverband der Verbraucherzentralen und Verbraucherverbände
+         – Verbraucherzentrale Bundesverband eV (‘the Bundesverband’) and deutsche internet versicherung AG (‘DIV’) concerning whether
+         a service provider operating exclusively on the internet is under an obligation to communicate its telephone number to clients
+         prior to the conclusion of a contract. 
+      
+ Legal background
+ Community law
+Article of the Directive provides:
+      
+‘For the purpose of this Directive, the following terms shall bear the following meanings:
+(a)      “information society services”: services within the meaning of Article 1(2) of Directive 98/34/EC [of the European Parliament
+         and of the Council of June laying down a procedure for the provision of information in the field of technical standards
+         and regulations (OJ L 204, p. 37)] as amended by Directive 98/48/EC [of the European Parliament and of the Council of
+         July 1998];
+      
+(b)      “service provider”: any natural or legal person providing an information society service;
+…
+(d)      “recipient of the service”: any natural or legal person who, for professional ends or otherwise, uses an information society
+         service, in particular for the purposes of seeking information or making it accessible;
+      
+…’
+Article 5(1) of the Directive provides:
+      
+‘1. In addition to other information requirements established by Community law, Member States shall ensure that the service
+         provider shall render easily, directly and permanently accessible to the recipients of the service and competent authorities,
+         at least the following information:
+      
+(a)       the name of the service provider;
+(b)       the geographic address at which the service provider is established;
+(c)       the details of the service provider, including his electronic mail address, which allow him to be contacted rapidly and communicated
+         with in a direct and effective manner;
+      
+…’
+ National legislation
+Points and of Paragraph 5(1) of the Law on electronic media (Telemediengesetz), of February (BGBl. I, p.
+         179), provides:
+      
+ ‘1.      With respect to electronic media provided for commercial purposes, as a general rule, for consideration, service providers
+         are to render easy, direct and permanent access to the following information:
+      
+(1)      the name and address at which they are established and, with respect to legal persons, their legal form, their authorised
+         representatives and, in so far as information on the company capital exists, the share capital and, if the cash contributions
+         have not been paid up, the total amount of the share capital outstanding; 
+      
+(2)      their details, including their electronic mail address, which allow them to be contacted rapidly and communicated with in
+         a direct manner electronically …’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+DIV is an automobile insurance company which offers its services exclusively on the internet. On its web pages DIV mentions
+         its postal and electronic mail addresses but not its telephone number. Its telephone number is communicated only after the
+         conclusion of an insurance contract. However, persons interested in DIV’s services are able to ask questions via an on-line
+         enquiry template, the answers to which are sent by electronic mail.
+      
+The Bundesverband, the German Federation of Consumers’ Associations, takes the view that DIV has an obligation to mention
+         its telephone number on its internet site. That is the only means of guaranteeing direct communication between a potential
+         client and the insurance company. Therefore, the Bundesverband brought an action before the Landgericht Dortmund (Regional
+         Court, Dortmund) against DIV seeking an order that it cease advertising its insurance services to consumers on the internet
+         without allowing them to communicate with it directly by telephone.
+      
+The Landgericht Dortmund upheld the Bundesverband’s application. The court of appeal, however, rejected it. The court of appeal
+         took the view that it was unnecessary to mention a telephone number in order to allow direct communication between the client
+         and the service provider. Such communication could in fact be guaranteed by means of the enquiry mask, since no independent
+         third party was an intermediary in the communication between the potential client and DIV. Furthermore, in so far as DIV replies
+         to the questions sent by consumers within a period of to minutes the requirement of rapid communication was also satisfied.
+      
+The Bundesverband brought an appeal on a point of law before the Bundesgerichtshof in which it sought a ruling against DIV.
+      
+According to the Bundesgerichtshof, although the text of Article 5(1)(c) of the Directive does not require a telephone number
+         to be supplied, the purpose of that provision may however require it. That issue is also a matter of dispute in German case-law
+         and legal writing. In the same way, the explanatory memorandum for the governmental bill on electronic commerce (Elektronischer
+         Geschäftsverkehr-Gesetz) declared it necessary to mention a telephone number. The Bundesgerichtshof also submits that it is
+         only by telephone that a communication in the form of an exchange of words, in the sense of an actual dialogue, is possible.
+      
+On the other hand, the constraint resulting from the obligation to answer telephone enquiries from potential clients would
+         require DIV to change its business model which consists in acquiring clients exclusively via the internet which might hinder
+         the promotion of electronic commerce. Furthermore, an overburdened telephone number discourages consumers from contacting
+         the service provider, the consequence of which is to render that means of communication ineffective.
+      
+In those circumstances, the Bundesgerichtshof decided to stay the proceedings and refer the following questions to the Court
+         for a preliminary ruling:
+      
+‘1.      Is a service provider required under Article 5(1)(c) of Directive 2000/31/EC to provide a telephone number before entering
+         into a contract with a recipient of the service, so that he can be contacted rapidly and communicated with in a direct and
+         effective manner?
+      
+2.      If the answer to Question is in the negative:
+(a)      Is a service provider required under Article 5(1)(c) of Directive 2003/31/EC to offer a second means of communication, in
+         addition to indicating his electronic mail address, prior to entering into a contract with a user of the service?
+      
+(b)      If so, does it suffice, for purposes of a second means of communication, that the service provider installs an enquiry template
+         enabling the user to consult the service provider via the internet, the user’s enquiry then being answered by the service
+         provider by means of electronic mail?’
+      
+ The questions referred for a preliminary ruling
+By its questions, which it is appropriate to examine together, the referring court asks essentially whether Article 5(1)(c)
+         of the Directive must be interpreted as meaning that the service provider must provide recipients of the service, before conclusion
+         of a contract with them, in addition to its electronic mail address, other information giving access to an additional means
+         of communication and, if such an obligation exists, whether that information must necessarily include a telephone number or
+         whether an on-line enquiry template is sufficient.
+      
+The Bundesverband and the Italian Government take the view that in addition to the electronic mail address other information
+         giving access to an additional means of communication must be supplied by the service provider to recipients of the service.
+         DIV, the Polish and Swedish Governments and the Commission of the European Communities take the opposite view. 
+      
+First of all, it should be recalled that according to settled case-law, in interpreting a provision of Community law it is
+         necessary to consider not only its wording but also the context in which it occurs and the objectives pursued by the rules
+         of which it is part (see, in particular, Case C-301/KVS International [2000] ECR I-3583, paragraph 21; Case C-156/Germany v Commission [2000] ECR I-6857, paragraph 50; Case C-53/Commission v Portugal [2006] ECR I-6215, paragraph 20; and Case C-300/ZVK [2006] ECR I-11169, paragraph 15).
+      
+Pursuant to Article 5(1)(c) of the Directive, the service provider must enable users to access certain basic information,
+         among which are its details, including its electronic mail address, which allow recipients of the service to contact it rapidly
+         and to communicate with it in a direct and effective manner.
+      
+Thus, it is clear from the wording of Article 5(1)(c), and in particular the word ‘including’, that the Community legislature
+         intended to require the service provider to supply recipients of the service, in addition to its electronic mail address,
+         with other information in order to achieve the result intended by that provision.
+      
+Such a literal interpretation is confirmed by the background to Article 5(1)(c) of the Directive. According to Article 5(1)(b)
+         of the Directive, the information that the service provider must render accessible to recipients of the service includes its
+         geographic address. It is therefore clear from the wording of that provision that the Community legislature did not intend
+         to limit the possibility of entering in contact and communicating with the service provider solely to electronic mail, but
+         that it sought to offer recipients of the service access to a postal address.
+      
+As regards the objectives pursued by the Directive, it is appropriate to note from the outset that, according to Article 1(1)
+         and recitals to and in the preamble thereto, it aims to contribute to the development of information society services
+         and to maximise the opportunities afforded to electronic commerce by the internal market. 
+      
+Although the Community legislature thereby intended to encourage the development of electronic commerce it does not follow,
+         however, from any of the recitals in the preamble to the Directive that it sought to isolate electronic commerce from the
+         rest of the internal market. Accordingly, the mention of the ‘electronic mail address’ in Article (1)(c) of the Directive
+         reflects the Community legislature’s wish to ensure that information giving access to an electronic communication is to be
+         supplied by the service provider to the recipients of the service, but does not mean that it intended to dispense with other
+         types of non-electronic communication which may be used in addition to it.
+      
+In the event that they were unable to make use of another type of communication if necessary, in a situation where after making
+         contact electronically with the service provider they were temporarily deprived of access to the electronic network, the recipients
+         of the service might find themselves unable to conclude a contract and, thereby excluded from the market. Such exclusion is
+         likely to undermine and cut off the sector concerned from the rest of the market and, therefore, is liable to constitute an
+         obstacle to the functioning of the internal market, depriving the Directive of part of its effectiveness.
+      
+Second, the Directive, as is clear in particular from Article 1(3) and the 7th, 10th and 11th recitals in the preamble, also
+         intends to guarantee the protection of consumer interests. Such protection must be ensured at all stages of contact between
+         the service provider and recipients of the service.
+      
+It follows that, in so far as the information communicated by the service provider enables recipients of the service to evaluate
+         the extent of their future commitments, protecting them in particular against the risk of errors which might lead to the conclusion
+         of an unfavourable contract, an additional means of communication may also be necessary prior to the conclusion of a contract.
+      
+Offering the recipients of the service an additional non-electronic means of communication where necessary cannot be regarded
+         as a heavy financial burden for service providers which offer their services on the internet. Such service providers usually
+         offer their services to consumers who have easy access to the electronic network and are familiar with that type of communication.
+         Therefore, it is only in exceptional circumstances that electronic communication will have to be supplemented by non-electronic
+         means.
+      
+It is clear from all those considerations that under Article 5(1)(c) of the Directive the service provider is required to
+         offer recipients of the service a rapid, direct and effective means of communication in addition to his electronic mail address.
+      
+Therefore, the question arises as to whether information giving the recipients of the service access to another means of communication
+         must necessarily include a telephone number. 
+      
+Contrary to the arguments of DIV, the Polish and Swedish Governments and the Commission, the Bundesverband and the Italian
+         Government submit that a service provider must indicate to the recipients of the service his telephone number, because only
+         the telephone is capable of satisfying the requirements of direct and effective communication within the meaning of the Directive.
+         Direct communication, they argue, necessarily involves person-to-person communication, and effective communication requires
+         not postponed handling of the information transmitted, but handling which is virtually instantaneous.
+      
+It is common ground that communication by telephone may be regarded as direct and effective communication, even if it does
+         not leave any tangible record and does not as a rule provide any evidence of its content once it is terminated. 
+      
+In that connection, it should be noted from the outset that the adverb ‘directly’ within the meaning of Article 5(1)(c) of
+         the Directive, does not necessarily require communication in the form of an exchange of words, that is an actual dialogue,
+         but only the absence of an intermediary.
+      
+Furthermore, effective communication does not mean that the response given to a question posed must be instantaneous. On the
+         contrary, a communication is to be regarded as effective if it permits adequate information to be obtained within a period
+         compatible with the needs or legitimate expectations of the recipient. 
+      
+It is clear that there are forms of communication other than by telephone able to satisfy the criteria of direct and effective
+         communication referred to in Article 5(1)(c) of the Directive, that is communication without an intermediary which would be
+         sufficiently fluid, such as those established by personal contact at the premises of the service provider with a person in
+         charge or by fax. 
+      
+In light of all those factors, information giving access to that other means of communication that the service provider is
+         required to supply to recipients of the service before the conclusion of a contract with the latter does not necessarily include
+         a telephone number.
+      
+The answers arising from the foregoing analysis also provide an answer to the question whether an on-line enquiry template,
+         through which recipients of the service, are able contact the service provider via the internet, which replies by electronic
+         mail, satisfies the requirements of the Directive.
+      
+The Bundesverband, supported in substance by the Italian Government, takes the view that the enquiry template is not relevant,
+         in so far as it does not allow rapid direct and effective content. By contrast, DIV and the Commission take the view that
+         an enquiry template is sufficient, in particular because the Directive does not require, ‘parallel-simultaneous’ communication.
+      
+It is true that an electronic enquiry template may be regarded as offering a direct and effective means of communication within
+         the meaning of Article 5(1)(c) of the Directive, where, as is clear in the case in the main proceedings from evidence in the
+         file, the service provider answers questions sent by consumers within a period of to minutes.
+      
+However, in exceptional circumstances where a recipient of the service, after making contact by electronic means with the
+         service provider, is, for various reasons, such as a journey, holiday or a business trip, deprived of access to the electronic
+         network, communication by an enquiry template can no longer be regarded as effective within the meaning of Article 5(1)(c)
+         of the Directive.
+      
+Since that template is also a means of electronic communication, the need to use a form on the internet would not, in such
+         situations, enable fluid and therefore effective communication to be maintained between the service provider and the recipient
+         of the service, contrary to Article 5(1)(c) of the Directive.
+      
+In the circumstances described in paragraph of this judgment, offering only an electronic enquiry template is also incompatible
+         with the intention of the Community legislature, which, as stated in paragraph of this judgment, was to encourage the development
+         of electronic commerce without, however, wishing to isolate it from the rest of the internal market.
+      
+Therefore, in those circumstances, on request by the recipient of the services, the service provider must provide the latter
+         with access to a non-electronic means of communication, enabling him to maintain effective communication.
+      
+Taking account of all of the foregoing considerations, the answers to the questions referred must be that Article 5(1)(c)
+         of the Directive must be interpreted as meaning that a service provider is required to supply to recipients of the service,
+         before the conclusion of a contract with them, in addition to its electronic mail address, other information which allows
+         the service provider to be contacted rapidly and communicated with in a direct and effective manner. That information does
+         not necessarily have to be a telephone number. That information may be in the form of an electronic enquiry template through
+         which the recipients of the service can contact the service provider via the internet, to whom the service provider replies
+         by electronic mail except in situations where a recipient of the service, who, after contacting the service provider electronically,
+         finds himself without access to the electronic network, requests the latter to provide access to another, non‑electronic means
+         of communication.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+1.      Article 5(1)(c) of Directive 2000/31/EC of the European Parliament and of the Council of June on certain legal aspects
+            of information society services, in particular electronic commerce, in the internal market (‘Directive on electronic commerce’)
+            must be interpreted as meaning that a service provider is required to supply to recipients of the service, before the conclusion
+            of a contract with them, in addition to its electronic mail address, other information which allows the service provider to
+            be contacted rapidly and communicated with in a direct and effective manner. That information does not necessarily have to
+            be a telephone number. That information may be in the form of an electronic enquiry template through which the recipients
+            of the service can contact the service provider via the internet, to whom the service provider replies by electronic mail
+            except in situations where a recipient of the service, who, after contacting the service provider electronically, finds himself
+            without access to the electronic network, requests the latter to provide access to another, non-electronic, means of communication.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

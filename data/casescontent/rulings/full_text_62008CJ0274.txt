@@ -1,0 +1,391 @@
+
+Case C-274/Commission of the European Communities
+v
+Kingdom of Sweden
+(Failure of a Member State to fulfil obligations – Directive 2003/54/EC – Article 15(2) – Article 23(2) – Internal market in electricity – Prior approval of the methodologies used to calculate or establish the terms and conditions for connection and access to
+         national networks, including transmission and distribution tariffs – National regulatory authority)
+      
+Summary of the Judgment
+Approximation of laws – Measures for the establishment and proper functioning of the internal market in electricity – Directive
+            2003/– Organisation of access to networks
+(European Parliament and Council Directive 2003/54, Art. 23(2)(a))
+A Member State which fails to make the regulatory authorities responsible for approving, in advance, at least the methodologies
+         used to calculate or establish the terms and conditions for access to national networks, including transmission and distribution
+         tariffs in accordance with Article 23(2)(a) of Directive 2003/concerning common rules for the internal market in electricity
+         and repealing Directive 96/92, fails to fulfil its obligations under that directive. 
+      
+Even if the transposition or the interpretation put forward by a Member State serves, or better serves, certain aims pursued
+         by that directive, that Member State may not disregard the provisions expressly laid down in that directive. In order to comply
+         with the requirements of Directive 2003/54, a Member State cannot merely apply a system in which review of the methodology
+         used to establish, inter alia, the electricity transmission and distribution tariffs is carried out a posteriori, even if
+         that review were as effective as a system of prior review, since the directive expressly provides for use of a system of prior
+         approval and does not allow the Member States the possibility of applying a different system. It is apparent from the very
+         wording of Article 23(2)(a) of that directive that, firstly, the national regulatory authorities are to fix or approve, before
+         their entry into force, at least the methodologies used to calculate or establish the terms and conditions for connection
+         and access to national networks, including transmission and distribution tariffs, and, secondly, that those tariffs or methodologies
+         must allow the necessary investments in the networks to be carried out in a manner allowing these investments to ensure the
+         viability of the networks. Accordingly, the objective of the directive can be achieved only by the establishment of precise
+         tariffs or of elements of a methodology of tariff calculation of a level of precision such as to allow economic operators
+         to estimate their cost of access to the transmission and distribution networks.
+      
+(see paras 33-34, 37, 40, 43, operative part)
+  
+  
+JUDGMENT OF THE COURT
+October (*)
+      
+(Failure of a Member State to fulfil obligations – Directive 2003/54/EC – Article 15(2) – Article 23(2) – Internal market in electricity – Prior approval of the methodologies used to calculate or establish the terms and conditions for connection and access to
+         national networks, including transmission and distribution tariffs – National regulatory authority)
+      
+In Case C‑274/08,
+ACTION under Article EC for failure to fulfil obligations, brought on June 2008,
+Commission of the European Communities, represented by B. Schima and P. Dejmek, acting as Agents, with an address for service in Luxembourg,
+      
+applicant,
+v
+Kingdom of Sweden, represented by A. Falk, acting as Agent,
+      
+defendant,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Third Chamber, acting as President of the Fourth Chamber, R. Silva de Lapuerta,
+         E. Juhász (Rapporteur), G. Arestis and T. von Danwitz, Judges,
+      
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: N. Nanchev, Administrator,
+having regard to the written procedure and further to the hearing on June 2009,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its application, the Commission of the European Communities claims that the Court should declare that the Kingdom of Sweden
+         has failed to fulfil its obligations under Directive 2003/54/EC of the European Parliament and of the Council of June concerning common rules for the internal market in electricity and repealing Directive 96/92/EC (OJ L 176, p. 37; ‘the
+         Directive’), 
+      
+–        by failing to adopt appropriate measures to ensure that the requirement is met for a functional division between distribution
+         and production interests in a vertically-integrated undertaking in accordance with Article 15(2)(b) and (c) of the Directive,
+         and 
+      
+–        by failing to ensure that the regulatory authority is responsible for approving, prior to their entry into force, at least
+         the methodologies used to calculate or establish the terms and conditions for connection and access to national networks,
+         including transmission and distribution tariffs, in accordance with Article 23(2)(a) thereof. 
+      
+ Legal context
+ Community law
+Recital in the preamble to the Directive states that concrete provisions are needed to ensure a level playing field in generation
+         and to reduce the risks of market dominance and predatory behaviour, ensuring non-discriminatory transmission and distribution
+         tariffs, through access to the network on the basis of tariffs published prior to their entry into force.
+      
+Recital in the preamble to the Directive states that ‘for competition to function, network access must be non-discriminatory,
+         transparent and fairly priced’. 
+      
+Recital in the preamble to the Directive states that further measures should be taken in order to ensure transparent and
+         non-discriminatory tariffs for access to networks and that those tariffs should be applicable to all network users on a non-discriminatory
+         basis. 
+      
+Recital in the preamble to the Directive reads:
+      
+‘The existence of effective regulation, carried out by one or more national regulatory authorities, is an important factor
+         in guaranteeing non-discriminatory access to the network. Member States [shall] specify the functions, competences and administrative
+         powers of the regulatory authorities. It is important that the regulatory authorities in all Member States share the same
+         minimum set of competences. Those authorities should have the competence to fix or approve the tariffs, or at least, the methodologies
+         underlying the calculation of transmission and distribution tariffs. In order to avoid uncertainty and costly and time‑consuming
+         disputes, these tariffs should be published prior to their entry into force.’
+      
+Recital in the preamble to the Directive is worded as follows:
+      
+‘National regulatory authorities should be able to fix or approve tariffs, or the methodologies underlying the calculation
+         of the tariffs, on the basis of a proposal by the transmission network operator or distribution network operator(s), or on
+         the basis of a proposal agreed between these operator(s) and the users of the network. In carrying out these tasks, national
+         regulatory authorities should ensure that transmission and distribution tariffs are non-discriminatory and cost-reflective,
+         and should take account of the long-term, marginal, avoided network costs from distributed generation and demand-side management
+         measures.’
+      
+In accordance with recitals and in the preamble to the Directive, its objectives include ‘equivalent levels of competition
+         in all Member States’ and ‘the creation of a fully-operational internal electricity market, in which fair competition prevails’.
+      
+According to the definition given in Article 2(21) of the Directive, for the purposes thereof, ‘vertically integrated undertaking’
+         means ‘an undertaking or a group of undertakings whose mutual relationships are defined in Article 3(3) of Council Regulation
+         (EEC) No 4064/of December on the control of concentrations between undertakings [OJ L 395, p. 1; corrigendum
+         OJ L 257, p. 13, as amended by Council Regulation (EC) No 1310/(OJ L 180, p. 1)] and where the undertaking/group
+         concerned is performing at least one of the functions of transmission or distribution and at least one of the functions of
+         generation or supply of electricity’.
+      
+Article 15, which concerns the unbundling of distribution system operators, is set out in Chapter V of the Directive, entitled
+         ‘distribution system operation’, and provides as follows: 
+      
+‘1.      Where the distribution system operator is part of a vertically‑integrated undertaking, it shall be independent at least in
+         terms of its legal form, organisation and decision-making from other activities not relating to distribution. These rules
+         shall not create an obligation to separate the ownership of assets of the distribution network operator from the vertically-integrated
+         undertaking. 
+      
+2.      In addition to the requirements of paragraph 1, where the distribution network operator is part of a vertically-integrated
+         undertaking, it shall be independent in terms of its organisation and decision-making from the other activities not related
+         to distribution. In order to achieve this, the following minimum criteria shall apply:
+      
+(a)      those persons responsible for the management of the distribution network operator may not participate in company structures
+         of the integrated electricity undertaking responsible, directly or indirectly, for the day-to-day operation of the generation,
+         transmission or supply of electricity; 
+      
+(b)      appropriate measures must be taken to ensure that the professional interests of the persons responsible for the management
+         of the distribution network operator are taken into account in a manner that ensures that they are capable of acting independently;
+      
+(c)      the distribution network operator shall have effective decision-making rights, independent from the integrated electricity
+         undertaking, with respect to assets necessary to operate, maintain or develop the network. This should not prevent the existence
+         of appropriate coordination mechanisms to ensure that the economic and management supervision rights of the parent company
+         in respect of return on assets, regulated indirectly in accordance with Article 23(2), in a subsidiary are protected. In particular,
+         this shall enable the parent company to approve the annual financial plan, or any equivalent instrument, of the distribution
+         network operator and to set global limits on the levels of indebtedness of its subsidiary. It shall not permit the parent
+         company to give instructions regarding day-to-day operations, nor with respect to individual decisions concerning the construction
+         or upgrading of distribution lines, that do not exceed the terms of the approved financial plan, or any equivalent instrument.
+      
+(d)      the distribution network operator shall establish a compliance programme, which sets out measures taken to ensure that discriminatory
+         conduct is excluded, and ensure that observance of it is adequately monitored. The programme shall set out the specific obligations
+         of employees to meet this objective. An annual report, setting out the measures taken, shall be submitted by the person or
+         body responsible for monitoring the compliance programme to the regulatory authority referred to in Article 23(1) and published.
+         
+      
+Member States may decide not to apply paragraphs and to integrated electricity undertakings serving less than connected customers, or serving small isolated networks.’
+      
+Article 20, concerning third-party access, which is set out in Chapter VII of the Directive and is entitled ‘Organisation
+         of access to the system’, provides in paragraph 1:
+      
+‘Member States shall ensure the implementation of a system of third‑party access to the transmission and distribution systems
+         based on published tariffs, applicable to all eligible customers and applied objectively and without discrimination between
+         system users. Member States shall ensure that these tariffs, or the methodologies underlying their calculation, are approved
+         prior to their entry into force in accordance with Article and that these tariffs, and the methodologies – where only methodologies
+         are approved – are published prior to their entry into force.’ 
+      
+Article 23, concerning regulatory authorities, which is set out in the same chapter, provides in paragraphs to 5:
+      
+‘2.      The regulatory authorities shall be responsible for fixing or approving, prior to their entry into force, at least the methodologies
+         used to calculate or establish the terms and conditions for: 
+      
+(a)      connection and access to national networks, including transmission and distribution tariffs. These tariffs, or methodologies,
+         shall allow the necessary investments in the networks to be carried out in a manner allowing these investments to ensure the
+         viability of the networks; 
+      
+(b)      the provision of balancing services.
+3.      Notwithstanding paragraph 2, Member States may provide that the regulatory authorities shall submit, for formal decision,
+         to the relevant body in the Member State the tariffs or at least the methodologies referred to in that paragraph as well as
+         the modifications in paragraph 4. The relevant body shall, in such a case, have the power to either approve or reject a draft
+         decision submitted by the regulatory authority. These tariffs or the methodologies or modifications thereto shall be published
+         together with the decision on formal adoption. Any formal rejection of a draft decision shall also be published, including
+         its justification.
+      
+4.      Regulatory authorities shall have the authority to require transmission and distribution system operators, if necessary, to
+         modify the terms and conditions, tariffs, rules, mechanisms and methodologies referred to in paragraphs 1, and 3, to ensure
+         that they are proportionate and applied in a non-discriminatory manner. 
+      
+5.      Any party having a complaint against a transmission or distribution system operator with respect to the issues mentioned in
+         paragraphs 1, and may refer the complaint to the regulatory authority which, acting as dispute settlement authority, shall
+         issue a decision within two months after receipt of the complaint. This period may be extended by two months where additional
+         information is sought by the regulatory authority. This period may be further extended with the agreement of the complainant.
+         Such a decision shall have binding effect unless and until overruled on appeal. 
+      
+Where a complaint concerns connection tariffs for major new generation facilities, the two-month period may be extended by
+         the regulatory authority.’
+      
+Article 30(1) of the Directive provides that Member States are to bring into force the laws, regulations and administrative
+         provisions necessary to comply with the Directive not later than July and that they are forthwith to inform the Commission
+         thereof. Under Article 30(2), Member States may postpone the implementation of Article 15(1) until July 2007, without prejudice
+         to the requirements contained in Article 15(2). 
+      
+ National law 
+In accordance with Chapter 3, Paragraph of the Law (2005:551) on limited companies (Aktiebolagslagen (2005:551)), the object
+         of a limited company is to make profit for its shareholders, if there is no provision to the contrary in the statutes of that
+         company. The powers of general meetings of the shareholders are set out in Chapter of the Aktiebolagslagen. Chapter thereof
+         contains provisions concerning the board of directors and the managing director and lays down, inter alia, the principal tasks
+         of the board of directors, the functions of the managing director and general restrictions on the powers of proxy holders.
+         The same law, in Chapter 17, Paragraph 3, entitled ‘Protection of fixed own capital and the principle of prudence’, contains
+         provisions which restrict distribution of profits of a subsidiary to its parent company. 
+      
+Chapter of the Law (1997:857) on electricity (Ellagen (1997:857)); governs network tariffs, while Chapter thereof covers
+         regulation and control. They provide as follows:
+      
+‘Chapter – System tariffs
+General provisions on system tariffs
+1.      System tariffs shall be so formulated that the concession holder’s total revenue from operation of the system is reasonable
+         with respect, firstly, to the objective requirements for operation of the network and, secondly, to the concession holder’s
+         method of operating the system. 
+      
+System tariffs shall be objective and non-discriminatory.
+The number of connection points, their geographical positions, the quantity of electricity transmitted, the subscribed demand,
+         the costs of the upstream system and the quality of the electricity transmission shall be taken into consideration when formulating
+         system tariffs for the transmission of electricity. 
+      
+When formulating system tariffs with a view to connection to a line or circuit, the geographical positions and the subscribed
+         demand at the point of connection shall, in particular, be taken into consideration.
+      
+The Government or, on the basis of authorisation given by the Government, the systems regulatory authority may adopt more
+         detailed provisions regarding formulation of the network tariffs.
+      
+…
+Chapter – Regulation
+…
+2.      A regulatory authority shall be entitled, on request, to receive information and documents necessary to its regulation. Failure
+         to comply with that request may lead to an administrative fine.
+      
+A decision adopted in accordance with the first subparagraph shall be applicable immediately.
+The Government or, on the basis of authorisation given by the Government, the systems regulatory authority may adopt provisions
+         concerning collection of the information necessary for assessment of the fairness of the network tariffs.
+      
+3.      A regulatory authority may issue the necessary directions in order to ensure compliance with the provisions and conditions
+         relating to regulation. Failure to comply with such directions may lead to an administrative fine.
+      
+A direction which concerns electrical safety or the operational safety of the national electricity system shall be applicable
+         immediately.’
+      
+Administrative instructions No of of the Swedish Energy Authority (Statens energimyndighets författningssamling (STEMFS)
+         (2003:3)), as amended by that authority’s administrative instructions No of (Statens energimyndighets författningssamling
+         (STEMFS) (2005:2); ‘the administrative instructions’), contain detailed provisions concerning the supply of information with
+         a view to assessing the fairness of system tariffs, the technical specifications of the tariffs and rules governing the supply
+         of information to the regulatory authority.
+      
+In accordance with Chapter 1, Paragraph 2, of the Law (2004:875) on special administration of certain electrical installations
+         (Lag (2004:875) om särskild förvaltning av vissa elektriska anläggningar), the Länsrätt (Administrative Court), at the request
+         of the systems regulatory authority, may order that an electrical installation be managed separately if an undertaking operating
+         a system which uses an electrical installation does not fulfil its obligations substantially in accordance with the applicable
+         legislation. 
+      
+ Pre-litigation procedure
+Since the Commission took the view that Articles 15(2)(b) and (c) and 23(2)(a) and (b) of the Directive had not been correctly
+         transposed by the Kingdom of Sweden, it initiated the infringement procedure laid down in Article EC.
+      
+After having given that Member State formal notice to submit its observations, on December the Commission, taking
+         the view that those observations were not satisfactory as regards all the matters raised, issued a reasoned opinion, requesting
+         it to adopt the measures necessary to comply with that opinion within a period of two months from its receipt. 
+      
+The Kingdom of Sweden replied to that reasoned opinion on January 2007, setting out the various elements of the national
+         legislation.
+      
+Taking the view that the measures necessary for full transposition of Articles 15(2)(b) and (c) and 23(2)(a) of the Directive
+         still had not been adopted by the Kingdom of Sweden, the Commission brought the present action.
+      
+ The action
+ The first plea in law, alleging failure to have regard to the provisions of Article 15(2)(b) and (c) of the Directive
+By this plea, the Commission criticises the Kingdom of Sweden for failing to adopt the necessary measures in accordance with
+         Article 15(2)(b) and (c) of the Directive to ensure a functional division between distribution and production interests in
+         a vertically-integrated undertaking.
+      
+In its defence, the Kingdom of Sweden does not dispute the Commission’s claims concerning transposition of Article 15(2)(b)
+         and (c) of the Directive. Even though it takes the view that its legislation on company law does largely have the effect of
+         ensuring the functional division required by those provisions, it accepts that certain specific measures necessary for its
+         transposition are still to be adopted. In that regard, it adds that the Energimarknadsinspektionen (national Inspectorate
+         of the energy market) has been tasked by the Government with examining the amendments to laws and regulations necessary for
+         the correct transposition of Article of the Directive and with submitting a report by October at the latest.
+      
+In the present case, it is not disputed that all the measures necessary to ensure the complete and correct transposition of
+         the provisions in question of the Directive in the Swedish legal order had not yet been adopted on expiry of the time-limit
+         fixed in the reasoned opinion.
+      
+The question whether a Member State has failed to fulfil its obligations must be determined by reference to the situation
+         in that Member State as it stood at the end of that period (Case C‑103/Commission v Greece [2002] ECR I‑1147, paragraph 23, and judgment of June in Case C‑395/Commission v Germany, paragraph 8).
+      
+In those circumstances, it must be held that the Commission’s first plea in law is well founded. 
+      
+ The second plea in law, alleging failure to have regard to the provisions of Article 23(2)(a) of the Directive
+The Commission submits, by this plea, that Article 23(2)(a) of the Directive has not been correctly transposed in the Swedish
+         legal order, since the regulatory authority has not been given the task of fixing or approving, prior to their entry into
+         force, at least the methodologies used to calculate the network tariffs, in accordance with that provision.
+      
+Conversely, the Kingdom of Sweden takes the view that its rules comply with the Directive, since its legislation contains
+         the methodologies required by that directive, together with the possibility of correction a posteriori by the regulatory authorities
+         of the results obtained.
+      
+Having regard to that assertion, it must be considered whether that legislation meets the requirements of Article 23(2)(a)
+         of the Directive.
+      
+That provision of the Directive also sets out a substantive rule, stating, inter alia, that the tariffs or methodologies must
+         allow the necessary investments in the networks to be carried out in a manner allowing these investments to ensure the viability
+         of the networks. Such investments can be expected from economic operators only if those tariffs or methodologies are sufficiently
+         precise and give a satisfactory level of predictability.
+      
+It must be noted first of all that the Kingdom of Sweden admits the lack of provisions in its domestic law relating to prior
+         approval by the national regulatory authority at least of the methodologies used to calculate or establish the terms and conditions
+         for connection and access to national networks, including transmission and distribution tariffs.
+      
+However, that Member State takes the view that the Swedish system enables the objective of the Directive, that is to say,
+         the creation of a fully operational internal electricity market, in which fair competition prevails, to be achieved, in order
+         to ensure, inter alia, that network access is, in accordance with recital in the preamble to the Directive, non-discriminatory,
+         transparent and fairly priced.
+      
+That argument cannot be accepted. 
+      
+It must be pointed out that, even if the arrangements for transposition or the interpretation put forward by a Member State
+         serves, or better serves, certain aims pursued by that directive, that Member State may not disregard the provisions expressly
+         laid down in that directive (see, by analogy, Case C‑243/Commission v France [2005] ECR I‑8411, paragraph 35). 
+      
+Consequently, the Commission is correct to point out that, in order to comply with the requirements of the Directive, the
+         Kingdom of Sweden cannot merely apply a system in which review of the methodology used to establish, inter alia, the electricity
+         transmission and distribution tariffs is carried out a posteriori, even if that review were as effective as a system of prior
+         review, since the Directive expressly provides for use of a system of prior approval and does not allow the Member States
+         the possibility of applying a different system. 
+      
+The Kingdom of Sweden also asserts that, in order to comply with the requirements set out in Article 23(2)(a) of the Directive,
+         it is sufficient to provide for a national regulatory system under which only the guidelines on the basis of which the network
+         tariffs will later be applied must be approved in advance. In the present case, the domestic legislation establishes the methodologies
+         for the fixing of network tariffs within the meaning of Article 23(2)(a) of the Directive. In that regard, that Member State
+         refers to Chapter of Law (1997:859) relating to electricity, to the administrative instructions and to the decision of June of the Swedish Energy Authority.
+      
+Under recital in the preamble to the Directive, the national regulatory authorities are to fix or approve those tariffs,
+         or at least, the methodologies underlying their calculation. Under recital in the preamble to the Directive, those regulatory
+         authorities must ensure that transmission and distribution tariffs so fixed or approved are non‑discriminatory and reflect
+         the costs actually incurred in the transmission or distribution of electricity.
+      
+In the light of those recitals, which define the objectives which the Community legislature sought to achieve, there is no
+         reason to interpret Article 23(2)(a) of the Directive in a manner which departs from the wording of that provision. It is
+         apparent from the very wording of that provision that, firstly, the national regulatory authorities are to fix or approve,
+         before their entry into force, at least the methodologies used to calculate or establish the terms and conditions for connection
+         and access to national networks, including transmission and distribution tariffs, and, secondly, that those tariffs or methodologies
+         must allow the necessary investments in the networks to be carried out in a manner allowing these investments to ensure the
+         viability of the networks.
+      
+Article 23(2)(a) of the Directive thus requires a level of predictability of the abovementioned tariffs sufficient to ensure
+         that the necessary investments in the networks are carried out in a manner allowing these investments to ensure the viability
+         of the electricity transmission and distribution networks.
+      
+Even if, contrary to the Commission’s submissions, that provision does not require the Member States to lay down a formula
+         including a set of parameters permitting precise and direct calculation of the tariffs, it must be held that the legislative
+         framework referred to by the Kingdom of Sweden contains only general principles and criteria which the network tariffs must
+         meet and therefore does not contain any methodology allowing operators to predict, even approximately, the applicable tariffs.
+      
+The objective of the Directive can be achieved only by the establishment of precise tariffs or of elements of a methodology
+         of tariff calculation of a level of precision such as to allow economic operators to estimate their cost of access to the
+         transmission and distribution networks.
+      
+It follows that the Swedish legislative framework does not meet the requirement for predictability of tariffs under the Directive,
+         necessary to allow investments in the networks to be carried out in a manner allowing these investments to ensure the viability
+         of the electricity transmission and distribution networks. In any event, it does not introduce in the domestic law the mechanism
+         for review in advance laid down in Article 23(2)(a) of the Directive. The Swedish legislation does not put into place a system
+         under which tariff proposals are submitted to the regulatory authority before their entry into force. 
+      
+The Commission’s second plea in law must accordingly be considered to be well founded.
+      
+In the light of all of the above, it must be held that:
+      
+–        by failing to adopt the measures necessary to ensure a functional division between distribution and production interests in
+         a vertically-integrated undertaking in accordance with Article 15(2)(b) and (c) of the Directive, and
+      
+–        by failing to make the regulatory authorities responsible for approving, in advance, at least the methodologies used to calculate
+         or establish the terms and conditions for access to national networks, including transmission and distribution tariffs in
+         accordance with Article 23(2)(a) of the Directive,
+      
+the Kingdom of Sweden has failed to fulfil its obligation under the Directive.
+ Costs
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party’s pleadings. Since the Commission has applied for the Kingdom of Sweden to be ordered
+         to pay the costs and the Kingdom of Sweden has been unsuccessful, it must be ordered to pay the costs.
+      
+On those grounds, the Court (Fourth Chamber) hereby:
+1.      Declares that, by failing to adopt measures necessary to ensure a functional division between distribution and production
+            interests in a vertically integrated undertaking in accordance with Article 15(2)(b) and (c) of Directive 2003/54/EC of the
+            European Parliament and of the Council of June concerning common rules for the internal market in electricity and
+            repealing Directive 96/92/EC and by failing to make the regulatory authorities responsible for approving, in advance, at least
+            the methodologies used to calculate or establish the terms and conditions for access to national networks, including transmission
+            and distribution tariffs in accordance with Article 23(2)(a) thereof, the Kingdom of Sweden has failed to fulfil its obligations
+            under Article 15(2)(b) and (c) and Article 23(2)(a) of that directive;
+2.      Orders the Kingdom of Sweden to pay the costs.
+[Signatures]
+* Language of the case: Swedish.
+      
+Top  
+ 

@@ -1,0 +1,772 @@
+
+ARRÊT DE LA COUR (troisième chambre)
+mai (*)
+      
+«Pourvoi – Concurrence – Ententes – Secteur des raccords en cuivre et en alliage de cuivre – Décision de la Commission constatant une infraction à l’article CE – Amendes – Durée de l’infraction – Notion de ‘continuité’»
+Dans l’affaire C‑290/P,
+ayant pour objet un pourvoi au titre de l’article du statut de la Cour de justice de l’Union européenne, introduit le juin 2011,
+      
+Comap SA, établie à Lyon (France), représentée par Mes A. Wachsmann et S. de Guigné, avocats,
+      
+partie requérante,
+l’autre partie à la procédure étant:
+Commission européenne, représentée par M. C. Giolito, en qualité d’agent, ayant élu domicile à Luxembourg,
+      
+partie défenderesse en première instance,
+LA COUR (troisième chambre),
+composée de M. K. Lenaerts, président de chambre, Mme R. Silva de Lapuerta, MM. E. Juhász (rapporteur), T. von Danwitz et D. Šváby, juges,
+      
+avocat général: M. P. Mengozzi,
+greffier: M. A. Calot Escobar,
+vu la procédure écrite,
+vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,
+rend le présent
+Arrêt
+Par son pourvoi, Comap SA (ci-après «Comap») demande l’annulation de l’arrêt du Tribunal de l’Union européenne du mars
+         2011, Comap/Commission (T‑377/06, non encore publié au Recueil, ci-après l’«arrêt attaqué»), par lequel celui-ci a rejeté
+         son recours tendant à l’annulation partielle de la décision C(2006) de la Commission, du septembre 2006, relative
+         à une procédure d’application de l’article [CE] et de l’article de l’accord EEE (Affaire COMP/F‑1/38.– Raccords)
+         (résumé au JO 2007, L 283, p. 63, ci-après la «décision litigieuse»).
+      
+Par cette décision, la Commission européenne a constaté que plusieurs entreprises ou groupes d’entreprises, pendant une longue
+         période, par des accords anticoncurrentiels et des pratiques concertées, avaient enfreint de manière grave les règles communautaires
+         en matière de concurrence et leur a infligé des amendes. Parmi les entreprises ayant participé à l’entente infractionnelle
+         figurait Comap, filiale de Legris Industries SA (ci-après «Legris»).
+      
+ Le cadre juridique
+Le règlement (CE) n° 1/du Conseil, du décembre 2002, relatif à la mise en œuvre des règles de concurrence prévues
+         aux articles et du traité (JO 2003, L 1, p. 1), applicable à compter du 1er mai 2004, a remplacé le règlement n° du Conseil, du février 1962, premier règlement d’application des articles [81]
+         et [82] du traité (JO 1962, 13, p. 204).
+      
+L’article du règlement n° 1/2003, intitulé «Amendes», prévoit:
+      
+«[...]
+2.      La Commission peut, par voie de décision, infliger des amendes aux entreprises et associations d’entreprises lorsque, de propos
+         délibéré ou par négligence:
+      
+a)      elles commettent une infraction aux dispositions de l’article [CE] ou [CE], [...]
+[...]
+Pour chaque entreprise et association d’entreprises participant à l’infraction, l’amende n’excède pas % de son chiffre
+         d’affaires total réalisé au cours de l’exercice social précédent.
+      
+[...]
+3.      Pour déterminer le montant de l’amende, il y a lieu de prendre en considération, outre la gravité de l’infraction, la durée
+         de celle-ci.
+      
+[...]
+5.      Les décisions prises en application des paragraphes et n’ont pas un caractère pénal.»
+Ces dispositions ont un contenu quasi identique à celui des dispositions correspondantes de l’article 15, paragraphes et
+         4, du règlement n° 17.
+      
+L’article du règlement n° 1/2003, intitulé «Prescription en matière d’imposition de sanctions», est libellé comme suit:
+      
+«1.      Le pouvoir conféré à la Commission en vertu des articles et est soumis aux délais de prescription suivants:
+a)      trois ans en ce qui concerne les infractions aux dispositions relatives aux demandes de renseignements ou à l’exécution d’inspections;
+b)      cinq ans en ce qui concerne les autres infractions.
+2.      La prescription court à compter du jour où l’infraction a été commise. Toutefois, pour les infractions continues ou répétées,
+         la prescription ne court qu’à compter du jour où l’infraction a pris fin.
+      
+3.      La prescription en matière d’imposition d’amendes ou d’astreintes est interrompue par tout acte de la Commission ou d’une
+         autorité de concurrence d’un État membre visant à l’instruction ou à la poursuite de l’infraction. L’interruption de la prescription
+         prend effet le jour où l’acte est notifié à au moins une entreprise ou association d’entreprises ayant participé à l’infraction.
+         [...]
+      
+[...]
+5.      La prescription court à nouveau à partir de chaque interruption. Toutefois, la prescription est acquise au plus tard le jour
+         où un délai égal au double du délai de prescription arrive à expiration sans que la Commission ait prononcé une amende ou
+         astreinte. [...]
+      
+[...]»
+L’article du règlement n° 1/2003, intitulé «Contrôle de la Cour de justice», dispose:
+      
+«La Cour de justice statue avec compétence de pleine juridiction sur les recours formés contre les décisions par lesquelles
+         la Commission a fixé une amende ou une astreinte. Elle peut supprimer, réduire ou majorer l’amende ou l’astreinte infligée.»
+      
+Cet article a, en substance, un contenu identique à celui de l’article du règlement n° 17.
+      
+ Les antécédents du litige et la décision litigieuse
+L’arrêt attaqué comporte les constatations suivantes:
+      
+«Par la décision [litigieuse], la Commission [...] a constaté que plusieurs entreprises avaient enfreint l’article 81, paragraphe
+         1, CE et l’article de l’accord sur l’Espace économique européen (EEE)[, du mai (JO 1994, L 1, p. 3),] en participant,
+         au cours de différentes périodes comprises entre le décembre et le 1er avril 2004, à une infraction unique, complexe et continue aux règles communautaires de concurrence revêtant la forme d’un
+         ensemble d’accords anticoncurrentiels et de pratiques concertées sur le marché des raccords en cuivre et en alliage de cuivre,
+         qui couvraient le territoire de l’EEE. L’infraction consistait à fixer les prix, à convenir de listes de prix, de remises
+         et de ristournes et de mécanismes d’application des hausses des prix, à répartir les marchés nationaux et les clients et à
+         échanger d’autres informations commerciales ainsi qu’à participer à des réunions régulières et à entretenir d’autres contacts
+         destinés à faciliter l’infraction.
+      
+La requérante, Comap [...], un producteur de raccords en cuivre, et sa société mère à l’époque des faits, [Legris], figurent
+         parmi les destinataires de la décision [litigieuse].
+      
+Le janvier 2001, Mueller Industries Inc., un autre producteur de raccords en cuivre, a informé la Commission de l’existence
+         d’une entente dans le secteur des raccords, et dans d’autres industries connexes sur le marché des tubes en cuivre, et de
+         sa volonté de coopérer au titre de la communication de la Commission concernant la non‑imposition d’amendes ou la réduction
+         de leur montant dans les affaires portant sur des ententes (JO 1996, C 207, p. 4, ci-après la ‘communication sur la coopération
+         de 1996’) (considérant de la décision [litigieuse]).
+      
+Les et mars 2001, dans le cadre d’une enquête concernant les tubes et les raccords en cuivre, la Commission a effectué,
+         en application de l’article 14, paragraphe 3, du règlement nº [...], des vérifications inopinées dans les locaux de plusieurs
+         entreprises (considérant de la décision [litigieuse]).
+      
+À la suite de ces premières vérifications, la Commission a, en avril 2001, scindé son enquête portant sur les tubes en cuivre
+         en trois procédures distinctes, à savoir la procédure relative à l’affaire COMP/E‑1/38.(Tubes sanitaires en cuivre), celle
+         relative à l’affaire COMP/F‑1/38.(Raccords) et celle relative à l’affaire COMP/E‑1/38.(Tubes industriels) (considérant
+         de la décision [litigieuse]).
+      
+Les et avril 2001, la Commission a effectué d’autres vérifications inopinées dans les locaux de Delta plc, société à
+         la tête d’un groupe de génie international dont le département ‘Ingénierie’ regroupait plusieurs fabricants de raccords. Ces
+         vérifications portaient uniquement sur les raccords (considérant de la décision [litigieuse]).
+      
+À partir de février/mars 2002, la Commission a adressé aux parties concernées plusieurs demandes de renseignements en application
+         de l’article du règlement nº 17, puis de l’article du règlement (CE) nº 1/[...] (considérant de la décision
+         [litigieuse]).
+      
+[Entre septembre et mai 2005, quatre autres entreprises ou groupes d’entreprises ont présenté des demandes visant à bénéficier
+         de la communication sur la coopération de 1996] (considérants à de la décision [litigieuse]).
+      
+Le septembre 2005, la Commission a, dans le cadre de l’affaire COMP/F‑1/38.(Raccords), engagé une procédure d’infraction
+         et a adopté une communication des griefs, laquelle a notamment été notifiée à [Comap] (considérants et de la décision
+         [litigieuse]).
+      
+Le septembre 2006, la Commission a adopté la décision [litigieuse].
+À l’article 1er de la décision [litigieuse], la Commission a constaté que [Comap] avait enfreint les dispositions de l’article CE et de
+         l’article de l’accord EEE entre le janvier et le 1er avril 2004.
+      
+Pour cette infraction, la Commission a, à l’article 2, sous g), de la décision [litigieuse], infligé à Legris [...] une amende
+         d’un montant de 46,millions d’euros, pour le paiement de laquelle [Comap] a été tenue solidairement responsable à hauteur
+         de 18,millions d’euros. 
+      
+Aux fins de fixer le montant de l’amende infligée à chaque entreprise, la Commission a fait application, dans la décision
+         [litigieuse], de la méthode définie dans les lignes directrices pour le calcul des amendes infligées en application de l’article
+         paragraphe du règlement nº et de l’article 65, paragraphe 5, du traité CECA (JO 1998, C 9, p. [...]).
+      
+S’agissant, d’abord, de la fixation du montant de départ de l’amende en fonction de la gravité de l’infraction, la Commission
+         a qualifié l’infraction de très grave, en raison de sa nature même et de sa portée géographique (considérant de la décision
+         [litigieuse]).
+      
+Estimant ensuite qu’il existait une disparité considérable entre les entreprises concernées, la Commission a procédé à un
+         traitement différencié, se fondant à cet effet sur leur importance relative sur le marché en cause déterminée par leurs parts
+         de marché. Sur cette base, elle a réparti les entreprises concernées en six catégories (considérant de la décision [litigieuse]).
+      
+[Comap] a été classée dans la quatrième catégorie, catégorie pour laquelle le montant de départ de l’amende a été fixé à 14,millions d’euros (considérant de la décision [litigieuse]).
+      
+Du fait de la durée de la participation de [Comap] à l’infraction (treize ans et deux mois), la Commission a ensuite majoré
+         le montant de l’amende de % (considérant de la décision [litigieuse]), ce qui a abouti à fixer le montant de base
+         de l’amende à 32,millions d’euros (considérant de la décision [litigieuse]).
+      
+Ensuite, la poursuite de la participation à l’infraction après les inspections de la Commission a été considérée comme une
+         circonstance aggravante justifiant une majoration de % du montant de base de l’amende infligée [...] (considérant de
+         la décision [litigieuse]).
+      
+En application du plafond de % sur les amendes infligées conformément à l’article 23, paragraphe 2, du règlement nº 1/2003,
+         la Commission a réduit le montant de l’amende infligée à [Comap] à 18,millions d’euros.»
+      
+ Le recours devant le Tribunal et l’arrêt attaqué
+Par requête déposée le décembre 2006, Comap avait demandé au Tribunal:
+      
+–        d’annuler la décision litigieuse, en tant que la Commission l’avait condamnée pour d’autres périodes que celle comprise entre
+         les mois de décembre et de mars 2001, et 
+      
+–        de reformer les articles 1er et de la décision litigieuse en réduisant le montant de l’amende qui lui a été infligée.
+      
+ Le premier moyen du recours, relatif à la durée de la participation de Comap à l’infraction
+Comap contestait sa participation à l’entente infractionnelle durant la période postérieure au mois de mars de 2001, mois
+         au cours duquel la Commission avait effectué des enquêtes et des vérifications sur place. Elle a fait également valoir que
+         l’infraction alléguée avait cessé pendant la période allant du mois de septembre au mois de décembre 1994, soit pendant
+         mois, et que, par conséquent, les faits antérieurs au mois de décembre étaient prescrits. À cet égard, Comap a avancé
+         une série d’éléments et de considérations d’ordre factuel.
+      
+Aux points à de l’arrêt attaqué, le Tribunal a rappelé la jurisprudence constante selon laquelle la Commission doit
+         rapporter des preuves précises et concordantes établissant une infraction aux règles de la concurrence et il a ajouté que,
+         selon les circonstances, le faisceau d’indices invoqué par la Commission, apprécié globalement, peut être suffisant pour répondre
+         à cette exigence. Le Tribunal a relevé que, dans le cadre d’accords anticoncurrentiels, les réunions des entreprises impliquées
+         se tiennent secrètement et que la documentation y afférente est réduite au minimum. Dès lors, selon le Tribunal, des pièces
+         écrites attestant directement l’entente sont normalement fragmentaires et éparses et l’existence d’un accord anticoncurrentiel
+         doit être inférée d’un certain nombre de coïncidences et d’indices qui, considérés ensemble, peuvent constituer, en l’absence
+         d’une autre explication cohérente, la preuve d’une violation des règles de la concurrence. À cet égard, le Tribunal a considéré
+         que les déclarations faites par des entreprises impliquées dans une entente dans le cadre de la politique de clémence ont
+         une valeur probante non négligeable.
+      
+Le Tribunal a rappelé, au point de l’arrêt attaqué, que ces principes s’appliquent également en ce qui concerne la durée
+         d’une infraction, en précisant que la jurisprudence exige que, en l’absence d’éléments de preuve susceptibles d’établir directement
+         la durée d’une infraction, la Commission se fonde, à tout le moins, sur des éléments de preuve se rapportant à des faits suffisamment
+         rapprochés dans le temps, de façon qu’il puisse être raisonnablement admis que cette infraction s’est poursuivie de façon
+         ininterrompue entre deux dates précises.
+      
+Afin de prouver que Comap avait continué à participer à l’entente infractionnelle après les enquêtes effectuées au mois de
+         mars 2001, la Commission s’est fondée sur trois événements, qui ne sont pas, en eux‑mêmes, contestés par Comap. Ainsi que
+         le Tribunal l’a relevé au point dudit arrêt, cette dernière conteste, en revanche, le caractère anticoncurrentiel de ces
+         événements.
+      
+Selon les points à de l’arrêt attaqué, le premier événement consistait en des contacts bilatéraux entre Comap et FRA.BO
+         SpA (ci‑après «FRA.BO»), une entreprise qui était impliquée dans l’entente et qui a coopéré avec la Commission dans le cadre
+         de l’enquête administrative. Le Tribunal a constaté qu’il ressortait de la déclaration de FRA.BO, faite dans le cadre de la
+         demande de clémence présentée par cette entreprise, et de quelques preuves documentaires fournies par celle-ci lors de la
+         procédure administrative, à savoir des relevés téléphoniques et des notes manuscrites figurant dans l’agenda d’un cadre de
+         FRA.BO, que des échanges d’informations sensibles entre les concurrents, portant sur des coordinations de prix, des hausses
+         de prix et des prix pratiqués par une entreprise concurrente dans un État membre, se sont poursuivis postérieurement aux inspections
+         effectuées par la Commission au mois de mars 2001. Selon le Tribunal, les arguments de Comap selon lesquels il s’agissait
+         de contacts légaux, portant notamment sur des livraisons croisées et sur un projet de coopération industrielle, ne remettaient
+         pas en cause ces faits et, en outre, n’étaient étayés par aucune preuve, telle que des factures ou des bons de commande, portant
+         sur la période en cause.
+      
+Le Tribunal indique, aux points et de l’arrêt attaqué, que le deuxième événement consistait en la rencontre entre un
+         cadre d’IBP Ltd, une entreprise qui était également impliquée dans l’entente en cause, et le représentant de Comap, lors de
+         la foire d’Essen (Allemagne), le mars 2004. Le Tribunal a constaté que ce contact, qu’il ait été ou non isolé, était lié
+         à la politique tarifaire sur le marché allemand. Il a rejeté l’argument de Comap selon lequel cet échange n’avait pas un caractère
+         anticoncurrentiel en raison de l’absence de réciprocité des informations données, en soulignant que, conformément à l’arrêt
+         du novembre 2006, Asnef-Equifax et Administración del Estado (C‑238/05, Rec. p. I‑11125, point 51), il n’est pas exigé
+         qu’un échange d’informations soit réciproque, étant donné que la divulgation d’informations sensibles élimine l’incertitude
+         relative au comportement futur d’un concurrent et influence ainsi, directement ou indirectement, la stratégie du destinataire
+         des informations.
+      
+Selon les points à de l’arrêt attaqué, le troisième événement consistait en la participation de Comap aux réunions de
+         la Fédération française des négociants en appareils sanitaires, chauffage, climatisation et canalisations (ci-après la «FNAS»).
+         Le Tribunal a constaté que, ainsi qu’il ressortait des procès-verbaux des réunions du comité logistique de la FNAS, et plus
+         spécifiquement des procès-verbaux des juin 2003, octobre et janvier 2004, lors de ces réunions, des questions
+         relatives aux prix, telles que les marges sur les ventes et les augmentations de prix des raccords, avaient été discutées
+         et des informations avaient été fournies par des fabricants sur la répartition de leurs ventes entre certaines catégories
+         de produits. En outre, le Tribunal a relevé que lors d’une conférence téléphonique ayant eu lieu le février 2004, chaque
+         fabricant avait donné son avis quant à la hausse de prix envisagée.
+      
+S’agissant de la lettre du mars envoyée par le président-directeur général (ci-après le «PDG») de Comap au président
+         de la FNAS, qui, selon Comap, avait constitué une distanciation publique par rapport aux infractions commises lors de la réunion
+         du janvier et de la conférence téléphonique du février 2004, susvisées, le Tribunal a rappelé, aux points à
+         de l’arrêt attaqué, que, conformément à l’arrêt du mars 2009, Archer Daniels Midland/Commission (C‑510/P, Rec. p. I‑1843,
+         point 120), la notion de distanciation publique en tant qu’élément d’exonération de la responsabilité doit être interprétée
+         de manière restrictive et que cette distanciation doit se manifester d’une façon ferme et claire, de sorte que les autres
+         participants à l’entente comprennent bien l’intention de l’entreprise concernée. En l’espèce, le Tribunal a considéré que
+         la formulation utilisée par le PDG de Comap dans sa lettre au président de la FNAS était de nature trop générale pour qu’il
+         soit conclu à une distanciation publique et que cette lettre avait seulement été adressée au président de la FNAS et non aux
+         participants. En outre, il a relevé que cette lettre était intervenue seulement vers la fin de la période au cours de laquelle
+         l’infraction avait été constatée et ne permettait donc pas de remettre en cause les constatations de la Commission relatives
+         à la participation de Comap à l’entente antérieurement au février 2004, date des derniers contacts entre les intéressés
+         dans le cadre de ladite conférence téléphonique.
+      
+Au point de l’arrêt attaqué, le Tribunal a considéré, par conséquent, que les comportements reprochés, ayant eu lieu après
+         les vérifications effectuées par la Commission au mois de mars 2001, avaient un caractère anticoncurrentiel et qu’ils avaient
+         été prouvés à suffisance de droit.
+      
+En ce qui concerne la question de savoir s’il s’agissait de la continuation de l’infraction qui avait été constatée avant
+         le mois de mars 2001, le Tribunal, aux points à de cet arrêt, a relevé que cette dernière consistait en une organisation
+         régulière, pendant plusieurs années, de contacts multilatéraux et bilatéraux entre producteurs concurrents dont l’objet était
+         l’établissement de pratiques illicites, notamment en ce qui concerne les niveaux de prix. Selon le Tribunal, ces contacts
+         avaient été pris lors de réunions organisées dans le cadre d’associations professionnelles, de foires commerciales, de réunions
+         ad hoc et d’échanges de vues bilatéraux et les comportements reprochés après le mois de mars avaient les mêmes caractéristiques.
+         Le Tribunal a considéré que, dès lors que l’objectif des pratiques anticoncurrentielles, à savoir la concertation sur les
+         prix, était toujours le même, le fait que certaines caractéristiques ou l’intensité de ces pratiques avaient changé n’était
+         pas pertinent en ce qui concerne la continuation de l’entente en cause. Selon lui, il était d’ailleurs plausible que, après
+         les vérifications effectuées par la Commission, cette entente ait connu une forme moins structurée et une intensité plus variable.
+         Le Tribunal a constaté à cet égard que, même si, après les inspections du mois de mars 2001, le nombre des participants à
+         l’entente était passé de neuf à quatre, les principales entreprises qui participaient à cette dernière avant ces inspections
+         étaient toujours impliquées dans celle-ci. Quant à la portée géographique de l’infraction unique et continue en cause, le
+         Tribunal a constaté que, ainsi qu’il ressortait des contacts susvisés, non seulement le marché français, mais aussi d’autres
+         marchés nationaux étaient visés par les contacts anticoncurrentiels ayant eu lieu après le mois de mars 2001.
+      
+Aux points à de l’arrêt attaqué, le Tribunal a considéré que, étant donné que le comportement de chacun des participants
+         à l’entente visait à poursuivre le même objectif anticoncurrentiel, la Commission avait pu à bon droit considérer qu’il s’agissait
+         de la continuation d’une infraction antérieure. À cet égard, il a estimé que l’argument selon lequel les comptes-rendus des
+         réunions susvisées auraient été préparés par la FNAS était sans pertinence, de même que l’argument selon lequel la FNAS elle-même
+         ne serait pas destinataire de la décision litigieuse, étant donné que la Commission avait considéré à juste titre que cette
+         fédération n’avait pas participé à l’entente en cause. Sur la base de toutes ces considérations, le Tribunal a rejeté l’argument
+         de Comap tiré de l’absence de participation à l’entente après le mois de mars 2001.
+      
+Le Tribunal a constaté, aux points à de l’arrêt attaqué, que Comap ne contestait pas sa participation à l’entente pour
+         la période comprise entre le décembre et le septembre ni pour celle comprise entre les mois de décembre et de mars 2001. En outre, il a relevé que Comap avait indiqué lors de l’audience qu’elle ne contestait pas sa participation
+         à l’entente pour la période 1995‑et que, dès lors, il restait uniquement à examiner la période comprise entre le septembre
+         et le décembre 1994. Le Tribunal a également constaté que la Commission avait commencé ses investigations le mars
+         et que, en vertu des délais de prescription prévus à l’article 25, paragraphes à et 5, du règlement n° 1/2003, aucune
+         amende ne pouvait être infligée au titre d’un comportement infractionnel qui avait cessé avant le mars 1996. Par conséquent,
+         il importerait de déterminer si les différents faits invoqués dans la décision litigieuse démontraient que la participation
+         de Comap à l’entente avait continué ou avait cessé au cours de la période allant du septembre au décembre 1994.
+      
+Aux points à de l’arrêt attaqué, le Tribunal a constaté que l’ensemble des éléments de preuve invoqués dans la décision
+         litigieuse suffisait pour conclure que Comap n’avait pas cessé de participer à l’entente en cause pendant la période visée.
+         Il a donc écarté l’argument tiré de l’interruption de la participation de Comap à l’infraction au cours de cette période et
+         a considéré que ce premier moyen devait être rejeté comme non fondé.
+      
+ Le second moyen du recours, relatif au calcul du montant de l’amende
+Le Tribunal a relevé, au point de l’arrêt attaqué, que la Commission était en droit de répartir les membres d’une entente
+         en catégories, en fonction, notamment, des parts de marché détenues par chacune des entreprises concernées. Il ressortait
+         du dossier, selon lui, que le chiffre d’affaires et la part de marché du groupe Legris représentaient en approximativement
+         entre le double et le triple du chiffre d’affaires et de la part de marché d’autres entreprises impliquées dans l’entente.
+         Ainsi, c’était à juste titre, selon le tribunal, que la Commission avait retenu un montant de départ de l’amende infligée
+         à Comap entre deux et trois fois plus élevé que celui de ces autres entreprises. En outre, le Tribunal a considéré que la
+         Commission avait réparti les membres de l’entente en catégories d’une façon cohérente et objectivement justifiée.
+      
+En ce qui concerne l’argument de Comap, selon lequel le montant de départ de l’amende était disproportionné, aux points à de l’arrêt attaqué, le Tribunal a conclu, à la suite d’une motivation circonstanciée, que ce montant était proportionné
+         à la gravité de l’infraction appréciée dans son ensemble et modulé en fonction du plafond de % du chiffre d’affaires, prévu
+         à l’article 23, paragraphe 2, du règlement n° 1/2003.
+      
+Aux points à de cet arrêt, le Tribunal a rejeté l’argument de Comap tiré de ce qu’elle n’était pas le meneur de l’entente
+         mais avait eu un rôle passif, en constatant que, lors des réunions collusoires ayant eu lieu pendant la période 1991‑2001,
+         cette entreprise était présente une fois sur deux, ainsi qu’elle l’avait elle-même admis. Il a également rejeté l’argument
+         tiré de ce que la Commission aurait dû moduler le montant de l’amende en fonction de la portée géographique et de l’intensité
+         de la coordination, en faisant observer que le fait que l’intensité de l’entente avait été moindre après les vérifications
+         effectuées par la Commission n’avait aucune incidence sur la qualification de cette entente de très grave et de longue durée.
+         En outre, le Tribunal a relevé que, bien que, au début, cette entente ait revêtu une dimension territoriale limitée, elle
+         avait pris une dimension paneuropéenne par la suite. De même, il a rejeté l’argument de Comap tiré de ce qu’elle avait fait
+         preuve de coopération lors de la procédure administrative, en soulignant que l’absence de contestation, de sa part, de la
+         matérialité des faits ne concernait qu’une période limitée sur une durée totale de participation à l’infraction de plus de
+         treize ans.
+      
+Sur la base de ces considérations, le Tribunal a, aux points et de l’arrêt attaqué, écarté ce second moyen comme non
+         fondé et a, par conséquent, rejeté le recours dans son intégralité.
+      
+ Les conclusions des parties au pourvoi
+Comap conclut à ce que la Cour:
+      
+–        à titre principal,
+–        annule l’arrêt attaqué dans son intégralité et
+–        fasse droit à ses conclusions présentées devant le Tribunal;
+–        à titre subsidiaire,annule l’amende qui lui a été infligée ou réduise le montant de celle-ci et
+–        en tout état de cause, condamne la Commission aux entiers dépens, y compris ceux encourus par elle devant le Tribunal.
+La Commission conclut à ce que la Cour:
+      
+–        rejette le pourvoi, pour partie, comme étant irrecevable et, pour partie, comme étant non fondé, et
+–        condamne Comap aux entiers dépens de l’instance.
+ Sur le pourvoi
+ Sur le premier moyen, tiré de la violation du droit à accéder à un tribunal indépendant et impartial
+ Argumentation des parties
+Par ce moyen, Comap soutient que l’arrêt attaqué a été rendu en violation du droit à accéder à un tribunal indépendant et
+         impartial garanti à l’article 47, deuxième alinéa, de la charte des droits fondamentaux de l’Union européenne (ci‑après la
+         «Charte») et à l’article 6, paragraphe 1, de la convention européenne de sauvegarde des droits de l’homme et des libertés
+         fondamentales, signée à Rome le novembre (ci-après la «CEDH»).
+      
+Comap fait valoir, à titre liminaire, que, même si ce moyen n’a pas été soulevé devant le Tribunal, il est recevable dès lors
+         qu’il se fonde sur des éléments de droit qui se sont révélés au cours de la procédure suivie devant le Tribunal au sens de
+         l’article 42, paragraphe 2, du règlement de procédure de la Cour et, plus précisément, postérieurement au dépôt de la requête
+         en annulation devant le Tribunal, à l’occasion de l’entrée en vigueur, le 1er décembre 2009, du traité de Lisbonne, qui a considérablement renforcé la valeur juridique de la Charte. Or, dans la mesure
+         où l’article 47, deuxième alinéa, de la Charte est formulé dans les mêmes termes que ceux de l’article 6, paragraphe 1, de
+         la CEDH, il devrait être interprété de la même manière que ce dernier, à la lumière de la jurisprudence de la Cour européenne
+         des droits de l’homme.
+      
+Quant au fond, Comap relève que la Cour européenne des droits de l’homme a interprété l’article 6, paragraphe 1, de la CEDH
+         comme interdisant aux autorités dotées du pouvoir d’infliger des sanctions pénales tout cumul des pouvoirs d’instruction et
+         de décision. Il serait à noter que l’article 47, deuxième alinéa, de la Charte s’applique à toute cause, sans établir de distinction
+         en fonction du caractère pénal ou non de la procédure ou des sanctions auxquelles cette dernière est susceptible d’aboutir.
+         Son application aux règles de procédure de l’article TFUE serait donc indiscutable. En tout état de cause, la procédure
+         relative à l’application de cet article présenterait un caractère pénal, dans la mesure où elle conduit à l’infliction d’amendes
+         qui présenteraient indiscutablement une nature pénale au sens de la jurisprudence de ladite Cour (Cour eur. D. H., arrêt Engel
+         et autres c. Pays-Bas du juin 1976, série A n° 22). La procédure d’application de l’article TFUE entrerait donc dans
+         le champ d’application des articles 47, deuxième alinéa, de la Charte et 6, paragraphe 1, de la CEDH.
+      
+Or, soutient Comap, la Commission ne présente pas les garanties d’indépendance et d’impartialité requises par ces dispositions
+         étant donné que, en application du règlement n° 1/2003, elle cumule les pouvoirs d’instruction et de sanction lorsqu’elle
+         applique, comme en l’espèce, l’article TFUE. Conformément à la jurisprudence du Tribunal, la Commission est non pas un
+         tribunal au sens de l’article de la CEDH, mais une autorité administrative et, dans le cadre de son contrôle de la légalité
+         des décisions de la Commission, le Tribunal statue avec une compétence de pleine juridiction sur les décisions infligeant
+         des amendes. Cette jurisprudence doit, de l’avis de Comap, être toutefois écartée étant donné qu’elle méconnaît les exigences
+         de la jurisprudence de la Cour européenne des droits de l’homme, selon lesquelles la condition d’indépendance et d’impartialité
+         doit être respectée au stade même où la sanction est prononcée.
+      
+Dans son arrêt Schmautzer c. Autriche du octobre (série A n° 328-A, § 36), la Cour européenne des droits de l’homme
+         aurait admis, à titre d’exception, la possibilité de déléguer à une autorité administrative le pouvoir d’instruire et de prendre
+         des décisions infligeant des sanctions, à la condition, notamment, qu’un recours soit ouvert contre ces décisions devant une
+         juridiction dotée de la capacité d’exercer un véritable contrôle de pleine juridiction, à savoir devant un tribunal de pleine
+         juridiction qui a la capacité de réformer en tous points, en fait comme en droit, la décision qui lui a été déférée. Or, mis
+         à part la considération selon laquelle le contrôle exercé par le Tribunal intervient a posteriori, ce dernier n’aurait pas
+         les moyens d’exercer un véritable contrôle de pleine juridiction sur les décisions de la Commission, à savoir de procéder
+         à un réexamen complet et ab initio des faits de l’affaire. Ainsi, le Tribunal se limiterait à un contrôle des erreurs manifestes
+         de droit et de fait concernant les décisions de la Commission infligeant des amendes, ainsi qu’il ressortirait de la présente
+         affaire, dans laquelle le Tribunal, sans procéder à une appréciation propre des faits soumis par Comap, se serait limité à
+         entériner la position de la Commission sans faire état d’une motivation spécifique.
+      
+En raison de l’absence d’un contrôle de pleine juridiction opéré par le Tribunal, Comap demande que l’arrêt attaqué soit annulé
+         dans son intégralité.
+      
+La Commission soutient, à titre principal, que ce moyen est irrecevable, étant donné qu’il n’est pas conforme à l’article
+         du statut de la Cour de justice de l’Union européenne. En effet, ledit moyen ne serait pas fondé sur des arguments tirés
+         de la procédure devant le Tribunal, mais évoquerait la procédure devant la Commission, à savoir le cumul, dans le chef de
+         la Commission, des fonctions d’enquête ainsi que de sanction, et suggérerait, de manière purement théorique, que le Tribunal
+         ne dispose pas des moyens lui permettant d’exercer un véritable contrôle de pleine juridiction sur les décisions de la Commission.
+      
+En outre, ce moyen ne serait pas nouveau, au sens de l’article 42, paragraphe 2, du règlement de procédure, à savoir fondé
+         sur des éléments de droit qui se sont révélés au cours de la procédure et qui n’auraient pas pu être soulevés au cours de
+         la procédure devant le Tribunal. En effet, Comap aurait pu soulever cette argumentation devant le Tribunal dès l’entrée en
+         vigueur du traité de Lisbonne, le 1er décembre 2009, puisque, à cette date, la procédure était encore pendante devant le Tribunal. En tout état de cause, ce moyen
+         ne se fonderait aucunement sur un fait nouveau qui se serait révélé au cours de l’instance, étant donné que tant la Cour que
+         le Tribunal appliqueraient la Charte depuis son adoption, avant même son intégration dans le droit primaire par le traité
+         de Lisbonne. 
+      
+À titre subsidiaire, la Commission considère que ce moyen n’est pas fondé. Elle fait observer qu’il revient à soutenir que
+         le Tribunal n’a pas exercé un contrôle de pleine juridiction en raison du fait qu’il disposerait de «moyens limités» qui l’empêcheraient
+         de «procéder à un réexamen complet des faits de l’affaire». Ledit moyen concernerait donc avant tout des questions d’ordre
+         institutionnel, tirées des pouvoirs de la Commission, tels que définis par le règlement n° 1/2003, qui relèveraient d’une
+         exception d’illégalité de ce règlement et ne pourraient donc être imputées à la Commission. Plus généralement, il s’agirait
+         de questions de répartition des compétences entre la Commission et le Tribunal, résultant du droit primaire, en particulier
+         des articles TFUE et TFUE. Or, la Cour pourrait interpréter ces dispositions, mais ne pourrait en aucun cas en apprécier
+         la légalité.
+      
+En outre, le droit à accéder à un tribunal indépendant et impartial ne serait pas enfreint par la procédure administrative
+         d’enquête et de constatation d’infractions appliquée par la Commission, laquelle procédure devrait être considérée non pas
+         isolément, mais dans le contexte de l’ensemble des voies de recours disponibles en pareilles circonstances. Selon les arrêts
+         de la Cour européenne des droits de l’homme Albert et Le Compte c. Belgique du février (série A n° 58, § 29) et Janosevic
+         c. Suède du juillet (Recueil des arrêts et décisions 2002-VII, § 81), il ne serait pas contraire à l’article de la CEDH de confier à des autorités administratives le pouvoir
+         de sanctionner des infractions au droit de la concurrence, qu’elles puissent ou non être de nature pénale, dès lors que les
+         décisions de ces autorités sont soumises au contrôle d’un tribunal indépendant et impartial qui dispose de la compétence de
+         pleine juridiction pour les réformer, en fait comme en droit.
+      
+Or, la Commission fait observer que cette exigence est parfaitement remplie dans le système de l’Union, étant donné que le
+         Tribunal, ayant le pouvoir de réformer les décisions de cette institution, en droit comme en fait, conformément à l’article
+         du règlement n° 1/2003, exerce une compétence de pleine juridiction.
+      
+En ce qui concerne l’appréciation économique complexe des faits, la Commission relève que le Tribunal a souligné, dans son
+         arrêt du septembre 2007, Microsoft/Commission (T‑201/04, Rec. p. II-3601, points à 89), que, si le juge de l’Union reconnaît
+         à la Commission une marge d’appréciation en matière économique ou technique, cela n’implique pas qu’il doive s’abstenir de
+         contrôler l’interprétation, par la Commission, de données de cette nature. Dès lors, il serait incontestable que le contrôle
+         exercé par le Tribunal constitue un contrôle de pleine juridiction au sens de l’article de la CEDH.
+      
+ Appréciation de la Cour
+Ainsi qu’il ressort de l’article du statut de la Cour, les moyens du pourvoi doivent être fondés sur des arguments tirés
+         de la procédure devant le Tribunal. En outre, selon l’article 113, paragraphe 2, du règlement de procédure, le pourvoi ne
+         peut modifier l’objet du litige devant le Tribunal. Ainsi, la compétence de la Cour, dans le cadre du pourvoi, est limitée
+         à l’appréciation de la solution juridique qui a été donnée aux moyens débattus devant les premiers juges. Une partie ne saurait
+         donc modifier l’objet du litige en soulevant pour la première fois devant la Cour un moyen qu’elle aurait pu soulever devant
+         le Tribunal mais qu’elle n’a pas soulevé, dès lors que cela reviendrait à lui permettre de saisir la Cour d’un litige plus
+         étendu que celui dont a eu à connaître le Tribunal. Un tel moyen doit donc être considéré comme irrecevable au stade du pourvoi
+         (voir arrêt du septembre 2011, Elf Aquitaine/Commission, C‑521/P, non encore publié au Recueil, point 35).
+      
+Le moyen tiré d’une prétendue violation du droit à accéder à un tribunal indépendant et impartial n’est pas fondé sur des
+         arguments tirés de la procédure suivie devant le Tribunal, mais sur des arguments portant sur les compétences de la Commission
+         en vertu des règles du droit de l’Union en matière de concurrence, au regard de la nature du contrôle exercé en cette matière
+         par le Tribunal. Or, un tel moyen n’a pas été soulevé devant le Tribunal alors qu’il aurait pu l’être et tend ainsi à modifier
+         l’objet du litige devant celui-ci.
+      
+Il y a lieu de constater que ce moyen ne peut être considéré comme nouveau, au sens de l’article 42, paragraphe 2, du règlement
+         de procédure, à savoir comme fondé «sur des éléments de droit ou de fait qui se sont révélés pendant la procédure» et qui
+         n’auraient pas pu être soulevés devant le Tribunal. En effet, l’entrée en vigueur du traité de Lisbonne, à laquelle se réfère
+         Comap, est intervenue durant la procédure devant le Tribunal et aurait pu, par conséquent, être invoquée dans le cadre de
+         cette procédure.
+      
+En tout état de cause, cette entrée en vigueur, comportant l’inclusion de la Charte dans le droit primaire de l’Union, ne
+         saurait être considérée comme un élément de droit nouveau, au sens de la disposition susvisée du règlement de procédure. En
+         effet, il y a lieu de rappeler que, même avant l’entrée en vigueur de ce traité, la Cour avait déjà constaté à plusieurs reprises
+         que le droit à un procès équitable tel qu’il découle, notamment, de l’article de la CEDH constitue un droit fondamental
+         que l’Union européenne respecte en tant que principe général en vertu de l’article 6, paragraphe 2, UE (voir, notamment, arrêt
+         du juin 2007, Ordre des barreaux francophones et germanophone e.a., C‑305/05, Rec. p. I-5305, points et 37).
+      
+Eu égard aux considérations qui précèdent, le premier moyen du pourvoi doit être rejeté comme étant irrecevable.
+      
+ Sur les deuxième à quatrième moyens, tirés respectivement d’une distanciation publique à l’égard des infractions commises,
+            de la nature des contacts entre Comap et FRA.BO et du défaut de motivation de la constatation de la continuation de l’infraction
+            après le mois de mars Sur le deuxième moyen
+–       Argumentation des parties
+Comap se réfère à la lettre envoyée par son PDG au président de la FNAS, le mars 2004, en soutenant que le Tribunal a retenu
+         une conception trop restrictive de la notion de «distanciation publique», qui méconnaîtrait les exigences résultant du principe
+         d’interprétation stricte de la loi pénale, consacré à l’article 7, paragraphe 1, de la CEDH. En effet, le Tribunal aurait
+         estimé, au point de l’arrêt attaqué, que, pour constituer la preuve d’une distanciation publique, cette lettre aurait dû
+         indiquer que la pratique anticoncurrentielle en cause avait effectivement eu lieu. Il exigerait donc purement et simplement
+         une reconnaissance par Comap de sa culpabilité. Or, cette exigence méconnaîtrait le principe d’interprétation stricte des
+         conditions dans lesquelles la responsabilité pénale peut être établie et violerait également le principe selon lequel le doute
+         doit profiter à l’entreprise destinataire de la décision infligeant une amende. Le Tribunal aurait également posé des exigences
+         formelles pour que le caractère probant d’une telle lettre puisse être admis.
+      
+La Commission répond que l’interprétation restrictive de la notion de distanciation publique ne constitue pas l’élément déterminant
+         sur lequel le Tribunal a fondé son arrêt. Dès lors, ce grief serait inopérant et, donc, irrecevable. En tout état de cause,
+         il serait non fondé. En effet, la Commission relève que, selon le principe régissant les règles de la concurrence, l’entreprise
+         qui a participé à des réunions anticoncurrentielles sans s’en distancier publiquement est présumée avoir participé à l’entente
+         infractionnelle. La distanciation publique constituerait la condition permettant de renverser la présomption de participation
+         à cette entente. Par conséquent, le raisonnement de Comap tendrait à inverser la charge de la preuve incombant à cette entreprise.
+      
+La Commission précise que, conformément à la jurisprudence de la Cour, elle doit rapporter la preuve de l’existence d’une
+         infraction. Toutefois, dès lors que la participation d’une entreprise a été établie, ce serait à cette dernière, qui prétend
+         s’en être dissociée, d’en apporter la preuve (arrêt du juillet 1999, Commission/Anic Partecipazioni, C‑49/P, Rec. p. I‑4125,
+         points et 96). De même, le concept de distanciation publique supposerait, par définition, une initiative illicite de l’entreprise
+         concernée, à savoir la participation de celle-ci à des réunions ayant pour objet de restreindre la concurrence (arrêt du janvier 2004, Aalborg Portland e.a./Commission, C‑204/P, C‑205/P, C‑211/P, C‑213/P, C‑217/P et C‑219/P,
+         Rec. p. I‑123, point 84).
+      
+Dès lors, ce serait à bon droit que le Tribunal a souligné que la lettre visée au point du présent arrêt ne mentionnait
+         pas qu’une pratique anticoncurrentielle avait eu lieu, alors que la distanciation publique permettrait, précisément, à une
+         entreprise qui a participé à des concertations illicites de s’en désolidariser et de bénéficier, par là même, d’une exonération
+         de responsabilité. En outre, le Tribunal n’aurait pas imposé des «exigences formelles» quant à la reconnaissance d’une distanciation
+         publique. Il aurait, au contraire, considéré que ladite lettre, par sa formulation trop générale, ne remplissait pas les exigences
+         de fond de clarté, de précision et de publicité requises pour la reconnaissance d’une telle distanciation. Le Tribunal n’aurait
+         donc commis aucune erreur de droit.
+      
+ Sur le troisième moyen
+–       Argumentation des parties
+Comap conteste le caractère anticoncurrentiel des contacts entretenus entre elle‑même et FRA.BO, en faisant valoir que ces
+         derniers s’expliquaient par trois types de relations d’affaires parfaitement légitimes. Elle conteste l’affirmation du Tribunal,
+         figurant au point de l’arrêt attaqué, selon laquelle ses arguments ne seraient étayés par aucune preuve. Afin d’établir
+         que ces contacts ont eu lieu dans le cadre d’une coopération industrielle entre ces deux sociétés, Comap se réfère à un compte
+         rendu interne d’une visite qu’elle a faite des installations d’une usine de FRA.BO le octobre 2003, annexé à sa réponse
+         à la communication des griefs, à un document commercial public de FRA.BO du mois d’avril 2005, témoignant de contacts en vue
+         de la commercialisation d’un nouveau type de raccord, annexé également à cette réponse, ainsi qu’à factures portant sur
+         l’année 2004, annexées à sa réplique et témoignant de l’existence de plusieurs ventes croisées de raccords réalisées entre
+         les deux sociétés. Deux de ces factures seraient datées, respectivement, des février et mars et, par conséquent,
+         antérieures au 1er avril 2004, date de fin des pratiques anticoncurrentielles retenue par la Commission et par le Tribunal.
+      
+Dès lors, le Tribunal aurait dû reconnaître que, en produisant ces éléments de preuve, Comap avait, à tout le moins, créé
+         les conditions d’un doute raisonnable, qui aurait dû lui profiter. Par conséquent, le Tribunal aurait dénaturé les éléments
+         de preuve produits par Comap et, par son affirmation figurant au point de l’arrêt attaqué, aurait commis une erreur de
+         qualification juridique. Comap ajoute que la circonstance qu’elle a pu échanger des informations «sensibles» avec FRA.BO s’explique
+         très naturellement par les trois types de relations d’affaires qu’entretenaient ces deux entreprises au cours de la période
+         considérée.
+      
+La Commission répond que, conformément à une jurisprudence constante, la constatation des faits et leur interprétation relèvent
+         de l’appréciation du Tribunal et que seule leur qualification juridique peut être contrôlée par la Cour (arrêt du mars
+         2011, ThyssenKrupp Nirosta/Commission, C‑352/P, non encore publié au Recueil, points et 180). Or, Comap demanderait
+         à la Cour de revenir sur l’interprétation, par le Tribunal, d’éléments factuels concernant la nature des contacts et des échanges
+         d’informations entre Comap et FRA.BO. Il s’agirait d’éléments de fait non susceptibles d’un pourvoi et ce moyen serait donc
+         irrecevable.
+      
+Comap essaierait, toutefois, de faire échec à cette irrecevabilité, en soutenant que la constatation du Tribunal, figurant
+         au point de l’arrêt attaqué, selon laquelle l’argumentation de Comap n’était étayée par aucune preuve, constitue une dénaturation
+         des preuves conduisant à une erreur de qualification juridique. La Commission fait observer que, à ce point, le Tribunal a
+         constaté, avant tout, que les arguments de Comap «ne remett[aient] pas en cause le fait que des échanges d’informations sensibles,
+         des coordinations de prix et des hausses de prix [avaient] eu lieu» et que, «en outre», ces arguments n’étaient étayés par
+         aucune preuve, ce qui montre le caractère surabondant de cette dernière constatation.
+      
+En ce qui concerne, plus particulièrement, les factures auxquelles se réfère Comap, la Commission fait valoir que, selon les
+         constatations du Tribunal, non seulement elles avaient été produites au stade de la réplique, soit tardivement, mais que,
+         en outre, elles ne couvraient que la période postérieure à l’année 2004. L’allégation de Comap, selon laquelle cette constatation
+         serait erronée puisque deux factures sont datées, respectivement, des février et mars 2004, ne serait pas fondée, ces
+         deux factures représentant une faible partie des factures produites.
+      
+En ce qui concerne la charge de la preuve, la Commission relève que, s’agissant des explications alternatives qu’il convenait
+         d’apporter à des faits qui, en tant que tels, sont établis, il incombait à Comap de fournir les preuves nécessaires pour renverser
+         l’interprétation qui ressortait clairement de l’examen de ces faits. La question de savoir si les preuves que cette dernière
+         devait apporter ont effectivement été fournies constituerait une question de fait soumise au contrôle du Tribunal et non pas
+         à l’examen de la Cour dans le cadre d’un pourvoi.
+      
+ Sur le quatrième moyen
+–       Argumentation des parties
+Comap relève que le Tribunal, pour établir sa participation à une infraction unique et continue après le mois de mars 2001,
+         s’est fondé sur les trois types de contacts mentionnés aux points à du présent arrêt, présentant, selon lui, un caractère
+         anticoncurrentiel, sans motiver suffisamment sa conclusion suivant laquelle ces trois types de contacts, noués entre les mois
+         de juin et de février 2004, se rattachaient par un lien de continuité aux pratiques infractionnelles principales constatées
+         pour la période 1997‑2001. Ainsi, le Tribunal aurait procédé à une dénaturation des faits et commis une erreur de droit.
+      
+Comap se réfère à cet égard aux critères dégagés par la jurisprudence de la Cour et du Tribunal relative à la notion de «continuité»
+         d’une pratique anticoncurrentielle, notamment par les arrêts Aalborg Portland e.a./Commission, précité, et du Tribunal du
+         décembre 2007, BASF/Commission (T‑101/et T‑111/05, Rec. p. II‑4949). Conformément à cette jurisprudence, il faudrait
+         qu’il existe un lien de complémentarité entre les différentes phases d’une entente. Le Tribunal aurait donc dû vérifier si
+         la Commission avait démontré que les contacts entretenus entre Comap et ses concurrents entre les mois de juin et de
+         février faisaient partie d’un plan d’ensemble complémentaire de l’entente générale constatée pour la période 1997‑2001.
+      
+Un critère, à cet effet, serait constitué par l’existence d’un objectif anticoncurrentiel unique, commun à l’ensemble des
+         pratiques. Or, les contacts établis entre Comap et FRA.BO et dans le cadre de la foire d’Essen auraient eu un caractère purement
+         bilatéral et ceux entretenus dans le cadre du comité logistique de la FNAS concerneraient le seul marché français et ne présenteraient
+         donc pas la portée paneuropéenne que présentaient les pratiques constatées pendant la période 1997‑2001. De plus, ces pratiques
+         ne présenteraient aucunement un mode opératoire commun avec les pratiques principales constatées auparavant. En outre, ces
+         pratiques les plus récentes ne rempliraient pas le critère de l’identité des participants par rapport aux pratiques précédentes,
+         étant donné que le nombre d’entreprises impliquées serait passé, conformément aux constatations du Tribunal, de neuf à quatre
+         et que le niveau hiérarchique des personnes impliquées dans les contacts serait beaucoup moins élevé que celui des contacts
+         anticoncurrentiels précédents.
+      
+Comap reproche ainsi au Tribunal d’avoir eu dans la présente affaire, s’agissant des critères appliqués, une approche différente
+         de celle qu’il avait retenue au point de l’arrêt du Tribunal du mars 2011, Aalberts Industries e.a./Commission (T‑385/06,
+         non encore publié au Recueil), qui concernait une entreprise impliquée dans la même entente.
+      
+Comap soutient, en dernier lieu, que le dernier critère de continuité de l’infraction, à savoir la permanence des pratiques
+         incriminées dans le temps, n’était pas en l’occurrence rempli, une telle permanence faisant défaut. En effet, le Tribunal
+         aurait négligé la circonstance qu’il n’existait aucun commencement de preuve de la poursuite de l’entente entre les mois de
+         mars et de juin et qu’il y aurait ainsi une interruption de celle‑ci pendant plus de deux ans. En tout état de cause,
+         à supposer même que les pratiques anticoncurrentielles se soient poursuivies au‑delà du mois de mars 2001, le Tribunal aurait
+         commis une erreur de droit en omettant, contrairement à ce qu’il aurait fait au point de l’arrêt Aalberts Industries e.a./Commission,
+         précité, de procéder à la vérification de la participation effective de Comap à l’infraction considérée comme unique et continue,
+         en examinant si cette entreprise avait eu connaissance du fait que, par son comportement, elle avait adhéré à l’entente à
+         laquelle elle avait déjà participé avant le mois de mars et qui se poursuivait.
+      
+La Commission fait observer que Comap n’a pas contesté avoir participé à l’ensemble des trois types de rencontres sur lesquelles
+         le Tribunal a fondé sa constatation de la continuité de l’infraction. Son recours devant le Tribunal ainsi que son pourvoi
+         auraient pour seul objet de contester l’interprétation de ces faits. Or, cette circonstance serait substantiellement différente
+         de celle retenue par le Tribunal dans l’arrêt Aalberts Industries e.a./Commission, précité, dans lequel, toutefois, il serait
+         parvenu à la même conclusion que dans l’arrêt attaqué, en ce qui concerne la continuité de l’infraction, à savoir qu’il s’agissait,
+         après le mois de mars 2001, de la continuation d’une infraction qui avait précédé cette date. Le Tribunal aurait néanmoins
+         conclu que, au regard des faits qui lui étaient soumis, la participation d’Aalberts Industries NV à l’infraction après le
+         mois de mars n’était pas établie à suffisance de droit. La Commission s’étonne donc que Comap reproche au Tribunal de
+         ne pas avoir vérifié sa participation effective à l’infraction, alors qu’elle n’avait jamais nié sa participation aux faits
+         établis.
+      
+En ce qui concerne le prétendu défaut de motivation de l’arrêt attaqué, la Commission fait valoir que, ainsi qu’il ressort
+         de cet arrêt, notamment de ses points à 73, le Tribunal a vérifié que la Commission avait établi à suffisance de droit
+         que les contacts entretenus entre Comap et ses concurrents, pour la période postérieure au mois de mars constituaient
+         la continuation de l’entente générale antérieure à ce mois. Dès lors, le défaut de motivation allégué serait un argument de
+         fond, relatif à une dénaturation des faits. Or, à l’appui de cette argumentation, Comap ne mentionnerait aucun élément concret
+         de nature à étayer une telle dénaturation au sens de la jurisprudence, à savoir une dénaturation des éléments de preuve présentés
+         devant le Tribunal (arrêt Aalborg Portland e.a./Commission, précité, points et 50), et mettrait simplement en cause l’interprétation
+         de ces faits retenue par le Tribunal, laquelle échapperait au contrôle de la Cour. Cet argument serait donc irrecevable.
+      
+S’agissant de la prétendue erreur de droit invoquée en ce qui concerne la notion de continuité de l’infraction, la Commission
+         souligne qu’il n’existe pas de liste unique des critères cumulatifs permettant d’établir une telle continuité et que chaque
+         cas doit être examiné selon ses propres caractéristiques. Il ressortirait de la jurisprudence de la Cour (arrêt du septembre
+         2006, Nederlandse Federatieve Vereniging voor de Groothandel op Elektrotechnisch Gebied/Commission, C‑105/P, Rec. p. I‑8725,
+         points à 96), que l’établissement, par le Tribunal, de la continuité d’une entente découle d’une appréciation in concreto,
+         consistant en une évaluation globale de l’ensemble des preuves et indices pertinents, parmi lesquels se trouveraient l’identité
+         des objectifs des pratiques en cause, l’identité des produits concernés, l’identité des manifestations de l’entente, tels
+         que des contacts bilatéraux, ainsi que l’identité des personnes physiques impliquées et celle du champ d’application géographique
+         des pratiques en cause, critères qui devraient être appréciés de manière globale et non pas cumulative. En l’espèce, le Tribunal,
+         sur la base des éléments dont il disposait, aurait conclu à la continuité de l’entente, en raison du fait que les pratiques
+         postérieures à l’année seraient reliées aux pratiques antérieures à ladite année. Cette conclusion ne relèverait pas
+         du contrôle de la Cour dans le cadre d’un pourvoi.
+      
+En ce qui concerne la permanence des pratiques infractionnelles dans le temps en tant que dernier critère de la continuité
+         d’une entente, la Commission renvoie à la jurisprudence de la Cour, selon laquelle le fait que les manifestations de l’entente
+         interviennent à des périodes différentes, pouvant être séparées par des laps de temps plus ou moins longs, demeure sans incidence
+         sur l’existence de cette entente, pour autant que les différentes actions qui font partie de cette infraction poursuivent
+         une seule finalité et s’inscrivent dans le cadre d’une infraction à caractère unique et continue (arrêt Nederlandse Federatieve
+         Vereniging voor de Groothandel op Elektrotechnisch Gebied/Commission, précité, point 98). Or, Comap n’aurait pu démontrer
+         aucune interruption de sa participation à l’entente après les vérifications effectuées au mois de mars et aucune raison
+         ne justifierait que la durée de cette participation soit réduite.
+      
+ Appréciation de la Cour
+Par les deuxième à quatrième moyens du pourvoi, Comap, contrairement à ce qui était le cas dans une partie de son argumentation
+         développée devant le Tribunal, ne conteste pas sa participation à l’entente anticoncurrentielle en cause durant toute la période
+         précédant le mois de mars 2001, au cours duquel des vérifications ont été effectuées par la Commission dans les locaux de
+         plusieurs entreprises.
+      
+Comap conteste, en revanche, sa participation à cette entente pour la période allant du mois de mars au 1er avril 2004, date de fin de l’infraction retenue par la Commission pour l’ensemble des faits, et, plus particulièrement, la
+         conclusion du Tribunal selon laquelle l’infraction constatée pendant cette période constituait la poursuite d’une seule et
+         même infraction, constatée pour la période antérieure au mois de mars 2001. Comap tente ainsi de faire réduire la durée de
+         sa participation à l’infraction et, corrélativement, le montant de l’amende qui lui a été infligée.
+      
+Cette conclusion du Tribunal est fondée sur trois événements, à savoir, premièrement, les contacts bilatéraux entretenus entre
+         Comap et FRA.BO, deuxièmement, les contacts établis entre un représentant de Comap et un représentant d’une entreprise concurrente,
+         également impliquée dans l’entente incriminée, le mars 2004, lors de la foire d’Essen et, troisièmement, la participation
+         de Comap aux réunions de la FNAS, attestée par les procès-verbaux du comité logistique de la FNAS des juin 2003, octobre
+         et janvier 2004, ainsi que par une conférence téléphonique ayant eu lieu le février 2004.
+      
+Par les moyens du pourvoi susvisés, Comap, ne contestant pas l’exactitude matérielle de ces éléments, met en cause leur sens,
+         leur pertinence et leur importance, ainsi que la force probante qui leur a été attribuée par le Tribunal.
+      
+Conformément à une jurisprudence constante, il résulte des articles TFUE et 58, premier alinéa, du statut de la Cour que
+         le Tribunal est seul compétent, d’une part, pour constater les faits, sauf dans le cas où l’inexactitude matérielle de ses
+         constatations résulterait des pièces du dossier qui lui ont été soumises, et, d’autre part, pour apprécier ces faits. Lorsque
+         le Tribunal a constaté ou apprécié les faits, la Cour est compétente pour exercer, en vertu de l’article TFUE, un contrôle
+         sur la qualification juridique de ces faits et les conséquences de droit qui en ont été tirées par le Tribunal. La Cour n’est
+         donc pas compétente pour constater les faits ni, en principe, pour examiner les preuves que le Tribunal a retenues à l’appui
+         de ces faits. Cette appréciation ne constitue donc pas, sous réserve du cas de la dénaturation de ces éléments, une question
+         de droit soumise, comme telle, au contrôle de la Cour (arrêt Archer Daniels Midland/Commission, précité, point et jurisprudence
+         citée).
+      
+Il convient de relever d’emblée, au sujet des deuxième à quatrième moyens du pourvoi, que les notions de distanciation publique
+         et de continuité d’une pratique anticoncurrentielle, auxquelles ces moyens font référence, traduisent des situations factuelles,
+         dont l’existence est constatée par le juge du fond, au cas par cas, sur la base d’une appréciation «d’un certain nombre de
+         coïncidences et d’indices» qui lui ont été soumis et par suite d’une «évaluation globale de l’ensemble des preuves et indices
+         pertinents», ainsi qu’il ressort, en ce qui concerne, en particulier, la notion de «durée d’un comportement anticoncurrentiel
+         continu», des points à de l’arrêt Nederlandse Federatieve Vereniging voor de Groothandel op Elektrotechnisch Gebied/Commission,
+         précité. Dès lors que ces preuves ont été obtenues régulièrement, que les principes généraux du droit ainsi que les règles
+         de procédure applicables en matière de charge et d’administration de la preuve ont été respectés, il appartient au seul Tribunal
+         d’apprécier la valeur qu’il convient d’attribuer aux éléments qui lui ont été soumis. Cette appréciation ne constitue donc
+         pas, sous réserve du cas de la dénaturation de ces éléments, une question de droit soumise, comme telle, au contrôle de la
+         Cour (voir arrêts du décembre 2008, British Aggregates/Commission, C-487/P, Rec. p. I‑10515, point 97, et du octobre
+         2011, Autriche/Scheucher-Fleisch e.a., C‑47/P, non encore publié au Recueil, point 58).
+      
+C’est à la lumière de ces considérations générales que doivent être appréciés les deuxième à quatrième moyens du pourvoi.
+      
+Par son deuxième moyen, Comap met en cause le fait que le Tribunal n’a pas accepté en tant que manifestation d’une distanciation
+         publique la lettre envoyée par son PDG au président de la FNAS, le mars 2004, au sujet de la réunion attestée par le procès-verbal
+         du comité logistique de la FNAS du janvier et de la conférence téléphonique du février 2004, susmentionnées.
+      
+Il importe de rappeler, en réponse à l’argumentation développée par Comap, que, conformément à une jurisprudence constante,
+         lorsqu’il est établi qu’une entreprise a participé à des réunions entre entreprises concurrentes ayant un caractère anticoncurrentiel,
+         il incombe à cette entreprise d’avancer des indices de nature à établir que sa participation était dépourvue de tout esprit
+         anticoncurrentiel, en démontrant qu’elle avait indiqué à ses concurrents qu’elle participait à ces réunions dans une optique
+         différente de la leur (voir, en ce sens, arrêts Aalborg Portland e.a./Commission, précité, point 81; du janvier 2007, Sumitomo
+         Metal Industries et Nippon Steel/Commission, C‑403/P et C‑405/P, Rec. p. I‑729, point 47, ainsi que Archer Daniels Midland/Commission,
+         précité, point 119).
+      
+Afin que la participation d’une entreprise à une telle réunion ne puisse pas être considérée comme l’approbation tacite d’une
+         initiative illicite ni comme une souscription à son résultat, il faut que cette entreprise se distancie publiquement de cette
+         initiative de manière à ce que les autres participants considèrent qu’elle met fin à sa participation, ou bien qu’elle la
+         dénonce aux entités administratives (voir, en ce sens, arrêts précités Aalborg Portland e.a./Commission, point 84; Sumitomo
+         Metal Industries et Nippon Steel/Commission, point 48, ainsi que Archer Daniels Midland/Commission, point 120).
+      
+En l’occurrence, ainsi qu’il a été constaté dans l’arrêt attaqué, les réunions du comité logistique de la FNAS, tenues entre
+         entreprises concurrentes, dont Comap, et portant sur des éléments sensibles de la politique commerciale, notamment sur les
+         prix, avaient un caractère anticoncurrentiel. Par conséquent, afin de renverser la présomption du caractère illicite de sa
+         participation à ces réunions, Comap devrait apporter la preuve qu’elle s’est distancée publiquement du contenu de celles‑ci.
+      
+Le Tribunal a examiné les éléments de preuve que Comap avait soumis à son appréciation à cette fin et a jugé que ces éléments
+         n’étaient pas suffisants pour établir, en l’espèce, une distanciation publique, susceptible de dégager Comap de la responsabilité
+         résultant de sa participation à ces réunions. En jugeant ainsi, le Tribunal a simplement conclu que Comap n’avait pu renverser
+         la présomption pesant sur elle, établie par la jurisprudence citée au point du présent arrêt.
+      
+Étant donné que cette appréciation factuelle du Tribunal ne peut être soumise au contrôle de la Cour, ce moyen doit être rejeté
+         comme irrecevable.
+      
+Le troisième moyen du pourvoi porte sur la nature des contacts que Comap a entretenus avec l’entreprise concurrente FRA.BO
+         entre les mois de juin et de février 2004. Comap, sans mettre en doute l’existence de ces contacts, conteste toutefois
+         leur caractère anticoncurrentiel, en soutenant qu’ils s’expliquaient par des relations d’affaires existant entre ces deux
+         entreprises.
+      
+Il convient de relever que, ainsi qu’il ressort des constatations du Tribunal, le caractère anticoncurrentiel de ces contacts
+         est mis en évidence par les déclarations auxquelles FRA.BO a procédé dans le cadre de sa demande de clémence et par les preuves
+         documentaires qu’elle a fournies, selon lesquelles, lors des mêmes contacts, des informations sensibles ont été échangées
+         entre les deux entreprises, portant, notamment, sur des coordinations et des hausses de prix.
+      
+Par conséquent, conformément à la jurisprudence citée au point du présent arrêt, il incombait à Comap d’avancer des éléments
+         de preuve de nature à établir de manière circonstanciée que sa participation à ces contacts était dépourvue de tout esprit
+         anticoncurrentiel et que ses rapports avec FRA.BO se plaçaient dans le cadre de relations commerciales normales.
+      
+Il ressort de la jurisprudence citée au point du présent arrêt que l’appréciation des faits ne constitue pas, sous réserve
+         du cas de la dénaturation des éléments de preuve qui ont été soumis au Tribunal, une question de droit soumise, comme telle,
+         au contrôle de la Cour.
+      
+En l’occurrence, aucune dénaturation d’éléments de preuve ne peut être retenue. En effet, le Tribunal a procédé à l’appréciation
+         des éléments que Comap lui avait soumis et a jugé que leur force probante était insuffisante pour renverser la constatation
+         selon laquelle les contacts entretenus entre cette entreprise et FRA.BO avaient un caractère anticoncurrentiel. Dès lors,
+         cette conclusion du Tribunal, qui est fondée sur une évaluation d’éléments factuels, sans que la requérante indique spécifiquement
+         en quoi ces éléments auraient été dénaturés par le Tribunal, ne peut être soumise au contrôle de la Cour au stade du pourvoi.
+      
+Par conséquent, ce moyen doit également être rejeté comme irrecevable.
+      
+Par le quatrième moyen du pourvoi, qui a une portée plus générale que celle des deux moyens examinés précédemment, Comap conteste,
+         en substance, la conclusion du Tribunal selon laquelle les trois types d’événements et de contacts, mentionnés au point du présent arrêt, étaient appropriés et suffisants pour établir la continuation, après le mois de mars 2001, de la pratique
+         anticoncurrentielle qui avait été constatée pendant la période antérieure à ce mois, ainsi que sa participation à celle‑ci,
+         et elle soutient que cette conclusion n’est pas suffisamment motivée.
+      
+Il importe de rappeler que, ainsi qu’il a été relevé au point du présent arrêt, la notion de continuité traduit une situation
+         factuelle dont l’existence est constatée dans chaque cas d’espèce par le juge du fond, sur la base d’une évaluation globale
+         de tous les éléments probants et de tous les indices qui lui sont soumis. Il ressort également de la jurisprudence citée audit
+         point que la question de savoir quelle valeur probante le juge du fond a attribuée à chacun de ces éléments et indices
+         constitue une question d’appréciation de fait, ne pouvant être soumise au contrôle de la Cour, sous réserve du cas de la dénaturation
+         de ceux‑ci.
+      
+En l’occurrence, le Tribunal, à la suite de l’examen de tous les éléments qui lui avaient été soumis, a conclu à la continuation,
+         après le mois de mars 2001, de la pratique anticoncurrentielle qui avait été constatée pour la période antérieure à ce mois.
+         Dès lors, l’argumentation de Comap, qui vise, en réalité, à ce que la Cour réexamine la valeur probante attribuée par le Tribunal
+         aux différents éléments et indices factuels sur lesquels ce dernier a fondé ses conclusions, est irrecevable.
+      
+Toutefois, Comap fait également valoir que cette conclusion du Tribunal n’est pas suffisamment motivée.
+      
+Il y a lieu de signaler, à cet égard, que le Tribunal a fondé sa conclusion concernant la continuité d’une même entente illicite
+         sur la constatation selon laquelle les comportements des entreprises concurrentes impliquées dans cette entente, sur la base
+         desquels était établie l’infraction aux règles de la concurrence pour la période précédant le mois de mars 2001, avaient les
+         mêmes caractéristiques après ce mois de mars et que, ainsi, cette entente se manifestait d’une manière identique.
+      
+Ainsi qu’il ressort des points à de l’arrêt attaqué, le Tribunal a relevé que ces comportements consistaient toujours
+         en des contacts multilatéraux et bilatéraux, pris lors de réunions organisées dans le cadre d’associations professionnelles,
+         de foires commerciales, de réunions ad hoc et d’échanges de vues bilatéraux, ce qui permettait de considérer que l’objectif
+         des pratiques anticoncurrentielles était resté le même, à savoir, notamment, la concertation sur les prix des produits sur
+         lesquels portait l’entente. Le Tribunal a ajouté qu’il était plausible que, après les vérifications effectuées par la Commission
+         au mois de mars 2001, l’entente ait connu une forme moins structurée ainsi qu’une intensité plus variable et il a souligné
+         que le fait que le nombre des participants, après ce mois de mars, a été réduit n’était pas susceptible d’avoir une incidence
+         sur la constatation de la continuité de l’entente, les acteurs principaux étant restés impliqués dans celle‑ci. En outre,
+         du point de vue de son étendue géographique, cette entente, après le mois de mars 2001, avait maintenu sa portée internationale.
+      
+Par conséquent, l’arrêt attaqué n’est entaché d’aucune insuffisance de motivation en ce qui concerne la constatation de la
+         continuité de l’entente en cause et de l’implication de Comap dans celle‑ci, en raison de sa participation à tous les événements
+         relevés après le mois de mars 2001. Dès lors, cet argument doit être rejeté comme non fondé.
+      
+Sur la base des considérations qui précèdent, il convient de constater que ce moyen doit être rejeté pour partie comme irrecevable
+         et pour partie comme non fondé.
+      
+Aucun des moyens invoqués par la requérante n’ayant été accueilli, il y a lieu de rejeter le pourvoi.
+      
+ Sur les dépens
+Aux termes de l’article du règlement de procédure, lorsque le pourvoi n’est pas fondé, la Cour statue sur les dépens.
+         Aux termes de l’article 69, paragraphe 2, de ce règlement, applicable à la procédure de pourvoi en vertu de l’article de celui‑ci, toute partie qui succombe est condamnée aux dépens, s’il est conclu en ce sens. Comap ayant succombé en ses moyens
+         et la Commission ayant conclu à sa condamnation, il y a lieu de la condamner aux dépens.
+      
+Par ces motifs, la Cour (troisième chambre) déclare et arrête:
+1)      Le pourvoi est rejeté.
+2)      Comap SA est condamnée aux dépens.
+Signatures
+* Langue de procédure: le français.
+      
+Top  
+ 

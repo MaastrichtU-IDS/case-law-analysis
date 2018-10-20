@@ -1,0 +1,195 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+February (
+*)
+‛Information society — Copyright — Internet — Hosting service provider — Processing of information stored on an online social networking platform — Introducing a system for filtering that information in order to prevent files being made available which infringe copyright — No general obligation to monitor stored information’
+In Case C-360/10,
+REFERENCE for a preliminary ruling under Article TFEU from the rechtbank van eerste aanleg te Brussel (Belgium), made by decision of June 2010, received at the Court on July 2010, in the proceedings
+Belgische Vereniging van Auteurs, Componisten en Uitgevers CVBA (SABAM)
+v
+Netlog NV,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, J. Malenovský (Rapporteur), R. Silva de Lapuerta, G. Arestis and D. Šváby, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on July 2011,
+after considering the observations submitted on behalf of:
+—
+Belgische Vereniging van Auteurs, Componisten en Uitgevers CVBA (SABAM), by B. Michaux, F. de Visscher and F. Brison, advocaten,
+—
+Netlog NV, by P. Van Eecke, advocaat,
+—
+the Belgian Government, by T. Materne and J.-C. Halleux, acting as Agents,
+—
+the Italian Government, by G. Palmieri, acting as Agent, assisted by S. Fiorentino, avvocato dello Stato,
+—
+the Netherlands Government, by C. Wissels, acting as Agent,
+—
+the United Kingdom Government, by S. Ossowski, acting as Agent,
+—
+the European Commission, by A. Nijenhuis and J. Samnadda, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of:
+—
+Directive 2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce) (OJ L 178, p. 1);
+—
+Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167, p. 10);
+—
+Directive 2004/48/EC of the European Parliament and of the Council of April on the enforcement of intellectual property rights (OJ L 157, p. 45, and corrigenda OJ L 195, p. 16, and OJ L 204, p. 27);
+—
+Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31); and
+—
+Directive 2002/58/EC of the European Parliament and of the Council of July concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, p. 37).
+The reference has been made in proceedings between Belgische Vereniging van Auteurs, Componisten en Uitgevers CVBA (SABAM) (‘SABAM’) and Netlog NV (‘Netlog’), the owner of an online social networking platform, concerning Netlog’s obligation to introduce a system for filtering information stored on its platform in order to prevent files being made available which infringe copyright.
+Legal context
+European Union (EU) law
+Directive 2000/Under recitals 45, and in the preamble to Directive 2000/31:
+‘(45)
+The limitations of the liability of intermediary service providers established in this Directive do not affect the possibility of injunctions of different kinds; such injunctions can in particular consist of orders by courts or administrative authorities requiring the termination or prevention of any infringement, including the removal of illegal information or the disabling of access to it.
+…
+(47)
+Member States are prevented from imposing a monitoring obligation on service providers only with respect to obligations of a general nature; this does not concern monitoring obligations in a specific case and, in particular, does not affect orders by national authorities in accordance with national legislation.
+(48)
+This Directive does not affect the possibility for Member States of requiring service providers, who host information provided by recipients of their service, to apply duties of care, which can reasonably be expected from them and which are specified by national law, in order to detect and prevent certain types of illegal activities.’
+Article of Directive 2000/31, headed ‘Hosting’, states:
+‘(1)   Where an information society service is provided that consists of the storage of information provided by a recipient of the service, Member States shall ensure that the service provider is not liable for the information stored at the request of a recipient of the service, on condition that:
+(a)
+the provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent; or
+(b)
+the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information.
+(2)   Paragraph shall not apply when the recipient of the service is acting under the authority or the control of the provider.
+(3)   This Article shall not affect the possibility for a court or administrative authority, in accordance with Member States’ legal systems, of requiring the service provider to terminate or prevent an infringement, nor does it affect the possibility for Member States of establishing procedures governing the removal or disabling of access to information.’
+Under Article of Directive 2000/31:
+‘(1)   Member States shall not impose a general obligation on providers, when providing the services covered by Articles 12, and 14, to monitor the information which they transmit or store, nor a general obligation actively to seek facts or circumstances indicating illegal activity.
+(2)   Member States may establish obligations for information society service providers promptly to inform the competent public authorities of alleged illegal activities undertaken or information provided by recipients of their service or obligations to communicate to the competent authorities, at their request, information enabling the identification of recipients of their service with whom they have storage agreements.’
+Directive 2001/Under recitals and in the preamble to Directive 2001/29:
+‘(16)
+… This Directive should be implemented within a timescale similar to that for the implementation of [Directive 2000/31], since that Directive provides a harmonised framework of principles and provisions relevant inter alia to important parts of this Directive. This Directive is without prejudice to provisions relating to liability in that Directive.
+…
+(59)
+In the digital environment, in particular, the services of intermediaries may increasingly be used by third parties for infringing activities. In many cases such intermediaries are best placed to bring such infringing activities to an end. Therefore, without prejudice to any other sanctions and remedies available, rightholders should have the possibility of applying for an injunction against an intermediary who carries a third party’s infringement of a protected work or other subject-matter in a network. This possibility should be available even where the acts carried out by the intermediary are exempted under Article 5. The conditions and modalities relating to such injunctions should be left to the national law of the Member States.’
+Under Article 3(1) of Directive 2001/29:
+‘Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.’
+Article of that directive provides:
+‘(1)   Member States shall provide appropriate sanctions and remedies in respect of infringements of the rights and obligations set out in this Directive and shall take all the measures necessary to ensure that those sanctions and remedies are applied. The sanctions thus provided for shall be effective, proportionate and dissuasive.
+…
+(3)   Member States shall ensure that rightholders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right.’
+Directive 2004/Recital in the preamble to Directive 2004/is worded as follows:
+‘Without prejudice to any other measures, procedures and remedies available, rightholders should have the possibility of applying for an injunction against an intermediary whose services are being used by a third party to infringe the rightholder’s industrial property right. The conditions and procedures relating to such injunctions should be left to the national law of the Member States. As far as infringements of copyright and related rights are concerned, a comprehensive level of harmonisation is already provided for in Directive [2001/29]. Article 8(3) of Directive [2001/29] should therefore not be affected by this Directive.’
+Under Article 2(3) of Directive 2004/48:
+‘This Directive shall not affect:
+(a)
+the Community provisions governing the substantive law on intellectual property, Directive 95/46/EC … or Directive 2000/31/EC, in general, and Articles to of Directive 2000/31/EC in particular;
+…’
+Article of Directive 2004/states:
+‘(1)   Member States shall provide for the measures, procedures and remedies necessary to ensure the enforcement of the intellectual property rights covered by this Directive. Those measures, procedures and remedies shall be fair and equitable and shall not be unnecessarily complicated or costly, or entail unreasonable time-limits or unwarranted delays.
+(2)   Those measures, procedures and remedies shall also be effective, proportionate and dissuasive and shall be applied in such a manner as to avoid the creation of barriers to legitimate trade and to provide for safeguards against their abuse.’
+The third sentence of Article of Directive 2004/states:
+‘Member States shall also ensure that rightholders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe an intellectual property right, without prejudice to Article 8(3) of Directive [2001/29].’
+National law
+Article 87(1), first and second subparagraphs, of the Law of June on copyright and related rights (Belgisch Staatsblad, July 1994, p. 19297), which transposes Article 8(3) of Directive 2001/and Article of Directive 2004/into national law, states:
+‘The President of the Tribunal de première instance (Court of First Instance) … shall determine the existence of any infringement of a copyright or related right and shall order that it be brought to an end.
+He may also issue an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right.’
+Articles and of the Law of March on certain legal aspects of information society services (Belgisch Staatsblad, March 2003, p. 12962) transpose Articles and of Directive 2000/into national law.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+SABAM is a management company which represents authors, composers and publishers of musical works. On that basis, it is responsible for, inter alia, authorising the use by third parties of copyright-protected works of those authors, composers and publishers.
+Netlog runs an online social networking platform where every person who registers acquires a personal space known as a ‘profile’ which the user can complete himself and which becomes available globally.
+The most important function of that platform, which is used by tens of millions of individuals on a daily basis, is to build virtual communities through which those individuals can communicate with each other and thereby develop friendships. On their profile, users can, inter alia, keep a diary, indicate their hobbies and interests, show who their friends are, display personal photos or publish video clips.
+However, SABAM claimed that Netlog’s social network also offers all users the opportunity to make use, by means of their profile, of the musical and audio-visual works in SABAM’s repertoire, making those works available to the public in such a way that other users of that network can have access to them without SABAM’s consent and without Netlog paying it any fee.
+During February 2009, SABAM approached Netlog with a view to concluding an agreement regarding the payment of a fee by Netlog for the use of the SABAM repertoire.
+By letter of June 2009, SABAM gave notice to Netlog that it should give an undertaking to cease and desist from making available to the public musical and audio-visual works from SABAM’s repertoire without the necessary authorisation.
+On June 2009, SABAM had Netlog summoned before the President of the rechtbank van eerste aanleg te Brussel (Court of First Instance, Brussels) in injunction proceedings under Article 87(1) of the Law of June on copyright and related rights, requesting inter alia that Netlog be ordered immediately to cease unlawfully making available musical or audio-visual works from SABAM’s repertoire and to pay a penalty of EUR for each day of delay in complying with that order.
+In that regard, Netlog submitted that granting SABAM’s injunction would be tantamount to imposing on Netlog a general obligation to monitor, which is prohibited by Article 21(1) of the Law of March on certain legal aspects of information society services, which transposes Article 15(1) of Directive 2000/into national law.
+In addition, Netlog claimed, without being contradicted by SABAM, that the granting of such an injunction could result in the imposition of an order that it introduce, for all its customers, in abstracto and as a preventative measure, at its own cost and for an unlimited period, a system for filtering most of the information which is stored on its servers in order to identify on its servers electronic files containing musical, cinematographic or audio-visual work in respect of which SABAM claims to hold rights, and subsequently that it block the exchange of such files.
+It is possible that introducing such a filtering system would mean that personal data would have to be processed which would have to satisfy the provisions of EU law relating to the protection of personal data and the confidentiality of communications.
+In those circumstances, the rechtbank van eerste aanleg te Brussel decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Do Directives 2001/and 2004/48, in conjunction with Directives 95/46, 2000/and 2002/58, construed in particular in the light of Articles and of the European Convention on the Protection of Human Rights and Fundamental Freedoms [signed in Rome on November 1950], permit Member States to authorise a national court, before which substantive proceedings have been brought and on the basis merely of a statutory provision stating that “[the national courts] may also issue an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right”, to order a hosting service provider to introduce, for all its customers, in abstracto and as a preventive measure, at its own cost and for an unlimited period, a system for filtering most of the information which is stored on its servers in order to identify on its servers electronic files containing musical, cinematographic or audio-visual work in respect of which SABAM claims to hold rights, and subsequently to block the exchange of such files?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Directives 2000/31, 2001/29, 2004/48, 95/and 2002/58, read together and construed in the light of the requirements stemming from the protection of the applicable fundamental rights, are to be interpreted as precluding a national court from issuing an injunction against a hosting service provider which requires it to install a system for filtering:
+—
+information which is stored on its servers by its service users;
+—
+which applies indiscriminately to all of those users;
+—
+as a preventative measure;
+—
+exclusively at its expense; and
+—
+for an unlimited period,
+which is capable of identifying electronic files containing musical, cinematographic or audio-visual work in respect of which the applicant for the injunction claims to hold intellectual property rights, with a view to preventing those works from being made available to the public in breach of copyright (‘the contested filtering system’).
+In that regard, first, it is not in dispute that the owner of an online social networking platform - such as Netlog - stores information provided by the users of that platform, relating to their profile, on its servers, and that it is thus a hosting service provider within the meaning of Article of Directive 2000/31.
+Next, it should be borne in mind that, according to Article 8(3) of Directive 2001/and the third sentence of Article of Directive 2004/48, holders of intellectual property rights may apply for an injunction against operators of online social networking platforms, such as Netlog, who act as intermediaries within the meaning of those provisions, given that their services may be exploited by users of those platforms to infringe intellectual property rights.
+In addition, it follows from the Court’s case-law that the jurisdiction conferred on national courts, in accordance with those provisions, must allow them to order those intermediaries to take measures aimed not only at bringing to an end infringements already committed against intellectual-property rights using their information-society services, but also at preventing further infringements (see Case C-70/Scarlet Extended [2011] ECR I-11959, paragraph 31).
+Lastly, it follows from that same case-law that the rules for the operation of the injunctions for which the Member States must provide under Article 8(3) of Directive 2001/and the third sentence of Article of Directive 2004/48, such as those relating to the conditions to be met and to the procedure to be followed, are a matter for national law (see Scarlet Extended, paragraph 32).
+Nevertheless, the rules established by the Member States, and likewise their application by the national courts, must observe the limitations arising from Directives 2001/and 2004/and from the sources of law to which those directives refer (see Scarlet Extended, paragraph 33).
+Thus, in accordance with recital in the preamble to Directive 2001/and Article 2(3)(a) of Directive 2004/48, those rules may not affect the provisions of Directive 2000/and, more specifically, Articles to thereof (see Scarlet Extended, paragraph 34).
+Consequently, those rules must, in particular, respect Article 15(1) of Directive 2000/31, which prohibits national authorities from adopting measures which would require a hosting service provider to carry out general monitoring of the information that it stores (see, by analogy, Scarlet Extended, paragraph 35).
+In that regard, the Court has already ruled that that prohibition applies in particular to national measures which would require an intermediary provider, such as a hosting service provider, to actively monitor all the data of each of its customers in order to prevent any future infringement of intellectual-property rights. Furthermore, such a general monitoring obligation would be incompatible with Article of Directive 2004/48, which states that the measures referred to by the directive must be fair and proportionate and must not be excessively costly (see Scarlet Extended, paragraph 36).
+In those circumstances, it is necessary to examine whether the injunction at issue in the main proceedings, which would require the hosting service provider to introduce the contested filtering system, would oblige it, as part of that system, to actively monitor all the data of each of its service users in order to prevent any future infringement of intellectual-property rights.
+In that regard, it is common ground that implementation of that filtering system would require:
+—
+first, that the hosting service provider identify, within all of the files stored on its servers by all its service users, the files which are likely to contain works in respect of which holders of intellectual-property rights claim to hold rights;
+—
+next, that it determine which of those files are being stored and made available to the public unlawfully; and
+—
+lastly, that it prevent files that it considers to be unlawful from being made available.
+Preventive monitoring of this kind would thus require active observation of files stored by users with the hosting service provider and would involve almost all of the information thus stored and all of the service users of that provider (see, by analogy, Scarlet Extended, paragraph 39).
+In the light of the foregoing, it must be held that the injunction imposed on the hosting service provider requiring it to install the contested filtering system would oblige it to actively monitor almost all the data relating to all of its service users in order to prevent any future infringement of intellectual-property rights. It follows that that injunction would require the hosting service provider to carry out general monitoring, something which is prohibited by Article 15(1) of Directive 2000/(see, by analogy, Scarlet Extended, paragraph 40).
+In order to assess whether that injunction is consistent with EU law, account must also be taken of the requirements that stem from the protection of the applicable fundamental rights, such as those mentioned by the referring court.
+In that regard, it should be borne in mind that the injunction at issue in the main proceedings pursues the aim of ensuring the protection of copyright, which is an intellectual-property right, which may be infringed by the nature and content of certain information stored and made available to the public by means of the service offered by the hosting service provider.
+The protection of the right to intellectual property is indeed enshrined in Article 17(2) of the Charter of Fundamental Rights of the European Union (‘the Charter’). There is, however, nothing whatsoever in the wording of that provision or in the Court’s case-law to suggest that that right is inviolable and must for that reason be absolutely protected (Scarlet Extended, paragraph 43).
+As paragraphs to of the judgment in Case C-275/Promusicae [2008] ECR I-make clear, the protection of the fundamental right to property, which includes the rights linked to intellectual property, must be balanced against the protection of other fundamental rights.
+More specifically, it follows from paragraph of that judgment that, in the context of measures adopted to protect copyright holders, national authorities and courts must strike a fair balance between the protection of copyright and the protection of the fundamental rights of individuals who are affected by such measures.
+Accordingly, in circumstances such as those in the main proceedings, national authorities and courts must, in particular, strike a fair balance between the protection of the intellectual property right enjoyed by copyright holders and that of the freedom to conduct a business enjoyed by operators such as hosting service providers pursuant to Article of the Charter (see Scarlet Extended, paragraph 46).
+In the main proceedings, the injunction requiring the installation of the contested filtering system involves monitoring all or most of the information stored by the hosting service provider concerned, in the interests of those rightholders. Moreover, that monitoring has no limitation in time, is directed at all future infringements and is intended to protect not only existing works, but also works that have not yet been created at the time when the system is introduced.
+Accordingly, such an injunction would result in a serious infringement of the freedom of the hosting service provider to conduct its business since it would require that hosting service provider to install a complicated, costly, permanent computer system at its own expense, which would also be contrary to the conditions laid down in Article 3(1) of Directive 2004/48, which requires that measures to ensure the respect of intellectual-property rights should not be unnecessarily complicated or costly (see, by analogy, Scarlet Extended, paragraph 48).
+In those circumstances, it must be held that the injunction to install the contested filtering system is to be regarded as not respecting the requirement that a fair balance be struck between, on the one hand, the protection of the intellectual-property right enjoyed by copyright holders, and, on the other hand, that of the freedom to conduct business enjoyed by operators such as hosting service providers (see, by analogy, Scarlet Extended, paragraph 49).
+Moreover, the effects of that injunction would not be limited to the hosting service provider, as the contested filtering system may also infringe the fundamental rights of that hosting service provider’s service users, namely their right to protection of their personal data and their freedom to receive or impart information, which are rights safeguarded by Articles and of the Charter respectively.
+Indeed, the injunction requiring installation of the contested filtering system would involve the identification, systematic analysis and processing of information connected with the profiles created on the social network by its users. The information connected with those profiles is protected personal data because, in principle, it allows those users to be identified (see, by analogy, Scarlet Extended, paragraph 51).
+Moreover, that injunction could potentially undermine freedom of information, since that system might not distinguish adequately between unlawful content and lawful content, with the result that its introduction could lead to the blocking of lawful communications. Indeed, it is not contested that the reply to the question whether a transmission is lawful also depends on the application of statutory exceptions to copyright which vary from one Member State to another. In addition, in some Member States certain works fall within the public domain or may be posted online free of charge by the authors concerned (see, by analogy, Scarlet Extended, paragraph 52).
+Consequently, it must be held that, in adopting the injunction requiring the hosting service provider to install the contested filtering system, the national court concerned would not be respecting the requirement that a fair balance be struck between the right to intellectual property, on the one hand, and the freedom to conduct business, the right to protection of personal data and the freedom to receive or impart information, on the other (see, by analogy, Scarlet Extended, paragraph 53).
+In the light of the foregoing, the answer to the question referred is that Directives 2000/31, 2001/and 2004/48, read together and construed in the light of the requirements stemming from the protection of the applicable fundamental rights, must be interpreted as precluding an injunction made against a hosting service provider which requires it to install the contested filtering system.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds,
+the Court (Third Chamber)
+hereby rules:
+ 
+Directives:
+ 
+—
+2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce);
+ 
+—
+2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society; and
+ 
+—
+2004/48/EC of the European Parliament and of the Council of April on the enforcement of intellectual property rights,
+ 
+read together and construed in the light of the requirements stemming from the protection of the applicable fundamental rights, must be interpreted as precluding a national court from issuing an injunction against a hosting service provider which requires it to install a system for filtering:
+ 
+—
+information which is stored on its servers by its service users;
+ 
+—
+which applies indiscriminately to all of those users;
+ 
+—
+as a preventative measure;
+ 
+—
+exclusively at its expense; and
+ 
+—
+for an unlimited period,
+ 
+which is capable of identifying electronic files containing musical, cinematographic or audio-visual work in respect of which the applicant for the injunction claims to hold intellectual property rights, with a view to preventing those works from being made available to the public in breach of copyright.
+ 
+[Signatures]
+(
+*)   Language of the case: Dutch.
+Top  
+ 

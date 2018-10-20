@@ -1,0 +1,293 @@
+
+ORDONNANCE DE LA COUR (huitième chambre)
+janvier (*)
+      
+«Renvoi préjudiciel – Réseaux et services de communications électroniques – Directive 2002/20/CE – Taxe pour l’utilisation privative ou l’exploitation spéciale du domaine public local imposée aux opérateurs fournissant des
+         services de communications électroniques – Article du règlement de procédure de la Cour – Réponse pouvant être clairement déduite de la jurisprudence»
+      
+Dans l’affaire C‑25/13,
+ayant pour objet une demande de décision préjudicielle au titre de l’article TFUE, introduite par le Juzgado de lo Contencioso-Administrativo
+         n° de Barcelona (Espagne), par décision du janvier 2013, parvenue à la Cour le janvier 2013, dans la procédure
+      
+France Telecom España SA
+contre
+Organismo de Gestión Tributaria de la Diputación de Barcelona,
+LA COUR (huitième chambre),
+composée de M. C. G. Fernlund, président de chambre, MM. A. Ó Caoimh et E. Jarašiūnas (rapporteur), juges,
+avocat général: Mme E. Sharpston,
+      
+greffier: M. A. Calot Escobar,
+vu la procédure écrite,
+considérant les observations présentées:
+–        pour France Telecom España SA, par Mes J. Buendía Sierra, Á. García Ruiz et E. Zamarriego Santiago, abogados,
+      
+–        pour l’Organismo de Gestión Tributaria de la Diputación de Barcelona, par Me E. Más López, abogado,
+      
+–        pour le Royaume d’Espagne, par Mme S. Centeno Huerta, en qualité d’agent,
+      
+–        pour la Commission européenne, MM. J. Rius Riu et G. Braun, ainsi que par Mme L. Nicolae, en qualité d’agents,
+      
+vu la décision prise, l’avocat général entendu, de statuer par voie d’ordonnance motivée, conformément à l’article du règlement
+         de procédure de la Cour,
+      
+rend la présente
+Ordonnance
+La demande de décision préjudicielle porte sur l’interprétation du droit de l’Union en matière de réseaux et de services de
+         communications électroniques.
+      
+Cette demande a été présentée dans le cadre d’un litige opposant France Telecom España SA (ci-après «France Telecom España»)
+         à l’Organismo de Gestión Tributaria de la Diputación de Barcelona (organisme de gestion des impôts du Conseil régional de
+         la province de Barcelone, ci-après l’«Organismo»), au sujet d’une taxe imposée par l’Ayuntamiento de Guardiola de Berguedà
+         (municipalité de Guardiola de Berguedà) pour l’utilisation privative ou l’exploitation spéciale du domaine public local.
+      
+ Le cadre juridique
+ Le droit de l’Union
+Les considérants à de la directive 2002/20/CE du Parlement européen et du Conseil, du mars 2002, relative à l’autorisation
+         de réseaux et de services de communications électroniques (directive «autorisation») (JO L 108, p. 21), énoncent:
+      
+«(30) Des taxes administratives peuvent être imposées aux fournisseurs de services de communications électroniques afin de financer
+         les activités de l’autorité réglementaire nationale en matière de gestion du système d’autorisation et d’octroi de droits
+         d’utilisation. Ces taxes devraient uniquement couvrir les coûts administratifs réels résultant de ces activités. À cet effet,
+         la transparence en ce qui concerne les recettes et les dépenses des autorités réglementaires nationales devrait être assurée
+         par la publication d’un rapport annuel indiquant la somme totale des taxes perçues et des coûts administratifs supportés.
+         Les entreprises pourront ainsi vérifier que les coûts administratifs et les taxes s’équilibrent.
+      
+(31)      Les régimes de taxes administratives ne devraient pas créer de distorsions de la concurrence ni de barrières à l’entrée sur
+         le marché. Avec un régime d’autorisation générale, il ne sera plus possible d’imposer des frais administratifs ni, partant,
+         de taxes à des entreprises individuelles, sauf dans le cadre de l’octroi de droits d’utilisation de numéros ou de radiofréquences
+         et de droits de mettre en place des ressources. Toute taxe administrative applicable devrait être conforme aux principes régissant
+         un régime d’autorisation générale. Une clé de répartition liée au chiffre d’affaires pourrait, par exemple, remplacer de manière
+         équitable, simple et transparente ces critères de répartition des taxes. Lorsque les taxes administratives sont très peu élevées,
+         des taxes forfaitaires ou des taxes combinant une base forfaitaire et un élément lié au chiffre d’affaires pourraient également
+         convenir.
+      
+(32)      Outre les taxes administratives, des redevances peuvent être prélevées pour l’utilisation des radiofréquences et des numéros,
+         afin de garantir une exploitation optimale des ressources. Ces redevances ne devraient pas empêcher le développement de services
+         novateurs ni la concurrence sur le marché. La présente directive ne préjuge pas du but dans lequel des redevances sont perçues
+         pour les droits d’utilisation. Ces redevances peuvent, par exemple, servir à financer les activités des autorités réglementaires
+         nationales qui ne peuvent être couvertes par des taxes administratives. Lorsque, dans le cas de procédures de sélection concurrentielles
+         ou comparatives, les redevances relatives aux droits d’utilisation des radiofréquences consistent, pour la totalité ou en
+         partie, en un montant unique, les modalités de paiement devraient garantir que ces redevances n’aboutissent pas, dans la pratique,
+         à une sélection opérée sur la base de critères sans lien avec l’objectif d’une utilisation optimale des radiofréquences. La
+         Commission peut publier, à intervalles réguliers, des études comparatives concernant les meilleures pratiques en matière d’assignation
+         de radiofréquences et d’assignation de numéros ou d’octroi de droits de passage.»
+      
+L’article de la directive «autorisation» prévoit:
+      
+«1.      Les taxes administratives imposées aux entreprises fournissant un service ou un réseau au titre de l’autorisation générale
+         ou auxquelles un droit d’utilisation a été octroyé:
+      
+a)      couvrent exclusivement les coûts administratifs globaux qui seront occasionnés par la gestion, le contrôle et l’application
+         du régime d’autorisation générale, des droits d’utilisation et des obligations spécifiques visées à l’article 6, paragraphe
+         2, qui peuvent inclure les frais de coopération, d’harmonisation et de normalisation internationales, d’analyse de marché,
+         de contrôle de la conformité et d’autres contrôles du marché, ainsi que les frais afférents aux travaux de réglementation
+         impliquant l’élaboration et l’application de législations dérivées et de décisions administratives, telles que des décisions
+         sur l’accès et l’interconnexion, et
+      
+b)      sont réparties entre les entreprises individuelles d’une manière objective, transparente et proportionnée qui minimise les
+         coûts administratifs et les taxes inhérentes supplémentaires.
+      
+2.      Lorsque les autorités réglementaires nationales imposent des taxes administratives, elles publient un bilan annuel de leurs
+         coûts administratifs et de la somme totale des taxes perçues. Les ajustements nécessaires sont effectués en tenant compte
+         de la différence entre la somme totale des taxes et les coûts administratifs.»
+      
+L’article de cette directive dispose:
+      
+«Les États membres peuvent permettre à l’autorité compétente de soumettre à une redevance les droits d’utilisation des radiofréquences
+         ou des numéros ou les droits de mettre en place des ressources sur ou sous des biens publics ou privés, afin de tenir compte
+         de la nécessité d’assurer une utilisation optimale de ces ressources. Les États membres font en sorte que ces redevances soient
+         objectivement justifiées, transparentes, non discriminatoires et proportionnées eu égard à l’usage auquel elles sont destinées
+         et tiennent compte des objectifs fixés à l’article de la directive 2002/21/CE [du Parlement européen et du Conseil, du mars 2002, relative à un cadre réglementaire commun pour les réseaux et services de communications électroniques (directive
+         ‘cadre’) (JO L 108, p. 33, ci-après la ‘directive-cadre’)].»
+      
+ Le droit espagnol
+La loi générale 32/relative aux télécommunications (Ley 32/General de Telecomunicaciones), du novembre (BOE
+         n° 264, du novembre 2003, p. 38890, ci-après la «loi relative aux télécommunications»), a, ainsi que cela ressort de son
+         préambule, transposé en droit espagnol l’ensemble des directives en matière de réseaux et de services de communications électroniques
+         adoptées au cours de l’année 2002.
+      
+Aux termes de l’article de la loi relative aux télécommunications:
+      
+«1.      Les opérateurs et les titulaires de droits d’utilisation du domaine public radioélectrique ou de ressources de numérotation
+         sont tenus de s’acquitter des taxes établies dans l’ordre juridique.
+      
+2.      Ces taxes visent à couvrir:
+a)      les frais administratifs occasionnés par le travail de réglementation relatif à la préparation et à la mise en œuvre du droit
+         communautaire dérivé et des actes administratifs, notamment en matière d’interconnexion et d’accès;
+      
+b)      les frais liés à la gestion, au contrôle et à l’application du régime établi dans la présente loi;
+c)      les frais liés à la gestion, au contrôle et à l’application des droits d’occupation du domaine public et des droits d’utilisation
+         du domaine public radioélectrique et de la numérotation;
+      
+d)      la gestion des notifications régies par l’article de la présente loi;
+e)      les frais de coopération internationale, d’harmonisation et de normalisation ainsi que d’analyse du marché.
+3.      Sans préjudice des dispositions du paragraphe 2, les taxes relatives à l’utilisation du domaine public radioélectrique, à
+         la numérotation et au domaine public nécessaire pour l’installation de réseaux de communications électroniques ont pour but
+         d’assurer l’utilisation optimale de ces ressources en tenant compte de la valeur et de la rareté du bien dont l’utilisation
+         est autorisée. Ces taxes doivent être non discriminatoires, transparentes, objectivement justifiées et proportionnées à leur
+         objectif. Elles doivent aussi favoriser la réalisation des objectifs et le respect des principes établis à l’article conformément
+         aux conditions fixées par la réglementation.
+      
+4.      Les taxes visées aux paragraphes précédents sont appliquées d’une manière objective, transparente et proportionnée afin de
+         minimiser les coûts administratifs supplémentaires et les taxes connexes.
+      
+[...]»
+Le décret royal législatif 2/2004, portant refonte du texte de la loi régissant les finances locales (Real Decreto Legislativo
+         2/2004, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales), du mars (BOE n° 59,
+         du mars 2004, p. 10284, ci-après le «décret royal législatif 2/2004»), prévoit le droit pour les autorités locales d’instaurer
+         des taxes pour l’utilisation privative ou l’exploitation spéciale du domaine public local, notamment du sous-sol et de la
+         surface des voies publiques municipales ainsi que de l’espace surplombant celles-ci.
+      
+Conformément à la loi relative aux télécommunications ainsi qu’au décret royal législatif 2/2004, l’Ayuntamiento de Guardiola
+         de Berguedà a adopté, au cours de l’année 2006, une ordonnance fiscale instituant une taxe pour l’utilisation privative ou
+         l’exploitation spéciale du domaine public local imposée aux entreprises fournissant des réseaux et des services de communications
+         électroniques pour l’année (ci-après l’«ordonnance fiscale de 2006»).
+      
+Le Juzgado de lo Contencioso-Administrativo n° de Barcelona (tribunal du contentieux administratif n° de Barcelone)
+         indique, dans sa décision saisissant la Cour, que l’article 1er de l’ordonnance fiscale de régit la taxe pour l’utilisation privative ou l’exploitation spéciale du sous-sol et de la
+         surface des voiries publiques municipales, ainsi que de l’espace surplombant celles-ci, par des entreprises fournissant des
+         services d’approvisionnement qui sont d’intérêt général ou qui concernent la majorité ou une partie importante de la population.
+         Elle précise que le fait imposable consiste dans cette utilisation privative ou cette exploitation spéciale.
+      
+Selon l’article 2, paragraphe 2, de l’ordonnance fiscale de 2006, il y a «exploitation spéciale du domaine public» lorsque,
+         pour la fourniture du service d’approvisionnement, il est nécessaire d’utiliser des antennes ou des réseaux qui occupent matériellement
+         la surface, le sous-sol des voiries publiques municipales ou l’espace surplombant celles-ci, quel que soit le propriétaire
+         desdites installations.
+      
+L’article 3, paragraphe 1, de l’ordonnance fiscale de prévoit que sont assujetties à ladite taxe les entités publiques
+         ou privées qui fournissent des services ou exploitent un réseau de communications électroniques sur le marché, conformément
+         aux dispositions correspondantes de la loi relative aux télécommunications.
+      
+ Le litige au principal et les questions préjudicielles
+France Telecom España est une entreprise fournissant des réseaux et des services de communications électroniques sur le territoire
+         espagnol.
+      
+L’Organismo a, conformément à l’ordonnance fiscale de 2006, émis, à charge de France Telecom España, des avis d’imposition
+         relatifs à la taxe pour l’utilisation privative ou l’exploitation spéciale du domaine public local couvrant les troisième
+         et quatrième trimestres de l’année 2007. Par décision du mars 2009, l’Organismo a rejeté le recours gracieux contre ces
+         avis d’imposition dont il avait été saisi par France Telecom España.
+      
+Cette dernière a alors introduit, devant la juridiction de renvoi, un recours contentieux contre la décision de l’Organismo
+         dans le cadre duquel elle a, à titre subsidiaire, contesté la légalité de l’ordonnance fiscale de 2006.
+      
+Dans la décision de renvoi, le Juzgado de lo Contencioso-Administrativo n° de Barcelona, procédant à une analyse du droit
+         de l’Union en matière de réseaux et de services de communications électroniques ainsi que de l’arrêt du juillet 2012, Vodafone
+         España et France Telecom España (C‑55/11, C‑57/et C‑58/11, non encore publié au Recueil), se demande si la taxe instituée
+         par l’Ayuntamiento de Guardiola de Berguedà relève de la notion de «redevance sur les droits de mettre en place des ressources
+         sur ou sous les biens publics ou privés», telle qu’elle a été interprétée dans cet arrêt.
+      
+À cet égard, cette juridiction relève, en premier lieu, que, au point de l’arrêt Vodafone España et France Telecom España,
+         précité, la Cour a jugé que ne saurait être admise au titre de «redevance sur les droits de mettre en place des ressources
+         sur ou sous des biens publics ou privés», au sens de l’article de la directive «autorisation», la perception de redevances
+         qui s’appliquent aux opérateurs qui, sans être propriétaires de ces ressources, les utilisent pour la fourniture de services
+         de téléphonie mobile et exploitent ainsi ce domaine public.
+      
+Elle en déduit, a contrario, que la perception des taxes à un autre titre que celui de «redevances sur les droits de mettre
+         en place des ressources sur ou sous des biens publics ou privés» peut être admise.
+      
+En second lieu, la juridiction de renvoi indique que, au point de l’arrêt Vodafone España et France Telecom España, précité,
+         la Cour a relevé qu’il résulte de l’article 11, paragraphe 1, premier tiret, de la directive-cadre que les droits pour permettre
+         la mise en place de ressources sur, au-dessus ou au-dessous de propriétés publiques ou privées sont octroyés à l’entreprise
+         autorisée à fournir des réseaux de communications publics, c’est-à-dire à celle qui est habilitée à mettre en place les ressources
+         nécessaires sur le sol, dans le sous-sol ou dans l’espace situé au-dessus du sol.
+      
+Au regard du point de cet arrêt et de l’article 11, paragraphe 1, premier tiret, de la directive-cadre, la juridiction
+         de renvoi estime qu’il existe un doute quant à la question de savoir si les redevances pour les droits de mettre en place
+         des ressources sur, au-dessus ou au-dessous de propriétés publiques ou privées sont des redevances générées par l’utilisation
+         desdites propriétés ou s’il s’agit de redevances nées de l’octroi par l’État, ou, le cas échéant, par l’autorité municipale,
+         d’un droit de mettre en place des ressources sur une propriété publique ou privée. Dans ce second cas, il ne s’agirait pas,
+         selon elle, d’une «redevance d’utilisation, mais d’une redevance pour cession de droit».
+      
+Elle penche en faveur de cette seconde hypothèse en considérant que la redevance visée à l’article de la directive «autorisation»
+         rétribue l’action de l’État ou de l’entité publique autorisant les droits de mise en place. Cette redevance serait donc distincte
+         de la contrepartie que le propriétaire des terrains, du sol, du sous-sol ou de l’espace surplombant ceux-ci sur lesquels les
+         ressources sont mises en place devrait recevoir pour l’utilisation desdits terrains, sol, sous-sol ou espace les surplombant
+         pour la durée de cette utilisation.
+      
+La juridiction de renvoi relève que l’arrêt Vodafone España et France Telecom España, précité, semble se référer à des redevances
+         imposées au titre de la cession des droits de mise en place de ressources et non à des redevances pour l’utilisation de ces
+         ressources.
+      
+Il convient donc, selon elle, de déterminer, dans l’affaire dont elle est saisie, si la taxe en cause doit être considérée
+         comme relevant de l’article de la directive «autorisation» en tant que contrepartie des droits de mise en place de ressources,
+         ou si elle correspond à la gestion de l’utilisation du domaine public, auquel cas elle relèverait des articles 20, paragraphe
+         1, sous a), et 24, paragraphe 1, sous a), du décret royal législatif 2/2004.
+      
+C’est dans ces conditions que la juridiction de renvoi a décidé de surseoir à statuer et de poser à la Cour les questions
+         préjudicielles suivantes:
+      
+«1)      La limitation de l’applicabilité des redevances de l’article de la directive ‘autorisation’ aux seuls propriétaires des
+         réseaux de [communications électroniques], conformément à l’arrêt [Vodafone España et France Telecom España, précité], peut-elle
+         s’étendre à toute autre rémunération ou contrepartie que les propriétaires de propriétés publiques ou privées recevraient
+         en échange de la mise en place, sur leurs terrains ou propriétés, de ressources de réseaux de [communications électroniques]?
+      
+2)      De telles contreparties et ceux devant les acquitter sont-ils déterminés par le droit national?»
+ Sur les questions préjudicielles
+Par ses questions, qu’il convient d’examiner ensemble, la juridiction de renvoi demande, en substance, si le droit de l’Union
+         doit être interprété, au regard de l’arrêt Vodafone España et France Telecom España, précité, en ce sens qu’il s’oppose à
+         l’application d’une taxe, imposée non pas au titre de l’octroi des droits de mise en place des ressources sur ou sous des
+         biens publics ou privés, au sens de l’article de la directive «autorisation», mais au titre de l’utilisation desdites ressources,
+         aux opérateurs fournissant des services de communications électroniques qui ne sont pas propriétaires desdites ressources.
+      
+La Cour estime que la réponse à cette question peut être clairement déduite de l’arrêt Vodafone España et France Telecom España,
+         précité, de sorte qu’il y a lieu, conformément à l’article du règlement de procédure de la Cour, de statuer sur le présent
+         renvoi préjudiciel par voie d’ordonnance motivée.
+      
+En effet, il convient d’observer que la taxe en cause dans l’affaire au principal est de même nature que celle qui l’était
+         dans le cadre des affaires ayant donné lieu à l’arrêt Vodafone España et France Telecom España, précité. Comme cette dernière
+         taxe, celle instaurée par l’Ayuntamiento de Guardiola de Berguedà l’a été sur le fondement de la loi relative aux télécommunications,
+         qui a transposé en droit espagnol l’ensemble des directives en matière de réseaux et de services de communications électroniques
+         adoptées au cours de l’année 2002, et du décret royal législatif 2/2004. Ces deux taxes grèvent l’utilisation privative ou
+         l’exploitation spéciale du domaine public local, la juridiction de renvoi précisant que, selon l’article 2, paragraphe 2,
+         de l’ordonnance fiscale de 2006, il y a «exploitation spéciale du domaine public» lorsque, pour la fourniture du service d’approvisionnement,
+         il est nécessaire d’utiliser des antennes ou des réseaux qui occupent matériellement la surface, le sous-sol des voiries publiques
+         municipales ou l’espace surplombant celles-ci, quel que soit le propriétaire desdites installations.
+      
+Il en découle que la taxe en cause dans l’affaire au principal relève du champ d’application desdites directives et, plus
+         spécialement, de la directive «autorisation», son fait générateur étant lié à l’utilisation des ressources visées à l’article
+         de celle-ci.
+      
+Or, interrogée dans les affaires ayant donné lieu à l’arrêt Vodafone España et France Telecom España, précité, sur la question
+         de savoir si la possibilité pour les États membres de soumettre à redevance les «droits de mettre en place des ressources
+         sur ou sous des biens publics ou privés» en vertu de l’article de la directive «autorisation» permet l’application de redevances
+         telles que celles en cause dans ces affaires, en ce qu’elles s’appliquent aux opérateurs qui, sans être propriétaires de ces
+         ressources, les utilisent pour la fourniture de services de téléphonie mobile et exploitent ainsi le domaine public, la Cour
+         a dit pour droit que ledit article doit être interprété en ce sens qu’il s’oppose à l’application d’une telle redevance à
+         ces opérateurs.
+      
+En outre, la Cour a rappelé, aux points et de cet arrêt, en premier lieu, que, dans le cadre de la directive «autorisation»,
+         les États membres ne peuvent percevoir d’autres taxes ou redevances sur la fourniture de réseaux et de services de communications
+         électroniques que celles prévues par cette directive et, en second lieu, qu’il ressort des considérants à ainsi que
+         des articles et de la directive «autorisation», que les États membres sont ainsi uniquement habilités à imposer soit
+         des taxes administratives destinées à couvrir les coûts administratifs globaux occasionnés par la gestion, le contrôle et
+         l’application du régime général d’autorisation, soit des redevances sur les droits d’utilisation des radiofréquences ou des
+         numéros ou encore sur les droits de mettre en place des ressources sur ou sous des biens publics ou privés.
+      
+Il se déduit, par conséquent, clairement de l’arrêt Vodafone España et France Telecom España, précité, que le droit de l’Union
+         s’oppose à l’application d’une taxe, telle que celle en cause au principal, imposée au titre de l’utilisation et de l’exploitation
+         des ressources mises en place sur ou sous des biens publics ou privés, au sens de l’article de la directive «autorisation»,
+         aux opérateurs fournissant des services de communications électroniques qui ne sont pas propriétaires desdites ressources.
+      
+Il résulte de l’ensemble des considérations qui précèdent qu’il y a lieu de répondre aux questions posées que le droit de
+         l’Union doit être interprété, au regard de l’arrêt Vodafone España et France Telecom España, précité, en ce sens qu’il s’oppose
+         à l’application d’une taxe, imposée au titre de l’utilisation et de l’exploitation des ressources mises en place sur ou sous
+         des biens publics ou privés, au sens de l’article de la directive «autorisation», aux opérateurs fournissant des services
+         de communications électroniques qui ne sont pas propriétaires desdites ressources.
+      
+ Sur les dépens
+La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi,
+         il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que
+         ceux desdites parties, ne peuvent faire l’objet d’un remboursement.
+      
+Par ces motifs, la Cour (huitième chambre) dit pour droit:
+Le droit de l’Union doit être interprété, au regard de l’arrêt du juillet 2012, Vodafone España et France Telecom España
+            (C‑55/11, C‑57/et C‑58/11, non encore publié au Recueil), en ce sens qu’il s’oppose à l’application d’une taxe, imposée
+            au titre de l’utilisation et de l’exploitation des ressources mises en place sur ou sous des biens publics ou privés, au sens
+            de l’article de la directive 2002/20/CE du Parlement européen et du Conseil, du mars 2002, relative à l’autorisation
+            de réseaux et de services de communications électroniques (directive «autorisation»), aux opérateurs fournissant des services
+            de communications électroniques qui ne sont pas propriétaires desdites ressources.
+Signatures
+* Langue de procédure: l’espagnol.
+      
+Top  
+ 

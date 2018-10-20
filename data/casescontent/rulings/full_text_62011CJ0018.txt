@@ -1,0 +1,142 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+September (
+*)
+‛Freedom of establishment — Tax legislation — Corporation tax — Tax relief — National legislation excluding the transfer of losses incurred in the national territory by a non-resident branch of a company established in another Member State to a company of the same group established in the national territory’
+In Case C-18/11,
+REFERENCE for a preliminary ruling under Article TFEU from the Upper Tribunal (Tax and Chancery Chamber) (United Kingdom), made by decision of December 2010, received at the Court on January 2011, in the proceedings
+The Commissioners for Her Majesty’s Revenue & Customs
+v
+Philips Electronics UK Ltd,
+THE COURT (Fourth Chamber),
+composed of J.-C. Bonichot (Rapporteur), President of the Chamber, A. Prechal, K. Schiemann, L. Bay Larsen and E. Jarašiūnas, Judges,
+Advocate General: J. Kokott,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on February 2012,
+after considering the observations submitted on behalf of:
+—
+Philips Electronics UK Ltd, by D. Milne QC, and D. Jowell, barrister,
+—
+the United Kingdom Government, by S. Hathaway, acting as Agent, and by K. Bacon, barrister,
+—
+the Danish Government, by C. Vang, acting as Agent,
+—
+the European Commission, by W. Mölls and R. Lyal, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on April 2012,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles EC and EC.
+The reference has been made in proceedings between Philips Electronics UK Ltd (‘Philips Electronics UK’) and the Commissioners for Her Majesty’s Revenue & Customs concerning the application of the legislation relating to group relief allowed to some companies which are members of a consortium.
+National law
+Section of the Income and Corporation Taxes Act 1988, in the version applicable to the main proceedings (‘ICTA’), provides:
+‘(1)   Subject to and in accordance with this Chapter and section 492(8), relief for trading losses and other amounts eligible for relief from corporation tax may, in the cases set out in subsections (2) and (3) below, be surrendered by a company (“the surrendering company”) and, on the making of a claim by another company (“the claimant company”), may be allowed to the claimant company by way of a relief from corporation tax called “group relief”.’
+…
+3.   Group relief shall also be available in the case of a surrendering company and a claimant company … where one of them is a member of a group of companies and the other is owned by a consortium and another company is a member of both the group and the consortium. A claim made by virtue of this subsection is referred to as “a consortium claim”.
+3A.   Group relief is not available unless the following condition is satisfied in the case of both the surrendering company and the claimant company.
+3B.   The condition is that the company is resident in the United Kingdom or is a non-resident company carrying on a trade in the United Kingdom through a permanent establishment.
+…
+6.   A payment for group relief
+(a)
+shall not be taken into account in computing profits or losses of either company for corporation tax purposes, and
+(b)
+shall not for any of the purposes of the Corporation Tax Acts be regarded as a distribution or a charge on income;
+and in this subsection “a payment for group relief” means a payment made by the claimant company to the surrendering company in pursuance of an agreement between them as respects an amount surrendered by way of group relief, being a payment not exceeding that amount.’
+Section 403D of the ICTA provides:
+‘(1)   In determining for the purposes of this Chapter the amounts for any accounting period of the losses and other amounts available for surrender by way of group relief by a non-resident company, no loss or other amount shall be treated as so available except in so far as
+(a)
+it is attributable to activities of that company the income and gains from which for that period are, or (were there any) would be, brought into account in computing the company’s chargeable profits for that period for corporation tax purposes,
+(b)
+it is not attributable to activities of the company which are made exempt from corporation tax for that period by any double taxation arrangements; and
+(c)
+no part of
+(i)
+the loss or other amount, or
+(ii)
+any amount brought into account in computing it,
+corresponds to, or is represented in, any amount which, for the purposes of any foreign tax, is (in any period) deductible or otherwise allowable against non-UK profits of the company or any other person.
+…
+3.   In this section, “non-UK profits” means, in relation to any person, amounts which
+(a)
+are taken for the purposes of any foreign tax to be the amount of the profits, income or gains on which (after allowing for deductions) that person is charged with that tax, and
+(b)
+are not amounts corresponding to, and are not represented in, the total profits (of that or any other person) for any accounting period,
+or amounts taken into account in computing such amounts.
+…
+(6)   So much of the law of any territory outside the United Kingdom [of Great Britain and Northern Ireland] as for the purposes of any foreign tax makes the deductibility of any amount dependent on whether or not it is deductible for tax purposes in the United Kingdom shall be disregarded for the purposes of this section.
+...’
+Section 406(2) of the ICTA further provides:
+‘Subject to subsections (3) and (4) below, where the link company could (disregarding any deficiency of profits) make a consortium claim in respect of the loss or other amount eligible for relief of a relevant accounting period of a consortium company, a group member may make any consortium claim which could be made by the link company; and the fraction which is the relevant fraction for the purposes of section 403C where a group member is the claimant company shall be the same as it would be if the link company were the claimant company.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Philips Electronics UK is a company which is resident in the United Kingdom for tax purposes. It forms part of the Philips group, whose ultimate parent company is established in the Netherlands. That parent company entered into a joint venture with a South Korean group, LG Electronics. That joint venture has a Dutch subsidiary, LG Philips Displays Netherlands BV (‘LG.PD Netherlands’), which has a branch (permanent establishment) in the United Kingdom.
+Philips Electronics UK sought to set against its own profits part of the losses suffered by the United Kingdom permanent establishment of LG.PD Netherlands in the tax years to 2004.
+Its request was rejected by the United Kingdom tax authorities, one ground for that rejection being that the losses of LG.PD Netherlands could be set against that company’s profits in the Netherlands. That ground was one of the matters challenged before the First-tier Tribunal (Tax Chamber).
+The First-tier Tribunal (Tax Chamber) found in favour of Philips Electronics UK. The United Kingdom tax authorities then brought an appeal before the Upper Tribunal (Tax and Chancery Chamber).
+The Upper Tribunal (Tax and Chancery Chamber) then decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Where a Member State (such as the UK) includes in its tax base the profits and losses of a company incorporated and tax resident in another Member State (such as the Netherlands) to the extent that the profits are attributable to a business carried on by the Netherlands company in the UK through a permanent establishment situated in the UK, is it a restriction on the freedom of a national of a Member State to establish in the UK under Article TFEU ([formerly] Article EC) for the UK to prevent the surrender of the UK losses of a permanent establishment situated in the UK of a non-UK resident company to a UK company by way of group relief where any part of those losses or any amount brought into account in computing them “corresponds to, or is represented in, any amount which, for the purposes of any foreign tax is (in any period) deductible from or otherwise allowable against non-UK profits of the company or any person” i.e. to permit the surrender of UK losses in the case of a permanent establishment situated in the UK only where it is clear that at the time of the claim there can never be any deduction or allowance in any State outside the UK (including another Member State (such as the Netherlands)), and it being insufficient that relief available overseas has not in fact been claimed, and in circumstances where there is no equivalent condition applicable to the surrender of UK losses of a UK resident company?
+(2)
+If so, is that restriction capable of being justified:
+(a)
+solely on the basis of the need to prevent the double use of losses, or
+(b)
+solely on the basis of the need to preserve the balanced allocation of taxing powers between Member States, or
+(c)
+on the basis of the need to preserve the balanced allocation of taxing powers between Member States in conjunction with the need to prevent the double use of losses?
+(3)
+If so, is the restriction proportionate to such justification or justifications?
+(4)
+If any restriction on the rights of the Netherlands company is not justified or to the extent that it is not proportionate to any justification, does EU Law require the UK to provide the UK company with a remedy such as the right to claim group relief against its profits?’
+Consideration of the questions referred for a preliminary ruling
+The first question
+By its first question, the referring court seeks, in essence, to ascertain whether Article EC must be interpreted as meaning that where, under the national legislation of a Member State, the possibility of transferring, by means of group relief and to a resident company, losses sustained by the permanent establishment in that Member State of a non-resident company is subject to a condition that those losses cannot be used for the purposes of foreign taxation, and where the transfer of losses sustained in that Member State by a resident company is not subject to any equivalent condition, such provisions constitute a restriction on the freedom of a non-resident company to establish itself in another Member State.
+Freedom of establishment, which Article EC grants to European Union nationals and which includes the right to take up and pursue activities as self-employed persons and to set up and manage undertakings, under the conditions laid down for its own nationals by the law of the Member State where such establishment is effected, entails, in accordance with Article EC, for companies or firms formed in accordance with the law of a Member State and having their registered office, central administration or principal place of business within the European Union, the right to exercise their activity in the Member State concerned through a subsidiary, a branch or an agency (Case C-307/Saint-Gobain ZN [1999] ECR I-6161, paragraph 35, and Case C-446/Marks & Spencer [2005] ECR I-10837, paragraph 30).
+As the second sentence of the first paragraph of Article EC expressly leaves traders free to choose the appropriate legal form in which to pursue their activities in another Member State, that freedom of choice must not be limited by discriminatory tax provisions (Case 270/Commission v France [1986] ECR 273, paragraph 22).
+The freedom to choose the appropriate legal form in which to pursue activities in another Member State serves, inter alia, to allow companies having their seat in a Member State to open a branch in another Member State in order to pursue their activities under the same conditions as those which apply to subsidiaries (Case C-253/CLT-UFA [2006] ECR I-1831, paragraph 15).
+In that regard, legislation such as that at issue in the main proceedings imposes certain conditions on the possibility of transferring, through group relief and to a resident company, losses sustained by the permanent establishment of a non-resident company situated in that Member State, while the transfer of losses sustained in that Member State by a resident company is not subject to any equivalent condition.
+Such a difference in treatment makes it less attractive for companies having their seat in other Member States to exercise the right to freedom of establishment through a branch. It follows that national legislation such as that at issue in the main proceedings restricts the freedom to choose the appropriate legal form in which to pursue activities in another Member State.
+In order for such a difference in treatment to be compatible with the provisions of the EC Treaty on the freedom of establishment, it must relate to situations which are not objectively comparable or be justified by an overriding reason in the public interest (see, to that effect, Case C-446/Test Claimants in the FII Group Litigation [2006] ECR I-11753, paragraph 167). The comparability of a Community situation with an internal situation must be examined having regard to the aim pursued by the national provisions at issue (Case C-337/X Holding [2010] ECR I-1215, paragraph 22).
+The United Kingdom maintains that the situation of a non-resident company with only a permanent establishment in the United Kingdom, which is taxable only on the amount of profits generated in the United Kingdom and attributable to that permanent establishment, is not comparable to that of a resident company – which may incidentally be the subsidiary of a non-resident parent company – which is taxable on all its income.
+Such an analysis cannot however be accepted. The situation of a non-resident company with only a permanent establishment in the national territory and that of a resident company are, having regard to the objective of a tax regime such as that at issue in the main proceedings, objectively comparable in so far as concerns the possibility of transferring by means of group relief losses sustained in the United Kingdom to another company in that group.
+Consequently, the answer to the first question is that Article EC must be interpreted as meaning that where, under the national legislation of a Member State, the possibility of transferring, by means of group relief and to a resident company, losses sustained by the permanent establishment in that Member State of a non-resident company is subject to a condition that those losses cannot be used for the purposes of foreign taxation, and where the transfer of losses sustained in that Member State by a resident company is not subject to any equivalent condition, those provisions constitute a restriction on the freedom of a non-resident company to establish itself in another Member State.
+The second question
+By its second question, the referring court seeks, in essence, to ascertain whether a restriction on the freedom of a non-resident company to establish itself in another Member State, such as that at issue in the main proceedings, can be justified by overriding reasons in the public interest relating to the objective of preventing the double use of losses or the objective of preserving a balanced allocation of the power to impose taxes between Member States, or a combination of those two grounds.
+In accordance with settled case-law, a restriction on freedom of establishment may be permissible if it is justified by overriding reasons in the public interest. It is further necessary, in such a case, that it is appropriate to ensuring the attainment of the objective at issue and does not go beyond what is necessary to attain it (Marks & Spencer, paragraph 35).
+It must be recalled, first, that preserving the allocation of powers of taxation between the Member States is a legitimate objective recognised by the Court (see, inter alia, Case C-371/National Grid Indus [2011] ECR I-12273, paragraph 45).
+That objective, as observed by the Court, is designed, inter alia, to safeguard the symmetry between the right to tax profits and the right to deduct losses (see Case C-414/Lidl Belgium [2008] ECR I-3601, paragraph 33).
+However, in a situation such as that in the main proceedings, the power of the host Member State, on whose territory the economic activity giving rise to the losses of the permanent establishment is carried out, to impose taxes is not at all affected by the possibility of transferring, by group relief and to a resident company, the losses sustained by a permanent establishment situated in its territory.
+That situation must be distinguished from that where the issue would be whether losses sustained in another Member State could be used and would be linked, for that reason, to that other Member State’s power to impose taxes, and where the symmetry between the right to tax profits and the right to deduct losses would not be safeguarded. In a situation such as that in the main proceedings, where the issue is that of transferring to a resident company the losses sustained by a permanent establishment situated in the territory of the same Member State, the power of that Member State to tax the profits (if any) arising from the activity, in its territory, of the permanent establishment is not affected.
+It follows that the host Member State, on whose territory the economic activity giving rise to the losses of the permanent establishment is carried out, cannot, in a situation such as that at issue in the main proceedings, use the objective of preserving the allocation of the power to impose taxes between the Member States as justification for the fact that, under its national legislation, the possibility of transferring, by means of group relief and to a resident company, losses sustained by the permanent establishment in that Member State of a non-resident company is subject to a condition that those losses cannot be used for the purposes of foreign taxation, while the transfer of losses sustained in that Member State by a resident company is not subject to any equivalent condition.
+As regards, secondly, the objective of preventing the double use of losses, it must be observed that even if such a ground, considered independently, could be relied on, it cannot in any event be relied on in circumstances such as those in the main proceedings to justify the national legislation of the host Member State.
+The dispute in the main proceedings concerns the question whether the host Member State may impose certain conditions on the possibility of transferring, through group relief and to a resident company, losses sustained by the permanent establishment situated in that Member State of a non-resident company, while the transfer of losses sustained in that Member State by a resident company is not subject to any equivalent condition.
+In such circumstances, the risk that those losses may be used both in the host Member State where the permanent establishment is situated and also in the Member State where the non-resident company has its seat has no effect on the power of the Member State where the permanent establishment is situated to impose taxes.
+As observed by the Advocate General in point et seq. of her Opinion, the losses transferred by the permanent establishment in the United Kingdom of LG.PD Netherlands to Philips Electronics UK, which is a resident company established in the United Kingdom, can be linked, in any event, to the United Kingdom’s power to impose taxes. That power is not at all impaired by the fact that the losses transferred might also, in appropriate circumstances, be used in the Netherlands.
+Consequently, in circumstances such as those of the main proceedings, the objective of preventing the risk of double use of losses cannot, as such, allow the Member State in which the permanent establishment is situated to exclude the use of losses on the ground that those losses may also be used in the Member State in which the non-resident company has its seat.
+The host Member State, in whose territory the permanent establishment is situated, therefore cannot, in order to justify its legislation in a situation such as that in the main proceedings and in any event, plead as an independent justification the risk of the double use of losses.
+The same is true, for the grounds set out in paragraphs to of this judgment, with regard to a combination of the objective of preserving a balanced allocation of the power to impose taxes between the Member States and that of preventing the double use of losses.
+It follows from the foregoing that the answer to the second question is that a restriction on the freedom of a non-resident company to establish itself in another Member State, such as that at issue in the main proceedings, cannot be justified by overriding reasons in the public interest based on the objective of preventing the double use of losses or the objective of preserving a balanced allocation of the power to impose taxes between Member States or by a combination of those two grounds.
+The third question
+In the light of the answer given to the second question, there is no need to answer the third question.
+The fourth question
+By its fourth question, the referring court seeks, in essence, to ascertain what consequences should follow from the answer given to the second question.
+It is settled case-law that any national court, hearing a case within its jurisdiction, has, as an organ of a Member State, the obligation, pursuant to the principle of cooperation set out in Article EC, fully to apply the directly applicable European Union law and to protect the rights which the latter confers upon individuals, disapplying any provision of national law which may be to the contrary, whether the latter is prior to or subsequent to the rule of European Union law (see, to that effect, inter alia, Case 106/Simmenthal [1978] ECR 629, paragraphs and 21, and Case C-213/Factortame and Others [1990] ECR I-2433, paragraph 19).
+It is, in the present case, of no relevance in that regard that it is not the taxpayer, a company established in the United Kingdom, whose freedom of establishment has been unjustifiably restricted, but rather the non-resident company with a permanent establishment in the United Kingdom. In order to be effective, freedom of establishment must also entail, in a situation such as that in the main proceedings, the possibility that the taxpayer may have the benefit of the group relief set against its profits.
+Accordingly, the answer to the fourth question is that, in a situation such as that in the main proceedings, the national court must disapply any provision of the national legislation which is contrary to Article EC.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+1.
+Article EC must be interpreted as meaning that where, under the national legislation of a Member State, the possibility of transferring, by means of group relief and to a resident company, losses sustained by the permanent establishment in that Member State of a non-resident company is subject to a condition that those losses cannot be used for the purposes of foreign taxation, and where the transfer of losses sustained in that Member State by a resident company is not subject to any equivalent condition, such provisions constitute a restriction on the freedom of a non-resident company to establish itself in another Member State.
+ 
+2.
+A restriction on the freedom of a non-resident company to establish itself in another Member State, such as that at issue in the main proceedings, cannot be justified by overriding reasons in the public interest based on the objective of preventing the double use of losses or the objective of preserving a balanced allocation of the power to impose taxes between the Member States or by a combination of those two grounds.
+ 
+3.
+In a situation such as that in the main proceedings, the national court must disapply any provision of the national legislation which is contrary to Article EC.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

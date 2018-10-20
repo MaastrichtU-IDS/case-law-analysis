@@ -1,0 +1,158 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+March (
+)
+‛Reference for a preliminary ruling — Directive 2001/29/EC — Harmonisation of certain aspects of copyright and related rights in the information society — Article — Access to cable of broadcasting services — Concept of ‘cable’ — Retransmission of broadcasts of commercial television broadcasters by a third party via the internet — ‘Live streaming’’
+In Case C‑275/15,
+REQUEST for a preliminary ruling under Article TFEU from the Court of Appeal (England & Wales) (Civil Division) (United Kingdom), made by decision of June 2015, received at the Court on June 2015, in the proceedings
+ITV Broadcasting Limited,
+ITVLimited,
+ITV Digital Channels Limited,
+Channel Four Television Corporation,
+Ventures Limited,
+Channel Broadcasting Limited,
+ITV Studios Limited
+v
+TVCatchup Limited (in administration),
+TVCatchup (UK) Limited,
+Media Resources Limited,
+interveners:
+The Secretary of State for Business, Innovation and Skills,
+Virgin Media Limited,
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz (Rapporteur), President of the Chamber, E. Juhász, C. Vajda, K. Jürimäe and C. Lycourgos, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: V. Giacobbo-Peyronnel, Administrator,
+having regard to the written procedure and further to the hearing on May 2016,
+after considering the observations submitted on behalf of:
+—
+ITV Broadcasting Limited, ITVLimited, ITV Digital Channels Limited, Channel Four Television Corporation, Ventures Limited, Channel Broadcasting Limited, ITV Studios Limited, by J. Mellor QC and Q. Cregan, Barrister, instructed by P. Stevens and J. Vertes, Solicitors,
+—
+TVCatchup (UK) Limited and Media Resources Limited, by M. Howe QC, instructed by L. Gilmore, Solicitor,
+—
+Virgin Media Limited, by T. de la Mare QC, instructed by B. Allgrove, Solicitor,
+—
+the United Kingdom Government, initially by V. Kaye, acting as Agent, C. May QC and J. Riordan, Barrister, and subsequently by J. Kraehling, acting as Agent, and A. Robertson QC,
+—
+the European Commission, by T. Scharf and J. Samnadda, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167, p. 10, and corrigendum OJ L 167, p. 70).
+The request has been made in proceedings between ITV Broadcasting Limited, ITVLimited, ITV Digital Channels Limited, Channel Four Television Corporation, Ventures Limited, Channel Broadcasting Limited and ITV Studios Limited (‘the appellants’), on the one hand, and TVCatchup Limited, in administration (‘TVC’), TVCatchup (UK) Limited (‘TVC UK’) and Media Resources Limited, on the other, concerning the transmission of the appellants’ television broadcasts by the latter via the internet.
+Legal context
+EU law
+Recitals 4, 20, 23, and of Directive 2001/state:
+‘(4)
+A harmonised legal framework on copyright and related rights, through increased legal certainty and while providing for a high level of protection of intellectual property, will foster substantial investment in creativity and innovation, including network infrastructure, and lead in turn to growth and increased competitiveness of European industry, ...
+...
+(20)
+This Directive is based on principles and rules already laid down in the Directives currently in force in this area, in particular Directives [91/250/EEC, 92/100/EEC, Council Directive 93/83/EEC of September on the coordination of certain rules concerning copyright and rights related to copyright applicable to satellite broadcasting and cable retransmission (OJ L 248, p. 15), Directives 93/98/EEC and 96/9/EC], and it develops those principles and rules and places them in the context of the information society. The provisions of this Directive should be without prejudice to the provisions of those Directives, unless otherwise provided in this Directive.
+...
+(23)
+This Directive should harmonise further the author’s right of communication to the public. This right should be understood in a broad sense covering all communication to the public not present at the place where the communication originates. ...
+...
+(32)
+This Directive provides for an exhaustive enumeration of exceptions and limitations to the reproduction right and the right of communication to the public. ...
+...
+(60)
+The protection provided under this Directive should be without prejudice to national or Community legal provisions in other areas, such as industrial property, data protection, conditional access, access to public documents, and the rule of media exploitation chronology, which may affect the protection of copyright or related rights.’
+Article of Directive 2001/29, entitled ‘Scope’, provides:
+‘1.   This Directive concerns the legal protection of copyright and related rights in the framework of the internal market, with particular emphasis on the information society.
+2.   Except in the cases referred to in Article 11, this Directive shall leave intact and shall in no way affect existing Community provisions relating to:
+...
+(c)
+copyright and related rights applicable to broadcasting of programmes by satellite and cable retransmission;
+...’
+Under Article of that directive, entitled ‘Reproduction right’:
+‘Member States shall provide for the exclusive right to authorise or prohibit direct or indirect, temporary or permanent reproduction by any means and in any form, in whole or in part:
+(a)
+for authors, of their works;
+...
+(e)
+for broadcasting organisations, of fixations of their broadcasts, whether those broadcasts are transmitted by wire or over the air, including by cable or satellite.’
+Article of Directive 2001/29, entitled ‘Right of communication to the public of works and right of making available to the public other subject matter’, provides:
+‘1.   Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.
+2.   Member States shall provide for the exclusive right to authorise or prohibit the making available to the public, by wire or wireless means, in such a way that members of the public may access them from a place and at a time individually chosen by them:
+...
+(d)
+for broadcasting organisations, of fixations of their broadcasts, whether these broadcasts are transmitted by wire or over the air, including by cable or satellite.
+...’
+Under Article of Directive 2001/29, entitled ‘Exceptions and limitations’:
+‘3.   Member States may provide for exceptions or limitations to the rights provided for in Articles and in the following cases:
+...
+5.   The exceptions and limitations provided for in paragraphs 1, 2, and shall only be applied in certain special cases which do not conflict with a normal exploitation of the work or other subject matter and do not unreasonably prejudice the legitimate interests of the rightholder.’
+Article of that directive, entitled ‘Continued application of other legal provisions’, states:
+‘This Directive shall be without prejudice to provisions concerning in particular patent rights, trade marks, design rights, utility models, topographies of semi-conductor products, type faces, conditional access, access to cable of broadcasting services, protection of national treasures, legal deposit requirements, laws on restrictive practices and unfair competition, trade secrets, security, confidentiality, data protection and privacy, access to public documents, the law of contract.’
+United Kingdom law
+The Copyright, Designs and Patents Act 1988, as amended by the Copyright and Related Rights Regulations (‘the CDPA’), which implemented Directive 2001/29, provides as follows at section 73, entitled ‘Reception and re-transmission of wireless broadcast by cable’:
+‘(1)   This section applies where a wireless broadcast made from a place in the United Kingdom is received and immediately re-transmitted by cable.
+(2)   The copyright in the broadcast is not infringed–
+(a)
+if the re-transmission by cable is in pursuance of a relevant requirement, or
+(b)
+if and to the extent that the broadcast is made for reception in the area in which it is re-transmitted by cable and forms part of a qualifying service.
+(3)   The copyright in any work included in the broadcast is not infringed if and to the extent that the broadcast is made for reception in the area in which it is re-transmitted by cable. ...’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+The appellants in the main proceedings are commercial television broadcasters who own copyright under national law in their television broadcasts and in the films and other items which are included in their broadcasts. They are funded by advertising carried in their broadcasts.
+TVC offered an internet television broadcasting service, permitting its users to receive, via the internet, ‘live’ streams of free-to-air television broadcasts, including television broadcasts transmitted by the appellants in the main proceedings. Following TVC’s being put into administration, its business and services are now carried on by TVC UK, under a licence granted by Media Resources Limited.
+The appellants in the main proceedings instituted proceedings against TVC before the High Court of Justice (England & Wales), Chancery Division, United Kingdom, for breach of their copyright. That court referred a request for a preliminary ruling concerning the interpretation of the concept of ‘communication to the public’ in Article 3(1) of Directive 2001/to the Court of Justice.
+Following the judgment of March 2013, ITV Broadcasting and Others (C‑607/11, EU:C:2013:147), the High Court of Justice (England & Wales), Chancery Division, found that TVC had infringed the copyright of the appellants in the main proceedings by communication to the public. As regards three television channels, namely ITV, Channel and Channel 5, that court found, however, that TVC could rely on a defence under section 73(2)(b) and (3) of the CDPA.
+The appellants in the main proceedings brought an appeal before the referring court. TVC UK and Media Resources Limited were added as respondents to the proceedings before the referring court.
+The referring court explains that section of the CDPA provides a defence to an action for infringement of copyright in a broadcast or in any work included in a broadcast, applicable ‘where a wireless broadcast made from a place in the United Kingdom is received and immediately re-transmitted by cable’. It states that the defence at issue before it does not concern section 73(2)(a) and (3) of the CDPA, under which, inter alia, the copyright in the broadcast is not infringed ‘if the re-transmission by cable is in pursuance of a relevant requirement’, but solely section 73(2)(b) and (3) of the CDPA, under which copyright is not infringed ‘if and to the extent that the broadcast is made for reception in the area in which it is re-transmitted by cable and forms part of a qualifying service’.
+Taking the view that section of the CDPA should be interpreted in the light of Article of Directive 2001/29, the Court of Appeal (England &Wales) (Civil Division) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘On the interpretation of Article of [Directive 2001/29], specifically of the phrase “this Directive shall be without prejudice [to provisions concerning] in particular … access to cable of broadcasting services”:
+(1)
+Does the quoted phrase permit the continued application of a provision of national law with the scope of “cable” as defined by national law, or is the scope of this part of Article determined by a meaning of “cable” that is defined by EU law?
+(2)
+If “cable” in Article is defined by EU law, what is that meaning? In particular:
+(a)
+Does it have a technologically specific meaning, restricted to traditional cable networks operated by conventional cable service providers?
+(b)
+Alternatively, does it have a technologically neutral meaning which includes functionally similar services transmitted via the internet?
+(c)
+In either case, does it include transmission of microwave energy between fixed terrestrial points?
+(3)
+Does the quoted phrase apply (1) to provisions which require cable networks to retransmit certain broadcasts or (2) to provisions which permit the retransmission by cable of broadcasts (a) where the retransmissions are simultaneous and limited to areas in which the broadcasts were made for reception and/or (b) where the retransmissions are of broadcasts on channels which are subject to certain public service obligations?
+(4)
+If the scope of “cable” within Article is defined by national law, is the provision of national law subject to the EU principles of proportionality and fair balance between the rights of copyright owners, cable owners and the public interest?
+(5)
+Is Article limited to the provisions of national law in force at the date on which the Directive was agreed, the date it entered into force or its last date for implementation, or does it also apply to subsequent provisions of national law which concern access to cable of broadcasting services?’
+Consideration of the questions referred
+The third question
+By its third question, which it is appropriate to examine first, the referring court asks, in essence, whether Article of Directive 2001/29, and specifically the concept of ‘access to cable of broadcasting services’, must be interpreted as covering and permitting national legislation which provides that copyright is not infringed in the case of the immediate retransmission by cable, including, where relevant, via the internet, in the area of initial broadcast, of works broadcast on television channels subject to public service obligations.
+In this connection, it should be noted that, in the absence of any express reference to the laws of the Member States, the concept of ‘access to cable of broadcasting services’, in Article of Directive 2001/29, must be given an autonomous and uniform interpretation throughout the European Union which takes into account the wording of that provision, its context and the objectives of the legislation of which it forms part (see, to that effect, judgments of October 2010, Padawan, C‑467/08, EU:C:2010:620, paragraph 32, and of November 2016, Private Equity Insurance Group, C‑156/15, EU:C:2016:851, paragraph and the case-law cited).
+In the first place, it is apparent from the very term ‘access to cable’ that that concept is different from that of ‘retransmission by cable’, since only the latter concept designates, within the framework of Directive 2001/29, the transmission of audiovisual content.
+In the second place, as regards the context of Article of Directive 2001/29, as the Advocate General noted at point of his Opinion, that directive already contains, in Article 1(2)(c), a provision which deals expressly with ‘cable retransmission’, and excludes from the scope of that directive the provisions of EU law governing that question, in this instance, those of Directive 93/83.
+In so far as the point needs to be made, it should be noted that the provisions of Directive 93/are irrelevant to the main proceedings. The main proceedings concern a retransmission within one Member State whereas Directive 93/provides for minimal harmonisation of certain aspects of protection of copyright and related rights solely in the case of communication to the public by satellite or cable retransmission of programmes from other Member States (judgment of December 2006, SGAE, C‑306/05, EU:2006:764, paragraph 30).
+In the third place, as regards the objective of Directive 2001/29, the principal objective of that directive is to establish a high level of protection of authors, allowing them to obtain an appropriate reward for the use of their works, including on the occasion of communication to the public (see, to that effect, judgment of October 2011, Football Association Premier League and Others, C‑403/and C‑429/08, EU:C:2011:631, paragraph 186).
+Having regard to that high level of protection of authors, the Court — ruling on a question referred in the action at first instance from which the main proceedings have arisen — held that the concept of ‘communication to the public’ in Article 3(1) of Directive 2001/must be interpreted broadly, as recital of that directive expressly states, and that a retransmission by means of an internet stream, such as that at issue in the main proceedings, constitutes such a communication (see, to that effect, judgment of March 2013, ITV Broadcasting and Others, C‑607/11, EU:C:2013:147, paragraphs and 40).
+It follows that, in the absence of the consent of the author concerned, such a retransmission is not, as a rule, permitted, unless it falls within the scope of Article of Directive 2001/29, which sets out an exhaustive list of exceptions and limitations to the right of communication to the public established in Article of that directive, as recital thereof confirms.
+In the present case, it is common ground that the retransmission at issue in the main proceedings does not fall within the scope of any of the exceptions and limitations set out exhaustively in Article of Directive 2001/29.
+As regards Article of Directive 2001/29, as the Advocate General noted at points and of his Opinion, it is apparent from that provision, read in the light of recital of that directive, that Article is intended to maintain the provisions applicable in areas other than that harmonised by the directive.
+Indeed, an interpretation of Article of Directive 2001/to the effect that it permits a retransmission, such as that at issue in the main proceedings, without the consent of the authors, in cases other than those provided for in Article of that directive, would run counter not only to the objective of Article 9, but also to the exhaustive nature of Article 5, and, consequently, would be detrimental to the achievement of the principal objective of that directive which is to establish a high level of protection of authors.
+It is irrelevant whether the protected works were initially broadcast on television channels subject to public service obligations. Indeed, there is no basis in Directive 2001/that would justify affording less protection to those channels’ content.
+In the light of all those considerations, the answer to the third question is that Article of Directive 2001/29, and specifically the concept of ‘access to cable of broadcasting services’, must be interpreted as not covering, and not permitting, national legislation which provides that copyright is not infringed in the case of the immediate retransmission by cable, including, where relevant, via the internet, in the area of initial broadcast, of works broadcast on television channels subject to public service obligations.
+The first, second, fourth and fifth questions
+In the light of the answer given to the third question, there is no need to answer the first, second, fourth and fifth questions.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Article of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society, and specifically the concept of ‘access to cable of broadcasting services’, must be interpreted as not covering, and not permitting, national legislation which provides that copyright is not infringed in the case of the immediate retransmission by cable, including, where relevant, via the internet, in the area of initial broadcast, of works broadcast on television channels subject to public service obligations.
+ 
+von Danwitz
+Juhász
+Vajda
+Jürimäe
+Lycourgos
+Delivered in open court in Luxembourg on March 2017.
+A. Calot Escobar
+Registrar
+T. von Danwitz
+President of the Fourth Chamber
+(
+)	* Language of the case: English.
+Top  
+ 

@@ -1,0 +1,166 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+September (
+*)
+‛Request for a preliminary ruling — Free movement of goods — Measures having equivalent effect — Directive 2004/22/EC — Metrological verification of measuring systems — Hot-water meter satisfying all the requirements of that directive and connected to a remote (telemetric) data-transmission device — Prohibition of the use of that meter without a prior metrological verification of the system’
+In Case C‑423/13,
+REQUEST for a preliminary ruling under Article TFEU from the Lietuvos vyriausiasis administracinis teismas (Lithuania), made by decision of June 2013, received at the Court on July 2013, in the proceedings
+Vilniaus energija UAB
+v
+Lietuvos metrologijos inspekcijos Vilniaus apskrities skyrius,
+THE COURT (Second Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, K. Lenaerts (Rapporteur), Vice-President of the Court, J.L. da Cruz Vilaça, J.-C. Bonichot and A. Arabadjiev, Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Vilniaus energija UAB, by L. Samuolis,
+—
+the Lithuanian Government, by D. Kriaučiūnas and V. Kazlauskaitė-Švenčionienė, acting as Agents,
+—
+the Belgian Government, by T. Materne and J.-C. Halleux, acting as Agents,
+—
+the Polish Government, by B. Majczyna, acting as Agent,
+—
+the European Commission, by G. Zavvos and J. Jokubauskaitė, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article TFEU and of Directive 2004/22/EC of the European Parliament and of the Council of March on measuring instruments (OJ L 135, p. 1).
+The request has been made in proceedings between Vilniaus energija UAB (‘Vilniaus energija’) and Lietuvos metrologijos inspekcijos Vilniaus apskrities skyrius (Vilnius Regional Department of the Lithuanian Metrology Inspectorate; ‘the metrologijos inspekcija’) concerning an action seeking the annulment of an act adopted by the latter in respect of the use of results from measuring water meters connected to a remote (telemetric) data-transmission device.
+Legal context
+EU law
+Pursuant to recitals 3, 4, and in the preamble to Directive 2004/22:
+‘(3)
+Legal metrological control should not lead to barriers to the free movement of measuring instruments. The provisions concerned should be the same in all Member States and proof of conformity accepted throughout the Community.
+(4)
+Legal metrological control requires conformity with specified performance requirements. The performance requirements that the measuring instruments must meet should provide a high level of protection. The conformity assessment should provide a high level of confidence.
+…
+(10)
+In order to take account of differences in climatic conditions or of different levels of consumer protection that may apply at national level, essential requirements may give rise to the establishment of environmental or accuracy classes.
+…
+(17)
+Member States should not impede the placing on the market and/or putting into use of measuring instruments that carry the “CE” marking and supplementary metrology marking in accordance with the provisions of this Directive.’
+According to its Article 1, entitled ‘Scope’, Directive 2004/applies to ‘the devices and systems with a measuring function defined in the instrument-specific annexes concerning water meters (MI‑001)’.
+Article 2(1) of the directive provides:
+‘Member States may prescribe the use of measuring instruments mentioned in Article for measuring tasks for reasons of public interest, public health, public safety, public order, protection of the environment, protection of consumers, levying of taxes and duties and fair trading, where they consider it justified.’
+The first paragraph of Article of Directive 2004/is worded as follows:
+‘This Directive establishes the requirements that the devices and systems referred to in Article have to satisfy with a view to their being placed on the market and/or put into use for those tasks mentioned in Article 2(1).’
+Article 4(a), (e) and (f) of Directive 2004/provides:
+‘For the purpose of this Directive:
+(a)
+“measuring instrument” means any device or system with a measurement function that is covered by Articles and 3;
+…
+(e)
+“placing on the market” means making available for the first time in the Community an instrument intended for an end user, whether for reward or free of charge;
+(f)
+“putting into use” means the first use of an instrument intended for the end user for the purposes for which it was intended.’
+Article 6(1), first subparagraph, of the directive reads as follows:
+‘A measuring instrument shall meet the essential requirements laid down in Annex I and in the relevant instrument-specific Annex.’
+Article 7(1) of Directive 2004/provides:
+‘The conformity of a measuring instrument with all the provisions of this Directive shall be indicated by the presence on it of the “CE” marking and the supplementary metrology marking as specified in Article 17.’
+Article 8(1) to (4) of the directive provides:
+‘1.   Member States shall not impede for reasons covered by this Directive the placing on the market and/or putting into use of any measuring instrument that carries the “CE” marking and supplementary metrology marking in accordance with Article 7.
+2.   Member States shall take all appropriate measures to ensure that measuring instruments be placed on the market and/or put into use only if they satisfy the requirements of this Directive.
+3.   A Member State may require a measuring instrument to satisfy provisions governing its putting into use that are justified by local climatic conditions. In such a case, the Member State shall choose appropriate upper and lower temperature limits from Table of Annex I and, in addition, may specify humidity conditions (condensing or non-condensing) and whether the intended location of use is open or closed.
+4.   When different accuracy classes are defined for a measuring instrument:
+(a)
+the instrument-specific annexes under the heading “Putting into use” may indicate the accuracy classes to be used for specific applications.
+(b)
+in all other cases a Member State may determine the accuracy classes to be used for specific applications within the classes defined, subject to allowing the use of all accuracy classes on its territory.
+In either case falling under (a) or (b), measuring instruments of a better accuracy class may be used if the owner so chooses.’
+Under Article 9, first paragraph, of the directive:
+‘Conformity assessment of a measuring instrument with the relevant essential requirements shall be carried out by the application, at the choice of the manufacturer, of one of the conformity assessment procedures listed in the instrument-specific annex. …’
+Annex I to Directive 2004/22, entitled ‘Essential Requirements’, provides:
+‘A measuring instrument shall provide a high level of metrological protection in order that any party affected can have confidence in the result of measurement, and shall be designed and manufactured to a high level of quality in respect of the measurement technology and security of the measurement data.
+The requirements that shall be met by measuring instruments are set out below and are supplemented, where appropriate, by specific instrument requirements in Annexes MI‑to MI‑that provide more detail on certain aspects of the general requirements.
+…
+8. Protection against corruption
+8.1.
+The metrological characteristics of a measuring instrument shall not be influenced in any inadmissible way by the connection to it of another device, by any feature of the connected device itself or by any remote device that communicates with the measuring instrument.
+…
+10. Indication of result
+…
+10.4.
+A measuring instrument for direct sales trading transactions shall be designed to present the measurement result to both parties in the transaction when installed as intended. When critical in case of direct sales, any ticket provided to the consumer by an ancillary device not complying with the appropriate requirements of this Directive shall bear an appropriate restrictive information.
+10.5.
+Whether or not a measuring instrument intended for utility measurement purposes can be remotely read it shall in any case be fitted with a metrologically controlled display accessible without tools to the consumer. The reading of this display is the measurement result that serves as the basis for the price to pay.
+…’
+Annex MI‑to Directive 2004/22, entitled ‘Water Meters’, provides as follows:
+‘The relevant requirements of Annex I, the specific requirements of this Annex and the conformity assessment procedures listed in this Annex, apply to water meters intended for the measurement of volumes of clean, cold or heated water in residential, commercial and light industrial use.
+Definitions
+Water Meter
+An instrument designed to measure, memorise and display the volume at metering conditions of water passing through the measurement transducer.
+…’
+Annex MI‑to Directive 2004/22, entitled ‘Measuring systems for the continuous and dynamic measurement of quantities of liquids other than water’, defines the notion of ‘measuring system’ as ‘[a] system that comprises the meter itself and all devices required to ensure correct measurement or intended to facilitate the measuring operations’.
+Lithuanian law
+Article 2(7) of the Metrology Law (Metrologijos įstatymas), in the version resulting from Law No X-of June (Žin., 2006, No 77-2966), provides:
+‘A measuring instrument is an implement, device or system designed to measure independently or in conjunction with other additional appliances.’
+Article 2(15) of that Law provides:
+‘A measuring system is a group of measuring instruments or different items of equipment joined together for the purpose of carrying out specific measurements.’
+Decree No V–of November of the Director of the State Metrology Service on the metrological validation of measuring instruments with remote (telemetric) transmission of data [Įsakymas ‘Dėl matavimo priemonių su nuotoliniu (telemetriniu) duomenų perdavimu metrologinio įteisinimo’] (Žin., 2010, No 135-2010) (‘the Decree of November 2010’), provides:
+‘1.
+The type of measuring instruments with a remote (telemetric) data-transmission function must be validated only once the necessary tests have been conducted and it has been established with certainty that the data transmitted via the telemetric channel correspond in full to what is indicated by the measuring instrument;
+2.
+A measuring instrument with remote (telemetric) data transmission is treated as a measuring system and for that reason the metrological verification must be carried out as on a measuring system, with the verification results being drawn up accordingly;
+3.
+Measuring instruments relating to legal metrology which are constructed with a remote (telemetric) data-transmission function, but the types of which have been validated without an appraisal of that function, cannot be used for purposes of remote (telemetric) data transmission.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Vilniaus energija is an undertaking which supplies heating and hot water in the city of Vilnius.
+In the examination of a request submitted by a consumer on February 2012, officials of the metrologijos inspekcija established that Vilniaus energija had installed a hot-water meter of type WFH 36, serial number 09532667, in that consumer’s apartment. Affixed to the meter was an initial verification sticker which was still valid, attesting that a verification had been carried out by the Vilniaus metrologijos centras.
+The meter in question was connected to an automatic temperature regulation device and a remote (telemetric) data-transmission device called Rubisafe, by means of which data from the meter readings were transmitted remotely and used for the purpose of drawing up bills. As is apparent from the case-file before the Court, a large number of the Rubisafe devices were manufactured in Germany.
+In accordance with paragraph of the Decree of November 2010, the metrologijos inspekcija took the view that the results from the measuring of that meter could not be transmitted remotely, since no metrological verification of the whole system, that is to say, the water meter in conjunction with the remote data-transmission device, had been carried out.
+By inspection measure No PA-(V12) of March concerning verification of compliance with the requirements of legal metrology (‘the inspection measure’), the metrologijos inspekcija imposed the following two obligations on Vilniaus energija:
+—
+not to use the results from the measuring of a hot-water meter transferred by remote means (for the purpose of drawing up bills) until metrological verification of the system has been established in the manner provided; and
+—
+to use only the data declared from readings taken from a metrologically certified hot-water meter installed in the apartment and which has a valid metrological verification.
+Vilniaus energija brought an action before the Vilniaus apygardos administracinis teismas (Vilnius Regional Administrative Court) seeking annulment of the inspection measure.
+By judgment of August 2012, the Vilniaus apygardos administracinis teismas declared the action brought by Vilniaus energija to be unfounded and dismissed it.
+Vilnius energija brought an appeal against that judgment before the Lietuvos vyriausiasis administracinis teismas (Supreme Administrative Court of Lithuania).
+According to the referring court, it is apparent from the Decree of November and from the inspection measure which implements it that, even if a water meter, as a measuring instrument, satisfies all the requirements of Directive 2004/and bears the necessary markings referred to by that directive, that meter cannot normally be used when connected to a remote (telemetric) data-transmission device. In qualitative terms, the national rules and practice treat that meter as a new measuring instrument, that is to say, a measuring system which must, under national law, be evaluated and approved by type, in the same way as a metrological verification.
+In those circumstances the referring court is unsure as to the compatibility of that national legislation and practice with Article TFEU and Directive 2004/22.
+In those circumstances, the Lietuvos vyriausiasis administracinis teismas decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Must Article [TFEU] and/or Directive 2004/be interpreted as prohibiting national legislation and practice under which a hot-water meter which satisfies all of the requirements of Directive 2004/and is connected to a remote (telemetric) data-transmission device is regarded as being a measuring system and by reason of that fact that hot-water meter cannot be used as intended until a metrological verification has been carried out on that meter and that remote (telemetric) data-transmission device as together constituting a measuring system?’
+The question referred for a preliminary ruling
+As a preliminary point, it is necessary to examine whether the connection of a hot-water meter, which satisfies all of the requirements in Directive 2004/22, to a remote (telemetric) data-transmission device has the effect of removing that meter from the scope of that directive.
+Under Article thereof, Directive 2004/applies to the devices and systems with a measuring function defined in the instrument-specific annex concerning water meters, namely Annex MI‑001.
+That annex defines a ‘water meter’ as ‘[a]n instrument designed to measure, memorise and display the volume at metering conditions of water passing through the measurement transducer’.
+In that connection, the first subparagraph of Article 6(1) of Directive 2004/provides that a water meter, within the meaning of that directive, must meet the essential requirements laid down in Annex I and in the relevant instrument-specific annex, namely Annex MI‑to that directive.
+Those essential requirements include the requirement, in point 8.of Annex I, that the metrological characteristics of a measuring instrument must not be influenced in any inadmissible way by the connection to it of any remote data-transmission device. Likewise, point 10.of Annex I provides that, where there is a difference between the results displayed by the measuring instrument and that device, it is the reading displayed by the measuring instrument which determines the price to be paid by the consumer.
+It follows from the foregoing that a hot-water meter which satisfies all the requirements laid down by that directive cannot be excluded from its scope on the ground that it is connected to a remote (telemetric) data-transmission device.
+Such a meter therefore comes within the scope of Directive 2004/22.
+By contrast, with regard to the remote (telemetric) data-transmission device, it must be noted that its function is limited to the remote transmission of data previously measured by the hot-water meter. Since such a device is not ‘[a device] with a measuring function’ within the meaning of Article of Directive 2004/22, it does not come within the scope of the directive.
+Moreover, that directive also does not apply to the system comprising the water meter itself and the remote (telemetric) data-transmission device. Unlike Annex MI‑to Directive 2004/22, which concerns measuring systems for the continuous and dynamic measurement of quantities of liquids other than water, which defines the notion of a ‘measuring system’ as ‘[a] system that comprises the meter itself and all devices required to ensure correct measurement or intended to facilitate the measuring operations’, Annex M1-to that directive does not make any reference to that notion. This absence may be explained by the fact that a water meter covered by Directive 2004/is designed as a complete measuring instrument, which, as a system, has no need for other devices in order to ensure correct measuring or to facilitate measuring operations.
+Therefore, in order to provide a useful answer to the referring court, it is necessary to examine the national legislation and practice at issue in the main proceedings, with regard, first, to hot-water meters and, second, to remote (telemetric) data-transmission devices.
+In the first place, as regards hot-water meters, it must be recalled that, where a sphere has been the subject of exhaustive harmonisation at EU level, any national measure relating thereto must be assessed in the light of the provisions of that harmonising measure and not of those of the Treaty (see Commission v Germany, C‑463/01, EU:C:2004:797, paragraph and the case-law cited).
+Such is the case with regard to Directive 2004/22, which seeks, as is clear from recital in the preamble thereto, to establish the same requirements as to performance in all Member States which the devices and systems referred to in Article thereof must satisfy in order to be placed on the market and/or put into use.
+Thus, Article 8(1) of Directive 2004/provides that Member States may not, in principle, impede the placing on the market and/or putting into use of any measuring instrument which, after a positive evaluation of its compliance with all the requirements in that directive, carries the ‘CE’ marking and supplementary metrology marking. By contrast, if a measuring instrument does not satisfy the requirements of Directive 2004/22, Article 8(2) thereof provides that such an instrument may not be place on the market and/or put into use.
+Furthermore, in order to take account of climatic differences or differences in the level of consumer protection which may exist at national level, Article 8(3) and (4) of that directive, read in the light of recital in the preamble thereto, allows the Member States to indicate, under the conditions laid down by that article, the environmental or accuracy classes with which a measuring instrument must comply in order for it to be put into use.
+It follows that it is only in the situations provided for by Article of Directive 2004/that Member States may make measuring instruments carrying the ‘CE’ marking and the supplementary metrological marking subject to additional national requirements.
+National legislation and practice such as those at issue in the main proceedings do not, however, relate to the situations provided for by Article 8.
+It follows that such national legislation and practice preclude the putting into use of a hot-water meter which is connected to a remote (telemetric) data-transmission device and which satisfies all the requirements of Directive 2004/22, in so far as such a meter is subject to a metrological verification.
+Directive 2004/must consequently be interpreted as precluding national legislation and practice such as those at issue in the main proceedings.
+In the second place, with regard to remote (telemetric) data-transmission devices, it should be recalled, as has been indicated in paragraph of this judgment, that those devices do not come within the scope of Directive 2004/22. That national legislation and practice must therefore be examined in the light of the provisions of the FEU Treaty relating to the free movement of goods.
+In this connection, it should be borne in mind that national legislation and practice, such as those at issue in the main proceedings, which subject remote (telemetric) data-transmission devices lawfully manufactured in other Member States to a metrological verification restrict access to the market of the importing Member State and must therefore be regarded as amounting to a measure having an effect equivalent to a quantitative restriction on imports within the meaning of Article TFEU (see, to that effect, Radiosistemi, C‑388/and C‑429/00, EU:C:2002:390, paragraph 43; ATRAL, C‑14/02, EU:C:2003:265, paragraphs and 63; and Commission v Portugal, C‑432/03, EU:C:2005:669, paragraph 41).
+According to the Court’s settled case-law, such a measure may be justified only on one of the grounds of public interest listed in Article TFEU or by one of the overriding requirements referred to in the case-law of the Court, provided in particular that that measure is appropriate for securing the attainment of the objective pursued and that it does not go beyond what is necessary in order to attain that objective (see Commission v Portugal, EU:C:2005:669, paragraph 42).
+The national legislation and practice at issue in the main proceedings are intended to protect consumers. To that effect, the Court has already held that the protection of consumers constitutes a legitimate ground of public interest which is in principle capable of justifying restrictions on the fundamental freedoms guaranteed by the Treaty, such as the free movement of goods (see, to that effect, Canal Satélite Digital, C‑390/99, EU:C:2002:34, paragraph 34).
+Inasmuch as metrological verification makes it possible to avoid distortions and falsifications during the transmission of data, national legislation and practice such as those at issue in the main proceedings are appropriate for guaranteeing protection of consumers.
+However, that national legislation and practice go beyond what is necessary to achieve that objective.
+The national legislation and practice at issue in the main proceedings provide for a metrological verification both for hot-water meters connected to remote (telemetric) data-transmission devices and for the latter. It should, however, be noted, first, that, in accordance with Article of Directive 2004/22, the evaluation of the compliance of a water meter with the relevant essential requirements laid down by that directive must be carried out before it is placed on the market and put into use. It is only where such an assessment is favourable that the manufacturer of that meter may affix the supplementary metrological marking. Thus, a hot-water meter which satisfies all the requirements of that directive has already been subject to a metrological verification. Second, as has been noted in paragraph of the present judgment, point 8.of Annex I to the directive provides that the metrological characteristics of hot-water meters satisfying all the requirements laid down by Directive 2004/must not be influenced in any inadmissible way by the connection to it of any remote (telemetric) device that communicates with the measuring instrument. Third, in the event of a discrepancy between the results shown by the measuring instrument and that device, point 10.of Annex I states that it is the reading displayed by the measuring instrument which serves as the basis for the price to be paid by the user.
+It follows that subjecting a hot-water meter which satisfies all the requirements of Directive 2004/and is connected to a remote (telemetric) data-transmission device to a further metrological verification is unnecessary in order to attain the objective of ensuring consumer protection. That objective may be attained by measures which are less restrictive than those which result from the national legislation and practice at issue in the main proceedings, such as a metrological verification which is limited to that device.
+Furthermore, even if the competent national authorities, that is to say, in the case in the main proceedings, the metrologijos inspekcija, were subsequently to decide to limit metrological verification to the remote (telemetric) data-transmission devices, it must be borne in mind that those authorities may not, in any event, unnecessarily require technical analyses where those analyses have already been carried out in another Member State and their results are available to those authorities or may, at their request, be placed at their disposal (see, to that effect, Commission v Portugal, EU:C:2005:669, paragraph and the case-law cited).
+In the light of the foregoing, the answer to the question referred is that Article TFEU and Directive 2004/must be interpreted as precluding national legislation and practice according to which a hot-water meter which satisfies all the requirements of that directive and is connected to a remote (telemetric) data-transmission device is to be regarded as a measuring system and, as a result, cannot be used for its intended purpose so long as it has not been subject, together with that device, to a metrological verification as a measuring system.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article TFEU and Directive 2004/22/EC of the European Parliament and of the Council of March on measuring instruments must be interpreted as precluding national legislation and practice according to which a hot-water meter which satisfies all the requirements of that directive and is connected to a remote (telemetric) data-transmission device is to be regarded as a measuring system and, as a result, cannot be used for its intended purpose so long as it has not been subject, together with that device, to a metrological verification as a measuring system.
+ 
+[Signatures]
+(
+*)	Language of the case: Lithuanian.
+Top  
+ 

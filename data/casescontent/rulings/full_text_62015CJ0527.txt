@@ -1,0 +1,227 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+April (
+*)
+‛Reference for a preliminary ruling — Intellectual and industrial property — Directive 2001/29/EC — Harmonisation of certain aspects of copyright and related rights — Article 3(1) — Communication to the public — Definition — Sale of a multimedia player — Add-ons — Publication of works without the consent of the right holder — Access to streaming websites — Article 5(1) and (5) — Right of reproduction — Exceptions and limitations — Lawful use’
+In Case C‑527/15,
+REQUEST for a preliminary ruling under Article TFEU from the Rechtbank Midden-Nederland (District Court of Central Netherlands, Netherlands), made by decision of September 2015, received at the Court on October 2015, in the proceedings
+Stichting Brein
+v
+Jack Frederik Wullems, also trading under the name Filmspeler,
+THE COURT (Second Chamber),
+composed of M. Ilešič (Rapporteur), President of the Chamber, K. Lenaerts, President of the Court, acting as a Judge of the Second Chamber, A. Prechal, C. Toader and E. Jarašiūnas, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on September 2016,
+after considering the observations submitted on behalf of:
+—
+Stichting Brein, by D. Visser and P. de Leeuwe, advocaten,
+—
+J.F. Wullems, also trading under the name Filmspeler, by J. van Groenendaal, D. Stols and F. Blokhuis, advocaten,
+—
+the Spanish Government, by V. Ester Casas, acting as Agent,
+—
+the French Government, by D. Colas and D. Segoin, acting as Agents,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,
+—
+the Portuguese Government, by L. Inez Fernandes, T. Rendas and M. Figueiredo, acting as Agents,
+—
+the European Commission, by J. Samnadda and by T. Scharf and F. Wilman, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 3(1) and Article 5(1) and (5) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167, p. 10).
+The request has been made in proceedings between Stichting Brein, a foundation that protects the interests of copyright holders, and Mr Jack Frederik Wullems, concerning the sale by him of a multimedia player enabling free access to audiovisual works protected by copyright without the consent of the right holders.
+Legal context
+EU law
+Recitals 9, 10, 23, and of Directive 2001/state:
+‘(9)
+Any harmonisation of copyright and related rights must take as a basis a high level of protection, since such rights are crucial to intellectual creation. Their protection helps to ensure the maintenance and development of creativity in the interests of authors, performers, producers, consumers, culture, industry and the public at large. Intellectual property has therefore been recognised as an integral part of property.
+(10)
+If authors or performers are to continue their creative and artistic work, they have to receive an appropriate reward for the use of their work, as must producers in order to be able to finance this work. The investment required to produce products such as phonograms, films or multimedia products, and services such as “on-demand” services, is considerable. Adequate legal protection of intellectual property rights is necessary in order to guarantee the availability of such a reward and provide the opportunity for satisfactory returns on this investment.
+…
+(23)
+This Directive should harmonise further the author’s right of communication to the public. This right should be understood in a broad sense covering all communication to the public not present at the place where the communication originates. This right should cover any such transmission or retransmission of a work to the public by wire or wireless means, including broadcasting. This right should not cover any other acts.
+…
+(27)
+The mere provision of physical facilities for enabling or making a communication does not in itself amount to communication within the meaning of this Directive.
+…
+(33)
+The exclusive right of reproduction should be subject to an exception to allow certain acts of temporary reproduction, which are transient or incidental reproductions, forming an integral and essential part of a technological process and carried out for the sole purpose of enabling either efficient transmission in a network between third parties by an intermediary, or a lawful use of a work or other subject matter to be made. The acts of reproduction concerned should have no separate economic value on their own. To the extent that they meet these conditions, this exception should include acts which enable browsing as well as acts of caching to take place, including those which enable transmission systems to function efficiently, provided that the intermediary does not modify the information and does not interfere with the lawful use of technology, widely recognised and used by industry, to obtain data on the use of the information. A use should be considered lawful where it is authorised by the rightholder or not restricted by law.’
+Article of Directive 2001/29, entitled ‘Reproduction right’, reads as follows:
+‘Member States shall provide for the exclusive right to authorise or prohibit direct or indirect, temporary or permanent reproduction by any means and in any form, in whole or in part:
+(a)
+for authors, of their works;
+(b)
+for performers, of fixations of their performances;
+(c)
+for phonogram producers, of their phonograms;
+(d)
+for the producers of the first fixations of films, in respect of the original and copies of their films;
+(e)
+for broadcasting organisations, of fixations of their broadcasts, whether these broadcasts are transmitted by wire or over the air, including by cable or satellite.’
+Article of that directive, entitled ‘Right of communication to the public of works and right of making available to the public other subject matter’, states:
+‘1.   Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.
+2.   Member States shall provide for the exclusive right to authorise or prohibit the making available to the public, by wire or wireless means, in such a way that members of the public may access them from a place and at a time individually chosen by them:
+(a)
+for performers, of fixations of their performances;
+(b)
+for phonogram producers, of their phonograms;
+(c)
+for the producers of the first fixations of films, in respect of the original and copies of their films;
+(d)
+for broadcasting organisations, of fixations of their broadcasts, whether these broadcasts are transmitted by wire or over the air, including by cable or satellite.
+3.   The rights referred to in paragraphs and shall not be exhausted by any act of communication to the public or making available to the public as set out in this Article.’
+Article 5(1) and (5) of that directive provides:
+‘1.   Temporary acts of reproduction referred to in Article 2, which are transient or incidental [and] an integral and essential part of a technological process and whose sole purpose is to enable:
+(a)
+a transmission in a network between third parties by an intermediary, or
+(b)
+a lawful use
+of a work or other subject matter to be made, and which have no independent economic significance, shall be exempted from the reproduction right provided for in Article 2.
+…
+5.   The exceptions and limitations provided for in paragraphs 1, 2, and shall only be applied in certain special cases which do not conflict with a normal exploitation of the work or other subject matter and do not unreasonably prejudice the legitimate interests of the rightholder.’
+Netherlands law
+Article of the Auteurswet (Netherlands Law on copyright, ‘the Law on copyright’) provides:
+‘Copyright is the exclusive right of the author of a literary, scientific or artistic work or his successors in title, to publish it and to reproduce it, subject to the limitations laid down by law.’
+Article of the Law on copyright is worded as follows:
+‘1.   Publication of a literary, scientific or artistic work shall include:
+1°
+the publication of a reproduction of the work, in full or in part;
+…’
+Article 13a of that law provides:
+‘Reproduction of a literary, scientific or artistic work shall not include a temporary act of reproduction which is transient or incidental, and an integral and essential part of a technological process and whose sole purpose is to enable
+(a)
+the transmission in a network between third parties by an intermediary, or
+(b)
+the lawful use
+of a work, and which has no independent economic significance.’
+Article of the Wet op de Naburige Rechten (Law on neighbouring rights) provides:
+‘1.   A performer shall have the exclusive right to authorise one or more of the following acts:
+…
+d.
+the broadcast, repeat broadcast, making available to the public or any other form of communication of a performance, a recording of a performance or a reproduction thereof.
+…’
+Article of the Law on neighbouring rights provides:
+‘1.   A phonogram producer shall have the exclusive right to authorise:
+…
+c.
+the broadcast, repeat broadcast, making available to the public or other form of publication of a phonogram manufactured by him or a reproduction thereof.
+…’
+Article 7a of the Law on neighbouring rights is worded as follows:
+‘1.   The producer of the first fixations of films shall have the exclusive right to authorise:
+…
+c.
+the making available to the public of the first fixation of a film or a reproduction thereof.
+…’
+Article of the Law on neighbouring rights provides:
+‘A broadcasting organisation shall have the exclusive right to authorise one or more of the following acts:
+…
+e.
+the making available to the public of recordings of programmes or reproductions thereof or any other form of publication thereof, whatever the technical facilities used for that purpose. …’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Stichting Brein is a Netherlands foundation for the protection of the interests of copyright holders.
+Mr Wullems sells, on a number of internet sites, including his own site www.filmspeler.nl, various models of a multimedia player. That player, sold under the name ‘filmspeler’, is a device which acts as a medium between, on the one hand, a source of visual and/or sound data and, on the other hand, a television screen.
+On that player, Mr Wullems installed an open source software, which makes it possible to play files through a user-friendly interface via structured menus, and integrated into it, without alteration, add-ons available on the internet, created by third parties, some of which specifically link to websites on which protected works are made available to internet users without the consent of the copyright holders.
+Those add-ons contain links which, when they are activated by the remote control of the multimedia player, connect to streaming websites operated by third parties, some of which give access to digital content with the authorisation of the copyright holders, whilst others give access to such content without their consent. In particular, the add-ons’ function is to retrieve the desired content from streaming websites and make it start playing, with a simple click, on the multimedia player sold by Mr Wullems connected to a television screen.
+As is clear from the order for reference, Mr Wullems advertised the ‘filmspeler’ multimedia player, stating that it made it possible, in particular, to watch on a television screen, freely and easily, audiovisual material available on the internet without the consent of the copyright holders.
+On May Stichting Brein asked Mr Wullems to stop selling the multimedia player. On July 2014, it brought an action against Mr Wullems before the referring court seeking an order that, in essence, he stop selling multimedia players such as ‘filmspeler’ and offering hyperlinks that give users illegal access to protected works.
+Before the referring court, Stichting Brein submitted that, by marketing the ‘filmspeler’ multimedia player, Mr Wullems made a ‘communication to the public’, in breach of Articles and of the Law on copyright and Articles 2, 6, 7a and of the Law on neighbouring rights. Those provisions must, it submitted, be interpreted in the light of Article of Directive 2001/29, which they transpose into the Netherlands law. The referring court considers, in that regard, that the case-law of the Court does not make it possible to answer with certainty the question of whether there is a communication to the public in circumstances such as those at issue in the main proceedings.
+In addition, before the referring court, Mr Wullems submitted that streaming broadcasts of works protected by copyright from an illegal source was covered by the exception listed in Article 13a of the Law on copyright, which must be interpreted in the light of Article 5(1) of Directive 2001/29, which it transposes into Netherlands law. According to the referring court, the Court has not yet given a ruling on the meaning of the requirement of a ‘lawful use’ within the meaning of Article 5(1)(b) of Directive 2001/29.
+In those circumstances, the Rechtbank Midden-Nederland (District Court, Midden-Nederland, Netherlands) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Must Article 3(1) of Directive 2001/be interpreted as meaning that there is “a communication to the public” within the meaning of that provision, when someone sells a product (multimedia player) in which he has installed add-ons containing hyperlinks to websites on which copyright-protected works, such as films, series and live broadcasts are made directly accessible, without the authorisation of the right holders?
+(2)
+Does it make any difference
+—
+whether the copyright-protected works as a whole have not previously been published on the internet or have only been published through subscriptions with the authorisation of the right holder?
+—
+whether the add-ons containing hyperlinks to websites on which copyright-protected works are made directly accessible without the authorisation of the right holders are freely available and can also be installed in the multimedia player by the users themselves?
+—
+whether the websites and thus the copyright-protected works made accessible thereon — without the authorisation of the right holders — can also be accessed by the public without the multimedia player?
+(3)
+Should Article of Directive 2001/be interpreted as meaning that there is no “lawful use” within the meaning of Article 5(1)(b) of that directive if a temporary reproduction is made by an end user during the streaming of a copyright-protected work from a third-party website where that copyright-protected work is offered without the authorisation of the right holder(s)?
+(4)
+If the answer to the third question is in the negative, is the making of a temporary reproduction by an end user during the streaming of a copyright-protected work from a website where that copyright-protected work is offered without the authorisation of the right holder(s) then contrary to the “three-step test” referred to in Article 5(5) of Directive 2001/29?’
+Consideration of the questions referred
+The first and second questions
+By its first and second questions, which should be examined together, the referring court asks, in essence, whether the concept of ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29, must be interpreted as covering the sale of a multimedia player, such as that at issue in the main proceedings, on which there are pre-installed add-ons, available on the internet, containing hyperlinks to websites — that are freely accessible to the public — on which copyright-protected works have been made available to the public without the consent of the right holders.
+It follows from Article 3(1) of Directive 2001/that Member States are to provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.
+Under that provision, authors thus have a right which is preventive in nature and allows them to intervene between possible users of their work and the communication to the public which such users might contemplate making, in order to prohibit such communication (see, to that effect, judgments of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 30, and of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph and the case-law cited).
+As Article 3(1) of Directive 2001/does not define the concept of ‘communication to the public’, its meaning and its scope must be determined in light of the objectives pursued by that directive and the context in which the provision being interpreted is set (judgment of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph and the case-law cited).
+In that regard, it should be borne in mind that it follows from recitals and of Directive 2001/that the latter’s objective is to establish a high level of protection for authors, allowing them to obtain an appropriate reward for the use of their works, including on the occasion of communication to the public. It follows that ‘communication to the public’ must be interpreted broadly, as recital of the directive indeed expressly states (judgments of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 36, and of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph and the case-law cited).
+The Court has also specified that the concept of ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29, requires an individual assessment (judgment of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph and the case-law cited).
+It is clear from Article 3(1) of Directive 2001/that the concept of ‘communication to the public’ includes two cumulative criteria, namely an ‘act of communication’ of a work and the communication of that work to a ‘public’ (judgments of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 37, and of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph and the case-law cited).
+In order to determine whether a user is making a communication to the public within the meaning of Article 3(1) of Directive 2001/it is necessary to take into account several complementary criteria, which are not autonomous and are interdependent. Consequently, those criteria must be applied both individually and in their interaction with one another, since they may, in different situations, be present to widely varying degrees (see, to that effect, judgments of March 2012, SCF, C‑135/10, EU:C:2012:140, paragraphs and 79; of March 2012, Phonographic Performance (Ireland), C‑162/10, EU:C:2012:141, paragraph 30; and of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph 34).
+Amongst those criteria, the Court has emphasised, above all, the essential role played by the user. The user makes an act of communication when he intervenes, in full knowledge of the consequences of his action, to give access to a protected work to his customers and does so, in particular, where, in the absence of that intervention, his customers would not, in principle, be able to enjoy the broadcast work (see, to that effect, judgments of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 46, and of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph and the case-law cited).
+Next, it has specified that the concept of the ‘public’ refers to an indeterminate number of potential viewers and implies, moreover, a fairly large number of people (judgments of March 2013, ITV Broadcasting and Others, C‑607/11, EU:C:2013:147, paragraph 32; of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph 41; and of September 2016, GS MediaC‑160/15, EU:C:2016:644, paragraph and the case-law cited).
+The Court has also noted that, according to a settled line of case-law, to be categorised as a ‘communication to the public’, a protected work must be communicated using specific technical means, different from those previously used or, failing that, to a ‘new public’, that is to say, to a public that was not already taken into account by the copyright holders when they authorised the initial communication to the public of their work (judgments of March 2013, ITV Broadcasting and Others, C‑607/11, EU:C:2013:147, paragraph 26; of February 2014, Svensson and Others, C‑466/12, EU:C:2014:76, paragraph 24; and of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph 37).
+Finally, the Court has underlined, on many occasions, that the profit-making nature of a communication, within the meaning of Article 3(1) of Directive 2001/29, is not irrelevant (see in particular the judgments of October 2011, Football Association Premier League and Others, C‑403/and C‑429/08, EU:C:2011:631, paragraph 204; of March 2013, ITV Broadcasting and Others, C‑607/11, EU:C:2013:147, paragraph 42; and of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph 38).
+As regards, in the first place, the question of whether the sale of a multimedia player, such as that at issue in the main proceedings, is an ‘act of communication’, within the meaning of Article 3(1) of Directive 2001/29, it must be noted, as recital of Directive 2001/states, that the author’s right of communication to the public, provided for in Article 3(1), covers any transmission or retransmission of a work to the public by wire or wireless means, including broadcasting.
+Furthermore, as is apparent from Article 3(1) of Directive 2001/29, for there to be an ‘act of communication’, it is sufficient, in particular, that a work is made available to a public in such a way that the persons forming that public may access it, irrespective of whether they avail themselves of that opportunity (see the judgment of February 2014, Svensson and Others, C‑466/12, EU:C:2014:76, paragraph and the case-law cited).
+The Court has already held, in that regard, that the provision, on a website, of clickable links to protected works published without any access restrictions on another site, affords users of the first site direct access to those works (judgment of February 2014, Svensson and Others, C‑466/12, EU:C:2014:76, paragraph 18; see also, to that effect, order of October 2014, BestWater International, C‑348/13, EU:C:2014:2315, paragraph 15, and the judgment of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph 43).
+That is also the case for the sale of a multimedia player, such as that at issue in the main proceedings.
+It is true, as recital of Directive 2001/states, that the mere provision of physical facilities for enabling or making a communication does not in itself amount to ‘communication’ within the meaning of that directive.
+The Court has nevertheless held, in that respect, as regards the provision of television sets in hotel rooms, that while the ‘mere provision of physical facilities’ does not as such amount to a communication to the public within the meaning of Directive 2001/29, it remains the case that that facility may make public access to broadcast works technically possible. Therefore, if, by means of television sets thus installed, the hotel distributes the signal to customers staying in its rooms, then communication to the public takes place, irrespective of the technique used to transmit the signal (judgment of December 2006, SGAE, C‑306/05, EU:C:2006:764, paragraph 46).
+In the same way, it must be held that the present case does not concern a situation of the ‘mere’ provision of physical facilities for enabling or making a communication. As the Advocate General noted in paragraphs and of his opinion, Mr Wullems, with full knowledge of the consequences of his conduct, pre-installs onto the ‘filmspeler’ multimedia player that he markets add-ons that specifically enable purchasers to have access to protected works published — without the consent of the copyright holders of those works — on streaming websites and enable those purchasers to watch those works on their television screens (see, by analogy, judgment of December 2006, SGAE, C‑306/05, EU:C:2006:764, paragraph 42). That intervention enabling a direct link to be established between websites broadcasting counterfeit works and purchasers of the multimedia player, without which the purchasers would find it difficult to benefit from those protected works, is quite different from the mere provision of physical facilities, referred to in recital of Directive 2001/29. In that regard, it is clear from the observations presented to the Court that the streaming websites at issue in the main proceedings are not readily identifiable by the public and the majority of them change frequently.
+Consequently, it must be held that the provision of a multimedia player such as that at issue in the main proceedings enables, in view of the add-ons pre-installed on it, access via structured menus to links that those add-ons which, when activated by the remote control of that multimedia player, offer its users direct access to protected works without the consent of the copyright holders and must be regarded as an act of communication within the meaning of Article 3(1) of Directive 2001/29.
+In the second place, in order to be categorised as a ‘communication to the public’ within the meaning of Article 3(1) of Directive 2001/29, the protected works must also in fact be communicated to a ‘public’ (judgment of March 2013, ITV Broadcasting and Others, C‑607/11, EU:C:2013:147, paragraph 31).
+In that regard, the Court has stated, first, that the concept of ‘public’ encompasses a certain de minimis threshold, which excludes from the concept groups of persons which are too small, or insignificant. Second, in order to determine that number, the cumulative effect of making the works available to potential recipients should be taken into account. Thus, it is relevant to know not only how many persons have access to the same work at the same time, but also how many of them have access to it in succession (see, to that effect, judgments of March 2012, Phonographic Performance (Ireland), C‑162/10, EU:C:2012:141, paragraph 35; of February 2014, OSA, C‑351/12, EU:C:2014:110, paragraph 28; and of May 2016, Reha Training, C‑117/15, EU:C:2016:379, paragraph and the case-law cited).
+In the present case, it must be observed that, according to the referring court, the ‘filmspeler’ multimedia player has been purchased by a fairly large number of people. Furthermore, the communication at issue in the main proceedings covers all persons who could potentially acquire that media player and have an internet connection. Those people may access the protected works at the same time, in the context of the streaming of the works at issue on the internet. Thus, that communication is aimed at an indeterminate number of potential recipients and involves a large number of persons (see, by analogy, judgment of March 2013, ITV Broadcasting and Others, C‑607/11, EU:C:2013:147, paragraphs and 36).
+It follows that, by the communication in question, the protected works are indeed communicated to a ‘public’ within the meaning of Article 3(1) of Directive 2001/29.
+Furthermore, as regards whether the works were communicated to a ‘new’ public, within the meaning of the case-law cited in paragraph above, it should be noted that the Court, in its judgment of February 2014, Svensson and Others (C‑466/12, EU:C:2014:76, paragraphs and 31) and in its order of October 2014, BestWater International (C‑348/13, EU:C:2014:2315), held that such a public is a public which was not taken into account by the copyright holders when they authorised the initial communication. In its judgment of September 2016, GS Media (C‑160/15, EU:C:2016:644, paragraph 43), the Court observed that those decisions confirmed the importance of the consent of the holder of the copyright in protected works that have been made freely available on a website, having regard to Article 3(1) of Directive 2001/which specifically provides that every act of communication of a work to the public must be authorised by the copyright holder.
+It is clear from the judgments referred to in the previous paragraph that posting hyperlinks on a website to a protected work which has been made freely available on another website with the consent of copyright holders of that work does not constitute a ‘communication to the public’ within the meaning of Article 3(1) of Directive 2001/29. In that regard, the Court held that as soon as and as long as that work is freely available on the website to which the hyperlink allows access, it must be considered that, where the copyright holders of that work have consented to such a communication, they have included all internet users as the public, such that the communication in question is not made to a new public. However, the same finding cannot be deduced from those judgments failing such an authorisation (see to that effect, the judgment of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraphs and 43).
+The Court therefore held, first of all, that where it is established that such a person knew or ought to have known that the hyperlink he posted provides access to a work illegally placed on the internet, the provision of that link constitutes a ‘communication to the public’ within the meaning of Article 3(1) of Directive 2001/29. The Court added, next, that the same applies in the event that that link allows users of the website on which it is posted to circumvent the restrictions taken by the site where the protected work is posted in order to restrict the public’s access to its own subscribers, the posting of such a link then constituting a deliberate intervention without which those users could not benefit from the works broadcast. Finally, the Court stated that, when the posting of hyperlinks is carried out for profit, it can be expected that the person posting such a link carries out the necessary checks to ensure that the work concerned is not illegally published on the website to which those hyperlinks lead, so that it must be presumed that that posting has occurred with the full knowledge of the protected nature of that work and the possible lack of consent to publication on the internet by the copyright holder. In such circumstances, and in so far as that rebuttable presumption is not rebutted, the act of posting a hyperlink to a work which was illegally published on the internet constitutes a ‘communication to the public’ within the meaning of Article 3(1) of Directive 2001/(see judgment of September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraphs to 51).
+In the present case, it is common ground that the sale of the ‘filmerspeler’ multimedia player was made in full knowledge of the fact that the add-ons containing hyperlinks pre-installed on that player gave access to works published illegally on the internet. As was noted in paragraph above, the advertising of that multimedia player specifically stated that it made it possible, in particular, to watch on a television screen, freely and easily, audiovisual material available on the internet without the consent of the copyright holders.
+In addition, it cannot be disputed that the multimedia player is supplied with a view to making a profit, the price for the multimedia player being paid in particular to obtain direct access to protected works available on streaming websites without the consent of the copyright holders. As the Portuguese Government has pointed out, the main attraction of such a multimedia player for potential purchasers lies precisely in the fact that add-ons are pre-installed on it which enable users to gain access to sites on which copyright-protected films are made available without the consent of the copyright holders.
+Therefore, it is necessary to hold that the sale of such a multimedia player constitutes a ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29.
+In the light of the foregoing considerations, the answer to the first and second questions referred is that the concept of ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29, must be interpreted as covering the sale of a multimedia player, such as that at issue in the main proceedings, on which there are pre-installed add-ons, available on the internet, containing hyperlinks to websites — that are freely accessible to the public — on which copyright-protected works have been made available without the consent of the right holders.
+The third and fourth questions
+Admissibility
+In its observations, the Commission submitted that the third and fourth questions are hypothetical since they relate to the streaming of works protected by copyright and not to the sale of a multimedia player.
+In that regard, it must be borne in mind that, according to the Court’s settled case-law, in the context of the cooperation between the Court and the national courts provided for in Article TFEU, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is, in principle, bound to give a ruling (see, in particular, judgment of September 2016, Microsoft Mobile Sales International and Others, C‑110/15, EU:C:2016:717, paragraph and the case-law cited).
+The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought is unrelated to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see, in particular, September 2016, Microsoft Mobile Sales International and Others, C‑110/15, EU:C:2016:717, paragraph and the case-law cited).
+However, that is not the case here. A connection between the third and fourth questions and the actual facts of the case in the main proceedings is established, the referring court having stated, in response to a request for clarification made by the Court under Article of its rules of procedure, that a reply to those questions is necessary for it to rule on the arguments of the applicant in the main proceedings who sought, inter alia, a ruling by the referring court that the streaming of works protected by copyright from an illegal source is not a ‘lawful use’ within the meaning of Article of Directive 2001/29.
+It follows that the questions referred are admissible.
+Substance
+By its third and fourth questions, which should be examined together, the referring court asks, in essence, whether the provisions of Article 5(1) and (5) of Directive 2001/must be interpreted as meaning that acts of temporary reproduction, on an multimedia player such as that at issue in the main proceedings, of a copyright protected work obtained by streaming from a website belonging to a third party offering that work without the consent of the copyright holder satisfies the conditions set out in those provisions.
+Under Article 5(1) of Directive 2001/29, an act of reproduction may be exempted from the reproduction right provided for in Article thereof only if it satisfies five conditions, that is, where
+—
+the act is temporary;
+—
+it is transient or incidental;
+—
+it is an integral and essential part of a technological process;
+—
+the sole purpose of that process is to enable a transmission in a network between third parties by an intermediary or a lawful use of a work or protected subject matter; and
+—
+that act does not have any independent economic significance.
+First of all, it must be borne in mind that those conditions are cumulative in the sense that non-compliance with any one of them will lead to the act of reproduction not being exempted, pursuant to Article 5(1) of Directive 2001/29, from the reproduction right provided for in Article of that directive (judgment of July 2009, Infopaq International, C‑5/08, EU:C:2009:465, paragraph 55, order of January 2012, Infopaq International, C‑302/10, EU:C:2012:16, paragraph 26).
+Furthermore, it is clear from the case-law of the Court that the conditions set out above must be interpreted strictly because Article 5(1) of Directive 2001/is a derogation from the general rule established by that directive that the copyright holder must authorise any reproduction of his protected work (judgments of July 2009, Infopaq International, C‑5/EU:C:2009:465, paragraphs and 57, and of October 2011, Football Association Premier League and Others, C‑403/and C‑429/08, EU:C:2011:631, paragraph 162; order of January 2012, Infopaq International, C‑302/10, EU:C:2012:16, paragraph 27, and judgment of June 2014, Public Relations Consultants Association, C‑360/13, EU:C:2014:1195, paragraph 23).
+That is all the more so given that the exemption must be interpreted in the light of Article 5(5) of Directive 2001/29, under which that exemption is to be applied only in certain special cases which do not conflict with a normal exploitation of the work or other subject matter and do not unreasonably prejudice the legitimate interests of the right holder (judgment of July 2009, Infopaq International, C‑5/08, EU:C:2009:465, paragraph 58).
+As regards the condition that the sole purpose of the process in question is to enable the transmission in a network between third parties by an intermediary or a lawful use of a work or protected subject matter, the referring court observes that the acts of reproduction at issue in the main proceedings do not seek to enable such a transmission. It is necessary therefore to examine whether those acts have the sole purpose of enabling a lawful use of a work or protected subject matter.
+In that respect, as is apparent from recital of Directive 2001/29, a use should be considered lawful where it is authorised by the right holder or where it is not restricted by the applicable legislation (see also judgment of October 2011, Football Association Premier League and Others, C‑403/and C‑429/08, EU:C:2011:631, paragraph 168, and order of January 2012, Infopaq International, C‑302/10, EU:C:2012:16, paragraph 42).
+Since the use of the works at issue was not, in the case in the main proceedings, authorised by the copyright holders, it is necessary to assess whether the aim of the acts in question is to enable a use of the works that is not restricted by the applicable legislation. That assessment must take account, as recalled in paragraph above, of the fact that the exemption referred to Article of Directive 2001/only applies in certain special cases that do not conflict with a normal exploitation of the work and do not unreasonably prejudice the legitimate interests of the right holder.
+In its judgment of October 2011, Football Association Premier League and Others (C‑403/and C‑429/08, EU:C:2011:631, paragraphs to 172), the Court held that, from the television viewers’ standpoint, the ephemeral acts of reproduction at issue in that case, which enabled the proper functioning of the satellite decoder and the television screen, enabled the broadcasts containing protected works to be received. The Court held, in that regard, that the mere reception of those broadcasts in itself — that is to say, the picking up of the broadcasts and their visual display in a private circle — did not reveal an act restricted by the relevant legislation and such reception was to be considered lawful in the case of broadcasts from a Member State when brought about by means of a foreign decoding device. The Court concluded that the sole purpose of the acts of reproduction at issue was to enable a ‘lawful use’ of the works within the meaning of Article 5(1)(b) of Directive 2001/29.
+Similarly, in its order of January 2012, Infopaq International (C‑302/10, EU:C:2012:16, paragraphs and 45), the Court held that the drafting of a summary of newspaper articles, even though it was not authorised by the holders of the copyright over these articles, was not restricted by the applicable legislation with the result that the use at issue could not be considered to be unlawful.
+By contrast, in circumstances such as those at issue in the main proceedings, and having regard, in particular, to the content of the advertising of the multimedia player at issue mentioned in paragraph above and the fact, noted in paragraph above, that the main attraction of that player for potential purchasers is the pre-installation of the add-ons concerned, it must be held that it is, as a rule, deliberately and in full knowledge of the circumstances that the purchaser of such a player accesses a free and unauthorised offer of protected works.
+It must also be held that, as a rule, temporary acts of reproduction, on a multimedia player such as that at issue in the main proceedings, of copyright-protected works obtained from streaming websites belonging to third parties offering those works without the consent of the copyright holders are such as to adversely affect the normal exploitation of those works and causes unreasonable prejudice to the legitimate interests of the right holder, because, as the Advocate General observed in points and of his opinion, that practice would usually result in a diminution of lawful transactions relating to the protected works, which would cause unreasonable prejudice to copyright holders (see, to that effect, judgment of April 2014, ACI Adam and Others, C‑435/12, EU:C:2014:254, paragraph 39).
+It follows that those acts do not satisfy the conditions set out in Article 5(1) and (5) of Directive 2001/29.
+In the light of all the foregoing considerations, the answer to the third and fourth questions referred is that Article 5(1) and (5) of Directive 2001/must be interpreted as meaning that acts of temporary reproduction, on an multimedia player, such as that at issue in the main proceedings, of a copyright-protected work obtained by streaming from a website belonging to a third party offering that work without the consent of the copyright holder does not satisfy the conditions set out in those provisions.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+1.
+The concept of ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society, must be interpreted as covering the sale of a multimedia player, such as that at issue in the main proceedings, on which there are pre-installed add-ons, available on the internet, containing hyperlinks to websites — that are freely accessible to the public — on which copyright-protected works have been made available to the public without the consent of the right holders.
+ 
+2.
+Article 5(1) and (5) of Directive 2001/must be interpreted as meaning that acts of temporary reproduction, on a multimedia player, such as that at issue in the main proceedings, of a copyright-protected work obtained by streaming from a website belonging to a third party offering that work without the consent of the copyright holder does not satisfy the conditions set out in those provisions.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  
+ 

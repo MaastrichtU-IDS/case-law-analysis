@@ -1,0 +1,984 @@
+
+         				Arrêt de la Cour
+         			
+      
+Case C-294/Commission of the European Communities
+v
+AMI Semiconductor Belgium BVBA and Others
+(Arbitration clause – Designation of the Court of First Instance – Jurisdiction of the Court of Justice – Parties in liquidation – Capacity to be parties to legal proceedings – Regulation (EC) No 1346/– Insolvency proceedings – Recovery of advances – Reimbursement under a clause of the contract – Joint and several liability – Recovery of sums paid but not due)
+Opinion of Advocate General Kokott delivered on September Judgment of the Court (First Chamber), March 2005. 
+Summary of the Judgment
+1.     Procedure – Action brought before the Court on the basis of an arbitration clause – Jurisdiction of the Court of Justice as
+            an institution comprising both the Court of Justice and the Court of First Instance – No requirement that the arbitration
+            clause should indicate the Community Court having jurisdiction 
+(Art. CE)
+2.     Procedure – Action brought before the Court on the basis of an arbitration clause – Action brought by a Community institution
+            against an undertaking subject to insolvency proceedings – No Community provisions on the matter – Reference to principles
+            common to the procedural laws of the Member States – Principles laying down the circumstances in which such an action is inadmissible
+(Art. EC; Council Regulation No 1346/2000, Arts 4(2)( f), and 17)
+3.     Procedure – Application initiating proceedings – Subject-matter of the dispute – Definition – Amendment during the proceedings
+            – Not permitted
+(Rules of Procedure of the Court, Arts and 42)
+1.     Since the term ‘Court of Justice’, as used in the Treaty, does not refer to one Community court or the other but to the Community
+         institution comprising both the Court of Justice and the Court of First Instance, the reference to the ‘Court of Justice’
+         in Article EC must be taken to be a reference to that institution, and it is to the latter that a contract must refer
+         in order for it to be possible for jurisdiction to be conferred on either of the Community courts.
+      
+Since the Treaty does not lay down any particular wording to be used in an arbitration clause, any wording which indicates
+         that the parties intend to remove any dispute between them from the purview of the national courts and to submit them to the
+         Community courts must be regarded as sufficient to give the latter jurisdiction under Article EC.
+      
+(see paras 49-50)
+2.     An action brought by the Commission before the Community courts against undertakings subject to insolvency proceedings in
+         a Member State is inadmissible. 
+      
+It follows from the principles common to the procedural laws of the Member States, from which it is necessary to deduce the
+         rules to be applied in the absence of Community provisions in the matter, that a creditor is not entitled to pursue his claims
+         before the courts on an individual basis against a person who is the subject of insolvency proceedings but is required to
+         observe the specific rules of the applicable procedure.
+      
+Moreover, it is clear from Regulation No 1346/on insolvency proceedings that the Member States are required, on a mutual
+         basis, to respect proceedings commenced in any one of them and that the opening of insolvency proceedings in a Member State
+         is to be recognised in all the other Member States and is to produce the effects attributed thereto by the law of the State
+         in which the proceedings are opened.
+      
+Consequently, the Community institutions would enjoy an unjustifiable advantage over the other creditors if they were allowed
+         to pursue their claims in proceedings brought before the Community judicature when any action before national courts was impossible.
+      
+(see paras 68-70)
+3.     In accordance with Article of the Rules of Procedure, parties are required to state the subject-matter of the proceedings
+         in their originating application. It follows that, even though Article of the Rules of Procedure allows new pleas in law
+         to be introduced in certain circumstances, a party may not alter the actual subject-matter of the action in the course of
+         the proceedings. New claims put forward for the first time at the hearing could not be allowed without depriving defendants
+         of an opportunity to prepare a response and thereby breaching the rights of the defence.
+      
+(see para. 75)
+  
+JUDGMENT OF THE COURT (First Chamber)March 2005(1)
+Table of contents
+I –  Facts
+    
+A –  The contract
+        
+1.  The scope of the contract
+        
+2.  The work schedule
+        
+3.  Monitoring by the Commission
+        
+4.  The financial provisions
+        
+5.  Reimbursements
+        
+6.  The arbitration clause
+    
+B –  Performance of the contract
+    
+C –  The payments made by the Commission and the claim for reimbursement
+    
+D –  The winding up of three of the defendants
+        
+1.  InterTeam
+        
+2.  A-Consult
+        
+3.  Ision
+II –  The jurisdiction of the Court of Justice
+    
+A –  Legal framework
+    
+B –  The applicability of the arbitration clause
+III –  The admissibility of the action in so far as it is directed against the three defendants that are being, or have been,
+                           wound up
+                        
+    
+A –  Legal background
+        
+1.  Community law
+        
+2.  National law
+    
+B –  The admissibility of the action in so far as it is directed against InterTeam
+    
+C –  The admissibility of the action in so far as it is directed against A-Consult and Ision
+    
+D –  The additional claims made by the Commission
+IV –  The merits of the application in so far as it is directed against AMI Semiconductor, Intracom, Euram and Nordbank
+    
+A –  The right to reimbursement based on Article 23.of Annex II to the contract
+        
+1.  Joint and several liability
+        
+2.  Calculation of the financial contribution due from the Commission
+    
+B –  The right to reimbursement based on Paragraph of the BGB
+V –  Intracom’s counterclaim
+Costs
+(Arbitration clause  –  Designation of the Court of First Instance  –  Jurisdiction of the Court of Justice  –  Parties in liquidation  –  Capacity to be parties to legal proceedings  –  Regulation (EC) No 1346/–  Insolvency proceedings  –  Recovery of advances  –  Reimbursement under a clause of the contract  –  Joint and several liability  –  Recovery of sums paid but not due)
+ In Case C-294/02,APPLICATION under Article EC brought on August 2002,
+            
+Commission of the European Communities, represented by G. Wilms, acting as Agent, assisted by R. Karpenstein, Rechtsanwalt, with an address for service in Luxembourg,
+            
+applicant,
+v
+AMI Semiconductor Belgium BVBA, formerly Alcatel Microelectronics NV, established in Oudenaarde (Belgium), represented by M. Hallweger and R. Lutz, Rechtsanwälte,A-Consult EDV-Beratungsgesellschaft mbH (in liquidation),  established in Vienna (Austria), represented by E. Roehlich, Rechtsanwalt,Intracom SA Hellenic Telecommunications & Electronic Industry, established in Athens (Greece), represented by M. Lienemeyer, U. Zinsmeister and D. Waelbroeck, avocats,ISION Sales + Services GmbH & Co. KG (in liquidation),  established in Hamburg (Germany), represented by H. Fialski and T. Delhey, Rechtsanwälte,Euram-Kamino GmbH, established in Hallbergmoos (Germany), represented by M. Hallweger and R. Lutz, Rechtsanwälte,HSH Nordbank AG, formerly Landesbank Kiel Girozentrale, established in Kiel (Germany), represented by B. Treibmann and E. Meincke, Rechtsanwälte,andInterTeam GmbH (in liquidation),  established in Itzehoe (Germany), represented by M. Hallweger and R. Lutz, Rechtsanwälte,
+            
+defendants,
+THE COURT (First Chamber),,
+ composed of P. Jann, President of the Chamber, R. Silva de Lapuerta, K. Lenaerts, S. von Bahr and K. Schiemann (Rapporteur),
+            Judges,
+            
+ Advocate General: J. Kokott,Registrar: M.-F. Contet, Principal Administrator,
+             having regard to the written procedure and further to the hearing on July 2004,
+            
+after hearing the Opinion of the Advocate General at the sitting on September 2004,
+gives the following
+Judgment
+            
+ By its application, the Commission of the European Communities seeks from the Court an order that, as joint and several debtors,
+         AMI Semiconductor Belgium BVBA, formerly Alcatel Microelectronics NV (‘AMI Semiconductor’), a company governed by Belgian
+         law, A‑Consult EDV‑Beratungsgesellschaft mbH (‘A‑Consult’), a company governed by Austrian law, Intracom SA Hellenic Telecommunications
+         & Electronic Industry (‘Intracom’), a company governed by Greek law, and also ISION Sales + Services GmbH & Co. KG, formerly
+         AllCon Gesellschaft für Kommunikationstechnologie mbH (‘Ision’), Euram‑Kamino GmbH (‘Euram’), HSH Nordbank, formerly Landesbank
+         Kiel Girozentrale (‘Nordbank’), and InterTeam GmbH (‘InterTeam’), all four of which are governed by German law, pay it the
+         sum of EUR 214, plus interest, as reimbursement of advances made by it under a contract (‘the contract’) concluded with
+         those companies in the context of Esprit Project No ‘Electronic Commerce Fulfilment Service for the Electronics Industry
+         (ECFS/E) (‘the project’).
+         
+I – Facts
+ A – The contract
+            
+ On June the European Community, represented by the Commission, concluded with the defendants a contract relating to
+         the financial contribution made to those companies for execution of the project.
+         
+            
+ The contract was drawn up in English. Under Article thereof, it is governed by German law.
+         
+            
+ Under Article 1.1.of the contract, the defendants were required to ‘carry out this contract jointly and severally towards
+         the Commission for the work set out in Annex I up to the milestone at month 18’.
+         
+            
+ Article 1.1.of the contract reads as follows:
+         ‘Subject to force majeure (including strikes, lockouts and other events beyond the reasonable control of the contractors),
+         the contractors shall use reasonable endeavours to achieve the results intended for the Project and to fulfil the obligations
+         of a defaulting contractor. A contractor shall not be liable to take action beyond its reasonable control or to reimburse
+         money due from a defaulting contractor unless it has contributed to the default. Measures to be taken in the event of force
+         majeure shall be agreed between the contracting parties.’
+         
+ 1. The scope of the contract
+         
+            
+ According to Article 1.1.of the contract, its purpose was execution of the work set out in Annex I thereto.
+         
+            
+ According to the project summary in Part of that annex, the aim of the project was to facilitate sales of excess stocks
+         of semiconductor components between undertakings in the electronic industry without using a broker and thereby to reduce transaction
+         costs. Execution of the project was to facilitate attainment of that objective:
+         
+–
+by bringing together excess supply and unmet demand for components on a global platform;
+–
+by supporting all business processes for the trade transactions created;
+–
+by carrying out freight forwarding and declaration processes to fulfil buying/selling contracts, and
+–
+by expanding the use of electronic commerce in the electronics field.
+ According to the same summary, the project would enable the electronics industry:
+         
+–
+to expand trade opportunities and reduce transaction costs by using global information exchange technology;
+–
+to employ borderless electronic commerce in a globalised economy.
+ The three main objectives were set out as follows in the summary:
+         
+–
+integration of multiple key services for the electronics industry;
+–
+design of appropriate interfaces for an efficient brokerage system to be integrated into the professional IT‑environment of
+               future users and service providers;
+            
+–
+stimulation of increased electronic commerce in the electronics industry, including developing means for rewarding usage (‘bonus
+               component’) and for quantitatively determining the cost‑efficiency gained through implementation of the project.
+            
+ 2. The work schedule
+         
+            
+ According to Article 2.2.of the contract, the time-limit for execution of the project was to be months, as from May
+         1998, that is to say the end of October 1999.
+         
+            
+ According to Title 2, point 2.of Part of Annex I to the contract, the work was divided into eight workpackages, which
+         were to give rise to a total of deliverables. The first package encompassed the following deliverables:
+         ‘Workpackage 1:            Specification of relevant business procedures
+          Task 1.Commercial processes at user site (Months 0-2)
+                   		Components procurement processes
+                   		Excess inventory control and handling
+                   		QA processes (ISO etc.)
+                   		Alternate sourcing
+                   		Established payment methods
+                   		New payment methods
+          Task 1.Software interfaces/Standards (Months 0-2)
+                   	Interfaces to commercial software employed by industrial users
+                   		Software interfaces: Banks
+                   		Software interfaces: Carriers
+                   		Definition of SAP-specific parameters
+          Task 1.Evaluation of IT environment (Months 0-2)
+                   		PC, Workstation, LANs
+                   		Operating systems PC and networks
+                   		Internet access, Intranets’.
+         
+            
+ Tables defining the specific roles of the contractors for completion of the various workpackages also appear in Title 2, point
+         2.of Part of Annex I to the contract.
+         
+            
+ Workpackage number is broken down as follows, as indicated in the table on pages and of Annex I to the contract:
+         
+Task
+                  
+Partner
+                  
+Contribution
+                  
+1.[AMI Semiconductor]
+                   Intracom
+                   A-Consult
+                  
+Definition of all commercial processes at user sites relevant to controlling, selling, excess inventory, and procuring electronic
+                  material
+                  
+1.[Nordbank]
+                  
+Definition of interfaces required for cash transfer methods and account control
+                  
+    
+[Euram]
+                  
+Definition of interfaces required to determine freight costs, place freight orders, trace freight orders
+                  
+    
+[AMI Semiconductor]
+                   Intracom 
+                   A-Consult
+                  
+Tabulation of details about required interfaces to commercial software
+                  
+1.InterTeam
+                  
+Evaluation of IT environments of all project participants, including prevalent standards
+                  
+    
+    
+Independent evaluation of whether the architecture to be used meets state-of-the-art standards
+                  
+    
+[Nordbank]
+                  
+Cooperation with InterTeam in the analysis of the local IT environment
+                  
+    
+[Euram]
+                  
+Cooperation with InterTeam in the analysis of the local IT environment
+                  
+    
+[AMI Semiconductor]
+                   Intracom
+                   A-Consult
+                  
+Cooperation with InterTeam in the analysis of the local IT environment
+                  
+ 3. Monitoring by the Commission
+         
+            
+ Article of Annex II to the contract provided that the Commission could be assisted by experts in managing the contract.
+         In any such case, it was incumbent on the Commission to take the appropriate steps to ensure that those experts did not disclose
+         or use confidential data given to them. Detailed information concerning those experts was to be given in advance to the contractors
+         and the Commission was to take reasonable account of any objections raised by the contractors for legitimate business reasons.
+         
+ 4. The financial provisions
+         
+            
+ According to Article of the contract, the total allowable costs were estimated as ECU for the project. The same
+         article provided that the Commission’s contribution was to cover 50% of those costs, subject to the ceiling of ECU 000.
+         The cost basis to be used was given in Annex I to the contract and Articles to of Annex II to the contract contain specific
+         criteria to be applied for the calculation of allowable costs.
+         
+            
+ In Form on page of Annex I to the contract, the division among the defendants of the total allowable amount was set out
+         as follows:
+         
+–
+Inter team: ECU 500;
+–
+[Ision]: ECU 000;
+–
+Euram: ECU 000;
+–
+[Nordbank]: ECU 000;
+–
+[AMI Semiconductor]: ECU 000;
+–
+Intracom: ECU 000;
+–
+A-Consult: ECU 500.
+            
+ Form 5.on pages and of Annex I to the contract specifies the efforts, in person-months, to be provided by each contractor
+         for the completion of each workpackage.
+         
+            
+ According to Article of the contract, payment of the Commission’s contribution was to be made as follows:
+         
+–
+an advance of ECU within two months after the last signature of the contracting parties;
+–
+by instalments to be paid within two months after the approval of the respective periodic progress reports and corresponding
+               cost statements; the advance and instalments were not cumulatively to exceed ECU 000;
+            
+–
+the balance of its total contribution to (a guarantee retention of ECU 000) within two months after the approval of the
+               last report, document or other project deliverables and the cost statement for the final period.
+            
+            
+ Article 23.of Annex II to the contract provided that all payments made by the Commission were to be treated as advances
+         until acceptance of the appropriate deliverables, or if none were specified, until acceptance of the final report.
+         
+ 5. Reimbursements
+         
+            
+ Under Article 23.of Annex II to the contract the contractors undertook, in the event of the total financial contribution
+         to the project payable by the Commission being less than the total amount of the payments made by the Commission, to reimburse
+         the difference to it immediately.
+         
+            
+ Article 5.3(a)(i) of Annex II provided that the Commission was entitled to terminate the contract immediately by written notice
+         where remedial action to rectify non-performance within a reasonable period of time (being not less than one month) specified
+         in writing had been requested by the Commission and was not satisfactorily taken. 
+         
+            
+ Article 5.of Annex II to the contract provided that, in the event of termination, the Community contribution to costs would
+         relate only to costs in respect of project deliverables accepted by the Commission and such other costs as were fair and reasonable,
+         including expenditure commitments.
+         
+            
+ According to the same paragraph, in the event of termination under Article 5.3(a) of Annex II to the contract, interest could
+         be added to any amount to be reimbursed, upon written request, at a rate two percentage points above the rate applied by the
+         European Monetary Institute for ECU operations for the period between receipt of the funds and their reimbursement.
+         
+ 6. The arbitration clause
+         
+            
+ Article of Annex II to the contract contains an arbitration clause worded as follows:
+         ‘The Court of First Instance of the European Communities, and in the case of appeal, the Court of Justice of the European
+         Communities shall have exclusive jurisdiction in any dispute between the Commission and the contractors concerning the validity,
+         application and interpretation of this contract.’
+         
+ B – Performance of the contract
+            
+ Execution of the project commenced in May 1998.
+         
+            
+ On December 1998, the contractors sent the Commission a report covering a period of six months and describing the objectives
+         attained. In that report, they declared that they had fully provided the various deliverables included in workpackages 1,
+         and 3.
+         
+            
+ To enable it to verify the results set out in the contractors’ reports, the Commission proposed establishing a review team.
+         Having received information concerning the experts proposed by the Commission and in particular their curricula vitae, InterTeam,
+         by e-mail of April 1999, agreed to the appointment of two candidates, Messrs Guida and Ouzounis.
+         
+            
+ At a meeting of the contractors and the Commission on June 1999, the review team delivered its first review report, in
+         which it mentioned serious deficiencies in the execution of the project. On the basis of those findings, the team announced
+         suspension of the project until July and invited the defendants to send it all necessary information showing that they
+         had remedied the defects set out in the review report.
+         
+            
+ In a letter dated June 1999, the Commission summarised the decisions taken at the meeting of June 1999. On that occasion
+         it also set, under Article 5.3(a)(i) of Annex II to the contract, an additional time-limit for the defendants and threatened
+         to terminate the contract. By letters of June and July 1999, the Commission again complained about the defendants’ execution
+         of their contractual obligations and gave them a formal notice to remedy the non-performance of works and the defects discovered,
+         and to do so within a period of one month.
+         
+            
+ At the beginning of July 1999, the defendants submitted to the Commission a report covering a period of months, describing
+         the objectives attained. According to that report, they had executed the project in accordance with the contract.
+         
+            
+ On July 1999, the review team submitted a second review report which took account of the information contained in the 12-month
+         progress report and the other documents provided by the contractors. That report contained fundamental criticisms of all the
+         deliverables. Some of them, although described as poor, were nevertheless accepted.
+         
+            
+ Notwithstanding a complete re-presentation of the objectives attained by the defendants at a meeting held on September 1999,
+         the review team did not change its conclusion.
+         
+            
+ By letter of December to InterTeam, the Commission declared the contract terminated with retroactive effect to September
+         1999.
+         
+ C – The payments made by the Commission and the claim for reimbursement
+            
+ As a result of the entry into force of Council Regulation (EC) No 1103/of June on certain provisions relating to
+         the introduction of the euro and the effect of Article 2(1) thereof, all references to ECU were replaced by references to
+         euros at the rate of one euro per ECU.
+         
+            
+ In accordance with the provisions of the contract, the Commission paid the following sums to the defendants:
+         
+–
+EUR on June 1998;
+–
+EUR on May for the period from May to October 1998.
+ The total amount advanced was thus EUR 394.
+         
+            
+ On December the Commission sent the defendants a letter claiming reimbursement of EUR 214, representing the difference
+         between the EUR actually paid and the sum of EUR which, according to its calculation, was the contribution
+         payable by it.
+         
+            
+ A table in the application shows how, according to the Commission, those amounts, in euro, are apportioned among the defendants:
+         
+    
+A
+                  
+B
+                  
+C
+                  
+D
+                  
+InterTeam
+                  
+491.A-Consult
+                  
+960.[AMI Semiconductor]
+                  
+214.[Allcon] Ision 
+                  
+129.[Euram]
+                  
+Intracom
+                  
+384.(022)
+                  
+[Nordbank]
+                  
+A = maximum assistance according to the contract, B = amount actually paid, C = assistance approved, D = amount to be repaid
+         (B - C)
+         
+ D – The winding up of three of the defendants
+ 1. InterTeam
+         
+            
+ On December 1999, a general meeting of InterTeam resolved that the company was to be wound up. On July 2001, InterTeam
+         filed its balance sheet as at December 1999, which it described as corresponding to its balance sheet on liquidation. The
+         balance sheet showed a deficit of DEM 605.(EUR 657.35) which was not covered by the company’s own funds. On November
+         InterTeam was removed from the commercial register.
+         
+ 2. A-Consult
+         
+            
+ On July 2002, a procedure for putting A-Consult into court-supervised receivership was commenced and the present administrator
+         of the insolvent company, E. Roehlich, was appointed by the court as its administrator.
+         
+            
+ A-Consult withdrew its application to be put into court-supervised receivership so that, under Austrian insolvency law, that
+         procedure was brought to an end and the ‘insolvency procedure following court-supervised receivership’ (Anschlußkonkursverfahren)
+         was commenced on July 2002.
+         
+ 3. Ision
+         
+            
+ On July 2002, insolvency proceedings concerning Ision’s assets were commenced and the court appointed H. Fialski as administrator
+         of that company.
+         
+II – The jurisdiction of the Court of Justice
+ A – Legal framework
+            
+ Article EC provides:
+         ‘The Court of Justice shall have jurisdiction to give judgment pursuant to any arbitration clause contained in a contract
+         concluded by or on behalf of the Community, whether that contract be governed by public or private law.’
+         
+            
+ Article 225(1) EC, in the version resulting from the Treaty of Nice, reads as follows:
+         ‘The Court of First Instance shall have jurisdiction to hear and determine at first instance actions or proceedings referred
+         to in Articles 230, 232, 235, and 238, with the exception of those assigned to a judicial panel and those reserved in
+         the Statute for the Court of Justice. The Statute may provide for the Court of First Instance to have jurisdiction for other
+         classes of action or proceeding.
+          Decisions given by the Court of First Instance under this paragraph may be subject to a right of appeal to the Court of Justice
+         on points of law only, under the conditions and within the limits laid down by the Statute.’
+         
+            
+ Article of the Statute of the Court of Justice, as in force until May 2004, before the entry into force of Council Decision
+         2004/407/EC, Euratom of April amending Articles and of the Protocol on the Statute of the Court of Justice (OJ
+         L 132, page 5), provided:
+         ‘By way of exception to the rule laid down in Article 225(1) of the EC Treaty …, the Court of Justice shall have jurisdiction
+         in actions brought by the Member States, the institutions of the Communities and the European Central Bank.’
+         
+ B – The applicability of the arbitration clause
+            
+ The arbitration clause in Article of Annex II to the contract, the wording of which is reproduced in paragraph of this
+         judgment, purports to grant exclusive jurisdiction to the Court of First Instance of the European Communities for any dispute
+         which might arise in relation to the contract.
+         
+            
+ However, it is common ground that the division of jurisdiction between the Court of First Instance and the Court of Justice,
+         under the EC Treaty and the Statute of the Court of Justice annexed thereto, did not, when the application was lodged, provide
+         for the Court of First Instance to hear actions brought, as in this case, by a Community institution.
+         
+            
+ For that reason, after initially being lodged with the Court of First Instance, the application was forwarded, pursuant to
+         Article of the Statute of the Court of Justice, to the Registry of that Court.
+         
+            
+ Although the jurisdiction of the Court of Justice is not contested by the parties, the applicability of the arbitration clause
+         must, as the Advocate General correctly observed in point of her Opinion, be examined by the Court of Justice of its own
+         motion.
+         
+            
+ In principle, therefore, the question arises whether the designation of the Court of First Instance in an arbitration clause
+         may entail the result that the Court of Justice has jurisdiction under Article EC, which grants jurisdiction specifically
+         to the ‘Court of Justice’.
+         
+            
+ The answer is necessarily affirmative, for the reasons given below.
+         
+            
+ As the Advocate General observed in point of her Opinion, the term ‘Court of Justice’, as used in the Treaty, does not
+         refer to one Community court or the other but to the Community institution comprising both the Court of Justice and the Court
+         of First Instance. Consequently, the reference to the ‘Court of Justice’ in Article EC must be taken to be a reference
+         to that institution, and it is to the latter that a contract must refer in order for it to be possible for jurisdiction to
+         be conferred on either of the Community courts.
+         
+            
+ The Treaty does not lay down any particular wording to be used in an arbitration clause. Accordingly, any wording which indicates
+         that the parties intend to remove any dispute between them from the purview of the national courts and to submit them to the
+         Community courts must be regarded as sufficient to give the latter jurisdiction under Article EC.
+         
+            
+ Designation of the Court of First Instance clearly satisfies that requirement without it being necessary to interpret the
+         clause in question in the light of the law applicable to the contract.
+         
+            
+ The fact that the parties incorrectly sought to determine the specific court within the institution of the ‘Court of Justice’
+         which was to deal with their disputes and that the arbitration clause is consequently partly ineffective does not detract
+         from the clearly expressed intention of the parties to keep any disputes between them out of the national courts and to submit
+         them to the Community courts.
+         
+            
+ The Court of Justice therefore has jurisdiction to adjudicate in the proceedings brought by the Commission and on the counterclaim
+         brought by Intracom.
+         
+III – The admissibility of the action in so far as it is directed against the three defendants that are being, or have been, wound
+               up
+            
+ Three of the defendants, namely InterTeam, A-Consult and Ision, object that the action is inadmissible as far as they are
+         concerned, primarily because, when the action was brought, they were involved, at various stages, in insolvency proceedings.
+         
+ A – Legal background
+ 1. Community law
+         
+            
+ Council Regulation (EC) No 1346/of May on insolvency proceedings (OJ L 160, p. 1), which was adopted on
+         the basis of Article 61(c) EC and Article 67(1) EC, includes the following recitals in its preamble:
+         ‘(2)   The proper functioning of the internal market requires that cross‑border insolvency proceedings should operate efficiently
+         and effectively and this regulation needs to be adopted in order to achieve this objective which comes within the scope of
+         judicial cooperation in civil matters within the meaning of Article of the Treaty.
+         (3)     The activities of undertakings have more and more cross‑border effects and are therefore increasingly being regulated by Community
+         law. While the insolvency of such undertakings also affects the proper functioning of the internal market, there is a need
+         for a Community act requiring coordination of the measures to be taken regarding an insolvent debtor’s assets.
+         (4)     It is necessary for the proper functioning of the internal market to avoid incentives for the parties to transfer assets or
+         judicial proceedings from one Member State to another, seeking to obtain a more favourable legal position (forum shopping).
+         ...
+         (8)     In order to achieve the aim of improving the efficiency and effectiveness of insolvency proceedings having cross‑border effects,
+         it is necessary, and appropriate, that the provisions on jurisdiction, recognition and applicable law in this area should
+         be contained in a Community law measure which is binding and directly applicable in Member States.’
+         
+            
+ The same regulation contains the following provisions:
+         ‘Article International jurisdiction
+          1.       The courts of the Member State within the territory of which the centre of a debtor’s main interests is situated shall have
+         jurisdiction to open insolvency proceedings. In the case of a company or legal person, the place of the registered office
+         shall be presumed to be the centre of its main interests in the absence of proof to the contrary.
+          2.       Where the centre of a debtor’s main interests is situated within the territory of a Member State, the courts of another Member
+         State shall have jurisdiction to open insolvency proceedings against that debtor only if he possesses an establishment within
+         the territory of that other Member State. The effects of those proceedings shall be restricted to the assets of the debtor
+         situated in the territory of the latter Member State.
+         ...
+          Article Law applicable
+          1.       Save as otherwise provided in this regulation, the law applicable to insolvency proceedings and their effects shall be that
+         of the Member State within the territory of which such proceedings are opened, hereafter referred to as the “State of the
+         opening of proceedings”.
+          2.       The law of the State of the opening of proceedings shall determine the conditions for the opening of those proceedings, their
+         conduct and their closure. It shall determine in particular:
+         ...
+         (f)     the effects of the insolvency proceedings on proceedings brought by individual creditors, with the exception of lawsuits pending;
+         ...
+          Article Principle [of the recognition of insolvency proceedings]
+          1.       Any judgment opening insolvency proceedings handed down by a court of a Member State which has jurisdiction pursuant to Article
+         shall be recognised in all the other Member States from the time that it becomes effective in the State of the opening of
+         proceedings.
+          This rule shall also apply where, on account of his capacity, insolvency proceedings cannot be brought against the debtor
+         in other Member States.
+          2.       Recognition of the proceedings referred to in Article 3(1) shall not preclude the opening of the proceedings referred to in
+         Article 3(2) by a court in another Member State. …
+          Article Effects of recognition
+          1.       The judgment opening the proceedings referred to in Article 3(1) shall, with no further formalities, produce the same effects
+         in any other Member State as under [the] law of the State of the opening of proceedings, unless this regulation provides otherwise
+         and as long as no proceedings referred to in Article 3(2) are opened in that other Member State.
+          2.       The effects of the proceedings referred to in Article 3(2) may not be challenged in other Member States. Any restriction of
+         the creditors’ rights, in particular a stay or discharge, shall produce effects vis‑à‑vis assets situated within the territory
+         of another Member State only in the case of those creditors who have given their consent.
+         ...
+          Article Duty to inform creditors
+          1.       As soon as insolvency proceedings are opened in a Member State, the court of that State having jurisdiction or the liquidator
+         appointed by it shall immediately inform known creditors who have their habitual residences, domiciles or registered offices
+         in the other Member States.
+          2.       That information, provided by an individual notice, shall in particular include time-limits, the penalties laid down in regard
+         to those time-limits, the body or authority empowered to accept the lodgement of claims and the other measures laid down.
+         Such notice shall also indicate whether creditors whose claims are preferential or secured in rem need lodge their claims.’
+         
+ 2. National law
+         
+            
+ Under German law, the opening of insolvency proceedings against a company has, in particular, the following consequences:
+         
+–
+pursuant to Paragraph of the Insolvenzordnung (German Insolvency Code of October 1999, BGBl. I, p. 2866, in the version
+               applicable to these proceedings, hereinafter ‘the InsO’), control of the assets of the company is vested in the administrator.
+               As a result the administrator has the right to commence and defend legal actions, which implies that any notice of proceedings
+               against the company must be served on the administrator and not on the company;
+            
+–
+pursuant to paragraph of the InsO, creditors may enforce their claims against the company only if they comply with the
+               provisions governing insolvency procedure. Consequently, the provisions of Paragraph et seq. of the InsO displace the
+               normal remedies governed by the rules of civil procedure and actions brought directly against the company or the administrator
+               are inadmissible.
+            
+            
+ Under Austrian law, Paragraph 6(1) of the Konkursordnung (Austrian Insolvency Code, RGBl. No 337/1914, in the version applicable
+         to these proceedings, hereinafter ‘the KO’), actions to enforce claims against assets forming part of the insolvency estate
+         cannot be brought or continued once insolvency proceedings have been commenced.
+         
+ B – The admissibility of the action in so far as it is directed against InterTeam
+            
+ According to AMI Semiconductor, Euram and InterTeam, the action is inadmissible to the extent to which it relates to InterTeam
+         because the latter was removed from the commercial register on November 2001, that is to say nine months before the Commission
+         lodged its application, and consequently InterTeam had lost its legal capacity by that date.
+         
+            
+ As the Advocate General states in point of her Opinion, an action against a company is inadmissible if, when the action
+         is brought, that company had neither legal capacity nor standing to be a party to legal proceedings. The applicable law in
+         that connection is that governing the incorporation of the company in question, which in this case is German law (see Case
+         81/Daily Mail and General Trust [1988] ECR 5483, paragraph 19, and Case C-208/Überseering [2002] ECR I-9919, paragraph 81).
+         
+            
+ It is common ground that under German law a limited liability company (‘GmbH’), such as InterTeam, loses its capacity to be
+         a party to legal proceedings as a result of being dissolved, which necessarily involves its removal from the commercial register
+         following a finding that it has no assets. De-registration thus creates a presumption that there are no assets.
+         
+            
+ Whilst in principle that presumption could be rebutted, with the result that the de-registered company might recover its capacity
+         to be a party to legal proceedings, the simple fact of affirming that a de-registered company still has assets is not, contrary
+         to the Commission’s contention, sufficient for that purpose. The Commission should have set out the factual support for its
+         allegation, by indicating, for example, the assets which, in its opinion, still exist, and stating at least the approximate
+         value and legal basis thereof and, if appropriate, identifying the debtor from which they are due.
+         
+            
+ In the absence of such information, the action must be declared inadmissible in so far as it is directed against InterTeam.
+         
+ C – The admissibility of the action in so far as it is directed against A-Consult and Ision
+            
+ When the action was brought, insolvency proceedings had been commenced against those two companies under their respective
+         national laws.
+         
+            
+ It is common ground that, under the relevant national provisions, namely Paragraph of the KO in the case of A-Consult and
+         Paragraph of the InsO in the case of Ision, an action of the kind brought by the Commission would in such circumstances
+         have been held to be inadmissible if brought against those companies before national courts.
+         
+            
+ Article EC, in conjunction with the arbitration clause, in principle confers on the Court of Justice jurisdiction to deal
+         with disputes between the parties.
+         
+            
+ Nevertheless, the question has arisen of how that jurisdiction is to be exercised vis-à-vis a party against which insolvency
+         proceedings have been instituted. That question must be examined in the light of the procedural law applicable in the Court
+         of Justice.
+         
+            
+ Given that neither the Statute of the Court of Justice nor its Rules of Procedure contain any specific provisions concerning
+         the treatment of applications brought against parties against which insolvency proceedings have been commenced, it is necessary
+         to deduce what rules are applicable from the principles common to the procedural laws of the Member States in this area.
+         
+            
+ In that connection, it appears that in the procedural laws of most of the Member States a creditor is not entitled to pursue
+         his claims before the courts on an individual basis against a person who is the subject of insolvency proceedings but is required
+         to observe the specific rules of the applicable procedure and that, if he fails to observe those rules, his action will be
+         inadmissible. Moreover, the Member States are required, on a mutual basis, to respect proceedings commenced in any one of
+         them. That is clear from Article 4(2)(f) of Regulation No 1346/according to which the law governing the effects of insolvency
+         proceedings brought by individual creditors is that of the State in which they were opened, which in this case means Austrian
+         law and German law. Furthermore, by virtue of Articles and of the same regulation, the opening of insolvency proceedings
+         in a Member State is to be recognised in all the other Member States and is to produce the effects attributed thereto by the
+         law of the State in which the proceedings are opened.
+         
+            
+ As the Advocate General observed in points and of her Opinion, the aim of Regulation No 1346/is, as is clear in
+         particular from recitals 2, 3, and in its preamble, to ensure the efficiency and proper coordination of insolvency proceedings
+         within the European Union and thus to ensure equal distribution of available assets amongst all the creditors. The Community
+         institutions would enjoy an unjustifiable advantage over the other creditors if they were allowed to pursue their claims in
+         proceedings brought before the Community judicature when any action before national courts was impossible.
+         
+            
+ The Commission is also wrong to invoke Article of Regulation No 1346/by referring to the period of two-and-a-half
+         months which had elapsed between the opening of the insolvency proceedings, on July 2002, and the giving of notice thereof
+         on September 2002, in order to oppose the application of that regulation to this case. First, pursuant to Article 17(1)
+         of that regulation, the opening of insolvency proceedings takes effect in the other Member States without the need for any
+         notice to be given under Article of that regulation. Second, even if the notice given to the Commission might be regarded
+         as belated, Regulation No 1346/does not provide for such belatedness to have any repercussions on recognition of the
+         proceedings in other Member States, subject to possible entitlement to compensation for harm caused by late notification.
+         
+            
+ In view of the foregoing, the Commission’s action, as set out in its application, must be declared inadmissible in so far
+         as it is directed against A-Consult and Ision.
+         
+ D – The additional claims made by the Commission
+            
+ At the hearing, the Commission sought, in the alternative, to make additional claims, to the effect that, in so far as it
+         is directed against A-Consult and Ision, its action should be regarded as seeking a declaration proving the debts payable
+         to it for the purpose of pursuing them in national insolvency proceedings.
+         
+            
+ Those additional claims are manifestly inadmissible.
+         
+            
+ In the first place, they infringe the requirements of Article of the Rules of Procedure. According to that article, parties
+         are required to state the subject-matter of the proceedings in their originating application. Even though Article of the
+         Rules of Procedure allows new pleas in law to be introduced in certain circumstances, a party may not alter the actual subject-matter
+         of the action in the course of the proceedings (see Case 232/Commission v France [1979] ECR 2729, paragraph 3, and Case 125/GEMA v Commission [1979] ECR 3173, paragraph 26). New claims put forward for the first time at the hearing could not be allowed without depriving
+         defendants of an opportunity to prepare a response and thereby breaching the rights of the defence.
+         
+            
+ Second, the relief sought falls outside the authority conferred on the Court of Justice by the arbitration clause in this
+         case, which limits its jurisdiction to ‘any dispute between the Commission and the contractors’, and an application seeking
+         a finding which is to be relied on in insolvency proceedings implies the involvement of other parties, namely the other creditors
+         of the insolvent undertaking. In that connection, it should be emphasised that the Commission has not taken any steps with
+         a view to involving those parties in the present proceedings.
+         
+            
+ Finally, the considerations set out in paragraphs to of this judgment are also applicable to the Commission’s additional
+         claims, and the latter must be declared inadmissible for that reason.
+         
+            
+ Consequently, the further forms of order sought by the Commission must also be rejected as inadmissible.
+         
+IV – The merits of the application in so far as it is directed against AMI Semiconductor, Intracom, Euram and Nordbank
+            
+ The Commission’s claims against the defendants have two legal bases. First, the Commission relies on its contractual right
+         to reimbursement under Article 23.of Annex II to the contract. Second, it alleges unjust enrichment of the defendants within
+         the meaning of paragraph of the Bürgerliches Gesetzbuch (German Civil Code, ‘the BGB’); according to that provision ‘any
+         person who without legal cause obtains anything to the detriment of a third party because of something done by that third
+         party, or in any other way, is obliged to make restitution’.
+         
+ A – The right to reimbursement based on Article 23.of Annex II to the contract
+            
+ Article 23.of Annex II to the contract provides that if the payments made for the project exceed the total financial contribution
+         due from the Commission, the contractors are required immediately to reimburse the difference between the payments and that
+         contribution.
+         
+            
+ As far as the application of the provision to this case is concerned, two questions in particular have arisen. It is necessary
+         first to determine whether the reimbursement obligation under that provision is joint and several or whether, on the contrary,
+         a reimbursement may be sought only from those contractors who actually received funds from the Commission. Second, the calculation
+         of the total financial contribution due from the Commission must be examined.
+         
+ 1. Joint and several liability
+         
+            
+ The expression ‘contractors’ is defined on the second page of the contract as referring collectively to the seven defendants
+         who entered into the contract with the Commission. Nevertheless, the precise implications of the use of that expression in
+         Article 23.of Annex II to the contract have been the subject of heated debate between the parties.
+         
+            
+ According to the Commission, the use of that expression shows that the reimbursement obligation laid down by that provision
+         attaches to all the contractors and not only to those who received the advances at issue. The Commission is therefore entitled,
+         in its view, to pursue each of the contractors for the total sum of the advances.
+         
+            
+ The defendants, on the contrary, contend that joint and several liability cannot be inferred merely from the use of the expression
+         ‘the contractors’ and that if such liability was what the parties had intended, it should have been made clearer. They also
+         observe that the obligation imposed by Article 23.of Annex II to the contract is, according to the express terms of that
+         provision, an obligation of ‘reimbursement’ which, by definition, presupposes that the amount of which reimbursement is sought
+         has previously been received by the party from whom it is claimed.
+         
+            
+ Article 23.is not in itself sufficiently clear in that connection and must therefore be interpreted in the context of the
+         other contractual provisions, notably Article of the contract.
+         
+            
+ Article 1.at first sight imposes an obligation ‘jointly and severally’ on the parties to perform the contract ‘for the work
+         set out in Annex I’. That obligation, which in any event applies, according to the wording of the provision, only to performance
+         of the work but not to the reimbursement of advances, is then strictly limited by Article 1.2.
+         
+            
+ Thus, the second sentence of Article 1.of the contract negates any joint and several liability for reimbursement of advances
+         by providing that a contractor is not to be ‘liable … to reimburse money due from a defaulting contractor unless it has contributed
+         to the default’.
+         
+            
+ It follows from the above analysis that Article 23.of Annex II to the contract, interpreted in the light of Article 1.of the contract, requires a contractor to reimburse only advances which it has actually received, unless it is shown that
+         the same contractor contributed to a default so as to confer on the Commission entitlement to reimbursement of an advance
+         paid to another contractor. The burden of proving a contractor’s contribution to such a default necessarily falls on the Commission
+         as the claimant alleging that default.
+         
+            
+ The Commission has not shown that AMI Semiconductor, Intracom, Euram or Nordbank contributed in any way to a specific default
+         by another contractor so as to entitle the Commission to reimbursement of an advance received by that other contractor. As
+         the Advocate General observed in point of her Opinion, allegations of a general nature that the defendants did not co-operate
+         sufficiently or did not satisfy their obligations to provide the Commission with information are inadequate in that regard,
+         even if they are partially based on the review reports.
+         
+            
+ It must therefore be accepted that none of the defendants can be required to reimburse under Article 23.of Annex II to the
+         contract any greater sum than it itself received.
+         
+ 2. Calculation of the financial contribution due from the Commission
+         
+            
+ Article 23.of Annex II to the contract makes the right to reimbursement subject to the condition that the total financial
+         contribution payable by the Commission in respect of the project is less than the sum of the advances already paid. In those
+         circumstances, each of the defendants would be required to repay the difference between the advances received by it and the
+         defrayal of the costs claimable by it.
+         
+            
+ In its application, the Commission gave a breakdown, in a table reproduced in paragraph of this judgment, of the amounts
+         which each of the defendants should, in its opinion, repay individually in the event of joint and several liability not being
+         applicable. Those amounts were calculated by subtracting from the amount actually received by each contractor from the Commission
+         the amounts relating to deliverables accepted by the Commission in so far as the contractor in question was considered to
+         have contributed to them on the basis of the allocation of the work set out in Annex I to the contract.
+         
+            
+ Given that the Commission recognises that Nordbank was not the recipient of any payment and that Intracom received an amount
+         less than that due to it, the Commission cannot claim any reimbursement from those two defendants.
+         
+            
+ It is common ground that AMI Semiconductor received in all the sum of EUR and that the Commission accepted deliverables
+         up to a value of EUR 214.55. Consequently, the maximum amount that that company should repay is EUR 528.45. It is also
+         common ground that Euram received the sum of EUR and that none of the deliverables to which it contributed was accepted.
+         
+            
+ As regards the claims directed against those two defendants, the Commission is not entitled to refuse to approve deliverables
+         or cost statements without giving a detailed explanation of how the work was deficient. Contrary to the Commission’s contention,
+         the specific nature of the contract, deriving from the fact that it is a contract for the payment of grants for which the
+         Commission receives no consideration as such, does not mean that the Commission enjoys a discretion as to whether or not to
+         accept the deliverables. As the Advocate General correctly observed in points to of her Opinion, for such wide unilateral
+         powers of decision to have been conferred on the Commission, the contract would have had to contain clauses to that effect.
+         
+            
+ It is therefore necessary to consider whether the Commission’s refusal to accept work done by AMI Semiconductor and Euram
+         is justified. As the Advocate General observed in point of her Opinion, the dispute is concerned essentially with deliverables
+         1.(‘Complete set of user-defined system functions and design specifications’), 1.(‘Complete set of design specifications
+         for future software interfaces to integrate with the commercial software environment of these organisations’) and 1.(‘Full
+         description of future business partners’ IT environment’), those three being the only rejected deliverables to which AMI Semiconductor
+         and Euram had contributed.
+         
+            
+ The Commission based its rejection of those deliverables solely on the reports in which the review team recommended rejection.
+         As regards the evidential force of those reports, the Commission’s argument that they are binding on the defendants must be
+         rejected at the outset. Although the defendants approved the choice of the two candidates proposed by the Commission, neither
+         Article of Annex II to the contract nor any other clause of the contract nor anything in the communications between them
+         shows that the parties to the contract were to be bound by the reports drawn up by that team. Moreover, such binding force
+         would manifestly run counter to the position taken on this point by the Commission which, at the hearing, contended that it
+         could itself disregard those reports if it so wished.
+         
+            
+ In its second review report, the review team recommended that the deliverables at issue be rejected. Deliverable 1.was described
+         as being largely incomplete and superficial. Deliverables 1.and 1.were judged to be non-existent on the ground that the
+         documents provided to the team purported, according to their title, only to be ‘summaries’ and not complete documents. 
+         
+            
+ There are certain unexplained contradictions in those reports. For example, with respect to deliverable 1.1, the review team
+         criticises the fact that undertakings in the financial sector or the logistics sector, although represented in the consortium
+         set up by the defendants, did not contribute to the execution of that deliverable. However, it is clear from Annex I to the
+         contract that the participation of Nordbank or of Euram in that deliverable was not provided for by the contract. Clearly,
+         the review team did not, in that respect, apply the contractual criteria in assessing the compliance of the work done, but
+         wrongly applied its own criteria.
+         
+            
+ As regards deliverable 1.3, at the hearing the Commission observed that the presentation thereof by the defendants took up
+         only one page, which was not compatible with the effort required in the contract for that deliverable. In fact, it is appropriate
+         to point out that at first sight there is a surprising divergence between the four-and-a-half man‑months’ envisaged on page
+         of Annex I to the contract for that deliverable and the brevity of the report submitted. Nevertheless, the fact that a
+         report is brief does not necessarily imply that it lacks quality or does not comply with the contractual stipulations, the
+         only relevant criteria in this case. If the Commission entertained doubts as to the amount of the costs invoiced for a deliverable,
+         it should have contested the cost statements by reference to the criteria laid down in Articles to of Annex II to the
+         contract instead of rejecting the deliverable.
+         
+            
+ For rejection of a deliverable to be justifiable, the Commission must specifically identify the aspects of the deliverable
+         which it wishes to criticise, giving the reasons for which, in its view, the deliverable failed to conform with the contractual
+         stipulations. In this case, neither the review reports nor the Commission’s application are sufficiently explicit in that
+         regard.
+         
+            
+ Consequently, the Commission’s pleas in law claiming a right of reimbursement under Article 23.of Annex II to the contract
+         must be rejected. Therefore, the claim for interest based on Article 5.of the same annex must also be rejected.
+         
+ B – The right to reimbursement based on Paragraph of the BGB
+            
+ As the Advocate General rightly observed in point of her Opinion, a claim that amounts paid but not due should be reimbursed
+         because they amount to unjust enrichment as provided for in Paragraph of the BGB must be rejected for the same reasons
+         as the claim for reimbursement based on the contract. In the absence of proof that the payments received exceeded the amounts
+         due to the contractors, the Commission has not established the existence of any unjust enrichment.
+         
+            
+ The Commission’s claim must therefore be dismissed in its entirety.
+         
+V – Intracom’s counterclaim
+            
+ By its counterclaim, Intracom seeks payment, from the Commission, of EUR 022. That amount represents the difference between
+         the advance of EUR actually paid by InterTeam to Intracom and the portion of the costs relating to the approved deliverables
+         borne by Intracom which, according to the Commission’s calculation, amounts to EUR 384.09.
+         
+            
+ Apart from alleging that the Commission obtained ‘unjust enrichment’, Intracom has not indicated the legal basis of its claim.
+         
+            
+ It is common ground that the Commission had, by its payments to InterTeam, transferred sufficient funds to the defendants
+         to cover the payment of EUR for Intracom. By the time the contract had come to an end, a sum of EUR had been
+         paid to InterTeam but that sum had not been passed on by the latter to the other defendants. Given that InterTeam could, according
+         to the figures in the form on page of Annex I to the contract, have been entitled in its own right t to payments of a maximum
+         amount of EUR under the contract, InterTeam was holding a sum of at least EUR on behalf of the other contractors.
+         
+            
+ In those circumstances, the Commission did not obtain any unjust enrichment. Consequently, Intracom’s counterclaim must be
+         rejected.
+         
+Costs
+            
+ Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party’s pleadings. Since the Commission has been unsuccessful, it must be ordered to pay the
+         costs.
+         
+ On those grounds, the Court (First Chamber) hereby:
+         
+ 
+1.
+Dismisses the application;
+ 
+2.
+Dismisses the counterclaim by Intracom SA Hellenic Telecommunications & Electronic Industry;
+ 
+3.
+Orders the Commission of the European Communities to pay the costs.
+[Signatures]
+      
+ –
+            
+Language of the case: German.
+Top  
+ 

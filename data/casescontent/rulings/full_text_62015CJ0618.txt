@@ -1,0 +1,98 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+December *
+‛Reference for a preliminary ruling — Judicial cooperation in civil matters — Regulation (EC) No 44/— Jurisdiction — Tort, delict or quasi-delict — Selective distribution network — Prohibition on online resale outside a network — Action for an injunction prohibiting unlawful interference — Connecting factor’
+In Case C‑618/15,
+REQUEST for a preliminary ruling under Article TFEU from the Cour de cassation (Court of Cassation, France), made by decision of November 2015, received at the Court on November 2015, in the proceedings
+Concurrence SARL
+v
+Samsung Electronics France SAS,
+Amazon Services Europe Sàrl,
+THE COURT (Third Chamber),
+composed of L. Bay Larsen, President of the Chamber, M. Vilaras, J. Malenovský, M. Safjan (Rapporteur) and D. Šváby, Judges,
+Advocate General: M. Wathelet,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Concurrence SARL, by P. Ricard, avocat,
+—
+Amazon Services Europe Sàrl, by A. Bénabent and M. Jéhannin, avocats,
+—
+the French Government, by D. Colas and C. David, acting as Agents,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and by D. Del Gaizo, avvocato dello Stato,
+—
+the Luxembourg Government, by D. Holderer, acting as Agent, and by M. Thewes, avocat,
+—
+the European Commission, by C. Cattabriga and M. Heller, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 5(3) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1).
+The request has been made in proceedings between Concurrence SARL, established in France, and Samsung Electronics France SAS (‘Samsung’), also established in France, and Amazon Services Europe Sàrl (‘Amazon’), established in Luxembourg, concerning an alleged infringement of prohibitions on resale outside a selective distribution network and on a marketplace, by means of online offers on several websites operating in various Member States.
+Legal context
+Union law
+Recital of Regulation No 44/stated that that regulation was intended, in the interests of the sound operation of the internal market, to implement ‘provisions to unify the rules of conflict of jurisdiction in civil and commercial matters and to simplify the formalities with a view to rapid and simple recognition and enforcement of judgments from Member States bound by this Regulation’.
+Recitals 11, and of that regulation stated:
+‘(11)
+The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on the defendant’s domicile and jurisdiction must always be available on this ground save in a few well-defined situations in which the subject-matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.
+(12)
+In addition to the defendant’s domicile, there should be alternative grounds of jurisdiction based on a close link between the court and the action or in order to facilitate the sound administration of justice.
+…
+(15)
+In the interests of the harmonious administration of justice it is necessary to minimise the possibility of concurrent proceedings and to ensure that irreconcilable judgments will not be given in two Member States ...’
+The rules of jurisdiction were set out in Chapter II of that regulation.
+Article 2(1) of Regulation No 44/2001, which comes under Section of Chapter II, entitled ‘General provisions’, read as follows:
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts of that Member State.’
+Article 3(1) of that regulation, also in Section of Chapter II, provided:
+‘Persons domiciled in a Member State may be sued in the courts of another Member State only by virtue of the rules set out in Sections to of this Chapter.’
+Article 5(3) of that regulation, which were included in Section of Chapter II thereof, entitled ‘Special jurisdiction’, provided:
+‘A person domiciled in a Member State may, in another Member State, be sued:
+…
+3.
+in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur.’
+Regulation No 44/has been repealed by Article of Regulation (EU) No 1215/of the European Parliament and of the Council of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, p. 1). By virtue of the second paragraph of Article of that regulation, it is applicable only from January 2015.
+French law
+At the material time in the main proceedings, Article L. 442-6, paragraph 1, No 6, of the code de commerce (Commercial Code) provided:
+‘… Any producer, trader, manufacturer or person registered in the trades register shall be liable for, and obliged to compensate for the harm resulting from, any act by which:
+…
+they are directly or indirectly involved in contravening the prohibition on reselling outside the network imposed on distributors bound by a selective or exclusive distribution agreement covered by an exemption under the rules applicable to competition law.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+It is apparent from the documents before the Court that Concurrence is active in the retail of consumer electronics, trading through a shop located in Paris (France) and on its online sales website ‘concurrence.fr’. On March 2012, it concluded with Samsung a selective distribution agreement, entitled ‘Specialist ELITE retailer’, for high-end Samsung products, namely the ELITE range. That agreement included, in particular, a provision prohibiting the sale of the products in question on the internet.
+Following the conclusion of that agreement, a dispute arose between the parties. Samsung accused Concurrence of breaching the selective distribution agreement by selling the ELITE products on its website. For its part, Concurrence contested the legality of the terms of the contract, alleging inter alia that these were not uniformly applied to all distributors, some of whom marketed the products in question on several Amazon websites, without any response from Samsung.
+By letter of March 2012, Samsung informed Concurrence of the termination of their commercial relationship, with effect from June 2013.
+In April 2012, citing Samsung’s refusal to supply it with the ELITE product range, contrary to the commitments entered into, Concurrence brought an action for interim measures against Samsung before the Tribunal de commerce de Paris (Commercial Court, Paris, France).
+By order of April 2012, that court dismissed Concurrence’s claims. That order was upheld on October by the Cour d’appel de Paris (Court of Appeal, Paris, France), acting in its capacity to hear applications for interim measures.
+On December 2012, Concurrence brought, for a second time, an action against Samsung before the Tribunal de commerce de Paris (Commercial Court, Paris), with a view to obtaining an interim order declaring the prohibition on the sale of the ELITE product range on the internet imposed by the selective distribution agreement unenforceable against it and requiring Samsung, in consequence, to continue to supply it with the products covered by that agreement. Moreover, on the same day, Concurrence brought an action for the first time against Amazon with a view to obtaining an interim order requiring the withdrawal of any offers for sale of a number of Samsung product models from its Amazon.fr, Amazon.de, Amazon.co.uk, Amazon.es and Amazon.it websites.
+By order, made in inter partes proceedings, of February 2013, the tribunal de commerce de Paris (Commercial Court, Paris), acting in its capacity to hear applications for interim measures, held that it did not have jurisdiction over the Amazon websites operating outside French territory, found that there was no need for interim measures in connection with Concurrence’s claims against Samsung and dismissed Concurrence’s claims against Amazon.
+On June 2013, Concurrence lodged an appeal against that decision before the cour d’appel de Paris (Court of Appeal, Paris).
+By judgment of February 2014, the cour d’appel de Paris (Court of Appeal, Paris) varied in part the order of the tribunal de commerce de Paris (Commercial Court, Paris) of February by declaring Concurrence’s claims against Samsung inadmissible and dismissing Concurrence’s claims against Amazon. By that same judgment, the cour d’appel de Paris (Court of Appeal, Paris) upheld that order, holding that the courts of the French Republic lacked jurisdiction to hear and determine the action concerning Amazon’s websites operating outside the territory of that Member State.
+Concurrence then lodged an appeal in cassation against that latter judgment before the referring court.
+In its appeal, Concurrence claims that the contested judgment was wrong to find that the French courts lacked jurisdiction over Amazon websites operating outside the French territory because these were not directed at the French public. Even assuming that the website’s accessibility criterion were insufficient, the cour d’appel de Paris (Court of Appeal, Paris) acted unlawfully by failing to ascertain whether the sales system on Amazon websites allowed the products offered for sale to be dispatched not only within the Member State of origin of the website concerned but also in other Member States, and in particular within France, in which case jurisdiction would legitimately lie with the French court.
+The referring court considers that the dispute pending before it has the particular feature of not matching any of the circumstances already considered by the Court in its case-law concerning Article 5(3) of Regulation No 44/2001. Indeed, the action brought seeks to put an end to the losses which an approved distributor, established in France and operating an online sales website, claims to have sustained as a result of the breach of the prohibition on the resale of products outside the selective distribution network to which it belongs and of offers for sale placed online on a marketplace on various websites operated in France and in other Member States, prohibited by the selective distribution agreement at issue.
+In those circumstances, the Cour de cassation (Court of Cassation, France) decided to stay proceedings and refer the following question to the Court for a preliminary ruling:
+‘Is Article 5(3) of Council Regulation (EC) No 44/to be interpreted as meaning that, in the event of an alleged breach of a prohibition on resale outside a selective distribution network and via a marketplace by means of online offers for sale on a number of websites operated in various Member States, an authorised distributor which considers that it has been adversely affected has the right to bring an action seeking an injunction prohibiting the resulting unlawful interference in the courts of the territory in which the online content is or was accessible, or must some other clear connecting factor be present?’
+The question referred for a preliminary ruling
+By its question, the referring court asks, in essence, how Article 5(3) of Regulation No 44/should be interpreted for the purpose of conferring the jurisdiction given by that provision to hear an action to establish liability for infringement of the prohibition on resale outside a selective distribution network resulting from offers, on websites operated in various Member States, of products covered by that network.
+As a preliminary point, it must be noted that Article 5(3) of Regulation No 44/must be interpreted independently, strictly and that the expression ‘place where the harmful event occurred or may occur’ in that provision is intended to cover both the place where the damage occurred and the place of the event giving rise to it, so that the defendant may be sued, at the option of the applicant, in the courts for either of those places (see, to that effect, judgment of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph and the case-law cited).
+According to settled case-law, the rule of special jurisdiction laid down in Article 5(3) of that regulation is based on the existence of a particularly close connecting factor between the dispute and the courts of the place where the harmful event occurred or may occur, which justifies the attribution of jurisdiction to those courts for reasons relating to the sound administration of justice and the efficacious conduct of proceedings (judgment of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph and the case-law cited).
+In matters relating to tort, delict or quasi-delict, the courts for the place where the harmful event occurred or may occur are usually the most appropriate for deciding the case, in particular on the grounds of proximity and ease of taking evidence (judgment of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph and the case-law cited).
+Identification of one of the connecting factors recognised by the case-law set out in paragraph of the present judgment must therefore make it possible to establish the jurisdiction of the court objectively best placed to determine whether the elements that constitute liability of the person sued do in fact exist, so that only the court within whose jurisdiction the relevant connecting factor is situated may validly be seised (see judgment of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph and the case-law cited).
+In the case in the main proceedings, as the Advocate General observed in point of his Opinion, the question arises whether the referring court has jurisdiction solely on the basis of the place where the alleged damage occurred.
+As concerns that connecting factor, the Court has already stated not only that the place where the damage occurred may vary according to the nature of the right allegedly infringed, but also that the likelihood of damage occurring in a particular Member State is subject to the condition that the right whose infringement is alleged is protected in that Member State (see judgment of January 2015, Hejduk, C‑441/13, EU:C:2015:28, paragraphs and the case-law cited).
+Thus, where the protection granted by the Member State of the place of the court seised is applicable only in that Member State, that court only has jurisdiction to determine the damage caused within the Member State in which it is situated (see, to that effect, judgments of October 2013, Pinckney, C‑170/12, EU:C:2013:635, paragraph 45, and of January 2015, Hejduk, C‑441/13, EU:C:2015:28, paragraph 36).
+In the present case, first, the infringement of the prohibition on resale outside a selective distribution network is given effect by the law of the Member State of the court seised, so that a natural link exists between that jurisdiction and the dispute in the main proceedings, justifying the conferral of jurisdiction on the latter.
+Second, it is on the territory of that Member State that the alleged damage occurs. Indeed, in the event of infringement, by means of a website, of the conditions of a selective distribution network, the damage which the distributor may claim is the reduction in the volume of its sales resulting from the sales made in breach of the conditions of the network and the ensuing loss of profits.
+In that regard, the fact that the websites on which the offer of the products covered by the selective distribution right appears operate in Member States other than that of the court seised is irrelevant, as long as the events which occurred in those Member States resulted in or may result in the alleged damage in the jurisdiction of the court seised, which it is for the national court to ascertain (see, to that effect, judgment of June 2014, Coty Germany, C‑360/12, EU:C:2014:1318, paragraphs and 58).
+In the light of all the foregoing, the answer to the question referred is that Article 5(3) of Regulation No 44/must be interpreted, for the purpose of conferring the jurisdiction given by that provision to hear an action to establish liability for infringement of the prohibition on resale outside a selective distribution network resulting from offers, on websites operated in various Member States, of products covered by that network, as meaning that the place where the damage occurred is to be regarded as the territory of the Member State which protects the prohibition on resale by means of the action at issue, a territory on which the appellant alleges to have suffered a reduction in its sales.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Article 5(3) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted, for the purpose of conferring the jurisdiction given by that provision to hear an action to establish liability for infringement of the prohibition on resale outside a selective distribution network resulting from offers, on websites operated in various Member States, of products covered by that network, as meaning that the place where the damage occurred is to be regarded as the territory of the Member State which protects the prohibition on resale by means of the action at issue, a territory on which the appellant alleges to have suffered a reduction in its sales.
+ 
+[Signatures]
+Top  
+ 

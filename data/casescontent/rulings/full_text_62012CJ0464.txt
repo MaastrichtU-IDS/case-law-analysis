@@ -1,0 +1,292 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+March (
+*)
+‛Sixth VAT Directive — Exemptions — Article 13B(d)(3) and (6) — Special investment funds — Occupational pension schemes — Management — Transactions concerning deposit and current accounts, payments or transfers’
+In Case C‑464/12,
+REQUEST for a preliminary ruling under Article TFEU from the Østre Landsret (Denmark), made by decision of October 2012, received at the Court on October 2012, in the proceedings
+ATP PensionService A/S
+v
+Skatteministeriet,
+THE COURT (Fifth Chamber),
+composed of T. von Danwitz, President of the Chamber, E. Juhász, A. Rosas (Rapporteur), D. Šváby and C. Vajda, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on October 2013,
+after considering the observations submitted on behalf of:
+—
+ATP PensionService A/S, by H.S. Hansen and T. Kristjánsson, advokater,
+—
+the Danish Government, by V. Pasternak Jørgensen, acting as Agent, assisted by K. Lundgaard Hansen, advokat,
+—
+the United Kingdom Government, by R. Hill, Barrister,
+—
+the European Commission, by L. Lozano Palacios, M. Clausen and C. Barslev, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2013,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 13B(d)(3) and (6) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1; ‘the Sixth Directive’).
+The request has been made in proceedings between ATP PensionService A/S (‘ATP’) and the Skatteministeriet (Danish Ministry of Fiscal Affairs) concerning the latter’s refusal to exempt from value added tax (‘VAT’) the supply by ATP of certain services to occupational pension funds.
+Legal context
+European Union (‘EU’) law
+Article 13B(d) of the Sixth Directive is worded as follows:
+‘Without prejudice to other Community provisions, Member States shall exempt the following under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of the exemptions and of preventing any possible evasion, avoidance or abuse:
+…
+(d)
+the following transactions:
+…
+3.
+transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collection and factoring;
+…
+6.
+management of special investment funds as defined by Member States’.
+Article 1(2) of Council Directive 85/611/EEC of December on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 375, p. 3), as amended by Directives 2001/107/EC and 2001/108/EC of the European Parliament and of the Council of January (OJ L 41, p. 20, and OJ L 41, p. 35, respectively) (‘Directive 85/611’) defines those undertakings as follows:
+‘For the purposes of this Directive, and subject to Article 2, UCITS shall be undertakings:
+—
+the sole object of which is the collective investment in transferable securities and/or in other liquid financial assets referred to in Article 19(1) of capital raised from the public and which operates on the principle of risk-spreading
+and
+—
+the units of which are, at the request of holders, re-purchased or redeemed, directly or indirectly, out of those undertakings’ assets. Action taken by a UCITS to ensure that the stock exchange value of its units does not significantly vary from their net asset value shall be regarded as equivalent to such re-purchase or redemption.’
+Under the second subparagraph of Article 5(2) of Directive 85/611, ‘[t]he activity of management of unit trusts/common funds and of investment companies includes, for the purpose of this Directive, the functions mentioned in Annex II which are not exhaustive’.
+Annex II to that directive mentions the following as ‘[f]unctions included in the activity of collective portfolio management’:
+‘—
+Investment management
+—
+Administration:
+(a)
+legal and fund management accounting services;
+(b)
+customer inquiries;
+(c)
+valuation and pricing (including tax returns);
+(d)
+regulatory compliance monitoring;
+(e)
+maintenance of unit-holder register;
+(f)
+distribution of income;
+(g)
+unit issues and redemptions;
+(h)
+contract settlements (including certificate dispatch);
+(i)
+record keeping.
+—
+Marketing’.
+Article 5g(1) of Directive 85/made it possible for Member States to ‘permit management companies to delegate to third parties for the purpose of a more efficient conduct of the companies’ business to carry out on their behalf one or more of their own functions’ so long as the mandate complies with the conditions listed in Article 5g(1)(a) to (i).
+Danish law
+The Danish pension system
+The Østre Landsret (Eastern Regional Court; or ‘the referring court’) describes the Danish pension system as follows.
+It explains that the system is organised on the basis of three main types of scheme: (i) the statutory pension scheme (including the folkepension or State pension); (ii) supplementary occupational retirement schemes; and (iii) supplementary personal pension plans. Whereas the scheme in group (i) is financed by taxation, the schemes in groups (ii) and (iii) (supplementary retirement schemes) are funded by the persons to whom the retirement benefit is to be paid, namely, ‘the pension customers’.
+Supplementary retirement schemes (groups (ii) and (iii)) are normally funded by regular payments into a pension scheme managed by either a pension institution (including a pension fund) or a financial institution. In the case of occupational retirement schemes (group (ii)), the employer normally pays a pension contribution – on behalf of its employees – into a pension fund, but such payment may also be made to a financial institution.
+Supplementary retirement schemes (groups (ii) and (iii)) are normally funded by defined contributions, which means that the amount of the pension contribution is determined by agreement, whereas the amount of the pension paid out depends, on the one hand, on the size of the fund accumulated from contributions and, on the other hand, on the return from their investment (after deduction of scheme-related costs).
+The pension paid out from a supplementary retirement scheme may take one of the following forms:
+—
+a life annuity, which is paid until the death of the pension customer;
+—
+an instalment pension, which can be paid in instalments from the date on which the pension becomes due; or
+—
+a capital pension, which can be paid as a lump sum on the date on which the pension becomes due.
+In the case of a life annuity, the pension customer can have a regular amount paid out from the date on which the pension becomes due until that person’s death. That amount is calculated partly on the basis of the average life expectancy of pension customers and partly on the basis of the amount accumulated at the date on which the pension becomes due. A pension customer can apply the accumulated fund to an instalment pension or a capital pension in order to purchase a life annuity or to make a further contribution to an existing life annuity.
+Contributions paid into a supplementary retirement scheme are deductible under Danish income tax law within certain quantitative limits, irrespective of whether such contributions are paid into a retirement scheme which is managed by a pension institution or one which has been set up by a financial institution.
+The decision regarding the amount of any contribution to be paid into a retirement scheme and regarding whether such contributions are to be paid out in the form of a life annuity, an instalment pension or a capital pension is made by the pension customer.
+However, in the case of supplementary occupational retirement schemes (group (ii)), it is typically employers’ organisations and trade unions representing individual employers and employees which agree on pension arrangements for employees as part of periodic collective agreement negotiations.
+For employees covered by such collective agreements, the agreed pension contribution will thus normally be paid into a pension fund (occupational pension fund). In addition to the compulsory pension contribution, employees may choose to make extra contributions to the occupational retirement scheme, or they may choose to set up a personal retirement savings plan with a financial institution.
+Personal pension plans (group (iii)) also attract contributions from persons who are not covered by a pension scheme because of their employment situation, such as self-employed members of the professions, employers and directors. However, such persons may also opt to make contributions to an occupational retirement scheme (group (ii)) if the undertaking in question makes provision for such a scheme in respect of its staff.
+Danish VAT legislation
+Under points (c) and (f) of Paragraph 13(1)(11) of the Momsloven (Law on VAT):
+‘The following goods and services shall be exempt from [VAT]:
+…
+11.
+the following financial activities:
+…
+(c)
+transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collection and factoring;
+…
+(f)
+management of special investment funds’.
+Den Juridiske Vejledning (Legal Guidance Note) 2012-2, D.A.5.11.6, which contains official guidelines from the authorities for the interpretation of the Momsloven, states that the VAT exemption for transactions concerning deposit or current accounts covers, inter alia, the opening of deposit accounts and the setting up of retirement savings plans and other savings plans, and the crediting and withdrawal of sums to and from such accounts.
+Regarding transactions concerning payments and transfers, those guidelines state that such transactions ‘involve the transfer of funds in cash, either electronically – for example using a central computer system or SWIFT (the Society for Worldwide Interbank Financial Telecommunication) – or on the basis of documents drawn up under specific conditions. Payments, transfers and payment processing may be delegated to a subcontractor, such as PBS (Payment Business Services A/S)’.
+Guidance Note D.A.5.11.9.states that the management of special investment funds may include the following:
+—
+day-to-day portfolio management, including accounting;
+—
+advice and decision-making on the investment of funds and the execution of purchases and sales of transferable securities for the fund;
+—
+calculation of the intrinsic value of fund units;
+—
+issue and redemption of fund units; and
+—
+other administrative services, including IT, prospectuses, marketing, business management, and development and analysis.
+Guidance Note D.A.5.11.9.also indicates that the VAT exemption rule is to cover the management of special investment funds, irrespective of whether management is provided by the fund itself, by a management company or by another undertaking which has been lawfully authorised to do so.
+In Section of the order for reference, the Østre Landsret states that Guidance Note D.A.5.11.9.describes a special investment fund as follows:
+‘[The Skatterådet (National Tax Board)] has acted on the ruling by the Court of Justice [in Case C-363/JP Morgan Fleming Claverhouse Investment Trust and The Association of Investment Trust Companies [2007] ECR I-(“JP Morgan Fleming”)] in a binding answer (bindende svar). In its answer, the Skatterådet specifies the special investment funds which, according to Danish case-law, are considered to be covered by the VAT exemption rule. See SKM 2008.353.SR.
+The following [special] investment funds are covered by the VAT exemption rule laid down in point (f) of Paragraph 13(1)(11) of the Momsloven:
+1.
+Special investment funds and other [UCITS] covered by [Directive 85/611];
+2.
+Special investment funds which manage accounts; see paragraph of the Lov om beskatning af medlemmer af kontoførende investeringsforeninger (Law on the taxation of members of special investment funds which manage accounts), irrespective of whether such funds are covered by [Directive 85/611];
+3.
+Distribution investment funds covered by subparagraph of paragraph 16C of the Ligningsloven (Law on tax assessment), irrespective of whether they are covered by [Directive 85/611];
+4.
+Investment companies/funds covered by subparagraphs 2, and of paragraph of the Aktieavancebeskatningsloven (Law on the taxation of capital gains upon disposal of shares), irrespective of whether they are covered by [Directive 85/611];
+5.
+Certificate-issuing accumulation funds covered by subparagraph 1(5a) of paragraph of the Serviceloven (Law on Social Services), irrespective of whether they are covered by [Directive 85/611];
+6.
+ITCs (investment trust companies); see [JP Morgan Fleming], irrespective of whether they are covered by points to 5;
+7.
+Other UCITS which, on the basis of a specific assessment, may be considered to offer services which are comparable to and in competition with the services which special investment funds covered by points to offer to members, shareholders and so on with a view to the diversification of risks on investment in transferable securities.’
+Facts in the main proceedings and the questions referred for a preliminary ruling
+The referring court describes the facts in the case before it as follows.
+ATP’s main customer is PensionDanmark, which is an occupational pension fund. PensionDanmark administers pension schemes, set up under collective agreements and company agreements, on behalf of trade unions and employers’ organisations covering a total of members employed in private and public undertakings.
+The process in the context of which ATP provides its services is as follows. On the basis of information received from the employer, ATP opens an account for each pension customer who is a member of one of the pension funds included in the pension scheme managed by ATP. The employer informs ATP of the pension contributions which are payable for all its employees and transfers a single amount, representing the total sum of those contributions, to the pension fund’s account at a financial institution. The amount payable to each individual employee by the employer under the collective agreement or company agreement is then credited by ATP to the employee’s account in the pension scheme system managed by ATP.
+The pension customer has access to his pension account at any time through the pension fund’s homepage. ATP updates all accounts regularly with the amounts to be credited and the amounts to be withdrawn, so that the balance of any account is equal to the amount of retirement benefit accumulated (excluding income earned but not yet credited).
+ATP also initiates the withdrawal of amounts from the accounts of pension customers who are members of a pension fund by issuing instructions to a financial institution to pay such amounts to those pension customers.
+The pension funds themselves invest any contributions paid into the retirement schemes.
+ATP thus carries out the following tasks on behalf of pension funds:
+—
+administrative tasks, consisting, inter alia, in the provision of information and specific advice to employers and employees (pension customers) in relation to the retirement schemes provided by the pension funds;
+—
+system maintenance and development in relation to the development and maintenance of the platform from which ATP provides its services to pension funds;
+—
+services related to payments into and disbursements from pension funds.
+Until June 2002, ATP paid VAT on the consideration received from pension funds for those services. In the light of the judgment in Case C-2/SDC [1997] ECR I-3017, however, ATP concluded that the services relating to payments into and disbursements from pension funds represented transactions concerning payments or transfers, which are exempt from VAT under Article 13B(d)(3) of the Sixth Directive.
+ATP informed the Skatteministeriet of this on June 2002. By decision of October 2005, the Skatteministeriet ruled that ATP’s services in connection with pension disbursements were VAT-exempt transactions concerning payments or transfers, but it rejected the claim that services concerned with payments into retirement schemes were exempt from VAT – with the exception of services relating to the taking and cashing of cheques. By order of May 2009, the Landsskatteretten (National Tax Tribunal) upheld the Skatteministeriet’s decision.
+ATP contested that order before the Retten i Hillerød (Hillerød Court), which in turn referred the case to the Østre Landsret.
+In Section 1.of the order for reference, the Østre Landsret stated that the services which the Skatteministeriet and the Landsskatteretten did not consider to be exempt from VAT are, essentially, the following:
+‘1.
+Registration of employers liable to pay pension contributions, on the basis of information received from those employers.
+2.
+Opening of accounts in the pension scheme system at ATP for the benefit of employees (pension customers), on the basis of information received from employers.
+3.
+Provision of facilities for the handling of payments from employers, so that all pension contributions for the employees of each employer can be paid into the pension fund account at a financial institution using an online service (internet) or a payment card.
+4.
+Receipt and registration of reports from employers on the allocation of the total amount to individual employees (including the calculation and charging of labour market contributions, which are derived directly from the pension fund payments made).
+5.
+Crediting the pension contribution to the individual pension customer’s account in the pension scheme system at ATP, including regular updating of the account with inward payments and income recorded.
+6.
+Recording of missing payments.
+7.
+Reporting to pension fund customers on contributions paid into capital pension schemes.
+8.
+Sending out account statements.’
+Before the referring court, ATP submitted that those services should be exempt from VAT as being:
+—
+management of special investment funds under point (f) of Paragraph 13(1)(11) of the Momsloven, which implements Article 13B(d)(6) of the Sixth Directive; and/or
+—
+transactions concerning deposit and current accounts, payments or transfers under point (c) of Paragraph 13(1)(11) of the Momsloven, which implements Article 13B(d)(3) of the Sixth Directive.
+The Skatteministeriet found that those services provided by ATP cannot be exempt from VAT, on the ground that pension funds differ from special investment funds in the following ways:
+—
+pension funds combine retirement scheme and insurance services; pensions paid out may take the form of either a life annuity or a pension which is paid as a lump sum or as regular payments over a certain number of years; pension funds provide supplementary insurance cover, for example, in the event of death or incapacity for work;
+—
+it is employers, not employees, who pay contributions into the fund under collective agreements;
+—
+the purpose of a retirement scheme is to create a balance between income received in working life and in retirement, whereas the usual purpose of investment is to increase wealth;
+—
+pursuant to the Danish income tax rules, contributions to pension funds are to a certain extent deductible from taxable income.
+In those circumstances, the Østre Landsret decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article 13B(d)(6) of [the Sixth Directive] to be interpreted as meaning that the term “special investment funds as defined by Member States” covers pension funds such as those referred to in the [present case] and having the following characteristics, where the Member State recognises the institutions presented in Section of the … order for reference [as reproduced in paragraphs to above] as special investment funds:
+(a)
+the return to the employee (the pension customer) depends on the yield realised by the pension fund’s investments;
+(b)
+the employer is not required to make supplementary payments in order to secure a particular return for the pension customer;
+(c)
+the pension fund collectively invests the funds accumulated applying a risk-spreading principle;
+(d)
+the bulk of the payments into the pension fund is based on collective agreements between labour-market organisations representing the individual employees and employers, and not on the personal decision of the individual employee;
+(e)
+the individual employee may decide, on a personal basis, to make additional contributions to the pension fund;
+(f)
+self-employed traders, employers and directors may opt to pay pension contributions into the pension fund;
+(g)
+a predetermined portion of the pension savings collectively agreed for the employees is used to purchase a life annuity;
+(h)
+the pension customers bear the pension fund’s costs;
+(i)
+payments into the pension fund are deductible for the purposes of national income tax within certain quantitative limits;
+(j)
+payments into a personal pension plan, including a pension fund set up with a financial institution under which the contributions can be invested in a special investment fund, are deductible for the purposes of national income tax to the same extent as under point (i);
+(k)
+the counterpart to the entitlement to deduct contributions for tax purposes under point (i) is that disbursements are taxed; and
+(l)
+the funds accumulated are in principle to be paid out after the person concerned reaches pensionable age?
+(2)
+If Question is answered in the affirmative, is Article 13B(d)(6) of the Sixth Directive to be interpreted as meaning that the term “management” covers a service such as that at issue in the [present case] (see Section 1.of the order for reference [and paragraph above])?
+(3)
+Is a service such as that at issue in the [present case] concerning pension payments (see Section 1.of the order for reference [and paragraph above]) to be regarded under the terms of Article 13B(d)(3) of the Sixth Directive as a single service or as several separate services which are to be assessed independently?
+(4)
+Is Article 13B(d)(3) of the Sixth Directive to be interpreted as meaning that the VAT exemption laid down in that provision for transactions concerning payments or transfers covers a service such as that at issue in the [present case] concerning pension payments (see Section 1.of the order for reference [and paragraph above])?
+(5)
+If Question is answered in the negative, is Article 13B(d)(3) of the Sixth Directive to be interpreted as meaning that the VAT exemption provided for under that provision for transactions concerning deposit and current accounts covers a service such as that at issue in the [present case] concerning pension payments (see Section 1.of the order for reference [and paragraph above])?’
+Consideration of the questions referred
+Question 1, concerning the term ‘special investment fund’
+By its first question, the referring court asks whether, on a proper construction of Article 13B(d)(6) of the Sixth Directive, the term ‘special investment funds as defined by Member States’ used in that provision covers pension funds, such as those at issue in the main proceedings, which have the characteristics listed in that question.
+It should be borne in mind from the outset that, according to settled case-law, whilst the exemptions provided for in, inter alia, Article 13B(d)(6) of the Sixth Directive are autonomous concepts of EU law which must, in principle, be given a common definition in order to avoid divergences in the application of the VAT system from one Member State to another, so that the Member States cannot alter their content, that is not the case where the legislature has conferred on the Member States the task of defining certain terms of an exemption (see, to that effect, Case C-169/Abbey National [2006] ECR I-4027, paragraphs and 39; JP Morgan Fleming, paragraphs and 20; and Case C‑424/Wheels Common Investment Fund Trustees and Others [2013] ECR (‘Wheels’), paragraph 16). As it is, Article 13B(d)(6) of the Sixth Directive confers upon the Member States the task of defining the meaning of ‘special investment funds’ (see Wheels, paragraph 16).
+The power to define thereby accorded to the Member States is, however, limited by the prohibition on undermining the very terms of the exemption that are employed by the EU legislature (see, to that effect, JP Morgan Fleming, paragraph 21, and Wheels, paragraph 17). A Member State cannot in particular, without negating the very terms ‘special investment funds’, select from among special investment funds those which are eligible for the exemption and those which are not. Article 13B(d)(6) of the Sixth Directive thus grants a Member State only the power to identify, through its domestic law, the funds which meet the definition of ‘special investment funds’ (see, to that effect, JP Morgan Fleming, paragraphs to 43, and Wheels, paragraph 17).
+The power to define the meaning of ‘special investment funds’ must also be exercised consistently with the objectives pursued by the Sixth Directive and with the principle of fiscal neutrality inherent in the common system of VAT (see, to that effect, JP Morgan Fleming, paragraphs and 43, and Wheels, paragraph 18).
+In that regard, it should be observed that the objective of exempting transactions connected with the management of special investment funds is, in particular, to facilitate investment in securities through investment undertakings by excluding the cost of VAT and, in that way, ensuring that the common system of VAT is neutral as regards the choice between direct investment in securities and investment through UCITS (see, to that effect, Abbey National, paragraph 62; JP Morgan Fleming, paragraph 45; Wheels, paragraph 19; and Case C‑275/GfBk [2013] ECR, paragraph 30).
+Specifically, the principle of fiscal neutrality precludes economic operators carrying out the same transactions from being treated differently in relation to the levying of VAT (see, to that effect, Abbey National, paragraph 56; JP Morgan Fleming, paragraph 29; and Wheels, paragraph 20).
+It must therefore be determined, for the purposes of applying the Sixth Directive, whether pension funds such as those at issue in the main proceedings constitute ‘special investment funds’ for the purposes of Article 13B(d)(6) of that directive.
+In that regard, it should be borne in mind that funds which constitute UCITS within the meaning of Directive 85/also constitute special investment funds (see, to that effect, inter alia, Case C‑44/Deutsche Bank [2012] ECR, paragraphs and 32, and Wheels, paragraph 23).
+Furthermore, funds which – without being UCITS within the meaning of Directive 85/– display characteristics identical to those of UCITS and thus carry out the same transactions or, at least, display features that are sufficiently comparable for them to be in competition with such undertakings must also be regarded as special investment funds (see, to that effect, Abbey National, paragraphs to 56; JP Morgan Fleming, paragraphs to 51; and Wheels, paragraph 24).
+As the Advocate General stated in point of his Opinion, it is common ground that occupational pension funds such as those at issue in the case before the referring court are not covered by Directive 85/611. It is important, however, to establish whether such funds are comparable to undertakings which do fall within the scope of that directive and whether they are in competition with such undertakings.
+In that regard, Article 1(2) of Directive 85/states that the directive covers any undertaking the sole object of which is the collective investment in transferable securities and/or in other liquid financial assets of capital raised from the public and which operates on the principle of risk-spreading and the units of which are, at the request of holders, re-purchased or redeemed, directly or indirectly, out of that undertaking’s assets.
+Such undertakings are those in which many investments are pooled and spread over a range of transferable securities which can be managed effectively in order to optimise results, and in which individual investments may be relatively modest. Such funds manage their investments in their own name and on their own behalf, while each investor owns a share of the fund but not the fund’s investments as such (Deutsche Bank, paragraph 33).
+The essential characteristic of a special investment fund is the pooling of assets of several beneficiaries, enabling the risk borne by those beneficiaries to be spread over a range of securities. From the statements provided by the referring court, this appears to be the situation in the case before it, as groups (ii) and (iii) of the Danish pension system schemes are funded by the persons to whom the retirement benefit is to be paid. Moreover, the referring court states – in Question 1(c) – that the sums in question are invested using a risk‑spreading principle and – in Question 1(a) – that the pension customers bear the investment risk.
+In that regard, it is important to distinguish the investment fund at issue in the main proceedings from the fund at issue in Wheels: in Wheels, the members of the scheme did not bear the risk arising from the management of the investment fund in which the scheme’s assets were pooled, because the pension was defined in advance on the basis of length of service with the employer and the amount of the salary; and the contributions paid into the scheme by the employer were a means by which the employer complied with his legal obligations towards his employees (see Wheels, paragraphs to 29). By contrast, as mentioned in paragraph above, the schemes at issue in the case before the referring court are funded by the persons to whom the retirement benefit is to be paid and those persons bear the investment risk.
+For the purposes of determining whether an undertaking constitutes a special investment fund, the fact that the contributions are paid by the employer is irrelevant: the employer may be under an obligation to transfer to the pension fund sums corresponding to employees’ contributions. Physical involvement of that kind does not alter the fact that the contributions are paid on behalf of the pension customers using funds which must be regarded as reverting to them as a result of their work and that those customers bear the risks of any investments made using those contributions. In that regard, the referring court states – in Question 1(b) – that employers are not required to make supplementary payments in order to secure a particular return for pension customers.
+The fact that the amount paid into the pension fund is based on collective agreements between labour-market organisations is also irrelevant: it does not alter the fact that the contribution is paid by the worker (or at least in his name and on his behalf), that he will benefit from the proceeds of his investments and that he also bears any risks in that connection. By the same token, it is of little consequence that workers have the option of making additional contributions or that other persons may contribute to the pension fund through personal retirement savings plans.
+Nor does the fact that the funds accumulated may be paid out as a lump sum or in instalments after the pension customer concerned reaches pensionable age call in question the essential characteristics of the savings invested in pension funds. These merely reflect different ways of calculating the amount to be paid out and, as the Advocate General stated in point of his Opinion, transfers between the various options can be made by means of a simple financial transaction.
+By the same token, contrary to the Danish Government’s assertions, the fact that contributions to a pension fund may be deductible from taxable income under income tax law cannot have any impact on whether or not pension fund activities are exempt from VAT: national income tax legislation cannot call in question the uniform nature of the exemptions provided for under the EU VAT rules.
+Lastly, the addition of an insurance element does not call in question the essential characteristics of contributions to pension funds where that insurance element is an ancillary aspect.
+Indeed, the Court has held in that regard that there is a single supply, particularly where one element is to be regarded as constituting the principal service, whilst another is to be regarded as an ancillary service sharing the tax treatment of the principal service (Deutsche Bank, paragraph and the case-law cited). That is also the case where two or more elements or acts supplied by the taxable person are so closely linked that they form, objectively, a single, indivisible economic supply, which it would be artificial to split (see Deutsche Bank, paragraph and the case-law cited).
+In the light of all of the foregoing, the answer to Question is that, on a proper construction of Article 13B(d)(6) of the Sixth Directive, pension funds such as those at issue in the main proceedings may fall within the scope of that provision if they are funded by the persons to whom the retirement benefit is to be paid, if the savings are invested using a risk‑spreading principle, and if the pension customers bear the investment risk. In that regard, it is of little consequence that the contributions are paid by the employer; that the amount paid in is based on collective agreements between labour-market organisations; that there are different ways of paying out the savings invested; that contributions are deductible under income tax law; or that it is possible to add an insurance element which is ancillary to the other services provided.
+Question 2, concerning the term ‘management of special investment funds’
+By its second question, the referring court asks whether, on a proper construction of Article 13B(d)(6) of the Sixth Directive, the term ‘management of special investment funds’ used in that provision covers a service such as that at issue in the main proceedings.
+As Article 13B(d)(6) of the Sixth Directive offers no definition of the term ‘management of special investment funds’, that provision must be interpreted in the light of the context in which it is used and of the aims and scheme of that directive, with particular regard to the underlying purpose of the exemption which it establishes (see Abbey National, paragraph 59).
+First, it should be noted in that regard that, as mentioned in paragraph above, the aim underlying the exemption of transactions connected with the management of special investment funds is, in particular, to facilitate investment in securities through investment undertakings.
+Secondly, the wording of Article 13B(d)(6) of the Sixth Directive does not in principle preclude the management of special investment funds from being broken down into a number of separate services which may then come within the meaning of the term ‘management of special investment funds’ as used in that provision, and may benefit from the exemption under it, even where they are provided by a third-party manager (see Abbey National, paragraph 67, and GfBk, paragraph 28).
+Thirdly, it follows from the principle of fiscal neutrality that operators must be able to choose the form of organisation which, from a strictly commercial point of view, best suits them, without running the risk of having their transactions excluded from the exemption under Article 13B(d)(6) of the Sixth Directive (see Abbey National, paragraph 68, and GfBk, paragraph 31).
+Fourthly, the Court has made it clear that the transactions covered by that exemption are those which are specific to the business of UCITS (see Abbey National, paragraph 63). In particular, it has found that management services provided by a third‑party manager must, viewed broadly, form a distinct whole and be specific to, and essential for, the management of special investment funds (see, to that effect, Abbey National, paragraphs to 72, and GfBk, paragraph 21).
+Functions specific to UCITS include, besides portfolio management functions, functions for administering the UCITS themselves, such as those set out – under the heading ‘Administration’ – in Annex II to Directive 85/(see Abbey National, paragraph 64, and GfBk, paragraph 22).
+However, the fact that services are not listed in Annex II to Directive 85/does not preclude their inclusion in the category of specific services falling within activities for ‘management of special investment funds’ within the meaning of Article 13B(d)(6) of the Sixth Directive, since Article 5(2) of Directive 85/itself emphasises that the list in that annex is ‘not exhaustive’ (GfBk, paragraph 25).
+Thus, the Court has held that services such as computing the amount of income and the price of units or shares, the valuation of assets, accounting, the preparation of statements for the distribution of income, the provision of information and documentation for periodic accounts and for tax, statistical and VAT returns, and the preparation of income forecasts are covered by the concept of ‘management’ of a special investment fund for the purposes of Article 13B(d)(6) of the Sixth Directive (see GfBk, paragraph 27).
+By the same token, the fact that services provided by a third party do not alter the fund’s legal and financial position does not preclude them from being covered by the concept of ‘management’ of a special investment fund, for the purposes of that provision (GfBk, paragraph 26).
+The services in respect of which eligibility for VAT exemption is contested in the case before the referring court are listed in paragraph above. It appears prima facie that some of those services are not of a purely technical nature; rather, through the opening of accounts in the pension funds system and the crediting to those accounts of the contributions paid, they establish the rights of pension customers vis-à-vis the pension funds. The transactions by which contributions are credited to pension customers’ accounts appear to have the effect of transforming the claim held by a worker vis-à-vis his employer into a claim that the worker holds vis-à-vis the pension fund.
+In those circumstances, transactions crediting contributions to such accounts are essential to the management of a special investment fund.
+The principle of fiscal neutrality supports that conclusion: if such services were to be made subject to VAT when provided by a third party, that would give pension funds which have decided to record themselves the contributions made by pension customers an advantage over those which have decided to make use of a third party for that purpose, even though subcontracting such services could provide advantages in terms of efficiency to pension funds and thus to their customers (see, to that effect, GfBk, paragraph 31).
+The other services referred to in paragraph above appear to be, essentially, accounting services and account information services, which are covered by Annex II to Directive 85/611.
+As regards services such as those at issue in the main proceedings, it appears prima facie essential for the entity that holds pension customers’ accounts to process the necessary data provided by employers or to determine whether contributions are missing. Moreover, it would seem that such an entity is the best placed to determine any amounts still to be paid into pension funds by employers or to send out statements relating to those accounts.
+However, it is for the referring court, which has before it all the information it needs to analyse each of the transactions at issue in the main proceedings, to assess whether the term ‘management of special investment funds’, used in Article 13B(d)(6) of the Sixth Directive, as interpreted in the present judgment, covers those services.
+In the light of the foregoing, the answer to Question is that, on a proper construction of Article 13B(d)(6) of the Sixth Directive, the term ‘management of special investment funds’ used in that provision covers services by means of which an undertaking establishes the rights of pension customers vis-à-vis pension funds through the opening of accounts in the pension scheme system and the crediting to such accounts of the contributions paid. That term also covers accounting services and account information services such as those listed in Annex II to Directive 85/611.
+Questions and 4, concerning transactions relating to payments and transfers
+By its third and fourth questions, which it is appropriate to examine together, the referring court asks whether, on a proper construction of Article 13B(d)(3) of the Sixth Directive, the VAT exemption laid down in that provision for transactions concerning payments or transfers covers a service, such as that at issue in the main proceedings, which relates to contributions paid into a pension fund, and whether a service of that kind must be regarded as a single service or as a group of separate services, each of which must be assessed independently.
+It should be borne in mind that the transactions exempted under Article 13B(d)(3) of the Sixth Directive are defined in terms of the nature of the services provided and not in terms of the person supplying or receiving the service (see SDC, paragraphs and 56, and Case C-175/Axa UK [2010] ECR I-10701, paragraph 26). Accordingly, the exemption is not subject to the condition that the transactions be effected by a certain type of institution or legal person where the transactions in question relate to the sphere of financial transactions (see, to that effect, SDC, paragraph 38, and Axa UK, paragraph 26).
+The Court has held that a transfer is a transaction consisting in the execution of an order for the transfer of a sum of money from one bank account to another. It is characterised in particular by the fact that it involves a change in the legal and financial situation existing, on the one hand, between the person giving the order and the recipient and, on the other, between those parties and their respective banks; and, in some cases, between those banks. Moreover, the transaction which produces the change is solely the transfer of funds between accounts, irrespective of its cause (see, to that effect, SDC, paragraph 53, and Case C-350/Nordea Pankki Suomi [2011] ECR I-7359, paragraph 25).
+That interpretation does not presuppose any particular method for effecting transfers, which may be done using accounting entries. That is so in the case of transfers between customers of a single bank, or between accounts of a single individual who acts as both the person giving the order and the recipient. At the hearing, ATP stated that, although the transfer of sums from a current account to a savings account belonging to the same account holder does not alter either the creditor or the amount of the debt, the terms and conditions relating to the debt owed to the bank will, by contrast, be altered. A transfer between two accounts belonging to the same account holder will be carried out using accounting entries, from which point new terms and conditions will apply to the debt in question.
+Such transactions, whether carried out by means of a physical transfer of funds or by means of accounting entries, are services which are covered by the exemption provided for in Article 13B(d)(3) of the Sixth Directive.
+As mentioned in paragraph above, some of the services in respect of which eligibility for VAT exemption is contested in the case before the referring court, such as transactions crediting contributions paid into pension customers’ pension scheme accounts, are not of a purely technical nature but appear to establish the rights of pension customers vis-à-vis pension funds by transforming the claim held by a worker vis-à-vis his employer into a claim held by that worker vis-à-vis the pension fund of which he is a member.
+However, it is for the referring court, which has before it all the information it needs to analyse each of the transactions in question, to assess whether those services are covered by the exemption provided for in Article 13B(d)(3) of the Sixth Directive, as interpreted in the present judgment.
+It is also for that court to assess whether, pursuant to the case-law referred to in paragraph above, the other services provided by ATP are so closely linked to transactions crediting contributions paid into pension customers’ pension scheme accounts that they form, objectively, a single, indivisible economic supply, which it would be artificial to split.
+In the light of the foregoing, the answer to Questions and is that, on a proper construction of Article 13B(d)(3) of the Sixth Directive, the VAT exemption laid down in that provision for transactions concerning payments and transfers covers services by means of which an undertaking establishes the rights of pension customers vis-à-vis pension funds through the creation of accounts for those customers within the pension scheme system and the crediting to those pension customers’ accounts of the contributions paid, and any transactions which are ancillary to those services or which combine with those services to form a single economic supply.
+In view of the answer to Questions and 4, there is no need to answer Question 5.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+1.
+On a proper construction of Article 13B(d)(6) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment, pension funds such as those at issue in the main proceedings may fall within the scope of that provision if they are funded by the persons to whom the retirement benefit is to be paid, if the funds are invested using a risk-spreading principle, and if the pension customers bear the investment risk. In that regard, it is of little consequence that the contributions are paid by the employer; that the amount paid in is based on collective agreements between labour‑market organisations; that there are different ways of paying out the funds invested; that contributions are deductible under income tax law; or that it is possible to add an insurance element which is ancillary to the other services provided.
+ 
+2.
+On a proper construction of Article 13B(d)(6) of Sixth Directive 77/388, the term ‘management of special investment funds’ used in that provision covers services by means of which an undertaking establishes the rights of pension customers vis-à-vis pension funds through the opening of accounts in the pension scheme system and the crediting to such accounts of the contributions paid. That term also covers accounting services and account information services such as those listed in Annex II to Council Directive 85/611/EEC of December on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS), as amended by Directives 2001/107/EC and 2001/108/EC of the European Parliament and of the Council of January 2002.
+ 
+3.
+On a proper construction of Article 13B(d)(3) of Sixth Directive 77/388, the value added tax exemption laid down in that provision for transactions concerning payments and transfers covers services by means of which an undertaking establishes the rights of pension customers vis-à-vis pension funds through the creation of accounts for those customers within the pension scheme system and the crediting to those pension customers’ accounts of the contributions paid, and any transactions which are ancillary to those services or which combine with those services to form a single economic supply.
+ 
+[Signatures]
+(
+*)	Language of the case: Danish.
+Top  
+ 

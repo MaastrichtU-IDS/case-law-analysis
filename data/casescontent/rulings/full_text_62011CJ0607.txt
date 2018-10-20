@@ -1,0 +1,175 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+March (
+*)
+‛Directive 2001/29/EC — Article 3(1) — Broadcasting by a third party over the internet of signals of commercial television broadcasters — ‘Live streaming’ — Communication to the public’
+In Case C-607/11,
+REQUEST for a preliminary ruling under Article TFEU from the High Court of Justice (England and Wales) (Chancery Division) (United Kingdom), made by decision of November 2011, received at the Court on November 2011, in the proceedings
+ITV Broadcasting Ltd,
+ITV Ltd,
+ITV Digital Channels Ltd,
+Channel Television Corporation,
+Ventures Ltd,
+Channel Broadcasting Ltd,
+ITV Studios Ltd
+v
+TVCatchup Ltd,
+THE COURT (Fourth Chamber),
+composed of L. Bay Larsen, President of the Chamber, K. Lenaerts, Vice-President of the Court, acting as Judge of the Fourth Chamber, J. Malenovský (Rapporteur), U. Lõhmus and M. Safjan, Judges,
+Advocate General: Y. Bot,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on November 2012,
+after considering the observations submitted on behalf of:
+—
+ITV Broadcasting Ltd, ITV Ltd, ITV Digital Channels Ltd, Channel Television Corporation, Ventures Ltd, Channel Broadcasting Ltd and ITV Studios Ltd, by J. Mellor, QC, J. Bowhill, Barrister, and P. Stevens and J. Vertes, Solicitors,
+—
+TVCatchup Ltd, by L. Gilmore, Solicitor, and M. Howe, QC,
+—
+the United Kingdom Government, by S. Ossowski and L. Christie, acting as Agents, and by C. May, Barrister,
+—
+the French Government, by G. de Bergues and M. Perrot, acting as Agents,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and by M. Russo, avvocato dello Stato,
+—
+the Polish Government, by M. Szpunar and B. Majczyna, acting as Agents,
+—
+the Portuguese Government, by L. Inez Fernandes and N. Conde, acting as Agents,
+—
+the European Commission, by J. Samnadda and F. Wilman, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 3(1) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167, p. 10).
+The request has been made in proceedings between, on the one hand, ITV Broadcasting Ltd, ITV Ltd, ITV Digital Channels Ltd, Channel Television Corporation, Ventures Ltd, Channel Broadcasting Ltd and ITV Studios Ltd and, on the other, TVCatchup Ltd (‘TVC’) concerning the distribution by TVC over the internet, substantially in real time, of television broadcasts transmitted by the claimants in the main proceedings.
+Legal context
+European Union law
+Recitals and in the preamble to Directive 2001/state:
+‘(23)
+This Directive should harmonise further the author’s right of communication to the public. This right should be understood in a broad sense covering all communication to the public not present at the place where the communication originates. This right should cover any such transmission or retransmission of a work to the public by wire or wireless means, including broadcasting. This right should not cover any other acts.
+...
+(27)
+The mere provision of physical facilities for enabling or making a communication does not in itself amount to communication within the meaning of this Directive.’
+Article of that directive, entitled ‘Right of communication to the public of works and right of making available to the public other subject-matter’, provides:
+‘1.   Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.
+...
+3.   The rights referred to in paragraphs and shall not be exhausted by any act of communication to the public or making available to the public as set out in this Article.’
+Article of Council Directive 93/83/EEC of September on the coordination of certain rules concerning copyright and rights related to copyright applicable to satellite broadcasting and cable retransmission (OJ L 248, p. 15) provides:
+‘Member States shall provide an exclusive right for the author to authorise the communication to the public by satellite of copyright works ...’.
+Article 8(1) of that directive states:
+‘Member States shall ensure that when programmes from other Member States are retransmitted by cable in their territory the applicable copyright and related rights are observed and that such retransmission takes place on the basis of individual or collective contractual agreements between copyright owners, holders of related rights and cable operators.’
+English law
+Section of the Copyright, Designs and Patents Act 1988, in the version applicable to the facts in the main proceedings, entitled ‘Infringement by communication to the public’, provides:
+‘1.
+The communication to the public of the work is an act restricted by the copyright in –
+(a)
+a literary, dramatic, musical or artistic work,
+(b)
+a sound recording or film, or
+(c)
+a broadcast.
+2.
+References in this Part to communication to the public are to communication to the public by electronic transmission, and in relation to a work include –
+(a)
+the broadcasting of the work;
+(b)
+the making available to the public of the work by electronic transmission in such a way that members of the public may access it from a place and at a time individually chosen by them.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+The claimants in the main proceedings are commercial television broadcasters who own copyright under national law in the television broadcasts themselves and in films and other items which are included in their broadcasts. They are funded by advertising carried in their broadcasts.
+TVC offers an internet television broadcasting service. The service permits its users to receive, via the internet, ‘live’ streams of free-to-air television broadcasts, including television broadcasts transmitted by the claimants in the main proceedings.
+TVC ensures that those using its service can obtain access only to content which they are already legally entitled to watch in the United Kingdom by virtue of their television licence. The terms to which users must agree thus include the possession of a valid TV licence and a restriction of use of TVC services to the United Kingdom. The TVC website has the facility to authenticate the user’s location and to refuse access where the conditions imposed on users are not satisfied.
+The TVC service is funded by advertising. Audiovisual advertising is shown before the user is able to view the live stream. The advertisements already contained in the original broadcasts are left unchanged and sent to the user as part of the stream. There is also ‘in-skin’ advertising, which appears on the user’s computer or other equipment.
+For its activities, TVC uses four groups of servers, namely, (i) acquisition, (ii) encoding, (iii) origin and (iv) edge servers.
+The input signals used by TVC are the normal terrestrial and satellite broadcast signals transmitted by the claimants in the main proceedings. The signals are captured via an aerial and then passed to the acquisition servers, which extract individual video streams from the received signal without altering them. The encoding servers then convert the incoming streams into a different compression standard. Next, the origin servers prepare streams of video for sending over the internet in a variety of formats. Beyond that point, the channels offered by TVC are processed further only if at least one TVC subscriber has requested that channel. If there is no request for a given channel, the signal is discarded.
+Edge servers connect with a user’s computer or mobile telephone using the internet. When an edge server receives a request for a channel from a user, then, unless it is already streaming that channel to a different user, the edge server connects to the origin server which streams that channel. The software on the edge server creates a separate stream for each user who requests a channel through it. An individual packet of data leaving the edge server is thus addressed to an individual user, not to a class of users.
+The streams provided by the edge servers can be in a variety of different formats. The formats used are: Adobe Flash streams (for computers), HTTP streams (for Apple mobile devices) and RTSP streams (for Android and Blackberry mobile telephones).
+The claimants in the main proceedings instituted proceedings against TVC before the High Court of Justice (England and Wales) (Chancery Division) for breach of their copyright in their broadcasts and films, alleging, inter alia, that there is a communication of the works to the public prohibited by section of the Copyright, Designs and Patents Act 1988, in the version applicable to the facts in the main proceedings, and by Article 3(1) of Directive 2001/29.
+The High Court takes the view that it is not clear from the judgments in Case C-306/SGAE [2006] ECR I-and in Joined Cases C-431/and C-432/Airfield NV and Canal Digitaal [2011] ECR I-whether there is a ‘communication to the public’ within the meaning of Article 3(1) of Directive 2001/in the case where an organisation such as TVC, in full knowledge of the consequences of its acts and in order to attract an audience to its own transmissions and advertisements, streams over the internet broadcasts to members of the public who would have been entitled to access the original broadcast signal using their own television sets or laptops in their own homes.
+In those circumstances the High Court of Justice (England and Wales) (Chancery Division) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Does the right to authorise or prohibit a “communication to the public of their works by wire or wireless means” in Article 3(1) of [Directive 2001/29] extend to a case where:
+(a)
+Authors authorise the inclusion of their works in a terrestrial free-to-air television broadcast which is intended for reception either throughout the territory of a Member State or within a geographical area within a Member State;
+(b)
+A third party ([that is to say,] an organisation other than the original broadcaster) provides a service whereby individual subscribers within the intended area of reception of the broadcast who could lawfully receive the broadcast on a television receiver in their own homes may log on to the third party’s server and receive the content of the broadcast by means of an internet stream?
+2.
+Does it make any difference to the answer to the above question if:
+(a)
+The third party’s server allows only a “one-to-one” connection for each subscriber whereby each individual subscriber establishes his or her own internet connection to the server and every data packet sent by the server onto the internet is addressed to only one individual subscriber?
+(b)
+The third party’s service is funded by advertising which is presented “pre-roll” ([that is to say,] during the period of time after a subscriber logs on but before he or she begins to receive the broadcast content) or “in-skin” ([that is to say,] within the frame of the viewing software which displays the received programme on the subscriber’s viewing device but outside the programme picture) but the original advertisements contained within the broadcast are presented to the subscriber at the point where they are inserted in the programme by the broadcaster?
+(c)
+The intervening organisation is:
+(i)
+providing an alternative service to that of the original broadcaster, thereby acting in direct competition with the original broadcaster for viewers; or
+(ii)
+acting in direct competition with the original broadcaster for advertising revenues?’
+Consideration of the questions referred
+Question and Question 2(a)
+By Question and Question 2(a), the referring court asks, in essence, whether the concept of ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29, must be interpreted as meaning that it covers a retransmission of the works included in a terrestrial television broadcast:
+—
+where the retransmission is made by an organisation other than the original broadcaster,
+—
+by means of an internet stream made available to the subscribers of that other organisation who may receive the retransmission by logging on to its server,
+—
+on the assumption that those subscribers are within the area of reception of the terrestrial television broadcast and may lawfully receive the broadcast on a television receiver.
+First of all, it is to be noted that the principal objective of Directive 2001/is to establish a high level of protection of authors, allowing them to obtain an appropriate reward for the use of their works, including on the occasion of communication to the public. It follows that ‘communication to the public’ must be interpreted broadly, as recital in the preamble to the directive indeed expressly states (SGAE, paragraph 36, and Joined Cases C-403/and C-429/Football Association Premier League and Others [2011] ECR I-9083, paragraph 186).
+In the first place, it is necessary to determine the meaning of the concept of ‘communication’ and reply to the question whether the activity at issue in the main proceedings comes within its scope.
+In that connection, the Court notes that Directive 2001/does not define the concept of ‘communication’ exhaustively. Thus, the meaning and scope of that concept must be defined in the light of the context in which it occurs and also in the light of the objective referred to in paragraph above.
+It follows, in particular, from recital in the preamble to Directive 2001/that the author’s right of communication to the public covers any transmission or retransmission of a work to the public not present at the place where the communication originates, by wire or wireless means, including broadcasting. In addition, it is apparent from Article 3(3) of that directive that authorising the inclusion of protected works in a communication to the public does not exhaust the right to authorise or prohibit other communications of those works to the public.
+If follows that, by regulating the situations in which a given work is put to multiple use, the European Union legislature intended that each transmission or retransmission of a work which uses a specific technical means must, as a rule, be individually authorised by the author of the work in question.
+Those findings are, moreover, supported by Articles and of Directive 93/83, which require fresh authorisation for a simultaneous, unaltered and unabridged retransmission by satellite or cable of an initial transmission of television or radio programmes containing protected works, even though those programmes may already be received in their catchment area by other technical means, such as by wireless means or terrestrial networks.
+Given that the making of works available through the retransmission of a terrestrial television broadcast over the internet uses a specific technical means different from that of the original communication, that retransmission must be considered to be a ‘communication’ within the meaning of Article 3(1) of Directive 2001/29. Consequently, such a retransmission cannot be exempt from authorisation by the authors of the retransmitted works when these are communicated to the public.
+That conclusion cannot be undermined by TVC’s objection that the making of the works available over the internet, as was done in the case in the main proceedings, is merely a technical means to ensure or improve reception of the terrestrial television broadcast in its catchment area.
+Admittedly, it follows from the case-law of the Court that a mere technical means to ensure or improve reception of the original transmission in its catchment area does not constitute a ‘communication’ within the meaning of Article 3(1) of Directive 2001/(see, to that effect, Football Association Premier League and Others, paragraph 194, and Airfield and Canal Digitaal, paragraphs and 79).
+Thus, the intervention of such a technical means must be limited to maintaining or improving the quality of the reception of a pre-existing transmission and cannot be used for any other transmission.
+In the present case, however, the intervention by TVC consists in a transmission of the protected works at issue which is different from that of the broadcasting organisation concerned. TVC’s intervention is in no way intended to maintain or improve the quality of the transmission by that other broadcasting organisation. In those circumstances, that intervention cannot be considered to be a mere technical means within the meaning specified in paragraph above.
+In the second place, in order to be categorised as a ‘communication to the public’ within the meaning of Article 3(1) of Directive 2001/29, the protected works must also in fact be communicated to a ‘public’.
+In that connection, it follows from the case-law of the Court that the term ‘public’ in Article 3(1) of Directive 2001/refers to an indeterminate number of potential recipients and implies, moreover, a fairly large number of persons (see, to that effect, SGAE, paragraphs and and the case-law cited).
+As regards that last criterion specifically, the cumulative effect of making the works available to potential recipients should be taken into account. In that connection, it is in particular relevant to ascertain the number of persons who have access to the same work at the same time and successively (SGAE, paragraph 39).
+In that context, it is irrelevant whether the potential recipients access the communicated works through a one-to-one connection. That technique does not prevent a large number of persons having access to the same work at the same time.
+In the present case, it should be noted that the retransmission of the works over the internet at issue in the main proceedings is aimed at all persons resident in the United Kingdom who have an internet connection and who claim to hold a television licence in that State. Those people may access the protected works at the same time, in the context of the ‘live streaming’ of television programmes on the internet.
+Thus, the retransmission in question is aimed at an indeterminate number of potential recipients and implies a large number of persons. Consequently, it must be held that, by the retransmission in question, the protected works are indeed communicated to a ‘public’ within the meaning of Article 3(1) of Directive 2001/29.
+However, TVC contends that the retransmission at issue in the main proceedings does not satisfy the requirement that there must be a new public, which is none the less necessary within the meaning of the judgments in SGAE (paragraph 40), Football Association Premier League and Others (paragraph 197), and Airfield and Canal Digitaal (paragraph 72). The recipients of the retransmission effected by TVC are, it submits, entitled to follow the televised broadcast, identical in content, using their own television sets.
+In that connection, it should be noted that the situations examined in the cases which gave rise to the abovementioned judgments differ clearly from the situation at issue in the case in the main proceedings. In those cases, the Court examined situations in which an operator had made accessible, by its deliberate intervention, a broadcast containing protected works to a new public which was not considered by the authors concerned when they authorised the broadcast in question.
+By contrast, the main proceedings in the present case concern the transmission of works included in a terrestrial broadcast and the making available of those works over the internet. As is apparent from paragraphs to above, each of those two transmissions must be authorised individually and separately by the authors concerned given that each is made under specific technical conditions, using a different means of transmission for the protected works, and each is intended for a public. In those circumstances, it is no longer necessary to examine below the requirement that there must be a new public, which is relevant only in the situations on which the Court of Justice had to rule in the cases giving rise to the judgments in SGAE, Football Association Premier League and Others and Airfield and Canal Digitaal.
+In the light of the foregoing, the answer to Question and Question 2(a) is that the concept of ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29, must be interpreted as meaning that it covers a retransmission of the works included in a terrestrial television broadcast
+—
+where the retransmission is made by an organisation other than the original broadcaster,
+—
+by means of an internet stream made available to the subscribers of that other organisation who may receive that retransmission by logging on to its server,
+—
+even though those subscribers are within the area of reception of that terrestrial television broadcast and may lawfully receive the broadcast on a television receiver.
+Question 2(b)
+By Question 2(b), the referring court asks, in essence, whether the answer to Question is influenced by the fact that a retransmission, such as that at issue in the main proceedings, is funded by advertising and is therefore of a profit-making nature.
+In that connection, the Court has indeed held that it is not irrelevant that a ‘communication’ within the meaning of Article 3(1) of Directive 2001/is of a profit-making nature (Football Association Premier League and Others, paragraph 204). However, it has acknowledged that a profit-making nature is not necessarily an essential condition for the existence of a communication to the public (see, to that effect, SGAE, paragraph 44).
+Consequently, a profit-making nature does not determine conclusively whether a retransmission, such as that at issue in the main proceedings, is to be categorised as a ‘communication’ within the meaning of Article 3(1) of Directive 2001/29.
+The answer to Question 2(b) is therefore that the answer to Question is not influenced by the fact that a retransmission, such as that at issue in the main proceedings, is funded by advertising and is therefore of a profit-making nature.
+Question 2(c)
+By Question 2(c), the referring court asks in, essence, whether the answer to Question is influenced by the fact that a retransmission, such as that at issue in the main proceedings, is made by an organisation which is acting in direct competition with the original broadcaster.
+In that connection, it suffices to note that it follows neither from Directive 2001/nor from the case-law of the Court that a competitive relationship between the organisations making real-time broadcasts of works protected by copyright or subsequent retransmissions of those works is relevant for the purpose of categorising a transmission as a ‘communication to the public’ within the meaning of Article 3(1) of Directive 2001/29.
+Consequently, the answer to Question 2(c) is that the answer to Question is not influenced by the fact that a retransmission, such as that at issue in the main proceedings, is made by an organisation which is acting in direct competition with the original broadcaster.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+1.
+The concept of ‘communication to the public’, within the meaning of Article 3(1) of Directive 2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright and related rights in the information society, must be interpreted as meaning that it covers a retransmission of the works included in a terrestrial television broadcast
+—
+where the retransmission is made by an organisation other than the original broadcaster,
+—
+by means of an internet stream made available to the subscribers of that other organisation who may receive that retransmission by logging on to its server,
+—
+even though those subscribers are within the area of reception of that terrestrial television broadcast and may lawfully receive the broadcast on a television receiver.
+ 
+2.
+The answer to Question is not influenced by the fact that a retransmission, such as that at issue in the main proceedings, is funded by advertising and is therefore of a profit-making nature.
+ 
+3.
+The answer to Question is not influenced by the fact that a retransmission, such as that at issue in the main proceedings, is made by an organisation which is acting in direct competition with the original broadcaster.
+ 
+[Signatures]
+(
+*)   Language of the case: English.
+Top  
+ 

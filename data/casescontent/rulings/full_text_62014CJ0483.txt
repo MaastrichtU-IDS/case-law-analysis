@@ -1,0 +1,194 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+April (
+*)
+‛Reference for a preliminary ruling — Rome Convention — Applicable law — Cross-border merger — Directive 78/855/EEC — Directive 2005/56/EC — Merger by acquisition — Protection of creditors — Transfer of all the assets and liabilities of the company being acquired to the acquiring company’
+In Case C‑483/14,
+REQUEST for a preliminary ruling under Article TFEU from the Oberster Gerichtshof (Supreme Court, Austria), made by decision of August 2014, received at the Court on October 2014, in the proceedings
+KA Finanz AG
+v
+Sparkassen Versicherung AG Vienna Insurance Group,
+THE COURT (Third Chamber),
+composed of M. Ilešič, President of the Second Chamber, acting as President of the Third Chamber, C. Toader, M. Berger, E. Jarašiūnas and C.G. Fernlund (Rapporteur), Judges,
+Advocate General: Y. Bot,
+Registrar: V. Tourrès, Administrator,
+having regard to the written procedure and further to the hearing on September 2015,
+after considering the observations submitted on behalf of:
+—
+KA Finanz AG, by S. Albiez and C. Klausegger, Rechtsanwälte,
+—
+Sparkassen Versicherung AG Vienna Insurance Group, by P. Konwitschka, Rechtsanwalt,
+—
+the Spanish Government, by A. Rubio González, acting as Agent,
+—
+the European Commission, by G. Braun, H. Støvlbæk and M. Wilderspin, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2015,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the Rome Convention on the law applicable to contractual obligations opened for signature in Rome on June (OJ L 266, p. 1) (‘the Rome Convention’), Third Council Directive 78/855/EEC of October based on Article 54(3)(g) of the Treaty concerning mergers of public limited liability companies (OJ L 295, p. 36), as amended by Directive 2009/109/EC of the European Parliament and of the Council of September (OJ L 259, p. 14) (‘Directive 78/855’) and Directive 2005/56/EC of the European Parliament and of the Council of October on cross-border mergers of limited liability companies (OJ L 310, p. 1).
+The request has been made in proceedings between KA Finanz AG (‘KA Finanz’), established in Austria, successor in title to Kommunalkredit International Bank LTD (‘Kommunalkredit’), established in Cyprus, and Sparkassen Versicherung AG Vienna Insurance Group (‘Sparkassen Versicherung’), established in Austria, concerning an action brought by Sparkassen Versicherung seeking an order that KA Finanz pay it the interest on several subordinated loans that it granted to Kommunalkredit before the latter was acquired by KA Finanz following a merger.
+Legal context
+EU law
+The Rome Convention
+Article of the Rome Convention, which defines the scope of the convention, provides:
+‘1.   The rules of this Convention shall apply to contractual obligations in any situation involving a choice between the laws of different countries.
+2.   They shall not apply to
+...
+(e)
+questions governed by the law of companies and other bodies corporate or unincorporate such as the creation, by registration or otherwise, legal capacity, internal organisation or winding-up of companies and other bodies corporate or unincorporate and the personal liability of officers and members as such for the obligations of the company or body;
+...’
+Article 3(1) of the Rome Convention provides the following:
+‘A contract shall be governed by the law chosen by the parties. The choice must be expressed or demonstrated with reasonable certainty by the terms of the contract or the circumstances of the case ...’
+Under Article of that convention:
+‘1.   The law applicable to a contract by virtue of Articles to and of this Convention shall govern in particular:
+(a)
+interpretation;
+(b)
+performance;
+(c)
+within the limits of the powers conferred on the court by its procedural law, the consequences of breach, including the assessment of damages in so far as it is governed by rules of law;
+(d)
+the various ways of extinguishing obligations, and prescription and limitation of actions;
+...
+2.   In relation to the manner of performance and the steps to be taken in the event of defective performance, regard shall be had to the law of the country in which performance takes place.’
+The Rome Convention was replaced by Regulation (EC) No 593/of the European Parliament and of the Council of June on the law applicable to contractual obligations (OJ L 177, p. 6) (‘the Rome I Regulation’). Under Article thereof, that regulation applies to contracts concluded after December 2009.
+Directive 78/The third and sixth recitals of Directive 78/state:
+‘... the protection of the interests of members and third parties requires that the laws of the Member States relating to mergers of public limited liability companies be coordinated and ... provision for mergers should be made in the laws of all the Member States;
+...
+... creditors, including debenture holders, and persons having other claims on the merging companies must be protected so that the merger does not adversely affect their interests’.
+Article of that directive reads as follows:
+‘1.   The laws of the Member States must provide for an adequate system of protection of the interests of creditors of the merging companies whose claims antedate the publication of the draft terms of merger and have not fallen due at the time of such publication.
+2.   To that end, the laws of the Member States shall at least provide that such creditors shall be entitled to obtain adequate safeguards where the financial situation of the merging companies makes such protection necessary and where those creditors do not already have such safeguards.
+Member States shall lay down the conditions for the protection provided for in paragraph and in the first subparagraph of this paragraph. In any event, Member States shall ensure that the creditors are authorised to apply to the appropriate administrative or judicial authority for adequate safeguards provided that they can credibly demonstrate that due to the merger the satisfaction of their claims is at stake and that no adequate safeguards have been obtained from the company.
+3.   Such protection may be different for the creditors of the acquiring company and for those of the company being acquired.’
+Under Article of the directive:
+‘Without prejudice to the rules governing the collective exercise of their rights, Article shall apply to the debenture holders of the merging companies, except where the merger has been approved by a meeting of the debenture holders, if such a meeting is provided for under national laws, or by the debenture holders individually.’
+Article of the directive provides:
+‘Holders of securities, other than shares, to which special rights are attached, must be given rights in the acquiring company at least equivalent to those they possessed in the company being acquired, unless the alteration of those rights has been approved by a meeting of the holders of such securities, if such a meeting is provided for under national laws, or by the holders of those securities individually, or unless the holders are entitled to have their securities repurchased by the acquiring company.’
+Directive 78/was repealed by Directive 2011/35/EU of the European Parliament and of the Council of April concerning mergers of public limited liability companies (OJ L 110, p. 1). In accordance with Article of Directive 2011/35, that directive entered into force on July 2011.
+Directive 2005/It is apparent from recital of Directive 2005/that the purpose of the directive is to facilitate the carrying-out of cross-border mergers between various types of limited liability company governed by the laws of different Member States.
+In accordance with recital of the directive, ‘in order to facilitate cross-border merger operations, it should be laid down that, unless this Directive provides otherwise, each company taking part in a cross-border merger, and each third party concerned, remains subject to the provisions and formalities of the national law which would be applicable in the case of a national merger ...’.
+Article of the directive states:
+‘For the purpose of this Directive:
+...
+2.
+“merger” means an operation whereby:
+(a)
+one or more companies, on being dissolved without going into liquidation, transfer all their assets and liabilities to another existing company, the acquiring company, in exchange for the issue to their members of securities or shares representing the capital of that other company and, if applicable, a cash payment not exceeding 10% of the nominal value, or, in the absence of a nominal value, of the accounting par value of those securities or shares; or
+...’
+Article of Directive 2005/56, entitled ‘Conditions relating to cross-border mergers’, states:
+‘1.   Save as otherwise provided in this Directive,
+...
+(b)
+a company taking part in a cross-border merger shall comply with the provisions and formalities of the national law to which it is subject ...
+2.   The provisions and formalities referred to in paragraph 1(b) shall, in particular, include those concerning the decision-making process relating to the merger and, taking into account the cross-border nature of the merger, the protection of creditors of the merging companies, debenture holders and the holders of securities or shares, as well as of employees as regards rights other than those governed by Article ...’
+Article of that directive, entitled ‘Consequences of the cross-border merger’, provides, in paragraph 1:
+‘A cross-border merger carried out as laid down in points (a) and (c) of Article 2(2) shall, from the date referred to in Article 12, have the following consequences:
+(a)
+all the assets and liabilities of the company being acquired shall be transferred to the acquiring company;
+...
+(c)
+the company being acquired ceases to exist …’
+Austrian law
+Paragraph of the Law on limited liability companies (Aktiengesetz), of March (BGB1. 98/1965), in the version applicable to the facts of the main proceedings (‘the AktG’), entitled ‘Protection of creditors’, governs the protection of creditors in the event of a merger. It reads:
+‘1.   Provided that they come forward within a period of six months from publication of the registration of the merger, creditors of the companies concerned must be given guarantees if they cannot seek the satisfaction of their claims. However, that right is afforded to creditors only if they are able to furnish credible evidence to show that the merger poses a risk to the payment of their claim. Creditors are to be advised of that right when the merger registration is published.
+2.   The right to seek guarantees does not extend to creditors who, in the context of insolvency proceedings, are entitled to the preferential satisfaction of claims from an insolvency estate that has been established in accordance with the law for the purposes of their protection and is subject to the supervision of the competent authority.
+3.   Holders of debentures and participation certificates are to be granted rights of equal value or else be paid reasonable compensation for the alteration of those rights or for the right itself.’
+According to the referring court, Paragraph 226(3) of the AktG was enacted for the purposes of transposing Article of Directive 78/855.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+In the course of 2005, Sparkassen Versicherung took out two subordinated loans issued by Kommunalkredit. The conditions of issue of those loans, which are identical for both loans (‘the conditions of issue’), determine the nature of the loans, set out the conditions of their subordination and the rules on the payment of interest, and determine the applicable law.
+Under clause of the conditions of issue:
+‘Status. The claims under the notes constitute unsecured and subordinated claims against the issuer ranking pari passu among themselves and with any other subordinated claim against the issuer. In the event of the dissolution, liquidation or insolvency of the issuer, the claims arising from the notes may be settled only after the non-subordinated claims have been satisfied so that in any such event no amounts shall be payable in respect of the notes until the claims of all unsubordinated creditors of the issuer shall have been satisfied in full or these amounts have been fully provided for. No holder may set off his claims arising under the notes against any claims of the issuer. No contractual security may be provided, and will not at any time in the future be provided by the issuer or any other person to secure rights of the holders under the notes. No future agreement may limit the subordinated nature of claims as described in the present paragraph, bring forward the maturity date of the notes or reduce the applicable notice period.’
+Clause 4(1)(b) of the conditions of issue reads:
+‘Payment of interest. Payments of the Principal Amount or interest may only be made if, as a result of such payment, the own funds to be taken into account of the issuer do not fall below the minimum requirements as set out in the relevant directive on the computation of the capital base of banks issued by the Central Bank of Cyprus.’
+Clause of the conditions of issue states as follows:
+‘Events of default. Each holder shall be entitled to declare his notes due and demand immediate redemption thereof at the early redemption amount …, together with accrued interest (if any) to the date of repayment, in the event that the issuer enters into a liquidation and winding-up or dissolution (other than for the purposes of or pursuant to an amalgamation, reorganisation or restructuring while solvent, where the continuing entity assumes substantially all of the assets and obligations of the issuer).’
+Lastly, clause 12(1) of the conditions of issue provides:
+‘Applicable law. The form and content of the notes and all the rights and obligations of the holders and the issuer are to be governed by German law.’
+Before ceasing to meet, from late 2008, the minimum requirements applicable to own funds laid down in the guidelines issued by the Central Bank of Cyprus, Kommunalkredit stopped paying Sparkassen Versicherung the interest stipulated in the conditions of issue.
+Kommunalkredit was acquired by KA Finanz following a merger. The merger was registered in the Austrian commercial and companies register on September and, accordingly, took effect from that date.
+Before the Austrian courts, Sparkassen Versicherung sought from KA Finanz the payment of the interest stipulated on both subordinated loans at issue in the main proceedings for and 2010. In the alternative, Sparkassen Versicherung claims that KA Finanz must grant it rights of equal value, within the meaning of Paragraph 226(3) of the AktG, and that KA Finanz be held liable for all damage arising from its failure to grant it such rights.
+KA Finanz contends, primarily, that the merger operation had the effect of terminating both of the subordinated loans at issue in the main proceedings. Alternatively, it submits that the liabilities arising from those loans were not transferred to it, since the loans had become worthless due to the disappearance of the entirety of Kommunalkredit’s own funds.
+KA Finanz submits that, since the payment of interest and capital depended on Kommunalkredit’s endowment of own funds, those loans were in the nature of own funds and constituted participation certificates within the meaning of Paragraph 226(3) of the AktG. According to KA Finanz, in view of the losses suffered by Kommunalkredit, whose very existence was in danger and which had, as at December 2008, negative own funds of approximately EUR billion, the certificates at issue had become worthless by the time of the merger. KA Finanz concludes from this that, in the light of such losses, it was not bound to grant rights of equal value to the holders of those certificates or pay them any compensation.
+At first instance, Handelsgericht Wien (Commercial Court, Vienna) dismissed KA Finanz’s action for an interim declaration that the securities at issue in the main proceedings had been extinguished on the merger and that Kommunalkredit’s obligations resulting from the subordinated loans had not been transferred to it.
+That court held that the securities at issue were neither participation certificates nor liabilities in the nature of shares, since they were not in the nature of own funds and did not depend on Kommunalkredit’s profits. Consequently, it held that KA Finanz was not entitled to terminate those securities as part of the merger. In addition, it considered that the subordinated loans had been transferred to KA Finanz as part of the transfer of the entirety of Kommunalkredit’s assets and liabilities.
+The referring court states that the Handelsgericht Wien (Commercial Court, Vienna) gave its judgment without ruling on the question of the law applicable to the dispute brought before it.
+On appeal, the Oberlandesgericht Wien (Higher Regional Court, Vienna) upheld the judgment of the Handelsgericht Wien (Commercial Court, Vienna) after having stated that the legal effects of a merger fall under the law governing the legal person and that the protection of creditors must be assessed in the light of the law governing that legal person, namely Austrian company law, in this instance.
+The Oberlandesgericht Wien (Higher Regional Court, Vienna) took the view that Paragraph 226(3) of the AktG, on the basis of which KA Finanz claims that the merger had the effect of terminating the securities at issue in the main proceedings, was not applicable to those securities. That provision covers only holders of securities, the characteristics of which enable such holders to be assimilated to a shareholder, or render them similar to own funds, and holders of profit-sharing certificates conferring rights which typically form part of the financial and property rights of a shareholder, including, inter alia, the right to a share of the profits and/or of the liquidation proceeds.
+However, that court found that that was not the case in this instance, as could be concluded from the conditions of issue. The court stated, in addition, that those conditions do not provide that the loans at issue cease definitively if the own funds fall below the minimum supervisory level, but merely that those loans are not payable for as long as the minimum requirements are not met.
+KA Finanz brought an appeal on a point of law (Revision) before the Oberster Gerichtshof (Supreme Court) on whether, as stated by that court, Paragraph 226(3) of the AktG applies to the subordinated loans at issue in the main proceedings.
+In order to rule on the case in the main proceedings, the Oberster Gerichtshof (Supreme Court) seeks to ascertain the law applicable to the dispute at hand. In that regard, the Oberster Gerichtshof stated that it had been agreed, when the loans at issue in the main proceedings were taken out, that German law would apply, that the company issuing those loans, Kommunalkredit, had its seat in Cyprus, and that the company which acquired Kommunalkredit, namely KA Finanz, and the company having taken out those loans, namely Sparkassen Versicherung, had their seats in Austria.
+The referring court states that the Rome I Regulation is not applicable to the loans at issue in the main proceedings, since they were taken out before December 2009.
+In addition, the Oberster Gerichtshof (Supreme Court) seeks to determine, first, whether the certificates at issue in the main proceedings constitute securities within the meaning of Article of Directive 78/and, second, whether the rules on the protection of creditors, set out in that article, preclude a provision of national law, such as Paragraph 226(3) of the AktG, on the basis of which a company issuing securities, other than shares, to which special rights are attached, is entitled to terminate unilaterally the legal relationship between it and holders of those securities and to pay them off.
+In those circumstances the Oberster Gerichtshof (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article 1(2)(e) of the Rome Convention to be interpreted as meaning that the “company law” excepted area includes:
+(a)
+reorganisations such as mergers and divisions, and
+(b)
+in connection with reorganisations, the creditor protection provision in Article of Directive 78/855?
+(2)
+Is the conclusion the same if Article of Directive 2011/is applicable?
+(3)
+If the replies to Questions and are in the affirmative, does the excepted area in Article 1(2)(d) of the Rome I Regulation — as the successor provision to Article 1(2)(e) of the Rome Convention — lead to the same conclusion, or must it be interpreted differently? If so, how?
+(4)
+Are any requirements concerning the treatment of mergers in relation to conflict of laws to be inferred from European primary law such as the freedom of establishment under Article TFEU, the freedom to provide services under Article TFEU and the free movement of capital and payments under Article TFEU, in particular as to whether the national law of the State of the company being acquired or the national law of the acquiring company is to be applied?
+(5)
+If Question is answered in the negative: are any principles concerning treatment in relation to conflict of laws to be inferred from European secondary law such as Directive 2005/56, Directive 2011/or Sixth Council Directive 82/891/EEC of December based on Article 54(3)(g) of the Treaty concerning the division of public limited liability companies (OJ L 378, p. 47), in particular as to whether the national law of the State of the company being acquired or the national law of the acquiring company is to be applied, or are national conflict-of-law rules free to decide to which substantive national law reference should be made?
+(6)
+Is Article of Directive 78/to be interpreted as meaning that the issuer is entitled, as against holders of securities, other than shares, to which special rights are attached, particularly in the case of subordinated loans, to terminate the legal relationship and to pay off the persons entitled in the case of a cross-border merger?
+(7)
+May the same conclusion be reached by applying Article of Directive 2011/35?’
+Consideration of the questions referred for a preliminary ruling
+As a preliminary point, it should be noted that, under Article 2(a) of the First Protocol of December on the interpretation by the Court of Justice of the European Communities of the Convention on the law applicable to contractual obligations, opened for signature in Rome on June (OJ L 48, p. 1), the Court has jurisdiction to give a ruling on questions relating to that convention in the context of a request for a preliminary ruling made by the Oberster Gerichtshof (Supreme Court).
+In addition, according to settled case-law of the Court, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment in Verder LabTec, C‑657/13, EU:C:2015:331, paragraph and the case-law cited).
+In that regard, the Court notes, first, that since Directive 2011/entered into force only on July 2011, that is after the date of the facts at issue in the main proceedings, the second question, the fifth question, in so far as it concerns the interpretation of Directive 2011/35, and the seventh question are inadmissible.
+Second, the Rome I Regulation, Article of which provides that it applies to contracts concluded after December — as the referring court also stated — was not in force when the contracts at issue in the main proceedings were concluded, namely during the course of 2005. The third question is therefore inadmissible.
+Third, it is common ground that the case in the main proceedings relates to the effects on subordinated loans of a merger by acquisition of two companies. The first question is therefore inadmissible in so far as it relates to the interpretation of Article 1(2)(e) of the Rome Convention as regards divisions of companies. In addition, since Directive 82/concerns divisions of companies, the fifth question is also inadmissible in so far as it relates to the interpretation of that directive.
+It follows that only the first question, in so far as it does not concern the interpretation of Article 1(2)(e) of the Rome Convention as regards divisions of companies, the fourth question, the fifth question, in so far as it relates to the interpretation of Directive 2005/56, and the sixth question are admissible.
+As regards the first, fourth and fifth questions, it is clear from the request for a preliminary ruling that the national court referred those questions so as to be able to rule on how the contracts at issue in the main proceedings are to be treated following the merger by acquisition of Kommunalkredit by KA Finanz, which means, in its view, that the issue of the law applicable to those contracts after the merger, must first be resolved.
+Accordingly, the first, fourth and fifth questions, in so far as they are admissible, relate, in essence, to the determination of the law applicable, in the light of EU law, following a cross-border merger by acquisition, first, to the interpretation of a loan contract, such as the loan contracts at issue in the main proceedings, taken out by the acquired company, to the performance of the obligations under the contract and to how those obligations are extinguished, and, second, to the claim, as pleaded in the alternative by Sparkassen Versicherung, by which a creditor seeks to rely on the creditor protection laid down in Article of Directive 78/855.
+As regards the sixth question, the referring court seeks to ascertain, in essence, whether Article of Directive 78/must be interpreted as meaning that that provision grants rights to the issuer of securities, other than shares, to which special rights are attached.
+In order to resolve the issue of the law applicable, following a cross-border merger by acquisition, to the interpretation of a loan contract, such as the loans at issue in the main proceedings, taken out by the acquired company, to the performance of the obligations under the contract and to how those obligations are extinguished, it must first be determined whether and to what extent the Rome Convention is applicable to such a contract.
+In that regard, it should be noted that, under Article 1(1) of the Rome Convention, the rules of the convention are applicable to contractual obligations in any situation involving a choice between the laws of different countries.
+However, as an exception to that choice of law rule, Article 1(2)(e) of the Rome Convention excludes from its scope questions governed by the law of companies or other bodies corporate or unincorporate such as the creation, legal capacity, internal organisation or winding-up of companies and other bodies corporate or unincorporate and the personal liability of officers and members as such for the obligations of the company or body.
+It is clear from the Report on the Convention on the law applicable to contractual obligations by Mario Giuliano, professor at the University of Milan and Paul Lagarde, professor at the University of Paris I (OJ C 282, p. 1), that questions governed by the law of companies or other bodies corporate or unincorporated were not included within the scope of the Rome Convention in view of the work being conducted on the subject of company law within the European Communities. It is also clear from the report that contracts governing the winding-up of companies, such as mergers or groupings of companies, are listed among those covered by the exceptions set in Article 1(2) of the Rome Convention. The Convention does not therefore apply to the merger of companies.
+However, in so far as the documents before the Court show that the contracts at issue in the main proceedings fell, before the merger of KA Finanz with Kommunalkredit, within the scope of the Rome Convention and that the contracting parties had chosen, in accordance with Article 3(1) of the Convention, German law as the law applicable to those contracts, it needs to be determined whether that law continues to govern those contracts after the merger, and, accordingly, pursuant to Article 10(1) of the Convention, their interpretation, the performance of the obligations to which they give rise and how those obligations are extinguished.
+To that end, the legislation adopted by the EU legislature in the field of company law must be considered in the second place. In that regard, it should be noted that company law has been the subject of two pieces of legislation, intended both to organise the procedure for mergers and to govern their legal effects, namely, first, Directive 78/855, adopted with a view, as is apparent from its third recital, to coordinating the laws of the Member States relating to mergers of public limited liability companies, and to making provision for mergers in the laws of all the Member States and, second, Directive 2005/56, adopted with a view, as is apparent from recital of that directive, to facilitating the carrying-out of cross-border mergers between various types of limited liability company governed by the laws of different Member States.
+Accordingly, since the case in the main proceedings concerns how subordinated loans are to be dealt with following a cross-border merger, it is on the basis of Directive 2005/that the effect that merger had on such loans needs to be determined.
+It is stated in Article 2(2)(a) of Directive 2005/that a merger by acquisition is an operation whereby one or more companies, on being dissolved without going into liquidation, transfer all their assets and liabilities to another existing company, namely the acquiring company.
+As regards the effects of such an operation, it is stated in Article 14(2)(a) of Directive 2005/that a cross-border merger brings about, from the date when the merger takes effect, the transfer of all the assets and liabilities of the company being acquired to the acquiring company.
+A merger by acquisition therefore entails the acquisition by the acquiring company of the company being acquired in its entirety, without extinguishing the obligations that a winding-up would have brought about, and, without novation, has the effect of substituting the acquiring company for the company being acquired as party to all of the contracts concluded by the latter. Consequently, the law which was applicable to those contracts before the merger continues to be applicable after the merger.
+It follows that EU law must be interpreted as meaning that the law applicable following a cross-border merger by acquisition to the interpretation of a loan contract taken out by the acquired company, such as the loan contracts at issue in the main proceedings, to the performance of the obligations under the contract and to how those obligations are extinguished is the law which was applicable to that contract before the merger.
+As regards the protection of the interests of creditors in the case of a cross-border merger, on which Sparkasse Versicherung relies in its claim in the alternative, the Court notes that recital and Article of Directive 2005/state that a company participating in a cross-border merger remains subject, as far as, inter alia, the protection of its creditors is concerned, to the provisions and formalities of the national law which would be applicable in the case of a national merger.
+It follows that the provisions governing the protection of the creditors of the acquired company, in a case such as that at issue in the main proceedings, are those of national law which were applicable to that company.
+In so far as, in the case of a national merger, the Member States must act in accordance with Articles to of Directive 78/in relation to the protection of creditors, they must therefore also adhere to those provisions in the case of a cross-border merger.
+Whereas Articles and of Directive 78/concern the protection of creditors, whether debenture holders or not, Article of that directive concerns the protection of holders of securities other than shares to which special rights are attached.
+The question thus arises of how to distinguish the securities referred to in Article of Directive 78/from the other forms of securities.
+In that regard, it is clear from the drafting history of Directive 78/855, namely the proposal for a Third Council Directive on the coordination of safeguards which, for the protection of the interests of both members and third parties, are required by Member States of companies within the meaning of the second paragraph of Article of the Treaty, concerning mergers of public limited liability companies (JO C 89, p. 20) and the amended proposal for a Third Council Directive on the coordination of safeguards which, for the protection of the interests of both members and third parties, are required by Member States of companies within the meaning of the second paragraph of Article of the Treaty, concerning mergers of public limited liability companies (COM(72) final), that securities, other than shares, to which special rights are attached, within the meaning of Article of Directive 78/855, refer, in addition to other securities, to debentures exchangeable for shares, debentures conferring a right of pre-emption over share capital to be issued, profit-sharing debentures and rights to be issued shares.
+Consequently, such securities are those which grant their holders rights which are broader than the mere reimbursement of debts and stipulated interest. The same applies, in particular, to securities acknowledging a right of their holders to exchange such securities for shares or the right to share in the profits of the issuing company.
+In the present case, it is stated in the conditions of issue, as they have been described by the referring court, that the securities at issue in the main proceedings do not appear to grant their holders rights which are broader than a mere reimbursement of the debts and the stipulated interest. It would therefore seem that such securities do not fall within the scope of Article of Directive 78/855, which is a matter to be ascertained by the referring court.
+Should the referring court find that not to be the case, it should be noted that Article of Directive 78/lays down that the holders of securities, other than shares, to which special rights are attached, within the meaning of that provision, must be given rights in the acquiring company at least equivalent to those they possessed in the company being acquired, unless the alteration of those rights has been approved by a meeting of the holders of such securities, if such a meeting is provided for under national laws, or by the holders of those securities individually, or unless the holders are entitled to have their securities repurchased by the acquiring company.
+It is therefore clear from the wording of Article of Directive 78/that that article aims to safeguard the interests of holders of securities, other than shares, to which special rights are attached.
+However, in so far as the request for a preliminary ruling states that Paragraph 226(3) of the AktG was introduced for the purposes of transposing Article of Directive 78/and the former provision seems to grant the issuer of such securities the right unilaterally to terminate the legal relationship between it and the holders of those securities and to pay off those holders, it must be held that such a right is incompatible with the wording and purpose of Article of Directive 78/855, which grants rights to the holders of such securities but not to their issuer. Consequently, a provision such as Paragraph 226(3) of the AktG cannot be regarded as transposing Article of Directive 78/855.
+It follows that Article of Directive 78/must be interpreted as meaning that that provision grants rights to holders of securities, other than shares, to which special rights are attached, but not to the issuer of such securities.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+EU law must be interpreted as meaning that:
+—
+the law applicable following a cross-border merger by acquisition to the interpretation of a loan contract taken out by the acquired company, such as the contracts at issue in the main proceedings, to the performance of the obligations under the contract and to how those obligations are extinguished is the law which was applicable to the contract before the merger;
+—
+the provisions governing the protection of the creditors of the acquired company, in a case such as that at issue in the main proceedings, are those of national law which were applicable to that company.
+ 
+2.
+Article of Third Council Directive 78/855/EEC of October based on Article 54(3)(g) of the Treaty concerning mergers of public limited liability companies, as amended by Directive 2009/109/EC of the European Parliament and of the Council of September 2009, must be interpreted as granting rights to holders of securities, other than shares, to which special rights are attached, but not to the issuer of such securities.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

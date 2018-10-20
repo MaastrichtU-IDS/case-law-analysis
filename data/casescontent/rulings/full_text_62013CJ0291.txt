@@ -1,0 +1,224 @@
+
+JUDGMENT OF THE COURT (Seventh Chamber)
+September (
+*)
+‛Reference for a preliminary ruling — Directive 2000/31/EC — Scope — Defamation proceedings’
+In Case C‑291/13,
+REQUEST for a preliminary ruling under Article TFEU from the Eparkhiako Dikastirio Lefkosias (Cyprus), made by decision of March 2013, received at the Court on May 2013, in the proceedings
+Sotiris Papasavvas
+v
+O Fileleftheros Dimosia Etairia Ltd,
+Takis Kounnafi,
+Giorgos Sertis,
+THE COURT (Seventh Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, J.-C. Bonichot (Rapporteur), and A. Arabadjiev, Judges
+Advocate General: N. Jääskinen,
+Registrar: A. Calot Escobar,
+after considering the observations submitted on behalf of:
+—
+Mr Papasavvas, by Ch. Christaki, dikigoros,
+—
+O Fileleftheros Dimosia Etaireia Ltd, by L. Paschalidis, dikigoros,
+—
+the Cypriot Government, by K. Likourgos, acting as Agent,
+—
+the Polish Government, by B. Majczyna, acting as Agent,
+—
+the European Commission, by H. Tserepa-Lacombe and F. Wilman, acting as Agents,
+having regard to the written procedure,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Directive 2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (OJ L 178, p. 1).
+The request has been made in proceedings between Mr Papasavvas, on the one hand, and O Fileleftheros Dimosia Etairia Ltd, Mr Kounnafi and Mr Sertis, on the other, concerning an action for damages brought by Mr Papasavvas as a result of harm suffered by him caused by acts considered to constitute defamation.
+Legal context
+EU law
+Recital in the preamble to Directive 2000/is worded as follows:
+‘The definition of information society services already exists in Community law … ; this definition covers any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data …’
+Recital in the preamble to that directive states:
+‘… [I]nformation society services …, in so far as they represent an economic activity, extend to services which are not remunerated by those who receive them, such as those offering on-line information or commercial communications, or those providing tools allowing for search, access and retrieval of data; information society services also include services consisting of the transmission of information via a communication network, in providing access to a communication network or in hosting information provided by a recipient of the service; …’
+Recital in the preamble to that directive states:
+‘Information society services should be supervised at the source of the activity, in order to ensure an effective protection of public interest objectives; … moreover, in order to effectively guarantee freedom to provide services and legal certainty for suppliers and recipients of services, such information society services should in principle be subject to the law of the Member State in which the service provider is established.’
+Recital in the preamble to that directive states:
+‘The exemptions from liability established in this Directive cover only cases where the activity of the information society service provider is limited to the technical process of operating and giving access to a communication network over which information made available by third parties is transmitted or temporarily stored, for the sole purpose of making the transmission more efficient; this activity is of a mere technical, automatic and passive nature, which implies that the information society service provider has neither knowledge of nor control over the information which is transmitted or stored.’
+Recital in the preamble to Directive 2000/is worded as follows:
+‘A service provider can benefit from the exemptions for “mere conduit” and for “caching” when he is in no way involved with the information transmitted; this requires among other things that he does not modify the information that he transmits; this requirement does not cover manipulations of a technical nature which take place in the course of the transmission as they do not alter the integrity of the information contained in the transmission.’
+Article of that directive provides:
+‘For the purpose of this Directive, the following terms shall bear the following meanings:
+(a)
+“information society services”: services within the meaning of Article 1(2) of Directive 98/34/EC [Directive 98/34/EC of the European Parliament and of the Council of June laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (OJ L 204, p. 37)], as amended by Directive 98/48/EC [of the European Parliament and of the Council of July (OJ L 217, p. 18) (‘Directive 98/34’)];
+(b)
+“service provider”: any natural or legal person providing an information society service;
+(c)
+“established service provider”: a service provider who effectively pursues an economic activity using a fixed establishment for an indefinite period. The presence and use of the technical means and technologies required to provide the service do not, in themselves, constitute an establishment of the provider;
+…
+(h)
+“coordinated field”: requirements laid down in Member States’ legal systems applicable to information society service providers or information society services, regardless of whether they are of a general nature or specifically designed for them.
+(i)
+The coordinated field concerns requirements with which the service provider has to comply in respect of:
+…
+—
+the pursuit of the activity of an information society service, such as requirements concerning the behaviour of the service provider, requirements regarding the quality or content of the service including those applicable to advertising and contracts, or requirements concerning the liability of the service provider;
+…’
+Under Article of Directive 2000/31, entitled ‘Internal market’:
+‘(1)   Each Member State shall ensure that the information society services provided by a service provider established on its territory comply with the national provisions applicable in the Member State in question which fall within the coordinated field.
+(2)   Member States may not, for reasons falling within the coordinated field, restrict the freedom to provide information society services from another Member State.
+(3)   Paragraphs and shall not apply to the fields referred to in the Annex.
+(4)   Member States may take measures to derogate from paragraph in respect of a given information society service if the following conditions are fulfilled:
+(a)
+the measures shall be:
+(i)
+necessary for one of the following reasons:
+—
+public policy, …
+…
+—
+the protection of consumers, …
+(ii)
+taken against a given information society service which prejudices the objectives referred to in point (i) or which presents a serious and grave risk of prejudice to those objectives;
+(iii)
+proportionate to those objectives;
+…’
+Articles to of that directive come under Section 4, entitled ‘Liability of intermediary service providers’.
+Article of Directive 2000/31, entitled ‘Mere conduit’, provides:
+‘(1)   Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, Member States shall ensure that the service provider is not liable for the information transmitted, on condition that the provider:
+(a)
+does not initiate the transmission;
+(b)
+does not select the receiver of the transmission;
+and
+(c)
+does not select or modify the information contained in the transmission.
+(2)   The acts of transmission and of provision of access referred to in paragraph include the automatic, intermediate and transient storage of the information transmitted in so far as this takes place for the sole purpose of carrying out the transmission in the communication network, and provided that the information is not stored for any period longer than is reasonably necessary for the transmission.
+(3)   This Article shall not affect the possibility for a court or administrative authority, in accordance with Member States’ legal systems, of requiring the service provider to terminate or prevent an infringement.’
+Article of Directive 2000/31, entitled ‘Caching’, states:
+‘(1)   Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, Member States shall ensure that the service provider is not liable for the automatic, intermediate and temporary storage of that information, performed for the sole purpose of making more efficient the information’s onward transmission to other recipients of the service upon their request, on condition that:
+(a)
+the provider does not modify the information;
+(b)
+the provider complies with conditions on access to the information;
+(c)
+the provider complies with rules regarding the updating of the information, specified in a manner widely recognised and used by industry;
+(d)
+the provider does not interfere with the lawful use of technology, widely recognised and used by industry, to obtain data on the use of the information;
+and
+(e)
+the provider acts expeditiously to remove or to disable access to the information it has stored upon obtaining actual knowledge of the fact that the information at the initial source of the transmission has been removed from the network, or access to it has been disabled, or that a court or an administrative authority has ordered such removal or disablement.
+(2)   This Article shall not affect the possibility for a court or administrative authority, in accordance with Member States’ legal systems, of requiring the service provider to terminate or prevent an infringement.’
+Under Article of that directive, entitled ‘Hosting’:
+‘(1)   Where an information society service is provided that consists of the storage of information provided by a recipient of the service, Member States shall ensure that the service provider is not liable for the information stored at the request of a recipient of the service, on condition that:
+(a)
+the provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent;
+or
+(b)
+the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information.
+(2)   Paragraph shall not apply when the recipient of the service is acting under the authority or the control of the provider.
+(3)   This Article shall not affect the possibility for a court or administrative authority, in accordance with Member States’ legal systems, of requiring the service provider to terminate or prevent an infringement, nor does it affect the possibility for Member States of establishing procedures governing the removal or disabling of access to information.’
+Article of that directive, entitled ‘Court actions’, provides in paragraph 1:
+‘Member States shall ensure that court actions available under national law concerning information society services’ activities allow for the rapid adoption of measures, including interim measures, designed to terminate any alleged infringement and to prevent any further impairment of the interests involved.’
+Article of Directive 98/provides:
+‘For the purposes of this Directive, the following meanings shall apply:
+…
+(2)
+“service”, any Information Society service, that is to say, any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.
+For the purposes of this definition:
+—
+“at a distance” means that the service is provided without the parties being simultaneously present,
+—
+“by electronic means” means that the service is sent initially and received at its destination by means of electronic equipment for the processing (including digital compression) and storage of data, and entirely transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means,
+—
+“at the individual request of a recipient of services” means that the service is provided through the transmission of data on individual request.
+An indicative list of services not covered by this definition is set out in Annex V.
+…’
+Cypriot law
+The civil wrong of defamation is regulated in Cyprus by sections to in Chapter of the Law on Civil Wrongs.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On November 2010, Mr Papasavvas brought an action for damages before the Eparchiako Dikastirio Lefkosias against O Fileleftheros Dimosia Etaireia Ltd, a newspaper company, and against Mr Kounnafi, Editor-in-Chief and journalist at O Fileleftheros, and Mr Sertis, journalist at that newspaper, for acts which, in his opinion, constitute defamation.
+Mr Papasavvas seeks damages for harm allegedly caused to him by articles published in the daily national newspaper O Fileleftheros, on November 2010, which were published online on two websites (http://www.philenews.com and http://www.phileftheros.com). He requests also the national court to order a prohibitory injunction to prohibit the publication of the contested articles.
+The Eparkhiako Dikastirio Lefkosias considers that the resolution of the case pending before it depends in part on the interpretation of Directive 2000/31.
+In those circumstances, the Eparkhiako Dikastirio Lefkosias decided to stay the proceedings and refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Bearing in mind that the laws of the Member States on defamation affect the capacity to provide information services by electronic means both at national level and within the European Union, might those laws be regarded as restrictions on the provision of information services for the purposes of applying Directive 2000/…?
+(2)
+If the answer to Question is in the affirmative, do the provisions of Articles 12, and of Directive 2000/…, on the question of liability, apply to private civil matters, such as civil liability for defamation, or are they limited to civil liability in matters concerning business to consumer transactions?
+(3)
+Bearing in mind the purpose of Articles 12, and of Directive 2000/… relating to the liability of information society service providers and the fact that, in many Member States, an action must exist in order for a prohibitory injunction to be granted which will remain in force pending full completion of the proceedings, do those articles create individual rights which may be pleaded as defences in law in a civil action for defamation, or must they operate as an obstacle in law to the bringing of such actions?
+(4)
+Do the definitions of “information society service” and “service provider” in Article of Directive 2000/… and Article 1(2) of Directive 98/… cover online information services the remuneration for which is provided not directly by the recipient, but indirectly by means of commercial advertisements posted on the website?
+(5)
+Bearing in mind the definition of “information service provider”, laid down in Article of Directive 2000/31/EC and Article 1(2) of Directive 98/… could the following, or any of them, be regarded as a “mere conduit” or “caching” or “hosting” for the purposes of Articles 12, and of Directive 2000/31:
+(a)
+a newspaper that operates a free website on which the online version of the printed newspaper, with all its articles and advertisements, is posted in pdf format or another similar electronic format;
+(b)
+an online newspaper which is freely accessible but the provider obtains money from commercial advertisements posted on the website, where the information contained in the online newspaper comes from the newspaper’s staff and/or freelance journalists;
+(c)
+a website which provides (a) or (b) above for a subscription?’
+Admissibility
+Mr Papasavvas objects that the request for a preliminary ruling is inadmissible.
+He claims, in particular, that that request was made ‘prematurely’ by the referring court, since the defendants to the main proceedings have not yet lodged a defence and the facts are not yet established. Therefore, the referring court did not have full knowledge of the legal issues at stake in the proceedings pending before it and the questions referred are hypothetical.
+He considers also that Directive 2000/has no connection with the case in the main proceedings, since it concerns only service providers and not the recipients of those services and the answers to the questions referred by the referring court are not necessary in order to resolve the dispute.
+However, the description of the legal and factual framework of the proceedings in the order for reference seems to suffice so as to permit the Court to make a ruling and the fourth question seeks precisely to establish whether or not the main proceedings are within the scope of Directive 2000/31.
+It follows that the request for a preliminary ruling is admissible.
+Consideration of the questions referred
+The fourth question
+By its fourth question, which should be examined first, the referring court asks, in essence, whether Article 2(a) of Directive 2000/must be interpreted as meaning that the concept of ‘information society services’, within the meaning of that provision, covers the provision of online information services for which the service provider is remunerated not by the recipient, but by income generated by advertisements posted on a website.
+In that regard, it should be noted that Article 2(a) of Directive 2000/defines the terms ‘information society services’ by making a reference to Article of Directive 98/34, which refers to any service ‘normally provided for remuneration’, at a distance, by electronic means and at the individual request of a recipient of services.
+As regards the question whether that remuneration must necessarily be provided by the recipient of the service himself, it should be noted that such a condition is expressly excluded by recital in the preamble to Directive 2000/31, in the light of which Article 2(a) of Directive 2000/must be interpreted, which states that information society services extend, in so far as they represent an economic activity, to services ‘which are not remunerated by those who receive them, such as those offering on-line information or commercial communications’.
+That interpretation corresponds to that of the concept of ‘services’ within the meaning of Article TFEU, which also does not require the service to be paid for by those for whom it is performed (see, inter alia, the judgment in Bond van Adverteerders and Others, 352/85, EU:C:1988:196, paragraph 16).
+In the light of the foregoing, the answer to the fourth question is that Article 2(a) of Directive 2000/must be interpreted as meaning that the concept of ‘information society services’, within the meaning of that provision, covers the provision of online information services for which the service provider is remunerated, not by the recipient, but by income generated by advertisements posted on a website.
+The first question
+By its first question, the referring court asks, in essence, whether Directive 2000/precludes the application of rules of civil liability for defamation to information society service providers.
+According to Article 3(1) of that directive, each Member State is to ensure that the information society services provided by a service provider established in its territory comply with the national provisions applicable in the Member State in question which fall within the coordinated field, that field covering, inter alia, as is provided for by Article 2(h) of that directive, the service provider’s rules of civil liability.
+It follows that Directive 2000/does not preclude a Member State from adopting rules of civil liability for defamation, applicable to information society service providers established in its territory.
+By contrast, Article 3(2) of Directive 2000/provides that Member States may not, for reasons falling within the coordinated field, restrict the freedom to provide information society services from another Member State.
+In this case, it appears to result from the order for reference that the services at issue in the main proceedings do not originate in a Member State other than Cyprus, but are supplied by a provider established in that State. In such circumstances, since Article 3(2) of that directive cannot apply, it is not necessary to examine its possible effect.
+It follows that, there being no additional information from the referring court, the answer to the first question is that, in a case such as that at issue in the main proceedings, Directive 2000/does not preclude the application of rules of civil liability for defamation.
+The fifth question
+By its fifth question, the referring court asks, in essence, whether the limitations of civil liability specified in Articles to of Directive 2000/are applicable to the case of a newspaper publishing company which operates a website on which the online version of a newspaper drafted by staff or freelance journalists is posted, that company being, moreover, remunerated by income generated by commercial advertisements posted on that website. The referring court asks also whether the answer to that question depends on whether or not access to that website is free of charge.
+Articles to of Directive 2000/concern situations in which an information society service provider exercises, respectively, a ‘mere conduit’ activity, a type of storage called ‘caching’ or a hosting activity.
+As is apparent from the title of Section of that directive, the behaviour of the service provider referred to by those articles must be restricted to that of an ‘intermediary service provider’.
+It follows, moreover, from recital in the preamble to Directive 2000/that the exemptions from liability established in that directive cover only cases in which the activity of the information society service provider is of a merely technical, automatic and passive nature, which implies that that service provider has neither knowledge of nor control over the information which is transmitted or stored (see the judgment in Google France and Google, C‑236/to C‑238/08, EU:C:2010:159, paragraph 113).
+The Court deduced therefrom, in order to establish whether the liability of a service provider could be limited under Article of Directive 2000/31, that it was necessary to examine whether the role it plays is neutral, in the sense that its conduct is merely technical, automatic and passive, pointing to a lack of knowledge or control of the data which it stores (see, to that effect, the judgments in Google France and Google, EU:C:2010:159, paragraph 114, and L’Oréal and Others, C‑324/09, EU:C:2011:474, paragraph 113).
+The Court therefore held that the mere fact that a referencing service is subject to payment, that the provider sets the payment terms or that it provides general information to its clients cannot have the effect of depriving that provider of the exemptions from liability provided for in Directive 2000/(see the judgments in Google France and Google, EU:C:2010:159, paragraph 116, and L’Oréal and Others, EU:C:2011:474, paragraph 115).
+By contrast, the role played by the provider in the drafting of the commercial message which accompanies the advertising link or in the establishment or selection of keywords is relevant (see the judgment in Google France and Google, EU:C:2010:159, paragraph 118).
+Likewise, where the provider provides assistance entailing, in particular, optimising the presentation of the offers for sale in question or promoting those offers, it does not take a neutral position between the customer-seller concerned and potential buyers but plays an active role of such a kind as to give it knowledge of, or control over, the data relating to those offers for sale (the judgment in L’Oréal and Others, EU:C:2011:474, paragraph 116).
+Consequently, since a newspaper publishing company which posts an online version of a newspaper on its website has, in principle, knowledge about the information which it posts and exercises control over that information, it cannot be considered to be an ‘intermediary service provider’ within the meaning of Articles to of Directive 2000/31, whether or not access to that website is free of charge.
+In the light of the foregoing, the answer to the fifth question is that the limitations of civil liability specified in Articles to of Directive 2000/do not apply to the case of a newspaper publishing company which operates a website on which the online version of a newspaper is posted, that company being, moreover, remunerated by income generated by commercial advertisements posted on that website, since it has knowledge of the information posted and exercises control over that information, whether or not access to that website is free of charge.
+The second question
+By its second question, the referring court asks, in essence, whether the limitations of liability specified in Articles to of Directive 2000/are capable of applying to actions between individuals relating to civil liability for defamation, so as to be able to interpret its national legislation in conformity with that directive.
+In the light of the answer to the fifth question, that it does not seem that the service providers at issue in the main proceedings can be considered to be intermediary service providers within the meaning of Articles to of Directive 2000/31, it may not be necessary to answer that question. Nevertheless, in so far as it is not clearly apparent from the order for reference that the conditions referred to in the fifth question correspond to those of the case in the main proceedings, the Court considers that it is necessary to answer the second question.
+In that regard, it should be noted that Article 2(b) of Directive 2000/defines the concept of ‘service provider’ as any natural or legal person providing an information society service.
+Consequently, the answer to the second question is that the limitations of civil liability specified in Articles to of Directive 2000/are capable of applying in the context of proceedings between individuals relating to civil liability for defamation, where the conditions referred to in those articles are satisfied.
+The third question
+By its third question, the referring court asks, in essence, whether Articles to of Directive 2000/must be interpreted as allowing information society service providers to oppose the bringing of legal proceedings against them and, consequently, the actual adoption of interim measures by a national court. Failing that, it asks whether those articles create individual rights which the service provider concerned may plead as defences in law in the context of legal proceedings such as those in the main proceedings.
+As previously, it could be considered that it is not necessary to answer that question, since the service providers at issue in the main proceedings do not appear capable of being considered to be intermediary service providers referred to by Articles to of Directive 2000/31.
+Nevertheless, the Court wishes to inform the referring court that, in terms of their purpose, those articles do not concern the conditions in which judicial remedies for civil liability may be exercised against those service providers, which, in the absence of any specific provision of EU law, come under the sole competence of the Member States, subject to the principles of equivalence and of effectiveness.
+As regards the question whether those articles create individual rights capable of being invoked by the service provider as grounds of defence in the context of a civil action for defamation, it should be noted that, with regard to proceedings between individuals, such as those at issue in the main proceedings, the Court has consistently held that a directive cannot of itself impose obligations on an individual and cannot therefore be relied on as such against an individual (see, inter alia, the judgments in Marshall, 152/84, EU:C:1986:84, paragraph 48, and Faccini Dori, C‑91/92, EU:C:1994:292, paragraph 20), without prejudice, however, to possible actions for damages capable of being brought against the State for harm caused as a result of infringements of EU law by that State (see, inter alia, the judgment in Francovich and Others, C‑6/and C‑9/90, EU:C:1991:428, paragraph 35).
+Nevertheless, since the expiry of the period for transposing Directive 2000/31, the Member States have been obliged to make provision, in national law, for the exemptions from liability set out in those articles.
+On the assumption that such limitations are not however transposed into national law, the national court called upon to interpret that law is required to do so, as far as possible, in the light of the wording and the purpose of that directive in order to achieve the result pursued by the latter and thereby comply with the third paragraph of Article TFEU (see, inter alia, the judgments in von Colson and Kamann, 14/83, EU:C:1984:153, paragraph 26, and Marleasing, C‑106/89, EU:C:1990:395, paragraph 8).
+As a result, the answer to the third question is that Articles to of Directive 2000/do not allow information society service providers to oppose the bringing of legal proceedings for civil liability against them and, consequently, the adoption of a prohibitory injunction by a national court. The limitations of liability provided for in those articles may be invoked by the provider in accordance with the provisions of national law transposing them or, failing that, for the purpose of an interpretation of that law in conformity with the directive. By contrast, in a case such as that in the main proceedings, Directive 2000/cannot, in itself, create obligations on the part of individuals and therefore cannot be relied on against those individuals.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Seventh Chamber) hereby rules:
+ 
+1.
+Article 2(a) of Directive 2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) must be interpreted as meaning that the concept of ‘information society services’, within the meaning of that provision, covers the provision of online information services for which the service provider is remunerated, not by the recipient, but by income generated by advertisements posted on a website.
+ 
+2.
+In a case such as that at issue in the main proceedings, Directive 2000/does not preclude the application of rules of civil liability for defamation.
+ 
+3.
+The limitations of civil liability specified in Articles to of Directive 2000/do not apply to the case of a newspaper publishing company which operates a website on which the online version of a newspaper is posted, that company being, moreover, remunerated by income generated by commercial advertisements posted on that website, since it has knowledge of the information posted and exercises control over that information, whether or not access to that website is free of charge.
+ 
+4.
+The limitations of civil liability specified in Articles to of Directive 2000/are capable of applying in the context of proceedings between individuals relating to civil liability for defamation, where the conditions referred to in those articles are satisfied.
+ 
+5.
+Articles to of Directive 2000/do not allow information society service providers to oppose the bringing of legal proceedings for civil liability against them and, consequently, the adoption of a prohibitory injunction by a national court. The limitations of liability provided for in those articles may be invoked by the provider in accordance with the provisions of national law transposing them or, failing that, for the purpose of an interpretation of that law in conformity with the directive. By contrast, in a case such as that in the main proceedings, Directive 2000/cannot, in itself, create obligations on the part of individuals and therefore cannot be relied on against those individuals.
+ 
+[Signatures]
+(
+*)	Language of the case: Greek.
+Top  
+ 

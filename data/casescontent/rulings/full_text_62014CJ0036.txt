@@ -1,0 +1,574 @@
+
+ARRÊT DE LA COUR (sixième chambre)
+septembre (*)
+      
+«Manquement d’État – Marché intérieur du gaz naturel – Directive 2009/73/CE – Intervention de l’État consistant en l’obligation d’appliquer des prix de fourniture approuvés par une autorité nationale – Mesure non limitée dans le temps – Absence de contrôle périodique obligatoire du caractère nécessaire de cette mesure et des modalités d’application de celle-ci
+         – Application à un ensemble illimité de bénéficiaires, sans distinction entre les clients ou entre les situations particulières
+         – Proportionnalité»
+      
+Dans l’affaire C‑36/14,
+ayant pour objet un recours en manquement au titre de l’article TFUE, introduit le janvier 2014,
+Commission européenne, représentée par Mmes K. Herrmann et M. Patakia, en qualité d’agents, ayant élu domicile à Luxembourg,
+      
+partie requérante,
+contre
+République de Pologne, représentée par M. B. Majczyna, en qualité d’agent,
+      
+partie défenderesse,
+LA COUR (sixième chambre),
+composée de M. S. Rodin, président de chambre, M. A. Borg Barthet (rapporteur) et Mme M. Berger, juges,
+      
+avocat général: M. Y. Bot,
+greffier: M. A. Calot Escobar,
+vu la procédure écrite,
+vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,
+rend le présent
+Arrêt
+Par sa requête, la Commission européenne demande à la Cour de constater que, en appliquant un régime d’intervention de l’État
+         consistant en l’obligation, pour les entreprises énergétiques, de pratiquer des prix de fournitures du gaz naturel approuvés
+         par le président de l’Urzad Regulacji Energetyki (Office de régulation de l’énergie, ci‑après l’«URE»), obligation qui n’est
+         pas limitée dans le temps et dont le droit national n’impose pas à l’administration de réexaminer périodiquement la nécessité
+         et les modalités d’application dans le secteur du gaz, en fonction de l’évolution de celui-ci, et qui se caractérise par son
+         application à un cercle non défini de bénéficiaires ou de clients, sans établir de distinction entre les clients ou selon
+         leur situation au sein des différentes catégories de clients, la République de Pologne applique une mesure disproportionnée
+         et incompatible avec l’article 3, paragraphe 2, de la directive 2009/73/CE du Parlement européen et du Conseil, du juillet
+         2009, concernant les règles communes pour le marché intérieur du gaz naturel et abrogeant la directive 2003/55/CE (JO L 211,
+         p. 94), et, partant, manque aux obligations qui lui incombent en vertu des dispositions combinées de l’article 3, paragraphe
+         1, et de l’article 3, paragraphe 2, de ladite directive. 
+      
+ Le cadre juridique
+ Le droit de l’Union
+La directive 2009/fait partie, avec la directive 2009/72/CE du Parlement européen et du Conseil, du juillet 2009, concernant
+         des règles communes pour le marché intérieur de l’électricité et abrogeant la directive 2003/54/CE (JO L 211, p. 55), et les
+         règlements (CE) n° 713/du Parlement européen et du Conseil, du juillet 2009, instituant une agence de coopération
+         des régulateurs de l’énergie (JO L 211, p. 1), (CE) n° 714/du Parlement européen et du Conseil, du juillet 2009, sur
+         les conditions d’accès au réseau pour les échanges transfrontaliers d’électricité et abrogeant le règlement (CE) n° 1228/(JO L 211, p. 15), ainsi que (CE) n° 715/du Parlement européen et du Conseil, du juillet 2009, concernant les conditions
+         d’accès aux réseaux de transport de gaz naturel et abrogeant le règlement (CE) n° 1775/(JO L 211, p. 36), du «troisième
+         paquet énergie», adopté au mois de juillet 2009, en ce qui concerne les règles communes pour le marché intérieur du gaz naturel.
+         La directive 2009/a abrogé et a remplacé, avec effet au mars 2011, la directive 2003/55/CE du Parlement européen et du
+         Conseil, du juin 2003, concernant des règles communes pour le marché intérieur du gaz naturel et abrogeant la directive
+         98/30/CE (JO L 176, p. 57), qui était précédemment en vigueur dans le cadre du «deuxième paquet énergie». 
+      
+Selon le considérant de la directive 2009/73, «[l]es libertés que le traité [CE] garantit aux citoyens de l’Union – entre
+         autres, la libre circulation des marchandises, la liberté d’établissement et la libre prestation de services – ne peuvent
+         être effectives que dans un marché entièrement ouvert qui permet à tous les consommateurs de choisir librement leurs fournisseurs
+         et à tous les fournisseurs de fournir librement leurs produits à tous les clients». 
+      
+L’article de cette directive contient un ensemble de définitions, au nombre desquelles figurent les définitions pertinentes
+         suivantes: 
+      
+«1.      ‘entreprise de gaz naturel’, une personne physique ou morale qui remplit au moins une des fonctions suivantes: la production,
+         le transport, la distribution, la fourniture, l’achat ou le stockage de gaz naturel, y compris le [gaz naturel liquéfié (GNL)],
+         et qui assure les missions commerciales, techniques et/ou de maintenance liées à ces fonctions, à l’exclusion des clients
+         finals;
+      
+[...]
+7.      ‘fourniture’, la vente, y compris la revente, à des clients de gaz naturel, y compris de GNL;
+[...]
+24.      ‘client’, un client grossiste ou final de gaz naturel ou une entreprise de gaz naturel qui achète du gaz naturel;
+25.      ‘client résidentiel’, un client achetant du gaz naturel pour sa propre consommation domestique;
+26.      ‘client non résidentiel’: un client achetant du gaz naturel non destiné à son usage domestique;
+27.      ‘client final’, un client achetant du gaz naturel pour sa consommation propre;
+28.      ‘client éligible’, un client qui est libre d’acheter du gaz naturel au fournisseur de son choix au sens de l’article 37; 
+29.      ‘client grossiste’, une personne physique ou morale, autre qu’un gestionnaire de réseau de transport ou de distribution, qui
+         achète du gaz naturel pour le revendre à l’intérieur ou à l’extérieur du réseau où elle est installée».
+      
+L’article de ladite directive, relatif aux obligations de service public et à la protection des consommateurs, dispose:
+      
+«1.      Les États membres, sur la base de leur organisation institutionnelle et dans le respect du principe de subsidiarité, veillent
+         à ce que les entreprises de gaz naturel, sans préjudice du paragraphe 2, soient exploitées conformément aux principes de la
+         présente directive, en vue de réaliser un marché du gaz naturel concurrentiel, sûr et durable sur le plan environnemental,
+         et s’abstiennent de toute discrimination pour ce qui est des droits et des obligations de ces entreprises.
+      
+2.      En tenant pleinement compte des dispositions pertinentes du traité [CE], en particulier de son article 86, les États membres
+         peuvent imposer aux entreprises opérant dans le secteur du gaz, dans l’intérêt économique général, des obligations de service
+         public qui peuvent porter sur la sécurité, y compris la sécurité d’approvisionnement, la régularité, la qualité et le prix
+         de la fourniture, ainsi que la protection de l’environnement, y compris l’efficacité énergétique, l’énergie produite à partir
+         de sources d’énergie renouvelables et la protection du climat. Ces obligations sont clairement définies, transparentes, non
+         discriminatoires et vérifiables et garantissent aux entreprises de gaz naturel de la Communauté un égal accès aux consommateurs
+         nationaux. En matière de sécurité d’approvisionnement, d’efficacité énergétique et de gestion de la demande et pour atteindre
+         les objectifs environnementaux et les objectifs concernant l’énergie produite à partir de sources d’énergie renouvelables,
+         visés au présent paragraphe, les États membres peuvent mettre en œuvre une planification à long terme, en tenant compte du
+         fait que des tiers pourraient vouloir accéder au réseau.
+      
+3.      Les États membres prennent les mesures appropriées pour protéger les clients finals et veillent en particulier à garantir
+         une protection adéquate aux consommateurs vulnérables. Dans ce contexte, chaque État membre définit le concept de consommateurs
+         vulnérables, en faisant éventuellement référence à la pauvreté énergétique et, notamment, à l’interdiction de l’interruption
+         de la connexion au gaz de ces clients lorsqu’ils traversent des difficultés. Les États membres veillent à ce que les droits
+         et les obligations relatifs aux consommateurs vulnérables soient respectés. En particulier, ils prennent des mesures appropriées
+         pour protéger les clients finals raccordés au réseau du gaz dans les régions reculées. Ils peuvent désigner un fournisseur
+         de dernier recours pour les clients raccordés au réseau de gaz. Ils garantissent un niveau de protection élevé des consommateurs,
+         notamment en ce qui concerne la transparence des termes et conditions des contrats, l’information générale et les mécanismes
+         de règlement des litiges. Les États membres veillent à ce que le client éligible puisse effectivement changer aisément de
+         fournisseur. En ce qui concerne au moins les clients résidentiels, ces mesures incluent celles figurant à l’annexe I. 
+      
+[...]
+11.      Les États membres informent la Commission, lors de la mise en œuvre de la présente directive, de toutes les mesures qu’ils
+         ont prises pour remplir les obligations de service public, y compris la protection des consommateurs et la protection de l’environnement,
+         et de leurs effets éventuels sur la concurrence nationale et internationale, que ces mesures nécessitent ou non une dérogation
+         à la présente directive. Ils notifient ensuite à la Commission, tous les deux ans, toute modification apportée à ces mesures,
+         que celles-ci nécessitent ou non une dérogation à la présente directive.»
+      
+L’article de la directive 2009/73, intitulé «Ouverture du marché et réciprocité», énonce, à son paragraphe 1: 
+      
+«Les États membres veillent à ce que les clients éligibles comprennent: 
+a)      jusqu’au 1er juillet 2004, les clients éligibles visés à l’article de la directive 98/30/CE du Parlement européen et du Conseil du
+         juin concernant des règles communes pour le marché intérieur du gaz naturel [(JO L 204, p. 1)]. Les États membres
+         publient, au plus tard le janvier de chaque année, les critères de définition de ces clients éligibles;
+      
+b)      à partir du 1er juillet 2004, tous les clients non résidentiels;
+      
+c)      à partir du 1er juillet 2007, tous les clients.»
+      
+L’article de la directive 2009/73, intitulé «Abrogation», prévoit:
+      
+«La directive 2003/55/CE est abrogée avec effet au mars 2011, sans préjudice des obligations des États membres en ce qui
+         concerne les dates limites de transposition et de mise en application de ladite directive. Les références à la directive abrogée
+         s’entendent comme faites à la présente directive et sont à lire selon le tableau de correspondance figurant à l’annexe II.»
+      
+ Le droit polonais
+En Pologne, les règles de fonctionnement du marché du gaz sont régies, notamment, par la loi du avril sur l’énergie
+         (Dz. U. de 1997, n° 54, position 348), telle que modifiée (ci-après la «loi sur l’énergie»). 
+      
+Les articles à de la loi sur l’énergie et l’arrêté du ministre de l’Économie du juin relatif aux modalités de
+         fixation et de calcul des tarifs et règlements pour la vente de combustibles gazeux prévoient les modalités relatives à la
+         fixation et au calcul de ces tarifs par les entreprises énergétiques. Lesdits tarifs sont, par la suite, soumis pour approbation
+         au président de l’URE. 
+      
+L’article de la loi sur l’énergie, qui impose aux entreprises énergétiques l’obligation de soumettre au président de l’URE,
+         pour approbation, les tarifs qu’elles entendent pratiquer, dispose: 
+      
+«1.      Les entreprises énergétiques titulaires d’une concession établissent des tarifs pour les combustibles gazeux et l’énergie,
+         qui sont soumis à l’approbation du président de l’URE, et elles proposent la durée d’application desdits tarifs. Les entreprises
+         énergétiques titulaires d’une concession soumettent leurs tarifs au président de l’URE, de leur propre initiative ou à la
+         demande de celui-ci. 
+      
+2.      Le président de l’URE approuve les tarifs ou refuse de les approuver s’il constate qu’ils sont incompatibles avec les principes
+         et dispositions visés aux articles à 46. 
+      
+2a.      Le président de l’URE approuve, à la demande d’une entreprise énergétique et pour une durée maximale de trois ans, un tarif
+         comprenant les prix et les droits à acquitter dont les montants n’excèdent pas ceux des prix et des droits en vigueur avant
+         leur soumission au président de l’URE, si les conditions suivantes sont toutes réunies:
+      
+1)      les conditions d’application des prix et des droits à acquitter qui figurent dans le tarif n’ont pas été modifiées,
+2)      les modifications des conditions extérieures d’exercice de l’activité économique par l’entreprise énergétique auxquelles le
+         tarif se rapporte, qui sont étayées et décrites dans la demande, ne justifient pas une réduction des prix et des droits à
+         acquitter prévus dans le tarif, et
+      
+3)      il n’a pas été fixé de facteur de correction visé à l’article 23, paragraphe 2, point 3, sous a), pour la durée de validité
+         du tarif proposée dans la demande ou pour une partie de cette durée de validité.
+      
+2b.      En cas de modification étayée des conditions extérieures d’exercice de l’activité économique par l’entreprise énergétique,
+         le président de l’URE peut fixer d’office, par voie de décision, les facteurs de correction visés à l’article 23, paragraphe
+         2, point 3, sous a), résultant exclusivement d’une modification des conditions extérieures, que l’entreprise est tenue d’appliquer
+         aux prix et aux droits à acquitter fixés dans le tarif dont il est question au paragraphe 2a, jusqu’à l’entrée en vigueur
+         d’un nouveau tarif adopté selon les modalités définies au paragraphe 2. 
+      
+2c.      Si la durée pour laquelle le tarif a été fixé expire, le tarif antérieur s’applique jusqu’à l’entrée en vigueur d’un nouveau
+         tarif:
+      
+1)      si le président de l’URE n’a pas rendu sa décision, ou
+2)      si la décision du président de l’URE fait l’objet d’un recours.
+2d.      Le tarif antérieur visé au paragraphe 2c ne s’applique pas si la décision du président de l’URE refusant l’approbation du
+         tarif est justifiée par la nécessité de réduire les prix et les droits à acquitter en dessous des prix et des droits à acquitter
+         figurant dans le tarif antérieur et résulte de modifications, étayées et décrites, des conditions extérieures d’exercice de
+         l’activité économique par l’entreprise énergétique.
+      
+2e.      Le président de l’URE analyse et vérifie les coûts justifiés visés à l’article 45, paragraphe 1, points et 2, en ce qui
+         concerne leur compatibilité avec les dispositions de la loi, sur la base des états financiers et des plans financiers des
+         entreprises énergétiques, en tenant compte de l’établissement des conditions permettant la concurrence et la promotion de
+         l’efficacité de l’activité économique exercée et, en particulier, en appliquant des méthodes d’appréciation comparatives de
+         l’efficacité des entreprises énergétiques exerçant une activité économique du même type dans des conditions similaires.
+      
+[...]
+3.      Le président de l’URE:
+1)      publie [...], aux frais de l’entreprise énergétique, les tarifs des combustibles gazeux et de l’électricité qui ont été approuvés,
+         dans un délai de jours à compter de leur approbation;
+      
+[...]
+4.      L’entreprise énergétique met le tarif en application au plus tôt après un délai de jours et au plus tard jours après
+         sa publication.»
+      
+L’article 49, paragraphe 1, de la loi sur l’énergie prévoit la possibilité pour le président de l’URE d’exempter une entreprise
+         énergétique de l’obligation de soumettre ses tarifs pour approbation s’il considère qu’elle est exploitée dans des conditions
+         de concurrence. Il peut également révoquer l’exemption accordée s’il considère que les conditions qui ont justifié son octroi
+         ne sont plus remplies. 
+      
+L’article 56, paragraphe 1, point 5, qui figure au chapitre de la loi sur l’énergie, intitulé «Sanctions financières», dispose
+         qu’est passible de sanctions financières toute personne qui pratique des prix et des tarifs sans les avoir préalablement soumis
+         pour approbation au président de l’URE, ainsi que l’énonce l’article de cette loi. L’article 56, paragraphe 1, point 6,
+         de ladite loi prévoit des sanctions financières, qui peuvent être infligées aux entreprises énergétiques qui appliquent des
+         prix et des tarifs supérieurs à ceux approuvés par le président de l’URE. 
+      
+ La procédure précontentieuse
+Le juin 2009, la Commission a adressé à la République de Pologne une lettre de mise en demeure, dans laquelle elle faisait
+         état de l’incompatibilité du droit polonais avec la directive 2003/55. Dans cette lettre de mise en demeure, la Commission
+         soutenait que les articles et de la loi sur l’énergie, imposant à toutes les entreprises énergétiques l’obligation de
+         soumettre au président de l’URE, pour approbation, les tarifs qu’elles entendaient appliquer, et prévoyant une sanction financière
+         en cas de non-respect de cette obligation, étaient contraires à l’article 3, paragraphe 1, de la directive 2003/55, en ce
+         que cette disposition imposait aux États membres de veiller à ce que les entreprises de gaz naturel soient exploitées conformément
+         aux objectifs de cette directive, notamment en vue de réaliser un marché du gaz naturel concurrentiel, sûr et durable pour
+         l’environnement, sans discrimination entre les entreprises. La Commission faisait également valoir que les dispositions de
+         la loi sur l’énergie étaient contraires à l’article 23, paragraphe 1, de ladite directive, dès lors que l’obligation de soumettre
+         les tarifs au président de l’URE ne tient pas compte de la spécificité des clients, aucune distinction n’étant établie entre
+         les clients résidentiels et les clients non résidentiels. Or, la Commission ajoutait que, en vertu de la même directive, les
+         clients éligibles doivent pouvoir être libres d’acheter du gaz naturel auprès du fournisseur de leur choix, ce que des dispositions
+         telles que celles en cause rendent, de facto, impossible. 
+      
+Selon la Commission, cette réglementation aurait pu être considérée comme n’étant pas contraire à la directive 2003/55, mais
+         il appartenait aux autorités polonaises d’établir qu’elle était conforme aux exigences fixées à l’article 3, paragraphe 2,
+         de cette directive. 
+      
+La Commission concluait que la République de Pologne a manqué à ses obligations découlant de l’article 3, paragraphe 6, de
+         la directive 2003/55, qui imposait aux États membres de l’informer de toutes les mesures prises pour satisfaire aux obligations
+         de service public, y compris les mesures dérogatoires à cette directive. Enfin, la Commission relevait que, en raison de son
+         intervention dans la fixation des prix, la République de Pologne a également manqué à ses obligations résultant de l’article
+         25, paragraphe 1, sous h), de ladite directive, relatif à la mise en place d’organes chargés de la régulation du marché du
+         gaz, notamment en matière de transparence et de concurrence. 
+      
+Le août 2009, tout en confirmant que l’ensemble des entreprises énergétiques sont soumises à l’obligation d’approbation
+         des prix par le président de l’URE, le gouvernement polonais, dans sa réponse à la lettre de mise en demeure de la Commission,
+         a fait valoir que la mesure en cause a été prise pour satisfaire aux obligations de service public des entreprises de gaz
+         naturel et qu’elle n’a pas pour conséquence d’empêcher l’ensemble des clients de changer de fournisseur. 
+      
+Le avril 2011, la Commission a émis un avis motivé, dans lequel elle a fait grief à la République de Pologne de manquer
+         aux obligations lui incombant en vertu des dispositions combinées de l’article 3, paragraphe 1, et de l’article 3, paragraphe
+         2, de la directive 2009/73. 
+      
+La République de Pologne a répondu à cet avis motivé le juin 2001, en soutenant, notamment, que le mécanisme d’approbation
+         des tarifs des combustibles gazeux instauré par la loi sur l’énergie poursuit un objectif d’intérêt économique général, en
+         ce qu’il doit empêcher une situation de position dominante de l’opérateur historique, qui détient une part importante du marché,
+         et que ce mécanisme est conforme au principe de proportionnalité. Le février 2012, cet État membre a communiqué à la Commission
+         des informations complémentaires, relatives aux progrès réalisés pour se conformer à la directive 2009/73. 
+      
+Ledit État membre a adressé à la Commission, le juillet 2013, le texte de l’arrêté du ministre de l’Économie du juin
+         relatif aux modalités de fixation et de calcul des tarifs et règlements pour la vente de combustibles gazeux et, le août 2013, le texte de la loi du juillet modifiant, notamment, la loi sur l’énergie. 
+      
+Considérant que l’existence du manquement reproché à la République de Pologne devait être constatée à l’expiration du délai
+         fixé dans l’avis motivé et que les dispositions législatives nouvelles ne mettaient pas un terme à ce manquement, la Commission
+         a décidé de saisir la Cour du présent recours.
+      
+ Sur le recours
+ Sur la recevabilité
+ Argumentation des parties
+À titre liminaire, la République de Pologne fait valoir, tout d’abord, que le recours de la Commission est irrecevable, eu
+         égard à la modification de l’état du droit intervenue entre la date de la lettre de mise en demeure, la situation étant alors
+         régie par la directive 2003/55, et l’introduction de ce recours, sur le fondement de la directive 2009/73. Cette dernière
+         directive aurait été adoptée à un stade du développement du marché intérieur du gaz différent de celui qui prévalait lors
+         de l’adoption de la directive 2003/et son contenu normatif différerait de celui de cette directive. Ensuite, le droit polonais
+         aurait été modifié avant l’introduction dudit recours, l’arrêté tarifaire du juin (ci-après l’«arrêté tarifaire»)
+         ayant prévu explicitement que les prix soumis au président de l’URE et approuvés par celui-ci étaient des prix maximaux et
+         que les fournisseurs pouvaient fixer des prix inférieurs à ceux-ci. Cette circonstance nouvelle ayant une importance fondamentale,
+         la Commission aurait dû notifier à l’État membre concerné un nouvel avis motivé tenant compte de ces éléments. En outre, la
+         Commission lui aurait reproché, pour la première fois dans le cadre dudit recours, l’application de tarifs fixes qui empêcheraient
+         les fournisseurs d’appliquer des tarifs inférieurs à ceux-ci. Enfin, l’arrêt Federutility e.a. (C‑265/08, EU:C:2010:205) aurait
+         été rendu postérieurement à l’envoi de la lettre de mise en demeure. Ainsi, selon la République de Pologne, la Commission
+         ne peut se fonder, dans le cadre du présent recours, sur les conditions dégagées par cet arrêt.
+      
+La Commission rétorque, en ce qui concerne la recevabilité de son recours, que l’argument tiré du changement de l’état de
+         droit entre la date de la lettre de mise en demeure et celle de l’avis motivé doit être écarté, étant donné que l’objet du
+         litige n’a pas été modifié à la suite de l’abrogation de la directive 2003/55. En ce qui concerne l’argument tiré de ce que,
+         en vertu de l’arrêté tarifaire, les prix approuvés par le président de l’URE doivent être considérés comme des prix maximaux,
+         la Commission fait valoir que, cette modification ayant été introduite après l’expiration du délai de deux mois imparti dans
+         l’avis motivé adressé à l’État membre concerné, cet argument est inopérant. En outre, l’arrêté tarifaire n’aurait pas d’incidence
+         sur l’obligation de soumettre pour approbation les tarifs de fourniture du gaz qui fait l’objet du présent recours en manquement.
+      
+ Appréciation de la Cour
+Au soutien de son exception d’irrecevabilité, la République de Pologne soulève, pour l’essentiel, deux arguments, tirés, d’une
+         part, de la modification de l’état de droit de l’Union intervenue entre la date de la lettre de mise en demeure et la date
+         d’introduction du présent recours en manquement et, d’autre part, de la modification du droit polonais intervenue avant l’introduction
+         de ce recours.
+      
+En ce qui concerne le premier argument invoqué, il y a lieu de rappeler que, ainsi que la Cour l’a déjà jugé, si les conclusions
+         figurant dans la requête ne sauraient, en principe, être étendues au-delà des manquements allégués dans le dispositif de l’avis
+         motivé et dans la lettre de mise en demeure, il n’en demeure pas moins que la Commission est recevable à faire constater un
+         manquement aux obligations qui trouvent leur origine dans la version initiale d’un acte de l’Union, par la suite modifié ou
+         abrogé, et qui ont été maintenues par les dispositions d’un nouvel acte de l’Union. En revanche, l’objet du litige ne saurait
+         être étendu à des obligations qui découlent de nouvelles dispositions n’ayant pas d’équivalent dans la version initiale de
+         l’acte en cause, sous peine de constituer une violation des formes substantielles de la régularité de la procédure constatant
+         le manquement (arrêts Commission/Portugal, C-52/08, EU:C:2011:337, point 42; Commission/Autriche, C-53/08, EU:C:2011:338,
+         point 131, et Commission/Allemagne, C-54/08, EU:C:2011:339, point 128).
+      
+En l’occurrence, la directive 2003/a été remplacée par la directive 2009/73, avec effet au mars 2011. Conformément à
+         l’article de cette dernière directive, l’abrogation de la directive 2003/est intervenue sans préjudice des obligations
+         des États membres en ce qui concerne les dates limites de transposition et de mise en application de celle-ci. 
+      
+Par conséquent, dès lors que, notamment, les dispositions de l’article 3, paragraphes et 2, de la directive 2009/73, sur
+         lesquelles le présent recours en manquement est fondé, ont repris, sans modification pertinente pour la présente affaire,
+         les dispositions de l’article 3, paragraphes et 2, de la directive 2003/55, l’objet du litige n’a pas été étendu par rapport
+         à celui de la lettre de mise en demeure. 
+      
+En outre, ne saurait non plus constituer une telle extension le fait, à lui seul, que la Commission se prévaut de l’arrêt
+         Federutility e.a. (C‑265/08, EU:C:2010:205), rendu postérieurement à l’envoi de cette lettre, étant donné que l’interprétation
+         que la Cour donne de la directive 2003/dans ladite lettre éclaire et précise seulement la signification et la portée de
+         cette directive, telle qu’elle doit ou aurait dû être comprise et appliquée depuis son entrée en vigueur (voir en ce sens,
+         notamment, arrêt Bressol e.a., C‑73/08, EU:C:2010:181, point et jurisprudence citée).
+      
+S’agissant du second argument invoqué, il convient de rappeler que l’existence d’un manquement doit être appréciée en fonction
+         de la situation de l’État membre telle qu’elle se présentait au terme du délai fixé dans l’avis motivé et que les changements
+         intervenus par la suite ne sauraient être pris en compte par la Cour (arrêt Commission/Autriche, C-535/07, EU:C:2010:602,
+         point 22).
+      
+Or, il convient de relever que la modification de la loi nationale en cause est intervenue après l’expiration du délai de
+         deux mois fixé dans l’avis motivé adressé à l’État membre concerné et que, dès lors, cette modification n’a pas d’incidence
+         sur la recevabilité du recours de la Commission.
+      
+Eu égard aux considérations qui précèdent, il convient de considérer que le recours de la Commission est recevable.
+      
+ Sur le fond
+ Argumentation des parties
+À titre liminaire, la Commission rappelle que, selon la jurisprudence résultant de l’arrêt Federutility e.a. (C-265/08, EU:C:2010:205),
+         il découle de la finalité même et de l’économie générale de la directive 2003/que l’objectif visé consiste à parvenir progressivement
+         à une libéralisation totale du marché du gaz naturel, dans le cadre de laquelle les prix de fourniture du gaz naturel ne devraient
+         être fixés que par le jeu de l’offre et de la demande et les fournisseurs pourraient librement délivrer leurs produits à tous
+         les consommateurs. L’article 3, paragraphe 1, de la directive 2009/imposerait aux États membres de veiller à ce que les
+         entreprises de gaz naturel soient exploitées conformément aux principes de cette directive, en vue de réaliser un marché du
+         gaz naturel concurrentiel, ce qui impliquerait la libre fixation des prix de fourniture du gaz naturel. Néanmoins, l’article
+         3, paragraphe 2, de cette directive permettrait aux États membres, dans le respect des conditions fixées à cette disposition
+         et de l’article TFUE, d’imposer aux entreprises opérant dans le secteur du gaz des obligations de service public qui peuvent,
+         notamment, porter sur le prix de la fourniture. 
+      
+Le système polonais d’approbation des prix de fourniture du gaz naturel par le président de l’URE pourrait uniquement être
+         conforme à l’article 3, paragraphe 2, de ladite directive si l’intervention de l’État remplissait l’ensemble des conditions
+         posées par l’arrêt Federutility e.a. (C-265/08, EU:C:2010:205), lequel aurait énoncé trois critères aux fins de vérifier si
+         un système d’intervention de l’État peut être autorisé. 
+      
+Tout d’abord, une telle intervention doit, selon la Commission, être justifiée par l’intérêt économique général. Ensuite,
+         elle devrait être proportionnée, c’est-à-dire qu’elle ne devrait pas porter atteinte à la libre fixation des prix au-delà
+         de ce qui est nécessaire pour atteindre l’objectif d’intérêt économique général poursuivi. Pour ce faire, d’une part, l’intervention
+         devrait être limitée dans le temps et, d’autre part, son champ d’application personnel devrait également être limité. Enfin,
+         cette intervention devrait être fondée sur des règles claires, transparentes, non discriminatoires et contrôlables, qui garantissent
+         aux entreprises de l’Union européenne un égal accès aux consommateurs nationaux. 
+      
+À cet égard, les conditions relatives à l’objectif poursuivi et au caractère clair, transparent, non discriminatoire et contrôlable
+         de la mesure en cause ne poseraient pas de difficultés particulières. Par conséquent, selon la Commission, l’essentiel du
+         débat porte sur la condition relative à la proportionnalité de la mesure concernée. En tout état de cause, il appartiendrait
+         aux autorités polonaises de démontrer que cette mesure est conforme à l’article 3, paragraphe 2, de la directive 2009/et
+         à l’article TFUE. 
+      
+La Commission fait valoir, en premier lieu, que l’article de la loi sur l’énergie ne prévoit aucune limitation de durée
+         en ce qui concerne l’obligation de soumettre, pour approbation, les prix de fourniture du gaz naturel au président de l’URE.
+         Selon la Commission, le fait que cette autorité ait la possibilité d’exempter une entreprise énergétique de l’obligation de
+         soumettre ses prix pour approbation ne constitue pas, en lui-même, une limitation dans le temps, telle que définie dans l’arrêt
+         Federutility e.a. (C-265/08, EU:C:2010:205). En outre, le réexamen périodique de la nécessité d’approuver les prix serait
+         laissé à la discrétion du président de l’URE. Par ailleurs, l’existence d’une limitation dans le temps de la durée de validité
+         de l’approbation des tarifs, soit, en vertu de l’article 47, paragraphe 2a, de la loi sur l’énergie, de trois ans au maximum,
+         mais, en pratique, de douze mois, devrait être distinguée de la limitation dans le temps de l’obligation de soumettre les
+         tarifs de fourniture du gaz naturel pour approbation, laquelle obligation ne serait pas limitée dans le temps. 
+      
+En second lieu, conformément à ce que la Cour a jugé dans l’arrêt Federutility e.a. (C-265/08, EU:C:2010:205), pour être proportionnée,
+         la mesure en cause devrait tenir compte des catégories de bénéficiaires concernés et non pas s’appliquer de manière identique
+         aux particuliers et aux entreprises, consommateurs finals. Or, selon la Commission, la loi sur l’énergie ne prévoit pas un
+         régime différent, selon que sont concernés des clients résidentiels ou des clients non résidentiels. En outre, aucune distinction
+         ne serait opérée à l’intérieur de la catégorie des clients non résidentiels, entre les clients grossistes, les clients finals,
+         les clients industriels et les entreprises énergétiques qui achètent du gaz. Le fait que l’arrêté tarifaire prévoit l’application
+         de tarifs différents en ce qui concerne les clients résidentiels et les clients non résidentiels ne saurait satisfaire à l’exigence
+         de proportionnalité, puisqu’un régime différencié devrait être appliqué en ce qui concerne l’obligation même de soumettre
+         les tarifs du gaz naturel pour approbation. En effet, le fait d’imposer cette obligation à tous les clients sans distinction
+         aurait pour effet de priver les clients résidentiels de la liberté de choisir des fournisseurs qui proposent des prix plus
+         concurrentiels ou des contrats plus avantageux. La Commission conclut que, eu égard à l’ensemble de ces éléments, l’intervention
+         de l’État polonais dans la fixation des prix du gaz naturel n’est pas conforme aux dispositions combinées de l’article 3,
+         paragraphe 1, et de l’article 3, paragraphe 2, de la directive 2009/73. 
+      
+La République de Pologne insiste sur les particularités du marché polonais du gaz naturel, résultant du monopole important,
+         représentant % environ de ce marché, que détient l’opérateur historique. Cette structure ayant pour conséquence de fausser
+         de facto le jeu de la concurrence, l’État polonais devrait intervenir afin de la modifier. Toutefois, ladite structure aurait
+         un caractère transitoire, dès lors que des mesures destinées à libéraliser ce marché seraient adoptées. Dans l’attente que
+         les objectifs visés par cette libéralisation soient atteints, l’approbation préalable des tarifs du gaz naturel permettrait
+         d’éviter une régulation discrétionnaire du marché par ledit opérateur, laquelle serait susceptible de conduire à une importante
+         hausse des prix. Selon la République de Pologne, ces objectifs ne peuvent être atteints à court terme, dès lors que les accords
+         commerciaux conclus entre les différents acteurs l’ont été pour une longue durée. Par ailleurs, cet État membre fait état
+         d’un ensemble de mesures adoptées dans le but de favoriser la concurrence sur le marché concerné. S’agissant du grief tiré
+         du caractère disproportionné du régime en cause, la République de Pologne fait valoir que, contrairement à ce que soutient
+         la Commission, d’une part, les conditions énoncées dans l’arrêt Federutility e.a. (C-265/08, EU:C:2010:205) ne doivent pas
+         s’appliquer à la présente affaire, les faits à l’origine du présent recours étant différents de ceux ayant donné lieu à cet
+         arrêt, et, d’autre part, ce dernier ne définit pas de critère de proportionnalité autonome pour les marchés de l’énergie.
+         Il conviendrait, dès lors, d’appliquer les conditions classiques en matière de contrôle du critère de proportionnalité, en
+         vérifiant si la mesure en cause est apte à réaliser l’objectif poursuivi, est nécessaire à la réalisation de ce dernier et
+         n’impose pas aux particuliers des obligations allant au-delà de ce qui est nécessaire à la réalisation de cet objectif. 
+      
+En premier lieu, s’agissant de l’aptitude de la mesure en cause à réaliser l’objectif visé, la République de Pologne fait
+         valoir que le régime d’approbation des prix par le président de l’URE a pour objectif d’assurer une protection contre le relèvement
+         anticoncurrentiel des prix du gaz et le maintien de ces prix à un niveau raisonnable. Cette première condition serait, par
+         conséquent, remplie. 
+      
+En deuxième lieu, compte tenu de la structure monopolistique du marché polonais concerné et de l’incapacité des opérateurs
+         à se protéger contre une éventuelle hausse des prix, ce régime serait nécessaire à la réalisation de l’objectif poursuivi.
+         La deuxième condition posée par le critère de proportionnalité serait donc également remplie. 
+      
+En troisième lieu, ce régime n’imposerait pas aux particuliers des obligations allant au-delà de ce qui est nécessaire, dans
+         la mesure où l’opérateur principalement concerné par la mesure en cause serait en situation de monopole et où les autres opérateurs
+         bénéficieraient de dispenses de plus en plus nombreuses. La République de Pologne ajoute que, si la Commission considère que
+         le président de l’URE a la possibilité, et non l’obligation, d’accorder des dispenses, le président de l’URE est tenu de prendre
+         en considération l’intérêt général ainsi que les intérêts particuliers légitimes, les dispenses n’étant pas accordées de manière
+         arbitraire. En outre, les décisions du président de l’URE constitueraient des décisions administratives susceptibles de faire
+         l’objet de recours devant le Sąd Ochrony Konkurencji i Konsumentów (tribunal de protection de la concurrence et du consommateur).
+         Enfin, étant donné que les prix approuvés par le président de l’URE ne seraient que des prix maximaux, les opérateurs seraient
+         libres de fixer des prix inférieurs à ceux qui ont été approuvés. La troisième condition exigée serait, par conséquent, également
+         remplie. 
+      
+La République de Pologne soutient que, en tout état de cause, les conditions énoncées dans l’arrêt Federutility e.a. (C-265/08,
+         EU:C:2010:205) sont également remplies, dès lors que, d’une part, un programme de libération des prix du gaz naturel aurait
+         été mis en place et aurait fait l’objet de communications officielles et, d’autre part, une application de la mesure en cause
+         de manière différenciée, selon les catégories d’opérateurs, serait discriminatoire. Il conviendrait, pour éviter cela, de
+         recourir à un examen individuel, qui se caractériserait par la possibilité d’octroyer des dispenses. 
+      
+ Appréciation de la Cour 
+La Commission reproche, en substance, à la République de Pologne d’appliquer un régime d’intervention de l’État consistant
+         en l’obligation, pour les entreprises énergétiques, de pratiquer des prix de fourniture du gaz naturel approuvés par le président
+         de l’URE, qui serait disproportionnée et incompatible avec l’article 3, paragraphe 2, de la directive 2009/73.
+      
+À cet égard, la Commission soutient, notamment, que le non-respect, par cet État membre, des dispositions de l’article 3,
+         paragraphes et 2, de la directive 2009/découle de la mise en place et de l’application, selon des règles telles que celles
+         figurant aux articles et de la loi sur l’énergie, d’un mécanisme d’approbation préalable des prix par le président de
+         l’URE, pour l’approvisionnement en gaz des clients non résidentiels.
+      
+La République de Pologne considère que le régime d’approbation des tarifs du gaz naturel satisfait au critère de proportionnalité,
+         car il tend à l’exécution d’une obligation de service public consistant à assurer une protection contre le relèvement anticoncurrentiel
+         des prix du gaz naturel et à maintenir ces prix à un niveau raisonnable. 
+      
+À cet égard, il importe de rappeler que la Cour a eu l’occasion de préciser, en ce qui concerne la directive 2003/55, que,
+         bien qu’il ne résulte pas explicitement de l’article 23, paragraphe 1, sous c), de cette directive, ni, d’ailleurs, des autres
+         dispositions de ladite directive, que le prix de fourniture du gaz naturel devait, à compter du 1er juillet 2007, être seulement fixé par le jeu de l’offre et de la demande, cette exigence découlait de la finalité même et
+         de l’économie générale de la même directive qui, ainsi que le précisaient ses considérants 3, et 18, avait pour objectif
+         de parvenir progressivement à une libéralisation totale du marché du gaz naturel dans le cadre de laquelle, notamment, tous
+         les fournisseurs peuvent librement délivrer leurs produits à tous les consommateurs (arrêt Federutility e.a., C-265/08, EU:C:2010:205,
+         points et 18).
+      
+Les considérants et de la directive 2003/énonçaient que cette dernière avait également pour objectif de garantir
+         que, dans le cadre de cette libéralisation, le service public soit maintenu à un «niveau élevé» et que la protection du consommateur
+         final soit assurée.
+      
+Pour répondre à ces derniers objectifs, le paragraphe de l’article de la directive 2003/précisait qu’il s’appliquait
+         «sans préjudice» du paragraphe de cet article 3, qui permettait explicitement aux États membres d’imposer aux entreprises
+         opérant dans le secteur du gaz des «obligations de service public», qui pouvaient notamment porter sur le «prix de la fourniture».
+      
+Il résulte des termes de ce paragraphe que les mesures prises sur son fondement devaient être adoptées dans l’intérêt économique
+         général, être clairement définies, transparentes, non discriminatoires et contrôlables et devaient garantir aux entreprises
+         de gaz de l’Union un égal accès aux consommateurs nationaux. Ledit paragraphe ajoutait que les États membres devaient alors
+         tenir «pleinement compte» des dispositions pertinentes du traité CE et, en particulier, de l’article CE.
+      
+Il y a lieu de relever que cette faculté s’exerçait sous le contrôle de la Commission, dès lors que les États membres étaient
+         tenus, en application de l’article 3, paragraphe 6, de la directive 2003/55, d’informer cette institution de toutes les mesures
+         prises pour remplir les obligations de service public et de leurs effets éventuels sur la concurrence nationale et internationale,
+         que ces mesures nécessitent ou non une dérogation à cette directive, et de lui notifier, tous les deux ans, toute modification
+         éventuelle de celles-ci.
+      
+Ladite directive permettait, par conséquent, et sous réserve que les conditions qu’elle énonçait soient remplies, une intervention
+         de l’État membre sur la fixation du prix de fourniture du gaz naturel au consommateur final après le 1er juillet 2007.
+      
+L’article 3, paragraphe 1, de la directive 2003/imposait, en effet, aux États membres de réaliser un marché du gaz naturel
+         concurrentiel, qui soit suffisamment ouvert, afin de permettre aux clients non résidentiels de s’approvisionner en gaz naturel
+         auprès du fournisseur de leur choix à partir du 1er juillet 2004. Cette obligation existait sans préjudice du même article 3, paragraphe 2, qui permettait aux États membres,
+         en tenant dûment compte des dispositions pertinentes du traité CE, en particulier de l’article CE, d’imposer aux entreprises
+         opérant dans le secteur du gaz des obligations de service public qui pouvaient porter sur le prix de la fourniture.
+      
+Or, ainsi que la Cour a eu l’occasion de le préciser, les articles 3, paragraphe 2, et 23, paragraphe 1, de la directive 2003/ne s’opposaient pas à une réglementation nationale qui permettait de déterminer le niveau du prix de fourniture du gaz naturel
+         par la définition de prix de référence, après le 1er juillet 2007, à condition que cette intervention:
+      
+–        poursuive un intérêt économique général consistant à maintenir le prix de fourniture du gaz naturel au consommateur final
+         à un niveau raisonnable eu égard à la conciliation qu’il appartenait aux États membres d’opérer, en tenant compte de la situation
+         du secteur du gaz naturel, entre l’objectif de libéralisation et celui de la nécessaire protection du consommateur final poursuivis
+         par la directive 2003/55;
+      
+–        ne porte atteinte à la libre fixation des prix de fourniture du gaz naturel après le 1er juillet que dans la seule mesure nécessaire à la réalisation d’un tel objectif d’intérêt économique général et, par
+         conséquent, durant une période nécessairement limitée dans le temps, et
+      
+–        soit clairement définie, transparente, non discriminatoire et contrôlable, et garantisse aux entreprises de gaz de l’Union
+         un égal accès aux consommateurs (voir arrêt Federutility e.a., C‑265/08, EU:C:2010:205, point 47).
+      
+Ainsi que l’a relevé la Commission, ces indications relatives à l’admissibilité d’une intervention de l’État consistant à
+         réglementer les prix, qui sont énoncées dans l’arrêt Federutility e.a. (C-265/08, EU:C:2010:205) en ce qui concerne l’article
+         3, paragraphe 2, de la directive 2003/55, sont également valables s’agissant de l’article 3, paragraphe 2, de la directive
+         2009/73, aucune modification n’ayant été apportée à cette dernière disposition en tant qu’elle s’applique à la présente affaire.
+         
+      
+À cet égard, à considérer même que l’obligation générale d’approbation, par le président de l’URE, des prix de fourniture
+         du gaz naturel applicables aux clients non résidentiels poursuive un intérêt économique consistant à maintenir un prix de
+         fourniture du gaz naturel au consommateur à un niveau raisonnable, son application ne peut être considérée comme conforme
+         à l’article 3, paragraphes et 2, de la directive 2009/que si elle intervient dans le respect du principe de proportionnalité
+         et qu’elle est fondée sur des règles claires, transparentes, non discriminatoires et contrôlables, qui garantissent aux entreprises
+         de gaz de l’Union un égal accès aux consommateurs nationaux.
+      
+En outre, le caractère individuel des décisions adoptées par le président de l’URE sur la base des propositions de tarif présentées
+         par chacune des entreprises énergétiques concessionnaires n’a aucune incidence sur le fait que, le prix de fourniture du gaz
+         naturel approuvé par décision du président de l’URE étant un prix approuvé par ce dernier sur le fondement de dispositions
+         réglementaires d’application générale, une entreprise énergétique ne peut appliquer un prix différent de celui qui a été approuvé
+         par le président de l’URE. 
+      
+Cela étant, en premier lieu, il est constant que, pour remplir l’exigence de proportionnalité, une intervention doit être
+         limitée, pour ce qui concerne sa durée, à ce qui est strictement nécessaire pour atteindre l’objectif qu’elle poursuit, afin,
+         notamment, de ne pas pérenniser une mesure qui, par sa nature même, constitue une entrave à la réalisation d’un marché intérieur
+         du gaz opérationnel (arrêt Federutility e.a., C‑265/08, EU:C:2010:205, point 35).
+      
+L’article de la loi sur l’énergie, qui fait obligation à toutes les entreprises énergétiques titulaires d’une concession
+         de soumettre les prix de fourniture du gaz naturel au président de l’URE pour approbation, ne prévoit aucune limitation de
+         la durée de cette obligation et confère, dès lors, à celle-ci un caractère permanent.
+      
+La République de Pologne fait valoir que les décisions d’approbation prises par le président de l’URE remplissent les exigences
+         de limitation dans le temps, dès lors que, conformément à l’article 47, paragraphe 2a, de la loi sur l’énergie, l’approbation
+         des tarifs est valable pour une durée maximale de trois ans, qui, en pratique, est toutefois de douze mois. Il convient néanmoins
+         d’établir une distinction entre la limitation de la durée de validité des décisions d’approbation et la limitation dans le
+         temps de l’obligation de soumettre les prix de fourniture du gaz naturel au président de l’URE pour approbation. La première
+         de ces obligations ne constitue pas une limitation dans le temps de l’intervention de l’État consistant à réglementer les
+         prix de fourniture du gaz, mais permet seulement de limiter la durée de validité des prix individuellement approuvés, l’entreprise
+         concernée devant présenter une nouvelle demande d’approbation des prix proposés, à l’issue d’une période de douze mois ou
+         de trois ans. 
+      
+En second lieu, il y a lieu de tenir compte également du fait que, en vertu des dispositions de la loi sur l’énergie, les
+         prix réglementés de fourniture du gaz naturel sont appliqués à un cercle non défini de clients, sans que le droit national
+         établisse une distinction entre les clients résidentiels et les clients non résidentiels ou une distinction en fonction des
+         situations particulières rencontrées au sein des différentes catégories de clients. 
+      
+À cet égard, la Cour a déjà eu l’occasion de préciser que la réglementation des prix de fourniture du gaz naturel doit être
+         proportionnée au regard de son champ d’application personnel et, plus précisément, de ses bénéficiaires. Elle a également
+         jugé que cette exigence de proportionnalité n’est, en principe, pas respectée si cette réglementation bénéficie de manière
+         identique aux particuliers et aux entreprises, en tant que consommateurs finals de gaz (voir, en ce sens, arrêt Federutility
+         e.a., C-265/08, EU:C:2010:205, points et 43).
+      
+En l’occurrence, force est de constater que le droit polonais et, en particulier, l’article de la loi sur l’énergie ainsi
+         que l’arrêté tarifaire ne prévoient pas de distinction, en ce qui concerne l’approbation des prix du gaz naturel, entre les
+         clients approvisionnés, qu’il s’agisse de clients résidentiels ou de clients non résidentiels. L’obligation d’approbation
+         des prix s’applique, en outre, de la même façon aux clients non résidentiels, c’est-à-dire aux clients grossistes, aux clients
+         finals et aux clients industriels ainsi qu’aux entreprises énergétiques qui achètent du gaz naturel. Aucune distinction n’est
+         donc établie au sein de la catégorie des clients non résidentiels. En vertu du droit polonais, toutes les entreprises énergétiques
+         (fournisseurs de gaz naturel) qui ne relèvent pas de l’exemption prévue à l’article de la loi sur l’énergie doivent faire
+         approuver leurs prix de fourniture du gaz naturel par le président de l’URE, indépendamment de leur position sur le marché
+         du gaz et de la personne du client.
+      
+Il résulte de ce qui précède que le mécanisme polonais de réglementation des prix de fourniture du gaz naturel aux clients
+         non résidentiels ne satisfait pas aux exigences de proportionnalité en ce qu’il n’est pas limité dans le temps et n’établit
+         pas de distinction entre les clients approvisionnés. 
+      
+Il s’ensuit que le recours de la Commission doit être considéré comme fondé.
+      
+Il y a lieu, par conséquent, de constater que, en appliquant un régime d’intervention de l’État consistant en l’obligation,
+         pour les entreprises énergétiques, de pratiquer des prix de fourniture du gaz naturel approuvés par le président de l’URE,
+         obligation qui n’est pas limitée dans le temps et dont le droit national n’impose pas à l’administration de réexaminer périodiquement
+         la nécessité et les modalités d’application dans le secteur du gaz, en fonction de l’évolution de celui-ci, et qui se caractérise
+         par son application à un cercle non défini de bénéficiaires ou de clients, sans établir de distinction entre les clients ou
+         selon leur situation au sein des différentes catégories de clients, la République de Pologne a manqué aux obligations qui
+         lui incombent en vertu des dispositions combinées de l’article 3, paragraphe 1, et de l’article 3, paragraphe 2, de la directive
+         2009/73.
+      
+ Sur les dépens
+En vertu de l’article 138, paragraphe 1, du règlement de procédure de la Cour, toute partie qui succombe est condamnée aux
+         dépens, s’il est conclu en ce sens. La Commission ayant conclu à la condamnation de la République de Pologne et cette dernière
+         ayant succombé en ses moyens, il y a lieu de la condamner aux dépens.
+      
+Par ces motifs, la Cour (sixième chambre) déclare et arrête:
+1)      En appliquant un régime d’intervention de l’État consistant en l’obligation, pour les entreprises énergétiques, de pratiquer
+            des prix de fourniture du gaz naturel approuvés par le président de l’Urzad Regulacji Energetyki (Office de régulation de
+            l’énergie), obligation qui n’est pas limitée dans le temps et dont le droit national n’impose pas à l’administration de réexaminer
+            périodiquement la nécessité et les modalités d’application dans le secteur du gaz, en fonction de l’évolution de celui-ci,
+            et qui se caractérise par son application à un cercle non défini de bénéficiaires ou de clients, sans établir de distinction
+            entre les clients ou selon leur situation au sein des différentes catégories de clients, la République de Pologne a manqué
+            aux obligations qui lui incombent en vertu des dispositions combinées de l’article 3, paragraphe 1, et de l’article 3, paragraphe
+            2, de la directive 2009/73/CE du Parlement européen et du Conseil, du juillet 2009, concernant les règles communes pour
+            le marché intérieur du gaz naturel et abrogeant la directive 2003/55/CE.
+2)      La République de Pologne est condamnée aux dépens.
+Signatures
+* Langue de procédure: le polonais.
+      
+Top  
+ 

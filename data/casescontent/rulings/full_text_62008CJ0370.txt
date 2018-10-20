@@ -1,0 +1,438 @@
+
+Case C-370/Data I/O GmbH
+v
+Hauptzollamt Hannover, formerly Bundesfinanzdirektion Südost
+(Reference for a preliminary ruling from the Bundesfinanzhof)
+(Common Customs Tariff – Tariff classification – Combined Nomenclature – Chapter 84, Note 5(B) – Adapter containing a memory-chip and designed to provide the electrical connection between an automatic programming machine
+         and electrical components to be programmed – Headings 8471, and 8536)
+      
+Summary of the Judgment
+Common Customs Tariff – Tariff heading – Adapter containing a memory-chip and designed to provide the electrical connection
+            between an automatic programming machine and the electrical components to be programmed
+(Council Regulation No 2658/87, Annex I; Commission Regulation No 1810/2004)
+An adapter, such as that at issue in the main proceedings, that performs the functions of the electrical connection between
+         the programming machine and the components to be programmed and of the storage of the programming process, which can be retrieved
+         later, fulfils the condition set out in Note 5(B)(c) to Chapter of the Combined Nomenclature in Annex I to Regulation No
+         2658/on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Regulation No 1810/and must be classified under heading thereof as a ‘unit’ of an automatic data processing machine, in so far as its main
+         function is to carry out data processing. Where that function is lacking, such an adapter must be classified under heading
+         of the Combined Nomenclature as a ‘part’ or ‘accessory’ of a machine, as the case may be, if it is either essential to
+         the functioning of that machine or constitutes a part or device designed to adapt a machine for a particular operation or
+         an element to perform a particular service relative to the main function of that machine, which it is for the referring court
+         to determine. If that adapter cannot be classified under either of the abovementioned headings, it must be considered to be
+         an ‘electrical apparatus for making connections to or in electrical circuits’, and consequently to fall under heading of the Combined Nomenclature.
+      
+(see paras 43-45, operative part)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+May (*)
+      
+(Common Customs Tariff – Tariff classification – Combined Nomenclature – Chapter 84, Note 5(B) – Adapter containing a memory-chip and designed to provide the electrical connection between an automatic programming machine
+         and electrical components to be programmed – Headings 8471, and 8536)
+      
+In Case C‑370/08,
+REFERENCE for a preliminary ruling under Article EC from the Bundesfinanzhof (Germany), made by decision of June 2008,
+         received at the Court on August 2008, in the proceedings
+      
+Data I/O GmbH
+v
+Hauptzollamt Hannover, formerly Bundesfinanzdirektion Südost,
+      
+THE COURT (Second Chamber),
+composed of J.N. Cunha Rodrigues, President of Chamber, P. Lindh, A. Rosas, U. Lõhmus (Rapporteur) and A. Arabadjiev, Judges,
+Advocate General: J. Mazák,
+Registrar: B. Fülöp, Administrator,
+having regard to the written procedure and further to the hearing on October 2009,
+after considering the observations submitted on behalf of:
+–        Data I/O GmbH, by A. Linscheid, Rechtsanwältin, 
+–        Hauptzollamt Hannover, formerly the Bundesfinanzdirektion Südost, by J. Winterfeld, acting as Agent,
+–        the Commission of the European Communities, by L. Bouyon and B.-R. Killmann, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Note 5(B) to Chapter of the Combined Nomenclature
+         (‘the CN’) in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and
+         on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 1810/of September (OJ L 327, p. 1).
+      
+The reference has been made in the course of proceedings between Data I/O GmbH (‘Data I/O’) and Hauptzollamt Hannover (the
+         customs authority of Hanover), formerly the Bundesfinanzdirektion Südost, relating to the tariff classification of an adapter
+         containing a memory-chip and designed to provide the electrical connection between an automatic programming machine and electrical
+         components to be programmed.
+      
+ Legal context
+ The CN
+The International Convention on the Harmonised Commodity Description and Coding System (‘the HS’), concluded at Brussels on
+         June 1983, and the Protocol of Amendment thereto of June 1986, were approved on behalf of the Community by Council Decision
+         87/369/EEC of April (OJ L 198, p. 1).
+      
+Regulation No 2658/established the CN, which is based on the HS, from which it takes the six-digit headings and subheadings.
+         Annex I to that regulation is updated by the European Commission once a year. By Regulation No 1810/2004, the Commission adopted
+         a full version of the CN, applicable from January 2005.
+      
+Part One of the CN contains preliminary provisions. In that part, under Title I concerning the general rules, Section A, entitled
+         ‘General rules for the interpretation of the [CN]’, states:
+      
+‘Classification of goods in the [CN] shall be governed by the following principles:
+1.      The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification
+         shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings
+         or notes do not otherwise require, according to the following provisions.
+      
+… 
+3.      When, by application of rule 2(b) or for any other reason, goods are prima facie classifiable under two or more headings, classification shall be effected as follows:
+      
+(a)      the heading which provides the most specific description shall be preferred to headings providing a more general description.
+         However, when two or more headings each refer to part only of the materials or substances contained in mixed or composite
+         goods or to part only of the items in a set put up for retail sale, those headings are to be regarded as equally specific
+         in relation to those goods, even if one of them gives a more complete or precise description of the goods;
+      
+(b)      mixtures, composite goods consisting of different materials or made up of different components, and goods put up in sets for
+         retail sale, which cannot be classified by reference to 3(a), shall be classified as if they consisted of the material or
+         component which gives them their essential character, in so far as this criterion is applicable;
+      
+(c)      when goods cannot be classified by reference to 3(a) or (b), they shall be classified under the heading which occurs last
+         in numerical order among those which equally merit consideration.
+      
+…’
+Part Two of the CN contains Section XVI, which is preceded by notes worded as follows:
+      
+‘… 
+2.      Subject to Note to this section, Note to Chapter and Note to Chapter 85, parts of machines (not being parts of the
+         articles of heading 8484, 8544, 8545, or 8547) are to be classified according to the following rules:
+      
+(a)      Parts which are goods included in any of the headings of Chapter or (other than headings 8409, 8431, 8448, 8466, 8473,
+         8485, 8503, 8522, 8529, and 8548) are in all cases to be classified in their respective headings;
+      
+… 
+3.      Unless the context otherwise requires, composite machines consisting of two or more machines fitted together to form a whole
+         and other machines designed for the purpose of performing two or more complementary or alternative functions are to be classified
+         as if consisting only of that component or as being that machine which performs the principal function.
+      
+4.      Where a machine (including a combination of machines) consists of individual components (whether separate or interconnected
+         by piping, by transmission devices, by electric cables or by other devices) intended to contribute together to a clearly defined
+         function covered by one of the headings in Chapter or 85, then the whole falls to be classified in the heading appropriate
+         to that function.
+      
+5.      For the purposes of these Notes, the expression “machine” means any machine, machinery, plant, equipment, apparatus or appliance
+         cited in the headings of Chapter or 85.’
+      
+Section XVI of the CN contains Chapter 84, which concerns, in particular, nuclear reactors, boilers, machinery and mechanical
+         appliances and parts thereof.
+      
+Note to Chapter states:
+      
+‘… 
+B.      Automatic data-processing machines may be in the form of systems consisting of a variable number of separate units. Subject
+         to paragraph E below, a unit is to be regarded as being a part of a complete system if it meets all of the following conditions:
+      
+(a)      it is of a kind solely or principally used in an automatic data-processing system;
+(b)      it is connectable to the central processing unit either directly or through one or more other units;
+         and
+(c)      it is able to accept or deliver data in a form (codes or signals) which can be used by the system.
+C.      Separately presented units of an automatic data-processing machine are to be classified in heading 8471.
+… 
+E.      Machines performing a specific function other than data processing and incorporating or working in conjunction with an automatic
+         data-processing machine are to be classified in the headings appropriate to their respective functions or, failing that, in
+         residual headings.’
+      
+The headings and subheadings of Chapter of the CN which are relevant to the main proceedings are the following:
+      
+‘Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data
+         media in coded form and machines for processing such data, not elsewhere specified or included:
+      
+… 
+Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines
+         of headings to 8472:
+      
+… 
+– Parts and accessories of the machines of heading – – Electronic assemblies
+… 
+– – Other’
+Section XVI of Part Two of the CN also includes Chapter which is entitled ‘Electrical machinery and equipment and parts
+         thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories
+         of such articles’. Chapter contains, inter alia, the following headings and subheadings:
+      
+‘Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits
+         (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp holders, junction boxes) for a voltage not
+         exceeding V 
+      
+… 
+–  Other apparatus
+… 
+– – Other’
+At the material time, the rate of customs duties on imports of goods classified under subheading was 2.3%, while
+         the machines coming under subheadings and were exempt from duty.
+      
+ The explanatory notes to the HS
+The Customs Cooperation Council, now the World Customs Organisation, approves, under the conditions laid down in Article of the International Convention on the Harmonised Commodity Description and Coding System, the Explanatory Notes and Classification
+         Opinions adopted by the HS Committee. 
+      
+The explanatory notes concerning heading of the HS state as follows:
+      
+‘I. – Automatic data-processing machines and units thereof
+Data processing consists in handling information of all kinds, in pre-established logical sequences and for a specific purpose
+         or purposes.
+      
+… 
+ D. – Separately presented units
+This heading also covers separately presented constituent units of data processing systems. These may be in the form of units
+         having a separate housing and designed to be connected, for example, by cables to other machines on a system, or in the form
+         of units not having a separate housing and designed to be inserted into a machine (e.g., insertion onto the main board of
+         a central processing unit). … 
+      
+… 
+A machine can be classified under this heading as a unit of an automatic data‑processing system only if:
+(1)      it performs a data-processing function;
+(2)      it fulfils the conditions set out in Note 5(B) to the Chapter, including those in the introductory paragraph to that note;
+         and
+      
+(3)      it is not precluded by Note 5(E) to that Chapter.
+… 
+Apart from central processing units and input and output units, examples of such units include:
+… 
+(4)      Control and adaptor units such as those to effect interconnection of the central processing unit to other digital data processing
+         machines, or to groups of input or output units which may comprise visual display units, remote terminals, etc.
+      
+…      Channel to channel adaptors used to connect two digital systems to each other are also included in this category (for example,
+         two local networks).
+      
+… 
+II. –  Magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such
+         data, not elsewhere specified or included.
+      
+… 
+ B. – Machines for transcribing data onto data media in coded form
+… 
+(4)      Machines for introducing fixed programmes into integrated circuits (programmers). These machines are designed to transfer,
+         in coded form, the data contained in the internal memory of the programmers onto integrated circuits. The programmers “burn”
+         the information onto one or more integrated circuits following various techniques suitable for the type of programmable integrated
+         circuit used.
+      
+Some programmers have an additional feature (emulator) which allows the user to picture or emulate the result of the programming
+         before actually committing the programme to the integrated circuit.
+      
+… 
+Parts and accessories
+Subject to the general provisions regarding the classification of parts …, parts and accessories of the machines of this heading
+         are classified in heading 8473.’
+      
+The explanatory notes relating to heading of the HS, covering parts and accessories (other than covers, carrying cases
+         and the like) suitable for use solely or principally with the machines of headings to 8472, are worded as follow:
+      
+‘… 
+Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI),
+         this heading covers parts and accessories suitable for use solely or principally with the machines of headings to 8472.
+      
+The accessories covered by this heading are interchangeable parts or devices designed to adapt a machine for a particular
+         operation, or to perform a particular service relative to the main function of the machine, or to increase its range of operations.
+      
+The heading includes:
+… 
+(9)      the electronic memory modules [SIMM modules (single in-line memory modules) and DIMM modules (dual in-line memory modules),
+         for example] suitable for use solely or principally with automatic data processing machines which do not consist of discrete
+         components, as required by Note 5(B)(c) to Chapter 85, and which do not have a specific function.
+      
+… .’
+The explanatory notes relating to Chapter of the HS, Part A of which, entitled ‘Scope and structure of the Chapter’, is
+         included under the general considerations, state:
+      
+‘This Chapter covers all electrical machinery and equipment, other than:
+(a)      Machinery and apparatus of a kind covered by Chapter 84, which remains classified there even if electric … .’
+The explanatory notes relating to heading of the HS, covering electrical apparatus for switching or protecting electrical
+         circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors,
+         plugs, sockets, lamp-holders, junction boxes), for a voltage not exceeding volts, provide:
+      
+‘… 
+This heading covers electrical apparatus for a voltage not exceeding volts generally used for dwellings or industrial
+         equipment. However, heading covers the apparatus described below for a voltage exceeding volts.
+      
+The heading includes:
+… 
+ III. – Apparatus for making connections to or in electrical circuits
+This apparatus is used to connect together the various parts of an electrical circuit. It includes:
+(A)      Plugs, sockets and other contacts for connecting a movable lead or apparatus to an installation which is usually fixed. …
+         .’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+In July 2005, Data I/O applied to the Bundesfinanzdirektion Südost for the issue of a binding tariff information in respect
+         of an ‘adapter for programming equipment PA T009’ to be imported from the United States.
+      
+It is apparent from the order for reference that electronic memory and logic components are programmed using the adapter at
+         issue. It establishes a connection between the programming machine and electronic components to be programmed. This allows
+         data transferral from the programming machine to those components, which consist of a variety of forms and electrical contacts
+         and which cannot be directly connected to the programming machine. That adapter consists of a printed circuit equipped with
+         continuous capacitors in the form of a plug-in card, which is fitted with four sockets with built-in contact tabs. It also
+         contains a memory-chip on the adapter card which, by recording work progress, stores the programming process and from which
+         the latter can be retrieved.
+      
+The goods were classified by the binding tariff information, delivered on July 2005, under subheading of the
+         CN. The action brought by Data I/O against that information following the dismissal of its complaint against it, seeking to
+         have those goods classified under heading of the CN, or alternatively heading of the CN, was rejected by judgment
+         of the Finanzgericht München.
+      
+Hearing an appeal on a point of law brought by Data I/O against that judgment, the referring court is uncertain whether, under
+         the applicable regulation, the adapter at issue should not rather be classified under heading of the CN.
+      
+In those circumstances, the Bundesfinanzhof decided to stay the proceedings and to refer the following questions to the Court
+         for a preliminary ruling:
+      
+‘(1)      Is Note 5(B) to Chapter of the [CN] to be so interpreted that it allows an electrical adapter, which is designed to provide
+         the electrical connection between an automatic programming machine and electrical components to be programmed, to be classified
+         under heading of the [CN]?
+      
+(2)      If [the first] question is answered in the negative: is the aforementioned adapter then to be classified under heading of the [CN] if it contains a so-called memory-chip, on which the programming process is stored and from which it can be retrieved?’
+      
+ The questions referred for a preliminary ruling
+ Preliminary observations
+First of all, it should be stated that the reference for a preliminary ruling does not specify whether the function of the
+         electrical connection between the programming machine and the components to be programmed constitutes the sole function of
+         the adapter at issue in the main proceedings or whether the storage of the programming process, which can be retrieved later,
+         must be considered to be a function which is supplementary to and independent of the function of connection. Nor do the documents
+         before  the Court indicate whether the memory-chip can be retrieved without the adapter being connected to the programming
+         machine.
+      
+However, as the referring court itself points out, it follows from Note to Section XVI of the CN that composite machines
+         consisting of two or more machines fitted together to form a whole and other machines designed for the purpose of performing
+         two or more complementary or alternative functions are to be classified as if consisting only of that component or as being
+         that machine which performs the principal function. Moreover, pursuant to Note to Section XVI, where a machine or combination
+         of machines consists of individual components, but performing a clearly defined function, then the whole falls to be classified
+         in the heading appropriate to that function.
+      
+It should be recalled that, when the Court is requested to give a preliminary ruling on a matter of tariff classification,
+         its task is to provide the national court with guidance on the criteria the implementation of which will enable the latter
+         to classify the products at issue correctly in the CN, rather than to effect that classification itself, a fortiori since
+         the Court does not necessarily have available to it all the information which is essential in that regard. In any event, the
+         national court is in a better position to do so. However, in order to give the national court a useful answer, the Court may,
+         in a spirit of cooperation with national courts, provide it with all the guidance that it deems necessary (see, inter alia,
+         Case C‑56/Pärlitigu [2009] ECR I‑6719, paragraph and the case-law cited).
+      
+In the case before the referring court, it is for that court, first, to assess whether the adapter at issue in the main proceedings
+         constitutes a composite machine or a machine consisting of several components having a clearly defined function or several
+         different functions, and, secondly, to decide, where appropriate, what is the main function performed by that adapter so as
+         to carry out, in the light of that function, the classification of that adapter, while taking account of the criteria specified
+         by the Court.
+      
+ Substance
+By its two questions, which should be considered together, the referring court is essentially asking whether an adapter, such
+         as that at issue in the main proceedings, which performs the functions of the electrical connection between the programming
+         machine and the components to be programmed and of the storage of the programming process, which can be retrieved later, constitutes
+         a ‘unit’ of an automatic data-processing machine within the meaning of Note 5(B) to Chapter of the CN and therefore falls
+         under heading of that nomenclature.
+      
+Data I/O claims that the adapter at issue in the main proceedings serves to connect the automatic data-processing machine
+         and the electrical components to be programmed, thus allowing data transferral from that machine to those components. Furthermore,
+         it is, it alleges, capable of retransmitting and saving data so as to allow that machine to carry out the programming operation.
+         Therefore, those goods must be classified under heading of the CN.
+      
+The Commission, however, relying on the explanatory notes to the HS, asserts that a product can be considered to be a unit
+         of a data-processing machine, classified under heading of the CN, only where it also performs a data-processing function.
+         As that function is absent, the adapter at issue does not come under that heading. However, as that adapter contains a memory-chip
+         which allows it to retrieve subsequently the programming process, it is for the referring court to establish whether or not
+         the recording and retrieval of data constitute such a data-processing function.
+      
+It is appropriate from the outset to recall that, in accordance with the Court’s settled case-law, in the interests of legal
+         certainty and ease of verification, the decisive criterion for the classification of goods for customs purposes is in general
+         to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN
+         and in the section or chapter notes (see, inter alia, Case C‑142/Olicom [2007] ECR I‑6675, paragraph 16; and Case C‑376/Kamino International Logistics [2009] ECR I‑1167, paragraph 31).
+      
+The explanatory notes drawn up by the Commission as regards the CN and by the World Customs Organisation as regards the HS
+         are an important aid to the interpretation of the scope of the various tariff headings but do not have legally binding force
+         (Case C‑250/Turbon International [2006] ECR I‑10531, paragraph 16; and Case C‑173/Kloosterboer Services [2009] ECR I‑5347, paragraph 25).
+      
+As regards  heading of the CN in particular, it is apparent from Note 5(B) to Chapter of the CN that, in order to
+         be classified under that heading as a unit of an automatic data-processing machine, the machine must fulfil the three cumulative
+         conditions set out in Note 5(B)(a) to (c), that is to say, first, it must be of a kind solely or principally used in an automatic
+         data-processing system, secondly, it must be connectable to the central processing unit either directly or indirectly and,
+         thirdly, it must be able to accept or deliver data in a form which can be used by the system.
+      
+The referring court considers, on the basis of the findings of the Finanzgericht München, that it is established that the
+         adapter at issue in the main proceedings fulfils the two abovementioned conditions. It points out also that that adapter does
+         not have a specific function, within the meaning of Note 5(E), that it would be likely to perform independently of an automatic
+         data-processing machine. However, that court is uncertain whether, in order to be considered to be a unit of an automatic
+         data-processing machine, that adapter fulfils the condition set out in Note 5(B)(c) to Chapter 84, that is to say, that it
+         should be ‘able to accept or deliver data in a form (codes or signals) which can be used by the system’. 
+      
+It should be noted that the CN does not contain any indication of what should be understood by the concept of ‘[ability] to
+         accept or deliver data in a form (codes or signals) which can be used by the system’.
+      
+However, it is apparent in particular from Chapter I, Part D, of the explanatory note to the HS concerning heading of
+         the CN, that, according to point of the eighth paragraph of that part, a product can be considered to be a unit of an automatic
+         data-processing machine and classified under that heading only where it also performs a ‘data-processing function’.
+      
+With regard to the concept of ‘data-processing’, first, the first paragraph of Chapter I provides that such processing consists
+         in handling information of all kinds, in pre-established logical sequences and for a specific purpose or purposes. Secondly,
+         in the light both of the general scheme of that explanatory note and its context, it follows that that concept must be understood
+         as involving, in principle, the exploitation of data, such as recording, modifying, storing, converting or publishing that
+         data.
+      
+It follows that the adapter at issue in the main proceedings, one of whose functions is to record and store data by means
+         of a memory-chip, fulfils the condition set out in Note 5(B)(c) to Chapter of the CN, in so far as it carries out data-processing.
+      
+Where the referring court, having made the assessment referred to in paragraph of the present judgment, reaches the conclusion
+         that the recording function constitutes the main function of an adapter such as that at issue in the case before it, it must
+         be classified under heading of the CN as a ‘unit’ of automatic data processing machines.
+      
+Otherwise, it would be for that court to examine whether that adapter can be considered to be either a ‘part’ or an ‘accessory’
+         of an automatic data-processing machine and be classified under heading of the CN, as is claimed in the alternative by
+         Data I/O, or an ‘electrical apparatus for making connections to or in electrical circuits’ and be classified under heading
+         of the CN, as is proposed by the Hauptzollamt Hannover and the Commission.
+      
+In order to provide a useful answer to the referring court, it is necessary to specify the conditions under which goods can
+         be classified under those two headings.
+      
+First, it is apparent from the case-law of the Court that the word ‘part’, within the meaning of heading of the CN, implies
+         a whole for whose operation the part is essential (Kloosterboer Services, paragraph and the case-law cited).
+      
+Secondly, with regard to the word ‘accessory’, it is apparent from the explanatory notes to the HS concerning heading that ‘the accessories covered by this heading are interchangeable parts or devices designed to adapt a machine for a particular
+         operation, or to perform a particular service relative to the main function of the machine, or to increase its range of operations’.
+         That note refers, in particular, to ‘the electronic memory modules … suitable for use solely or principally with automatic
+         data processing machines which do not consist of discrete components’.
+      
+It is for the referring court to establish whether the adapter at issue in the main proceedings is essential to the functioning
+         of the programming machine or whether it constitutes either a part or device designed to adapt a machine for a particular
+         operation, or an element to perform a particular service relative to the main function of the machine.
+      
+It is only where that adapter can be classified neither under heading nor under heading of the CN that it would
+         be necessary to consider it to be an ‘electrical apparatus for making connections to or in electrical circuits’ and consequently
+         to fall under heading of the CN, the wording of which refers, in particular, to ‘electrical apparatus for switching or
+         protecting electrical circuits, or for making connections to or in electrical circuits’.
+      
+It is apparent from the explanatory notes to the HS concerning Chapter of the CN that, according to the first paragraph
+         of Part A of those notes, that chapter ‘covers all electrical machinery and equipment, other than … machinery and apparatus
+         of a kind covered by Chapter 84, which remains classified there even if electric’. Therefore, the adapter at issue in the
+         main proceedings can be classified under heading of the CN only if it is not covered by headings and thereof.
+      
+Having regard to the foregoing observations, the reply to the questions referred must be that an adapter, such as that at
+         issue in the main proceedings, which performs the functions of the electrical connection between the programming machine and
+         the components to be programmed and of the storage of the programming process, which can be retrieved later, fulfils the condition
+         set out in Note 5(B)(c) to Chapter of the CN and must be classified under heading thereof as a ‘unit’ of an automatic
+         data-processing machine, in so far as its main function is to carry out data-processing. Where that function is absent, such
+         an adapter must be classified under heading of the CN as a ‘part’ or ‘accessory’ of a machine, as the case may be, if
+         it is either essential to the functioning of that machine or constitutes a part or device designed to adapt a machine for
+         a particular operation or an element to perform a particular service relative to the main function of that machine, which
+         it is for the referring court to determine. Where that adapter cannot be classified under either of the abovementioned headings,
+         it must be considered to be an ‘electrical apparatus for making connections to or in electrical circuits’, and consequently
+         to fall under heading of the CN.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+An adapter, such as that at issue in the main proceedings, which performs the functions of the electrical connection between
+            the programming machine and the components to be programmed and of the storage of the programming process, which can be retrieved
+            later, fulfils the condition set out in Note 5(B)(c) to Chapter of the Combined Nomenclature in Annex I to Council Regulation
+            (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by
+            Commission Regulation (EC) No 1810/of September and must be classified under heading thereof as a ‘unit’
+            of an automatic data-processing machine, in so far as its main function is to carry out data-processing. Where that function
+            is absent, such an adapter must be classified under heading of the Combined Nomenclature as a ‘part’ or ‘accessory’ of
+            a machine, as the case may be, if it is either essential to the functioning of that machine or constitutes a part or device
+            designed to adapt a machine for a particular operation or an element to perform a particular service relative to the main
+            function of that machine, which it is for the referring court to determine. Where that adapter cannot be classified under
+            either of the abovementioned headings, it must be considered to be an ‘electrical apparatus for making connections to or in
+            electrical circuits’, and consequently to fall under heading of the Combined Nomenclature.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

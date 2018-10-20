@@ -1,0 +1,238 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+November (
+*)
+‛Transport — Rail transport — Obligation of the railway infrastructure manager to provide railway undertakings in real time with all information concerning train movements, in particular information on delays to connecting trains’
+In Case C‑136/11,
+REFERENCE for a preliminary ruling under Article TFEU from the Schienen-Control Kommission (Austria), made by decision of March 2011, received at the Court on March 2011, in the proceedings
+Westbahn Management GmbH
+v
+ÖBB-Infrastruktur AG,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, A. Borg Barthet (Rapporteur), J.‑J. Kasel, M. Safjan and M. Berger, Judges,
+Advocate General: N. Jääskinen,
+Registrar: M.‑A. Gaudissart, Head of Unit,
+having regard to the written procedure and further to the hearing on March 2012,
+after considering the observations submitted on behalf of:
+—
+Westbahn Management GmbH, by D. Böhmdorfer and R. Schender, Rechtsanwälte,
+—
+ÖBB-Infrastruktur AG, by G. Ganzger, A. Egger and G. Lansky, Rechtsanwälte,
+—
+the Polish Government, by M. Szpunar, acting as Agent,
+—
+the European Commission, by G. Braun and H. Støvlbæk, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2012,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 8(2) of, in conjunction with Part II of Annex II to, Regulation (EC) No 1371/of the European Parliament and of the Council of October on rail passengers’ rights and obligations (OJ L 315, p. 14) and Article of, in conjunction with Annex II to, Directive 2001/14/EC of the European Parliament and of the Council of February on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure (OJ L 75, p. 29, and corrigendum OJ L 220, p. 16), as amended by Directive 2004/49/EC of the European Parliament and of the Council of April (OJ L 164, p. 44) (‘Directive 2001/14’).
+The reference has been made in proceedings between Westbahn Management GmbH (‘Westbahn Management’) and ÖBB-Infrastruktur AG (‘ÖBB‑Infrastruktur’) concerning the refusal of ÖBB-Infrastruktur to provide Westbahn Management with real time data relating to other railway undertakings which would allow Westbahn Management to inform its passengers of the actual departure times of connecting trains.
+Legal context
+European Union legislation
+Directive 2001/According to recital in the preamble to Directive 2001/14:
+‘Greater integration of the Community railway sector is an essential element of the completion of the internal market and moving towards achieving sustainable mobility.’
+Article of Directive 2001/14, ‘Services’, provides:
+‘1.   Railway undertakings shall, on a non-discriminatory basis, be entitled to the minimum access package and track access to service facilities that are described in Annex II. The supply of services referred to in Annex II, point shall be provided in a non-discriminatory manner and requests by railway undertakings may only be rejected if viable alternatives under market conditions exist. If the services are not offered by one infrastructure manager, the provider of the “main infrastructure” shall use all reasonable endeavours to facilitate the provision of these services.
+2.   Where the infrastructure manager offers any of the range of services described in Annex II, point as additional services he shall supply them upon request to a railway undertaking.
+3.   Railway undertakings may request a further range of ancillary services, listed in Annex II, point from the infrastructure manager or from other suppliers. The infrastructure manager is not obliged to supply these services.’
+Annex II to that directive, ‘Services to be supplied to the railway undertakings’, provides:
+‘1.
+The minimum access package shall comprise:
+(a)
+handling of requests for infrastructure capacity;
+(b)
+the right to utilise capacity which is granted;
+(c)
+use of running track points and junctions;
+(d)
+train control including signalling, regulation, dispatching and the communication and provision of information on train movement;
+(e)
+all other information required to implement or operate the service for which capacity has been granted.
+2.
+Track access to services facilities and supply of services shall comprise:
+(a)
+use of electrical supply equipment for traction current, where available;
+(b)
+refuelling facilities;
+(c)
+passenger stations, their buildings and other facilities;
+(d)
+freight terminals;
+(e)
+marshalling yards;
+(f)
+train formation facilities;
+(g)
+storage sidings;
+(h)
+maintenance and other technical facilities.
+3.
+Additional services may comprise:
+(a)
+traction current;
+(b)
+pre-heating of passenger trains;
+(c)
+supply of fuel, shunting, and all other services provided at the access services facilities mentioned above;
+(d)
+tailor-made contracts for:
+—
+control of transport of dangerous goods,
+—
+assistance in running abnormal trains.
+4.
+Ancillary services may comprise:
+(a)
+access to telecommunication network;
+(b)
+provision of supplementary information;
+(c)
+technical inspection of rolling stock.’
+Regulation No 1371/According to recitals to and to in the preamble to Regulation No 1371/2007:
+‘(1)
+In the framework of the common transport policy, it is important to safeguard users’ rights for rail passengers and to improve the quality and effectiveness of rail passenger services in order to help increase the share of rail transport in relation to other modes of transport.
+(2)
+The Commission’s communication “Consumer Policy Strategy 2002-2006” [(OJ C 137, p. 2)] sets the aim of achieving a high level of consumer protection in the field of transport in accordance with Article 153(2) [EC].
+(3)
+Since the rail passenger is the weaker party to the transport contract, passengers’ rights in this respect should be safeguarded.
+(4)
+Users’ rights to rail services include the receipt of information regarding the service both before and during the journey. Whenever possible, railway undertakings and ticket vendors should provide this information in advance and as soon as possible.
+(5)
+More detailed requirements regarding the provision of travel information will be set out in the technical specifications for interoperability (TSIs) referred to in Directive 2001/16/EC of the European Parliament and of the Council of March on the interoperability of the conventional rail system [(OJ L 110, p. 27), as amended by Commission Directive 2007/32/EC of June (OJ L 141, p. 63)].
+…
+(7)
+Railway undertakings should cooperate to facilitate the transfer of rail passengers from one operator to another by the provision of through tickets, whenever possible.
+(8)
+The provision of information and tickets for rail passengers should be facilitated by the adaptation of computerised systems to a common specification.
+(9)
+The further implementation of travel information and reservation systems should be executed in accordance with the TSIs.’
+Article 8(2) of Regulation No 1371/provides:
+‘Railway undertakings shall provide the passenger during the journey with at least the information set out in Annex II, Part II.’
+Article 9(1) of that regulation provides:
+‘Railway undertakings and ticket vendors shall offer, where available, tickets, through tickets and reservations.’
+Article 18(1) of that regulation provides:
+‘In the case of a delay in arrival or departure, passengers shall be kept informed of the situation and of the estimated departure time and estimated arrival time by the railway undertaking or by the station manager as soon as such information is available.’
+Under Part II, ‘Information during the journey’, of Annex II to that regulation the following information is to be provided:
+‘On-board services
+Next station
+Delays
+Main connecting services
+Security and safety issues.’
+Austrian legislation
+Paragraph of the Law on railways (Eisenbahngesetz, BGBl. 60/1957, ‘the EisbG’) provides:
+‘The aim of the provisions of Part Six of the present federal law is to ensure the economical and efficient use of railway lines in Austria
+1.
+by establishing equal and functional competition between rail transport undertakings on the rail transport market on principal railway lines and on secondary lines connected with other principal or secondary railway lines,
+2.
+by encouraging the entry of new rail transport undertakings to the rail transport market,
+3.
+by ensuring access to railway infrastructure for those entitled to access,
+4.
+by establishing supervision of competition in order to protect those entitled to access from abuse of a dominant position.’
+Paragraph of the EisbG provides:
+‘1.   The railway infrastructure undertaking shall make available on a non‑discriminatory basis to those entitled to access, for the purpose of access to the railway infrastructure, in addition to that access, a minimum access package comprising the following services:
+1.
+use of points and junctions;
+2.
+train control including … the transmission and provision of information on train movements;
+3.
+those communication and information system services without which the exercise of access rights by those entitled to access is impossible for legal, practical and economic reasons.
+…
+4.   The railway infrastructure undertaking may make the following ancillary services available to those entitled to access, for the purpose of access to the railway infrastructure, but it is not obliged to do so:
+1.
+access to the telecommunications network which goes beyond the access provided for under subparagraph 1(3);
+2.
+provision of additional information;
+3.
+technical inspection of rolling stock.
+…’
+Paragraph of the EisbG provides:
+‘1.   A Schienen-Control Kommission [Rail Supervisory Commission] shall be established attached to the company Schienen-Control GmbH.
+2.   The Schienen-Control Kommission shall be responsible for performing the duties assigned to it in Parts 3, to 6b, and of the present federal law … and for ruling on appeals against decisions of Schienen-Control GmbH …
+3.   Schienen-Control GmbH shall be responsible for the management of the Schienen-Control Kommission. Schienen-Control GmbH staff, when acting for the Schienen-Control Kommission, shall be bound by the instructions of the chairperson or the member designated in the rules of procedure.’
+In accordance with Paragraph of the EisbG:
+‘1.   The Schienen-Control Kommission shall consist of a chairperson and two other members. A substitute member shall be appointed for each member. The substitute members shall take the place of members who are prevented from acting. The chairperson and the substitute chairperson, who must belong to the judiciary, shall be appointed by the Bundesminister für Justiz (Federal Minister for Justice). The other members and substitute members, who must be specialists in the relevant transport sectors, shall be appointed by the Federal Government, acting on a proposal of the Bundesminister für Verkehr, Innovation und Technologie (Federal Minister for Transport, Innovation and Technology).
+2.   The following may not belong to the Schienen-Control Kommission:
+1.
+Members of the Federal Government or of a provincial government, or State Secretaries;
+2.
+Persons who have a close legal or de facto connection with persons who perform duties for the Schienen-Control Kommission;
+3.
+Persons who are not eligible for election to the Nationalrat (National Council).
+3.   Members of the Schienen-Control Kommission and their substitute members shall be appointed for a term of five years. On expiry of that term, they shall continue to perform their duties until a new appointment is made. Appointments may be renewed. If a member or substitute member leaves office before that person’s term expires, a new member or substitute member shall be appointed in accordance with subparagraph for the remainder of the term of office.
+4.   Membership or substitute membership shall cease:
+1.
+on death;
+2.
+on expiry of the term of office;
+3.
+on resignation;
+4.
+where all other members find that the member or substitute member is unable to perform his duties properly because of severe physical or mental illness;
+5.
+where all other members find that the member or substitute member has not complied with invitations to attend three successive sittings without sufficient excuse;
+6.
+in the case of the chairperson or substitute chairperson, on ceasing to belong to the judiciary.
+5.   Members and substitute members are obliged to observe confidentiality in accordance with Article 20(3) of the Austrian Federal Constitution (Bundes‑Verfassungsgesetz).’
+Paragraph of the EisbG provides:
+‘Decisions of the Schienen-Control Kommission shall be taken by a majority of votes; abstentions are not permitted. In the event of a tie, the chairperson shall have the casting vote. The Schienen-Control Kommission shall adopt rules of procedure, under which individual members may be assigned to conduct current business, including adoption of procedural decisions. Members shall be independent and not bound by any instructions in the performance of their duties.’
+Paragraph of the EisbG provides:
+‘Unless provided otherwise in the present federal law, the Schienen-Control Kommission shall apply the General Law on administrative procedure (Allgemeines Verwaltungsverfahrensgesetz), including, in particular, its provisions on procedure before the independent administrative tribunals. Decisions of the Schienen-Control Kommission may not be set aside or varied by administrative action. An appeal may be brought before the Verwaltungsgerichtshof (Higher Administrative Court).’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Westbahn Management provides passenger rail transport services between Vienna and Salzburg (Austria) from the 2011/timetable period.
+ÖBB-Infrastruktur manages the major part of the Austrian railway network, including the line between Vienna and Salzburg. It has at its disposal real time data on all trains operating on the rail network for which it is responsible. The data includes the current position of the train and the arrival, passing, and departure times for the remainder of the journey.
+ÖBB-Infrastruktur transmits to each railway undertaking the real time data relating to that undertaking’s trains. By using a password-protected program, all railway undertakings can consult on ÖBB-Infrastruktur’s website the real time data of all trains running on the railway network it manages, but the various railway undertakings are not named in that data.
+In some principal stations ÖBB-Infrastruktur displays the actual arrival and departure times of passenger trains on screens.
+Westbahn Management requested ÖBB-Infrastruktur to provide it with real time data relating to other railway undertakings, in order for it to be able to inform its passengers of the actual departure times of connecting trains.
+ÖBB-Infrastruktur, by letter of October 2010, refused to accede to the request, on the ground that, in principle, it only transmitted data relating to the railway undertaking concerned. It advised Westbahn Management to reach an agreement with the other railway undertakings by which those undertakings would agree to the transmission of the data relating to them.
+No such agreement was reached, however, between Westbahn Management and any other railway undertaking. In particular, ÖBB-Personenverkehr AG (‘ÖBB‑PV’) refused to conclude an agreement of that kind. ÖBB-PV is the leading passenger transport undertaking in the Austrian market. Its sole shareholder is ÖBB-Holding AG, which is also the sole shareholder in ÖBB‑Infrastruktur.
+Westbahn Management contends that the failure to transmit the data is contrary to Part II of Annex II to Regulation No 1371/2007, and demands to be given access to that information. It consequently made an application to that effect to the Schienen-Control Kommission.
+Since it took the view that the outcome of the dispute before it depended on the interpretation of European Union law, the Schienen-Control Kommission decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Is Article 8(2) of, in conjunction with Part II of Annex II to, Regulation … No 1371/… to be interpreted as meaning that information on main connecting services must include, in addition to scheduled departure times, notification of delays to or cancellations of those connecting trains?
+2.
+If the answer to Question is in the affirmative:
+Is Article of, in conjunction with Annex II to, Directive 2001/… to be interpreted, in the light of Article 8(2) of, in conjunction with Part II of Annex II to, Regulation No 1371/2007, as meaning that the infrastructure manager is under an obligation to make available to railway undertakings, in a non-discriminatory manner, real time data on other railway undertakings’ trains, in so far as those trains constitute main connecting services within the meaning of Part II of Annex II to Regulation No 1371/2007?’
+Consideration of the questions referred
+Jurisdiction of the Court
+Before answering the questions referred, the Court must ascertain whether, as asserted in the order for reference, the Schienen-Control Kommission is a court or tribunal within the meaning of Article TFEU, and hence whether the Court has jurisdiction to answer the questions referred for a preliminary ruling.
+It is settled case‑law that, in order to determine whether a body making a reference is a court or tribunal within the meaning of Article TFEU, which is a question governed by European Union law alone, the Court takes account of a number of factors, such as whether the body is established by law, whether it is permanent, whether its jurisdiction is compulsory, whether its procedure is inter partes, whether it applies rules of law and whether it is independent (see, inter alia, Case C-246/Häupl [2007] ECR I-4673, paragraph 16; Case C-195/Österreichischer Rundfunk [2007] ECR I-8817, paragraph 19; and Case C-205/Umweltanwalt von Kärnten [2009] ECR I-11525, paragraph 35).
+On this point, as the Advocate General observes in point of his Opinion, it must be stressed that the Schienen-Control Kommission was established as a permanent body by Paragraph 81(1) of the EisbG. Paragraphs to of that law make it clear that the Schienen Control-Kommission meets the criteria that such a body should be established by law, have compulsory jurisdiction, be permanent, apply rules of law and be independent.
+Moreover, it must be observed, first, that according to the order for reference the General Law on administrative procedure applies to proceedings before the Schienen-Control Kommission and thus guarantees that the procedure before it is inter partes, since the parties are able to put forward their rights and their legal interests and the inter partes proceedings may take the form of a hearing in which witnesses and experts can take part.
+It must also be observed, secondly, that under Paragraph of the EisbG the Schienen-Control Kommission is governed by the ordinary law of administrative procedure, and that its decisions cannot be set aside by administrative decisions, but may be the subject of proceedings before the Verwaltungsgerichtshof.
+It follows from the foregoing that the Schienen-Control Kommission must be regarded as a court or tribunal within the meaning of Article TFEU, so that the Court has jurisdiction to answer the questions referred for a preliminary ruling.
+Question By its first question the Schienen-Control Kommission asks essentially whether Article 8(2) of, in conjunction with Part II of Annex II to, Regulation No 1371/must be interpreted as meaning that the information on main connecting services must, in addition to scheduled departure times, also include delays to or cancellations of those connecting services, in particular those of other railway undertakings.
+To answer the question, it must be recalled that, according to settled case‑law, in interpreting provisions of European Union law such as those at issue here, it is necessary to consider not only their wording but also their context and the objectives pursued by the rules of which they form part (see, inter alia, Case C-185/Velker International Oil Company [1990] ECR I-2561, paragraph 17, and Case C‑33/A [2012] ECR, paragraph 27).
+The objectives pursued by Regulation No 1371/are mentioned in its preamble. Thus recital in the preamble emphasises that, in the framework of the common transport policy, it is important to safeguard users’ rights for rail passengers and to improve the quality and effectiveness of rail passenger services. According to recitals and in the preamble, a high level of consumer protection must be achieved and the passenger, as the weaker party to the transport contract, must be protected. Recital refers to the right to obtain travel information both before and during the journey, and to do so as soon as possible. Furthermore, recitals 5, and in the preamble to the regulation also demonstrate the aim of facilitating access to the information in question at cross-border level.
+It is in the light of those objectives that Article of Regulation No 1371/must be interpreted.
+Article 8(2) of that regulation lays down that railway undertakings are to provide the passenger during the journey with at least the information set out in Part II of Annex II to the regulation. That information concerns on-board services, the next station, delays, main connecting services and security and safety issues.
+In order to observe the interests of passengers and the general objectives pursued by Regulation No 1371/2007, set out in paragraph above, the information supplied to the passenger must be of use to him.
+Information concerning delays to or cancellations of connecting trains which the passenger could have found out by consulting the screens before departure, if the delays or cancellations had been known at that time, is information which must also be communicated to the passenger where those delays or cancellations occur after departure. Passengers would otherwise, contrary to the objectives pursued by Regulation No 1371/2007, be informed only of the scheduled timetable of the main connecting services, and not of any changes occurring after departure, the information communicated to them thus being out of date.
+Railway undertakings are therefore obliged under Article 8(2) of and Part II of Annex II to Regulation No 1371/to provide information relating to the main connecting services in real time.
+Furthermore, Part II of Annex II to Regulation No 1371/mentions ‘main connecting services’, an expression which does not limit the railway undertaking’s obligation to provide information to its own main connecting services alone.
+Consequently, that obligation must be understood as referring to all main connecting services, comprising the main connecting services of the railway undertaking concerned as well as those operated by other railway undertakings. If that were not the case, the objective pursued by Regulation No 1371/of providing passengers with information would not be attained.
+That interpretation is confirmed by Article 9(1) of Regulation No 1371/2007, under which railway undertakings and ticket vendors are to offer, where available, tickets, through tickets and reservations. Recital in the preamble to that regulation specifies that the provision of through tickets facilitates the transfer of rail passengers from one operator to another. A restrictive interpretation of the information to which passengers must have access would hinder transfers by them, and compromise the objective thus pursued, by encouraging passengers to give preference to large railway undertakings which would be in a position to provide them in real time with information relating to all stages of their journey.
+Having regard to all the foregoing, the answer to Question is that Article 8(2) of, in conjunction with Part II of Annex II to, Regulation No 1371/must be interpreted as meaning that the information on main connecting services must, in addition to scheduled departure times, also include delays to or cancellations of those connecting services, whichever railway undertaking operates them.
+Question To answer this question on the obligations of the infrastructure manager, it must be noted that Article of Directive 2001/provides that railway undertakings are to be entitled, on a non-discriminatory basis, to the minimum access package and to track access to service facilities that are described in Annex II to that directive.
+Point 1(d) of Annex II to Directive 2001/14, which provides that those services include the communication and provision of information on train movements, must, as the Advocate General observes in point of his Opinion, be read in conjunction with point 1(e) of that annex, which entitles railway undertakings to all other information required to implement or operate the service for which capacity has been granted.
+It must be recalled, as stated in paragraph above, that real time information on main connecting services, in particular information relating to other railway undertakings, is necessary for any railway undertaking to be in a position to fulfil the obligations it has under Regulation No 1371/2007.
+Moreover, it is clear that, to ensure fair competition on the passenger rail transport market, it must be ensured that all railway undertakings are in a position to provide passengers with a comparable quality of service. As pointed out in paragraphs and above, if a railway undertaking could provide information only on its own connecting services, an undertaking with a larger network would be able to provide its passengers with more complete information than could be provided by an undertaking operating a limited number of lines, which would run counter both to the objective of greater integration of the railway sector, mentioned in recital in the preamble to Directive 2001/14, and to the obligation of providing passengers with information.
+Railway undertakings must therefore, for the purposes of the exercise of the right of access to railway infrastructure, be given information by the infrastructure manager in real time relating to the main connecting services operated by other railway undertakings, in order to be able, in accordance with Article of, in conjunction with point 1(e) of Annex II to, Directive 2001/14, to implement the service for which capacity has been granted.
+Moreover, contrary to the submissions of ÖBB-Infrastruktur, that information, which is available on screens at the various stations, cannot be regarded as being of a confidential or sensitive nature which would prevent its disclosure to the various railway undertakings concerned.
+Consequently, the answer to Question is that Article 8(2) of, in conjunction with Part II of Annex II to, Regulation No 1371/and Article of, in conjunction with Annex II to, Directive 2001/must be interpreted as meaning that the infrastructure manager is required to make available to railway undertakings, in a non-discriminatory manner, real time data relating to trains operated by other railway undertakings, in so far as those trains constitute main connecting services within the meaning of Part II of Annex II to Regulation No 1371/2007.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+1.
+Article 8(2) of, in conjunction with Part II of Annex II to, Regulation (EC) No 1371/of the European Parliament and of the Council of October on rail passengers’ rights and obligations must be interpreted as meaning that the information on main connecting services must, in addition to scheduled departure times, also include delays to or cancellations of those connecting services, whichever railway undertaking operates them.
+ 
+2.
+Article 8(2) of, in conjunction with Part II of Annex II to, Regulation No 1371/and Article of, in conjunction with Annex II to, Directive 2001/14/EC of the European Parliament and of the Council of February on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure, as amended by Directive 2004/49/EC of the European Parliament and of the Council of April 2004, must be interpreted as meaning that the infrastructure manager is required to make available to railway undertakings, in a non-discriminatory manner, real time data relating to trains operated by other railway undertakings, in so far as those trains constitute main connecting services within the meaning of Part II of Annex II to Regulation No 1371/2007.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

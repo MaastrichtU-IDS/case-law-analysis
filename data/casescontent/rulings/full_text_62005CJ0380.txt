@@ -1,0 +1,809 @@
+
+Case C-380/Centro Europa Srl
+v
+Ministero delle Comunicazioni e Autorità per le garanzie nelle comunicazioni
+and
+Direzione generale per le concessioni e le autorizzazioni del Ministero delle Comunicazioni
+(Reference for a preliminary ruling from the Consiglio di Stato)
+(Freedom to provide services – Electronic communications – Television broadcasting activities – New common regulatory framework – Allocation of radio frequencies)
+Summary of the Judgment
+1.        Preliminary rulings – Admissibility – Questions referred without sufficient information on the factual and legislative context
+            
+(Art. EC)
+2.        Preliminary rulings – Admissibility – Need to provide the Court with sufficient information on the factual and legislative
+            context 
+(Arts EC, 86(1)EC and EC)
+3.        Preliminary rulings – Jurisdiction of the Court
+(Art. EC)
+4.        Freedom to provide services – Electronic communications networks and services – Regulatory framework, authorisation and competition
+            – Directives 2002/21, 2002/and 2002/(Art. EC; European Parliament and Council Directives 2002/20, Arts 5(1) and (2), second subpara., and 7(3), and 2002/21,
+            Art. 9(1); Commission Directive 2002/77, Art. 4)
+1.        In the context of the cooperation between the Court and national courts established by Article EC, the decision making
+         the reference must set out the precise reasons why the national court was unsure as to the interpretation of Community law
+         and why it considered it necessary to refer questions to the Court for a preliminary ruling. Against that background, it is
+         essential that the national court provide at the very least some explanation of the reasons for the choice of the Community
+         provisions which it requires to be interpreted and of the link it establishes between those provisions and the national legislation
+         applicable to the dispute in the main proceedings.
+      
+In that respect, a question referred by a national court is inadmissible where it does not give any indication as to the Community
+         provisions which it requires to be interpreted or any explanation of the link it establishes between those provisions and
+         the dispute in the main proceedings or the subject-matter of that dispute.
+      
+(see paras 54-56)
+2.        The need to provide an interpretation of Community law which will be of use to the national court makes it necessary that
+         the referring court should define the factual and legislative context of the questions it is asking or, at the very least,
+         explain the factual circumstances on which those questions are based. Those requirements are of particular importance in the
+         area of competition, which is characterised by complex factual and legal situations.
+      
+In that regard, questions concerning, by implication, Article 86(1) EC, read in conjunction with Article EC, are inadmissible
+         if the decision making the reference does not contain any indication regarding, inter alia, the definition of the relevant
+         market, the calculation of the market shares held by the various undertakings operating on that market, and the supposed abuse
+         of a dominant position. 
+      
+(see paras 57-59, 61-63)
+3.        As regards a question referred for a preliminary ruling, where all aspects of the main proceedings before the national court
+         are confined within only one Member State, a reply might nonetheless be useful to that national court if its national law
+         were to require that a national of that Member State must be allowed to enjoy the same rights as those which a national of
+         another Member State would derive from Community law in the same situation. 
+      
+(see paras 64, 69)
+4.        Article EC and, from the date on which they became applicable, Article 9(1) of Directive 2002/21/EC on a common regulatory
+         framework for electronic communications networks and services, Article 5(1), the second subparagraph of Article 5(2) and Article
+         7(3) of Directive 2002/on the authorisation of electronic communications networks and services, and Article of Directive
+         2002/on competition in the markets for electronic communications networks and services must be interpreted as precluding,
+         in television broadcasting matters, national legislation the application of which makes it impossible for an operator holding
+         rights to broadcast in the absence of broadcasting radio frequencies granted on the basis of objective, transparent, non-discriminatory
+         and proportionate criteria.
+      
+(see para. 116, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+January (*)
+      
+(Freedom to provide services – Electronic communications – Television broadcasting activities – New common regulatory framework – Allocation of radio frequencies)
+In Case C‑380/05,
+REFERENCE for a preliminary ruling under Article EC, from the Consiglio di Stato (Italy), made by decision of April
+         2005, received at the Court on October 2005, in the proceedings
+      
+Centro Europa Srl
+v
+Ministero delle Comunicazioni e Autorità per le garanzie nelle comunicazioni,
+      
+Direzione generale per le concessioni e le autorizzazioni del Ministero delle Comunicazioni,
+      
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts (Rapporteur), President of the Chamber, G. Arestis, R. Silva de Lapuerta, J. Malenovský and T. von Danwitz,
+         Judges,
+      
+Advocate General: M. Poiares Maduro,
+Registrar: B. Fülöp, Administrator,
+having regard to the written procedure and further to the hearing on November 2006,
+after considering the observations submitted on behalf of:
+–        Centro Europa Srl, by A. Pace, R. Mastroianni and O. Grandinetti, avvocati,
+–        the Italian Government, by I.M. Braguglia, acting as Agent, assisted by P. Gentili, avvocato dello Stato,
+–        the Commission of the European Communities, by F. Benyon, E. Traversa, M. Shotter and F. Amato, acting as Agents, assisted
+         by L.G. Radicati di Brozolo, avvocato,
+      
+after hearing the Opinion of the Advocate General at the sitting on September 2007,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation, in the national terrestrial television broadcasting sector,
+         of the provisions of the EC Treaty on freedom to provide services and competition, Directive 2002/21/EC of the European Parliament
+         and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework
+         Directive) (OJ L 108, p. 33) (‘the Framework Directive’), Directive 2002/20/EC of the European Parliament and of the
+         Council of March on the authorisation of electronic communications networks and services (Authorisation Directive)
+         (OJ L 108, p. 21) (‘the Authorisation Directive’), Commission Directive 2002/77/EC of September on competition
+         in the markets for electronic communications networks and services (OJ L 249, p. 21) (‘the Competition Directive’), and
+         Article of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on November
+         (‘the ECHR’), in so far as Article EU refers thereto.
+      
+The reference has been made in proceedings between Centro Europa Srl (‘Centro Europa 7’) and the Ministero delle Comunicazioni,
+         the Autorità per le garanzie nelle comunicazioni and the Direzione generale per le concessioni e le autorizzazioni del Ministero
+         delle Comunicazioni (collectively, ‘the defendants in the main proceedings’).
+      
+ Relevant provisions
+ Community legislation 
+The new common regulatory framework for electronic communications services, electronic communications networks, associated
+         facilities and associated services (‘the NCRF’) consists of the Framework Directive and four specific directives, including
+         the Authorisation Directive, which are supplemented by the Competition Directive.
+      
+ The Framework Directive 
+Article 1(1) of the Framework Directive provides as follows:
+      
+‘This Directive establishes a harmonised framework for the regulation of electronic communications services, electronic communications
+         networks, associated facilities and associated services. It lays down tasks of national regulatory authorities and establishes
+         a set of procedures to ensure the harmonised application of the regulatory framework throughout the Community.’
+      
+Article 1(3) of the Framework Directive provides:
+      
+‘This Directive as well as the Specific Directives are without prejudice to measures taken at Community or national level,
+         in compliance with Community law, to pursue general interest objectives, in particular relating to content regulation and
+         audio-visual policy.’
+      
+Article of the Framework Directive provides:
+      
+‘For the purposes of this Directive:
+(a)      “electronic communications network” means transmission systems … which permit the conveyance of signals by wire, by radio,
+         by optical or by other electromagnetic means, including satellite networks, fixed … and mobile terrestrial networks, … networks
+         used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed;
+      
+…
+(c)      “electronic communications service” means a service normally provided for remuneration which consists wholly or mainly in
+         the conveyance of signals on electronic communications networks, including telecommunications services and transmission services
+         in networks used for broadcasting …
+      
+…’
+Article of the Framework Directive, entitled ‘Policy objectives and regulatory principles’, provides:
+      
+‘1.      Member States shall ensure that in carrying out the regulatory tasks specified in this Directive and the Specific Directives,
+         the national regulatory authorities take all reasonable measures which are aimed at achieving the objectives set out in paragraphs
+         2, and 4. Such measures shall be proportionate to those objectives.
+      
+…
+2.      The national regulatory authorities shall promote competition in the provision of electronic communications networks, electronic
+         communications services and associated facilities and services by inter alia:
+      
+…
+(b)      ensuring that there is no distortion or restriction of competition in the electronic communications sector;
+…
+(d)      encouraging efficient use and ensuring the effective management of radio frequencies and numbering resources. 
+3.      The national regulatory authorities shall contribute to the development of the internal market by inter alia:
+(a)      removing remaining obstacles to the provision of electronic communications networks, associated facilities and services and
+         electronic communications services at European level;
+      
+…’
+Article 9(1) of the Framework Directive provides that ‘Member States shall ensure the effective management of radio frequencies
+         for electronic communication services in their territory’ and ‘that the allocation and assignment of such radio frequencies
+         by national regulatory authorities are based on objective, transparent, non-discriminatory and proportionate criteria’.
+      
+Article 28(1) of the Framework Directive states that ‘Member States shall adopt and publish the laws, regulations and administrative
+         provisions necessary to comply with this Directive not later than July 2003’ and ‘shall apply those measures from July
+         2003.’
+      
+ The Authorisation Directive 
+Article of the Authorisation Directive provides:
+      
+‘1.      The aim of this Directive is to implement an internal market in electronic communications networks and services through the
+         harmonisation and simplification of authorisation rules and conditions in order to facilitate their provision throughout the
+         Community.
+      
+2.      This Directive shall apply to authorisations for the provision of electronic communications networks and services.’
+Article 2(1) of the Authorisation Directive provides:
+      
+‘For the purposes of this Authorisation Directive, the definitions set out in Article of … [the Framework Directive] shall
+         apply.’
+      
+Article 2(2)(a) of the Authorisation Directive provides that ‘general authorisation’ means ‘a legal framework established
+         by the Member State ensuring rights for the provision of electronic communications networks or services and laying down sector
+         specific obligations that may apply to all or to specific types of electronic communications networks and services, in accordance
+         with this Directive’.
+      
+Article of the Authorisation Directive, entitled ‘General authorisation of electronic communications networks and services’,
+         provides: 
+      
+‘1.      Member States shall ensure the freedom to provide electronic communications networks and services, subject to the conditions
+         set out in this Directive. To this end, Member States shall not prevent an undertaking from providing electronic communications
+         networks or services, except where this is necessary for the reasons set out in Article 46(1) of the Treaty.
+      
+2.      The provision of electronic communications networks or the provision of electronic communications services may, without prejudice
+         to the specific obligations referred to in Article 6(2) or rights of use referred to in Article 5, only be subject to a general
+         authorisation. The undertaking concerned may be required to submit a notification but may not be required to obtain an explicit
+         decision or any other administrative act by the national regulatory authority before exercising the rights stemming from the
+         authorisation. Upon notification, when required, an undertaking may begin activity, where necessary subject to the provisions
+         on rights of use in Articles 5, and 7.
+      
+…’
+Article of the Authorisation Directive, entitled ‘Rights of use for radio frequencies and numbers’, reads as follows:
+      
+‘1.      Member States shall, where possible, in particular where the risk of harmful interference is negligible, not make the use
+         of radio frequencies subject to the grant of individual rights of use but shall include the conditions for usage of such radio
+         frequencies in the general authorisation.
+      
+2.      Where it is necessary to grant individual rights of use for radio frequencies and numbers, Member States shall grant such
+         rights, upon request, to any undertaking providing or using networks or services under the general authorisation, subject
+         to the provisions of Articles 6, and 11(1)(c) of this Directive and any other rules ensuring the efficient use of those
+         resources in accordance with … [the Framework Directive].
+      
+Without prejudice to specific criteria and procedures adopted by Member States to grant rights of use of radio frequencies
+         to providers of radio or television broadcast content services with a view to pursuing general interest objectives in conformity
+         with Community law, such rights of use shall be granted through open, transparent and non-discriminatory procedures …
+      
+… 
+5.      Member States shall not limit the number of rights of use to be granted except where this is necessary to ensure the efficient
+         use of radio frequencies in accordance with Article 7.’
+      
+Article of the Authorisation Directive, entitled ‘Procedure for limiting the number of rights of use to be granted for radio
+         frequencies’, provides:
+      
+‘1.      Where a Member State is considering whether to limit the number of rights of use to be granted for radio frequencies, it shall
+         inter alia:
+      
+(a)      give due weight to the need to maximise benefits for users and to facilitate the development of competition;
+…
+(c)      publish any decision to limit the granting of rights of use, stating the reasons therefore;
+(d)      after having determined the procedure, invite applications for rights of use; and
+(e)      review the limitation at reasonable intervals or at the reasonable request of affected undertakings.
+…
+3.      Where the granting of rights of use for radio frequencies needs to be limited, Member States shall grant such rights on the
+         basis of selection criteria which must be objective, transparent, non-discriminatory and proportionate. Any such selection
+         criteria must give due weight to the achievement of the objectives of Article of … [the Framework Directive].
+      
+…’
+Article of the Authorisation Directive, entitled ‘Existing authorisations’, reads as follows:
+      
+‘1.      Member States shall bring authorisations already in existence on the date of entry into force of this Directive into line
+         with the provisions of this Directive by at the latest the date of application referred to in Article 18(1), second subparagraph.
+      
+…’
+Article 18(1) of the Authorisation Directive states that the ‘Member States shall adopt and publish the laws, regulations
+         and administrative provisions necessary to comply with this Directive by July at the latest’ and ‘shall apply those
+         measures from July 2003.’
+      
+ The Competition Directive
+According to points and of Article of the Competition Directive, that directive is to apply to electronic communications
+         networks and electronic communications services, as defined in Article 2(a) and (c) of the Framework Directive. 
+      
+Article of the Competition Directive, entitled ‘Exclusive and special rights for electronic communications networks and
+         electronic communications services’, provides: 
+      
+‘1.      Member States shall not grant or maintain in force exclusive or special rights for the establishment and/or the provision
+         of electronic communications networks, or for the provision of publicly available electronic communications services.
+      
+2.      Member States shall take all measures necessary to ensure that any undertaking is entitled to provide electronic communications
+         services or to establish, extend or provide electronic communications networks.
+      
+…
+4.      Member States shall ensure that a general authorisation granted to an undertaking to provide electronic communications services
+         or to establish and/or provide electronic communications networks, as well as the conditions attached thereto, shall be based
+         on objective, non-discriminatory, proportionate and transparent criteria.
+      
+…’
+Article of the Competition Directive, entitled ‘Rights of use of frequencies’, states:
+      
+‘Without prejudice to specific criteria and procedures adopted by Member States to grant rights of use of radio frequencies
+         to providers of radio or television broadcast content services with a view to pursuing general interest objectives in conformity
+         with Community law:
+      
+1.      Member States shall not grant exclusive or special rights of use of radio frequencies for the provision of electronic communications
+         services.
+      
+2.      The assignment of radio frequencies for electronic communication services shall be based on objective, transparent, non-discriminatory
+         and proportionate criteria.’
+      
+Article of the Competition Directive provides:
+      
+‘Member States shall supply to the Commission not later than July such information as will allow the Commission to
+         confirm that the provisions of this Directive have been complied with.’
+      
+ National legislation
+ Law No of July Law No of July (Ordinary Supplement to GURI No of July 1997) (‘Law No 249/1997’), which came into force
+         on August 1998, set up the Autorità per le garanzie nelle comunicazioni (Communications Regulatory Authority; ‘the Autorità’).
+      
+Article 2(6) of Law No 249/imposed restrictions on concentrations in the television broadcasting sector, prohibiting
+         the same operator from holding rights permitting it to broadcast at national level on more than 20% of the television channels
+         operating on terrestrial frequencies.
+      
+Article 3(1) of Law No 249/provided that operators authorised to broadcast under the previous legal framework could continue
+         to broadcast at national and local level until new rights were granted or applications for new rights were rejected but, in
+         any event, not after April 1998.
+      
+Article 3(2) of Law No 249/provided for the adoption by the Autorità of a national plan for the allocation of radio frequencies
+         for broadcast television (‘the national allocation plan for radio frequencies’) by January at the latest and, on the
+         basis of that plan, the allocation of new rights by April at the latest.
+      
+According to the information in the decision making the reference, borne out by the observations of the Italian Government
+         and the Commission of the European Communities, the national allocation plan for radio frequencies was adopted on October
+         by Decision No 68/of the Autorità, and that authority adopted, by Decision No 78/of December 1998, the regulation
+         concerning the conditions and detailed rules governing the grant of television broadcasting rights on analogue terrestrial
+         frequencies.
+      
+Article 3(6) of Law No 249/provided for transitional arrangements for the existing national television channels exceeding
+         the limits for concentration imposed in Article 2(6) of that Law (‘the channels in breach of the threshold’) by allowing those
+         channels to continue to broadcast on terrestrial radio frequencies on a transitional basis after April 1998, in compliance
+         with the obligations imposed on the channels holding rights, provided that the programmes were broadcast on satellite or cable
+         at the same time.
+      
+Under Article 3(7) of Law No 249/1997, the Autorità was entrusted with determining the period within which, having regard
+         to the real and significant increase in users watching programmes by cable or satellite, the channels in breach of the threshold
+         were to broadcast their programmes only by satellite or cable, thus relinquishing terrestrial radio frequencies. 
+      
+According to the information in the decision making the reference and supported by the observations of the Italian Government
+         and the Commission, by judgment No of the Corte costituzionale (Constitutional Court) (Italy) of November (GURI
+         of November 2002), that deadline was fixed at December 2003.
+      
+ Law No of March According to the case-file, under Decree-Law No of January (GURI No of January 2001, p. 5), converted into
+         law and amended by Law No of March (GURI No of March 2001, p. 3), the operators lawfully engaged in television
+         broadcasting activities on terrestrial frequencies were authorised to continue to broadcast until the national allocation
+         plan for radio frequencies for digital television was implemented.
+      
+ Law No of February and Law No of May Article of Decree-Law No of December (GURI No of December 2003, p. 4; ‘Decree-Law No 352/2003’), converted
+         into law and amended by Law No of February (GURI No of February 2004, p. 4), authorised the channels in breach
+         of the threshold to continue their broadcasts on the televised analogue and digital networks pending the completion of an
+         inquiry into the development of digital television channels.
+      
+Law No of May (Ordinary Supplement to GURI No of May 2004) (‘Law No 112/2004’) specified the different stages
+         for the launch of the phase of digital broadcasting on terrestrial radio frequencies.
+      
+Article of Law No 112/provides:
+      
+1.      ‘Until the national allocation plan for radio frequencies for digital television has been implemented, the operators exercising,
+         on any basis, television broadcasting activities at national or local level who fulfil the conditions necessary to obtain
+         authorisation for experimental digital broadcasting on terrestrial frequencies, under … Decree-Law No [of January 2001],
+         now, after amendment, Law No [of March 2001], may carry out, including by simultaneous repeats of programmes already
+         broadcast using analogue technology, the experimentation in question, until the conversion of the networks has been completed,
+         and apply, from the date of entry into force of this Law, … for the licences and authorisations necessary to broadcast using
+         digital technology on terrestrial frequencies.
+      
+2.      Experimental digital broadcasting may be carried out by means of installations lawfully exercising analogue activities on
+         the date of the entry into force of this Law.
+      
+3.      In order to allow digital networks to be set up, transfers of installations or branches of undertakings between operators
+         lawfully televising at national or local level shall be authorised, on condition that acquisitions are intended for digital
+         broadcasting.
+      
+…
+5.      With effect from the date of entry into force of this Law, the licence to operate a television network shall be issued, upon
+         request, to persons lawfully engaged in television broadcasting pursuant to a grant of rights or under the general consent
+         provided for in subparagraph 1, where they show that they have attained a coverage of not less than 50% of the population
+         or of the local catchment area.
+      
+…
+9.      In order to facilitate the conversion of the analogue system to the digital system, the broadcasting of television programmes
+         shall be carried on through installations lawfully operating on the date of the entry into force of this Law …’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+The dispute in the main proceedings relates to compensation for the harm which Centro Europa claims to have suffered as
+         a result of the fact that the defendants in the main proceedings did not allocate to it radio frequencies for terrestrial
+         analogue television broadcasting.
+      
+On July 1999, Centro Europa was granted by the competent Italian authorities, pursuant to Law No 249/1997, rights for
+         terrestrial television broadcasting at national level authorising the installation and use of a television network using analogue
+         technology. For the allocation of radio frequencies, the rights referred to the national allocation plan for radio frequencies,
+         which was adopted on October 1998. According to the national court, however, that plan has not been implemented, with the
+         result that, although it has rights, Centro Europa has never been in a position to broadcast for lack of radio frequencies.
+      
+Centro Europa brought an action before the Tribunale amministrativo regionale (Regional Administrative Court) del Lazio
+         (Italy) seeking, inter alia, a declaration that it was entitled to the allocation of frequencies and to compensation for the
+         damage suffered.
+      
+That court dismissed that application by judgment of September 2004.
+      
+According to the decision making the reference, in the appeal brought by Centro Europa against that judgment before the
+         Consiglio di Stato (Council of State) (Italy), the defendants in the main proceedings invoke against it, inter alia, Law No
+         112/2004.
+      
+While stating, in that decision, that it restricted its examination to Centro Europa 7’s application for damages and did not
+         intend to rule at that stage on the application for the grant of radio frequencies, the Consiglio di Stato observes that the
+         failure to allocate radio frequencies to Centro Europa was caused by essentially legislative factors.
+      
+It notes that Article 3(2) of Law No 249/enabled the ‘de facto users’ of radio frequencies, authorised to carry on their
+         activity under the earlier system, to continue broadcasting until new rights were granted or applications for new rights were
+         rejected and, in any event, not after April 1998.
+      
+It notes, also, that Article 3(7) of Law No 249/authorised the continuation of those broadcasts by referring back to
+         the Autorità to fix a deadline, on the sole condition that the programmes are broadcast simultaneously on terrestrial radio
+         frequencies and by satellite or cable. In the absence of a date fixed by the Autorità, the Corte costituzionale set December
+         as the date by which the programmes broadcast by the channels in breach of the threshold would have to be broadcast only
+         by satellite or cable, so that, according to the national court, the radio frequencies to be allocated to Centro Europa would be freed up.
+      
+According to the national court, that deadline was, however, not complied with following the intervention of the national
+         legislature, as Article of Decree-Law No 352/2003, now Law No of February 2004, extended the activities of the channels
+         in breach of the threshold pending the completion of an inquiry by the Autorità into the development of digital channels,
+         then by virtue of Law No 112/2004, in the light of, inter alia, Article 23(5) thereof.
+      
+Law No 112/extended, by a general authorisation mechanism, the possibility for the channels in breach of the threshold
+         to continue to broadcast on the terrestrial radio frequencies until the national allocation plan for radio frequencies for
+         digital television was implemented, with the result that those channels were not required to free up the radio frequencies
+         intended for allocation to the rights holders.
+      
+According to the national court, that Law therefore had the effect of blocking the radio frequencies intended for allocation
+         to the rights holders and of preventing operators other than those de facto broadcasting on terrestrial frequencies from participating
+         in the digital television experimentation.
+      
+Since Centro Europa disputed the compatibility of Decree-Law No 352/and Law No 112/with Community law, the Consiglio
+         di Stato asks whether the Italian legislation, starting from Law No 249/1997, is compatible with the Treaty provisions on
+         freedom to provide services and on competition, Articles and 9(1) of the Framework Directive, Articles 5, and of the
+         Authorisation Directive and the principle of pluralism of information sources, part of Article of the ECHR, as a general
+         principle of Community law.
+      
+In those circumstances, the Consiglio di Stato decided to stay the proceedings and to refer the following questions to the
+         Court for a preliminary ruling:
+      
+‘1. Does Article of the ECHR, as referred to in Article of the [EU] Treaty, guarantee pluralism in the broadcasting sector,
+         thus requiring the Member States to secure pluralism and competition in the sector based on an antitrust system which, in
+         step with technological development, secures network access and a multiplicity of operators and renders duopolistic market
+         behaviour unlawful?
+      
+2. Do the provisions of the … Treaty which secure freedom to provide services and competition, on the interpretation provided
+         by the Commission in the interpretative communication of April on grants of rights under Community law, require the
+         principles governing that matter to be capable of ensuring equal non-discriminatory treatment, as well as transparency, proportionality
+         and respect for the rights of individuals; and are those provisions and principles of the Treaty infringed by Article 3(7)
+         of Italian Law No 249/1997, and by Article of Decree-Law [No 352/2003], inasmuch as those provisions enabled individuals
+         operating networks in breach of the limits laid down by competition law to continue to operate, thereby excluding operators,
+         such as the appellant undertaking, which, though in possession of the relevant rights granted following a regular competitive
+         procedure, were unable to carry on the activity in respect of which such rights were granted because of a failure to allocate
+         frequencies owing to their insufficient number or scarcity as a result of the continued exercise of rights by the owners of
+         networks in breach of the limits on concentrations under antitrust law?
+      
+3. With effect from July 2003, does Article of [the Authorisation Directive] render that directive directly effective
+         in the internal legal order and oblige a Member State which has granted broadcasting rights (right to install networks or
+         provide electronic communication services or the right to use frequencies) to bring them into line with Community rules; and
+         does that entail the need actually to allocate the frequencies necessary for carrying on the activity in question?
+      
+4. Do Article of [the Framework Directive] and Article of the Authorisation Directive providing for transparent and non-discriminatory
+         public procedures (Article 5) conducted on the basis of objective, transparent, non-discriminatory and proportionate criteria
+         (Article 9) preclude a system providing for general authorisation under national law (Article 23(5) of Law No 112/2004); by
+         permitting the continued operation, under that system of networks in breach of limits and not selected under a competitive
+         procedure, do those provisions ultimately impinge on the Community-law rights under (Article 17(2) of the … Authorisation
+         Directive) of other undertakings which are prevented from operating even though they have been successful in competitive procedures?
+      
+5. Do Article of the [Framework Directive], the second subparagraph of Article 5(2) and Article 7(3) of the Authorisation
+         Directive, and Article of the [Competition Directive], require the Member States to arrange for the cessation, at least
+         as from July (see Article of the Authorisation Directive), of a situation of de facto use of frequencies (use of
+         facilities without grant of rights or authorisations issued following a selection procedure), on the basis of the broadcasting
+         system already in place, so that broadcasting cannot be undertaken where there is no proper planning in regard to matters
+         concerning the airwaves and no logical increase in pluralism, in contravention of rights awarded by the Member State following
+         a public procedure?
+      
+6. Is the derogation in the second subparagraph of Article 5(2) of the … Authorisation Directive, and in Article of the
+         [Competition Directive], available to be relied on by the Member State solely in order to protect pluralism of information
+         and to guarantee the protection of cultural or linguistic diversity and not in favour of operators of networks in breach of
+         the antitrust limits laid down in national competition legislation?
+      
+7. In order to benefit from the derogation under Article of [the Authorisation Directive], does the Member State have to
+         indicate the objectives actually pursued by the national derogatory rules?
+      
+8. May that derogation be applied, in addition to the case of the concessionary of the public broadcasting service (RAI in
+         Italy), in favour also of private operators who have been unsuccessful in competitive procedures and to the detriment of undertakings
+         who may have duly been granted rights following a competitive procedure?
+      
+9. Under Community rules (primary and secondary legislation) on workable competition in the broadcasting sector, ought the
+         national legislature to have avoided extending the old transitory analogue system on the advent of the terrestrial digital
+         system (and the attendant generalised transition to digital)? Only if analogue broadcasting is ended and replaced by the switch
+         to digital will it be possible to reallocate frequencies freed for various uses. If terrestrial digital is merely operated
+         alongside analogue, there will be an attendant accentuating of the scarcity of available frequencies owing to the existence
+         of analogue and digital transmission in parallel (simulcast)?
+      
+10. Lastly, is the pluralism of sources of information and of competition in the broadcasting sector, which is guaranteed
+         by European law, secured by national rules, such as Law No 112/providing for a new limit of per cent of resources
+         linked to a new very wide criterion (the ICS – integrated communications system – Article 2(g) and Article of Law No 112/2004)?
+         This criterion also brings in activities which do not affect media pluralism, whereas under antitrust law the “relevant market”
+         is constructed normally by differentiating the markets in the broadcasting sector by drawing a distinction between pay TV
+         and non-pay TV operating via the airwaves (reference is made inter alia to [Commission Decision of March declaring
+         a concentration to be compatible with the common market (Case No COMP/JV. – BSKYB/Kirch Pay TV], based on [Council Regulation
+         (EEC) No 4064/of December on the control of concentrations between undertakings] Merger Procedure 21/03/and
+         [Commission Decision of April declaring a concentration to be compatible with the common market and the EEA Agreement
+         (Case No COMP/M. – Newscorp/Telepiù), based on [Regulation No 4064/89].’
+      
+ The questions 
+By its questions, the national court asks the Court, essentially, to rule on the interpretation of the provisions of the Treaty
+         on freedom to provide services and competition, the Framework Directive, the Authorisation Directive, the Competition Directive
+         and Article of the ECHR, in so far as Article EU refers thereto.
+      
+ The jurisdiction of the Court and the admissibility of the questions
+As a preliminary point, it must be stated, first, that by some of its questions the national court is inviting the Court to
+         give a ruling on the compatibility with Community law of certain provisions of the Italian legislation relevant in this case.
+         
+      
+It is not the task of the Court, in preliminary ruling proceedings, to rule upon the compatibility of provisions of national
+         law with Community law or to interpret national legislation or regulations (see Case C‑151/Jaeger [2003] ECR I‑8389, paragraph 43, and Case C‑237/Enirisorse [2006] ECR I‑2843, paragraph and the case-law cited).
+      
+The Court has, however, repeatedly held that it is competent to give the national court full guidance on the interpretation
+         of Community law in order to enable it to determine the issue of compatibility for the purposes of the case before it (see,
+         inter alia, Case C‑292/Hünermundand Others [1993] ECR I‑6787, paragraph 8, and Enirisorse, paragraph 24).
+      
+It is therefore appropriate for the Court, in the present case, to restrict its analysis to the provisions of Community law
+         by providing an interpretation of them which will be of use to the national court, which has the task of determining the compatibility
+         of the provisions of national law with Community law, for the purposes of deciding the dispute before it.
+      
+Secondly, it must be recalled that, according to settled case-law, it is solely for the national court before which the dispute
+         has been brought, and which must assume responsibility for the subsequent judicial decision, to determine in the light of
+         the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment
+         and the relevance of the questions which it submits to the Court (Case C‑415/Bosman [1995] ECR I‑4921, paragraph 59, and Case C‑466/Acereda Herrera [2006] ECR I‑5341, paragraph 47).
+      
+None the less, the Court has no jurisdiction to give a preliminary ruling on a question submitted by a national court where
+         it is quite obvious that the ruling sought by that court on the interpretation of a Community rule bears no relation to the
+         actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before
+         it the factual or legal material necessary to give a useful answer to the questions submitted to it (Bosman, paragraph 61; Acereda Herrera, paragraph 48; and Joined Cases C‑94/and C‑202/Cipolla and Others [2006] ECR I‑11421, paragraph 25).
+      
+In that regard, the decision making the reference must set out the precise reasons why the national court was unsure as to
+         the interpretation of Community law and why it considered it necessary to refer questions to the Court for a preliminary ruling.
+         Against that background, it is essential that the national court provide at the very least some explanation of the reasons
+         for the choice of the Community provisions which it requires to be interpreted and of the link it establishes between those
+         provisions and the national legislation applicable to the dispute in the main proceedings (order in Case C‑167/Grau Gomis and Others [1995] ECR I‑1023, paragraph 9; Joined Cases C‑453/03, C‑11/04, C‑12/and C‑194/ABNA and Others [2005] ECR I‑10423, paragraph 46; Joined Cases C‑338/04, C‑359/and C‑360/Placanica and Others [2007] ECR I‑1891, paragraph 34; and Case C‑295/Asemfo [2007] ECR I‑2999, paragraph 33). 
+      
+It must be stated, however, that as regards its tenth question, the national court does not give any indication as to the
+         Community provisions which it requires to be interpreted or any explanation of the link it establishes between those provisions
+         and the dispute in the main proceedings or the subject-matter of that dispute.
+      
+The tenth question is for that reason inadmissible.
+      
+Thirdly, the need to provide an interpretation of Community law which will be of use to the national court makes it necessary
+         that the referring court should define the factual and legislative context of the questions it is asking or, at the very least,
+         explain the factual circumstances on which those questions are based (see Joined Cases C‑320/to C‑322/Telemarsicabruzzo and Others [1993] ECR I‑393, paragraph 6; Case C‑341/Bettati [1998] ECR I‑4355, paragraph 67; Case C‑67/Albany International [1999] ECR I‑5751, paragraph 39; and Cipolla and Others, paragraph 25).
+      
+Those requirements are of particular importance in the area of competition, which is characterised by complex factual and
+         legal situations (see Telemarsicabruzzo and Others, paragraph 7; Bettati, paragraph 68; and Albany International, paragraph 39).
+      
+In this case, as the Advocate General notes in point of his Opinion, it seems that, by asking for an interpretation of
+         the provisions of the Treaty on competition in its second question, the referring court has in mind, essentially, Article 86(1)
+         EC, read in conjunction with Article EC.
+      
+In accordance with the Court’s case‑law, a Member State infringes the prohibitions laid down by those two provisions where
+         the undertaking in question, merely by exercising the special or exclusive rights conferred on it, is led to abuse its dominant
+         position or where such rights are liable to create a situation in which that undertaking is led to commit such abuses (Joined
+         Cases C‑180/to C‑184/Pavlov and Others [2000] ECR I‑6451, paragraph 127; Case C‑475/Ambulanz Glöckner [2001] ECR I‑8089, paragraph 39; and Case C‑451/Servizi Ausiliari Dottori Commercialisti [2006] ECR I‑2941, paragraph 23).
+      
+However, the decision making the reference does not contain any indication regarding, inter alia, the definition of the relevant
+         market, the calculation of the market shares held by the various undertakings operating on that market, and the supposed abuse
+         of a dominant position.
+      
+Consequently, it must be held that, in so far as it relates to the Treaty provisions on competition, the second question is
+         inadmissible (see, to that effect, Case C‑134/Viacom Outdoor [2005] ECR I‑1167, paragraphs to 29).
+      
+The ninth question must be regarded as being inadmissible on the same grounds.
+      
+Fourthly, it is necessary to determine whether the Court has jurisdiction in the present case to give a ruling on Article EC, since it is common ground that all aspects of the main proceedings are confined within only one Member State.
+      
+National legislation such as that at issue in the main proceedings, which applies without distinction to Italian nationals
+         and to nationals of other Member States, is generally likely to fall within the scope of the provisions on freedom to provide
+         services established by the Treaty only to the extent to which it applies to situations related to intra-Community trade (see,
+         to that effect, Case 286/Oosthoek’s Uitgeversmaatschappij [1982] ECR 4575, paragraph 9, and Case C‑6/Anomar and Others [2003] ECR I‑8621, paragraph 39).
+      
+It is possible, in the main proceedings, that undertakings established in Member States other than the Italian Republic have
+         been or would be interested in providing the services concerned (see, to that effect, Case C‑87/Commission v Belgium [1996] ECR I‑2043, paragraph 33, and Case C‑458/Parking Brixen [2005] ECR I‑8585, paragraph 55).
+      
+The finding of a link with intra-Community trade will be presumed if the market in question has a certain cross-border interest
+         (Case C‑507/Commission v Ireland [2007] ECR I‑0000, paragraph 29), which it is for the national court to determine.
+      
+In any event, it is necessary to answer the second question referred to the Court in this case since it relates to Article EC.
+      
+Such a reply might be useful to the national court if its national law were to require that an Italian national must be allowed
+         to enjoy the same rights as those which a national of another Member State would derive from Community law in the same situation
+         (Case C‑448/Guimont [2000] ECR I‑10663, paragraph 23; Joined Cases C‑515/99, C‑519/to C‑524/and C‑526/to C‑540/Reisch and Others [2002] ECR I‑2157, paragraph 26; Anomar and Others, paragraph 41; Servizi Ausiliari Dottori Commercialisti, paragraph 29; and Cipolla and Others, paragraph 30).
+      
+Consequently, the Court has jurisdiction to give a ruling on the interpretation of Article EC.
+      
+The second question is therefore admissible in so far as it relates to Article EC.
+      
+ The second, fourth and fifth questions
+The second, fourth and fifth questions all relate, essentially, to whether the provisions of Article EC or the NCRF preclude,
+         in television broadcasting matters, national legislation the application of which means that it is impossible for an operator
+         holding rights to broadcast without the allocation of broadcasting radio frequencies.
+      
+It is true that, in respect of the second question, the Court can answer from the point of view of Article EC only in so
+         far as that question relates to Italian legislation, namely Article 3(7) of Law No 249/1997, which pre-dates the application
+         of the NCRF, as is clear from Article 28(1) of the Framework Directive, Article 18(1) of the Authorisation Directive and Article of the Competition Directive.
+      
+Likewise, the fourth and fifth questions refer only to the NCRF, since they concern national legislation subsequent to the
+         date of application of the NCRF, namely the provisions of Law No 112/2004.
+      
+First, however, the second question also relates to Italian legislation subsequent to the applicability of the NCRF, namely
+         Article of Decree-Law No 352/2003.
+      
+Secondly, as pointed out by the Commission in its observations to the Court, the NCRF implemented provisions of the Treaty,
+         in particular those on freedom to provide services, in the area of electronic communications networks and services, as defined
+         in Articles 2(a) and (c) of the Framework Directive, Article 2(1) of the Authorisation Directive and points and of Article of the Competition Directive.
+      
+The second, fourth and fifth questions must therefore be dealt with together, since the answers relating to the NCRF are relevant
+         only from its date of application, as set out in Article 28(1) of the Framework Directive, Article 18(1) of the Authorisation
+         Directive and Article of the Competition Directive.
+      
+In order to provide an answer which is of use to the national court, it should be recalled that the Treaty does not require
+         national monopolies having a commercial character to be abolished completely, but requires them to be adjusted in such a way
+         as to ensure that no discrimination regarding the conditions under which goods are procured and marketed exists between nationals
+         of Member States (Case C‑189/Franzén [1997] ECR I‑5909, paragraph and the case-law cited).
+      
+However, Article EC precludes the application of any national rules which have the effect of making the provision of services
+         between Member States more difficult than the provision of services purely within one Member State (Joined Cases C‑544/and C‑545/Mobistar and Belgacom Mobile [2005] ECR I‑7723, paragraph 30).
+      
+In the area of electronic communications networks and services, those principles were implemented by the NCRF.
+      
+Article of the Framework Directive places on the Member States the obligation to ensure that the national regulatory authorities
+         take all reasonable measures aimed at promoting competition in the provision of electronic communications services, ensuring
+         that there is no distortion or restriction of competition in the electronic communications sector and removing remaining obstacles
+         to the provision of those services at European level.
+      
+Likewise, Article 2(2) of the Competition Directive requires the Member States to take all measures necessary to ensure that
+         any undertaking is entitled to provide electronic communications services or to establish, extend or provide electronic communications
+         networks.
+      
+Article 3(1) of the Authorisation Directive also enjoins the Member States to ensure the freedom to provide electronic communications
+         networks and services and prohibits them from preventing an undertaking from providing those networks or services, except
+         where this is necessary for the reasons set out in Article 46(1) EC.
+      
+For that purpose, Article 3(2) of the Authorisation Directive states that the provision of electronic communications networks
+         or electronic communications services may be subject only to a general authorisation.
+      
+On that point, it must be stated that, in the area of television broadcasting, freedom to provide services, as enshrined in
+         Article EC and implemented in this area by the NCRF, requires not only the grant of broadcasting authorisations, but also
+         the grant of broadcasting radio frequencies.
+      
+An operator cannot exercise effectively the rights which it derives from Community law in terms of access to the television
+         broadcasting market without broadcasting radio frequencies.
+      
+To that end, Article 9(1) of the Framework Directive provides that the ‘Member States shall ensure the effective management
+         of radio frequencies for electronic communication services in their territory’.
+      
+Similarly, Article 5(1) of the Authorisation Directive states that, where possible, Member States may not, in particular where
+         the risk of harmful interference is negligible, make the use of radio frequencies subject to the grant of individual rights
+         of use but are to include the conditions for usage of such radio frequencies in the general authorisation.
+      
+Moreover, point of Article of the Competition Directive prohibits the Member States from granting exclusive or special
+         rights of use of radio frequencies for the provision of electronic communications services.
+      
+In the present case, the national court questions the Court on the criteria applied for the grant of radio frequencies for
+         the purpose of operating on the analogue television broadcasting market.
+      
+The national court is not questioning the Court on the criteria which have been applied, pursuant to Law No 249/1997, for
+         the grant of rights to operate on the analogue television broadcasting market. Nor are those criteria disputed by Centro Europa
+         7, either before the national court or in the observations it has submitted to the Court, since Centro Europa was granted
+         rights in accordance with those criteria.
+      
+There is therefore no need for the Court to give a ruling on those criteria.
+      
+The national court has doubts as to the compatibility of Law No 249/with Community law only in so far as Article 3(7)
+         of that Law set up transitional arrangements in favour of the incumbent networks, which had the effect of preventing operators
+         without radio frequencies, such as Centro Europa 7, from accessing the market in question.
+      
+The national court is also questioning the Court on the criteria applied, pursuant to Law No 112/2004, for granting rights
+         to operate on the digital and analogue television broadcasting market, only in so far as those criteria consolidated the transitional
+         arrangements structured in favour of the existing networks in Article of Decree-Law No 352/2003, which had the effect of
+         precluding the grant to operators of radio frequencies for the purpose of operating on the analogue television broadcasting
+         market, even though they had been granted rights under Law No 249/1997.
+      
+In that regard, the successive application of the transitional arrangements structured in favour of the incumbent networks
+         in Article 3(7) of Law No 249/and Article of Decree-Law No 352/had the effect of preventing operators without
+         broadcasting radio frequencies from accessing the market in question.
+      
+The view must also be taken that, by issuing a general authorisation to operate on the broadcasting services market only to
+         the incumbent networks, Article 23(5) of Law No 112/consolidated the restrictive effect confirmed in the preceding paragraph.
+      
+First, by limiting de facto the number of operators able to broadcast on the market in question, those measures are and/or
+         were likely to hinder the provision of services in the area of television broadcasting.
+      
+Secondly, those measures have and/or have had the effect of freezing the structures on the national market and protecting
+         the position of the operators already active on that market.
+      
+Consequently, Article EC and, from the date on which they became applicable, Article 9(1) of the Framework Directive, Article 5(1)
+         of the Authorisation Directive and point of Article of the Competition Directive preclude such measures unless they are
+         justified.
+      
+In that respect, it is clear from the case-law of the Court that a licensing system which restricts the number of operators
+         in the national territory is capable of being justified by general-interest objectives (see, to that effect, Placanica and Others, paragraph 53), on condition that the restrictions resulting from them are appropriate and do not go beyond what is necessary
+         to attain those objectives.
+      
+Thus, the NCRF expressly allows the Member States, under Article 1(3) of the Framework Directive, to adopt or maintain, in
+         compliance with Community law, provisions pursuing general-interest objectives, in particular relating to audio‑visual policy.
+      
+Likewise, the first subparagraph of Article 5(2) of the Authorisation Directive allows the Member States to grant rights to
+         the use of radio frequencies on an individual basis with a view to complying with the objective of the efficient use of radio
+         frequencies, as referred to by the Framework Directive.
+      
+However, as the Advocate General stated in points and of his Opinion, in order for such arrangements, which generally
+         adversely affect Article EC and the NCRF, to be justified they must not only comply with general-interest objectives but
+         also be structured on the basis of objective, transparent, non‑discriminatory and proportionate criteria (see, to that effect,
+         Placanica and Others, paragraph and the case-law cited).
+      
+Accordingly, Article 9(1) of the Framework Directive provides that the Member States are to ensure that the allocation and
+         assignment of radio frequencies by the national regulatory authorities are based on objective, transparent, non‑discriminatory
+         and proportionate criteria.
+      
+Furthermore, where it is necessary to grant individual rights to the use of radio frequencies, those rights must be granted,
+         under the second subparagraph of Article 5(2) of the Authorisation Directive, ‘through open, transparent and non‑discriminatory
+         procedures’.
+      
+Likewise, pursuant to Article 7(3) of the Authorisation Directive, ‘[w]here the granting of rights of use for radio frequencies
+         needs to be limited, Member States shall grant such rights on the basis of selection criteria which must be objective, transparent,
+         non-discriminatory and proportionate’.
+      
+That requirement is backed up by point of Article of the Competition Directive, under which ‘the assignment of radio frequencies
+         for electronic communication services shall be based on objective, transparent, non‑discriminatory and proportionate criteria’.
+      
+In the main proceedings, according to the information supplied by the national court, under Law No 249/the allocation
+         of radio frequencies to a limited number of operators was not carried out in accordance with such criteria. 
+      
+First, those radio frequencies were allocated de facto to the incumbent networks under the transitional arrangements adjusted
+         in Article 3(7) of Law No 249/1997, even though some of those networks had not been granted rights under that Law.
+      
+Secondly, operators such as Centro Europa were not allocated radio frequencies even though they had been granted rights
+         under that Law.
+      
+Consequently, irrespective of the objectives pursued by Law No 249/with regard to the system for the grant of radio frequencies
+         to a limited number of operators, the view must be taken that Article EC precluded such a system.
+      
+The same conclusion must be drawn as regards the system for the grant of radio frequencies to a limited number of operators
+         under Law No 112/2004, in the sense that that scheme was not implemented on the basis of objective, transparent, non‑discriminatory
+         and proportionate criteria, in breach of Article EC and, from the date on which they became applicable, Article 9(1) of
+         the Framework Directive, the second subparagraph of Article 5(2) and Article 7(3) of the Authorisation Directive and point
+         of Article of the Competition Directive.
+      
+Under Law No 112/2004, radio frequencies were granted to the incumbent operators and the latter were authorised to broadcast
+         under the transitional arrangements adjusted in Article of Decree-Law No 352/2003, which merely extended the transitional
+         arrangements set up by Law No 249/1997.
+      
+In any event, the restrictions established above cannot be justified by the need to ensure a swift transformation to digital
+         television broadcasting.
+      
+Irrespective of whether such an objective may constitute a general-interest objective capable of justifying such restrictions,
+         it is clear, as the Commission rightly pointed out in the observations which it submitted to the Court, that the Italian legislation,
+         in particular Law No 112/2004, does not merely allocate to the incumbent operators a priority right to obtain radio frequencies,
+         but reserves them that right exclusively, without restricting in time the privileged position assigned to those operators
+         and without providing for any obligation to relinquish the radio frequencies in breach of the threshold after the transfer
+         to digital television broadcasting.
+      
+Having regard to all of the foregoing considerations, the answer to the second, fourth and fifth questions, taken together,
+         must be that Article EC and, from the date on which they became applicable, Article 9(1) of the Framework Directive, Article 5(1),
+         the second subparagraph of Article 5(2) and Article 7(3) of the Authorisation Directive and Article of the Competition Directive
+         must be interpreted as precluding, in television broadcasting matters, national legislation the application of which makes
+         it impossible for an operator holding rights to broadcast in the absence of broadcasting radio frequencies granted on the
+         basis of objective, transparent, non-discriminatory and proportionate criteria.
+      
+ The first and third questions
+By its first question, the national court asks the Court, essentially, to state whether the provisions of Article of the
+         ECHR, in so far as Article EU refers thereto, preclude, in television broadcasting matters, national legislation the application
+         of which makes it impossible for an operator holding rights, such as Centro Europa 7, to broadcast without the grant of broadcasting
+         radio frequencies.
+      
+By its third question, the national court questions the Court in regard to the obligation, arising from the possible direct
+         effect of Article of the Authorisation Directive from the date on which it became applicable, on the Member State which
+         has granted rights for television broadcasting activity, to bring those rights into line with Community law and, therefore,
+         to allocate to Centro Europa the broadcasting radio frequencies necessary for it to carry on that activity.
+      
+By those questions, the national court is thus seeking to determine whether there are infringements of Community law for the
+         purpose of ruling on an application for compensation for the losses flowing from such infringements.
+      
+It follows from the answer to the second, fourth and fifth questions that Article EC and, from the date on which they became
+         applicable, Article 9(1) of the Framework Directive, Article 5(1), the second subparagraph of Article 5(2) and Article 7(3)
+         of the Authorisation Directive and Article of the Competition Directive must be interpreted as precluding, in television
+         broadcasting matters, national legislation the application of which makes it impossible for an operator holding rights to
+         broadcast in the absence of broadcasting radio frequencies granted on the basis of objective, transparent, non-discriminatory
+         and proportionate criteria.
+      
+That answer, by itself, thus enables the national court to rule on the application made by Centro Europa for compensation
+         for the losses suffered.
+      
+Consequently, regard being had to the Court’s answer to the second, fourth and fifth questions, it is not necessary to rule
+         on the first and third questions.
+      
+ The sixth, seventh and eighth questions
+By its sixth, seventh and eighth questions, the national court questions the Court, essentially, in regard to the conditions
+         for the application by the Member States of the derogation laid down in the second subparagraph of Article 5(2) of the Authorisation
+         Directive and Article of the Competition Directive.
+      
+It follows from the answer to the fourth and fifth questions that, from the date on which they became applicable, the second
+         subparagraph of Article 5(2) of the Authorisation Directive and Article of the Competition Directive must be interpreted
+         as precluding, in television broadcasting matters, national legislation the application of which makes it impossible for an
+         operator holding rights to broadcast in the absence of broadcasting radio frequencies granted on the basis of objective, transparent,
+         non-discriminatory and proportionate criteria.
+      
+Accordingly, it follows from that reply that compliance with objective, transparent, non-discriminatory and proportionate
+         criteria constitutes a necessary condition for the application of the derogation laid down in the second subparagraph of Article 5(2)
+         of the Authorisation Directive and Article of the Competition Directive.
+      
+There is therefore no need to rule on any other potential conditions for the application of that derogation, such as those
+         referred to in the sixth, seventh and eighth questions.
+      
+Consequently, having regard to the Court’s answer to the fourth and fifth questions, taken together with the second question,
+         there is no need to give a ruling on the sixth, seventh and eighth questions.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+Article EC and, from the date on which they became applicable, Article 9(1) of Directive 2002/21/EC of the European Parliament
+            and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework
+            Directive), Article 5(1), the second subparagraph of Article 5(2) and Article 7(3) of Directive 2002/20/EC of the European
+            Parliament and of the Council of March on the authorisation of electronic communications networks and services (Authorisation
+            Directive), and Article of Commission Directive 2002/77/EC of September on competition in the markets for electronic
+            communications networks and services must be interpreted as precluding, in television broadcasting matters, national legislation
+            the application of which makes it impossible for an operator holding rights to broadcast in the absence of broadcasting radio
+            frequencies granted on the basis of objective, transparent, non-discriminatory and proportionate criteria.
+[Signatures]
+* Language of the case: Italian.
+      
+Top  
+ 

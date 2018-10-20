@@ -1,0 +1,91 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+November (
+*)
+‛Sixth VAT Directive — Article 17(5), third subparagraph — Right to deduct input tax — Goods and services used for both taxable and exempt transactions — Letting of a building for commercial and residential purposes — Criterion for calculating the deductible proportion of VAT’
+In Case C‑511/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Bundesfinanzhof (Germany), made by decision of July 2010, received at the Court on October 2010, in the proceedings
+Finanzamt Hildesheim
+v
+BLC Baumarkt GmbH & Co. KG,
+THE COURT (First Chamber),
+composed of A. Tizzano, President of the Chamber, A. Borg Barthet, M. Ilešič, J.‑J. Kasel (Rapporteur) and M. Berger, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: A. Calot Escobar,
+after considering the observations submitted on behalf of:
+—
+the German Government, by T. Henze and J. Möller, acting as Agents,
+—
+the Greek Government, by F. Dedousi, G. Kotta, and K. Boskovits, acting as Agents,
+—
+the United Kingdom Government, by C. Murrell, acting as Agent,
+—
+the European Commission, by C. Soulay and B.‑R. Killmann, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on April 2012,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of the third subparagraph of Article 17(5) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1; ‘the Sixth Directive’).
+The reference has been submitted in the context of a dispute between Finanzamt Hildesheim (‘the Finanzamt’) and BLC Baumarkt GmbH & Co. KG (‘BLC’), a German company, as to how to calculate the deductible proportion of input value added tax (‘VAT’) paid in respect of a building used both for transactions subject to VAT and transactions exempt from VAT.
+Legal context
+European Union legislation
+The 12th recital in the preamble to the Sixth Directive reads as follows:
+‘… the rules governing deductions should be harmonised to the extent that they affect the actual amounts collected; … the deductible proportion should be calculated in a similar manner in all the Member States’.
+Article 17(5) of the Sixth Directive provides:
+‘As regards goods and services to be used by a taxable person both for transactions covered by paragraphs and 3, in respect of which [VAT] is deductible, and for transactions in respect of which [VAT] is not deductible, only such proportion of the [VAT] shall be deductible as is attributable to the former transactions.
+This proportion shall be determined, in accordance with Article 19, for all the transactions carried out by the taxable person.
+However, Member States may:
+(a)
+authorise the taxable person to determine a proportion for each sector of his business, provided that separate accounts are kept for each sector;
+(b)
+compel the taxable person to determine a proportion for each sector of his business and to keep separate accounts for each sector;
+(c)
+authorise or compel the taxable person to make the deduction on the basis of the use made of all or part of the goods and services;
+(d)
+authorise or compel the taxable person to make the deduction in accordance with the rule laid down in the first subparagraph, in respect of all goods and services used for all transactions referred to therein;
+(e)
+provide that, where the [VAT] which is not deductible by the taxable person is insignificant, it is to be treated as nil.’
+Article 19(1) of the Sixth Directive provides:
+‘The proportion deductible under the first subparagraph of Article 17(5) shall be made up of a fraction having:
+—
+as numerator, the total amount, exclusive of [VAT], of turnover per year attributable to transactions in respect of which [VAT] is deductible under Article 17(2) and (3),
+—
+as denominator, the total amount, exclusive of [VAT], of turnover per year attributable to transactions included in the numerator and to transactions in respect of which [VAT] is not deductible. The Member States may also include in the denominator the amount of subsidies, other than those specified in Article 11A(1)(a).
+The proportion shall be determined on an annual basis, fixed as a percentage and rounded up to a figure not exceeding the next unit.’
+German law
+Under Paragraph 15(4) of the Umsatzsteuergesetz (Law on turnover tax) (BGBl. I, p. 1270), as amended by the Steueränderungsgesetz (Law on tax amendment) (BGBl. I, p. 2645) (‘the UStG’):
+‘If the trader uses a product or service delivered, imported or acquired in the Community only in part to carry out transactions not giving rise to the right to deduct, the part of the input tax economically linked to those transactions does not give rise to the right to deduct. The trader may carry out a reasonable estimation of the amounts not giving rise to the right to deduct. A determination of the non-deductible part of the tax by reference to the percentage of turnover not giving rise to the right to deduct in relation to the turnover giving rise to that right is authorised only where no other economic allocation is possible.’
+The dispute in the main proceedings and the question referred
+During and 2004, BLC had a building built which included both living accommodation and commercial premises. After completion of the building, BLC let it, that letting being partly exempt from VAT and partly subject thereto. In its VAT declaration for 2004, BLC carried out a partial deduction of the input tax in relation to that building. To that end, BLC calculated the amount of deductible VAT by applying a proportion determined by reference to the ratio between the turnover in relation to the commercial letting and that arising from other letting transactions (‘the turnover-based method’).
+Following a tax inspection, the Finanzamt took the view that, in accordance with Paragraph 15(4) of the UStG, the amount of deductible input VAT had to be determined by reference to the ratio between the area of the commercial premises and that of the premises used for living accommodation. In this case, allocation carried out in accordance with that latter method caused a downward revision of the amount of deductible VAT. The Finanzamt therefore sent an amendment notice to BLC.
+BLC brought an action against that amendment notice before the Finanzgericht. That court allowed the action on the ground that the third sentence of Paragraph 15(4) of the UStG was contrary to EU law. Article 17(5)(c) of the Sixth Directive precluded a Member State from providing, as the main criterion, a criterion for allocation other the turnover-based method.
+The Finanzamt appealed on a point of law to the Bundesfinanzhof against the decision of the Finanzgericht. The Bundesfinanzhof considers it necessary to determine the question whether one of the possibilities set out in the third subparagraph of Article 17(5) of the Sixth Directive, more particularly that appearing in Article 17(5)(c), authorises Member States to restrict allocation arising from the application of the turnover-based method by providing that that method may be used only where no other economic allocation is possible.
+In those circumstances, the Bundesfinanzhof decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Is the third subparagraph of Article 17(5) of [the Sixth Directive] to be interpreted as authorising the Member States to prescribe primarily an apportionment criterion other than the [turnover-based] method for apportioning the input tax on the construction of a mixed-use building?’
+The question referred for a preliminary ruling
+By its question, the national court asks, in essence, whether the third subparagraph of Article 17(5) of the Sixth Directive must be interpreted as allowing Member States, for the purposes of calculating the proportion of input VAT deductible for the construction of a mixed-use building, to give precedence, as the key to allocation, to an allocation key other than that based on turnover appearing in Article 19(1) of that directive.
+In answering that question, it needs to be remembered that Article 17(5) of the Sixth Directive lays down the rules applicable to the right to deduct VAT where the VAT relates to goods or services used by the taxable person ‘both for transactions covered by paragraphs and 3, in respect of which value added tax is deductible, and for transactions in respect of which value added tax is not deductible’. In such a case, the first subparagraph of Article 17(5) of the Sixth Directive provides that only such proportion of the VAT is deductible as is attributable to the former taxable transactions (Case C-488/Royal Bank of Scotland [2008] ECR I-10409, paragraph 17).
+Under the second subparagraph of Article 17(5) of the Sixth Directive, the deductible amount is calculated according to a proportion fixed in accordance with Article of that directive (Royal Bank of Scotland, paragraph 18).
+However, as is apparent from paragraph of the judgment in Royal Bank of Scotland, the third subparagraph of Article 17(5) of the Sixth Directive, which begins with the word ‘however’, allows derogation from the rule set out in the first and second subparagraphs of Article 17(5) by permitting Member States to employ one of the other methods for determining the deductible amount listed in the third subparagraph of Article 17(5), namely determination of a separate proportion for each sector of business or deduction on the basis of the use made of all or part of the goods and services for a specific activity, or they may even exclude the right of deduction in certain circumstances.
+Since the third subparagraph of Article 17(5) of the Sixth Directive must thus be regarded as constituting a provision derogating from the first and second subparagraphs of Article 17(5), the Member States must, in the exercise of the powers conferred on them by that provision, respect the effectiveness of the first subparagraph of Article 17(5) of the Sixth Directive and the principles which underlie the common system of VAT, in particular those of fiscal neutrality and proportionality.
+Therefore, to permit a Member State to adopt legislation, such as that described by the national court, which derogates generally from the rules established by the first and second subparagraphs of Article 17(5) and by Article 19(1) of the Sixth Directive would be contrary to the latter. Such legislation would call into question the objective of the Sixth Directive, set out in the 12th recital thereof, according to which calculation of the deductible proportion must be carried out in a similar manner in all Member States.
+That interpretation is, moreover, in accordance with the purpose of the third subparagraph of Article 17(5) of the Sixth Directive, the provisions of which are suitable for application to given situations since they have the aim, in particular, by taking into account the specific characteristics of the taxable person’s activities, to permit Member States to achieve greater accuracy in calculating the deductible proportion (see, to that effect, Royal Bank of Scotland, paragraph 24).
+It follows that Article 17(5) of the Sixth Directive does not preclude a Member State, while complying with the principles underlying the common system of VAT, from giving precedence, for a given transaction, such as the construction of a mixed-use building, to one of the methods of calculating the deductible proportion provided for in the third subparagraph of that provision.
+Concerning the rules for calculating the deductible proportion to be applied in that type of situation, it should be noted that, apart from those which must be used in case of application of Article 17(5)(d) of the Sixth Directive, which refers expressly to the calculation rule referred to in the first subparagraph of Article 17(5) of that directive, the rules laid down in Article 19(1) of the latter do not apply in so far as a given situation is subject to one of the other special regimes provided for in the third subparagraph of Article 17(5) of the directive (see, to that effect, Royal Bank of Scotland, paragraph 21).
+As is quite clear from the wording of Articles 17(5) and 19(1) of the Sixth Directive, the latter provision refers only to the proportion deductible under the first subparagraph of Article 17(5) of the directive, and therefore lays down a detailed rule for calculating the proportion referred to in the first of those two provisions only (Royal Bank of Scotland, paragraph 22) and, by extension, for the deduction to be made pursuant to Article 17(5)(d) of the said directive.
+In the absence of indications in the Sixth Directive, it is for the Member States to establish, within the limits of compliance with EU law and the principles on which the common system of VAT is based, methods and rules governing the calculation of the deductible proportion of input VAT. In exercising that power, the Member States are obliged to take account of the purpose and general system of that directive (see, to that effect, Case C-437/Securenta [2008] ECR I-1597, paragraphs and 35).
+In this case, it must be held that, having regard, first, to the purpose of the third subparagraph of Article 17(5) of the Sixth Directive, which, as has been recalled in paragraph of this judgment, is designed to allow Member States to reach more precise results in calculating the deductible proportion, second, to the general system of Article 17(5) of that directive, and, third, to the principle of fiscal neutrality, on which the common system of VAT is based and of which the third subparagraph of Article 17(5) may be regarded as constituting an application, the Member States must ensure, when exercising the prerogatives recognised by that latter provision, that the calculation of the deductible proportion of input VAT is as precise as possible (see, by analogy, as regards determination of the proportion between economic and non-economic activities, Securenta, paragraph 37).
+The Sixth Directive does not therefore preclude Member States, when exercising that power, from applying, for a given transaction, a method or allocation key other than the turnover-based method, such as, in particular, that based on the floor area at issue in the main proceedings, on condition that the method used guarantees a more precise determination of the deductible proportion of the input VAT than that arising from application of the turnover-based method.
+In the case at issue in the main proceedings, it is for the national court to verify whether those conditions are complied with.
+Therefore, the answer to the question is that the third subparagraph of Article 17(5) of the Sixth Directive must be interpreted as allowing Member States, for the purposes of calculating the proportion of input VAT deductible for a given operation, such as the construction of a mixed-use building, to give precedence, as the key to allocation, to an allocation key other than that based on turnover appearing in Article 19(1) of that directive, on condition that the method used guarantees a more precise determination of the said deductible proportion.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+The third subparagraph of Article 17(5) of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes – Common system of value added tax: uniform basis of assessment must be interpreted as allowing Member States, for the purposes of calculating the proportion of input value added tax deductible for a given operation, such as the construction of a mixed-use building, to give precedence, as the key to allocation, to an allocation key other than that based on turnover appearing in Article 19(1) of that directive, on condition that the method used guarantees a more precise determination of the said deductible proportion.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

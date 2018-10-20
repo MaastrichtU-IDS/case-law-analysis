@@ -1,0 +1,205 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+June (
+*)
+‛Reference for a preliminary ruling — Electronic communications networks and services — Directive 2002/19/EC — Article 2(a) — Access to and use of specific network elements and associated facilities — Articles 5, 8, and — Competence of the national regulatory authorities — Obligation relating to access to and use of specific network elements and associated facilities — Undertaking with significant market power on a specific market — Drop cable connecting the distribution frame of the access network to the network termination point at the end-user’s premises — Proportionality of the obligation to meet reasonable requests for access to and use of specific network elements and associated facilities — Directive 2002/21/EC — Article — Policy objectives for the carrying out of the tasks of the national regulatory authorities’
+In Case C‑556/12,
+REQUEST for a preliminary ruling under Article TFEU from the Østre Landsret (Denmark), made by decision of November 2012, received at the Court on December 2012, in the proceedings
+TDC A/S
+v
+Teleklagenævnet,
+THE COURT (Third Chamber),
+composed of M. Ilešič, President of the Chamber, C.G. Fernlund, A. Ó Caoimh, C. Toader and E. Jarašiūnas (Rapporteur), Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+TDC A/S, by R. Offersen, advokat,
+—
+the Danish Government, by V. Pasternak Jørgensen, acting as Agent, and by J. Pinborg, advokat,
+—
+the Belgian Government, by M. Jacobs and T. Materne, acting as Agents,
+—
+the French Government, by J.-S. Pilczer and D. Colas, acting as Agents,
+—
+the European Commission, by L. Nicolae, G. Braun and H. Støvlbæk, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on January 2014,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles 2, and of Directive 2002/19/EC of the European Parliament and of the Council of March on access to, and interconnection of, electronic communications networks and associated facilities (Access Directive) (OJ L 108, p. 7), as amended by Directive 2009/140/EC of the European Parliament and of the Council of November (OJ L 337, p. 37, with corrigendum OJ L 241, p. 8) (‘the Access Directive’).
+The request has been made in proceedings between TDC A/S (‘TDC’), a telecommunications operator, and the Teleklagenævnet (Telecommunications Complaints Board) concerning the obligation to install drop cables, at the request of another electronic communications operator, to enable end-users to have access to the fibre optic network.
+Legal context
+EU law
+Article 1(1) of the Access Directive is worded as follows:
+‘Within the framework set out in Directive 2002/21/EC [of the European Parliament and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, p. 33), as amended by Directive 2009/140, (“the Framework Directive”)], this Directive harmonises the way in which Member States regulate access to, and interconnection of, electronic communications networks and associated facilities. The aim is to establish a regulatory framework, in accordance with internal market principles, for the relationships between suppliers of networks and services that will result in sustainable competition, interoperability of electronic communications services and consumer benefits.’
+Article 2(a) and (b) of the Access Directive provides:
+‘For the purposes of this Directive the definitions set out in Article of [the Framework Directive] shall apply.
+The following definitions shall also apply:
+(a)
+“access” means the making available of facilities and/or services to another undertaking, under defined conditions, on either an exclusive or non‑exclusive basis, for the purpose of providing electronic communications services, including when they are used for the delivery of information society services or broadcast content services. It covers inter alia: access to network elements and associated facilities, which may involve the connection of equipment, by fixed or non-fixed means (in particular this includes access to the local loop and to facilities and services necessary to provide services over the local loop); access to physical infrastructure including buildings, ducts and masts; access to relevant software systems including operational support systems; access to information systems or databases for pre-ordering, provisioning, ordering, maintaining and repair requests, and billing; access to number translation or systems offering equivalent functionality; access to fixed and mobile networks, in particular for roaming; access to conditional access systems for digital television services and access to virtual network services;
+(b)
+“interconnection” means the physical and logical linking of public communications networks used by the same or a different undertaking in order to allow the users of one undertaking to communicate with users of the same or another undertaking, or to access services provided by another undertaking. Services may be provided by the parties involved or other parties who have access to the network. Interconnection is a specific type of access implemented between public network operators.’
+Article of the Access Directive, entitled ‘Powers and responsibilities of the national regulatory authorities with regard to access and interconnection’, states:
+‘1.   National regulatory authorities [(“NRAs” or “NRA”, as the case may be)] shall, acting in pursuit of the objectives set out in Article of [the Framework Directive], encourage and where appropriate ensure, in accordance with the provisions of this Directive, adequate access and interconnection, and the interoperability of services, exercising their responsibility in a way that promotes efficiency, sustainable competition, efficient investment and innovation, and gives the maximum benefit to end-users.
+In particular, without prejudice to measures that may be taken regarding undertakings with significant market power in accordance with Article 8, [NRAs] shall be able to impose:
+(a)
+to the extent that is necessary to ensure end-to-end connectivity, obligations on undertakings that control access to end-users, including in justified cases the obligation to interconnect their networks where this is not already the case;
+…’
+Article of the Access Directive, entitled ‘Imposition, amendment or withdrawal of obligations’, is worded as follows:
+‘1.   Member States shall ensure that [NRAs] are empowered to impose the obligations identified in Articles to 13a.
+2.   Where an operator is designated as having significant market power on a specific market as a result of a market analysis carried out in accordance with Article of [the Framework Directive], [NRAs] shall impose the obligations set out in Articles to of this Directive as appropriate.
+…
+4.   Obligations imposed in accordance with this Article shall be based on the nature of the problem identified, proportionate and justified in the light of the objectives laid down in Article of [the Framework Directive] …
+…’
+Article of the Access Directive, entitled ‘Obligations of access to, and use of, specific network facilities’, provides:
+‘1.   A [NRA] may, in accordance with the provisions of Article 8, impose obligations on operators to meet reasonable requests for access to, and use of, specific network elements and associated facilities, inter alia in situations where the [NRA] considers that denial of access or unreasonable terms and conditions having a similar effect would hinder the emergence of a sustainable competitive market at the retail level, or would not be in the end-user’s interest.
+…
+2.   When [NRAs] are considering the obligations referred in paragraph 1, and in particular when assessing how such obligations would be imposed proportionate to the objectives set out in Article of [the Framework Directive], they shall take account in particular of the following factors:
+(a)
+the technical and economic viability of using or installing competing facilities, in the light of the rate of market development, taking into account the nature and type of interconnection and/or access involved, including the viability of other upstream access products such as access to ducts;
+(b)
+the feasibility of providing the access proposed, in relation to the capacity available;
+(c)
+the initial investment by the facility owner, taking account of any public investment made and the risks involved in making the investment;
+(d)
+the need to safeguard competition in the long term, with particular attention to economically efficient infrastructure-based competition;
+…’
+Article of the Access Directive, entitled ‘Price control and cost accounting obligations’, states:
+‘1.   A [NRA] may, in accordance with the provisions of Article 8, impose obligations relating to cost recovery and price controls, including obligations for cost orientation of prices and obligations concerning cost accounting systems, for the provision of specific types of interconnection and/or access, in situations where a market analysis indicates that a lack of effective competition means that the operator concerned may sustain prices at an excessively high level, or may apply a price squeeze, to the detriment of end-users. To encourage investments by the operator, including in next generation networks, [NRAs] shall take into account the investment made by the operator, and allow him a reasonable rate of return on adequate capital employed, taking into account any risks specific to a particular new investment network project.
+…’
+Article 2(da) of the Framework Directive defines the network termination point (NTP) as being the ‘physical point at which a subscriber is provided with access to a public communications network’.
+Article 8(1) of the Framework Directive states:
+‘Member States shall ensure that in carrying out the regulatory tasks specified in this Directive and the Specific Directives, the [NRAs] take all reasonable measures which are aimed at achieving the objectives set out in paragraphs 2, and 4. Such measures shall be proportionate to those objectives.
+…’
+Article 8(2) of the Framework Directive provides:
+‘The [NRAs] shall promote competition in the provision of electronic communications networks, electronic communications services and associated facilities and services by inter alia:
+…
+(b)
+ensuring that there is no distortion or restriction of competition in the electronic communications sector, including the transmission of content;
+…’
+Article 8(5) of the Framework Directive is worded as follows:
+‘The [NRAs] shall, in pursuit of the policy objectives referred to in paragraphs 2, and 4, apply objective, transparent, non-discriminatory and proportionate regulatory principles by, inter alia:
+…
+(d)
+promoting efficient investment and innovation in new and enhanced infrastructures, including by ensuring that any access obligation takes appropriate account of the risk incurred by the investing undertakings and by permitting various cooperative arrangements between investors and parties seeking access to diversify the risk of investment, whilst ensuring that competition in the market and the principle of non-discrimination are preserved;
+…’
+Danish law
+Paragraph of Law No of June on competition and consumer matters on the telecommunications market (Lov om konkurrence- og forbrugerforhold på telemarkedet), in the version applicable to the case in the main proceedings (‘the Law of 2007’), provides:
+‘The provisions on interconnection include:
+(1)
+access to or the making available of facilities or services to another operator with a view to the provision of electronic communications services
+…
+Access to or the making available of facilities or services, within the meaning of point (1) of the first subparagraph above, includes access to:
+(1)
+network elements, including unbundled access to local loops and associated facilities and connection of equipment,
+…’
+Paragraph of the Law of states:
+‘The IT- og Telestyrelsen [National Information Technology and Telecommunications Agency] shall impose on operators with significant market power on a market, within the meaning of Paragraph 84d, one or more of the obligations provided for in the third subparagraph below, subject to the provisions of Paragraph 76a.
+…
+The obligations imposed pursuant to the first and second subparagraphs above shall be based on the nature of the problems identified and shall be proportionate and justified in the light of the objectives in Paragraph 1. The IT- og Telestyrelsen shall determine for each market the scope of the obligations and any requirements in respect of the quality of the interconnection services to which operators with significant market power are obliged to give access, in accordance with point (1) of the third subparagraph of Paragraph above. …
+In assessing proportionality for the purposes of the fourth subparagraph above, the IT- og Telestyrelsen shall, inter alia, take account of:
+(1)
+the feasibility of providing the interconnection envisaged, in the light of existing capacity,
+(2)
+the size of the initial investments that have to be made by the facility owner in the light of the risks involved,
+(3)
+where appropriate, relevant intellectual property rights.’
+The Law of was replaced by Law No on Telecommunications (lov nr. om elektroniske kommunikationsnet og –tjenester), of March (‘Law No 169/2011’). That law came into force on May 2011.
+Paragraph of Law No 169/provides:
+‘In decisions taken pursuant to the first subparagraph of Paragraph 40, the IT- og Telestyrelsen shall impose one or more obligations on operators with significant market power within the meaning of Paragraph 40. The IT- og Telestyrelsen shall specify in each decision the nature and scope of the obligations.
+The obligations referred to in the first subparagraph above may include:
+(1)
+network access …
+(2)
+non-discrimination …
+(3)
+transparency …
+(4)
+accounting separation …
+(5)
+price control …
+(6)
+functional separation …
+In exceptional circumstances, the IT- og Telestyrelsen may, subject to the consent of the European Commission, impose on any operator with significant market power obligations other than those provided for in the second subparagraph above.
+…’
+Paragraph of Law No 169/is worded as follows:
+‘Access obligation means an obligation on the operator with significant market power on a market to offer actual or virtual access to certain elements of its network, its services and associated facilities.
+The operator may in addition be required to meet reasonable requests to conclude or amend network access contracts. That obligation may include, in particular:
+(1)
+giving access to specified network elements and facilities, including access to network elements which are not active, unbundled access to the local loop, inter alia to allow the provision of carrier preselection or selection services and subscriber connection resale offers.
+…
+When imposing a network access obligation, the IT- og Telestyrelsen must take account, in particular, of the following factors:
+(1)
+the technical and economic viability of using or installing competing facilities, in the light of the rate of market development, taking into account the nature and type of network access and interconnection involved;
+(2)
+the feasibility of providing the network access proposed, in relation to the capacity available,
+(3)
+the initial investment by the facility owner, taking account of any public investment made and the risks involved in making the investment;
+(4)
+the need to safeguard competition in the long term, with particular attention to economically efficient infrastructure-based competition.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+The order for reference states that TDC has significant market power on the market for the provision of wholesale access to broadband via copper, cable television (coaxial) and fibre optic networks.
+Having identified competition problems on that market, the IT- og Telestyrelsen, by decision of November 2010, pursuant to the Law of then in force, imposed several obligations on TDC, including an obligation to meet reasonable requests for access to broadband connections through its fibre optic network. That obligation included, inter alia, the installation of drop cables over a maximum distance of metres in order to connect the end-user to the fibre optic network that serves to provide high speed access.
+TDC brought an action against that decision before the Teleklagenævnet, which, by a decision of June 2011, in all essential respects confirmed the contested decision. The Teleklagenævnet took the view that the obligation to meet reasonable requests for access was proportionate, in that it was necessary, appropriate and sufficient to ensure genuine competition. In addition, as the order for reference shows, the Teleklagenævnet pointed out that, in accordance with Article 7(3) of the Framework Directive, the IT- og Telestyrelsen had sent a draft of its decision of November to the Commission and that the Commission, in its opinion on the draft, had not commented on the disputed aspects of that obligation.
+On August 2011, TDC brought an action against the Teleklagenævnet’s decision of June before the Retten på Frederiksberg (Frederiksberg Court of First Instance), which referred the case to the Østre Landsret (Eastern Regional Court), in view of the questions of principle raised.
+Before the Østre Landsret, TDC claims that the obligation to install drop cables to the fibre optic network, imposed by the IT- og Telestyrelsen, constitutes an obligation to establish new infrastructure, whereas, according to TDC, the concept of ‘access’, as referred to in the Access Directive, does not cover the installation of such infrastructure. It adds that that obligation involves a considerable financial burden, such that it does not observe the principle of proportionality set out in Article 8(1) of the Access Directive.
+The Teleklagenævnet, for its part, states that there are competition problems on the market concerned in Denmark, where, first, the fibre optic network is under construction and where, secondly, the fibre optic network, unlike other networks (copper, coaxial), is not connected directly to the end-user at the time of its initial installation. According to the Teleklagenævnet, the obligation to install drop cables does not constitute an obligation to establish new infrastructure, but rather a technical adaptation to the existing fibre optic network. It takes the view that, pursuant to Articles and of the Access Directive, the IT- og Telestyrelsen has the power to impose on operators that have significant market power on a specific market the obligation to meet reasonable requests for interconnection from other operators, even if this may necessitate adaptations to the network in the form of, inter alia, trench digging works. It observes that, when such an obligation is imposed, the size of the initial investments by the owner of the installation is taken into account in the assessment of the proportionality of the measures envisaged.
+In the order for reference, the Østre Landsret states that the main proceedings concern the scope of the obligation to meet reasonable requests for access to TDC’s fibre optic network. More specifically, according to that court, the principal question is whether, pursuant to the Law of and the Access Directive, such an obligation can require of TDC, at the request of a competing telecommunications operator, to install drop cables connecting TDC’s fibre optic network to the end-user, which may necessitate the digging of trenches of up to metres in length.
+It is in those circumstances that the Østre Landsret decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Does the definition of “access” in Article 2(a) of the Access Directive cover access in the form of the installation of drop cables between the distribution frame in an access network and the terminating segment at the end-user’s premises? Does it make a difference in answering the question that the maximum length of such drop cables is metres?
+2.
+Is the installation of a drop cable over a distance of up to metres between the distribution frame in an access network and the terminating segment at the end-user’s premises covered by the phrase “access to, and use of, specific network elements and associated facilities” [set out] in Article of the Access Directive, read in conjunction with Articles and [of that directive]?
+3.
+Is it relevant for the answer to question and question 2, where the access obligation takes the form of a requirement, for example, to install drop cables between the distribution frame in an access network and the terminating segment at an end-user’s premises, that the owner of an electronic communications network must undertake investment which considerably exceeds the acquisition cost of the electronic communications network to which access must be provided?
+4.
+Is it relevant for the answer to question that [that] owner is able to recover the costs of installing the drop cables through an imposed price control obligation?’
+The questions referred
+The first and second questions
+By its first two questions, which it is appropriate to examine together, the referring court asks, in essence, whether Articles 2(a), and of the Access Directive are to be interpreted as meaning that the NRA has the power to impose on an electronic communications operator that has significant market power on a specific market, pursuant to the obligation to meet reasonable requests for access to, and use of, specific network elements and associated facilities of which it is the owner, an obligation to install, at the request of competing operators, a drop cable not exceeding metres in length connecting the distribution frame of an access network to the network termination point at the end-user’s premises.
+In order to answer those questions, it is necessary to consider the powers conferred by the Access Directive on NRAs to impose on operators the obligation to meet reasonable requests for access to, and use of, specific network elements and associated facilities, then to interpret the concept of ‘access to, and use of, specific network elements and associated facilities’ before examining the conditions that have to be satisfied for such obligations to be imposed.
+As regards, first of all, the NRAs’ power to impose the obligation to meet reasonable requests for access to, and use of, specific network elements and associated facilities, it should be recalled that, under Article 8(2) of the Access Directive, where an operator is designated as having significant market power on a specific market as a result of a market analysis carried out in accordance with Article of the Framework Directive, the NRAs are empowered to impose on that operator the obligations set out in Articles to of the Access Directive.
+Among those obligations are those provided for in the first subparagraph of Article 12(1) of the Access Directive, according to which a NRA may, in accordance with the provisions of Article of that directive, impose on operators obligations to meet reasonable requests for access to, and use of, specific network elements and associated facilities, inter alia in situations where the NRA considers that denial of access or unreasonable terms and conditions having a similar effect would hinder the emergence of a sustainable competitive market at the retail level, or would not be in the end-user’s interest.
+Consequently, Article 12, read in conjunction with Article of the Access Directive, confers on the NRA the power to impose on operators with significant market power on a specific market the obligation to meet reasonable requests for access to, and use of, specific elements of their network and associated facilities.
+Next, as regards the concept of ‘access to specific network elements and associated facilities’, as referred to in Article 12(1) of the Access Directive, it should be observed that, according to Article 2(a) of that directive, ‘access’ means the making available of facilities and/or services to another undertaking, under defined conditions, on either an exclusive or non-exclusive basis, for the purpose of providing electronic communications services, including when they are used for the delivery of information society services or broadcast content services. That provision states that ‘access’ covers, inter alia, access to network elements and associated facilities, which may involve the connection of equipment, by fixed or non-fixed means, including, in particular, access to the local loop and to facilities and services necessary to provide services over the local loop; access to physical infrastructure, including buildings, ducts and masts; and access to fixed and mobile networks, in particular for roaming.
+It therefore follows from the wording of Article 2(a) of the Access Directive, first, that the concept of ‘access’ includes making adjustments in order to make available to another undertaking facilities and/or services for the purpose of providing electronic communications services, as noted also by the Advocate General in points and of his Opinion, and, secondly, that the list of forms of access set out in that provision is not exhaustive.
+Article 2(a) of the Access Directive does not specify, however, whether access, within the meaning of that provision, may include the drop cable between the distribution frame of an access network and the network termination point at the end-user’s premises, which is necessary to implement access to the existing network.
+In those circumstances, in order to interpret the concept of ‘access to specific network elements and associated facilities’, as referred to in Article 12(1) of the Access Directive, it is necessary to examine the definition of ‘access’ provided for in Article 2(a) of that directive in the light of the scheme of, and the objectives pursued by, that directive.
+As regards the scheme of the Access Directive, suffice it to point out that that directive, in Article 2(b), defines interconnection as a physical and logical linking of public communications networks used by the same or a different undertaking in order to allow the users of one undertaking to communicate with users of the same or another undertaking, or to access services provided by another undertaking.
+Point (a) of the second subparagraph of Article 5(1) of the Access Directive, which article concerns the powers and responsibilities of the NRAs with regard to access and interconnection, provides that NRAs may impose, to the extent necessary to ensure end-to-end connectivity, obligations on undertakings that control access to end-users, including, in justified cases, the obligation to interconnect their networks where this is not already the case.
+It is apparent from those provisions that the concept of ‘access’, within the meaning of the Access Directive, may include an adjustment to an existing network to enable the establishment of a link between that network and the end-user.
+As regards the objectives of the Access Directive, Article 1(1) states that it aims to establish ‘a regulatory framework … that will result in sustainable competition, interoperability of electronic communications services and consumer benefits.’
+Thus, Article 8(1) of the Framework Directive provides that, in carrying out their regulatory tasks specified in the Framework Directive and in the specific directives, and therefore, in particular, in the Access Directive, the NRAs are to take all reasonable measures which are aimed at achieving the objectives set out in that article, which are to promote competition in the provision of electronic communications networks and services, to contribute to the development of the internal market and to promote the interests of the citizens of the European Union.
+Acting in pursuit of the objectives set out in Article of the Framework Directive, under the powers and responsibilities conferred on them by the first subparagraph of Article 5(1) of the Access Directive, NRAs are to ensure, in accordance with the provisions of the Access Directive, adequate access and interconnection, and the interoperability of services, and are to exercise their responsibility in a way that promotes efficiency, sustainable competition, efficient investment and innovation, and gives the maximum benefit to end-users.
+With regard to Article 5(1) of the Access Directive, the Court has held that it is apparent from its wording that the NRAs are responsible for ensuring adequate access and interconnection and also interoperability of services by means which are not exhaustively listed there (TeliaSonera Finland, C‑192/08, EU:C:2009:696, paragraph 58).
+It should similarly be held that the obligations to meet reasonable requests for access to, and use of, specific network elements and associated facilities, which may be imposed on operators with significant market power on the market, are not exhaustively defined, but fall to be prescribed by the NRAs, on a case-by-case basis, in the light of the objectives set out in Article of the Framework Directive.
+It follows from all of the foregoing that the concept of ‘access to specific network elements and associated facilities’, as referred to in Articles 2(a) and 12(1) of the Access Directive, may cover the installation of drop cables connecting the distribution frame of an access network and the network termination point at the end-user’s premises.
+As regards, lastly, the conditions under which the NRA may impose on an operator with significant market power on a specific market the obligation to meet reasonable requests for access to, and use of, specific network elements and associated facilities, it should be observed that Article 8(4) of the Access Directive provides that obligations imposed by the NRAs on that type of operator must be based on the nature of the problem identified, and be proportionate and justified in the light of the objectives set out in Article 8(1) of the Framework Directive and reiterated in paragraph of this judgment.
+It follows that the NRA may impose on an operator that has significant market power on a specific market, pursuant to the obligation to meet reasonable requests for access to, and use of, specific network elements and associated facilities, an obligation to install, at the request of competing operators, a drop cable connecting the distribution frame of an access network to the network termination point at the end-user’s premises, as long as that obligation is based on the nature of the problem identified and is proportionate and justified in the light of the objectives set out in Article 8(1) of the Framework Directive.
+In this case, the order for reference states that, according to the Teleklagenævnet, because of the particular way in which TDC’s fibre optic network is constructed, TDC controls when households may be connected, which gives it a definite competitive advantage in the acquisition of new customers on the retail market, inasmuch as the new customers are contractually tied to TDC for a minimum period of six months. The obligation on TDC to install drop cables is therefore intended to ensure that competing operators are on an equal footing with TDC and can use TDC’s network in the areas in which it is deployed, in respect of final customers who are not yet connected. The installation of such cables is an essential condition for operators competing with TDC to be able to acquire customers, by enabling them to offer services distributed by means of the fibre optic network under conditions of equal competition with TDC.
+In the light of those elements, it is for the referring court to assess whether the obligation imposed by the NRA on TDC to install a drop cable not exceeding metres in length connecting the distribution frame of an access network to the network termination point at the end-user’s premises is based on the nature of the problem identified, proportionate and justified in the light of the objectives set out in Article 8(1) of the Framework Directive.
+In the light of all those considerations, the answer to the first two questions is that Articles 2(a), and of the Access Directive must be interpreted as meaning that the NRA has the power to impose on an electronic communications operator that has significant market power on a specific market, pursuant to the obligation to meet reasonable requests for access to, and use of, specific network elements and associated facilities, an obligation to install, at the request of competing operators, a drop cable not exceeding metres in length connecting the distribution frame of an access network to the network termination point at the end-user’s premises, as long as that obligation is based on the nature of the problem identified, proportionate and justified in the light of the objectives set out in Article 8(1) of the Framework Directive, which is a matter for the referring court to verify.
+The third and fourth questions
+By its third and fourth questions, which it is appropriate to examine together, the referring court asks, in essence, whether Articles and of the Access Directive, read in conjunction with Article of that directive, are to be interpreted as meaning that a NRA, when minded to require an operator that is the owner of an electronic communications network to install drop cables for the purpose of connecting the end-user to that network, has to take into account the initial investment made by the operator concerned and the existence of a price control that makes it possible to recover the costs of installation.
+In this connection, it should be observed that, under Article 12(2)(a) to (d) of the Access Directive, NRAs must, when considering the obligations referred to in Article 12(1), and in particular when assessing whether such obligations are proportionate to the objectives set out in Article of the Framework Directive, take account in particular of the technical and economic viability of using or installing competing facilities, in the light of the rate of market development, taking into account the nature and type of interconnection and/or access involved; the feasibility of providing the access proposed for the purpose of assessing the proportionality of the obligations imposed on operators with significant market power on a specific market; the initial investment made by the facility owner, taking account of any public investment made and the risks involved in making the investment; and the need to safeguard competition in the long term, with particular attention to economically efficient infrastructure-based competition.
+As for Article 13(1) of the Access Directive, it provides that the NRAs may impose obligations relating to cost recovery and price controls on undertakings with significant market power on a specific market for the provision of specific types of interconnection and/or access, in situations where a market analysis indicates that a lack of effective competition means that the operator concerned may sustain prices at an excessively high level, or may apply a price squeeze, to the detriment of end-users. To encourage investments by the operator, including in next generation networks, the NRAs have to take into account the investments made by the operator and allow it a reasonable rate of return on adequate capital employed, taking into account any risks specific to a particular investment project.
+Moreover, Article 8(5) of the Framework Directive specifies in addition that, in pursuit of the policy objectives of promoting competition, contributing to the development of the internal market and promoting the interests of the citizens of the European Union, the NRAs are to apply objective, non-discriminatory and proportionate regulatory principles. Among those principles is the principle set out in point (d), of promoting efficient investment and innovation in new and enhanced infrastructures, including by ensuring that any access obligation takes appropriate account of the risk incurred by the investing undertakings and by permitting various cooperative arrangements between investors and parties seeking access to diversify the risk of investment, whilst ensuring that competition in the market and the principle of non-discrimination are preserved.
+It follows from the foregoing considerations that, as the Advocate General observed in points and of his Opinion, the NRAs must, when considering the proportionality of the proposed obligation in relation to the objectives set out in Article 8(1) of the Framework Directive, take into account, amongst other factors, the initial investment made by the facility owner and the existence of a price control system. Accordingly, when minded to require the facility owner, pursuant to the obligation to meet reasonable requests for access to, and use of, specific network elements and associated facilities, to adjust the existing network to enable the establishment of a link between that network and the end-user, the NRAs must take into account the costs of that adjustment.
+It follows from all those considerations that the answer to the third and fourth questions is that Articles and of the Access Directive, read in conjunction with Article of that directive, must be interpreted as meaning that a NRA, when minded to require an electronic communications operator that has significant market power on a specific market to install drop cables for the purpose of connecting the end-user to a network, has to take into account the initial investment made by the operator concerned and the existence of a price control that makes it possible to recover the costs of installation.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+Articles 2(a), and of Directive 2002/19/EC of the European Parliament and of the Council of March on access to, and interconnection of, electronic communications networks and associated facilities (Access Directive), as amended by Directive 2009/140/EC of the European Parliament and of the Council of November 2009, must be interpreted as meaning that the national regulatory authority has the power to impose on an electronic communications operator that has significant market power on a specific market, pursuant to the obligation to meet reasonable requests for access to, and use of, specific network elements and associated facilities, an obligation to install, at the request of competing operators, a drop cable not exceeding metres in length connecting the distribution frame of an access network to the network termination point at the end-user’s premises, as long as that obligation is based on the nature of the problem identified, proportionate and justified in the light of the objectives set out in Article 8(1) of Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory framework for electronic communications networks and services (Framework Directive), as amended by Directive 2009/140, which is a matter for the referring court to verify.
+ 
+2.
+Articles and of Directive 2002/19, as amended by Directive 2009/140, read in conjunction with Article of Directive 2002/19, must be interpreted as meaning that a national regulatory authority, when minded to require an electronic communications operator that has significant market power on a specific market to install drop cables for the purpose of connecting the end-user to a network, has to take into account the initial investment made by the operator concerned and the existence of a price control that makes it possible to recover the costs of installation.
+ 
+[Signatures]
+(
+*)   Language of the case: Danish.
+Top  
+ 

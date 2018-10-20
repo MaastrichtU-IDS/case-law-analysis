@@ -1,0 +1,124 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+January (
+*)
+‛Reference for a preliminary ruling — Directive 96/9/EC — Legal protection of databases — Database not protected by copyright or the sui generis right — Contractual limitation on the rights of users of the database’
+In Case C‑30/14,
+REQUEST for a preliminary ruling under Article TFEU from the Hoge Raad der Nederlanden (Netherlands), made by decision of January 2014, received at the Court on January 2014, in the proceedings
+Ryanair Ltd
+v
+PR Aviation BV,
+THE COURT (Second Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, K. Lenaerts (Rapporteur), Vice-President of the Court, J.-C. Bonichot, A. Arabadjiev and J.L. da Cruz Vilaça, Judges,
+Advocate General: Y. Bot,
+Registrar: C. Strömholm,
+having regard to the written procedure and further to the hearing on November 2014,
+after considering the observations submitted on behalf of:
+—
+Ryanair Ltd, represented initially by M. van Heezik, A. van Aerde and R. Le Poole, and subsequently by A. van Aerde and R. Le Poole, advocaten,
+—
+PR Aviation BV, by A. Groen, advocaat,
+—
+the European Commission, by J. Samnadda and F. Wilman, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling relates to the interpretation of Directive 96/9/EC of the European Parliament and of the Council of March on the legal protection of databases (OJ L 77, p. 20).
+That request has been made in proceedings between Ryanair Ltd (‘Ryanair’) and PR Aviation BV (‘PR Aviation’) concerning the use by the latter, for commercial purposes, of data from Ryanair’s website.
+Legal context
+EU law
+Directive 96/consists of four chapters.
+In Chapter I of Directive 96/9, entitled ‘Scope’, Article 1(1) and (2) thereof, having the same title, provides:
+‘1.   This Directive concerns the legal protection of databases in any form.
+2.   For the purposes of this Directive, “database” shall mean a collection of independent works, data or other materials arranged in a systematic or methodical way and individually accessible by electronic or other means.’
+In Chapter II of that directive, entitled ‘Copyright’, Article 3(1) thereof, entitled ‘Object of protection’, provides:
+‘In accordance with this Directive, databases which, by reason of the selection or arrangement of their contents, constitute the author’s own intellectual creation shall be protected as such by copyright. No other criteria shall be applied to determine their eligibility for that protection.’
+Under Chapter II, Article thereof, entitled ‘Restricted acts’, is worded as follows:
+‘1.   In respect of the expression of the database which is protectable by copyright, the author of a database shall have the exclusive right to carry out or to authorise:
+(a)
+temporary or permanent reproduction by any means and in any form, in whole or in part;
+(b)
+translation, adaptation, arrangement and any other alteration;
+(c)
+any form of distribution to the public of the database or of copies thereof. …
+(d)
+any communication, display or performance to the public;
+(e)
+any reproduction, distribution, communication, display or performance to the public of the results of the acts referred to in (b).’
+In Chapter II, Article of that directive, entitled ‘Exceptions to restricted acts’, provides in paragraph (1):
+‘The performance by the lawful user of a database or of a copy thereof of any of the acts listed in Article which is necessary for the purposes of access to the contents of the databases and normal use of the contents by the lawful user shall not require the authorisation of the author of the database. Where the lawful user is authorised to use only part of the database, this provision shall apply only to that part.’
+In Chapter III of Directive 96/9, entitled ‘Sui generis right’, Article 7, entitled ‘Object of protection’, provides in paragraphs and 5:
+‘1.   Member States shall provide for a right for the maker of a database which shows that there has been qualitatively and/or quantitatively a substantial investment in either the obtaining, verification or presentation of the contents to prevent extraction and/or re-utilisation of the whole or of a substantial part, evaluated qualitatively and/or quantitatively, of the contents of that database.
+…
+5.   The repeated and systematic extraction and/or re-utilisation of insubstantial parts of the contents of the database implying acts which conflict with a normal exploitation of that database or which unreasonably prejudice the legitimate interests of the maker of the database shall not be permitted.’
+In Chapter III, Article of that directive, entitled ‘Rights and obligations of lawful users’, provides:
+‘1.   The maker of a database which is made available to the public in whatever manner may not prevent a lawful user of the database from extracting and/or re-utilising insubstantial parts of its contents, evaluated qualitatively and/or quantitatively, for any purposes whatsoever. Where the lawful user is authorised to extract and/or re-utilise only part of the database, this paragraph shall apply only to that part.
+2.   A lawful user of a database which is made available to the public in whatever manner may not perform acts which conflict with normal exploitation of the database or unreasonably prejudice the legitimate interests of the maker of the database.
+3.   A lawful user of a database which is made available to the public in any manner may not cause prejudice to the holder of a copyright or related right in respect of the works or subject matter contained in the database.’
+Under Chapter IV of Directive 96/9, entitled ‘Common provisions’, Article 15, entitled ‘Binding nature of certain provisions’, states:
+‘Any contractual provision contrary to Articles (1) and shall be null and void.’
+Netherlands law
+Directive 96/was transposed into Netherlands law by the Law adapting Netherlands law to Directive 96/9/EC of the European Parliament and of the Council of March on the legal protection of databases (Wet houdende aanpassing van de Nederlandse wetgeving aan richtlijn 96/9/EG van het Europees Parlement en de Raad van maart betreffende de rechtbescherming van databanken) of July (Stb 1999, p. 303, ‘the Database Law’).
+The Copyright Law (Auteurswet, ‘the Aw’) provides, in Article 1:
+‘Copyright is the exclusive right of the author of a literary, scientific or artistic work or his successors in title, to communicate that work to the public and to reproduce it, subject to the limitations laid down by law.’
+Paragraph of the Aw provides:
+‘1.   For the purposes of this Act, literary, scientific or artistic works shall mean:
+1. books, brochures, newspapers, periodicals and all other writings
+…
+3.   collections of works, data or other materials arranged in a systematic or methodical way and individually accessible by electronic or other means are, without prejudice to other rights over the collection and without prejudice to copyright or other rights over works, data or other information contained in the collection, protected as independent works.
+…’
+Under Article 24a of the Aw:
+‘1.   The reproduction by a lawful user of a data set as referred to in Article 10(3) which is necessary in order to gain access to, and make normal use of the data set, is not regarded as a breach of the copyright of the data set.
+…
+Article 24a(1) and (2) may not be derogated from by agreement to the detriment of a lawful user.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+PR Aviation operates a website on which consumers can search through the flight data of low-cost air companies, compare prices and, on payment of commission, book a flight. It obtains the necessary data to respond to an individual query by automated means, inter alia, from a dataset linked to the Ryanair website also accessible to consumers.
+Access to that website presupposes that the visitor to the site accepts the application of Ryanair’s general terms and conditions by ticking a box to that effect. At the material time, those conditions contained the following clauses:
+‘2.
+Exclusive distribution. This website and the Ryanair call centre are the exclusive distributors of Ryanair services. Ryanair.com is the only website authorised to sell Ryanair flights. Ryanair does not authorise other websites to sell its flights, whether on their own or as part of a package. …
+3.
+Permitted use. You are not permitted to use this website other than for the following, private, non-commercial purposes: (i) viewing this website; (ii) making bookings; (iii) reviewing/changing bookings; (iv) checking arrival/departure information; (v) performing online check-in; (vi) transferring to other websites through links provided on this website; and (vii) making use of other facilities that may be provided on the website.
+The use of automated systems or software to extract data from this website or www.bookryanair.com for commercial purposes, (‘screen scraping’) is prohibited unless the third party has directly concluded a written licence agreement with Ryanair in which permits it access to Ryanair’s price, flight and timetable information for the sole purpose of price comparison.’
+Relying on Directive 96/9, the Database Law and the Aw, Ryanair claimed that PR Aviation had infringed its rights relating to its data set and that it had acted contrary to the terms and condition of use of its website which the latter had accepted. It sought an order against PR Aviation to refrain from any infringement of its rights, on pain of a financial penalty and for PR Aviation to pay damages.
+By judgment of July 2010, the Rechtbank Utrecht (Local Court, Utrecht) dismissed Ryanair’s claim in so far as it was based on an infringement of Directive 96/and the Database Law. However, it accepted the application in so far as it was based on the Aw and ordered PR Aviation to refrain from any infringement of Ryanair’s copyright in respect of its flight data and to pay compensation for the harm suffered.
+PR Aviation brought an appeal against that judgment. Ryanair brought a cross appeal challenging the assessment of the Rechtbank Utrecht, according to which it is not entitled to the protection provided for by Directive 96/and the Database Law.
+By judgment of March 2012, the Gerechtshof te Amsterdam (Court of Appeal, Amsterdam) set aside the judgment of the Rechtbank Utrecht and dismissed Ryanair’s cross appeal.
+In essence, it held, as regards copyright, that even assuming the digital information made public by Ryanair were covered by the protection of written materials (‘geschriftenbeschering’), for the purpose of Article 10(1)(1) of the Aw, PR Aviation had not infringed Ryanair’s rights, given that its conduct corresponded to normal, within the meaning of Article 24a(1) of the Aw, and therefore legitimate use of the Ryanair website. It added that the prohibition in Ryanair’s terms and conditions on using its website for commercial purposes was not capable of invalidating the previous finding, taking account, in particular, of Article 24a(3) of the Aw, which corresponds to Article of Directive 96/9.
+As regards the sui generis right, the Gerechtshof te Amsterdam held that Ryanair had not established the existence of ‘substantial investment’ in the creation of its data set, within the meaning of Directive 96/and the Database Law.
+Ryanair has appealed against the judgment of the Gerechtshof te Amsterdam before the Hoge Raad der Nederlanden (Netherlands Supreme Court). In support of its appeal, it relies on a single ground of appeal which consists of two parts.
+In the first part of that ground of appeal, Ryanair criticises the assessment of the court of appeal, according to which it is not entitled to the protection of written materials for the purposes of Article 10(1)(1) of the Aw.
+In that connection, the referring court takes the view that no criterion other than that of originality is effective for the purposes of protection by copyright. Observing that it follows from the judgment of the Gerechtshof te Amsterdam that Ryanair’s data set does not satisfy that criterion, it concludes that that part of the ground of appeal relied on by Ryanair cannot result in the judgment being set aside.
+In the second part of its ground of appeal, pleaded in the alternative, Ryanair claims, essentially, that the Gerechtshof te Amsterdam wrongly held that the fact that PR Aviation had ignored the contractual prohibition preventing it from extracting data from Ryanair’s database for commercial purposes without having concluded a written licence agreement with Ryanair did not constitute an infringement on its part.
+In that connection, the referring court asks whether the scope of Directive 96/covers databases which are not protected either under Chapter II thereof by copyright or under Chapter III by the sui generis right and, if, therefore, the limits on contractual freedom which result from Articles 6(1), and of that directive also apply to such databases.
+In those circumstances, the Hoge Raad der Nederlanden decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Does the operation of [Directive 96/9] also extend to online databases which are not protected by copyright on the basis of Chapter II of [that directive], and also not by a sui generis right on the basis of Chapter III, in the sense that the freedom to use such databases through the (whether or not analogous) application of Article[s] 6(1) and in conjunction with Article [of Directive 96/9], may not be limited contractually?’
+The question referred for a preliminary ruling
+By its question, which is based on the premiss that the Ryanair dataset at issue in the main proceedings constitutes a database, within the meaning of Article 1(2) of Directive 96/9, which is not protected by copyright on the basis of Chapter II thereof or the sui generis right on the basis of Chapter III, which is for the referring court to verify, that court asks essentially whether Directive 96/must be interpreted as meaning that, taking account of the combined application of Articles 6(1), and thereof, the freedom to use such a database cannot be contractually limited.
+As a preliminary point, it must be recalled that, according to settled case-law, a directive cannot of itself impose obligations on an individual and cannot therefore be relied upon as such against an individual (see, inter alia, judgments in Faccini Dori, C‑91/92, EU:C:1994:292, paragraph 20; Kücükdeveci C‑555/07, EU:C:2010:21, paragraph 46; and Dominguez, C‑282/10, EU:C:2012:33, paragraph 37).
+It is also settled case-law that in applying national law, the national court called on to interpret it is required to do so, as far as possible, in the light of the wording and the purpose of the directive in question (see, inter alia, judgments in Pfeiffer and Others, C‑397/to C‑403/01, EU:C:2004:584, paragraph 114; Kücükdeveci, EU:C:2010:21, paragraph 48; and Dominguez, EU:C:2012:33, paragraph 24).
+Having made those initial clarifications, it must be observed that in Chapter I of Directive 96/9, Article 1(2) defines the concept of ‘database’.
+Although, as PR Aviation states, Article 1(2) of Directive 96/confers a wide scope on that concept, unencumbered by considerations of a formal, technical or material nature (see to that effect judgment in Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraphs to 32), the fact remains that the definition in that provision applies, according to the wording of that article, ‘for the purposes of this Directive’.
+According to Article 1(1) of Directive 96/9, its aim is ‘the legal protection of databases’. In that regard, that directive institutes two forms of legal protection of databases. The first form, governed by Articles to thereof in Chapter II, consists in protection by copyright and is applicable, in accordance with Article 3(1) of that directive, to databases which, by reason of the selection or arrangement of their contents, constitute the author’s own intellectual creation. The second form, governed by Articles to of Directive 96/9, in Chapter III thereof, consists in protection on the basis of a sui generis right and is applicable, according Article 7(1), to databases in respect of which there has been qualitatively and/or quantitatively a substantial investment in either the obtaining, verification or presentation of the contents. Those two forms of legal protection are the object of common provisions, in Articles to of that directive set out in Chapter IV thereof.
+Therefore, contrary to PR Aviation’s assertions, the fact that a database corresponds to the definition set out in Article 1(2) of Directive 96/does not justify the conclusion that it falls within the scope of the provisions of that directive governing copyright and/or the sui generis right if it fails to satisfy either the condition of application for protection by copyright laid down in Article 3(1) of that directive or the conditions of application for the protection by the sui generis right in Article 7(1) thereof.
+As regards the provisions of Directive 96/specifically mentioned by the referring court in its question, it should be added that Article 6(1) thereof which, under certain conditions, authorises a lawful user of a database to perform the acts referred to in Article without the authorisation of the author of that database, falls, like Article 5, within the chapter of the directive on copyright and, therefore, is not applicable to databases not protected by that right.
+Article of Directive 96/9, which sets out, in particular, the rights of a lawful user of a data base is in the chapter of that directive concerning the sui generis right and does not therefore apply to databases not protected by that right.
+As to Article of Directive 96/9, which affirms the mandatory nature of certain provisions of that directive by declaring null and void any contractual provision contrary to it, that provision explicitly refers only to Articles 6(1) and of that directive.
+Thus, it is clear from the purpose and structure of Directive 96/that Articles 6(1), and thereof, which establish mandatory rights for lawful users of databases, are not applicable to a database which is not protected either by copyright or by the sui generis right under that directive, so that it does not prevent the adoption of contractual clauses concerning the conditions of use of such a database.
+That analysis is supported by the general scheme of Directive 96/9. As Ryanair and the European Commission have stated, that directive sets out to achieve a balance between the rights of the person who created a database and the rights of lawful users of such a database, that is third parties authorised by that person to use the database. In that context, Articles 6(1), and of Directive 96/9, which confer rights on lawful users and, in so doing, limit those of the person who created the database, are applicable only in respect of a database over which its author has rights to title, either copyright in Article of that directive or the sui generis right in Article thereof. However, it is irrelevant with regard to a database whose author does not enjoy any of the abovementioned rights under Directive 96/9.
+Contrary to PR Aviation’s submissions, that interpretation of Directive 96/is not capable of reducing the interest in claiming legal protection instituted by that directive in that the author of a database protected by that directive, unlike the author of a database which is not so protected, does not have the contractual freedom to limit the rights of users of its database.
+Such arguments ignore the legal and economic interest that the system of automatic protection represents for a person who has invested in the creation of a database, harmonised in the Member States, which attaches to the exclusive right under copyright to reserve the right to perform the various acts referred to in Article of Directive 96/and the right to prohibit under the sui generis right the acts referred to in Articles 7(1) and (5) and 8(2) thereof. As the Commission stated at the hearing, the benefit of that protection does not require any administrative formalities to be fulfilled or any prior contractual arrangement.
+That being the case, if the author of a database protected by Directive 96/decides to authorise the use of its database or a copy thereof, he has the option, as confirmed by recital in the preamble to that directive, to regulate that use by an agreement concluded with a lawful user which sets out, in compliance with the provisions of that directive, the ‘purposes and the way’ of using that database or a copy thereof.
+However, as regards a database to which Directive 96/is not applicable, its author is not eligible for the system of legal protection instituted by that directive, so that he may claim protection for his database only on the basis of the applicable national law.
+Having regard to all of the foregoing considerations, the answer to the question referred is that Directive 96/must be interpreted as meaning that it is not applicable to a database which is not protected either by copyright or by the sui generis right under that directive, so that Articles 6(1), and of that directive do not preclude the author of such a database from laying down contractual limitations on its use by third parties, without prejudice to the applicable national law.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Directive 96/9/EC of the European Parliament and of the Council of March on the legal protection of databases must be interpreted as meaning that it is not applicable to a database which is not protected either by copyright or by the sui generis right under that directive, so that Articles 6(1), and of that directive do not preclude the author of such a database from laying down contractual limitations on its use by third parties, without prejudice to the applicable national law.
+ 
+[Signatures]
+(
+*)   Language of the case: Dutch.
+Top  
+ 

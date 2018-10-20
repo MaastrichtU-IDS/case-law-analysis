@@ -1,0 +1,112 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+April (
+*)
+‛Regulation (EC) No 44/— Jurisdiction and the enforcement of judgments in civil and commercial matters — Jurisdiction ‘in matters relating to tort, delict or quasi-delict’ — Determination of the place where the harmful event occurred or may occur — Website of a referencing service provider operating under a country-specific top-level domain of a Member State — Use, by an advertiser, of a keyword identical to a trade mark registered in another Member State’
+In Case C-523/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Oberster Gerichtshof (Austria), made by decision of October 2010, received at the Court on November 2010, in the proceedings
+Wintersteiger AG
+v
+Products 4U Sondermaschinenbau GmbH,
+THE COURT (First Chamber)
+composed of A. Tizzano, President of the Chamber, M. Safjan (Rapporteur), A. Borg Barthet, E. Levits and J.-J. Kasel, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Wintersteiger AG, by E. Boesch, Rechtsanwalt,
+—
+Products 4U Sondermaschinenbau GmbH, by J. Steinschnack, Rechtsanwalt,
+—
+the Austrian Government, by C. Pesendorfer, acting as Agent,
+—
+the Spanish Government, by F. Díez Moreno, acting as Agent,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and by P. Gentili, avvocato dello Stato,
+—
+the United Kingdom Government, by S. Hathaway, acting as Agent, and by A. Henshaw, Barrister,
+—
+the European Commission, by A.-M. Rouchaud-Joët and W. Bogensberger, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on February 2012,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 5(3) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1).
+The reference has been made in proceedings between Wintersteiger AG (‘Wintersteiger’), established in Austria, and Products 4U Sondermaschinenbau GmbH (‘Products 4U’), established in Germany, concerning Wintersteiger’s application to prevent Products 4U from using the Austrian trade mark ‘Wintersteiger’ as a keyword on the website of a paid referencing service provider.
+Legal context
+Regulation No 44/It is apparent from the second recital in the preamble to Regulation No 44/that the regulation seeks, in the interests of the proper functioning of the internal market, to put in place ‘[p]rovisions to unify the rules of conflict of jurisdiction in civil and commercial matters and to simplify the formalities with a view to rapid and simple recognition and enforcement of judgments from Member States bound by this Regulation’.
+The 11th recital in that regulation states:
+‘The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on the defendant’s domicile and jurisdiction must always be available on this ground save in a few well-defined situations in which the subject-matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.’
+The 12th recital in that regulation provides:
+‘In addition to the defendant’s domicile, there should be alternative grounds of jurisdiction based on a close link between the court and the action or in order to facilitate the sound administration of justice.’
+Article 2(1) of the same regulation is included in Section 1, entitled ‘General provisions’ and is comprised in Chapter II, which is entitled ‘Jurisdiction’. That article provides:
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts of that Member State.’
+Article 3(1) of Regulation No 44/2001, which is also included under Section 1, provides as follows:
+‘Persons domiciled in a Member State may be sued in the courts of another Member State only by virtue of the rules set out in Sections to of this Chapter.’
+Under Article 5(3) of that regulation, which appears in Section of Chapter II thereof, entitled ‘Special jurisdiction’:
+‘A person domiciled in a Member State may, in another Member State, be sued:
+…
+(3)
+in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur;
+…’
+Directive 2008/95/EC
+Article 5(1) of Directive 2008/95/EC of the European Parliament and of the Council of October to approximate the laws of the Member States relating to trade marks (OJ L 299, p. 25), entitled ‘Rights conferred by a trade mark’, is worded as follows:
+‘The registered trade mark shall confer on the proprietor exclusive rights therein. The proprietor shall be entitled to prevent all third parties not having his consent from using in the course of trade:
+(a)
+any sign which is identical with the trade mark in relation to goods or services which are identical with those for which the trade mark is registered;
+…’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Wintersteiger is an undertaking established in Austria which manufactures and sells worldwide ski and snowboard servicing tools, together with replacement parts and accessories. Since it is the proprietor of the Austrian trade mark Wintersteiger.
+Products 4U, which is established in Germany, also develops and sells ski and snowboard servicing tools. In addition, it sells accessories for tools made by other manufacturers, in particular Wintersteiger. Those accessories, which Products 4U describes as ‘Wintersteiger-Zubehör’ (‘Wintersteiger accessories’) are neither produced by, nor are they authorised by, Wintersteiger. Like the applicant, Products 4U operates on a worldwide basis and also sells its goods in Austria.
+Since December 2008, Products 4U has reserved the keyword (‘AdWord’) ‘Wintersteiger’ in the advertising system developed by the referencing service provider on Google Internet. Following that reservation, which was limited to Google’s German top-level domain, namely the website ‘google.de’, an internet user who enters the keyword ‘Wintersteiger’ into the search engine of that referencing service receives a link to Wintersteiger’s website as the first search result. However, doing a search of that same term also leads to an advertisement for Products 4U appearing on the right-hand side of the screen with the heading ‘Anzeige’ (‘advertisement’). The text of the advertisement bears the heading ‘Skiwerkstattzubehör’ (‘Ski workshop accessories’), underlined and in blue font. It also contains the words ‘Ski und Snowboardmaschinen’ (‘ski and snowboard tools’) and ‘Wartung und Reparatur’ (‘maintenance and repair’) in two lines. Products 4U’s website address is given in green lettering in the last line. Clicking on the heading ‘Skiwerkstattzubehör’ (‘Ski workshop accessories’) brings up the ‘Wintersteiger-Zubehör’ (‘Wintersteiger accessories’) on offer on Products 4U’s website. The advertisement on ‘google.de’ does not give any indication that there are no economic links between Wintersteiger and Products 4U. On the other hand, Products 4U has not entered any advertisement linked to the search term ‘Wintersteiger’ in Google’s Austrian top-level domain, namely the website ‘google.at’.
+Wintersteiger brought an action for injunction in the Austrian courts claiming that, by placing the advertisement on ‘google.de’, Products 4U infringed its Austrian trade mark. In respect of the jurisdiction of those courts to hear its application, Wintersteiger relied on Article 5(3) of Regulation No 44/2001. It argued that ‘google.de’ can also be accessed in Austria and that the referencing service is configured in German.
+Products 4U contested the international jurisdiction of the Austrian courts, and, in the alternative, infringement of the trade mark Wintersteiger. According to that company, since ‘google.de’ is directed exclusively at German users, the advertisement at issue is therefore also intended only for German customers.
+The court at first instance considered that, even though ‘google.de’ can be accessed via the internet in Austria, as Google offers its services under country-specific top-level domains the ‘google.de’ website was directed at Germany only and, therefore the Austrian courts did not have jurisdiction to hear the application brought by Wintersteiger. The court of appeal, by contrast, found that it did have international jurisdiction, but held that Wintersteiger had no claim and, for that reason, dismissed its application.
+The Oberster Gerichtshof (Austrian Supreme Court), seised of an appeal on a point of law, asks in the present case under what conditions the advertising by use of the Austrian trade mark Wintersteiger on a website operating under a country-specific top-level domain ‘.de’ may confer jurisdiction on the Austrian courts under Article 5(3) of Regulation No 44/to hear an action for an injunction against use of an Austrian trade mark. In those circumstances the Oberster Gerichtshof decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)   In the case of an alleged infringement by a person established in another Member State of a trade mark granted in the State of the court seised through the use of a keyword (AdWord) identical to that trade mark in an internet search engine which offers its services under various country-specific top-level domains, is the phrase ‘place where the harmful event occurred or may occur’ in Article 5(3) of [Regulation No 44/2001] to be interpreted as meaning that:
+(a)
+jurisdiction is established only if the keyword is used on the search engine website the top-level domain of which is that of the State of the court seised;
+(b)
+jurisdiction is established only if the search engine website on which the keyword is used can be accessed in the State of the court seised;
+(c)
+jurisdiction is dependent on the satisfaction of other requirements additional to the accessibility of the website?
+(2)   If [question 1(c)] is answered in the affirmative:
+Which criteria are to be used to determine whether jurisdiction under Article 5(3) of [Regulation No 44/2001] is established where a trade mark granted in the State of the court seised is used as an AdWord on a search engine website with a country-specific top-level domain different from that of the State of the court seised?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the national court is asking, in essence, what criteria are to be used to determine jurisdiction under Article 5(3) of Regulation No 44/to hear an action relating to an alleged infringement of a trade mark registered in a Member State through the use, by an advertiser, of a keyword identical to that trade mark on the website of an internet search engine operating under a top-level domain different from that of the Member State where the trade mark is registered.
+In that regard, it must be noted at the outset that the rule of special jurisdiction laid down, by way of derogation from the principle of jurisdiction of the courts of the place of domicile of the defendant, in Article 5(3) of the regulation is based on the existence of a particularly close connecting factor between the dispute and the courts of the place where the harmful event occurred, which justifies the attribution of jurisdiction to those courts for reasons relating to the sound administration of justice and the efficacious conduct of proceedings (Joined Cases C-509/and C-161/eDate Advertising and Others [2011] ECR I-10269, paragraph 40).
+It should also be noted that the expression ‘place where the harmful event occurred or may occur’ in Article 5(3) of Regulation No 44/is intended to cover both the place where the damage occurred and the place of the event giving rise to it, so that the defendant may be sued, at the option of the applicant, in the courts for either of those places (eDate Advertising and Others, paragraph and the case-law cited).
+Those two places could constitute a significant connecting factor from the point of view of jurisdiction, since each of them could, depending on the circumstances, be particularly helpful in relation to the evidence and the conduct of the proceedings (eDate Advertising and Others, paragraph and the case-law cited).
+The place where the damage occurred
+As regards, first, the place where the damage occurred, the Court has already held that it is the place where the event which may give rise to liability in tort, delict or quasi-delict resulted in damage (Case C-189/Zuid-Chemie [2009] ECR I-6917, paragraph 26).
+In the context of the internet, the Court has also held that, in the event of an alleged infringement of personality rights, the person who considers that his rights have been infringed by means of content placed online on a website has the option of bringing an action for liability, in respect of all the damage caused, before the courts of the Member State in which the centre of his interests is based (see eDate Advertising and Others, paragraph 52).
+As the Court noted on that occasion, the criterion of centre of interests of the person whose rights have been infringed is in accordance with the objective of foreseeability of jurisdiction in so far as it enables the applicant to identify easily the court in which he may sue and the defendant reasonably to foresee before which court he may be sued (eDate Advertising and Others, paragraph 50).
+However, as the Advocate General pointed out at paragraph of his Opinion, that assessment, made in the particular context of infringements of personality rights, does not apply also to the determination of jurisdiction in respect of infringements of intellectual property rights, such as those alleged in the main proceedings.
+Contrary to the situation of a person who considers that there has been an infringement of his personality rights, which are protected in all Member States, the protection afforded by the registration of a national mark is, in principle, limited to the territory of the Member State in which it is registered, so that, in general, its proprietor cannot rely on that protection outside the territory.
+Nevertheless, the question whether the use, for advertising, of a sign identical to a national mark on a website operating solely under a country-specific top-level domain different from that of the Member State in which the trade mark is registered in fact infringes that mark falls within the scope of the examination of the substance of the action that the court having jurisdiction will undertake in light of the applicable substantive law.
+With regard to jurisdiction to hear a claim of infringement of a national mark in a situation such as that in the main proceedings, it must be considered that both the objective of foreseeability and that of sound administration of justice militate in favour of conferring jurisdiction, in respect of the damage occurred, on the courts of the Member State in which the right at issue is protected.
+It is the courts of the Member State in which the trade mark at issue is registered which are best able to assess, taking account of the interpretation of Directive 2008/in, inter alia, Joined Cases C-236/to C-238/Google France and Google [2010] ECR I-2417, and Case C-324/L’Oréal and Others [2011] ECR I-6011, whether a situation such as that in the main proceedings actually infringes the protected national mark. Those courts have the power to determine all the damage allegedly caused to the proprietor of the protected right because of an infringement of it and to hear an application seeking cessation of all infringements of that right.
+Therefore it must be held that an action relating to infringement of a trade mark registered in a Member State through the use, by an advertiser, of a keyword identical to that trade mark on a search engine website operating under a country-specific top-level domain of another Member State may be brought before the courts of the Member State in which the trade mark is registered.
+The place where the event giving rise to the damage occurred
+As regards, second, the place where the event occurred which gives rise to an alleged infringement of a national mark through the use of a keyword identical to that trade mark on a search engine operating under a country-specific top-level domain of another Member State, it should be noted that the territorial limitation of the protection of a national mark is not such as to exclude the international jurisdiction of courts other than the courts of the Member State in which that trade mark is registered.
+It is settled case-law that the provisions of Regulation No 44/must be interpreted independently, by reference to its scheme and purpose (eDate Advertising and Others, paragraph and the case-law cited), which include the foreseeability of conferring jurisdiction, ensuring sound administration of justice and efficacious conduct of proceedings.
+It is, in particular, established that the place where the event giving rise to an alleged damage occurred may constitute a significant connecting factor from the point of view of jurisdiction, since it could be particularly helpful in relation to the evidence and the conduct of proceedings.
+In a situation such as that in the main proceedings, the advantage presented by the place where the event giving rise to an alleged infringement occurred includes the ease with which the court there may gather evidence relating to that event.
+In the case of an alleged infringement of a national trade mark registered in a Member State because of the display, on the search engine website, of an advertisement using a keyword identical to that trade mark, it is the activation by the advertiser of the technical process displaying, according to pre-defined parameters, the advertisement which it created for its own commercial communications which should be considered to be the event giving rise to an alleged infringement, and not the display of the advertisement itself.
+As the Court has already held in the context of interpretation of the directive to approximate the laws of the Member States relating to trade marks, it is the advertiser choosing a keyword identical to the trade mark, and not the provider of the referencing service, who uses it in the course of trade (Google France and Google, paragraphs and 58). The event giving rise to a possible infringement of trade mark law therefore lies in the actions of the advertiser using the referencing service for its own commercial communications.
+It is true that the technical display process by the advertiser is activated, ultimately, on a server belonging to the operator of the search engine used by the advertiser. However, in view of the objective of foreseeability, which the rules on jurisdiction must pursue, the place of establishment of that server cannot, by reason of its uncertain location, be considered to be the place where the event giving rise to the damage occurred for the purpose of the application of Article 5(3) of Regulation No 44/2001.
+By contrast, since it is a definite and identifiable place, both for the applicant and for the defendant, and is therefore likely to facilitate the taking of evidence and the conduct of the proceedings, it must be held that the place of establishment of the advertiser is the place where the activation of the display process is decided.
+It follows from the foregoing that an action relating to alleged infringement of a trade mark registered in a Member State through the use, by an advertiser, of a keyword identical to that trade mark on a search engine website operating under a country-specific top-level domain of another Member State may also be brought before the courts of the Member State of the place of establishment of the advertiser.
+In view of all the foregoing considerations, Article 5(3) of Regulation No 44/must be interpreted as meaning that an action relating to infringement of a trade mark registered in a Member State because of the use, by an advertiser, of a keyword identical to that trade mark on a search engine website operating under a country-specific top-level domain of another Member State may be brought before either the courts of the Member State in which the trade mark is registered or the courts of the Member State of the place of establishment of the advertiser.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Article 5(3) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as meaning that an action relating to infringement of a trade mark registered in a Member State because of the use, by an advertiser, of a keyword identical to that trade mark on a search engine website operating under a country-specific top-level domain of another Member State may be brought before either the courts of the Member State in which the trade mark is registered or the courts of the Member State of the place of establishment of the advertiser.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

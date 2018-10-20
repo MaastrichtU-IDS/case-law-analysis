@@ -1,0 +1,929 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+March (*)
+      
+(Freedom of establishment – Free movement of capital – Corporation tax – Loan interest paid to a related company resident in another Member State or in a non-member country – Interest treated as a distribution – Cohesion of the tax system – Tax avoidance)
+In Case C-524/04,
+REFERENCE for a preliminary ruling under Article EC from the High Court of Justice of England and Wales, Chancery Division
+         (United Kingdom), made by decision of December 2004, received at the Court on December 2004, in the proceedings
+      
+Test Claimants in the Thin Cap Group Litigation
+v
+Commissioners of Inland Revenue,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, P. Jann, C.W.A. Timmermans, A. Rosas, K. Lenaerts (Rapporteur), P. Kūris and E. Juhász,
+         Presidents of Chambers, J.N. Cunha Rodrigues, R. Silva de Lapuerta, K. Schiemann, J. Makarczyk, G. Arestis and A. Borg Barthet,
+         Judges,
+      
+Advocate General: L.A. Geelhoed,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on January 2006,
+after considering the observations submitted on behalf of:
+–        Test Claimants in the Thin Cap Group Litigation, by G. Aaronson QC, P. Farmer and D. Cavender, Barristers,
+–        the United Kingdom Government, by C. Jackson and C. Gibbs, acting as Agents, and by D. Anderson QC, D. Ewart and S. Stevens,
+         Barristers,
+      
+–        the German Government, by M. Lumma and U. Forsthoff, acting as Agents,
+–        the Netherlands Government, by D.J.M. de Grave, acting as Agent,
+–        the Commission of the European Communities, by R. Lyal, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on June 2006,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles EC and EC, together with Articles EC to EC.
+      
+The reference has been made in proceedings between groups of companies (‘the claimants in the main proceedings’) and the Commissioners
+         of Inland Revenue concerning the tax treatment of interest paid by United Kingdom-resident companies in respect of loans granted
+         by a company belonging to the same group (‘the related company’) which is not resident in that Member State.
+      
+ National legal framework
+The relevant provisions of the legislation in force in the United Kingdom are contained in the Income and Corporation Taxes
+         Act (‘ICTA’), initially in the version which applied prior to and, subsequently, in the version as amended, in particular,
+         by the Finance Act and the Finance Act 1998. 
+      
+ The national provisions prior to the amendments made in Under section 209(2)(d) of ICTA, any interest paid by a United Kingdom-resident company on a loan was treated as a distribution
+         of profits by that company to the extent that the interest represented more than a reasonable commercial return on the loan.
+         That rule applied both when the loan was granted by a United Kingdom-resident company and when it was granted by a non-resident
+         company. The amount by which the interest exceeded a reasonable commercial return was not deductible from the borrowing company’s
+         taxable profits, but was treated as a distribution, that is to say, as a dividend. Because of this, the borrowing company
+         became liable to advance corporation tax (ACT) under section of ICTA.
+      
+In addition, under section 209(2)(e)(iv) and (v) of ICTA, any interest paid by a United Kingdom-resident company to a non-resident
+         company belonging to the same group of companies, other than interest already treated as such under section 209(2)(d), was
+         treated as a ‘distribution’, even where the interest represented a reasonable commercial return on the loan in question. That
+         rule applied to loans made by a non‑resident company to a resident subsidiary of which the former owned 75% of the capital
+         or where both the companies were 75% subsidiaries of a non-resident third company.
+      
+However, under section 788(3) of ICTA, the national provisions referred to above did not apply where a double taxation convention
+         (‘DTC’) was in place which prevented the application of those rules and thus ensured that, subject to certain conditions,
+         the interest was allowed as a deduction for tax purposes. Depending on the conditions governing the deductibility of the interest,
+         the DTCs concluded by the United Kingdom of Great Britain and Northern Ireland can be categorised as falling into one of two
+         categories.
+      
+Under the first category of DTCs, such as those concluded with the Federal Republic of Germany, the Kingdom of Spain, the
+         Grand Duchy of Luxembourg, the Republic of Austria and Japan, interest is deductible if, taking into account the amount of
+         the loan in question, the amount of the interest corresponds to what would have been agreed at arm’s length between the parties
+         or between the parties and a third party.
+      
+The second category of DTCs, such as those concluded with the French Republic, Ireland, the Italian Republic, the Kingdom
+         of the Netherlands, the United States of America and the Swiss Confederation, involves a more general enquiry into whether
+         the amount of the interest exceeds, for any reason, what would have been agreed at arm’s length between the parties or between
+         the parties and a third party. That enquiry extends to the question whether the amount of the loan itself exceeds what would
+         have been lent at arm’s length.
+      
+Section 808A of ICTA, which was inserted by section of the Finance (No 2) Act 1992, and applies to interest paid after
+         May 1992, provides that account is to be taken, as regards the second category of DTC, of all factors, including whether,
+         had the relationship been one at arm’s length, the loan would have been made at all, and, if so, how much would have been
+         lent and the rate of interest which would have been agreed upon. 
+      
+ The amendments made to the legislation in Under the Finance Act 1995, which has effect generally in relation to interest paid after November 1994, section 209(2)(d)
+         of ICTA remained unaltered. However, section 209(2)(e)(iv) and (v) were replaced by section 209(2)(da), under which interest
+         paid between members of the same group of companies is treated as a ‘distribution’ to the extent to which it exceeds the amount
+         that would have been paid at arm’s length between the payer and the payee of the interest. That rule applies to loans made
+         by a company to another company in which the former owns 75% of the capital or where both the companies are 75% subsidiaries
+         of a third company.
+      
+However, under section 212(1) and (3) of ICTA, as amended, section 209(2)(da) does not apply if the payer and the payee of
+         the interest are both liable to corporation tax in the United Kingdom. 
+      
+Section 209(2)(da) of ICTA was amplified by section 209(8A) to (8F). Section 209(8B) of ICTA specifies the criteria to be
+         used in determining whether interest payments are to be treated as distributions. Section 209(8A), in conjunction with section
+         209(8D) to (8F) of ICTA, determines the extent to which companies can be grouped together for the purposes of assessing the
+         level of their borrowing on a consolidated basis.
+      
+ The amendments made to the legislation in Schedule 28AA, added to ICTA by the Finance Act 1998, lays down rules on transfer pricing, which also apply to interest payments
+         between companies. Transactions between two companies under common control are subject to those rules if the terms under which
+         they were entered into differ from what they would have been if the companies had not been under common control and if those
+         terms give one of the affected parties a potential advantage in relation to United Kingdom tax legislation. The concept of
+         ‘common control’ includes both the direct or indirect participation of a company in the management, control or capital of
+         the other company concerned and the direct or indirect participation of a third person in the management, control or capital
+         of both the other companies concerned.
+      
+Until those rules were amended in 2004, no potential advantage for one of the companies concerned was deemed to arise under
+         that legislation where the other party to the transaction was also liable to tax in the United Kingdom and certain other conditions
+         were satisfied.
+      
+In 2004, those rules were amended so as to apply where both parties to the transaction are liable to tax in the United Kingdom.
+         
+      
+ The main proceedings and the questions referred for a preliminary ruling
+The main proceedings are part of a group litigation concerning the rules on thin capitalisation (‘Thin Cap Group Litigation’),
+         consisting of a number of claims for restitution and/or compensation brought by groups of companies against the Commissioners
+         of Inland Revenue in the High Court of Justice of England and Wales, Chancery Division, following the judgment in Case C‑324/Lankhorst-Hohorst [2002] ECR I‑11779.
+      
+Each of the cases selected by the national court as test cases for the purposes of the present reference for a preliminary
+         ruling involves a United Kingdom-resident company which is at least 75% owned, directly or indirectly, by a non-resident parent
+         company and has been granted a loan either by that parent company or by another non-resident company which is at least 75%
+         owned, directly or indirectly, by that parent company. 
+      
+The test cases involve, first, loans granted to a United Kingdom-resident company by a company established in another Member
+         State, each of the companies belonging to the same group of companies, the ultimate parent company of which is also established
+         in that other State. That applies to some of those test cases, namely those involving the Lafarge and Volvo groups, in which
+         the lending company and the parent company are established in the same Member State, that is to say, in this case, France
+         and Sweden respectively.
+      
+Secondly, some of the test cases involve a United Kingdom-resident company which belongs to a group of companies headed by
+         a parent company established in a non-member country, namely the United States of America, and which was granted a loan by
+         another company in the same group which is, for its part, resident either in another Member State (the first type of Caterpillar
+         group claim, which involves a loan granted by a lending company established in Ireland), or in a non‑member country (the second
+         type of Caterpillar group claim, which involves a loan granted by a lending company established in Switzerland), or in another
+         Member State but operating through a branch resident in a non-member country (the PepsiCo Group Claim, where the company granting
+         the loan has its seat in Luxembourg, but operates through a branch established in Switzerland).
+      
+According to the order for reference, some of the claimant companies converted part of those loans to equity in order to prevent
+         the interest payments under the loans being re-characterised as a distribution under the legislation in force in the United
+         Kingdom. Some of the claimant companies have concluded an agreement with the United Kingdom tax authorities as to how that
+         legislation should be applied, laying down the terms upon which the tax authorities would assess loans to be granted within
+         the group of companies in future years.
+      
+Following the judgment in Lankhorst-Hohorst, the claimants in the main proceedings brought claims for restitution and/or compensation for the consequential tax disadvantages
+         which they claim to have suffered as a result of the application of the United Kingdom legislation, which include, in particular,
+         the additional corporation tax paid following the decision of the United Kingdom tax authorities to disallow interest paid
+         as a deduction against their taxable profits and/or to limit such deductions, and the additional tax arising as a result of
+         those companies having converted loans to equity.
+      
+In those circumstances, the High Court of Justice of England and Wales, Chancery Division, decided to stay the proceedings
+         and to refer the following questions to the Court for a preliminary ruling:
+      
+‘1.      Is it contrary to Articles [EC], [EC] or EC for a Member State (“the State of the borrowing company”) to keep in
+         force and apply provisions such as those in sections 209, and schedule 28AA of [ICTA] (“the national provisions”) which
+         impose restrictions upon the ability of a company resident in that Member State (“the borrowing company”) to deduct for tax
+         purposes interest on loan finance granted by a direct or indirect parent company resident in another Member State in circumstances
+         where the borrowing company would not be subject to such restrictions if the parent company had been resident in the State
+         of the borrowing company? 
+      
+2.       What difference, if any, does it make to the answer to Question 1: 
+(a)      if the loan finance is provided not by the parent company of the borrowing company but by another company (“the lending company”)
+         in the same company group sharing a common direct or indirect parent company with the borrowing company and both that common
+         parent and the lending company are resident in Member States other than the State of the borrowing company?
+      
+(b)      if the lending company is resident in a Member State other than that of the borrowing company but all common direct or indirect
+         parent companies of the borrowing company and the lending company are resident in a third country?
+      
+(c)       if all the common direct or indirect parent companies of the lending company and the borrowing company are resident in third
+         countries and the lending company is resident in a Member State other than that of the borrowing company, but advances the
+         loan finance to the borrowing company from a branch of the lending company situated in a third country?
+      
+(d)      if the lending company and all the common direct or indirect parent companies of the lending company and the borrowing company
+         are resident in third countries? 
+      
+3.       Would it make any difference to the answers to Questions and if it could be shown that the borrowing constituted an abuse
+         of rights or was part of an artificial arrangement designed to circumvent the tax law of the Member State of the borrowing
+         company? If so, what guidance does the Court of Justice think it appropriate to provide as to what constitutes such an abuse
+         or artificial arrangement in the context of cases such as the present? 
+      
+4.       If there is a restriction on the movement of capital between Member States and third countries within Article EC, did that
+         restriction exist on December for the purposes of Article EC? 
+      
+5.       In the event that any of the matters referred to in Questions or are contrary to Articles [EC], [EC] or EC, then
+         in circumstances where the borrowing company, or other companies in the borrowing company’s group (“the Claimants”) make the
+         following claims:
+      
+(a)      a claim for the repayment of the additional corporation tax paid by the borrowing company as a result of the disallowance,
+         as a deduction against its profits chargeable to corporation tax, of interest paid to the lending company, where those interest
+         payments would have been regarded as allowable deductions from the borrowing company’s profits if the lending company had
+         also been resident in the State of the borrowing company;
+      
+(b)      a claim for repayment of the additional corporation tax paid by the borrowing company where the full amount of interest on
+         the loan has actually been paid to the lending company but the claim for a deduction in respect of that interest has been
+         reduced because of the national provisions or the tax authority’s application of them; 
+      
+(c)      a claim for the repayment of the additional corporation tax paid by the borrowing company where the amount of interest on
+         loans from the lending company, allowable as a deduction against the borrowing company’s profits, has been reduced because
+         equity capital has been subscribed rather than loan capital, or has been substituted for existing loan capital, because of
+         the national provisions or the tax authority’s application of them;
+      
+(d)      a claim for the repayment of the additional corporation tax paid by the borrowing company where the interest on loans from
+         the lending company allowable as a deduction against the borrowing company’s profits has been reduced by reducing the rate
+         of interest chargeable on the loan (or making the loan interest free) as a result of the national provisions or the tax authority’s
+         application of them; 
+      
+(e)      a claim for restitution or compensation in respect of losses, or other tax reliefs or credits, of the borrowing company (or
+         which were surrendered to the borrowing company by other companies in the borrowing company’s group which were also resident
+         in the State of the borrowing company) used by the borrowing company to offset the additional corporation tax liabilities
+         referred to in paragraphs (a), (b) or (c) above, where such losses, reliefs and credits would otherwise have been available
+         for alternative use or to be carried forward; 
+      
+(f)      a claim for repayment of unutilised advance corporation tax paid by the borrowing company upon interest payments to the lending
+         company which were re-characterised as distributions; 
+      
+(g)      a claim for restitution or compensation in respect of amounts of advance corporation tax paid in the circumstances referred
+         to in paragraph (f) above but which were subsequently set off against the borrowing company’s corporation tax liabilities;
+         
+      
+(h)      a claim for compensation for costs and expenses incurred by the Claimants in complying with the national provisions and the
+         Revenue authority’s application of them; 
+      
+(i)      a claim for restitution or compensation for the loss of return upon loan capital invested as equity (or converted to equity)
+         in the circumstances described in (c); and 
+      
+(j)      a claim for restitution or compensation for any tax liability incurred by the lending company in its State of residence upon
+         the deemed or imputed receipt of interest from the borrowing company which was re-characterised as a distribution under the
+         national provisions referred to in Question 1, 
+      
+are such claims to be regarded, for the purposes of Community law, as:
+–        claims for restitution or repayment of sums unduly levied which arise as a consequence of, and adjunct to, the breach of the
+         abovementioned Community provisions; or
+      
+–        claims for compensation or damages; or
+–        claims for payment of an amount representing a benefit unduly denied?
+6.      In the event that the answer to any part of Question is that the claims are claims for payment of an amount representing
+         a benefit unduly denied:
+      
+(a)      are such claims a consequence of, and an adjunct to, the right conferred by the abovementioned Community provisions; or
+(b)      must all or some of the conditions for recovery laid down in Joined Cases C-46/and C-48/Brasserie du Pêcheur and Factortame [[1996] ECR I-1029] be satisfied; or
+      
+(c)      must some other conditions be met?
+7.      Does it make any difference whether as a matter of domestic law the claims referred to in Question are brought as restitutionary
+         claims or are brought or have to be brought as claims for damages? 
+      
+8.      What guidance, if any, does the Court of Justice think it appropriate to provide in the present cases as to which circumstances
+         the national court ought to take into consideration when it comes to determine whether there is a sufficiently serious breach
+         within the meaning of the judgment in [Brasserie du Pêcheur and Factortame], in particular as to whether, given the state of the case-law on the interpretation of the relevant Community provisions,
+         the breach was excusable?
+      
+9.      As a matter of principle, can there be a direct causal link (within the meaning of the judgment in [Brasserie du Pêcheur and Factortame]) between any breach of Articles [EC], [EC] and EC and losses falling into the categories identified in Question
+         5(a)-(h) that are claimed to flow from it? If so, what guidance, if any, does the Court of Justice think it appropriate to
+         provide as to the circumstances which the national court should take into account in determining whether such a direct causal
+         link exists? 
+      
+10.      In determining the loss or damage for which reparation may be granted, is it open to the national court to have regard to
+         the question of whether injured persons showed reasonable diligence in order to avoid or limit their loss, in particular by
+         availing themselves of legal remedies which could have established that the national provisions did not (by reason of the
+         application of double taxation conventions) have the effect of imposing the restrictions set out in Question 1? Is the answer
+         to this question affected by the beliefs of the parties at the relevant times as to the effect of the double taxation conventions?’
+      
+ The questions referred for a preliminary ruling
+ Questions and By Question 1, the national court essentially asks whether Articles EC, EC or EC preclude legislation of a Member
+         State which restricts the ability of a resident company to deduct, for tax purposes, interest paid on loan finance granted
+         by a direct or indirect parent company which is resident in another Member State, where that resident company would not have
+         been subject to such a restriction if the interest had been paid on loan finance granted by a parent company which was resident
+         in the first Member State.
+      
+This question should be considered together with Question 3, by which the national court essentially asks whether the answer
+         to Question would differ if it can be shown that the borrowing constitutes an abuse of rights or is part of an artificial
+         arrangement designed to circumvent the tax law of the Member State in which the borrowing company is resident.
+      
+It should be noted at the outset that, although direct taxation falls within their competence, the Member States must none
+         the less exercise that competence consistently with Community law (see, inter alia, Joined Cases C-397/and C‑410/Metallgesellschaft and Others [2001] ECR I-1727, paragraph 37; Case C-446/Marks & Spencer [2005] ECR I-10837, paragraph 29; and Case C‑374/Test Claimants in Class IV of the ACT Group Litigation [2006] ECR I‑0000, paragraph 36).
+      
+ The freedoms of movement which apply
+In so far as the national court seeks a ruling from the Court on the interpretation both of Article EC relating to freedom
+         of establishment and of Article EC relating to the freedom to provide services, together with Article EC relating to
+         the free movement of capital, it is necessary to determine whether national legislation, such as the legislation at issue
+         in the main proceedings, is capable of coming within the scope of those freedoms.
+      
+In accordance with settled case-law, national provisions which apply to holdings by nationals of the Member State concerned
+         in the capital of a company established in another Member State, giving them definite influence on the company’s decisions
+         and allowing them to determine its activities, come within the substantive scope of the provisions of the EC Treaty on freedom
+         of establishment (see, to that effect, Case C‑251/Baars [2000] ECR I-2787, paragraph 22; Case C-436/X and Y [2002] ECR I-10829, paragraph 37; and Case C-196/Cadbury Schweppes and Cadbury Schweppes Overseas [2006] ECR I-0000, paragraph 31).
+      
+In the present case, as the Advocate General noted in points and of his Opinion, the national provisions at issue providing
+         for the re‑characterisation as a distribution of interest paid by a resident company (‘the borrowing company’) in respect
+         of a loan granted by a non-resident company (‘the lending company’) apply only to situations where the lending company has
+         a definite influence on the borrowing company or is itself controlled by a company which has such an influence.
+      
+In the first place, in the case of the legislation in force prior to the amendments made in 1998, the relevant provisions
+         of ICTA applied to loans granted by a non-resident company to a resident subsidiary of which the former company owned 75%
+         of the capital or where each of the companies was a 75% subsidiary of a third company.
+      
+In the second place, in the case of the amendments made in 1998, the legislation at issue applies only where the two companies
+         in question are subject to common control in the sense that one of them participates directly or indirectly in the management,
+         control or capital or the other company concerned or a third party participates directly or indirectly in the management,
+         control or capital of both the other companies concerned.
+      
+As the Commission of the European Communities has pointed out, legislation such as the legislation at issue in the main proceedings,
+         which is directed against thin capitalisation of resident companies by a related non-resident company, concerns only situations
+         in which the latter company enjoys a level of control over other companies belonging to the same group which allows it to
+         influence the financing decisions of those other companies, in particular the decision as to whether those companies are to
+         be financed by way of loan or equity capital.
+      
+Moreover, the order for reference shows that the cases selected as test cases in the proceedings before the national court
+         involve United Kingdom-resident subsidiaries which are at least 75% owned, directly or indirectly, by a non-resident parent
+         company or by another non‑resident company which is also at least 75% owned, directly or indirectly, by that parent company.
+      
+Legislation such as the legislation at issue in the main proceedings, which is targeted only at relations within a group of
+         companies, primarily affects freedom of establishment and should, accordingly, be considered in the light of Article EC
+         (see, to that effect, Cadbury Schweppes and Cadbury Schweppes Overseas, paragraph 32, and Case C-446/Test Claimants in the FII Group Litigation [2006] ECR I‑0000, paragraph 118).
+      
+If, as submitted by the claimants in the main proceedings, it were to be accepted that that legislation has restrictive effects
+         on the freedom to provide services and the free movement of capital, such effects must be seen as an unavoidable consequence
+         of any restriction on freedom of establishment and do not justify an independent examination of that legislation in the light
+         of Articles EC and EC (see, to that effect, Case C-36/Omega [2004] ECR I‑9609, paragraph 27; Cadbury Schweppes and Cadbury Schweppes Overseas, paragraph 33; and Case C-452/Fidium Finanz [2006] ECR I-0000, paragraphs and 49).
+      
+The questions referred should therefore be answered in the light of Article EC alone.
+      
+ Whether there is a restriction on freedom of establishment 
+Freedom of establishment, which Article EC grants to Community nationals and which includes the right to take up and pursue
+         activities as self-employed persons and to set up and manage undertakings, under the conditions laid down for its own nationals
+         by the law of the Member State where such establishment is effected, entails, in accordance with Article EC, for companies
+         or firms formed in accordance with the law of a Member State and having their registered office, central administration or
+         principal place of business within the European Community, the right to exercise their activity in the Member State concerned
+         through a subsidiary, branch or agency (see, inter alia, Case C-307/Saint‑Gobain ZN  [1999] ECR I-6161, paragraph 35; Marks & Spencer, paragraph 30; and Cadbury Schweppes and Cadbury Schweppes Overseas, paragraph 41).
+      
+In the case of companies, their registered office for the purposes of Article EC serves, in the same way as nationality
+         in the case of individuals, as the connecting factor with the legal system of a State. Acceptance of the proposition that
+         the Member State in which a subsidiary seeks to establish itself may freely apply different treatment merely by reason of
+         the fact that the registered office of its parent company is situated in another Member State would deprive Article EC
+         of all meaning (see, to that effect, Case 270/Commission v France [1986] ECR 273, paragraph 18; Case C-330/Commerzbank  [1993] ECR I‑4017, paragraph 13; Metallgesellschaft and Others, paragraph 42; and Marks & Spencer, paragraph 37). Freedom of establishment thus aims to guarantee the benefit of national treatment in the host Member State,
+         by prohibiting any discrimination based on the place in which companies have their seat (see, to that effect, Commission v France, paragraph 14, and Saint‑Gobain ZN, paragraph 35).
+      
+In the present case, the national provisions regarding thin capitalisation provide that, in some circumstances, interest paid
+         by a company to another company belonging to the same group in respect of a loan granted by the latter is to be treated as
+         a distribution, thereby prohibiting the borrowing company from deducting the interest paid from its taxable profits.
+      
+The documents before the Court show that the fact that interest paid to a related company is treated as a distribution is
+         capable of increasing the liability of the borrowing company to tax, not only because taxable profits cannot be reduced by
+         the amount of the interest paid, but also because, by treating that interest as a distribution, that company may be liable
+         to advance corporation tax when that transaction takes place.
+      
+It must be held that the national provisions relating to thin capitalisation give rise to a difference in treatment between
+         resident borrowing companies according to whether or not the related lending company is established in the United Kingdom.
+      
+As regards, first, the national legislation which was in force until 1995, it is true that interest paid by a resident company
+         was, in principle, treated as a distribution to the extent to which it represented more than a reasonable commercial return
+         on the loan in question, whether or not the lending company was resident. However, where a resident company paid interest
+         to a related non-resident company, apart from cases governed by a DTC which prevented the application of the national legislation,
+         that interest was always treated as a distribution, even if it represented a reasonable commercial return on that loan.
+      
+With regard, secondly, to the national legislation as in force between and 1998, the provision which treated interest
+         paid by one company to another belonging to the same group of companies as a distribution to the extent to which that interest
+         exceeded the amount that would have been paid at arm’s length between the payer and the payee of the interest, or between
+         those parties and a third party, did not apply when both the borrowing company and the lending company were subject to tax
+         in the United Kingdom.
+      
+Similarly, under the legislation in force between and 2004, interest paid between companies in the same group was governed
+         by the rules on transfer pricing when it was payable pursuant to a transaction entered into on terms which differed from what
+         they would have been if those companies had not belonged to the same group and if the terms under which the transaction was
+         entered into had given one of the parties involved a potential advantage in relation to United Kingdom tax legislation. The
+         effect of that legislation is that such an advantage was deemed not to exist where certain conditions were satisfied, in particular
+         the fact that the other party to the transaction was also liable to tax in the United Kingdom.
+      
+In so far as a company is liable to tax in the United Kingdom if it is resident in that Member State or carries on an economic
+         activity there through a branch or agency, the provisions in force between and primarily imposed restrictions on
+         loans granted by non-resident parent companies.
+      
+It follows that, even prior to and, in any case, between and 2004, when interest was paid by a resident company
+         in respect of a loan granted by a related non-resident company, the tax position of the former company was less advantageous
+         than that of a resident borrowing company which had been granted a loan by a related resident company.
+      
+As regards the compatibility of that difference in treatment with the Treaty provisions relating to freedom of establishment,
+         the German and United Kingdom Governments submit, in the first place, that those provisions do not apply to a national rule
+         which is concerned only with exercising fiscal competence, as allocated in accordance with internationally-recognised principles
+         in the DTCs concluded by the United Kingdom. 
+      
+Those Governments refer in that regard to the principle that States may allocate profits of companies belonging to the same
+         group on the basis of the ‘arm’s‑length’ principle or ‘arm’s-length comparison’ laid down, in particular, in Article of
+         the Model Tax Convention on Income and Capital of the Organisation for Economic Cooperation and Development (OECD). The German
+         Government adds that, under that principle, it is the State in which the lending company is resident which has the right to
+         tax the interest received where the transaction in question is entered into on arm’s-length terms, whereas, should those terms
+         not apply, the right to do so belongs to the State in which the borrowing company is resident.
+      
+As regards the implementation of that principle, the United Kingdom Government states that most of the DTCs which that Member
+         State has concluded contain a provision permitting the respective competent authorities to agree a compensating adjustment,
+         whereby any increase in taxable profits in the State of the borrowing company is matched by a corresponding reduction in taxable
+         profits in the State in which the lending company is established.
+      
+It must be pointed out in that regard that, in the absence of any unifying or harmonising Community measures, Member States
+         retain the power to define, by treaty or unilaterally, the criteria for allocating their powers of taxation, particularly
+         with a view to eliminating double taxation (Case C-336/Gilly [1998] ECR I-2793, paragraphs and 30; Case C-470/N [2006] ECR I-0000, paragraph 44; and Case C‑513/Kerckhaert and Morres [2006] ECR I-0000, paragraphs and 23). In that context, it is for the Member States to take the measures necessary to
+         prevent double taxation by applying, in particular, the apportionment criteria followed in international tax practice, including
+         the model conventions drawn up by the OECD (see, to that effect, Gilly, paragraph 31; N, paragraph 45; and Kerckhaert and Morres, paragraph 23).
+      
+However, the national provisions at issue in the main proceedings are not based on a mere allocation of powers between the
+         United Kingdom and the countries with which it has concluded DTCs.
+      
+Although, prior to the amendments to the legislation made in 1995, those national provisions stipulated that, save where there
+         was a term to the contrary effect in a DTC, interest paid by a resident company in respect of a loan granted by a related
+         non-resident company was to be treated as a distribution, in so doing, those provisions represented a unilateral choice on
+         the part of the United Kingdom legislature. The same was true, prior to the amendments made in 1998, of interest paid in such
+         circumstances which exceeded what would have been paid on an arm’s-length basis and, following the amendments to the legislation
+         made in 1998, of transactions entered into between two companies under common control if the terms under which they were entered
+         into differed from what they would have been if those companies had not been under common control, in particular where those
+         terms gave one of the parties concerned a potential tax advantage in relation to the legislation in force in the United Kingdom.
+      
+Rather than seeking to avoid the double taxation of profits arising in the United Kingdom, those provisions reflected the
+         choice made by that Member State to organise its tax system in such a way as to prevent those profits from being untaxed in
+         that State through a system of thin capitalisation of resident subsidiaries by related non-resident companies. As the Advocate
+         General stated at points and of his Opinion, the unilateral nature of the provisions treating certain interest paid
+         to non‑resident companies as a distribution is negated neither by the fact that, in giving effect to such treatment, that
+         Member State did so on the basis of internationally-recognised principles nor even by the fact that, in the case of lending
+         companies that are resident in certain other countries, that State sought to couple the application of its national legislation
+         with DTCs containing clauses designed to prevent or to mitigate the double taxation that might arise from such treatment.
+      
+Moreover, even if, in some cases, the application of the provisions at issue in the main proceedings did no more than implement
+         criteria laid down in DTCs, the fact remains that, in exercising the powers of taxation allocated under them, the Member States
+         are obliged to comply with the rules of Community law (see, to that effect, Saint‑Gobain ZN, paragraphs and 59, and Case C‑385/De Groot  [2002] ECR I‑11819, paragraph 94) and, more particularly, the freedom of establishment which Article EC guarantees.
+      
+As regards, lastly, the fact that, under the provisions of a DTC, an increase in taxable profits resulting from a re-characterisation
+         of interest may be matched by a corresponding reduction in taxable profits in the State in which the lending company is resident,
+         it is true that, since the tax regime resulting from a DTC forms part of the legal framework applying in the main proceedings
+         and has been presented as such by the national court, the Court must take it into account in order to provide an interpretation
+         of Community law that is relevant to the national court (see, to that effect, Case C-319/Manninen [2004] ECR I‑7477, paragraph 21; Case C-265/Bouanich [2006] ECR I-923, paragraphs to 55; Test Claimants in Class IV of the ACT Group Litigation, paragraph 71; and Case C-170/Denkavit Internationaal and Denkavit France [2006] ECR I-0000, paragraph 45).
+      
+However, the documents before the Court do not show that where, under the legislation in force in the United Kingdom, interest
+         paid by a resident company to a related non-resident company falls to be treated as a distribution, the application of that
+         national legislation coupled with the relevant provisions of a DTC generally allows the increase in the charge to tax arising
+         from the adjustment made to the taxable profits of the borrowing company to be offset. In that regard, the claimants in the
+         main proceedings do not share the United Kingdom Government’s view that, by reason of the DTCs which the United Kingdom has
+         concluded with other Member States and the application of Convention 90/436/EEC of July on the elimination of double
+         taxation in connection with the adjustment of profits of associated enterprises (OJ L 225, p. 10), the tax disadvantage
+         inflicted on a group of companies as a result of the application of the national provisions relating to thin capitalisation
+         has always been matched by a corresponding advantage.
+      
+Even if it were to be accepted that a tax advantage granted in the State in which the lending company is resident might be
+         capable of offsetting the charge to tax arising for the borrowing company from the application of the legislation of the State
+         in which it is resident, the documents before the Court do not show that, by virtue of the application of the legislation
+         in force in the United Kingdom, coupled with the DTCs concluded by that Member State, any upward adjustment to the taxable
+         profits of the borrowing company to which the re-characterisation of the interest paid to a related non-resident company may
+         give rise is offset by the grant of a tax advantage to the latter company in the State in which it is resident.
+      
+In the second place, the United Kingdom Government argues that the difference in treatment arising under the legislation at
+         issue in the main proceedings does not constitute a direct and certain obstacle to the exercise of freedom of establishment,
+         since it has neither the object nor the effect of making it less attractive for companies established in other Member States
+         to exercise freedom of establishment in the United Kingdom.
+      
+According to that Government and the German Government, rather than giving rise to discrimination, the legislation in force
+         in the United Kingdom merely distinguishes between situations which are not comparable. Those Governments state that it is
+         only in a multinational context that a group of companies may, by financing a United Kingdom-resident subsidiary by loan,
+         rather than equity, capital, organise a ‘transfer of profits’ to another State where those profits will be subject to a lower
+         rate of tax, with the result that the profits made by the resident subsidiary will avoid being taxed in the United Kingdom.
+         Furthermore, only a foreign parent company has the choice of establishing itself in the State in which interest is taxed at
+         a particularly low rate, or is exempt from tax. 
+      
+In that regard, it must be held, first, that the difference in treatment to which the subsidiaries of non-resident parent
+         companies are, by virtue of legislation such as the legislation at issue in the main proceedings, subjected in comparison
+         with subsidiaries of resident parent companies is capable of restricting freedom of establishment even if, from a tax perspective,
+         the position of a multinational group of companies is not comparable to that of a group of companies, each of which is resident
+         in the same Member State.
+      
+It is true that, within a group of companies, the risk that the financing of a subsidiary will be structured in such a way
+         that profits are transferred to a State where they are subject to a lower rate of tax does not normally arise if all of the
+         companies in question are subject, in the same Member State, to the same rate of tax. However, that does not mean that the
+         rules adopted by a Member State for the specific purpose of dealing with the situation of multinational groups may not, in
+         some cases, constitute a restriction on the freedom of establishment of the companies concerned.
+      
+Secondly, it must be held that a difference in treatment between resident subsidiaries which is based on the place where their
+         parent company has its seat constitutes a restriction on freedom of establishment, since it makes it less attractive for companies
+         established in other Member States to exercise freedom of establishment and they may, in consequence, refrain from acquiring,
+         creating or maintaining a subsidiary in the Member State which adopts that measure (see Lankhorst‑Hohorst, paragraph 32).
+      
+Contrary to what the United Kingdom Government submits, in order for such legislation to be considered to be a restriction
+         on freedom of establishment, it is sufficient that it be capable of restricting the exercise of that freedom in a Member State
+         by companies established in another Member State, and it is not necessary to establish that the legislation in question has
+         actually had the effect of leading some of those companies to refrain from acquiring, creating or maintaining a subsidiary
+         in the first Member State.
+      
+It follows that the difference in treatment which applies to resident borrowing companies by virtue of the national provisions
+         relating to thin capitalisation at issue in the main proceedings on the basis of the registered office of the related lending
+         company constitutes a restriction on freedom of establishment.
+      
+ The justification for the restriction on freedom of establishment
+Such a restriction is permissible only if it is justified by overriding reasons of public interest. It is further necessary,
+         in such a case, that its application be appropriate to ensuring the attainment of the objective in question and not go beyond
+         what is necessary to attain it (Marks & Spencer, paragraph 35, and Cadbury Schweppes and Cadbury Schweppes Overseas, paragraph 47).
+      
+The United Kingdom Government, supported by the German Government, argues that the national provisions at issue in the main
+         proceedings are justified by both the need to ensure the cohesion of the national tax system and that of preventing tax avoidance.
+         According to the United Kingdom Government, the true position is that these are two aspects of the same objective, which is
+         to ensure fair and coherent tax treatment.
+      
+–       The need to ensure the cohesion of the national tax system
+As regards, in the first place, the need to ensure the cohesion of the national tax system, the United Kingdom Government
+         submits that, by ensuring that ‘covert’ dividend payments are taxed once only, in the appropriate tax jurisdiction, the national
+         legislation guarantees, through the DTCs that have been entered into, that any increase in taxable profits in the United Kingdom
+         is offset by a corresponding reduction in the taxable profits of the lender in the State in which it is resident. By contrast,
+         in Lankhorst-Hohorst, no equivalent provision existed in the DTC concluded between the Federal Republic of Germany and the Kingdom of the Netherlands.
+      
+The German Government adds that, where the borrowing company and the lending company are resident in the same Member State,
+         the tax advantage to which an interest payment gives rise, that is to say, the deduction of that payment from the taxable
+         profits of the borrowing company, is always offset by a corresponding tax disadvantage to the lending company, in the form
+         of the taxation of the interest received. The fact that there is no entitlement to such an offset where the lending company
+         is resident in another Member State leads the Member States to allocate their taxing powers according to whether the transaction
+         in question was entered into on an arm’s-length basis.
+      
+In that respect, it should be pointed out that, in paragraphs and respectively of the judgments in Case C-204/Bachmann [1992] ECR I-and Case C‑300/Commission v Belgium [1992] ECR I-305, the Court recognised that the need to maintain the cohesion of a tax system can justify a restriction on
+         the exercise of the fundamental freedoms guaranteed by the Treaty. However, for an argument based on such a justification
+         to succeed, a direct link must be established between the tax advantage concerned and the offsetting of that advantage by
+         a particular tax levy (see, to that effect, Case C‑484/Svensson and Gustavsson [1995] ECR I-3955, paragraph 18; Manninen, paragraph 42; and Case C-471/Keller Holding [2006] ECR I-2107, paragraph 40).
+      
+As was stated in paragraphs and of this judgment, even if it were to be accepted that a tax advantage granted in the
+         State in which the lending company is resident might be capable of offsetting the charge to tax arising for the borrowing
+         company from the application of the legislation of the State in which it is resident, the Governments which have submitted
+         observations have not shown that, by virtue of the application of the legislation in force in the United Kingdom, coupled
+         with the DTCs concluded by that Member State, any upward adjustment to the taxable profits of the borrowing company to which
+         the re-characterisation of interest paid to a related non-resident company may give rise is offset by the grant of a tax advantage
+         to the latter company in the State in which it is resident.
+      
+In those circumstances, the restriction on freedom of establishment constituted by the national provisions at issue in the
+         main proceedings cannot therefore be justified by the need to ensure the cohesion of the tax system. 
+      
+–        The grounds based on the fight against abusive practices 
+As regards, in the second place, the issues relating to the fight against tax avoidance, the United Kingdom Government states
+         that, unlike the German legislation at issue in Lankhorst-Hohorst, the national provisions relating to thin capitalisation are targeted at a particular form of tax avoidance, which consists
+         in the adoption of artificial arrangements designed to circumvent the tax legislation in the State in which the borrowing
+         company is resident. The provisions in force in the United Kingdom go no further than is necessary in order to attain that
+         objective, inasmuch as they are based on the internationally-recognised arm’s‑length principle, they treat as a distribution
+         only that proportion of the interest which exceeds what would have been paid under a transaction entered into on an arm’s-length
+         basis and they are applied with flexibility, particularly as they provide for an advance clearance procedure.
+      
+It must be pointed out that, according to established case-law, a national measure restricting freedom of establishment may
+         be justified where it specifically targets wholly artificial arrangements designed to circumvent the legislation of the Member
+         State concerned (see, to that effect, Case C-264/ICI [1998] ECR I‑4695, paragraph 26; Lankhorst‑Hohorst, paragraph 37; Marks & Spencer, paragraph 57; and Cadbury Schweppes and Cadbury Schweppes Overseas, paragraph 51).
+      
+The mere fact that a resident company is granted a loan by a related company which is established in another Member State
+         cannot be the basis of a general presumption of abusive practices and justify a measure which compromises the exercise of
+         a fundamental freedom guaranteed by the Treaty (see, to that effect, Case C-478/Commission v Belgium  [2000] ECR I-7587, paragraph 45; X and Y, paragraph 62; Case C-334/Commission v France [2004] ECR I‑2229, paragraph 27; and Cadbury Schweppes and Cadbury Schweppes Overseas, paragraph 50).
+      
+In order for a restriction on the freedom of establishment to be justified on the ground of prevention of abusive practices,
+         the specific objective of such a restriction must be to prevent conduct involving the creation of wholly artificial arrangements
+         which do not reflect economic reality, with a view to escaping the tax normally due on the profits generated by activities
+         carried out on national territory (Cadbury Schweppes and Cadbury Schweppes Overseas, paragraph 55).
+      
+Like the practices referred to in paragraph of the judgment in Marks & Spencer, which involved arranging transfers of losses incurred within a group of companies to companies established in the Member
+         States which applied the highest rates of taxation and in which the tax value of those losses was therefore the greatest,
+         the type of conduct described in the preceding paragraph is such as to undermine the right of the Member States to exercise
+         their tax jurisdiction in relation to the activities carried out in their territory and thus to jeopardise a balanced allocation
+         between Member States of the power to impose taxes (Cadbury Schweppes and Cadbury Schweppes Overseas, paragraph 56).
+      
+As the United Kingdom Government observes, national legislation such as the legislation at issue in the main proceedings is
+         targeted at the practice of thin capitalisation, under which a group of companies will seek to reduce the taxation of profits
+         made by one of its subsidiaries by electing to fund that subsidiary by way of loan capital, rather than equity capital, thereby
+         allowing that subsidiary to transfer profits to a parent company in the form of interest which is deductible in the calculation
+         of its taxable profits, and not in the form of non‑deductible dividends.  Where the parent company is resident in a State
+         in which the rate of tax is lower than that which applies in the State in which its subsidiary is resident, the tax liability
+         may thus be transferred to a State which has a lower tax rate.
+      
+By providing that that interest is to be treated as a distribution, such legislation is able to prevent practices the sole
+         purpose of which is to avoid the tax that would normally be payable on profits generated by activities undertaken in the national
+         territory. It follows that such legislation is an appropriate means of attaining the objective underlying its adoption.
+      
+It remains necessary to determine whether or not that legislation goes beyond what is necessary to attain that objective.
+      
+As the Court held in paragraph of its judgment in Lankhorst‑Hohorst, that requirement is not met by national legislation which does not have the specific purpose of preventing wholly artificial
+         arrangements designed to circumvent that legislation, but applies generally to any situation in which the parent company has
+         its seat, for whatever reason, in another Member State.  
+      
+By contrast, legislation of a Member State may be justified by the need to combat abusive practices where it provides that
+         interest paid by a resident subsidiary to a non-resident parent company is to be treated as a distribution only if, and in
+         so far as, it exceeds what those companies would have agreed upon on an arm’s-length basis, that is to say, the commercial
+         terms which those parties would have accepted if they had not formed part of the same group of companies.
+      
+The fact that a resident company has been granted a loan by a non‑resident company on terms which do not correspond to those
+         which would have been agreed upon at arm’s length constitutes, for the Member State in which the borrowing company is resident,
+         an objective element which can be independently verified in order to determine whether the transaction in question represents,
+         in whole or in part, a purely artificial arrangement, the essential purpose of which is to circumvent the tax legislation
+         of that Member State. In that regard, the question is whether, had there been an arm’s-length relationship between the companies
+         concerned, the loan would not have been granted or would have been granted for a different amount or at a different rate of
+         interest.
+      
+As the Advocate General stated at point of his Opinion, national legislation which provides for a consideration of objective
+         and verifiable elements in order to determine whether a transaction represents a purely artificial arrangement, entered into
+         for tax reasons alone, is to be considered as not going beyond what is necessary to prevent abusive practices where, in the
+         first place, on each occasion on which the existence of such an arrangement cannot be ruled out, the taxpayer is given an
+         opportunity, without being subject to undue administrative constraints, to provide evidence of any commercial justification
+         that there may have been for that arrangement.
+      
+In order for such legislation to remain compatible with the principle of proportionality, it is necessary, in the second place,
+         that, where the consideration of those elements leads to the conclusion that the transaction in question represents a purely
+         artificial arrangement without any underlying commercial justification, the re-characterisation of interest paid as a distribution
+         is limited to the proportion of that interest which exceeds what would have been agreed had the relationship between the parties
+         or between those parties and a third party been one at arm’s length.
+      
+In the present case, the documents before the Court show that, prior to the amendments made in 1995, the legislation in force
+         in the United Kingdom provided that interest paid by a resident subsidiary in respect of a loan granted by a non-resident
+         parent company was treated, in its entirety, as a distribution, with no assessment of whether the loan satisfied a relevant
+         criterion, such as that of being granted at arm’s length, and without that subsidiary being given any opportunity to provide
+         evidence as to any valid commercial justifications there may have been for the loan.
+      
+However, those documents also show that that legislation did not apply in cases involving a DTC which prevented the application
+         of those rules and thus ensured that the interest in question was allowed as a deduction for tax purposes, provided that the
+         rate of interest did not exceed what would have been agreed upon on an arm’s-length basis. Under such a DTC, only that proportion
+         of the interest which exceeded what would have been paid on an arm’s-length basis was treated as a distribution.
+      
+Whilst a tax regime such as the regime which arises, in cases to which they apply, under the DTCs concluded by the United
+         Kingdom appears initially to be based on a consideration of objective and verifiable elements which make it possible to determine
+         whether a purely artificial arrangement, entered into for tax reasons alone, is involved, it is for the national court to
+         determine, should it be established that the claimants in the main proceedings benefited from such a regime, whether that
+         regime gave them an opportunity, if their transactions did not satisfy the conditions laid down under the DTC in order to
+         assess their compatibility with the arm’s-length criterion, to provide evidence as to any commercial justification there may
+         have been for the transactions, without being subject to any undue administrative constraints.
+      
+The same applies to the national provisions in force after the legislative amendments introduced in and 1998. It is a
+         matter of agreement that, under those provisions, it is only interest which exceeds what would be paid on an arm’s-length
+         basis that falls to be re‑characterised as a distribution. Whilst, at first sight, the criteria laid down by those provisions
+         appear to require a consideration of objective and verifiable elements in order to determine whether a purely artificial arrangement,
+         entered into for tax reasons alone, is involved, it is for the national court to determine whether those provisions allow
+         taxpayers, where the transaction does not satisfy the arm’s-length criterion, to produce evidence of the commercial justifications
+         for that transaction, under the conditions referred to in the preceding paragraph.
+      
+Contrary to what the Commission submits, where a Member State treats all or part of the interest paid by a resident company
+         to a non‑resident company belonging to the same group of companies as a distribution, after having determined that a purely
+         artificial arrangement, designed to circumvent its tax legislation, is involved, that Member State cannot be obliged to ensure
+         in such a case that the State in which the latter company is resident does everything necessary to avoid the payment which
+         is treated as a dividend being taxed, as such, at group level both in the Member State in which the former company is resident
+         and in the Member State in which the latter company is resident.
+      
+In so far as, in such a case, the Member State in which the former company is resident may lawfully treat interest paid by
+         that company as a distribution of profits, it is not, in principle, for that State to ensure that profits distributed to a
+         non-resident shareholder company are not subject to a series of charges to tax (see, to that effect, Test Claimants in Class IV of the ACT Group Litigation, paragraphs and 60). 
+      
+It is only where a Member State decides to exercise its powers of taxation not only, as regards resident subsidiaries, in
+         relation to profits made in that State but also, as regards non-resident companies receiving distributions, in relation to
+         the income which the latter receive from those subsidiaries, that that State is obliged, in order for the latter companies
+         not to be confronted with a restriction on freedom of establishment which is prohibited, in principle, by Article EC, to
+         ensure that, under the procedures laid down by its national law in order to prevent or mitigate a series of liabilities to
+         tax, non-resident companies receiving distributions are subject to the same treatment as resident companies which receive
+         such distributions (see, to that effect, Test Claimants in Class IV of the ACT Group Litigation, paragraph 70, and Denkavit Internationaal and Denkavit France, paragraph 37).
+      
+Furthermore, as was noted in paragraph of this judgment, in the absence of any unifying or harmonising Community measures,
+         Member States retain the power to define, by treaty or unilaterally, the criteria for allocating their powers of taxation,
+         particularly with a view to eliminating double taxation.
+      
+The answer to Questions and must therefore be that Article EC precludes legislation of a Member State which restricts
+         the ability of a resident company to deduct, for tax purposes, interest on loan finance granted by a direct or indirect parent
+         company which is resident in another Member State or by a company which is resident in another Member State and is controlled
+         by such a parent company, without imposing that restriction on a resident company which has been granted loan finance by a
+         company which is also resident, unless, first, that legislation provides for a consideration of objective and verifiable elements
+         which make it possible to identify the existence of a purely artificial arrangement, entered into for tax reasons alone, and
+         allows taxpayers to produce, if appropriate and without being subject to undue administrative constraints, evidence as to
+         the commercial justification for the transaction in question and, secondly, where it is established that such an arrangement
+         exists, such legislation treats that interest as a distribution only in so far as it exceeds what would have been agreed upon
+         at arm’s length.
+      
+ Question By Question 2, the national court essentially asks whether the answer to Question would be different if the loan finance
+         was provided to a resident company, not by a parent company which is resident in another Member State, but:
+      
+–        by another company belonging to the same group of companies, where that company and the parent company of that group are resident
+         in another Member State; 
+      
+–        by another company belonging to the same group of companies which is resident in another Member State, where the common parent
+         companies of the borrowing company and the lending company are resident in a non-member country; or
+      
+–        by another company belonging to the same group of companies which is resident in another Member State but provides the loan
+         through a branch situated in a non-member country, where the common parent companies of the borrowing company and the lending
+         company are resident in a non-member country; or 
+      
+–        by another company belonging to the same group of companies which is, together with the common parent companies of the borrowing
+         company and the lending company, resident in a non‑member country.
+      
+In that regard, it must be noted, first of all, that, as was stated in paragraph of this judgment, national legislation
+         such as the legislation at issue in the main proceedings which, in treating interest paid by a resident subsidiary to a parent
+         company as a distribution, applies a difference in treatment between resident subsidiaries which is based on the place where
+         their parent company has its seat, constitutes a restriction on freedom of establishment, since it makes it less attractive
+         for companies established in other Member States to exercise freedom of establishment and they may, in consequence, refrain
+         from acquiring, creating or maintaining a subsidiary in the Member State which adopts such a measure.
+      
+It follows that legislation of this kind constitutes a restriction on freedom of establishment which is prohibited, in principle,
+         by Article EC, both where a resident borrowing company is granted a loan by a company which is established in another Member
+         State and has a direct or indirect holding in the capital of the borrowing company, conferring on it definite influence on
+         the decisions of that company and allowing it to determine its activities, and where a borrowing company is granted a loan
+         by another non-resident company which, irrespective of where it is resident, is itself controlled by a company which is resident
+         in another Member State and which has, directly or indirectly, such a holding in the capital of the borrowing company.
+      
+The answer given to Question therefore also applies to the situation referred to in the first indent to Question 2.
+      
+As regards the situations referred to in the second, third and fourth indents to Question 2, it must be noted, as was stated
+         in paragraph of this judgment, that Article EC, read in conjunction with Article EC, entails, for companies or firms
+         formed in accordance with the law of a Member State and having their registered office, central administration or principal
+         place of business within the Community, the right to exercise their activity in the Member State concerned through a subsidiary,
+         branch or agency.
+      
+Article EC has accordingly no bearing on the application of national legislation such as the legislation at issue in the
+         main proceedings to a situation in which a resident company is granted a loan by a company which is resident in another Member
+         State and which does not itself have a controlling shareholding in the borrowing company and where each of those companies
+         is directly or indirectly controlled by a common parent company which is resident, for its part, in a non‑member country.
+      
+Where, in such a situation, the Member State which has adopted that legislation treats interest paid by the borrowing company
+         as a distribution, that measure affects freedom of establishment, not as regards the lending company, but only as regards
+         the parent company which enjoys a level of control over each of the other companies concerned allowing it to influence the
+         funding decisions of those companies. In so far as that related company is not established in a Member State for the purposes
+         of Article EC, Article EC is not applicable.
+      
+For the same reasons, Article EC has no bearing on the application of that legislation to a situation in which both the
+         lending company and the common parent company are resident in a non-member country, nor does it have any bearing on a situation
+         in which a lending company which is resident in another Member State and does not itself control the borrowing company grants
+         the loan through a branch established in a non-member country, where the common parent company is also resident in a non-member
+         country.
+      
+As regards the other provisions of the Treaty relied on by the claimants in the main proceedings, it must be pointed out that,
+         as was stated in paragraphs and of this judgment, legislation such as the legislation at issue in the main proceedings,
+         which is targeted only at relations within a group of companies, primarily affects freedom of establishment.  Even if it were
+         to be accepted that such legislation might have restrictive effects on the freedom to provide services and the free movement
+         of capital, such effects must be seen as an unavoidable consequence of any restriction on freedom of establishment and do
+         not justify an independent examination of that legislation in the light of Articles EC and EC.
+      
+The answer to Question must therefore be that Article EC has no bearing on legislation of a Member State, such as the
+         legislation referred to in Question 1, where that legislation applies to a situation in which a resident company is granted
+         a loan by a company which is resident in another Member State or in a non-member country and which does not itself control
+         the borrowing company and where each of those companies is controlled, directly or indirectly, by a common parent company
+         which is resident in a non-member country.
+      
+ Question By Question 4, the national court essentially asks whether, if legislation such as the legislation at issue in the main proceedings
+         were to constitute a restriction on the free movement of capital between Member States and non-member countries within the
+         terms of Article EC, such a restriction falls to be treated as existing on December for the purposes of Article
+         57(1) EC.
+      
+It must be stated at the outset, as is clear from paragraphs 33, and of this judgment, that legislation such as the
+         legislation at issue in the main proceedings must be examined in the light of Article EC and not Article EC.
+      
+It is therefore unnecessary to reply to Question 4.
+      
+ Questions to By Questions to 10, which should be considered together, the national court essentially asks whether, in the event that
+         the national measures referred to in the preceding questions are incompatible with Community law, claims such as those brought
+         by the claimants in the main proceedings in order to remedy such an incompatibility must be classified as actions for restitution
+         of sums unduly levied or advantages unduly refused or, conversely, as claims for compensation in respect of damage suffered.
+         In the latter case, it asks whether it is necessary to satisfy the conditions laid down in the judgment in Brasserie du Pêcheur and Factortame and whether account must be taken, in that regard, of the form in which such claims must be brought under national law.
+      
+As regards the application of the conditions under which a Member State is liable to make reparation for the loss and damage
+         caused to claimants as a result of an infringement of Community law, the national court asks the Court to provide guidance
+         as to the need for a sufficiently serious breach of that law and the need for a causal link between the breach of the obligation
+         imposed on the Member State and the loss and damage suffered by the injured parties.
+      
+Lastly, the national court asks whether, in determining the losses which are to be reimbursed or in respect of which compensation
+         is to be provided, it is appropriate to have regard to the question whether the injured parties showed reasonable diligence
+         in order to avoid their loss, in particular in bringing actions before the courts.
+      
+It must be stated in that regard that it is not for the Court to assign a legal classification to the actions brought before
+         the national court by the claimants in the main proceedings. In the circumstances, it is for the latter to specify the nature
+         and basis of their actions (whether they are actions for restitution or actions for compensation for damage), subject to the
+         supervision of the national court (see Metallgesellschaft and Others, paragraph 81, and Test Claimants in the FII Group Litigation, paragraph 201).
+      
+However, the fact remains that, according to well-established case-law, the right to a refund of charges levied in a Member
+         State in breach of the rules of Community law is the consequence and complement of the rights conferred on individuals by
+         Community provisions as interpreted by the Court. The Member State is therefore required in principle to repay charges levied
+         in breach of Community law (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+In the absence of Community rules on the refund of national charges levied though not due, it is for the domestic legal system
+         of each Member State to designate the courts and tribunals having jurisdiction and to lay down the detailed procedural rules
+         governing actions for safeguarding rights which individuals derive from Community law, provided, first, that such rules are
+         not less favourable than those governing similar domestic actions (principle of equivalence) and, secondly, that they do not
+         render virtually impossible or excessively difficult the exercise of rights conferred by Community law (principle of effectiveness)
+         (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+In addition, where a Member State has levied charges in breach of the rules of Community law, individuals are entitled to
+         reimbursement not only of the tax unduly levied but also of the amounts paid to that State or retained by it which relate
+         directly to that tax. As the Court held in paragraphs and of the judgment in Metallgesellschaft and Others, that also includes losses constituted by the unavailability of sums of money as a result of a tax being levied prematurely
+         (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+However, contrary to what the claimants in the main proceedings contend, neither the reliefs or other tax advantages waived
+         by a resident company in order to be able to offset in full a tax levied unlawfully against an amount due in respect of another
+         tax, nor the loss and damage suffered by such a company because the group to which it  belongs saw itself as having to substitute
+         financing by way of equity capital for loan capital in order to reduce its overall charge to tax, nor the expenses incurred
+         by the companies in that group in order to comply with the national legislation at issue, can form the basis of an action
+         under Community law for the reimbursement of the tax unlawfully levied or of sums paid to the Member State concerned or withheld
+         by it directly against that tax. Such expenditure is the result of decisions taken by those companies and does not constitute,
+         on their part, an inevitable consequence of the decision by the United Kingdom to treat certain interest paid to non-resident
+         companies as a distribution.
+      
+That being the case, it is for the national court to determine whether the expenditure referred to in the preceding paragraph
+         represents, in the case of the companies concerned, financial losses suffered by reason of a breach of Community law for which
+         the Member State in question is responsible.
+      
+While it has not gone so far as to rule out the possibility of a State being liable in less restrictive conditions on the
+         basis of national law, the Court has held that there are three conditions under which a Member State will be liable to make
+         reparation for loss and damage caused to individuals as a result of breaches of Community law for which it can be held responsible,
+         namely that the rule of law infringed must be intended to confer rights on individuals, that the breach must be sufficiently
+         serious, and that there must be a direct causal link between the breach of the obligation resting on the State and the loss
+         or damage sustained by the injured parties (see Brasserie du Pêcheur and Factortame, paragraphs and 66; Case C-224/Köbler [2003] ECR I-10239, paragraphs and 57; and Test Claimants in the FII Group Litigation, paragraph 209).
+      
+It is, in principle, for the national courts to apply the criteria for establishing the liability of Member States for damage
+         caused to individuals by breaches of Community law, in accordance with the guidelines laid down by the Court for the application
+         of those criteria (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+In the main proceedings, the first condition is plainly satisfied as regards Article EC. That provision confers rights
+         on individuals (see Brasserie du Pêcheur and Factortame, paragraphs and 54, and Test Claimants in the FII Group Litigation, paragraph 211).
+      
+As regards the second condition, it should be pointed out, first, that a breach of Community law will be sufficiently serious
+         where, in the exercise of its legislative power, a Member State has manifestly and gravely disregarded the limits on its discretion.
+         Secondly, where, at the time when it committed the infringement, the Member State in question had only considerably reduced,
+         or even no, discretion, the mere infringement of Community law may be sufficient to establish the existence of a sufficiently
+         serious breach (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+In order to determine whether a breach of Community law is sufficiently serious, it is necessary to take account of all the
+         factors which characterise the situation brought before the national court. Those factors include, in particular, the clarity
+         and precision of the rule infringed, whether the infringement and the damage caused were intentional or involuntary, whether
+         any error of law was excusable or inexcusable, and the fact that the position taken by a Community institution may have contributed
+         to the adoption or maintenance of national measures or practices contrary to Community law (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+On any view, a breach of Community law will clearly be sufficiently serious if it has persisted despite a judgment finding
+         the infringement in question to be established, or a preliminary ruling or settled case-law of the Court on the matter from
+         which it is clear that the conduct in question constituted an infringement (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+In the present case, in order to determine whether a breach of Article EC committed by the Member State concerned was sufficiently
+         serious, the national court must take into account the fact that, in a field such as direct taxation, the consequences arising
+         from the freedoms of movement guaranteed by the Treaty have been only gradually made clear, in particular by the principles
+         identified by the Court since delivering judgment in Case 270/Commission v France. Until delivery of the judgment in Lankhorst-Hohorst, the problem raised by the current reference for a preliminary ruling had not, as such, been addressed in the Court’s case-law.
+      
+As regards the third condition, namely the requirement for a causal link between the breach of the obligation resting on the
+         State and the loss or damage sustained by the injured parties, it is for the national court to assess whether the loss and
+         damage claimed flows sufficiently directly from the breach of Community law to render the State liable to make it good (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+Subject to the right of reparation which flows directly from Community law where those conditions are satisfied, it is on
+         the basis of the rules of national law on liability that the State must make reparation for the consequences of the loss and
+         damage caused, provided that the conditions for reparation of loss and damage laid down by national law are not less favourable
+         than those relating to similar domestic claims and are not so framed as to make it, in practice, impossible or excessively
+         difficult to obtain reparation (Test Claimants in the FII Group Litigation, paragraph and the case-law cited there).
+      
+It should be made clear that, in order to determine the loss or damage for which reparation may be granted, the national court
+         may inquire whether the injured person showed reasonable diligence in order to avoid the loss or damage or limit its extent
+         and whether, in particular, he availed himself in time of all the legal remedies available to him (Brasserie du Pêcheur and Factortame, paragraph 84).
+      
+In that regard, the Court held in paragraph of the judgment in Metallgesellschaft and Others, with respect to tax legislation which did not afford the possibility of benefiting from the group taxation regime to resident
+         subsidiaries of non-resident parent companies, that the exercise of rights conferred on private persons by directly applicable
+         provisions of Community law would be rendered impossible or excessively difficult if their claims for restitution or compensation
+         based on infringement of Community law were rejected or reduced solely because the persons concerned had not applied for a
+         tax advantage which national law denied them, with a view to challenging the refusal of the tax authorities by means of the
+         legal remedies provided for that purpose, invoking the primacy and direct effect of Community law.
+      
+Similarly, the application of the provisions relating to freedom of establishment would be rendered impossible or excessively
+         difficult if claims for restitution or compensation based on infringement of those provisions were rejected or reduced solely
+         because the companies concerned had not applied to the tax authorities to be allowed to pay interest on loans granted by a
+         non-resident parent company without that interest being treated as a distribution when, in the circumstances at issue, national
+         law, combined, where appropriate, with the relevant provisions of the DTCs, provided for such treatment to apply.
+      
+It is for the national court to determine whether, should it be established that the national legislation at issue in the
+         main proceedings, combined, where appropriate, with the relevant provisions of the DTCs, did not satisfy the conditions set
+         out in paragraph of this judgment and thus constituted an obstacle to the freedom of establishment prohibited by Article
+         EC, the application of that legislation would, on any basis, have led to the failure of the claims of the claimants in
+         the main proceedings before the United Kingdom tax authorities.
+      
+The answer to Questions to must therefore be as follows:
+      
+–        In the absence of Community legislation, it is for the domestic legal system of each Member State to designate the courts
+         and tribunals having jurisdiction and to lay down the detailed procedural rules governing actions for safeguarding rights
+         which individuals derive from Community law, including the classification of claims brought by injured parties before national
+         courts and tribunals. Those courts and tribunals are, however, obliged to ensure that individuals have an effective legal
+         remedy enabling them to obtain reimbursement of the tax unlawfully levied on them and the amounts paid to that Member State
+         or withheld by it directly against that tax. As regards other loss or damage which a person may have sustained by reason of
+         a breach of Community law for which a Member State is liable, the latter is under a duty to make reparation for the loss or
+         damage caused to individuals under the conditions set out in paragraph of the judgment in Brasserie du Pêcheur and Factortame, but that does not preclude the State from being liable under less restrictive conditions, where national law so provides.
+      
+–        Where it is established that the legislation of a Member State constitutes an obstacle to freedom of establishment prohibited
+         by Article EC, the national court may, in order to establish the recoverable losses, determine whether the injured parties
+         have shown reasonable diligence in order to avoid those losses or to limit their extent and whether, in particular, they availed
+         themselves in time of all legal remedies available to them. However, in order to prevent the exercise of the rights which
+         Article EC confers on individuals from being rendered impossible or excessively difficult, the national court may determine
+         whether the application of that legislation, coupled, where appropriate, with the relevant provisions of DTCs, would, in any
+         event, have led to the failure of the claims brought by the claimants in the main proceedings before the tax authorities of
+         the Member State concerned.
+      
+ The application for a limitation on the temporal effects of the judgment 
+At the hearing, the United Kingdom Government requested the Court, if it were to interpret Community law as precluding national
+         legislation such as the legislation at issue in the main proceedings, to limit the temporal effects of its judgment, even
+         as regards legal proceedings brought before the date on which this judgment is delivered. That Government estimates the cost
+         of an interpretation of Community law which is unfavourable to it at EUR million.
+      
+It is clear that the United Kingdom Government has not, in the present case, stated the basis on which it reaches its estimate
+         of the costs of the effects of this judgment, nor even whether that amount relates only to the financial consequences arising
+         under the main proceedings or also to those which would flow from this judgment in other cases.
+      
+In addition, the amount put forward by that Government proceeds on the hypothesis that the answers given by the Court would,
+         in their entirety, be those proposed by the claimants in the main proceedings, which, however, it is for the national court
+         to determine.
+      
+In those circumstances, the Court does not have sufficient information before it to consider the application made by the United
+         Kingdom Government.
+      
+It is therefore not appropriate to limit the temporal effects of the present judgment.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the actions pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Grand Chamber) hereby rules:
+1.      Article EC precludes legislation of a Member State which restricts the ability of a resident company to deduct, for tax
+            purposes, interest on loan finance granted by a direct or indirect parent company which is resident in another Member State
+            or by a company which is resident in another Member State and is controlled by such a parent company, without imposing that
+            restriction on a resident company which has been granted loan finance by a company which is also resident, unless, first,
+            that legislation provides for a consideration of objective and verifiable elements which make it possible to identify the
+            existence of a purely artificial arrangement, entered into for tax reasons alone, to be established and allows taxpayers to
+            produce, if appropriate and without being subject to undue administrative constraints, evidence as to the commercial justification
+            for the transaction in question and, secondly, where it is established that such an arrangement exists, such legislation treats
+            that interest as a distribution only in so far as it exceeds what would have been agreed upon at arm’s length.
+2.      Article EC has no bearing on legislation of a Member State, such as the legislation referred to in Question 1, where that
+            legislation applies to a situation in which a resident company is granted a loan by a company which is resident in another
+            Member State or in a non-member country and which does not itself control the borrowing company and where each of those companies
+            is controlled, directly or indirectly, by a common parent company which is resident in a non-member country.
+3.      In the absence of Community legislation, it is for the domestic legal system of each Member State to designate the courts
+            and tribunals having jurisdiction and to lay down the detailed procedural rules governing actions for safeguarding rights
+            which individuals derive from Community law, including the classification of claims brought by injured parties before national
+            courts and tribunals. Those courts and tribunals are, however, obliged to ensure that individuals have an effective legal
+            remedy enabling them to obtain reimbursement of the tax unlawfully levied on them and the amounts paid to that Member State
+            or withheld by it directly against that tax. As regards other loss or damage which a person may have sustained by reason of
+            a breach of Community law for which a Member State is liable, the latter is under a duty to make reparation for the loss or
+            damage caused to individuals under the conditions set out in paragraph of the judgment in Joined Cases C-46/and C-48/Brasserie du Pêcheur and Factortame [1996] ECR I-1029, but that does not preclude the State from being liable under less restrictive conditions, where national
+            law so provides.
+Where it is established that the legislation of a Member State constitutes an obstacle to freedom of establishment prohibited
+            by Article EC, the national court may, in order to establish the recoverable losses, determine whether the injured parties
+            have shown reasonable diligence in order to avoid those losses or to limit their extent and whether, in particular, they availed
+            themselves in time of all legal remedies available to them. However, in order to prevent the exercise of the rights which
+            Article EC confers on individuals from being rendered impossible or excessively difficult, the national court may determine
+            whether the application of that legislation, coupled, where appropriate, with the relevant provisions of double taxation conventions,
+            would, in any event, have led to the failure of the claims brought by the claimants in the main proceedings before the tax
+            authorities of the Member State concerned.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 

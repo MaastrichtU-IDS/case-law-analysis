@@ -1,0 +1,180 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+May (
+*)
+‛Processing of personal data — Directive 95/46/EC — Article — Concept of ‘personal data’ — Articles and — Principles relating to data quality and criteria for making data processing legitimate — Article — Security of processing — Working time — Record of working time — Access by the national authority responsible for monitoring working conditions — Employer’s obligation to make available the record of working time so as to allow its immediate consultation’
+In Case C-342/12,
+REQUEST for a preliminary ruling under Article TFEU from the Tribunal do trabalho de Viseu (Portugal), made by decision of July 2012, received at the Court on July 2012, in the proceedings
+Worten – Equipamentos para o Lar SA
+v
+Autoridade para as Condições de Trabalho (ACT),
+THE COURT (Third Chamber),
+composed of M. Ilešič, President of the Chamber, E. Jarašiūnas, A. Ó Caoimh (Rapporteur), C. Toader and C.G. Fernlund, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+—
+Worten – Equipamentos para o Lar SA, by D. Abrunhosa e Sousa and J. Cruz Ribeiro, advogados,
+—
+the Portuguese Government, by L. Inez Fernandes and C. Vieira Guerra, acting as Agents,
+—
+the Czech Government, by M. Smolek, acting as Agent,
+—
+the Italian Government, by G. Palmieri, acting as Agent, assisted by M. Russo, avvocato dello Stato,
+—
+the Hungarian Government, by M. Fehér, K. Szíjjártó and Á. Szilágyi, acting as Agents,
+—
+the European Commission, by P. Costa de Oliveira and B. Martenczuk, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article and Article 17(1) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31).
+The request has been made in proceedings between Worten – Equipamentos para o Lar SA (‘Worten’), a company established in Viseu (Portugal), and the Autoridade para as Condições de Trabalho (the Authority for Working Conditions; ‘ACT’), concerning ACT’s request to Worten for access to the latter’s record of working time.
+Legal context
+European Union law
+Directive 95/Under Article of Directive 95/46, headed ‘Definitions’:
+‘For the purposes of this Directive:
+(a)
+“personal data” shall mean any information relating to an identified or identifiable natural person (“data subject”); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
+(b)
+“processing of personal data” (“processing”) shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction;
+...’
+Article of that directive, entitled ‘Scope’, is worded as follows:
+‘1.   This Directive shall apply to the processing of personal data wholly or partly by automatic means, and to the processing otherwise than by automatic means of personal data which form part of a filing system or are intended to form part of a filing system.
+2.   This Directive shall not apply to the processing of personal data:
+—
+in the course of an activity which falls outside the scope of Community law, such as those provided for by Titles V and VI of the Treaty on European Union and in any case to processing operations concerning public security, defence, State security (including the economic well-being of the State when the processing operation relates to State security matters) and the activities of the State in areas of criminal law,
+—
+by a natural person in the course of a purely personal or household activity.’
+Article of that directive, which concerns the principles relating to data quality, provides:
+‘1.   Member States shall provide that personal data must be:
+...
+(b)
+collected for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes. Further processing of data for historical, statistical or scientific purposes shall not be considered as incompatible provided that Member States provide appropriate safeguards;
+(c)
+adequate, relevant and not excessive in relation to the purposes for which they are collected and/or further processed;
+...
+2.   It shall be for the controller to ensure that paragraph is complied with.’
+Article of that directive, which concerns the criteria for making data processing legitimate, states:
+‘Member States shall provide that personal data may be processed only if:
+...
+(c)
+processing is necessary for compliance with a legal obligation to which the controller is subject; or
+...
+(e)
+processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed
+...’
+Article of Directive 95/46, entitled ‘Security of processing’, is worded as follows:
+‘1.   Member States shall provide that the controller must implement appropriate technical and organisational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.
+Having regard to the state of the art and the cost of their implementation, such measures shall ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be protected.
+...’
+Directive 2003/88/EC
+Under the heading ‘Purpose and scope’, Article of Directive 2003/88/EC of the European Parliament and of the Council of November concerning certain aspects of the organisation of working time (OJ L 299, p. 9), provides:
+‘1.   This Directive lays down minimum safety and health requirements for the organisation of working time.
+2.   This Directive applies to:
+(a)
+minimum periods of daily rest, weekly rest and annual leave, to breaks and maximum weekly working time ...
+...’
+Article of that directive, entitled ‘Maximum weekly working time’, provides:
+‘Member States shall take the measures necessary to ensure that, in keeping with the need to protect the safety and health of workers:
+...
+(b)
+the average working time for each seven-day period, including overtime, does not exceed hours.’
+Under the first subparagraph of Article 22(1) of that directive:
+‘A Member State shall have the option not to apply Article 6, while respecting the general principles of the protection of the safety and health of workers, and provided it takes the necessary measures to ensure that:
+(a)
+no employer requires a worker to work more than hours over a seven-day period … unless he has first obtained the worker’s agreement to perform such work;
+...
+(c)
+the employer keeps up-to-date records of all workers who carry out such work;
+(d)
+the records are placed at the disposal of the competent authorities, which may, for reasons connected with the safety and/or health of workers, prohibit or restrict the possibility of exceeding the maximum weekly working hours;
+…’
+Portuguese legislation
+Article of the Employment Code (Codigo do trabalho), approved by Law No 7/of February 2009, provides, under the heading ‘Record of working time’:
+‘(1)
+The employer must keep a record of hours worked by workers, including those who are exempt from the normal working hours, in a location that is accessible and in such a way that it can be consulted immediately.
+(2)
+That record must set out the times when the working hours begin and end, as well as breaks or periods not included in those working hours, to allow calculation of the number of hours worked by the worker per day and per week ...
+...
+(5)
+A breach of the provisions of this article constitutes a serious administrative offence.’
+Law No 107/of September includes, in particular, the following provision:
+‘Article –
+Inspection procedures
+1.   In the performance of his duties, the employment inspector is to carry out, without prejudice to the provisions of a specific regulation, the following procedures:
+(a)
+Request, with immediate effect or with a view to a submission to the decentralised units of the Employment ministry’s inspection services, examine and copy documents and other records relevant for determining the employment relationships and working conditions;
+...
+2.   In the performance of his duties, the social security inspector is to carry out, without prejudice to the provisions of a specific regulation, the following procedures:
+(a)
+Request and copy, with immediate effect, for examination, consultation and addition to reports, the books, documents, records, files, and other relevant evidence which belong to the entities whose activity is the subject of the inspection and which are relevant to the verification of the matters inspected;
+...’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On March 2010, ACT carried out an inspection at Worten’s establishment in Viseu, following which it produced a report stating that:
+—
+Worten employed four workers in that establishment working on a rotating shift;
+—
+the record of working time, setting out the daily work periods, the daily and weekly rest periods and the calculation of the daily and weekly working hours of the workers, was not accessible for immediate consultation;
+—
+the workers recorded their working hours by inserting a magnetic card into a time clock installed in the premises of a store located beside the inspected premises;
+—
+not only was the record of working time not accessible to any worker of the undertaking or of the establishment where they carried out their duties, but it could also be consulted only by the person who had computerised access to it, namely the regional manager of Worten, who was not present at the time of the inspection; in such a case, only Worten’s central human resources department could provide the data in that register.
+On March 2010, in response to a notice to present documents, the record of working time, setting out the legally required data, was submitted to ACT.
+By decision of March 2012, ACT found that Warton had committed a serious administrative offence by infringing the rules concerning the record of working time set out in Article 202(1) of the Employment Code, since Warton had not permitted ACT to carry out an immediate consultation, in the establishment concerned, of the record of the working time of the workers employed in that establishment. The serious nature of the offence was stated to arise from the fact that the record of working time allows quick and direct verification of whether the organisation of an undertaking’s activities complies with the regulations concerning working hours. Consequently, ACT imposed a fine of EUR on Worten.
+Worten brought an action for annulment against that decision before the Tribunal do trabalho de Viseu.
+In those circumstances, the Tribunal do trabalho de Viseu decided to stay the proceedings and refer the following question to the Court for a preliminary ruling:
+‘(1)
+Is Article of Directive 95/… to be interpreted as meaning that the record of working time, that is, the indication, in relation to each worker, of the times when working hours begin and end, as well as the corresponding breaks and intervals, is included within the concept of “personal data”?
+(2)
+If so, is the Portuguese State obliged, under Article 17(1) of Directive 95/… to provide for appropriate technical and organisational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network?
+(3)
+Likewise, if Question is answered in the affirmative, when the Member State does not adopt any measure pursuant to Article 17(1) of Directive 95/… and when an employer, as a controller of such data, adopts a system of restricted access to those data which does not allow automatic access by the national authority responsible for monitoring working conditions, is the principle of the primacy of European law to be interpreted as meaning that the Member State cannot penalise that employer for such behaviour?’
+Consideration of the questions referred
+The first question
+By its first question the referring court asks whether Article 2(a) of Directive 95/is to be interpreted as meaning that a record of working time, such as that at issue in the main proceedings, containing the indication, in relation to each worker, of the times when working hours begin and end, as well as the corresponding breaks and intervals, constitutes ‘personal data’, within the meaning of that provision.
+In that respect, it suffices to note that, as maintained by all of the interested parties who submitted written observations, the data contained in a record of working time such as that at issue in the main proceedings, which concern, in relation to each worker, the daily work periods and rest periods, constitute personal data within the meaning of Article 2(a) of Directive 95/46, because they represent ‘information relating to an identified or identifiable natural person’ (see, to that effect, inter alia, Joined Cases C-465/00, C-138/and C-139/Österreichischer Rundfunk and Others [2003] ECR I-4989, paragraph 64; Case C-524/Huber [2008] ECR I-9705, paragraph 43; and Case C-553/Rijkeboer [2009] ECR I-3889, paragraph 42).
+The collection, recording, organisation, storage, consultation, and use of such data by an employer, as well as their transmission by that employer to the national authorities responsible for monitoring working conditions, thus represent the ‘processing of personal data’ within the meaning of Article 2(b) of Directive 95/(see, to that effect, inter alia, Österreichischer Rundfunk and Others, paragraph 64, and Huber, paragraph 43).
+Moreover, since it is undisputed, in the main proceedings, that the processing of personal data is carried out by automatic means and that none of the exceptions set out in Article 3(2) of Directive 95/applies, that processing falls within the scope of Directive 95/46.
+Therefore, the answer to the first question is that Article 2(a) of Directive 95/is to be interpreted as meaning that a record of working time, such as that at issue in the main proceedings, containing the indication, in relation to each worker, of the times when working hours begin and end, as well as the corresponding breaks and intervals, constitutes ‘personal data’, within the meaning of that provision.
+The second and third questions
+By its second and third questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 17(1) of Directive 95/is to be interpreted as meaning that each Member State is obliged to provide for appropriate technical and organisational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, and, if so, whether a Member State which has not adopted such measures may penalise an employer which, as a controller of personal data, has adopted a system of restricted access to those data which does not allow automatic access by the national authority responsible for monitoring working conditions.
+It must be recalled that, in accordance with Article 17(1) of Directive 95/concerning security of processing, Member States are to provide that the controller must implement appropriate technical and organisational measures which, having regard to the state of the art and the cost of their implementation, are to ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be protected (see, to that effect, Rijkeboer, paragraph 62).
+It follows that, contrary to the premiss on which the second and third questions are based, Article 17(1) of Directive 95/does not require Member States, except where they act as controllers, to adopt those technical and organisational measures, as the obligation to adopt such measures concerns solely the controller; namely, in the present case, the employer. Article 17(1) of Directive 95/does, however, require the Member States to adopt a provision in their national law providing for that obligation.
+Furthermore, it is not in any way apparent from the order for reference that the data at issue in the main proceedings were the subject of accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, or any other unlawful form of processing, within the meaning of Article 17(1) of Directive 95/46. On the contrary, it follows from the information in the file before the Court that it is undisputed, in the main proceedings, that access to those data by the national authority responsible for monitoring working conditions is authorised by national law.
+However, in its written observations, Worten claims that the obligation to make available the record of working time so as to allow its immediate consultation, set out in Article 202(1) of the Employment Code, is, in practice, incompatible with the obligation to establish an adequate system of protection of the personal data contained in that record. Such an obligation amounts to allowing any employee of the undertaking concerned to gain access to the personal data contained in that record, in breach of the obligation, set out in Article 17(1) of Directive 95/46, to ensure the security of such data. In Worten’s view, such generalised access therefore renders that provision entirely ineffective.
+That line of argument cannot succeed. Contrary to the premiss on which it is based, the obligation for an employer, as a controller of personal data, to provide the national authority responsible for monitoring working conditions immediate access to the record of working time in no way implies that the personal data contained in that record must necessarily, on that ground alone, be made accessible to persons not authorised for that purpose. As the Portuguese government rightly pointed out, all controllers of personal data must, under Article 17(1) of Directive 95/46, implement appropriate technical and organisational measures to ensure that only those persons duly authorised to access the personal data in question are entitled to respond to a request for access from a third party.
+Accordingly, it does not appear that Article 17(1) of Directive 95/is relevant for the purposes of resolving the dispute in the main proceedings.
+However, in the procedure laid down by Article TFEU providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. To that end, the Court may have to reformulate the questions referred to it. The Court has a duty to interpret all provisions of European Union law which national courts require in order to decide the actions pending before them, even if those provisions are not expressly indicated in the questions referred to the Court of Justice by those courts (see, to that effect, inter alia, Case C-45/Campina [2007] ECR I-2089, paragraphs and 31, and Case C-243/Fuß [2010] ECR I-9849, paragraph 39).
+Consequently, even if, formally, the referring court has limited its questions to the interpretation of Article 17(1) of Directive 95/46, that does not prevent this Court from providing the referring court with all the elements of interpretation of European Union law that may be of assistance in adjudicating in the case pending before it, whether or not the referring court has referred to them in the wording of its questions. It is, in this regard, for the Court to extract from all the information provided by the national court, in particular from the grounds of the decision to make the reference, the points of European Union law which require interpretation in view of the subject-matter of the dispute (see Fuß, paragraph 40).
+In the present case, it is clear from the documents before the Court that the referring court seeks, in essence, to determine whether the provisions of Directive 95/are to be interpreted as precluding national legislation, such as that at issue in the main proceedings, which requires an employer to make the record of working time available to the national authority responsible for monitoring working conditions so as to allow its immediate consultation. As noted in paragraph of the present judgment, the breach of that obligation laid down in Article 202(1) of the Employment Code was the reason for the fine imposed on Worten.
+It should be recalled that, in accordance with the provisions of Chapter II of Directive 95/46, entitled ‘General rules on the lawfulness of the processing of personal data’, all processing of personal data must, subject to the exceptions permitted under Article 13, comply, first, with the principles relating to data quality set out in Article of Directive 95/and, secondly, with one of the six principles for making data processing legitimate listed in Article of that directive (Österreichischer Rundfunk and Others, paragraph 65; Huber, paragraph 48; and Joined Cases C-468/and C-469/ANSEF and FECEMD [2011] ECR I-12181, paragraph 26).
+More specifically, under Article 6(1)(b) and (c) of Directive 95/46, the data must be ‘collected for specified, explicit and legitimate purposes’ and must be ‘adequate, relevant and not excessive’ in relation to those purposes. In addition, under Article 7(c) and (e) of the directive, the processing of personal data is permissible only if it ‘is necessary for compliance with a legal obligation to which the controller is subject’ or ‘is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed’ (Österreichischer Rundfunk and Others, paragraph 66).
+That seems to be the case in a situation such as that in the main proceedings, since it appears that – which is for the referring court to verify – on the one hand, the personal data contained in the record of working time are collected in order to ensure compliance with the legislation relating to working conditions and, on the other hand, the processing of those personal data is necessary for compliance with a legal obligation to which the employer is subject and to the performance of the monitoring task entrusted to the national authority responsible for monitoring working conditions.
+As regards the actual rules for the organisation of the national authority’s access to those personal data in order to carry out its task of monitoring working conditions, it must be recalled that only the grant of access to authorities having powers in that field could be considered to be necessary within the meaning of Article 7(e) of Directive 95/(see, to that effect, Huber, paragraph 61).
+Concerning the employer’s obligation to provide that national authority immediate access to the record of working time, it is clear from the case-law that such an obligation could be necessary, within the meaning of Article 7(e) of Directive 95/46, if it contributes to the more effective application of the legislation relating to working conditions (see, by analogy, Huber, paragraph 62).
+In that respect, it must be pointed out that the purpose of Directive 2003/is to lay down minimum requirements intended to improve the living and working conditions of workers through approximation of national rules concerning, in particular, the duration of working time, by ensuring that they are entitled to minimum rest periods – particularly daily and weekly – and adequate breaks and by providing for a ceiling on the average duration of the working week (see, to that effect, inter alia, Joined Cases C-397/to C-403/Pfeiffer and Others [2004] ECR I-8835, paragraph 76, and Case C-429/Fuß [2010] ECR I-12167, paragraph 43).
+In view of the above, Article 6(b) of Directive 2003/requires the Member States to take the ‘measures necessary’ to ensure that, in keeping with the need to protect the safety and health of workers, the average working time for each seven-day period, including overtime, does not exceed hours (see, to that effect, Pfeiffer and Others, paragraph 100, and Case C-243/Fuß, paragraph 33).
+Moreover, the first subparagraph of Article 22(1) of Directive 2003/provides that a Member State may choose not to apply Article of that directive, provided, inter alia, it takes the necessary measures to ensure that the employer keeps up-to-date records of all workers who carry out such work (point (c) of the first subparagraph of Article 22(1) of that directive) and that the records are placed at the disposal of the competent authorities, which may, for reasons connected with the safety and/or health of workers, prohibit or restrict the possibility of exceeding the maximum weekly working hours (point (d) of subparagraph of Article 22(1) of that directive).
+According to the European Commission, although Directive 2003/does not expressly require the Member States to adopt legislation such as that at issue in the main proceedings, the monitoring of compliance with the obligations imposed by that directive may entail – as ‘measures necessary’ to the performance of the objectives which that directive pursues – the establishment of surveillance measures. In the Commission’s view, the employer’s obligation to allow immediate consultation of the record of working time ensures that data is not altered during the interval between the inspection visit carried out by the competent national authorities and the actual verification of those data by those authorities.
+Worten claims, by contrast, that this obligation is excessive, given the interference it entails in workers’ private lives. First, the record of working time is intended to provide workers with a means of proving the hours they have actually worked. The authenticity of that record has not been contested in the main proceedings. Secondly, that record allows the assessment of average working times, for the purposes of monitoring, inter alia, working hours exemptions. For that purpose, the immediate availability of those records does not, according to Worten, provide any added value. Moreover, the information in that record could be submitted subsequently.
+In the present case, it is for the referring court to examine whether the employer’s obligation to provide the competent national authority access to the record of working time so as to allow its immediate consultation can be considered necessary for the purposes of the performance by that authority of its monitoring task, by contributing to the more effective application of the legislation relating to working conditions, in particular as regard working time.
+In that respect, it must also be noted that, in any case, if such an obligation is considered necessary to achieving that objective, the penalties imposed with a view to ensuring the effective application of the requirements laid down by Directive 2003/must also respect the principle of proportionality, which it is also for the referring court to verify in the main proceedings (see, by analogy, Case C-101/Lindqvist [2003] ECR I-12971, paragraph 88).
+Consequently, the answer to the second and third questions is that Article 6(1)(b) and (c) and Article 7(c) and (e) of Directive 95/do not preclude national legislation, such as that at issue in the main proceedings, which requires an employer to make a record of working time available to the national authority responsible for monitoring working conditions so as to allow its immediate consultation, provided that this obligation is necessary for the purposes of the performance by that authority of its task of monitoring the application of the legislation relating to working conditions, in particular as regards working time.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+Article 2(a) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data is to be interpreted as meaning that a record of working time, such as that at issue in the main proceedings, which indicates, in relation to each worker, the times when working hours begin and end, as well as the corresponding breaks and intervals, is included within the concept of ‘personal data’, within the meaning of that provision.
+ 
+2.
+Article 6(1)(b) and (c) and Article 7(c) and (e) of Directive 95/do not preclude national legislation, such as that at issue in the main proceedings, which requires an employer to make the record of working time available to the national authority responsible for monitoring working conditions so as to allow its immediate consultation, provided that this obligation is necessary for the purposes of the performance by that authority of its task of monitoring the application of the legislation relating to working conditions, in particular as regards working time.
+ 
+[Signatures]
+(
+*)   Language of the case: Portuguese.
+Top  
+ 

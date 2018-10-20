@@ -1,0 +1,906 @@
+
+Case C-431/P
+Bouygues SA
+and
+Bouygues Télécom SA
+v
+Commission of the European Communities
+(Appeal – State aid – Article 88(2) EC – Conditions for initiation of a formal investigation procedure – Serious difficulties – Criteria for establishing the existence of State aid – State resources – Principle of non-discrimination)
+Summary of the Judgment
+1.        Appeals – Grounds – Inadequate statement of reasons – Reliance by the Court of First Instance on implied reasoning – Lawfulness
+            – Conditions
+(Art. EC; Statute of the Court of Justice, Arts and 53, first para.)
+2.        State aid – Planned aid – Examination by the Commission – Preliminary review and main review – Compatibility of the aid with
+            the common market – Difficulties of assessment
+(Art. 88(2) and (3) EC)
+3.        Approximation of laws – Telecommunications sector – Common framework for general authorisations and individual licences –
+            Directive 97/– Procedures for the grant of licences
+(European Parliament and Council Directive 97/13)
+4.        Approximation of laws – Telecommunications sector – Common framework for general authorisations and individual licences –
+            Directive 97/– Procedures for the grant of licences – Prohibition of discrimination
+(European Parliament and Council Directive 97/13)
+1.        The duty incumbent upon the Court of First Instance under Article and the first paragraph of Article of the Statute
+         of the Court of Justice to state reasons for its judgments does not require the Court of First Instance to provide an account
+         that follows exhaustively and one by one all the arguments articulated by the parties to the case. The reasoning may therefore
+         be implicit, on condition that it enables the persons concerned to know why the measures in question were taken and provides
+         the Court of Justice with sufficient material for it to exercise its powers of review.
+      
+(see para. 42)
+2.        The procedure under Article 88(2) EC is essential whenever the Commission has serious difficulties in determining whether
+         aid is compatible with the common market. The Commission may therefore restrict itself to the preliminary examination under
+         Article 88(3) EC when taking a decision in favour of aid only if it is able to satisfy itself after the preliminary examination
+         that the aid is compatible with the common market. If, on the other hand, the initial examination leads the Commission to
+         the opposite conclusion or if it does not enable it to overcome all the difficulties involved in determining whether the aid
+         is compatible with the common market, the Commission is under a duty to obtain all the requisite opinions and for that purpose
+         to initiate the procedure provided for in Article 88(2) EC.
+      
+The concept of serious difficulties is an objective one and their existence must be sought not only in the circumstances in
+         which the contested measure was adopted but also in the assessments upon which the Commission relied.
+      
+(see paras 61, 63)
+3.        Directive 97/on a common framework for general authorisations and individual licences in the field of telecommunications
+         services leaves the Member States a discretion as to the choice of procedure for the award of licences provided that the principles
+         of free competition and equal treatment are respected. Thus, the award of Universal Mobile Telecommunications System (UMTS)
+         licences by way of a comparative selection procedure is permissible in so far as the operators receive the same treatment,
+         in particular with regard to fees.
+      
+With regard, more particularly, to a national measure reducing the fees to be paid by the first two operators to have obtained
+         UMTS licences so as to align the conditions under which all licences were granted, such a procedure excludes the possibility
+         that those operators might suffer discrimination, where the very purpose of that alignment is to take account of the fact
+         that, at the time that the licence was awarded to a new operator, none of the three operators had entered the market – for
+         reasons not of their own choosing – with the result that their situation was, for that reason, comparable.
+      
+(see paras 90-91, 97)
+4.        The economic value of a Universal Mobile Telecommunications System (UMTS) licence derives, in particular, from the possibility
+         for the licence holder to make use of the rights attached to the licence which, in the present case, means the possibility
+         of occupying public wireless space in order to use UMTS technology.
+      
+Discrimination can arise only through the application of different rules to comparable situations or the application of the
+         same rule to different situations. The fact that UMTS licences were awarded to certain operators at an earlier date can justify,
+         or even require, that the related fees be set higher than the fees charged to a new operator only if the economic value of
+         those licences could be regarded, by dint merely of having been awarded earlier, as being of greater value than the licence
+         awarded to the new operator.
+      
+Accordingly, the fact that the licences were awarded at different dates does not lead to the conclusion that, at the date
+         on which the licence was awarded to the new operator, the operators which had been awarded licences first were in a different
+         situation in relation to the objective of Directive 97/on a common framework for general authorisations and individual
+         licences in the field of telecommunications services, namely that of ensuring that operators obtain access to the UMTS market
+         under the same conditions.
+      
+(see paras 114-115, 119, 122)
+  
+  
+JUDGMENT OF THE COURT (First Chamber)
+April (*)
+      
+(Appeals – State aid – Article 88(2) EC – Conditions for initiation of the formal investigation procedure – Serious difficulties – Criteria for establishing the existence of State aid – State resources – Principle of non-discrimination)
+In Case C‑431/P,
+APPEAL under Article of the Statute of the Court of Justice, lodged on September 2007,
+Bouygues SA, established in Paris (France),
+      
+Bouygues Télécom SA, established in Boulogne-Billancourt (France),
+      
+represented by F. Sureau, D. Théophile, S. Perrotet, A. Bénabent, J. Vogel and L. Vogel, avocats,
+appellants,
+the other parties to the proceedings being:
+Commission of the European Communities, represented by C. Giolito, acting as Agent, with an address for service in Luxembourg,
+      
+defendant at first instance,
+French Republic, represented by G. de Bergues, O. Christmann and A.‑L. Vendrolini, acting as Agents,
+      
+Orange France SA, represented by S. Hautbourg, S. Quesson and L. Olza Moreno, avocats,
+      
+Société française du radiotéléphone – SFR, represented by A. Vincent, avocat, and by C. Vajda QC,
+      
+interveners at first instance,
+THE COURT (First Chamber),
+composed of P. Jann, President of the Chamber, M. Ilešič, A. Tizzano (Rapporteur), A. Borg Barthet and J.-J. Kasel, Judges,
+Advocate General: V. Trstenjak,
+Registrar: M.-A. Gaudissart, Head of Unit,
+having regard to the written procedure and further to the hearing on September 2008,
+after hearing the Opinion of the Advocate General at the sitting on October 2008,
+gives the following
+Judgment
+By their appeal, Bouygues SA (‘Bouygues’) and Bouygues Télécom SA (‘Bouygues Télécom’) (‘Bouygues and Bouygues Télécom’ or
+         ‘the appellants’) are asking the Court to set aside the judgment in Case T‑475/Bouygues and Bouygues Télécom v Commission [2007] ECR II‑(‘the judgment under appeal’), by which the Court of First Instance dismissed their action for annulment
+         of the Commission decision of July (State aid NN 42/– France) regarding the modification of payments due from
+         Orange and SFR for Universal Mobile Telecommunications System (UMTS) licences (‘the contested decision’).
+      
+ Community legal context
+Article 8(4) of Directive 97/13/EC of the European Parliament and of the Council of April on a common framework for
+         general authorisations and individual licences in the field of telecommunications services (OJ L 117, p. 15), in force
+         at the material time, provided as follows: 
+      
+‘Member States may amend the conditions attached to an individual licence in objectively justified cases and in a proportionate
+         manner. When doing so, Member States shall give appropriate notice of their intention to do so and enable interested parties
+         to express their views on the proposed amendments.’
+      
+The first indent of Article 9(2) of Directive 97/was worded as follows:
+      
+‘Where a Member State intends to grant individual licences:
+–        it shall grant individual licences through open, non-discriminatory and transparent procedures and, to this end, shall subject
+         all applicants to the same procedures, unless there is an objective reason for differentiation’.
+      
+The first subparagraph of Article 10(3) of Directive 97/provided as follows:
+      
+‘Member States shall grant such individual licences on the basis of selection criteria which must be objective, non-discriminatory,
+         detailed, transparent and proportionate. Any such selection must give due weight to the need to facilitate the development
+         of competition and to maximise benefits for users.’
+      
+Article of Directive 97/stated the following:
+      
+‘1.      Member States shall ensure that any fees imposed on undertakings as part of authorisation procedures seek only to cover the
+         administrative costs incurred in the issue, management, control and enforcement of the applicable individual licences. The
+         fees for an individual licence shall be proportionate to the work involved and be published in an appropriate and sufficiently
+         detailed manner, so as to be readily accessible.
+      
+2.      Notwithstanding paragraph 1, Member States may, where scarce resources are to be used, allow their national regulatory authorities
+         to impose charges which reflect the need to ensure the optimal use of these resources. Those charges shall be non-discriminatory
+         and take into particular account the need to foster the development of innovative services and competition.’
+      
+The aim of Decision No 128/1999/EC of the European Parliament and of the Council of December on the coordinated introduction
+         of a third-generation mobile and wireless communications system (UMTS) in the Community (OJ L 17, p. 1), still in force
+         at the material time, was, according to Article thereof, ‘… to facilitate the rapid and coordinated introduction of compatible
+         UMTS networks and services in the Community …’.
+      
+Article 3(1) of Decision No 128/provided as follows:
+      
+‘Member States shall take all actions necessary in order to allow, in accordance with Article of Directive 97/13/EC, the
+         coordinated and progressive introduction of the UMTS services on their territory by January at the latest …’.
+      
+ Background to the dispute
+On July 2000, the French Minister for Industry, Postal Services and Telecommunications launched a call for applications
+         for the award of four licences for the introduction of UMTS mobile and wireless communications systems in metropolitan France.
+         The final date for lodging applications was set at January 2001, and applications could be withdrawn until May 2001.
+      
+Since only two applications were received – from Société française du radiotéléphone – SFR (‘SFR’) and from France Télécom
+         mobiles, which a few months later became Orange France SA (‘Orange’) – the French authorities considered that a further call
+         for applications was necessary in order to ensure genuine competition.
+      
+By two identically worded letters dated February 2001, the Minister for the Economy and Finance and the Secretary of State
+         for Industry assured the managers of SFR and Orange that ‘the terms of the call for further applications … [would] ensure
+         the equitable treatment of all the operators who [would] ultimately be granted a licence’.
+      
+Without waiting for the launch of the supplementary call for applications, two initial UMTS licences were issued to SFR and
+         Orange by two decrees dated July 2001. Those two licences were granted in return for payment of fees amounting in total
+         to EUR 000, to be paid in instalments, the first of which was due on September and the last on June 2016.
+      
+Following the launch of the supplementary call for applications, the third UMTS licence was awarded to Bouygues Télécom on
+         December 2002. A fourth licence could not be awarded for lack of an applicant.
+      
+The third licence was awarded in return for payment of fees consisting of a fixed component in the amount of EUR 795.27,
+         to be paid on September of the year in which the licence was awarded or at the time of the award if that date fell after
+         September, and a variable component to be paid annually before June of each year for the use of the frequencies during
+         the preceding year and calculated as a percentage of the turnover generated through the use of those frequencies.
+      
+Moreover, in two further decrees of December (JORF of December 2002, p. and p. 20499) concerning SFR and Orange
+         respectively, the Minister for Industry amended, inter alia, the provisions regarding fees for the provision and operation
+         of frequencies by replacing them with provisions identical to those applied to Bouygues Télécom, as described in the preceding
+         paragraph of the present judgment.
+      
+On January 2003, following a complaint from Bouygues and Bouygues Télécom concerning a series of aid measures which the
+         French authorities had adopted in favour of France Télécom, the Commission of the European Communities initiated the investigation
+         procedure laid down in Article 88(2) EC with regard to some of those measures, but not the measure aligning the fees due from
+         SFR and Orange with those fixed for Bouygues Télécom.
+      
+By the contested decision, the Commission decided on the basis of Article EC not to raise objections to the measure aligning
+         the fees, on the ground that it did not entail aid elements for the purposes of Article 87(1) EC.
+      
+By application lodged at the Registry of the Court of First Instance on November 2004, Bouygues and Bouygues Télécom brought
+         an action for annulment of the contested decision.
+      
+ The judgment under appeal
+In support of their action at first instance, Bouygues and Bouygues Télécom put forward, inter alia, two pleas in law alleging
+         infringement by the Commission, first, of Article 87(1) EC inasmuch as the amendment of the fees to be paid by Orange and
+         SFR constituted, in their view, State aid within the meaning of that provision and, secondly, of Article 88(2) EC inasmuch
+         as the case gave rise to serious difficulties and the Commission should therefore have initiated the formal procedure laid
+         down in that provision.
+      
+The Court of First Instance considered those two pleas together and ruled solely on the existence of serious difficulties.
+         In paragraph of the judgment under appeal, it stated that if such difficulties existed, the contested decision could be
+         annulled on that ground alone, because of the failure to initiate the inter partes and detailed examination provided for in
+         the EC Treaty, even if it were not established that the Commission’s assessments as to substance were wrong in law or in fact.
+      
+In the context of that examination, in paragraphs to of the judgment under appeal, the Court of First Instance first
+         rejected the arguments intended to demonstrate the existence of a selective advantage of a temporal nature from which Orange
+         and SFR had benefited by reason of the fact that the first two UMTS licences had been awarded to those two companies before
+         Bouygues Télécom obtained the third licence. The Court also held, in paragraph of the judgment, that the making of the
+         related assessment did not constitute a serious difficulty.
+      
+The Court of First Instance noted first, in that regard, in paragraphs and of the judgment under appeal, that the
+         licences in question had an economic value and that, consequently, it was necessary to concede to Bouygues and Bouygues Télécom
+         the point that, by reducing the fees to be paid by Orange and SFR, the national authorities had waived their right to a significant
+         part of State resources.
+      
+However, the Court of First Instance went on to point out, in paragraph of the judgment under appeal, that the claims
+         on Orange and SFR which the French State had waived were not certain. It added: ‘[f]irst, in the context of the procedure
+         for the first call for applications, these two operators could have withdrawn their applications until May if they
+         had not received assurances that they would be treated equally with the other operators … and secondly they could at any time
+         thereafter relinquish the benefit of the licence and as a result cease to pay the fee, especially if they felt they were being
+         treated unfairly by comparison with Bouygues Télécom.’
+      
+The Court of First Instance also noted, in paragraph of the judgment under appeal, that in any event the waiving of those
+         claims did not constitute State aid, given the special nature of Community telecommunications law as opposed to the ordinary
+         law on State aid.
+      
+Lastly, in paragraphs and of the judgment under appeal, the Court of First Instance held that although there was an
+         objective difference between the situation of Orange and SFR, on the one hand, and that of Bouygues Télécom, on the other,
+         as regards the time when they were awarded their respective licences, problems associated with the UMTS technology and an
+         unfavourable economic climate for its development prevented the first two licensees from entering the market, hence from making
+         use in practice of the advantage that they could have enjoyed as a result of receiving their licences earlier.
+      
+In any event, the Court of First Instance concluded, in paragraph of the judgment under appeal, that ‘the advantage potentially
+         granted to Orange and SFR was the only way to avoid adopting, in breach of Directive 97/13, a measure which, given the significant
+         difference between the two successive fee regimes devised by the national authorities, would have discriminated against these
+         two operators when, first, no operator was present in the market at the date of the disputed amendment owing to the delay
+         suffered by Orange and SFR in the introduction of their UMTS services … and, secondly, the characteristics of the licences
+         of the three competing operators were identical’.
+      
+Secondly, in paragraphs to of the judgment under appeal, the Court of First Instance rejected the arguments by which
+         Bouygues and Bouygues Télécom sought to show that the amendment of the fees breached the principle of non-discrimination and
+         held that making the assessment of compliance with that principle did not constitute a serious difficulty necessitating the
+         initiation of the investigation procedure provided for in Article EC.
+      
+On the one hand, in paragraphs and of the judgment under appeal, the Court of First Instance held that, despite the
+         way in which it was actually organised, the procedure for awarding UMTS licences constituted, in reality, a single procedure
+         aimed at the award of four licences and that, consequently, for the purposes of applying the principle of non-discrimination,
+         the two calls for applications had to be treated as a single procedure.
+      
+On the other hand, in paragraph of the judgment under appeal, the Court of First Instance held that since the content
+         of the three licences was identical and since no operator had entered the market at the date on which the fees due from Orange
+         and SFR were amended, the solution adopted – retroactive amendment of the fees – enabled the French authorities not only to
+         ensure equal treatment for the three operators concerned but also to avoid delays in the launch of the UMTS services provided
+         for in Directive 97/13.
+      
+Thirdly, in paragraphs and of the judgment under appeal, the Court of First Instance also held that neither the complexity
+         of the case nor the duration of the procedure before the Commission were such that it could be inferred that examination of
+         the measure aligning the fees posed serious difficulties.
+      
+On the basis of those considerations, the Court of First Instance dismissed the action before it.
+      
+ Forms of order sought
+By their appeal, the appellants claim that the Court should:
+      
+–        set aside the judgment under appeal and refer the case back to the Court of First Instance for judgment in the light of the
+         legal views expressed by the Court of Justice;
+      
+–        order the Commission to pay the costs.
+The Commission, the French Republic, Orange and SFR contend that the Court should dismiss the appeal and order the appellants
+         to pay the costs.
+      
+ The request for the reopening of the oral procedure
+By document lodged at the Registry of the Court of Justice on November 2008, the appellants submitted a request to the
+         Court for the reopening of the oral procedure, pursuant to Article of the Rules of Procedure.
+      
+In support of their request, they argue that certain points raised by the Advocate General in her Opinion are new and are
+         likely to influence the Court’s decision.
+      
+In that regard, it should be noted that the Court may of its own motion, or on a proposal of the Advocate General, or at the
+         request of the parties order the reopening of the oral procedure, in accordance with Article of its Rules of Procedure,
+         if it considers that it has insufficient information or that the case should be settled on the basis of an argument that has
+         not been debated between the parties (see, inter alia, the order in Case C‑17/Emesa Sugar [2000] ECR I-665, paragraph 18; Case C‑181/P Commission v Kvaerner Warnow Werft [2004] ECR I‑5703, paragraph 25; and Case C‑284/Burda [2008] ECR I‑0000, paragraph 37).
+      
+However, in the present case, after hearing the Advocate General, the Court considers that it has all the information necessary
+         to decide the appeal lodged by the appellants and that that information has been the subject of debate before it. Consequently,
+         the request for the reopening of the oral procedure must be refused.
+      
+ The appeal
+The appellants put forward four grounds of appeal, alleging, respectively: breach of the obligation to state reasons; an error
+         of law with regard to the absence of serious difficulties; errors in the legal assessment of the facts; and, lastly, a number
+         of errors of law in the application of Article EC.
+      
+ The first ground of appeal, alleging breach of the obligation to state reasons in relation to the application of the exception
+            based on the nature and general scheme of the system
+ Arguments of the parties
+By their first ground of appeal, the appellants complain that the Court of First Instance failed to provide a sufficient statement
+         of reasons as regards the application to the present case of the exception based on the nature and general scheme of the system,
+         as a rule derogating from the principle that differential treatment in favour of one or more undertakings necessarily constitutes
+         a selective advantage. More specifically, the judgment under appeal does not contain a sufficiently clear statement of reasons
+         either as regards the content of that exception or as regards the causal link between the exception and the waiver of a significant
+         part of State resources.
+      
+In particular, the appellants refer to various circumstances which could, in their view, justify reference to the general
+         scheme of the system in the present case: the special nature of Community telecommunications law as opposed to the ordinary
+         law on State aid; the need to meet the launch deadline of January 2002, fixed by Article 3(1) of Decision No 128/1999; or
+         the search for four operators in order to ensure a sufficient degree of competition. Nevertheless, the appellants argue that
+         none of those circumstances is decisive or, in any event, the subject of a sufficient statement of reasons on the part of
+         the Court of First Instance.
+      
+On the other hand, the Commission, the French Republic, Orange and SFR contend that the judgment under appeal provides sufficient
+         reasons on that point in so far as it refers extensively to the legal framework and to the relevant case-law in order to assess
+         the exception.
+      
+The Commission and SFR contend that an assessment of the circumstances referred to by the appellants is part of the analysis
+         of the merits of the judgment under appeal and is separate from the question whether there is a sufficient statement of reasons.
+         The French Republic contends, in that regard, that, contrary to the appellants’ argument, those sets of circumstances are
+         perfectly consistent and complementary. SFR adds that, in any event, the first ground of appeal is inadmissible since the
+         appellants are in fact contesting the assessment of the facts made by the Court of First Instance.
+      
+ Findings of the Court
+It should be noted first of all that the duty incumbent upon the Court of First Instance under Article and the first paragraph
+         of Article of the Statute of the Court of Justice to state reasons for its judgments does not require the Court of First
+         Instance to provide an account that follows exhaustively and one by one all the arguments articulated by the parties to the
+         case. The reasoning may therefore be implicit, on condition that it enables the persons concerned to know why the measures
+         in question were taken and provides the Court of Justice with sufficient material for it to exercise its powers of review
+         (Case C‑397/P Archer Daniels Midland and Archer Daniels Midland Ingredients v Commission [2006] ECR I‑4429, paragraph 60, and Case C‑3/P Groupe Danone v Commission [2007] ECR I‑1331, paragraph 46).
+      
+It should be noted in the present case, however, that the Court of First Instance indicated the reasons why it considered
+         that, by reason of the general scheme of the system of Community telecommunications law, the waiver of the claims at issue
+         was not covered by the concept of State aid incompatible with Community law.
+      
+In paragraphs to of the judgment under appeal, in particular, the Court of First Instance explained at length the
+         Community framework for telecommunications services as set up by Directive 97/and Decision No 128/1999. In particular,
+         it held that although the Member States are free to choose the procedure for the award of UMTS licences, they are required
+         to comply with equality of treatment between operators, account being taken of the time when each of the operators concerned
+         entered the market.
+      
+In addition, according to paragraph of the judgment under appeal, Article 11(2) of Directive 97/has been interpreted
+         in Community case-law as requiring that the fees charged to different operators be equivalent in economic terms.
+      
+It follows, according to the Court of First Instance, that the French authorities had no choice in the circumstances of the
+         present case but to reduce the fees due from Orange and SFR and, therefore, to waive the claims at issue, so as to make the
+         amount equivalent to that charged to Bouygues Télécom.
+      
+Accordingly, it is apparent from paragraphs to that the circumstances justifying the application in the present case
+         of the exception based on the general scheme of the system – that is to say, the obligation on the national authorities to
+         comply with the requirements of equal treatment specifically laid down in Community telecommunications law – were clearly
+         identified by the Court of First Instance.
+      
+Furthermore, the other circumstances referred to by the appellants are based on an erroneous reading of the judgment under
+         appeal.
+      
+First, contrary to the appellants’ argument, the Court of First Instance in no way examined the need to meet the deadline
+         of January 2002, fixed by Article 3(1) of Decision No 128/as the date on which UMTS had to be introduced in the territory
+         of the Member States, as a characteristic of the system. In reality, it took account of that factor in paragraph of the
+         judgment under appeal only to assess the reasons why the French authorities decided not to recommence the entire award procedure
+         ab initio.
+      
+Secondly, it is made expressly clear in paragraphs and of the judgment under appeal that the need to ‘select a sufficient
+         number of operators to guarantee effective competition in the sector’ was taken into account by the Court of First Instance
+         not as a characteristic of the system, but solely in order to conclude that the first call for applications had not produced
+         a satisfactory result, given the need to ensure competition in the sector, and that, consequently, other operators had to
+         be sought.
+      
+Lastly, with regard to the allegedly insufficient nature of the grounds stated for the judgment under appeal as regards the
+         causal link between the nature of the system and the waiver of the claims at issue against Orange and SFR, it is sufficient
+         to point out that the Court of First Instance, in paragraph of its judgment, set out the reasons why it concluded that
+         such a link existed by holding that since the characteristics of the three UMTS licences were identical, maintaining the initial
+         amount of the fees due from Orange and SFR would inevitably have involved a breach, to their detriment, of the obligations
+         specifically laid down with regard to equal treatment by Community telecommunications law.
+      
+In the light of the foregoing considerations, it must be held that the grounds stated for the judgment under appeal make it
+         possible, to the requisite legal standard, to understand the reasons for which the Court of First Instance held that, by reason
+         of the general scheme of the system, the reduction in the fees due from Orange and SFR and, accordingly, the waiver of the
+         claims against them could not be regarded as State aid.
+      
+The first ground of appeal must therefore be rejected as unfounded.
+      
+ The second ground of appeal, alleging an error of law with regard to the absence of serious difficulties
+ Arguments of the parties
+By their second ground of appeal, the appellants claim that the Court of First Instance confused the assessment of the existence
+         of serious difficulties with that of the merits of the contested decision. In particular, in order to establish that the Commission
+         was not under an obligation to initiate the investigation procedure, the Court of First Instance merely added formally, after
+         weighing the merits of each of the pleas in law relied upon by the parties, that such an investigation did not constitute
+         a serious difficulty.
+      
+In reality, the existence of serious difficulties was confirmed by the fact that, in the judgment under appeal, the Court
+         of First Instance replaced the Commission’s assessment of several complex matters with its own, repudiating in part the analysis
+         contained in the contested decision.
+      
+The Commission challenges the admissibility of this ground of appeal inasmuch as it was not raised at first instance. For
+         its part, the French Republic argues that it was only by way of alternative that Bouygues and Bouygues Télécom raised before
+         the Court of First Instance the need to initiate the formal aid investigation procedure provided for in Article EC.
+      
+With regard to the substance of the case, the Commission, the French Republic, SFR and Orange argue that the approach taken
+         by the Court of First Instance is correct in law and is not the result of confusion. In addition, in Orange’s view, the Court
+         carried out precisely the kind of analysis which the appellants required. The Commission adds that the factors on which the
+         Court of First Instance based its findings are the same as those on which the contested decision is based. That proves that
+         those factors were sufficient in order to resolve the matters to which the appellants refer.
+      
+With regard to the alleged repudiation of the Commission’s analysis, the French Republic contends that the Court of First
+         Instance did not replace the Commission’s assessment with its own, since the judgment under appeal is largely based on the
+         analysis contained in the contested decision. In addition, the Commission, SFR and Orange consider that the various assessments
+         carried out by the Court were intended merely to respond to the arguments put forward by Bouygues and Bouygues Télécom in
+         their action. In particular, SFR adds that the Court could not have considered the absence of serious difficulty without carrying
+         out a deeper analysis of the factors at the Commission’s disposal. In any event, in the latter’s view, that argument is not
+         only inadmissible inasmuch as it relates to an assessment of the facts, but it does not even establish in what way an assessment
+         on the part of the Court which differed from that of the Commission could affect the existence of serious difficulties and
+         the validity of the judgment under appeal.
+      
+ Findings of the Court
+It should be pointed out first of all that, contrary to the Commission’s argument, this ground of appeal does not challenge
+         the validity of the contested decision but alleges that the Court of First Instance erred in law when it examined the contents
+         of that decision in order to ascertain whether serious difficulties existed.
+      
+It follows that the second ground of appeal is admissible.
+      
+With regard to the merits of this ground, it should be borne in mind that, according to settled case-law, the procedure under
+         Article 88(2) EC is essential whenever the Commission has serious difficulties in determining whether aid is compatible with
+         the common market. The Commission may therefore restrict itself to the preliminary examination under Article 88(3) EC when
+         taking a decision in favour of aid only if it is able to satisfy itself after the preliminary examination that the aid is
+         compatible with the common market. If, on the other hand, the initial examination leads the Commission to the opposite conclusion
+         or if it does not enable it to overcome all the difficulties involved in determining whether the aid is compatible with the
+         common market, the Commission is under a duty to obtain all the requisite opinions and for that purpose to initiate the procedure
+         provided for in Article 88(2) EC (see, inter alia, Case C‑198/Cook v Commission [1993] ECR I‑2487, paragraph 29; Case C‑367/P Commission v Sytraval and Brink’s France [1998] ECR I‑1719, paragraph 39; and Case C‑521/P Athinaïki Techniki v Commission [2008] ECR I‑0000, paragraph 34).
+      
+In the present case, as is apparent from the very title of the relevant section of the judgment under appeal, which deals
+         with ‘[t]he second and third pleas, based on infringement of Article 87(1) EC and Article 88(2) EC respectively’, the Court
+         of First Instance, in paragraphs to of the judgment under appeal, examined the second plea in law, alleging infringement
+         of Article 87(1) EC and concerning the interpretation of the concept of selective advantage and the principle of non-discrimination,
+         together with the third plea, alleging infringement of Article 88(2) EC on the ground that the Commission had failed to initiate
+         the formal investigation phase even though the measure aligning fees raised serious difficulties.
+      
+That approach is justified in view of the fact that, as the Advocate General remarked in points and of her Opinion,
+         the concept of serious difficulties is an objective one and their existence must be sought not only in the circumstances in
+         which the contested measure was adopted but also in the assessments upon which the Commission relied (see, in that regard,
+         Cook v Commission, paragraphs and 31).
+      
+However, the Court of First Instance carried out precisely such an examination when it analysed the reasons for which the
+         Commission had considered that the measure aligning fees did not constitute a selective advantage and that it did not infringe
+         the principle of non-discrimination.
+      
+The Court of First Instance thus did not err in law when it examined the Commission’s assessments in order to evaluate whether
+         they had been established on the basis of sufficient information and whether they were such as to enable the existence of
+         any serious difficulty to be ruled out.
+      
+Moreover, in their appeal, the appellants themselves admit that the Court of First Instance was right, in paragraph of
+         the judgment under appeal, to conclude from the case-law that ‘[it was] therefore necessary to examine the applicants’ arguments
+         against the contested decision regarding the existence of serious difficulties. If such difficulties [exist], the decision
+         could be annulled on that ground alone, because of the failure to initiate the inter partes and detailed examination laid
+         down in the Treaty, even if it [were] not established that the Commission’s assessments as to substance were wrong in law
+         or in fact’.
+      
+In any event, the fact of dealing with pleas together required the Court of First Instance not to limit itself solely to assessing
+         the existence of serious difficulties but also to respond to the arguments raised by Bouygues and Bouygues Télécom in support
+         of their second plea for annulment, concerning the merits of the Commission’s assessments.
+      
+However, it must be held, in that regard, that the substitutions of reasoning alleged by the appellants are, in fact, merely
+         responses to their arguments.
+      
+Thus, first of all, the appellants’ argument that the Court of First Instance substituted its own assessment for that contained
+         in the contested decision when it decided, in paragraphs 105, and of the judgment under appeal, that UMTS services
+         had a market value is unfounded.
+      
+As is apparent from paragraph of the judgment under appeal, and as the Advocate General remarked in point of her Opinion,
+         the Commission did not put forward the contrary argument – that such services had no economic value – until the hearing before
+         the Court of First Instance, whereas the contested decision was based on other considerations. In those circumstances, there
+         cannot be any substitution of reasoning on the part of the Court of First Instance.
+      
+The same is true, secondly, with regard to the claim that the Court of First Instance substituted its own assessment for that
+         made in the contested decision when, in paragraphs to of the judgment under appeal, it held that Orange and SFR enjoyed
+         a potential temporal advantage by reason of having been awarded their licences earlier.
+      
+Even supposing that, in responding to one of the arguments put forward by Bouygues and Bouygues Télécom, the Court of First
+         Instance reached a conclusion different from that adopted by the Commission in the contested decision, the fact remains that,
+         in paragraphs to of the judgment under appeal, it confirmed, in the alternative and without substituting reasons,
+         the Commission’s reasoning that the absence of a selective advantage resulted from the application of the Community framework
+         for telecommunications services.
+      
+Thirdly, the Court cannot accept the appellants’ argument that the Court of First Instance substituted its own assessment
+         for that of the Commission when it held, in paragraphs and of the judgment under appeal, that Orange and SFR, on the
+         one hand, and Bouygues Télécom, on the other, were not in a comparable situation because the latter undertaking risked being
+         unable to introduce its UMTS services or being able to do so only after a delay.
+      
+It should be noted in that regard that the contested decision had ruled out any discrimination, not because the three operators
+         were in a comparable situation, but because of the application of the Community framework for telecommunications services,
+         which made necessary the solution adopted by the French authorities. Consequently, whether those operators were or were not
+         in a comparable situation with regard to the risks which they undertook was not something which influenced the Commission’s
+         position.
+      
+Fourthly and finally, the Court also considers to be without foundation the claim that the Court of First Instance substituted
+         its assessment for the Commission’s when, in paragraphs to of the judgment under appeal, it analysed the various options
+         open to the French authorities and their effect on the equal treatment of the undertakings to which licences were awarded.
+      
+In reality, as the Advocate General remarked in point of her Opinion, the Commission had already taken account of these
+         options in the contested decision, which means that the Court of First Instance did not replace the Commission’s statement
+         of reasons with its own.
+      
+In the light of the foregoing considerations, it must be held that, even if, when it examined some of the arguments raised
+         at first instance by Bouygues and Bouygues Télécom, the Court of First Instance reached different conclusions from those reached
+         by the Commission in the contested decision, none of the assessments made by the Court suggest that the Commission’s conclusions
+         are not well founded or that serious difficulties exist.
+      
+The second ground of appeal must therefore be rejected as unfounded.
+      
+ The fourth ground of appeal, alleging errors in the application of Article EC 
+The fourth ground of appeal, which must be considered before the third, is divided into three branches.
+      
+ The first and second branches of the fourth ground of appeal
+–       Arguments of the parties
+By the first branch of this ground, the appellants claim that the Court of First Instance erred in law by concluding that
+         the exception based on the general scheme of the system made it impossible for the French State, in the present case, not
+         to waive the claims against Orange and SFR. In reality, since the general scheme of the system requires that the maximum number
+         of operators be sought, the French authorities could either have re-commenced the entire procedure ab initio or, as in the
+         present case, made a new call for applications.
+      
+However, in the latter case, those authorities should have applied different economic conditions. Contrary to what the Court
+         of First Instance held, such conditions would not have given rise to any discrimination, since the undertakings initially
+         awarded licences were not in the same situation as those who would have been chosen following a new call for applications
+         since, on the one hand, the former were certain of retaining their UMTS licences, without the new applicants being able to
+         challenge that situation, and, on the other, they had prior rights, which in itself was an obvious advantage.
+      
+According to Orange and SFR, this branch of the fourth ground of appeal is inadmissible inasmuch as it seeks a new assessment
+         of pleas put forward at first instance.
+      
+In any event, the Commission, the French Republic, SFR and Orange contend that the Court of First Instance examined the other
+         options which could have been envisaged by the French authorities and concluded, in the light of the need to comply not only
+         with the principles of equal treatment and free competition but also with the deadline of January 2002, laid down in Article
+         3(1) of Decision No 128/1999, that the option ultimately chosen by the French authorities was the only one which ensured respect
+         for those principles and that it was therefore ‘inevitable’.
+      
+By the second branch of the fourth ground of appeal, the appellants argue that the Court of First Instance committed several
+         errors of law when it concluded that Orange and SFR had obtained no selective advantage.
+      
+–       Findings of the Court
+It should be pointed out first of all that the two arguments put forward by the appellants in support of their claim that
+         charging Orange and SFR UMTS fees of a different amount than those charged to Bouygues Télécom did not involve discrimination
+         against the former two undertakings are inadmissible.
+      
+It follows from Article EC, the first paragraph of Article of the Statute of the Court of Justice and Article 112(1)(c)
+         of the Court’s Rules of Procedure that an appeal must indicate precisely the contested elements of the judgment which the
+         appellant seeks to have set aside and also the legal arguments specifically advanced in support of the appeal (order in Case
+         C‑488/P Martinez v Parliament [2003] ECR I‑13355, paragraph 40, and Case C‑227/P Lindorfer v Council [2007] ECR I‑6767, paragraph and the case-law cited therein).
+      
+However, in support of the first of those two arguments – namely, that Orange and SFR were certain of retaining their licences,
+         without the other applicants being able to challenge that situation – the appellants do not claim that there has been any
+         error of law in that part of the grounds for the judgment under appeal, in particular paragraph thereof, in which the
+         Court of First Instance held that the three operators were in a comparable situation.
+      
+With regard to the second of those arguments – to the effect that SFR and Orange obtained an advantage by having been awarded
+         their licences earlier – it must also be stated that the appellants put forward no argument challenging the Court’s assessment
+         in that regard, which is set out, in particular, in paragraphs to of the judgment under appeal.
+      
+It should be pointed out that, contrary to the contentions raised by Orange and SFR, the other arguments relied upon in the
+         context of the second branch of the fourth ground of appeal do not merely repeat the pleas put forward at first instance but
+         are in reality directed against an essential part of the grounds for the judgment under appeal, in particular paragraphs to thereof, and are therefore admissible.
+      
+With regard to whether those arguments are well founded, it should be recalled that the Court of First Instance held, in paragraph
+         of the judgment under appeal, that Directive 97/and Decision No 128/leave the Member States a discretion as to
+         the choice of procedure for the award of licences provided that the principles of free competition and equal treatment are
+         respected.
+      
+The Court deduced from that finding, and has not been challenged on this point by the appellants, that Member States could
+         opt for a comparative selection procedure, the essential being that the operators received the same treatment, in particular
+         with regard to fees.
+      
+In the present case, the French authorities, in the exercise of that discretion, decided to award the UMTS licences by way,
+         precisely, of a comparative selection procedure. As the Court of First Instance points out in paragraph of the judgment
+         under appeal, it is only because of the partial failure of the first call for applications, which did not enable enough licences
+         to be awarded to ensure genuine competition in the market for telecommunications services, that the French authorities considered
+         it necessary to seek further applications.
+      
+In such a situation, as the appellants themselves admit, the French authorities had three options open to them: to re-commence
+         the procedure ab initio; to launch a new call for additional applications without retroactively amending the amount due from
+         Orange and SFR by way of UMTS licence fees; or to launch a new call but with a retroactive amendment of those fees. 
+      
+As the Court of First Instance noted in paragraph of the judgment under appeal, in the circumstances of the present case,
+         the option of re-commencing the procedure ab initio would have made it impossible to meet the January deadline fixed
+         by Article 3(1) of Decision No 128/as the date on which Directive 97/had to be implemented by the Member States with
+         regard to the coordinated and progressive introduction of UMTS services in their territory. Similarly, as the Court of First
+         Instance correctly pointed out in paragraphs and of its judgment, the option of requiring Orange and SFR to pay fees
+         substantially higher than those charged to Bouygues Télécom, even though none of the three operators, for reasons not entirely
+         of their own making, had yet entered the market and even though the characteristics of the licences were identical, would
+         have constituted discrimination against Orange and SFR. 
+      
+In other words, the application of one of those two options would not have enabled the French authorities to comply with the
+         requirements of Community law.
+      
+In those circumstances, in the context of the option ultimately chosen by the French authorities, waiver of the claims at
+         issue as a result of the retroactive alignment of the UMTS licence fees due from Orange and SFR with those charged to Bouygues
+         Télécom was inevitable.
+      
+Only that option could, at the material time, reduce the risks, on the one hand, of a late launch of UMTS services, since
+         it ensured that at least two of the licences had been awarded by the date fixed in Article 3(1) of Decision No 128/1999. On
+         the other hand, that option also excluded the possibility that the three operators might suffer discrimination, since the
+         very purpose of the alignment of the fees was to take account of the fact that, at the time that the licence was awarded to
+         Bouygues Télécom, none of the three operators had entered the market – for reasons not of their own choosing – with the result
+         that their situation was, for that reason, comparable.
+      
+It follows that, in those circumstances, the Court of First Instance did not err in law when it held that the Community framework
+         for telecommunications services and, in particular, the principle of non-discrimination, required the French authorities to
+         align the fees due from Orange and SFR with those charged to Bouygues Télécom.
+      
+Consequently, the first branch of the fourth ground of appeal must be declared partly inadmissible and partly unfounded.
+      
+Since the first branch must be rejected, the second branch of the fourth ground of appeal must be declared nugatory.
+      
+It should be pointed out that, according to settled case-law, categorisation as aid requires that all the conditions set out
+         in Article 87(1) EC be fulfilled (see Case C‑345/Pearle and Others [2004] ECR I‑7139, paragraph and the case-law cited therein).
+      
+Article 87(1) EC lays down four cumulative conditions: (i) there must be an intervention by the State or through State resources;
+         (ii) the intervention must be liable to affect trade between Member States; (iii) it must confer an advantage on the recipient;
+         (iv) it must distort or threaten to distort competition (Pearle and Others, paragraph and the case-law cited therein).
+      
+However, as is apparent from consideration of the first branch of the fourth plea in law, the Court of First Instance did
+         not err in law when it held, in paragraph of the judgment under appeal, that the waiver of State resources was not sufficient
+         to prove the existence of State aid inasmuch as the abandonment of the claims against Orange and SFR was inevitable because
+         of the general scheme of the system.
+      
+It follows that, in the present case, the first of the conditions listed in paragraph of the present judgment, necessary
+         in order to establish the existence of State aid, is not satisfied.
+      
+In consequence, the second branch of the fourth ground of appeal, relating to the existence of an advantage in favour of Orange
+         and SFR, cannot, in any event, affect the validity of the conclusion reached by the Court of First Instance that there is
+         no State aid in the present case.
+      
+ The third branch of the fourth ground of appeal
+–       Arguments of the parties
+By the third branch of their fourth ground of appeal, the appellants claim that the Court of First Instance erred in law in
+         the application of the principle of non-discrimination.
+      
+They claim, first, that Orange and SFR, on the one hand, and Bouygues Télécom, on the other, were not in the same situation
+         at the time that fees were aligned since the UMTS licences had been granted in respect of an activity to be carried on at
+         different dates. Moreover, the amendment of the criteria for the award of licences would have been legally impossible in the
+         light both of the principle that such licences are inviolable in the context of a competitive procedure and of Directive 97/13.
+         Lastly, compliance with the objectives laid down in the Community directives – in particular, Directive 97/– is not one
+         of the exceptions exhaustively listed in Article 87(2) EC.
+      
+On the other hand, according to Orange and the Commission, the three undertakings to which UMTS licences were granted were,
+         in practical terms, in the same situation, since Orange and SFR had obtained no material benefit from the licences. In those
+         circumstances, the principle of non-discrimination, inevitably, would have required the retroactive alignment of the fees.
+         In any event, Orange contends that this branch of the fourth ground of appeal is inadmissible inasmuch as the implementation
+         of the principle of non-discrimination has already been challenged, on the basis of the same arguments, before the Court of
+         First Instance.
+      
+First, with regard to the lawfulness of the amendment of the conditions for the award of licences, the Commission points out
+         that the Court of First Instance held that the abovementioned principle of inviolability appears neither in Directive 97/nor in any other applicable provision of Community law. In any event, according to Orange, that principle does not call into
+         question the obligation to respect the principle of non-discrimination. Secondly, according to the Commission, SFR and Orange,
+         the possibility of amending the conditions for the award of licences is expressly provided for in Directive 97/13. The French
+         Republic contends, in that regard, that such an amendment was not merely possible, it was even obligatory under Article 11(2)
+         of that directive, which provides that charges are to be non-discriminatory.
+      
+Lastly, the Commission, the French Republic, SFR and Orange contend that the Court of First Instance did not regard Directive
+         97/as an exception, additional to those provided for in Article 87(2) EC, to the prohibition under Article 87(1) EC of
+         aid incompatible with the common market. Rather, the Court referred to Directive 97/only as a legal basis for categorising
+         the alignment of the fees as State aid.
+      
+–       Findings of the Court
+First of all, it must be held that, contrary to Orange’s contention, the appellants’ argument that the Court of First Instance
+         erred in regarding Orange and SFR, on the one hand, and Bouygues Télécom, on the other, as being in the same situation is
+         admissible.
+      
+It should be borne in mind that, provided that the appellant challenges the interpretation or application of Community law
+         by the Court of First Instance, the points of law examined at first instance may be discussed again in the course of an appeal
+         (Case C‑210/P Salzgitter v Commission [2000] ECR I‑5843, paragraph 43). Indeed, if an appellant could not thus base his appeal on pleas in law and arguments already
+         relied on before the Court of First Instance, an appeal would be deprived of part of its purpose (see, in particular, the
+         judgment in Case C‑41/P Interporc v Commission [2003] ECR I‑2125, paragraph 17, and the order in Martinez v Parliament, paragraph 39).
+      
+The argument that the three operators are in an identical situation satisfies those criteria inasmuch as it is intended, precisely,
+         to challenge the analysis of that situation carried out by the Court of First Instance in regard to the principle of non-discrimination.
+      
+With regard to the merits of that argument, it should be pointed out, as the appellants rightly indicate, that it is also
+         settled law that discrimination can arise only through the application of different rules to comparable situations or the
+         application of the same rule to different situations (Case C‑279/Schumacker [1995] ECR I‑225, paragraph 30, and Case C‑341/Laval un Partneri [2007] ECR I‑11767, paragraph 115).
+      
+In the present case, the fact that UMTS licences were awarded to Orange and SFR at an earlier date can justify, or even require,
+         that the related fees be set higher than the fees charged to Bouygues Télécom only if the economic value of those licences
+         could be regarded, by dint merely of having been awarded earlier, as being of greater value than the licence awarded to the
+         latter undertaking.
+      
+It is clear that that is not so in the present case.
+      
+The Court of First Instance found, in paragraph of the judgment under appeal, that Orange and SFR were not able to make
+         use of the licences which had been awarded to them.
+      
+As the Court of First Instance rightly pointed out in paragraphs and of the judgment under appeal, although it is
+         true that a licence has an economic value, that value depends on the time when each of the operators concerned entered the
+         market (see also Case C‑462/Connect Austria [2003] ECR I‑5197, paragraph 93).
+      
+In other words, the economic value of a licence derives, in particular, from the possibility for the licence holder to make
+         use of the rights attached to the licence which, in the present case, means the possibility of occupying public wireless space
+         in order to use UMTS technology.
+      
+As the Court of First Instance found in paragraph of the judgment under appeal – and it has not been contradicted on this
+         point by the appellants in the present appeal – it is common ground that, as of December 2002, the date on which the licence
+         was awarded to Bouygues Télécom, Orange and SFR had not yet been able to launch their UMTS services, hence to make use of
+         their licences, for reasons beyond their control, namely, problems related to the UMTS technology and an economic context
+         unfavourable to its development. Consequently, the economic value of the licences granted to Orange and SFR could not, by
+         dint merely of being awarded earlier, be higher than that of the licence awarded to Bouygues Télécom.
+      
+In addition, in paragraphs to of the judgment under appeal, the Court of First Instance also rejected the appellants’
+         argument that the prior award of licences to Orange and SFR had given them advantages in terms of the pre‑emption of sites,
+         brand image and capture of market share. The appellants have not challenged that assessment in the present appeal.
+      
+Accordingly, the fact that the licences were awarded to the three operators concerned at different dates does not lead to
+         the conclusion that, at the date on which the licence was awarded to Bouygues Télécom, the operators were in a different situation
+         in relation to the objective of Directive 97/13, namely that of ensuring that operators obtain access to the UMTS market under
+         the same conditions.
+      
+Consequently, the Court of First Instance did not err in law by holding that the three operators concerned were in the same
+         situation.
+      
+With regard, next, to the alleged existence of a principle of inviolability of the criteria for the award of licences, it
+         should be borne in mind that – contrary to the assertions of the appellants – in paragraph of its judgment in Case C‑324/Telaustria and Telefonadress [2000] ECR I‑10745, the Court of Justice merely confirmed that contracting authorities are required to comply with the principle
+         of non-discrimination even where they conclude contracts which are outside the scope of Council Directive 93/38/EEC of June coordinating the procurement procedures of entities operating in the water, energy, transport and telecommunications
+         sectors (OJ L 199, p. 84), without in any way establishing the existence of a principle of inviolability.
+      
+On the other hand, as the Advocate General remarked in point of her Opinion, it is apparent from Article 11(2) of Directive
+         97/that the amount of the charges must reflect the need to foster the development of innovative services and competition.
+         It is common ground in the present case that if the French authorities had not aligned the UMTS fees, they would have run
+         the serious risk of Orange and SFR withdrawing their applications. Thus, it was precisely in order to ensure the development
+         of competition that the fees due from the first two licence holders were amended to bring them into line with those charged
+         to Bouygues Télécom.
+      
+Lastly, there is no foundation to the argument that the Court of First Instance erred in law by holding that Directive 97/introduced an exception to Article 87(1) EC additional to those exhaustively listed in Article 87(2) EC.
+      
+As the Advocate General remarked in point of her Opinion, it should be borne in mind that Article 87(2) EC lays down exceptions
+         to the rule that State aid is incompatible with the Treaty.
+      
+By concluding – in the light, in particular, of Directive 97/– that the alignment of the fees due from Orange and SFR with
+         those charged to Bouygues Télécom did not constitute State aid, the Court of First Instance could not have been supplementing
+         the content of Article 87(2) EC since that provision applies only to measures which constitute State aid.
+      
+Since none of the three branches of the fourth ground of appeal can be upheld, that ground must be rejected.
+      
+ The third ground of appeal, alleging errors in the legal characterisation of the facts
+The third ground of appeal, which is based on errors allegedly committed by the Court of First Instance in the legal characterisation
+         of the facts, is also divided into three branches.
+      
+As a preliminary point, the French Republic and SFR challenge the admissibility of this ground inasmuch as, in each of its
+         branches, it criticises the assessment of the facts carried out by the Court of First Instance.
+      
+ The first branch of the third ground of appeal
+–       Arguments of the parties
+By the first branch of their third ground of appeal, the appellants claim that by categorising the two successive procedures
+         for the award of UMTS licences as a single procedure, the Court of First Instance erred in the legal characterisation of the
+         facts. In particular, when applying Article of Directive 97/13, the Court of First Instance should have restricted itself
+         to an analysis of the arrangements for the substantive organisation of the procedure and should therefore have concluded that
+         there were two distinct procedures. As it is, that error led the Court of First Instance to conclude, wrongly, that there
+         was no discrimination, by holding that the situation of the three licence holders was similar whereas, in reality, it was
+         different.
+      
+The Commission contends – as do the French Republic, SFR and Orange, in the alternative – that the Court of First Instance
+         was entitled to consider that the procedure for the award of UMTS licences constituted in reality a single procedure. The
+         French Republic, SFR and Orange point out in that regard that the reference to Article of Directive 97/is not relevant
+         to the present case.
+      
+In any event, in the Commission’s view, this branch is nugatory since the fact that there was a single procedure was not decisive
+         in the assessment made by the Court of First Instance of compliance with the principle of equal treatment inasmuch as the
+         latter took account not merely of the arrangements for the organisation of the call for applications but also of the effects
+         of that call. In addition, the Commission contends that, for the purposes of applying the principle of non-discrimination,
+         the two calls for applications must be treated as one.
+      
+SFR maintains that the Court of First Instance correctly interpreted the principle of equal treatment by basing its findings
+         on the context of the emerging UMTS market and by noting that none of the operators concerned had entered that market.
+      
+Lastly, the Commission argues that, in a new award procedure, the same operators would be awarded UMTS licences on identical
+         terms.
+      
+–       Findings of the Court
+It should be recalled that it follows from Article EC and the first paragraph of Article of the Statute of the Court
+         of Justice that an appeal lies on a point of law only. Accordingly, the Court of First Instance has sole jurisdiction to find
+         and appraise the facts, except in a case where the factual inaccuracy of its findings arises from evidence adduced before
+         it. The appraisal of the facts by the Court of First Instance does not constitute, save where the clear sense of the evidence
+         produced before it is distorted, a question of law which is subject, as such, to review by the Court of Justice (Case C‑53/P
+         Hilti v Commission [1994] ECR I‑667, paragraph 42; Joined Cases C‑280/P to C‑282/P Moccia Irme and Others v Commission [2001] ECR I‑4717, paragraph 78; and Case C‑362/P Wunenburger v Commission [2007] ECR I‑4333, paragraph 66).
+      
+In the present case, it should be pointed out that, contrary to the appellants’ argument, the Court of First Instance in no
+         way applied Article of Directive 97/in order to conclude that there had been a single procedure and, moreover, no legal
+         criterion is to be found in that provision for assessing whether a procedure for the award of licences is a single procedure
+         or whether it is composed of several successive phases. In reality, the Court merely held, on the one hand, in paragraph of the judgment under appeal, that the objective of the award procedure was to award four licences and, on the other, in paragraphs
+         12, and 15, that since the French authorities had failed to achieve their initial objective of awarding four licences,
+         they organised a ‘supplementary call for applications’.
+      
+It is in the context of its assessment of those facts that the Court of First Instance deduced, in paragraph of the judgment
+         under appeal, that ‘[d]espite the way in which it was actually organised, the procedure for awarding UMTS licences initiated
+         in July by the French authorities constituted, in reality, a single procedure’.
+      
+In those circumstances, the question whether the French authorities organised one or two procedures relates to the assessment
+         of the facts carried out by the Court of First Instance and is not, as the appellants claim, a question of law relating to
+         the legal characterisation of those facts in the light of Article of Directive 97/13.
+      
+Since the appellants do not claim that the Court of First Instance distorted the facts or the evidence produced before it,
+         the first branch of the third ground of appeal must therefore be declared inadmissible.
+      
+ The second branch of the third ground of appeal
+–       Arguments of the parties
+By the second branch of the third ground of appeal, the appellants complain that the Court of First Instance erred in the
+         legal characterisation of the facts by considering that the claims at issue, which had been waived by the French authorities,
+         were uncertain.
+      
+The appellants claim in that regard that the UMTS licences were awarded to Orange and SFR by two decrees of July 2001,
+         that is to say, after the end of the period during which applications could be withdrawn, which expired on May 2001. They
+         also argue that the mere fact that the operators could abandon their licence does not lead to the conclusion that the claims
+         were uncertain since, according to settled case-law, a debt is uncertain only when its existence is conditional upon the occurrence
+         of a future or hypothetical event or the fulfilment of a condition precedent.
+      
+In contrast, the Commission, the French Republic, SFR and Orange argue that the claims in question were uncertain.
+      
+They contend, in particular, that, but for the assurances in the ministerial letters of February that Orange and SFR
+         would be treated equitably, those two undertakings would probably have withdrawn their applications, since the deadline for
+         the exercise of that right had not yet expired at that date. In addition, according to the Commission, the debts in question
+         were not due before the grant of the licences by the decrees of July 2001.
+      
+Orange adds that since what is involved are authorisations to occupy the public domain, the right to withdraw subsisted after
+         May because licence holders can abandon their licences at any time and, as a consequence, cease to pay the related
+         fees.
+      
+In any event, according to the Commission, the French Republic and Orange, this second branch of the third ground of appeal
+         is nugatory inasmuch as it is directed against a ground included in the judgment under appeal purely for the sake of completeness,
+         since the Court of First Instance also based its assessment that waiver of the claims at issue did not constitute State aid
+         on the exception concerning the general scheme of the system.
+      
+–       Findings of the Court
+It should be borne in mind that complaints directed against a ground included in the judgment purely for the sake of completeness
+         cannot lead to the judgment being set aside and are therefore nugatory (see, in particular, Joined Cases C‑189/P, C‑202/P,
+         C‑205/P to C‑208/P and C‑213/P Dansk Rørindustri and Others v Commission [2005] ECR I‑5425, paragraph and the case-law cited therein).
+      
+On the one hand, however, as the Advocate General remarked in point of her Opinion, although the Court of First Instance,
+         in paragraph of the judgment under appeal, conceded that in the present case the French authorities had waived their right
+         to a significant part of State resources, while pointing out that those resources were uncertain, it is also true that, in
+         paragraph of the judgment, the Court held that ‘the fact that the State may have waived resources and that this may have
+         created an advantage for the beneficiaries of the reduction in the fee is not sufficient to prove the existence of a State
+         aid incompatible with the common market, given the specific provisions of Community law on telecommunications in the light
+         of common law on State aid. The abandonment of the claim at issue here was inevitable because of the general scheme of the
+         system, apart from the fact that the claim was not certain …’.
+      
+Moreover, it should be recalled that, for the reasons set out in paragraphs to of the present judgment, the ground of
+         appeal directed against the grounds for the judgment under appeal concerning the nature and general scheme of the system in
+         relation to the waiver of State resources is unfounded.
+      
+In those circumstances, and even supposing that it would be admissible and well founded for the appellants to argue that the
+         Court of First Instance erred in law by categorising the claims at issue as uncertain, the fact remains that such an error,
+         even if it were to be established, could not in any circumstances invalidate the conclusion reached by the Court in paragraph
+         of the judgment under appeal.
+      
+The second branch of the third ground of appeal must therefore be rejected as nugatory.
+      
+ The third branch of the third ground of appeal
+–       Arguments of the parties
+By the third branch of their third ground of appeal, the appellants claim that the Court of First Instance distorted the terms
+         of the ministerial letters of February by stating that they contained a promise of ‘equal treatment’ as compared with
+         the other operators whereas, in reality, they contained a promise of ‘equitable treatment’. The ministerial commitment to
+         equitable treatment cannot constitute a promise to align, retroactively, the fees due from the first UMTS licence holders
+         with the fees for the licence awarded later. Such a distortion of the letters in question vitiates the Court’s entire judgment.
+      
+In the Commission’s view, that argument is inadmissible by reason of the fact that the question of the semantic equivalence
+         of the terms ‘equal’ and ‘equitable’ constitutes a new argument. Orange also contends that the argument is inadmissible on
+         the ground that it challenges an assessment of facts made by the Court of First Instance.
+      
+In any event, the Commission agrees with the point raised by Orange in the alternative that this branch of the third ground
+         of appeal is nugatory, since the ministerial promises did not play an essential role in the findings and assessments of the
+         Court of First Instance.
+      
+In the alternative, the Commission contends that the appellants have not succeeded in refuting the Court of First Instance’s
+         conclusion that the two initial licence holders did not in fact obtain an advantage. For their part, the French Republic and
+         SFR contend that there is no possibility that the Court of First Instance could have distorted the content of the letters.
+      
+–       Findings of the Court
+As the Commission and Orange contend, this branch of the third ground of appeal is nugatory.
+      
+It is apparent from paragraphs and of the judgment under appeal that the Court of First Instance based its assessment
+         of the need of the French authorities to reduce the fees charged to SFR and Orange on the principle of equal treatment, as
+         is required by Directive 97/13.
+      
+In other words, the Court of First Instance never considered that the alignment of the fees was required because of the assurances
+         of ‘equitable treatment’ provided by the French authorities in the ministerial letters of February 2001.
+      
+Consequently, even supposing that the appellants’ argument that the Court of First Instance manifestly distorted the contents
+         of those letters in relation to those assurances were admissible and well founded, the fact remains that, in any event, such
+         a distortion would have no bearing on the question whether or not the judgment under appeal is well founded.
+      
+Accordingly, in the light of the case-law referred to in paragraph of the present judgment, this branch of the third ground
+         of appeal must be rejected.
+      
+Since none of the four grounds of appeal can be upheld, the appeal must be dismissed as partly inadmissible and partly unfounded.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, which applies to appeal proceedings by virtue of Article thereof, the unsuccessful
+         party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings.
+      
+As the Commission, Orange and SFR have applied for costs to be awarded against the appellants and the latter have been unsuccessful,
+         they must be ordered to pay the costs of the present proceedings.
+      
+In accordance with Article 69(4) of the Rules of Procedure, which is also applicable to appeal proceedings by virtue of Article
+         thereof, the Member States which have intervened in the proceedings are to bear their own costs. The French Republic must
+         therefore be ordered to bear its own costs.
+      
+On those grounds, the Court (First Chamber) hereby:
+1.      Dismisses the appeal;
+2.      Orders Bouygues SA and Bouygues Télécom SA to pay the costs;
+3.      Orders the French Republic to bear its own costs.
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

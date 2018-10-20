@@ -1,0 +1,131 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+May (
+*)
+‛Reference for a preliminary ruling — Taxation — Value added tax — Directive 2006/112/EC — Article 148(d) — Exemption — Supply of services to meet the direct needs of vessels used for navigation on the high seas — Loading and unloading of cargo by a subcontractor on behalf of an intermediary’
+In Case C‑33/16,
+REQUEST for a preliminary ruling under Article TFEU from the Korkein hallinto-oikeus (Supreme Administrative Court, Finland), made by decision of January 2016, received at the Court on January 2016, in the proceedings brought by
+A Oy
+intervening parties:
+Veronsaajien oikeudenvalvontayksikkö,
+THE COURT (Eighth Chamber),
+composed of J. Malenovský (Rapporteur), acting as President of the Eighth Chamber, M. Safjan and D. Šváby, Judges,
+Advocate General: Y. Bot,
+Registrar: I. Illéssy, Administrator,
+having regard to the written procedure and further to the hearing on October 2016,
+after considering the observations submitted on behalf of:
+—
+A Oy, by R. Nyrhinen and M. Pokkinen,
+—
+the Finnish Government, by H. Leppo, acting as Agent,
+—
+the Greek Government, by E. Tsaousi and K. Nasopoulou, acting as Agents,
+—
+the Netherlands Government, by K. Bulterman and M. de Ree, acting as Agents,
+—
+the Polish Government, by A. Kramarczyk-Szaładzińska and B. Majczyna, acting as Agents,
+—
+the European Commission, by M. Owsiany-Hornung and P. Aalto, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 148(d) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1).
+The reference has been made in proceedings brought by A Oy concerning a tax decision adopted by the Keskusverolautakunta (Finnish Central Tax Board) by which it held that the loading and unloading cargo onto and off a vessel, when supplied by a subcontractor which invoices them to the contracting undertaking rather than to the ship owner directly, do not qualify for the exemption from value added tax (VAT) provided for in Article 148(d) of Directive 2006/112.
+Legal context
+European Union law
+The Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax (OJ L 145, p. 1), as amended by Council Directive 91/680/EEC of December (OJ L 376, p. 1) (‘the Sixth Directive’) provided in Article thereof:
+‘Without prejudice to other Community provisions, Member States shall exempt the following under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any possible evasion, avoidance or abuse:
+1.
+the supply of goods dispatched or transported to a destination outside the Community by or on behalf of the vendor;
+…
+5.
+the supply, modification, repair, maintenance, chartering and hiring of the sea-going vessels referred to in paragraph 4(a) and (b) and the supply, hiring, repair and maintenance of equipment — including fishing equipment — incorporated or used therein;
+…
+8.
+the supply of services other than those referred to in paragraph 5, to meet the direct needs of the sea-going vessels referred to in that paragraph or of their cargoes;
+…’
+The Sixth Directive was repealed by Directive 2006/112, which entered into force on January 2007.
+Article of Directive 2006/provides:
+‘Where a taxable person acting in his own name but on behalf of another person takes part in a supply of services, he shall be deemed to have received and supplied those services himself.’
+Article of Directive 2006/provides:
+‘The exemptions provided for in Chapters to [of Title IX] shall apply without prejudice to other Community provisions and in accordance with conditions which the Member States shall lay down for the purposes of ensuring the correct and straightforward application of those exemptions and of preventing any possible evasion, avoidance or abuse.’
+Chapter of Title IX of that directive, entitled ‘Exemptions related to international transport’, provides:
+‘Member States shall exempt the following transactions:
+(a)
+the supply of goods for the fuelling and provisioning of vessels used for navigation on the high seas and carrying passengers for reward or used for the purpose of commercial, industrial or fishing activities, or for rescue or assistance at sea, or for inshore fishing, with the exception, in the case of vessels used for inshore fishing, of ships’ provisions;
+…
+(c)
+the supply, modification, repair, maintenance, chartering and hiring of the vessels referred to in point (a), and the supply, hiring, repair and maintenance of equipment, including fishing equipment, incorporated or used therein;
+(d)
+the supply of services other than those referred to in point (c), to meet the direct needs of the vessels referred to in point (a) or of their cargoes;
+…’
+Finnish law
+Paragraph 71(3) of Arvonlisäverolaki 1501/(Law No 1501/on value added tax) of December 1993, in the version applicable at the time of the facts of the main proceedings (‘the AVL’), provides:
+‘Tax is not payable on the following sales:
+…
+(3)
+the sale of services on board a ship or an aircraft engaging in international traffic to persons travelling abroad and the sale of services to meet the direct needs of such a ship or its cargo.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+A is a subsidiary of B Oy. It operates in two ports where it supplies loading and unloading, warehousing, shipping agency and freight forwarding services.
+The services supplied by A include the loading and unloading of the cargo of vessels used for navigation on the high seas and for the purposes of a commercial activity. In practice, the loading and unloading is carried out by a subcontractor which invoices those services to A, which re-invoices them to its customers which, depending on the circumstances, may be B Oy, the holder of the goods, the loader, the forwarding company or the ship owner. The details of the vessel and the cargo concerned are sent to the subcontractor and set out both on its invoice and on the invoice issued by A.
+A made a request for a tax decision from the Central Tax Board asking whether, in accordance with Paragraph 71(3) of the AVL, the loading and unloading of cargo carried out by subcontractors acting on behalf of its customers are eligible for exemption from VAT.
+By decision of October 2014, the Central Tax Board informed A that the services of loading and unloading cargo are not to be regarded as services exempt from VAT under Paragraph 71(3) of the AVL, which transposes Article 148(a), (c) and (d) of the VAT Directive, because the supply of services to vessels operating in international traffic or to their cargoes may be exempt from VAT only if those services are provided at the end of the commercial chain. In the circumstances under consideration in the request, the loading and unloading services are provided at an earlier stage.
+A brought an appeal against that decision before the Korkein hallinto-oikeus (Supreme Administrative Court, Finland), on the ground that it was contrary to Article 148(d) of Directive 2006/112, since that provision must be interpreted as meaning that supplies of services which, by their nature, are linked to the direct needs of the cargo of vessels, such as loading and unloading of cargo, must be exempt from VAT, irrespective of the person which sells or buys those services.
+In its defence, the Finnish tax administration relied, in particular, on the judgment of the Court of Justice of September 2006, Elmeka (C‑181/to C‑183/04, EU:C:2006:563), arguing that the VAT exemption laid down by that provision applies only at the end of the commercial chain of the services concerned.
+However, the referring court considers that, where it is clear from the nature of the service concerned that they are supplied to meet the direct needs of the cargo of vessels used for navigation on the high seas and for the purposes of a commercial activity, that judgment does not enable it to answer the question whether it is still necessary for the application of the VAT exemption that those services are directly invoiced to the ship owner.
+In those circumstances, the Korkein hallinto-oikeus (Supreme Administrative Court, Finland) decided to stay proceedings and seek a preliminary ruling from the Court on the following questions:
+‘(1)
+Is Article 148(d) of Directive 2006/to be interpreted as meaning that the services of loading and unloading of cargo onto and off a vessel are supplies of services made to meet the direct needs of the cargo of vessels for the purposes of Article 148(a)?
+(2)
+Given the findings of the Court of Justice in paragraph of the judgment [of September 2006, Elmeka, C‑181/to C‑183/04, EU:C:2006:563], according to which the exemption provided for in those rules could not be extended to services supplied at an earlier stage in the commercial chain, is Article 148(d) of Directive 2006/to be interpreted as meaning that it applies also to the services at issue in the case in the main proceedings in which the service supplied by A’s subcontractor in the first phase of operations concerns a service which has a direct physical relationship to the cargo, which A re-invoices to the forwarding or transport company?
+(3)
+In light of the findings of the Court of Justice in paragraph of the judgment [of September 2006, Elmeka, C‑181/to C‑183/04, EU:C:2006:563], according to which the exemption provided for by the rules in question apply only to services which are supplied to the ship owner, is Article 148(d) of Directive 2006/to be interpreted as meaning that that exemption cannot apply if the service is supplied to the cargo holder, such as the exporter or importer of the cargo concerned?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks essentially whether Article 148(d) of Directive 2006/must be interpreted as meaning that the loading and unloading of cargo are services to meet the direct needs of the cargo of the vessels referred to in Article 148(a) thereof.
+As a preliminary point, it must be recalled that, in accordance with Article 148(d) of Directive 2006/112, the supply of services, other than those referred to in point (c) of that article, made for the direct needs of the vessels referred to point (a) of that article, are exempt from VAT.
+Thus, it is clear from the wording of Article 148(d) that, to be one of those ‘other services’, that provision requires, first, that the services at issue are performed to meet the direct needs of a vessel and its cargo and, second, that that vessel is one of those referred to in Article 148(a) of that directive.
+As regards the second of those two conditions, the referring court appears to take the view that, in the case in the main proceedings, that condition is fulfilled, which is for that court to ascertain.
+As far as concerns the first condition, it must be observed that Article 148(d) of Directive 2006/does not indicate how the concept of ‘direct needs of a vessels and its cargo’ is to be understood. In those circumstances, that concept must be interpreted with regard to the context of which Article 148(d) forms part.
+In that connection, it must be recalled that Article 148(c) of Directive 2006/112, to which Article 148(d) expressly refers, aims, like the latter, to exempt services related to international maritime transport and refers, in order to designate those services, to the same vessels, namely those referred to in point (a) thereof. Those two provisions thus being similar and complementary, the concept of ‘direct needs of a vessel and its cargo’ must be interpreted being guided by the general scheme of the provisions of Article 148(c) of that directive.
+It must be observed that Article 148(c) of Directive 2006/exempts, inter alia, hire, repairs and maintenance if the latter pertains to something used for the operation of vessel covered by point (a) of that article. Essentially, Article 148(c) therefore lays down a requirement for the existence of a link between the supply of services made and the operation of the vessel concerned (see, to that effect, judgment of July 1985, Berkholz, 168/84, EU:C:1985:299, paragraph 21).
+The services of loading and unloading of cargo satisfy that requirement. The transport of cargo constitutes a usual form of operating vessels used for navigation on the high seas. In order for cargo to be transported and, thus for a vessel to be operated, it is necessary for that cargo to be transported from the port of departure and then unloaded at the port of arrival.
+Therefore, such services must be regarded as meeting the direct need of the cargo of a vessel referred to in Article 148(a) of Directive 2006/and, since they are necessary to the operation of a vessel transporting that cargo as also meeting the direct needs of that vessel.
+Under those circumstances, the answer to the first question is that Article 148(d) of Directive 2006/must be interpreted as meaning that loading and unloading of cargo are services supplied for the direct needs of the cargo of the vessels referred to in Article 148(a) thereof.
+Concerning the second and third questions
+By its second and third questions, which it is appropriate to examine together, the referring court asks essentially whether Article 148(d) of Directive 2006/must be interpreted as meaning that only the loading and unloading of cargo carried out at the end of the commercial chain of such services covered by Article 148(a) thereof are exempt, or whether services performed at an earlier stage, such as services supplied by the subcontractor of an economic operator which then re-invoices them to a freight forwarder or a transporter are also exempt. The referring court also asks whether Article 148(d) must be interpreted as meaning that services for loading and unloading cargo supplied to the holder of that cargo, such as the exporter or importer are also exempt.
+In the first place, it must be observed that, as regards the supply of services that it covers, Article 148(d) of Directive 2006/does not refer to a particular stage of the commercial chain, and does not mention any person to whom those services are to be invoiced. Therefore, the wording of that provision in itself does not give rise to the conclusion that services supplied at a stage prior to the end of the commercial chain or those invoiced to an intermediary are excluded from the benefit of the exemption which it provides.
+In those circumstances, it must be examined whether such exclusion may derive from the context of which Article 148(d) of Directive 2006/forms part.
+In that connection, in accordance with Article of Directive 2006/which sets out in identical terms the first sentence of Article of the Sixth Directive, the exemption provided for in Article 148(d) of Directive 2006/must be able to be implemented by the Member States in a manner which permits its correct and straightforward application, and the prevention of any possible fraud, avoidance and abuse.
+In such a context, the Court held, in paragraph of the judgment of September 2006, Elmeka (C‑181/to C‑183/04, EU:C:2006:563) to which the national court refers, that the exemption laid down in Article 15(8) of the Sixth Directive, whose wording is repeated in Article 148(d) of Directive 2006/112, applies only to operations made at the end of the commercial chain concerned.
+However, it must be recalled that the circumstances of the joined cases which gave rise to the judgment of September 2006, Elmeka (C‑181/to C‑183/04, EU:C:2006:563) were very specific, concerning services for the transport of petroleum products for provisioning vessels which were then sold on to ship owners. Therefore, several transactions had to physically take place before the services supplied could be used to meet the needs referred to in Article 15(8) of the Sixth Directive, such use only being guaranteed once the fuel was delivered to the operators of the vessels which would use it. Therefore, in that judgment, the Court held that the extension of the exemption provided for to earlier stages of the commercial chain of those services would require the putting in place of guarding and surveillance services in order to ensure the ultimate use of that fuel. Those mechanisms would amount to constraints which would be impossible to reconcile with the correct and straightforward application of the exemptions.
+Such case-law, adapted to the specificities of the cases which gave rise to that judgment, concerning supplies of services liable to be diverted and used for purposes other than those originally intended, cannot be transposed to situations in which, having regard to its nature, the purpose of a supply of services may be guaranteed once it is agreed. In such situations the correct and straightforward application of the exemption laid down in Article 148(d) of Directive 2006/is guaranteed without the need for guarding and surveillance services.
+Such is the situation with services of loading and unloading of cargo, such as those at issue in the main proceedings. It is clear from the answer to the first question that the verification of whether those services fulfil the conditions for the application of the exemption laid down in Article 148(d) of Directive 2006/depends solely on the type of vessels onto or from which the loading and unloading is to be carried out. Therefore, the use which is made of those services may be guaranteed once the implementation is agreed.
+Since no other individual elements are able to justify the limitation of the application of the exemption laid down in Article 148(d) of that directive to the end of the commercial chain of the services at issue, it must be held that that exemption applies, as regards services for loading and unloading of cargo, such as those at issue in the main proceedings, not only to services supplied at the end of the commercial chain of those services, but also to those supplied at an earlier stage.
+Moreover, that conclusion is borne out by the objective pursued by Article Directive 2006/112.
+As appears from the title of Chapter of Title IX of that directive, the objective pursued by the latter is to facilitate the international transport of goods or persons. To interpret the exemption laid down in Article 148(d) of Directive 2006/as applying only to the end of the commercial chain of loading and unloading services would be contrary to such an objective, since each intermediary in that chain would have to pass on the cost of financing the advance cash-flow arising from the payment of the VAT, that interpretation would lead to an increase in the prices applied in international transport, without such an increase being justified by the need to guarantee the correct and straightforward application of that exemption.
+Second, as regards the loading and unloading of cargo supplied to an economic operator but re-invoiced to another operator, such as a freight forwarder or transporter, it is common ground, first, that all economic operators are presumed to act on their own behalf. Secondly, where a person agrees to pay an invoice for the supply of services, on behalf of another, it may be regarded as taking part in the supply of those services.
+Article of Directive 2006/provides that, where a taxable person acting in his own name but on behalf of another takes part in a supply of services, he is to be considered to have received and supplied those services himself.
+It follows that, when loading or unloading of cargo carried out for an economic operator is re-invoiced to a freight forwarder or transporter, it must be held, unless it is established that that undertaking has not acted on its own behalf, that a new supply of services has been made, which has had the effect of changing the place in the commercial chain of the services supplied earlier.
+However, that fact, in itself, cannot call into question the application, to services relating to loading and unloading of cargo, of the exemption provided for in Article 148(d) of Directive 2006/112. If, as is clear from paragraph of the present judgment, the exemption laid down by that provision applies to such services irrespective of the stage of the commercial chain when the supply at issue takes place, the fact that a further supply of services takes place in that chain has no effect on the application of the exemption.
+Third, as far as concerns the applicability of the exemption laid down by Article 148(d) of Directive 2006/to loading and unloading services supplied to the holders of the cargo concerned, in so far as, as stated above, that it may apply to loading and unloading of cargo irrespective of the stage of the commercial chain in which the supply at issue is made, such supplies of services may be exempt if they are part of that commercial chain.
+In that connection, as the referring court states, the Court of Justice held, in paragraph of the judgment of September 2006, Elmeka (C‑181/to C‑183/04, EU:C:2006:563), that the commercial chain of the services at issue in the cases which gave rise to that judgment ended where those services were supplied to the owner of the vessel concerned.
+That being said, such a solution must also be placed in its context. Those cases concerned the transport of petroleum products for the provisioning of vessels. Given that such supplies of services were to meet the needs of the vessels concerned without being directly related to the cargo transported, they could not therefore be passed on, as such, to the holders of the cargo.
+However, in the case of loading and unloading of cargo, which is directly related to the cargo transported and where therefore may be passed on, as such, to the holders of that cargo, the supply of those services to the holder of that cargo must be regarded as always being part of the commercial chain of those services. It follows that such supplies of services may be exempt on the basis of Article 148(d) of Directive 2006/112.
+In those circumstances, the answer to the second and third questions is that Article 148(d) of Directive 2006/must be interpreted as meaning that, first, not only supplies of services concerning loading or unloading cargo onto or from a vessel covered by Article 148(a) of that directive which take place at the end of the commercial chain of such services may be exempt, but also supplies of services made at an earlier stage, such as services supplied by a subcontractor to an economic operator which then re-invoices them to a freight forwarder or transporter and, second, services for loading and unloading of cargo supplied to the holders of that cargo, such as the exporter or importer may also be exempt.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+1.
+Article 148(d) of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that loading and unloading of cargo are services supplied for the direct needs of the cargo of the vessels referred to in Article 148(a) thereof.
+ 
+2.
+In those circumstances, the answer to the second and third questions is that Article 148(d) of Directive 2006/must be interpreted as meaning that, first, not only supplies of services concerning loading or unloading cargo onto or from a vessel covered by Article 148(a) of that directive which take place at the end of the commercial chain of such a service may be exempt, but also supplies of services made at an earlier stage, such as services supplied by a subcontractor to an economic operator which then re-invoices them to a freight forwarder or transporter and, second, services for loading and unloading of cargo supplied to the holders of that cargo, such as the exporter or importer may also be exempt.
+ 
+[Signatures]
+(
+*)	Language of the case: Finnish.
+Top  
+ 

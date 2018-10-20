@@ -1,0 +1,151 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+July (
+*)
+‛Directive 2006/112/EC — Article 56(1)(e) — Article 135(1)(f) and (g) — Exemption for transactions relating to the management of securities-based assets (portfolio management)’
+In Case C-44/11,
+REFERENCE for a preliminary ruling under Article TFEU from the Bundesfinanzhof (Germany), made by decision of October 2010, received at the Court on January 2011, in the proceedings
+Finanzamt Frankfurt am Main V-Höchst
+v
+Deutsche Bank AG,
+THE COURT (Second Chamber),
+composed of J.N. Cunha Rodrigues, President of the Chamber, U. Lõhmus, A. Rosas (Rapporteur), A. Ó Caoimh and A. Arabadjiev, Judges,
+Advocate General: E. Sharpston,
+Registrar: R. Şereş, Administrator,
+having regard to the written procedure and further to the hearing on March 2012,
+after considering the observations submitted on behalf of:
+—
+the Finanzamt Frankfurt am Main V-Höchst, by M. Baueregger, acting as Agent,
+—
+Deutsche Bank AG, by P. Farmer and P. Freund, Barristers,
+—
+the German Government, by T. Henze, acting as Agent,
+—
+the Netherlands Government, by C.M. Wissels and M.K. Bulterman, acting as Agents,
+—
+the United Kingdom Government, by C. Murrell, acting as Agent, assisted by R. Hill, Solicitor,
+—
+the European Commission, by C. Soulay, L. Lozano Palacios and B.-R. Killmann, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2012,
+gives the following,
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles 56(1)(e) and 135(1)(f) and (g) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1).
+The reference has been made in proceedings between the Finanzamt Frankfurt am Main V-Höchst (Tax Office Frankfurt am Main V-Höchst) (‘the Finanzamt’) and Deutsche Bank AG (‘Deutsche Bank’) concerning, inter alia, the categorisation, for the purposes of exemption from value added tax (‘VAT’), of the management of securities-based assets (‘portfolio management’) carried out by Deutsche Bank.
+Legal context
+European Union legislation
+At the time of the facts in the main proceedings Article of Directive 2006/provided:
+‘1.   The place of supply of the following services to customers established outside the Community, or to taxable persons established in the Community but not in the same country as the supplier, shall be the place where the customer has established his business or has a fixed establishment for which the service is supplied, or, in the absence of such a place, the place where he has his permanent address or usually resides:
+…
+(e)
+banking, financial and insurance transactions, including reinsurance, with the exception of the hire of safes;
+…’
+Article of that directive provides:
+‘1.   Member States shall exempt the following transactions:
+(a)
+insurance and reinsurance transactions, including related services performed by insurance brokers and insurance agents;
+…
+(f)
+transactions, including negotiation but not management or safekeeping, in shares, interests in companies or associations, debentures and other securities, but excluding documents establishing title to goods, and the rights or securities referred to in Article 15(2);
+(g)
+the management of special investment funds as defined by Member States;
+…’
+German legislation
+Paragraph 3a(3) of the Law on Value Added Tax of (Umsatzsteuergesetz 2005), in the version in force at the time of the facts in the main proceedings (‘the UStG’), stated:
+‘Where the customer to whom one of the other services referred to in subparagraph is supplied is a trader, the other service shall, by way of exception to subparagraph 1, be deemed to be supplied in the place where the customer carries on his business. Where the other service is supplied to a trader’s permanent establishment, the place of supply shall instead be the permanent establishment. Where the customer of one of the other services referred to in subparagraph is not a trader and is resident or established in the territory of a third country, the other service shall be deemed to be supplied at the place where he is resident or established.’
+Paragraph 3a(4)(6)(a) of that law provided:
+‘“Other services” within the meaning of subparagraph shall mean: …
+(a)
+other services of the type described in Paragraph 4(8)(a) to (h) and (10) and the management of credit and credit securities, …’
+Paragraph 4(8)(e) and (h) of the UStG provides:
+‘Of the transactions falling within the scope of Paragraph 1(1)(1) the following shall be exempt from tax:
+…
+(e)
+transactions in securities trading and the negotiation of such transactions, with the exception of the safekeeping and management of securities,
+…
+(h)
+the management of investment fund assets under the Law on investment funds [Investmentgesetz] and the management of pension schemes under the Law on the supervision of insurance [Versicherungsaufsichtsgesetz];
+…’
+A Memorandum issued by the Ministry of Finance, which constitutes an administrative instruction on the interpretation of legislation which is not binding on the courts, provides that:
+‘Paragraph 3a(3) and (4)(6)(a) of the UStG is not be applied for the purpose of determining the place of supply in connection with asset management. Nor can direct reliance be placed on Article 56(1)(e) of [Directive 2006/112/EC], under which, in certain instances, the place of supply in the case of “banking, financial and insurance transactions” is to be determined by reference to the seat or place of business of the customer. “Banking, financial and insurance transactions” are terms of Community law and must be interpreted as such. It is true that [Directive 2006/112/EC] (and, until December 2006, [Sixth Council Directive 77/388/EEC of May on the harmonization of the laws of the Member States relating to turnover taxes - Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1] [does] not define the specific meanings of those terms. However, Article 135(1)(a) to (f) of [Directive 2006/112/EC] … is unambiguous when it comes to how they are to be interpreted. Asset management is not referred to in those provisions. Nor does Article 56(1)(e) of [Directive 2006/112/EC] … indicate that that provision is also intended to cover other banking, financial and insurance transactions.
+“Asset management” as a single service is liable to tax. The exemption from tax provided for in Paragraph 4(8)(e) of the UStG is not applicable because asset management (portfolio management) is not one of the transactions eligible under those provisions. …’
+The facts which gave rise to the dispute in the main proceedings and the questions referred for a preliminary ruling
+In 2008, Deutsche Bank provided, either itself or through subsidiaries, portfolio management services to client investors. Those client investors instructed Deutsche Bank to manage securities, at its own discretion and without obtaining prior instruction from them, in accordance with the investment strategy variants chosen by them and to take all measures which seemed appropriate for those purposes. Deutsche Bank was entitled to dispose of the assets (securities) in the name and on behalf of the client investors.
+The client investors paid an annual fee amounting to 1.8% of the value of the managed assets. That fee consisted of a share for asset management amounting to 1.2% of the value of the managed assets and a share for buying and selling securities amounting to 0.6% of the value of the assets. The fee also covered account and portfolio administration and front-end fees for the acquisition of shares, including units in funds that were managed by undertakings belonging to Deutsche Bank.
+At the end of each calendar quarter and at the end of each year, each client investor received a report on the progress of the asset management and was entitled to terminate the instruction at any time with immediate effect.
+When it submitted its provisional VAT return for the May tax period, Deutsche Bank informed the Finanzamt that it assumed that the services supplied in connection with portfolio management were exempt from tax under Paragraph 4(8) of the UStG, if they were supplied to client investors in German territory and in the rest of the territory of the European Union. It also stated that it assumed, in accordance with Paragraph 3(4)(6)(a) of the UStG, that those services were not taxable if they were supplied to client investors established in third countries.
+The Finanzamt rejected those arguments and, on April 2009, issued a VAT interim payment notice for the May tax period in which it treated the transactions relating to the portfolio management for the client investors in question as taxable and non-exempt.
+The objection Deutsche Bank raised in respect of that payment notice was rejected. By contrast, the Finanzgericht (Finance Court) upheld the action brought by Deutsche Bank. The Finanzamt in turn appealed on a point of law to the Bundesfinanzhof (Federal Finance Court) against the judgment delivered by the Finanzgericht.
+Since it has doubts, inter alia, as regards the categorisation of portfolio management with regard to VAT exemptions, the Bundesfinanzhof decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘1.
+Is [portfolio management], where a taxable person determines for remuneration the purchase and sale of securities and implements that determination by buying and selling the securities, exempt from tax:
+—
+only in so far as it consists in the management of investment funds for a number of investors collectively within the meaning of Article 135(1)(g) of Directive [2006/112] or also
+—
+in so far as it consists in individual portfolio management for individual investors within the meaning of Article 135(1)(f) of Directive [2006/112] (transactions in securities or the negotiation of such transactions)?
+2.
+For the purposes of defining principal and ancillary services, what significance is to be attached to the criterion that the ancillary service does not constitute for customers an aim in itself, but a means of better enjoying the principal service supplied, in the context of separate reckoning for the ancillary service and the fact that the ancillary service can be provided by third parties?
+3.
+Does Article 56(1)(e) of Directive [2006/112] cover only the services referred to in Article 135(1)(a) to (g) of Directive [2006/112] or also [portfolio management], even if that transaction is not subject to the latter provision?’
+Considerations of the questions referred
+The second question
+By its second question, which it is appropriate to examine first, the national court asks, in the context of defining, first, the principal service and, secondly, the ancillary service in a portfolio management service, such as that at issue in the main proceedings, namely where a taxable person for remuneration and on the basis of his own discretion takes decisions on the purchase and sale of securities and implements those decisions by buying and selling the securities, what significance is to be attached to the criterion that the ancillary service does not constitute for customers an end in itself, but the means of enjoying the supplier’s principal service under the best possible conditions, in relation to the separate charge in respect of an ancillary service and the fact that an ancillary service may be provided by third parties.
+It must be pointed out at the outset that a portfolio management activity such as that carried out by Deutsche Bank in the main proceedings consists of a number of elements.
+According to the case-law of the Court, where a transaction comprises a bundle of features and acts, regard must be had to all the circumstances in which the transaction in question takes place in order to determine, inter alia, whether that transaction consists of two or more distinct supplies or one single supply (see, to that effect, inter alia, Case C-41/Levob Verzekeringen and OV Bank [2005] ECR I-9433, paragraph 19, and Joined Cases C-497/09, C-499/09, C-501/and C-502/Bog and Others [2011] ECR I-1457, paragraph 52).
+In that regard, the Court has held that there is a single supply, particularly where one element is to be regarded as constituting the principal service, whilst another is to be regarded as an ancillary service sharing the tax treatment of the principal service (see Case C-34/Primback [2001] ECR I-3833, paragraph and the case-law cited).
+However, it must be borne in mind that there may also be a single supply, for VAT purposes, in other circumstances.
+The Court has held that that is also the case where two or more elements or acts supplied by the taxable person to the customer, being a typical consumer, are so closely linked that they form, objectively, a single, indivisible economic supply, which it would be artificial to split (Levob Verzekeringen and OV Bank, paragraph 22).
+Having regard to those considerations and in order to provide the national court with a useful response, the Court considers that, by its second question, the national court seeks, in essence, to categorise, for VAT purposes, the portfolio management service at issue in the main proceedings, where a taxable person for remuneration and on the basis of his own discretion takes decisions on the purchase and sale of securities and implements those decisions by buying and selling the securities, and, in particular, to determine whether that activity must be regarded as a single economic supply.
+Having regard, in accordance with the case-law referred to in paragraph of this judgment, to all the circumstances in which that portfolio management service takes place, it is apparent that the service basically consists of a combination of a service of analysing and monitoring the assets of client investors, on the one hand, and of a service of actually purchasing and selling securities on the other.
+It is true that those two elements of the portfolio management service may be provided separately. A client investor may wish only for an advisory service and prefer to decide on and make the investments himself. Conversely, a client investor who prefers to take the decisions on investments in securities and, more generally, to structure and monitor his assets himself, without making purchases or sales, may call on an intermediary for the latter type of transaction.
+However, the average client investor, in the context of a portfolio management service such as that performed by Deutsche Bank in the main proceedings, seeks precisely a combination of those two elements.
+As the Advocate General stated at point of her Opinion, to decide on the best approach to the purchase, sale or retention of securities would be pointless for investors within the context of a portfolio management service if no effect were given to that approach. Likewise, to make — or not, as the case may be — sales and purchases without expertise and without a prior analysis of the market would also be pointless.
+In the context of the portfolio management service at issue in the main proceedings, those two elements are therefore not only inseparable, but must also be placed on the same footing. They are both indispensable in carrying out the service as a whole, with the result that it is not possible to take the view that one must be regarded as the principal service and the other as the ancillary service.
+Consequently, those elements must be considered to be so closely linked that they form, objectively, a single economic supply, which it would be artificial to split.
+Having regard to the foregoing, the answer to the second question referred is that a portfolio management service, such as that at issue in the main proceedings, namely where a taxable person for remuneration and on the basis of his own discretion takes decisions on the purchase and sale of securities and implements those decisions by buying and selling the securities, consists of two elements which are so closely linked that they form, objectively, a single economic supply.
+The first question
+By its first question, which it is appropriate to examine next, the national court asks, in essence, whether Article 135(1)(f) or (g) of Directive 2006/is to be interpreted as meaning that portfolio management, such as that at issue in the main proceedings, is exempt from VAT under that provision.
+As regards the exemption provided for in Article 135(1)(g) of Directive 2006/112, it must be pointed out that the concept of ‘management of special investment funds’ is not defined in Directive 2006/112. The Court has however stated that the transactions covered by that exemption are those which are specific to the business of undertakings for collective investment (Case C-169/Abbey National [2006] ECR I-4027, paragraph 63).
+In that regard, it is apparent from Article 1(2) of Council Directive 85/611/EEC of December on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 375, p. 3), as amended by Directive 2001/108/EC of the European Parliament and of the Council of January (OJ L 41, p. 35), that they are undertakings the sole object of which is the collective investment in transferable securities and/or in other liquid financial assets of capital raised from the public, which operate on the principle of risk-spreading and the units of which are, at the request of holders, re-purchased or redeemed, directly or indirectly, out of those undertakings’ assets.
+In specific terms, as the Advocate General stated in points and of her Opinion, what are involved are joint funds, in which many investments are pooled and spread over a range of securities which can be managed effectively in order to optimise results, and in which individual investments may be relatively modest. Such funds manage their investments in their own name and on their own behalf, while each investor owns a share of the fund but not the fund’s investments as such.
+By contrast, services such as those performed by Deutsche Bank in the main proceedings concern generally the assets of a single person, which must be of relatively high overall value in order to be dealt with profitably in such a way. The portfolio manager buys and sells investments in the name and on behalf of the client investor, who retains ownership of the individual securities throughout, and on termination of, the contract.
+Consequently, the portfolio management activity carried out by Deutsche Bank, at issue in the main proceedings, does not correspond to the concept of ‘management of special investment funds’ within the meaning of Article 135(1)(g) of Directive 2006/112.
+As regards the scope of Article 135(1)(f) of that directive, the Court has held that transactions in shares and other securities are transactions on the market in marketable securities and that trade in securities involves acts which alter the legal and financial situation as between the parties (see, to that effect, Case C-2/SDC [1997] ECR I-3017, paragraphs and 73, and Case C-259/DTZ Zadelhoff [2012] ECR, paragraph 22).
+The words ‘transactions … in … securities’ within the meaning of that provision refer, therefore, to transactions which are liable to create, alter or extinguish parties’ rights and obligations in respect of securities (see, in particular, Case C 235/CSC Financial Services [2001] ECR I-10237, paragraph 33, and DTZ Zadelhoff, paragraph 23).
+As has been stated in paragraph of the present judgment, the portfolio management service at issue in the main proceedings consists basically of two elements, namely, on the one hand, of a service of analysing and monitoring the assets of client investors, and, on the other hand, of a service of actually purchasing and selling securities.
+Although services of purchasing and selling securities may be covered by Article 135(1)(f) of Directive 2006/112, the same is not, by contrast, true of services of analysing and monitoring assets as the latter services do not necessarily involve transactions which are liable to create, alter or extinguish parties’ rights and obligations in respect of securities.
+Deutsche Bank and the European Commission are of the opinion that the essence of the portfolio management service at issue in the main proceedings is the active buying and selling of securities and, for that reason, that that service must be exempt from VAT under Article 135(1)(f) of Directive 2006/112. The Finanzamt and the German, Netherlands and United Kingdom Governments take the view that that service must be regarded as a service of analysing and monitoring, to which the exemption provided for in that provision cannot apply.
+However, it is apparent from paragraph of this judgment that it is not possible to regard the elements of which that service consists as constituting a principal service on the one hand and an ancillary service on the other. Those elements must be placed on the same footing.
+In that regard, it is established case-law that the terms used to specify the exemptions referred to in Article 135(1) of Directive 2006/are to be interpreted strictly, since they constitute exceptions to the general principle that VAT is to be levied on all services supplied for consideration by a taxable person (see, inter alia, Case C-8/Taksatorringen [2003] ECR I-13711, paragraph 36, and DTZ Zadelhoff, paragraph 20).
+Consequently, since that service may be taken into account for VAT purposes only as a whole, it cannot be covered by Article 135(1)(f) of Directive 2006/112.
+That interpretation is borne out by the scheme of Directive 2006/112. As stated by the German and Netherlands Governments, the management of ‘special investment funds’ by special management companies, which is exempt under Article 135(1)(g) of Directive 2006/112, refers to a form of management of securities-based assets. If that form of management of securities-based assets were already covered by the tax exemption in respect of transactions in securities laid down in Article 135(1)(f) of that directive, it would not have been necessary to insert an exemption with regard to it in Article 135(1)(g) of that directive.
+Lastly, it must be stated that that conclusion is not called into question by the principle of fiscal neutrality. As the Advocate General stated at point of her Opinion, that principle cannot extend the scope of an exemption in the absence of clear wording to that effect. That principle is not a rule of primary law which can condition the validity of an exemption, but a principle of interpretation, to be applied concurrently with the principle of strict interpretation of exemptions.
+Having regard to the foregoing, the answer to the first question referred is that Article 135(1)(f) or (g) of Directive 2006/must be interpreted as meaning that portfolio management, such as that at issue in the main proceedings, is not exempt from VAT under that provision.
+The third question
+By its third question, the national court asks whether Article 56(1)(e) of Directive 2006/is to be interpreted as covering only the services referred to in Article 135(1)(a) to (g) of Directive 2006/or also portfolio management, even if that transaction is not subject to the latter provision.
+Article 56(1)(e) of the Directive 2006/provided that, as regards banking, financial and insurance transactions, including reinsurance, with the exception of the hire of safes, the place of supply of those services to customers established outside the Community, or to taxable persons established in the Community but not in the same country as the supplier, was to be the place where the customer had established his business or had a fixed establishment for which the service was supplied, or, in the absence of such a place, the place where he had his permanent address or usually resided.
+According to its wording, that provision sought to establish the place of supply, for VAT purposes, of banking, financial and insurance transactions including reinsurance. In this respect, that provision did not contain any reference to the services listed in Article 135(1)(a) to (g) of Directive 2006/112. By contrast, it provided for a single exception, namely that of the hire of safes.
+Deutsche Bank, the Finanzamt, the Netherlands and United Kingdom Governments and the Commission all take the view that the scope of Article 56(1)(e) of Directive 2006/cannot be limited to that of Article 135(1)(a) to (g) of that directive.
+The German Government, referring to paragraphs and of Case C-242/Swiss Re Germany Holding [2009] ECR I-10099, maintains the opposite. According to that Government, the Court stated, in that judgment, that the sound functioning and uniform interpretation of the common system of VAT require that the concepts of ‘insurance transactions’ and ‘reinsurance’ in the provisions of Sixth Directive 77/which correspond to Articles 56(1)(e) and 135(1)(a) of Directive 2006/are not defined differently depending on whether they are used in one of those provisions or the other. That reasoning should apply by analogy to ‘financial transactions’.
+However, as the Advocate General stated at point of her Opinion, the reasoning in Swiss Re Germany Holding is linked to the fact that Articles 56(1)(e) and 135(1)(a) of Directive 2006/used essentially identical terms as regards insurance, namely ‘insurance transactions including reinsurance’ and ‘insurance and reinsurance transactions’.
+By contrast, there is no such link between ‘banking’ and ‘financial’ transactions in Article 56(1)(e) of that directive and any of the transactions listed in Article 135(1)(b) to (g) thereof. None of the latter provisions used the words ‘banking’ or ‘financial’ at all. The transactions listed were of a financial nature and many of them were likely to be carried out by banks, but not exclusively so, and they were far from being an exhaustive enumeration of all the transactions which can be carried out by a bank or which can be described as ‘financial’.
+Inasmuch as the portfolio management carried out by Deutsche Bank in the main proceedings is a service of a financial nature and Article 56(1)(e) of Directive 2006/is not to be interpreted narrowly (see, to that effect, Case C-327/Dudda [1996] ECR I-4595, paragraph 21, and Levob Verzekeringen and OV Bank, paragraph and the case-law cited), that activity must be regarded, as a financial transaction, as falling within the scope of Article 56(1)(e) of Directive 2006/112.
+Having regard to the foregoing, the answer to the third question referred is that Article 56(1)(e) of Directive 2006/must be interpreted as covering not only the services referred to in Article 135(1)(a) to (g) of Directive 2006/112, but also portfolio management services.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+1.
+A securities-based assets management service, such as that at issue in the main proceedings, namely where a taxable person for remuneration and on the basis of his own discretion takes decisions on the purchase and sale of securities and implements those decisions by buying and selling the securities, consists of two elements which are so closely linked that they form, objectively, a single economic supply.
+ 
+2.
+Article 135(1)(f) or (g) of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that securities-based asset management, such as that at issue in the main proceedings, is not exempt from value added tax under that provision.
+ 
+3.
+Article 56(1)(e) of Directive 2006/must be interpreted as covering not only the services referred to in Article 135(1)(a) to (g) of Directive 2006/112, but also securities-based assets management services.
+ 
+[Signatures]
+(
+*)   Language of the case: German.
+Top  
+ 

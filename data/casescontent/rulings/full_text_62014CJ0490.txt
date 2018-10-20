@@ -1,0 +1,108 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+October (
+*
+)
+‛Reference for a preliminary ruling — Legal protection of databases — Directive 96/9/EC — Article 1(2) — Scope — Databases — Topographic maps — Independence of materials constituting a database — Possibility of separating those materials without affecting the value of their informative content — Account taken of the purpose of a topographic map for the user’
+In Case C‑490/14,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Federal Court of Justice, Germany), made by decision of September 2014, received at the Court on November 2014, in the proceedings
+Freistaat Bayern
+v
+Verlag Esterbauer GmbH,
+THE COURT (Second Chamber),
+composed of R. Silva de Lapuerta, President of the First Chamber, acting as President of the Second Chamber, K. Lenaerts (Rapporteur), President of the Court, J.L. da Cruz Vilaça, C. Lycourgos and J.-C. Bonichot, Judges,
+Advocate General: Y. Bot,
+Registrar: V. Tourrès, Administrator,
+having regard to the written procedure and further to the hearing on September 2015,
+after considering the observations submitted on behalf of:
+—
+the Freistaat Bayern, by U. Karpenstein and M. Kottmann, Rechtsanwälte,
+—
+Verlag Esterbauer GmbH, by P. Hertin, Rechtsanwalt,
+—
+the German Government, by T. Henze and by J. Kemper and D. Kuon, acting as Agents,
+—
+the Belgian Government, by J.-C. Halleux and by L. van den Broeck and C. Pochet, acting as Agents,
+—
+the Spanish Government, by A. Gavela Llopis, acting as Agent,
+—
+the French Government, by D. Segoin, acting as Agent,
+—
+the Italian Government, by G. Palmieri, acting as Agent, assisted by S. Fiorentino, avvocato dello Stato,
+—
+the Austrian Government, by G. Eberhard, acting as Agent,
+—
+the Polish Government, by B. Majczyna, acting as Agent,
+—
+the Portuguese Government, by L. Inez Fernandes and L. da Conceição Esmeriz, acting as Agents,
+—
+the United Kingdom Government, by J. Kraehling, acting as Agent, and by N. Saunders, Barrister,
+—
+the European Commission, by T. Scharf and J. Samnadda, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling relates to the interpretation of Article 1(2) of Directive 96/9/EC of the European Parliament and of the Council of March on the legal protection of databases (OJ L 77, p. 20).
+The request has been made in the context of proceedings between the Freistaat Bayern (Land of Bavaria) and the Verlag Esterbauer GmbH (‘Verlag Esterbauer’), an Austrian publishing company specialising in tour map books, concerning an application for a cease-and-desist order under the German Law on copyright and related rights (Gesetz über Urheberrecht und verwandte Schutzrechte) (‘the UrhG’).
+Legal context
+European Union law
+Recitals 9, 10, 12, and in the preamble to Directive 96/state:
+‘(9)
+Whereas databases are a vital tool in the development of an information market within the Community; whereas this tool will also be of use in many other fields;
+(10)
+Whereas the exponential growth, in the Community and worldwide, in the amount of information generated and processed annually in all sectors of commerce and industry calls for investment in all the Member States in advanced information processing systems;
+…
+(12)
+Whereas such an investment in modern information storage and processing systems will not take place within the Community unless a stable and uniform legal protection regime is introduced for the protection of the rights of makers of databases;
+…
+(14)
+Whereas protection under this Directive should be extended to cover non-electronic databases;
+…
+(17)
+Whereas the term “database” should be understood to include literary, artistic, musical or other collections of works or collections of other material such as texts, sound, images, numbers, facts, and data; whereas it should cover collections of independent works, data or other materials which are systematically or methodically arranged and can be individually accessed; …’.
+Article of Directive 96/9, entitled ‘Scope’, provides:
+‘1.   This Directive concerns the legal protection of databases in any form.
+2.   For the purposes of this Directive, “database” shall mean a collection of independent works, data or other materials arranged in a systematic or methodical way and individually accessible by electronic or other means.
+…’
+German law
+The first sentence of subparagraph of Paragraph 87a(1) of the UrhG, entitled ‘Definitions’, implements in German law Article 1(2) of Directive 96/9.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+The Land of Bavaria, publishes topographic maps covering the entire Federal state of Bavaria on a scale of 1:through the Regional Office for Surveying and Geographic Information (Landesamt für Vermessung und Geoinformation). Verlag Esterbauer is an Austrian publisher which publishes, amongst other things, atlases, tour books and maps for cyclists, mountain bikers and inline skaters.
+The Land of Bavaria considers that Verlag Esterbauer made unlawful use of its topographic maps and appropriated the underlying data in order to produce the material for its maps. It brought proceedings before the Landgericht München (Regional Court, Munich), seeking to have Verlag Esterbauer ordered to discontinue those practices and ordered to pay it damages. The first-instance court upheld the application in all respects.
+Verlag Esterbauer appealed against that judgment before the Oberlandesgericht München (Higher Regional Court, Munich), which set aside in part the judgment of the Landgericht München. The Oberlandesgericht granted leave for ‘revision’ (appeal on a point of law) before the Bundesgerichtshof (Federal Court of Justice) only in so far as it dismissed the Land of Bavaria’s claims based on protection of databases pursuant to Paragraph 87a et seq. of the UrhG.
+The Bundesgerichtshof (Federal Court of Justice) has doubts in that context as to the scope of Directive 96/and as to whether the topographic maps produced by the Land of Bavaria come within the definition of ‘database’ within the meaning of Article 1(2) of that directive. More specifically, the referring court has questions as to whether the data describing the nature of specific points of the earth’s surface constitute ‘independent materials’ within the meaning of that provision.
+It was in those circumstances that the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘In relation to the question whether a collection of independent materials exists within the meaning of Article 1(2) of Directive 96/because the materials can be separated from one another without the value of their informative content being affected, is every conceivable informative value decisive or only the value which is to be determined on the basis of the purpose of the collection and having regard to the resulting typical conduct of users?’
+The question referred for a preliminary ruling
+By its question, the referring court asks, in essence, whether Article 1(2) of Directive 96/must be interpreted as meaning that geographical data extracted from a topographic map in order that a third party may produce and market another map retain, after extraction, sufficient informative value to be held to be ‘independent materials’ of a ‘database’ within the meaning of that provision.
+It must be borne in mind in that regard that the Court has held that it is in keeping with the objective pursued by the EU legislature to give the term ‘database’ as defined in Directive 96/a wide scope, unencumbered by considerations of a formal, technical or material nature (see judgments in Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraph 20, and Ryanair, C‑30/14, EU:C:2015:10, paragraph 33).
+Article 1(1) of that directive states that it concerns the legal protection of databases ‘in any form’.
+Recital in the preamble to Directive 96/states in that regard that the concept of database must be understood as applying to ‘literary, artistic, musical or other collections of works or collections of other material such as texts, sound, images, numbers, facts, and data’ (see judgment in Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraph 23). It is, moreover, apparent from recital in the preamble thereto that the protection granted thereunder relates both to electronic and non-electronic databases.
+The analog nature of the topographic maps at issue in the main proceedings, which required them to be scanned using a scanner so that they could be utilised individually using a graphics programme does not preclude them from being recognised as a ‘database’ within the meaning of that directive.
+The Court has also held that, in that context of broad interpretation, the concept of ‘database’ within the meaning of Directive 96/is specifically defined in terms of its function (see judgment in Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraph 27). As evidenced by recitals 9, and in the preamble thereto, the legal protection introduced thereby is aimed at stimulating investment in data storage and processing systems in order to contribute to the development of an information market against a background of exponential growth in the amount of information generated and processed annually in all sectors of activity (see judgments in Fixtures Marketing, C‑46/02, EU:C:2004:694, paragraph 33; The British Horseracing Board and Others, C‑203/02, EU:C:2004:695, paragraph 30; Fixtures Marketing, C‑338/02, EU:C:2004:696, paragraph 23; and Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraph 39).
+Thus, classification as a ‘database’ within the meaning of Article 1(2) of Directive 96/is dependent, first of all, on the existence of a collection of ‘independent materials’, that is to say, materials which are separable from one another without their informative, literary, artistic, musical or other value being affected (see judgment in Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraph 29).
+Verlag Esterbauer and the European Commission observe with respect to analog topographic maps that the separable material to be taken into consideration is made up of two pieces of information corresponding to, on the one hand, the ‘geographical coordinates point’, that is to say, the numbered code corresponding to a certain coordinates point of the two-dimensional grid network and, on the other, the ‘signature’, that is to say, the numbered code used by the map producer to designate a unique feature, such as a church. They observe that the informative value of that information is reduced to almost zero once they have been extracted from the topographic map since, in the example given, the signature ‘church’ indicated at a certain geographical coordinates point, in the absence of more specific information about the location of the church, does not show whether the church is situated in a certain town or village.
+It should be noted in that regard that topographic maps, such as the one at issue in the main proceedings, serve as basic products which are then used to make sub-products through selective extraction of material from those maps. In the case which is the subject of the main proceedings, Verlag Esterbauer used scanning techniques to extract geographical information about tracks appropriate for cyclists, mountain bikers and inline skaters from the Land of Bavaria’s topographic maps.
+It is settled case-law, first of all, that not only an individual piece of information, but also a combination of pieces of information can constitute ‘independent material’ within the meaning of Article 1(2) of Directive 96/(see judgments in Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraph 35, and also Football Dataco and Others, C‑604/10, EU:C:2012:115, paragraph 26).
+Article 1(2) of Directive 96/does not therefore preclude the two pieces of information referred to in paragraph of this judgment or a greater combination of information, such as the geographical information about tracks appropriate for cyclists, mountain bikers and inline skaters, from being held to be ‘independent material’ within the meaning of that provision, provided however that the extraction of that information from the topographic map concerned does not affect the value of their informative content as indicated in the case-law referred to in paragraph of this judgment.
+Secondly, the Court has held that the informative value of material from a collection is not affected within the meaning of that case-law if it has autonomous informative value after being extracted from the collection concerned (see judgments in Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraph 33, and Football Dataco and Others, C‑604/10, EU:C:2012:115, paragraph 26).
+It should be observed that the creation of a database, the legal protection of which Directive 96/aims to enhance, as evidenced by paragraph of this judgment, is liable to add to the value of the materials which make up that database by arranging them in a systematic or methodical way and making them individually accessible. Whilst the value of material from a collection will tend to increase by being arranged in it, its being extracted from that collection will tend to result in a corresponding decline in value but will not affect its classification as an ‘independent material’ within the meaning of Article 1(2) of Directive 96/9, provided that that material retains autonomous informative value.
+It follows that a decline in the informative value of material linked to its being extracted from the collection of which it forms a part does not necessarily rule out the possibility that that material may come within the definition of ‘independent materials’ within the meaning of Article 1(2) of Directive 96/9, provided that that material retains autonomous informative value.
+As to the referring court’s question concerning the assessment of the autonomous value of the materials making up topographic maps, such as those at issue in the main proceedings, in particular the question whether that value must be assessed in the light of the purpose of such maps or the use that would be made of them by a typical user, it must be remembered that topographic maps can be used for a wide variety of purposes, including planning travel between two points, preparing a bicycle trip, searching for the name and location of a road, town, river, lake or mountain, the width of watercourses or the height of relief on the landscape.
+In addition to the difficulties involved in determining a principal intended use or typical user of a collection such as a topographic map, the application of such a criterion for the assessment of the autonomous informative value of the materials making up a collection would run counter to the intention of the EU legislature to give broad scope to the definition of the term ‘database’.
+It is thus apparent from the Court’s case-law, including the judgment in Fixtures Marketing (C‑444/02, EU:C:2004:697), that the autonomous informative value of material which has been extracted from a collection must be assessed in the light of the value of the information not for a typical user of the collection concerned, but for each third party interested by the extracted material. In that judgment, the Court held that information relating to a football match, which had been taken by a company involved in organising betting games from a compilation that had been created by the organisers of a football league and which contained information relating to all of the fixtures in that football league, had an independent value in that it provided interested third parties — those being the betting company’s customers — with relevant information (see judgment in Fixtures Marketing, C‑444/02, EU:C:2004:697, paragraph 34).
+Therefore, information from a collection which is utilised for financial gain and in an autonomous manner, such as the information extracted by Verlag Esterbauer from the Land of Bavaria’s topographic maps, constitutes ‘independent materials’ from a ‘database’ within the meaning of Article 1(2) of Directive 96/since, once extracted, that information provides the customers of the company using that information with relevant information.
+In those circumstances, the answer to the question referred is that Article 1(2) of Directive 96/must be interpreted as meaning that geographical information extracted from a topographic map by a third party so that that information may be used to produce and market another map retains, following its extraction, sufficient informative value to be classified as ‘independent materials’ of a ‘database’ within the meaning of that provision.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article 1(2) of Directive 96/9/EC of the European Parliament and of the Council of March on the legal protection of databases must be interpreted as meaning that geographical information extracted from a topographic map by a third party so that that information may be used to produce and market another map retains, following its extraction, sufficient informative value to be classified as ‘independent materials’ of a ‘database’ within the meaning of that provision.
+ 
+[Signatures]
+(
+*
+)   Language of the case: German.
+Top  
+ 

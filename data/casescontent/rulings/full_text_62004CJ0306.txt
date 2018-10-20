@@ -1,0 +1,289 @@
+
+Case C-306/Compaq Computer International Corporation
+v
+Inspecteur der Belastingdienst – Douanedistrict Arnhem
+(Reference for a preliminary ruling from the Gerechtshof te Amsterdam)
+(Customs value – Laptop computers equipped with operating systems software)
+Summary of the Judgment
+Common Customs Tariff – Value for customs purposes – Transaction value – Determination 
+(Council Regulation No 2913/92, Art. 32(1))
+In order to determine the customs value of imports of computers equipped by the seller with software for one or more operating
+         systems made available by the buyer to the seller free of charge, in accordance with Article 32(1)(b) or (c) of Regulation
+         No 2913/establishing the Community Customs Code, the value of the software must be added to the transaction value of the
+         computers if the value of the software has not been included in the price actually paid or payable for those computers.
+      
+The same is true when the national authorities accept as the transaction value, in accordance with Community law, the price
+         of a sale other than that made by the Community purchaser. In such cases, ‘buyer’ for the purposes of that article must be
+         understood to mean the buyer who concluded that other sale.
+      
+(see paras 37-38, operative part)
+  
+  
+JUDGMENT OF THE COURT (First Chamber)
+November (*)
+      
+(Customs value – Laptop computers equipped with operating systems software)
+In Case C-306/04,
+REFERENCE for a preliminary ruling under Article EC from the Gerechtshof te Amsterdam (Netherlands), made by decision
+         of July 2004, received at the Court on July 2004, in the proceedings
+      
+Compaq Computer International Corporation
+v
+Inspecteur der Belastingdienst – Douanedistrict Arnhem,
+THE COURT (First Chamber),
+composed of P. Jann, President of the Chamber, E. Juhász, K. Schiemann, M. Ilešič and E. Levits (Rapporteur), Judges,
+Advocate General: C. Stix-Hackl,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on September 2005,
+after considering the observations submitted on behalf of:
+–        Compaq Computer International Corporation, by R. Tusveld and G. van Slooten, belastingadviseurs,
+–        the Netherlands Government, by H.G. Sevenster and D.J.M. de Grave, acting as Agents,
+–        the German Government, by C.‑D. Quassowski, acting as Agent,
+–        the Spanish Government, by M. Muñoz Pérez, acting as Agent,
+–        the United Kingdom Government, by M. Bethell, acting as Agent, and P. Harris, Barrister,
+–        the Commission of the European Communities, by X. Lewis, acting as Agent, and F. Tuytschaever, advocaat,
+after hearing the Opinion of the Advocate General at the sitting on January 2006,
+gives the following
+Judgment
+The reference for a preliminary ruling from the Gerechtshof te Amsterdam, douanekamer (Amsterdam Regional Court of Appeal,
+         Customs Chamber), concerns the interpretation of Article 32(1)(b) of Council Regulation (EEC) No 2913/of October establishing the Community Customs Code (OJ L 302, p. 1, hereinafter ‘the Customs Code’). 
+      
+This reference was made in the course of proceedings between Compaq Computer International Corporation (hereinafter ‘CCIC’)
+         and the Inspecteur van de belastingdienst – Doaunedistrict Arnhem (Head of the Arnhem Customs district, hereinafter ‘the customs
+         authorities’) concerning the customs value of laptop computers put into free circulation in the European Community between
+         January and December 1997.
+      
+ Legal context
+Article 29(1) of the Customs Code states:
+      
+‘The customs value of imported goods shall be the transaction value, that is, the price actually paid or payable for the goods
+         when sold for export to the customs territory of the Community, adjusted, where necessary, in accordance with Articles and 33, provided:
+      
+…
+(d)      that the buyer and seller are not related, or, where the buyer and seller are related, that the transaction value is acceptable
+         for customs purposes under paragraph 2.’
+      
+Under paragraph of that article, the transaction value between related undertakings can be accepted provided that the relationship
+         between the undertakings concerned did not influence the price, that is to say that that value is very close to the market
+         value of identical or similar goods at or around the same time.
+      
+Article 32(1) of the Customs Code states:
+      
+‘In determining the customs value under Article 29, there shall be added to the price actually paid or payable for the imported
+         goods:
+      
+…
+(b)      the value, apportioned as appropriate, of the following goods and services where supplied directly or indirectly by the buyer
+         free of charge or at reduced cost for use in connection with the production and sale for export of the imported goods, to
+         the extent that such value has not been included in the price actually paid or payable:
+      
+(i)      materials, components, parts and similar items incorporated in the imported goods,
+(ii)      tools, dies, moulds and similar items used in the production of the imported goods,
+(iii) materials consumed in the production of the imported goods,
+(iv)      engineering, development, artwork, design work, and plans and sketches undertaken elsewhere than in the Community and necessary
+         for the production of the imported goods;
+      
+(c)      royalties and licence fees related to the goods being valued that the buyer must pay, either directly or indirectly, as a
+         condition of sale of the goods being valued, to the extent that such royalties and fees are not included in the price actually
+         paid or payable;
+      
+…’
+Article 32(3) of the Customs Code states that ‘[n]o additions shall be made to the price actually paid or payable in determining
+         the customs value except as provided in this article.’
+      
+Article of the Customs Code provides: 
+      
+‘Specific rules may be laid down in accordance with the procedure of the [Customs Code] committee to determine the customs
+         value of carrier media for use in data processing equipment and bearing data or instructions.’ 
+      
+Article of Commission Regulation (EEC) No 2454/of July laying down provisions for the implementation of Council
+         Regulation (EEC) No 2913/(OJ L 253, p. 1) as amended by Commission Regulation (EC) No 1762/of July (OJ
+         L 171, p. 8, hereinafter ‘the implementing regulation’), states:
+      
+‘1. For the purposes of Article of the [Customs] Code, the fact that the goods which are the subject of a sale are declared
+         for free circulation shall be regarded as adequate indication that they were sold for export to the customs territory of the
+         Community. In the case of successive sales before valuation, only the last sale, which led to the introduction of the goods
+         into the customs territory of the Community, or a sale taking place in the customs territory of the Community before entry
+         for free circulation of the goods shall constitute such indication.
+      
+Where a price is declared which relates to a sale taking place before the last sale on the basis of which the goods were introduced
+         into the customs territory of the Community, it must be demonstrated to the satisfaction of the customs authorities that this
+         sale of goods took place for export to the customs territory in question.
+      
+The provisions of Articles to 181a shall apply. 
+…
+3. The buyer need satisfy no condition other than that of being a party to the contract of sale.’
+Article of the implementing regulation specifies:
+      
+‘1. Notwithstanding Articles to of the [Customs] Code, in determining the customs value of imported carrier media bearing
+         data or instructions for use in data processing equipment, only the cost or value of the carrier medium itself shall be taken
+         into account. The customs value of imported carrier media bearing data or instructions shall not, therefore, include the cost
+         or value of the data or instructions, provided that such cost or value is distinguished from the cost or value of the carrier
+         medium in question.
+      
+2. For the purposes of this article: 
+(a)      the expression “carrier medium” shall not be taken to include integrated circuits, semiconductors and similar devices or articles
+         incorporating such circuits or devices;
+      
+… ’
+Articles to 181a specify, inter alia, the particulars and documents to be provided to the customs authorities for the
+         checking of the declared customs value.
+      
+ Facts of the main proceedings and the question referred for a preliminary ruling
+CCIC, a company established under Netherlands law, is a subsidiary of Compaq Computer Company (‘CCC’), a company established
+         in the United States, sells Compaq data processing equipment in Europe and has, to that end, a distribution centre in the
+         Netherlands.
+      
+Under a contract between CCC and Microsoft Corporation (hereinafter ‘Microsoft’), Compaq computers may be equipped with software
+         consisting of the MS-Dos and MS Windows operating systems (‘the operating systems’) and sold with those systems, in return
+         for a payment of USD to Microsoft for every computer equipped with those operating systems.
+      
+CCC bought laptop computers from two Taiwanese computer manufacturers. As part of this sale, it was agreed that the operating
+         systems would already be installed on the hard drives of the computers when they were delivered. To that end, CCC made these
+         operating systems available free of charge to the manufacturers, who then installed them on those computers.
+      
+CCC then sold on to CCIC the laptop computers, which were dispatched free on board from Taiwan to the Netherlands. Upon their
+         arrival, CCIC declared the computers for free circulation. When their customs value was being determined, in accordance with
+         Article of the Customs Code, the selling price between the Taiwanese manufacturers and CCC, which did not include the value
+         of the operating systems, was used. 
+      
+In the Landelijk Waardeteam van de Douane (customs authorities’ National Valuation Team) conducted an investigation into
+         CCIC to establish the accuracy of the declared customs value of the computers in question. The Team took the view that the
+         value of the operating systems installed on these computers should be included in the customs value. Following that investigation,
+         the customs authorities, on the basis of Article 32(1)(b) of the Customs Code, marked up the customs value of every computer
+         by the value of the operating systems installed on those computers and sent two demands for payment to CCIC for the amounts
+         of NLG 605.and NLG respectively, the latter amount having subsequently been reduced to NLG 168.60, as
+         additional customs duties on the imports of laptop computers declared for free circulation for the period from January to December 1997. 
+      
+CCIC brought actions before the Gerechtshof te Amsterdam against the customs authorities’ decisions to dismiss the objections
+         lodged against those demands for payment. During those proceedings, the question was put to the Gerechtshof te Amsterdam whether,
+         for the purposes of determining customs value, the customs authorities were justified in marking up the transaction value
+         of the laptop computers by the value of the operating systems installed on those computers on the basis of Article 32(1)(b)
+         of the Customs Code. 
+      
+After having found that the conditions for the application of that provision were satisfied in the main proceedings, the referring
+         court takes the view that operating systems, such as those at issue in the proceedings before it, are not, however, covered
+         stricto sensu by paragraphs (i) to (iii) of that provision. However, because of the way in which they are presented, and in particular
+         because of the fact that they are incorporated into the imported laptop computers, the referring court is in doubt as to whether
+         the value of those systems should be taken into account when determining the customs value of the computers, given the rationale
+         of Article 32(1)(b) of the Customs Code.
+      
+In that context the Gerechtshof te Amsterdam decided to stay the proceedings and to refer the following question to the Court
+         of Justice for a preliminary ruling:
+      
+‘Where computers equipped with operating systems by the seller are imported, must the value of the software made available
+         to the seller by the buyer free of charge be added to the transaction value of the computers pursuant to Article 32(1)(b)
+         of the Community Customs Code where the value of the software is not included in the transaction value?’
+      
+ The question referred for a preliminary ruling
+At the outset, it should be recalled that, in the words of Article 29(1) of the Customs Code, the customs value of imported
+         goods is to be the transaction value, that is, the price actually paid or payable for the goods when sold for export to the
+         customs territory of the Community, adjusted, where necessary, in accordance with the relevant provisions of the Customs Code.
+         
+      
+As is clear from the findings of the national court, the computers at issue in the main proceedings were the subject of two
+         successive transactions: the first between the Taiwanese manufacturers and CCC, and the second between CCC and CCIC. 
+      
+It is apparent from the order for reference that, during the customs procedure, CCIC declared the transaction value of the
+         first sale, in which CCC is the purchaser and the Taiwanese manufacturers are the sellers, as the customs value of the computers.
+         
+      
+It is not disputed that the customs authorities accepted the transaction value of the contract between the Taiwanese manufacturers
+         and CCC as a basis for determination of the customs value in accordance with Article of the Customs Code, and that this
+         decision was not questioned before the national court. In those circumstances, and as is clear from the question referred,
+         the only question on which the Court is asked to rule is whether this transaction value must be adjusted under the provisions
+         of Article 32(1)(b) of the Customs Code.
+      
+Whereas all the Governments which submitted observations to the Court argue that this adjustment is necessary for a variety
+         of reasons, the Commission of the European Communities, maintaining that the transaction between CCIC and CCC is decisive,
+         submits that Article 32(1)(b) of the Customs Code does not apply and that the adjustment provided for therein should not be
+         made. CCIC draws the same conclusion, but for different reasons: it maintains that the operating systems at issue do not fall
+         within any of the categories of Article 32(1)(b) of the Customs Code. It maintains that that provision covers only tangible
+         assets. The operating systems fall within the scope of the provisions relating to the customs value of carrier media, that
+         is to say of Article of the Customs Code and Article of the implementing regulation.  
+      
+CCIC’s arguments and the Commission’s claims precluding the application of Article 32(1)(b) of the Customs Code cannot be
+         accepted. 
+      
+First, it is apparent from Article 167(2)(a) of the regulation implementing Article of the Customs Code that goods consisting
+         of integrated circuits, semiconductors and similar devices are excluded from the scope of Article 167.
+      
+It follows from the national court’s findings that Article of the Customs Code and Article 167(1) of the implementing regulation
+         do not apply in the main proceedings. According to those findings, the operating systems, which are software, were installed
+         on the hard drives of the imported computers, which are constituent elements of those computers and do not constitute, by
+         themselves, the imported products. Such computers cannot be treated as mere carrier media for transporting that software since
+         the principal function of those computers is the processing of data and they contain devices which, under Article 167(2)(a)
+         of the implementing regulation, cannot be classified as carrier media. 
+      
+Following this, it is necessary to point out that, in accordance with paragraph above, in order to answer the referring
+         court’s question, the determination of the transaction value does not form part of the Court’s considerations. 
+      
+According to the wording of Article 29(1) of the Customs Code, the transaction value is a value which is ‘adjusted, where
+         necessary, in accordance with Articles and …’. ‘Transaction value’, therefore, must be interpreted as meaning a value
+         which is adjusted once the conditions for an adjustment are met. Consequently, if the judicial and administrative authorities
+         of a Member State have accepted as the transaction value the price which was fixed on the occasion of a sale prior to the
+         one immediately before the determination of the customs value, that is the transaction value on which any adjustment must
+         be made.
+      
+When, in order to determine the customs value, a sale price is substituted for that which applied in the contract concluded
+         by the Community purchaser, the logic of the provisions at issue requires that not only that price, but also the whole contractual
+         relationship be taken into consideration. That means that, in this context, for the purposes of the application of Article
+         32(1)(b) of the Customs Code, ‘buyer’ must be interpreted as meaning the company that concluded the contract of which the
+         sale price constitutes the transaction value. 
+      
+In respect of the determination of the customs value in the main case, according to the case-law the Community legislation
+         on customs valuation seeks to introduce a fair, uniform and neutral system excluding the use of arbitrary or fictitious customs
+         values (Case C‑11/Unifert [1990] ECR I‑2275, paragraph 35, and Case C‑15/Sommer [2000] ECR I‑8989, paragraph 25). The customs value must thus reflect the real economic value of an imported good and, therefore,
+         take into account all of the elements of that good that have economic value. 
+      
+Furthermore, the Court has held that software is intangible property, the cost of acquiring which, when such property is incorporated
+         in an item of goods, must be regarded as an integral part of the price paid or payable for the goods, and hence of the transaction
+         value (see to that effect Case C‑79/Brown Boveri [1991] ECR I‑1853, paragraph 21). 
+      
+The operating systems at issue in the main proceedings are software that was made available to the Taiwanese manufacturers
+         free of charge by CCC, in order for it to be installed on the hard drives of the computers at the time of their manufacture.
+         Furthermore, it is accepted that that software has a unitary economic value of USD which was not included either in the
+         value of the transaction between the Taiwanese manufacturers and CCC or in that of the transaction between CCC and CCIC.
+      
+It must therefore be held that, in such circumstances, the adjustment of the transaction value must be made.
+      
+The Spanish and United Kingdom Governments claim that the software containing the operating systems, as ‘materials, components,
+         parts and similar items’, falls under Article 32(1)(b)(i) of the Customs Code, whereas the Netherlands and German Governments
+         are of the opinion that it should fall under subheading (iv) of that provision, as ‘engineering’. However, the United Kingdom
+         Government stated at the hearing that it might also be satisfied with the latter classification.
+      
+Such a classification has not been requested by the referring court, and is not necessary in order to determine the case in
+         the main proceedings.
+      
+On the other hand, it should be noted that, depending on the classification of the contract between CCC and Microsoft, which
+         is a matter for the national court, the application of Article 32(1)(c) of the Customs Code might be relevant.
+      
+Having regard to the foregoing, the answer to the question referred must be that in order to determine the customs value of
+         imports of computers equipped by the seller with software for one or more operating systems made available by the buyer to
+         the seller free of charge, in accordance with Article 32(1)(b) or (c) of the Customs Code, the value of the software must
+         be added to the transaction value of the computers if the value of the software has not been included in the price actually
+         paid or payable for those computers. 
+      
+The same is true when the national authorities accept as the transaction value, in accordance with Community law, the price
+         of a sale other than that made by the Community purchaser. In such cases, ‘buyer’ for the purposes of Article 32(1)(b) or
+         (c) of the Customs Code must be understood to mean the buyer who concluded that other sale.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+In order to determine the customs value of imports of computers equipped by the seller with software for one or more operating
+            systems made available by the buyer to the seller free of charge, in accordance with Article 32(1)(b) or (c) of Council Regulation
+            (EEC) No 2913/of October establishing the Community Customs Code, the value of the software must be added to the
+            transaction value of the computers if the value of the software has not been included in the price actually paid or payable
+            for those computers.
+ The same is true when the national authorities accept as the transaction value, in accordance with Community law, the price
+            of a sale other than that made by the Community purchaser. In such cases, ‘buyer’ for the purposes of Article 32(1)(b) or
+            (c) of the Customs Code must be understood to mean the buyer who concluded that other sale.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 
