@@ -1,7 +1,9 @@
-# EU Judgements Analysis
+# European Case Law Analysis
 
-Applied Legal Analytics on European Union Cases
+Applied Legal Analytics on European Union Cases from [EUR-LEX](https://eur-lex.europa.eu/homepage.html)
 
-Disclaimer: All of the data are either totally public or made up, not for any commercial purpose.
+![](research/countries.png)
+![](research/timeline.png)
+![](research/judges.png)
 
-![](research/EUR-LEX-cases.png)
+Disclaimer: All of the data are either totally public, not for any commercial purpose.
