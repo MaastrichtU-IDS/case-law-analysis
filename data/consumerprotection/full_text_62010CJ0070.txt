@@ -1,0 +1,471 @@
+
+Case C-70/Scarlet Extended SA
+v
+Société belge des auteurs, compositeurs et éditeurs SCRL (SABAM)
+(Request for a preliminary ruling from the cour d’appel de Bruxelles)
+(Information society – Copyright – Internet – ‘Peer-to-peer’ software – Internet service providers – Installation of a system for filtering electronic communications in order to prevent file sharing which infringes copyright
+         – No general obligation to monitor information transmitted)
+      
+Summary of the Judgment
+Approximation of laws – Information society – Copyright and related rights – Protection of personal data in the electronic
+            communications sector – Injunction ordering an internet service provider to install a system for filtering all electronic
+            communications, indiscriminately applicable to all its customers as a preventive measure, exclusively at its expense, and
+            for an unlimited period, to prevent intellectual property infringements – Unlawful
+(Charter of Fundamental Rights of the European Union, Arts and 11; European Parliament and Council Directives 95/46, 2000/31,
+            Art. 15(1), 2001/29, 2002/and 2004/48, Art. 3(1))
+Directives 2000/31, on certain legal aspects of information society services, in particular electronic commerce, in the Internal
+         Market, 2001/29, on the harmonisation of certain aspects of copyright and related rights in the information society, 2004/on the enforcement of intellectual property rights, 95/46, on the protection of individuals with regard to the processing
+         of personal data and on the free movement of such data, and 2002/58, concerning the processing of personal data and the protection
+         of privacy in the electronic communications sector, read together and construed in the light of the requirements stemming
+         from the protection of the applicable fundamental rights, must be interpreted as precluding an injunction addressed to an
+         internet service provider ordering it to introduce a system for filtering 
+      
+– all electronic communications passing via its services, in particular those involving the use of ‘peer-to-peer’ software;
+– which applies indiscriminately to all its customers;
+– as a preventative measure;
+– exclusively at its expense; and
+– for an unlimited period,
+capable of identifying on that provider’s network the movement of electronic files containing a musical, cinematographic or
+         audio-visual work in respect of which the applicant claims to hold intellectual property rights, with a view to blocking the
+         transfer of files the sharing of which infringes copyright.
+      
+Such an injunction addressed to that internet service provider would oblige it actively to monitor all the data relating to
+         each of its customers in order to prevent any future infringement of intellectual-property right, thus requiring general monitoring
+         prohibited by Article 15(1) of Directive 2000/31. It would, moreover, result in a serious infringement of the freedom of the
+         internet service provider concerned to conduct its business since it would require that provider to install a complicated,
+         costly, permanent computer system at its own expense, which would also be contrary to the conditions laid down in Article
+         3(1) of Directive 2004/48, which requires measures to ensure the respect of intellectual-property rights not to be unnecessarily
+         complicated or costly. Therefore such an injunction would not meet the requirement that a fair balance be struck between,
+         on the one hand, the protection of the intellectual-property right enjoyed by copyright holders, and, on the other hand, that
+         of the freedom to conduct business enjoyed by operators such as internet service providers. The effects of such an injunction
+         would not be limited, moreover, to those internet service providers, as the filtering system may also infringe the fundamental
+         rights of their customers, namely, their right to protection of their personal data and their freedom to receive or impart
+         information, those rights being safeguarded by Articles and of the Charter of Fundamental Rights of the European Union,
+         respectively. First, the injunction would involve a systematic analysis of all content and the collection and identification
+         of users’ IP addresses from which unlawful content on the network is sent. Those addresses are protected personal data, for
+         they allow those users to be precisely identified. Second, the injunction would be likely to prejudice freedom of information
+         since that system would be unlikely to distinguish adequately between unlawful content and lawful content, with the result
+         that its introduction could lead to the blocking of lawful communications.
+      
+(see paras 40, 48-52, operative part)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+November (*)
+      
+(Information society – Copyright – Internet – ‘Peer-to-peer’ software – Internet service providers – Installation of a system for filtering electronic communications in order to prevent file sharing which infringes copyright
+         – No general obligation to monitor information transmitted)
+      
+In Case C‑70/10,
+REFERENCE for a preliminary ruling under Article TFEU from the cour d’appel de Bruxelles (Belgium), made by decision of
+         January 2010, received at the Court on February 2010, in the proceedings
+      
+Scarlet Extended SA
+v
+Société belge des auteurs, compositeurs et éditeurs SCRL (SABAM),
+intervening parties:
+Belgian Entertainment Association Video ASBL (BEA Video),
+Belgian Entertainment Association Music ASBL (BEA Music),
+Internet Service Provider Association ASBL (ISPA),
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, J. Malenovský (Rapporteur), R. Silva de Lapuerta, E. Juhász and G. Arestis,
+         Judges,
+      
+Advocate General: P. Cruz Villalón,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on January 2011,
+after considering the observations submitted on behalf of:
+–        Scarlet Extended SA, by T. De Meese and B. Van Asbroeck, avocats,
+–        Société belge des auteurs, compositeurs et éditeurs SCRL (SABAM), Belgian Entertainment Association Video ASBL (BEA Video)
+         and Belgian Entertainment Association Music ASBL (BEA Music), by F. de Visscher, B. Michaux and F. Brison, avocats,
+      
+–        Internet Service Provider Association ASBL (ISPA), by G. Somers, avocat,
+–        the Belgian Government, by T. Materne, J.-C. Halleux and C. Pochet, acting as Agents,
+–        the Czech Government, by M. Smolek and K. Havlíčková, acting as Agents,
+–        the Italian Government, by G. Palmieri, acting as Agent, assisted by S. Fiorentino, avvocato dello Stato,
+–        the Netherlands Government, by C. Wissels and B. Koopman, acting as Agents,
+–        the Polish Government, by M. Szpunar, M. Drwięcki and J. Goliński, acting as Agents,
+–        the Finnish Government, by M. Pere, acting as Agent,
+–        the European Commission, by J. Samnadda and C. Vrignon, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on April 2011,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Directives:
+      
+–        2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of information society services,
+         in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) (OJ L 178, p. 1); 
+      
+–        2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright
+         and related rights in the information society (OJ L 167, p. 10);
+      
+–        2004/48/EC of the European Parliament and of the Council of April on the enforcement of intellectual property rights
+         (OJ L 157, p. 45, and corrigendum OJ L 195, p. 16); 
+      
+–        95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to
+         the processing of personal data and on the free movement of such data (OJ L 281, p. 31); and 
+      
+–        2002/58/EC of the European Parliament and of the Council of July concerning the processing of personal data and the
+         protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, p. 37).
+      
+The reference has been made in proceedings between Scarlet Extended SA (‘Scarlet’) and the Société belge des auteurs, compositeurs
+         et éditeurs SCRL (SABAM) (‘SABAM’) concerning Scarlet’s refusal to install a system for filtering electronic communications
+         which use file-sharing software (‘peer-to-peer’), with a view to preventing file sharing which infringes copyright.
+      
+ Legal context
+ European Union law
+ Directive 2000/Recitals and in the preamble to Directive 2000/state:
+      
+‘(45)      The limitations of the liability of intermediary service providers established in this Directive do not affect the possibility
+         of injunctions of different kinds; such injunctions can in particular consist of orders by courts or administrative authorities
+         requiring the termination or prevention of any infringement, including the removal of illegal information or the disabling
+         of access to it.
+      
+…
+(47)      Member States are prevented from imposing a monitoring obligation on service providers only with respect to obligations of
+         a general nature; this does not concern monitoring obligations in a specific case and, in particular, does not affect orders
+         by national authorities in accordance with national legislation.’ 
+      
+Article of Directive 2000/states:
+      
+‘1.      This Directive seeks to contribute to the proper functioning of the internal market by ensuring the free movement of information
+         society services between the Member States.
+      
+2.      This Directive approximates, to the extent necessary for the achievement of the objective set out in paragraph 1, certain
+         national provisions on information society services relating to the internal market, the establishment of service providers,
+         commercial communications, electronic contracts, the liability of intermediaries, codes of conduct, out-of-court dispute settlements,
+         court actions and cooperation between Member States.
+      
+…’
+Article of that directive, which features in Section 4, entitled ‘Liability of intermediary service providers’, of Chapter
+         II thereof, provides:
+      
+‘1.      Where an information society service is provided that consists of the transmission in a communication network of information
+         provided by a recipient of the service, or the provision of access to a communication network, Member States shall ensure
+         that the service provider is not liable for the information transmitted, on condition that the provider:
+      
+(a)      does not initiate the transmission;
+(b)      does not select the receiver of the transmission; and
+(c)      does not select or modify the information contained in the transmission.
+…
+3.      This Article shall not affect the possibility for a court or administrative authority, in accordance with Member States’ legal
+         systems, of requiring the service provider to terminate or prevent an infringement.’
+      
+Article of Directive 2000/31, which also features in Section of Chapter II, states:
+      
+‘1.      Member States shall not impose a general obligation on providers, when providing the services covered by Articles 12, and
+         14, to monitor the information which they transmit or store, nor a general obligation actively to seek facts or circumstances
+         indicating unlawful activity.
+      
+2.      Member States may establish obligations for information society service providers promptly to inform the competent public
+         authorities of alleged unlawful activities undertaken or information provided by recipients of their service or obligations
+         to communicate to the competent authorities, at their request, information enabling the identification of recipients of their
+         service with whom they have storage agreements.’
+      
+ Directive 2001/Recitals and in the preamble to Directive 2001/state:
+      
+‘(16)      … This Directive should be implemented within a timescale similar to that for the implementation of [Directive 2000/31], since
+         that Directive provides a harmonised framework of principles and provisions relevant, inter alia, to important parts of this
+         Directive. This Directive is without prejudice to provisions relating to liability in that Directive.
+      
+...
+(59)      In the digital environment, in particular, the services of intermediaries may increasingly be used by third parties for infringing
+         activities. In many cases such intermediaries are best placed to bring such infringing activities to an end. Therefore, without
+         prejudice to any other sanctions and remedies available, rightholders should have the possibility of applying for an injunction
+         against an intermediary who carries a third party’s infringement of a protected work or other subject-matter in a network.
+         This possibility should be available even where the acts carried out by the intermediary are exempted under Article 5. The
+         conditions and modalities relating to such injunctions should be left to the national law of the Member States.’ 
+      
+Article of Directive 2001/states:
+      
+‘1.      Member States shall provide appropriate sanctions and remedies in respect of infringements of the rights and obligations set
+         out in this Directive and shall take all the measures necessary to ensure that those sanctions and remedies are applied. The
+         sanctions thus provided for shall be effective, proportionate and dissuasive.
+      
+…
+3.      Member States shall ensure that rightholders are in a position to apply for an injunction against intermediaries whose services
+         are used by a third party to infringe a copyright or related right.’
+      
+ Directive 2004/Recital in the preamble to Directive 2004/provides:
+      
+‘Without prejudice to any other measures, procedures and remedies available, rightholders should have the possibility of applying
+         for an injunction against an intermediary whose services are being used by a third party to infringe the rightholder’s industrial
+         property right. The conditions and procedures relating to such injunctions should be left to the national law of the Member
+         States. As far as infringements of copyright and related rights are concerned, a comprehensive level of harmonisation is already
+         provided for in Directive [2001/29]. Article 8(3) of Directive [2001/29] should therefore not be affected by this Directive.’
+      
+Article 2(3) of Directive 2004/provides as follows:
+      
+‘This Directive shall not affect:
+(a)       the Community provisions governing the substantive law on intellectual property … or Directive [2000/31], in general, and
+         Articles to of Directive [2000/31] in particular;
+      
+…’
+Article of Directive 2004/provides:
+      
+‘1.      Member States shall provide for the measures, procedures and remedies necessary to ensure the enforcement of the intellectual
+         property rights covered by this Directive. Those measures, procedures and remedies shall be fair and equitable and shall not
+         be unnecessarily complicated or costly, or entail unreasonable time-limits or unwarranted delays.
+      
+2.      Those measures, procedures and remedies shall also be effective, proportionate and dissuasive and shall be applied in such
+         a manner as to avoid the creation of barriers to legitimate trade and to provide for safeguards against their abuse.’
+      
+Article of Directive 2004/states:
+      
+‘Member States shall ensure that, where a judicial decision is taken finding an infringement of an intellectual property right,
+         the judicial authorities may issue against the infringer an injunction aimed at prohibiting the continuation of the infringement.
+         Where provided for by national law, non-compliance with an injunction shall, where appropriate, be subject to a recurring
+         penalty payment, with a view to ensuring compliance. Member States shall also ensure that rightholders are in a position to
+         apply for an injunction against intermediaries whose services are used by a third party to infringe an intellectual property
+         right, without prejudice to Article 8(3) of Directive [2001/29].’
+      
+ National law
+Article 87(1), first and second subparagraphs, of the Law of June on copyright and related rights (Moniteur belge of July 1994, p. 19297) states: 
+      
+‘The President of the Tribunal de première instance (Court of First Instance) … shall determine the existence of any infringement
+         of a copyright or related right and shall order that it be brought to an end.
+      
+He may also issue an injunction against intermediaries whose services are used by a third party to infringe a copyright or
+         related right.’ 
+      
+Articles and of the Law of March on certain legal aspects of information society services (Moniteur belge of March 2003, p. 12962) transpose Articles and of Directive 2000/into national law. 
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling 
+SABAM is a management company which represents authors, composers and editors of musical works in authorising the use of their
+         copyright-protected works by third parties. 
+      
+Scarlet is an internet service provider (‘ISP’) which provides its customers with access to the internet without offering
+         other services such as downloading or file sharing.  
+      
+In the course of 2004, SABAM concluded that internet users using Scarlet’s services were downloading works in SABAM’s catalogue
+         from the internet, without authorisation and without paying royalties, by means of peer-to-peer networks, which constitute
+         a transparent method of file sharing which is independent, decentralised and features advanced search and download functions.
+         
+      
+On June 2004, SABAM accordingly brought interlocutory proceedings against Scarlet before the President of the Tribunal
+         de première instance, Brussels, claiming that that company was the best placed, as an ISP, to take measures to bring to an
+         end copyright infringements committed by its customers. 
+      
+SABAM sought, first, a declaration that the copyright in musical works contained in its repertoire had been infringed, in
+         particular the right of reproduction and the right of communication to the public, because of the unauthorised sharing of
+         electronic music files by means of peer-to-peer software, those infringements being committed through the use of Scarlet’s
+         services.
+      
+SABAM also sought an order requiring Scarlet to bring such infringements to an end by blocking, or making it impossible for
+         its customers to send or receive in any way, files containing a musical work using peer-to-peer software without the permission
+         of the rightholders, on pain of a periodic penalty. Lastly, SABAM requested that Scarlet provide it with details of the measures
+         that it would be applying in order to comply with the judgment to be given, on pain of a periodic penalty.
+      
+By judgment of November 2004, the President of the Tribunal de première instance, Brussels, found that copyright had been
+         infringed, as claimed by SABAM, but, prior to ruling on the application for cessation, appointed an expert to investigate
+         whether the technical solutions proposed by SABAM were technically feasible, whether they would make it possible to filter
+         out only unlawful file sharing, and whether there were other ways of monitoring the use of peer-to-peer software, and to determine
+         the cost of the measures envisaged.
+      
+In his report, the appointed expert concluded that, despite numerous technical obstacles, the feasibility of filtering and
+         blocking the unlawful sharing of electronic files could not be entirely ruled out. 
+      
+By judgment of June 2007, the President of the Tribunal de première instance, Brussels, accordingly ordered Scarlet to
+         bring to an end the copyright infringements established in the judgment of November by making it impossible for its
+         customers to send or receive in any way files containing a musical work in SABAM’s repertoire by means of peer-to-peer software,
+         on pain of a periodic penalty. 
+      
+Scarlet appealed against that decision to the referring court, claiming, first, that it was impossible for it to comply with
+         that injunction since the effectiveness and permanence of filtering and blocking systems had not been proved and that the
+         installation of the equipment for so doing was faced with numerous practical obstacles, such as problems with the network
+         capacity and the impact on the network. Moreover, any attempt to block the files concerned was, it argued, doomed to fail
+         in the very short term because there were at that time several peer-to-peer software products which made it impossible for
+         third parties to check their content.
+      
+Scarlet also claimed that that injunction was contrary to Article of the Law of March on certain legal aspects
+         of information society services, which transposes Article of Directive 2000/into national law, because it would impose
+         on Scarlet, de facto, a general obligation to monitor communications on its network, inasmuch as any system for blocking or filtering peer-to-peer
+         traffic would necessarily require general surveillance of all the communications passing through its network.
+      
+Lastly, Scarlet considered that the installation of a filtering system would be in breach of the provisions of European Union
+         law on the protection of personal data and the secrecy of communications, since such filtering involves the processing of
+         IP addresses, which are personal data. 
+      
+In that context, the referring court took the view that, before ascertaining whether a mechanism for filtering and blocking
+         peer-to-peer files existed and could be effective, it had to be satisfied that the obligations liable to be imposed on Scarlet
+         were in accordance with European Union law. 
+      
+In those circumstances, the cour d’appel de Bruxelles decided to stay the proceedings and to refer the following questions
+         to the Court for a preliminary ruling:
+      
+‘(1)      Do Directives 2001/and 2004/48, in conjunction with Directives 95/46, 2000/and 2002/58, construed in particular in the
+         light of Articles and of the European Convention on the Protection of Human Rights and Fundamental Freedoms, permit Member
+         States to authorise a national court, before which substantive proceedings have been brought and on the basis merely of a
+         statutory provision stating that: ‘They [the national courts] may also issue an injunction against intermediaries whose services
+         are used by a third party to infringe a copyright or related right’, to order an [ISP] to install, for all its customers,
+         in abstracto and as a preventive measure, exclusively at the cost of that ISP and for an unlimited period, a system for filtering
+         all electronic communications, both incoming and outgoing, passing via its services, in particular those involving the use
+         of peer-to-peer software, in order to identify on its network the movement of electronic files containing a musical, cinematographic
+         or audio-visual work in respect of which the applicant claims to hold rights, and subsequently to block the transfer of such
+         files, either at the point at which they are requested or at which they are sent?
+      
+(2)      If the answer to the [first] question … is in the affirmative, do those directives require a national court, called upon to
+         give a ruling on an application for an injunction against an intermediary whose services are used by a third party to infringe
+         a copyright, to apply the principle of proportionality when deciding on the effectiveness and dissuasive effect of the measure
+         sought?’
+      
+ Consideration of the questions referred
+By its questions, the referring court asks, in essence, whether Directives 2000/31, 2001/29, 2004/48, 95/and 2002/58, read
+         together and construed in the light of the requirements stemming from the protection of the applicable fundamental rights,
+         must be interpreted as precluding an injunction imposed on an ISP to introduce a system for filtering
+      
+–        all electronic communications passing via its services, in particular those involving the use of peer-to-peer software; 
+–        which applies indiscriminately to all its customers; 
+–        as a preventive measure; 
+–        exclusively at its expense; and
+–        for an unlimited period, 
+which is capable of identifying on that provider’s network the movement of electronic files containing a musical, cinematographic
+         or audio-visual work in respect of which the applicant claims to hold intellectual property rights, with a view to blocking
+         the transfer of files the sharing of which infringes copyright (‘the contested filtering system’).
+      
+In that regard, it should first be recalled that, under Article 8(3) of Directive 2001/and the third sentence of Article
+         of Directive 2004/48, holders of intellectual property rights may apply for an injunction against intermediaries, such
+         as ISPs, whose services are being used by a third party to infringe their rights.
+      
+Next, it follows from the Court’s case-law that the jurisdiction conferred on national courts, in accordance with those provisions,
+         must allow them to order those intermediaries to take measures aimed not only at bringing to an end infringements already
+         committed against intellectual-property rights using their information-society services, but also at preventing further infringements
+         (see, to that effect, Case C‑324/L’Oréal and Others [2011] ECR I‑0000, paragraph 131).
+      
+Lastly, it follows from that same case-law that the rules for the operation of the injunctions for which the Member States
+         must provide under Article 8(3) of Directive 2001/and the third sentence of Article of Directive 2004/48, such as those
+         relating to the conditions to be met and to the procedure to be followed, are a matter for national law (see, mutatis mutandis, L’Oréal and Others, paragraph 135). 
+      
+That being so, those national rules, and likewise their application by the national courts, must observe the limitations arising
+         from Directives 2001/and 2004/and from the sources of law to which those directives refer (see, to that effect, L’Oréal and Others, paragraph 138). 
+      
+Thus, in accordance with recital in the preamble to Directive 2001/and Article 2(3)(a) of Directive 2004/48, those rules
+         laid down by the Member States may not affect the provisions of Directive 2000/and, more specifically, Articles to thereof. 
+      
+Consequently, those rules must, in particular, respect Article 15(1) of Directive 2000/31, which prohibits national authorities
+         from adopting measures which would require an ISP to carry out general monitoring of the information that it transmits on
+         its network. 
+      
+In that regard, the Court has already ruled that that prohibition applies in particular to national measures which would require
+         an intermediary provider, such as an ISP, to actively monitor all the data of each of its customers in order to prevent any
+         future infringement of intellectual-property rights. Furthermore, such a general monitoring obligation would be incompatible
+         with Article of Directive 2004/48, which states that the measures referred to by the directive must be fair and proportionate
+         and must not be excessively costly (see L’Oréal and Others, paragraph 139). 
+      
+In those circumstances, it is necessary to examine whether the injunction at issue in the main proceedings, which would require
+         the ISP to install the contested filtering system, would oblige it, as part of that system, to actively monitor all the data
+         of each of its customers in order to prevent any future infringement of intellectual-property rights. 
+      
+In that regard, it is common ground that implementation of that filtering system would require
+      
+–        first, that the ISP identify, within all of the electronic communications of all its customers, the files relating to peer-to-peer
+         traffic;
+      
+–        secondly, that it identify, within that traffic, the files containing works in respect of which holders of intellectual-property
+         rights claim to hold rights;
+      
+–        thirdly, that it determine which of those files are being shared unlawfully; and 
+–        fourthly, that it block file sharing that it considers to be unlawful. 
+Preventive monitoring of this kind would thus require active observation of all electronic communications conducted on the
+         network of the ISP concerned and, consequently, would encompass all information to be transmitted and all customers using
+         that network. 
+      
+In the light of the foregoing, it must be held that the injunction imposed on the ISP concerned requiring it to install the
+         contested filtering system would oblige it to actively monitor all the data relating to each of its customers in order to
+         prevent any future infringement of intellectual-property rights. It follows that that injunction would require the ISP to
+         carry out general monitoring, something which is prohibited by Article 15(1) of Directive 2000/31. 
+      
+In order to assess whether that injunction is consistent with European Union law, account must also be taken of the requirements
+         that stem from the protection of the applicable fundamental rights, such as those mentioned by the referring court. 
+      
+In that regard, it should be recalled that the injunction at issue in the main proceedings pursues the aim of ensuring the
+         protection of copyright, which is an intellectual-property right, which may be infringed by the nature and content of certain
+         electronic communications conducted through the network of the ISP concerned. 
+      
+The protection of the right to intellectual property is indeed enshrined in Article 17(2) of the Charter of Fundamental Rights
+         of the European Union (‘the Charter’). There is, however, nothing whatsoever in the wording of that provision or in the Court’s
+         case-law to suggest that that right is inviolable and must for that reason be absolutely protected. 
+      
+As paragraphs to of the judgment in Case C‑275/Promusicae [2008] ECR I‑make clear, the protection of the fundamental right to property, which includes the rights linked to intellectual
+         property, must be balanced against the protection of other fundamental rights. 
+      
+More specifically, it follows from paragraph of that judgment that, in the context of measures adopted to protect copyright
+         holders, national authorities and courts must strike a fair balance between the protection of copyright and the protection
+         of the fundamental rights of individuals who are affected by such measures. 
+      
+Accordingly, in circumstances such as those in the main proceedings, national authorities and courts must, in particular,
+         strike a fair balance between the protection of the intellectual property right enjoyed by copyright holders and that of the
+         freedom to conduct a business enjoyed by operators such as ISPs pursuant to Article of the Charter.
+      
+In the present case, the injunction requiring the installation of the contested filtering system involves monitoring all the
+         electronic communications made through the network of the ISP concerned in the interests of those rightholders. Moreover,
+         that monitoring has no limitation in time, is directed at all future infringements and is intended to protect not only existing
+         works, but also future works that have not yet been created at the time when the system is introduced.  
+      
+Accordingly, such an injunction would result in a serious infringement of the freedom of the ISP concerned to conduct its
+         business   since it would require that ISP to install a complicated, costly, permanent computer system at its own expense,
+         which would also be contrary to the conditions laid down in Article 3(1) of Directive 2004/48, which requires that measures
+         to ensure the respect of intellectual-property rights should not be unnecessarily complicated or costly. 
+      
+In those circumstances, it must be held that the injunction to install the contested filtering system is to be regarded as
+         not respecting the requirement that a fair balance be struck between, on the one hand, the protection of the intellectual-property
+         right enjoyed by copyright holders, and, on the other hand, that of the freedom to conduct business enjoyed by operators such
+         as ISPs. 
+      
+Moreover, the effects of that injunction would not be limited to the ISP concerned, as the contested filtering system may
+         also infringe the fundamental rights of that ISP’s customers, namely their right to protection of their personal data and
+         their freedom to receive or impart information, which are rights safeguarded by Articles and of the Charter respectively.
+         
+      
+It is common ground, first, that the injunction requiring installation of the contested filtering system would involve a systematic
+         analysis of all content and the collection and identification of users’ IP addresses from which unlawful content on the network
+         is sent. Those addresses are protected personal data because they allow those users to be precisely identified. 
+      
+Secondly, that injunction could potentially undermine freedom of information since that system might not distinguish adequately
+         between unlawful content and lawful content, with the result that its introduction could lead to the blocking of lawful communications.
+         Indeed, it is not contested that the reply to the question whether a transmission is lawful also depends on the application
+         of statutory exceptions to copyright which vary from one Member State to another. Moreover, in some Member States certain
+         works fall within the public domain or can be posted online free of charge by the authors concerned. 
+      
+Consequently, it must be held that, in adopting the injunction requiring the ISP to install the contested filtering system,
+         the national court concerned would not be respecting the requirement that a fair balance be struck between the right to intellectual
+         property, on the one hand, and the freedom to conduct business, the right to protection of personal data and the freedom to
+         receive or impart information, on the other. 
+      
+In the light of the foregoing, the answer to the questions submitted is that Directives 2000/31, 2001/29, 2004/48, 95/and
+         2002/58, read together and construed in the light of the requirements stemming from the protection of the applicable fundamental
+         rights, must be interpreted as precluding an injunction made against an ISP which requires it to install the contested filtering
+         system. 
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+Directives:
+–        2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of information society services,
+            in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’);
+–        2001/29/EC of the European Parliament and of the Council of May on the harmonisation of certain aspects of copyright
+            and related rights in the information society;
+–        2004/48/EC of the European Parliament and of the Council of April on the enforcement of intellectual property rights
+            ; 
+–        95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to
+            the processing of personal data and on the free movement of such data; and 
+–        2002/58/EC of the European Parliament and of the Council of July concerning the processing of personal data and the
+            protection of privacy in the electronic communications sector (Directive on privacy and electronic communications), 
+read together and construed in the light of the requirements stemming from the protection of the applicable fundamental rights,
+            must be interpreted as precluding an injunction made against an internet service provider which requires it to install a system
+            for filtering
+–        all electronic communications passing via its services, in particular those involving the use of peer-to-peer software; 
+–        which applies indiscriminately to all its customers; 
+–        as a preventive measure; 
+–        exclusively at its expense; and
+–        for an unlimited period, 
+which is capable of identifying on that provider’s network the movement of electronic files containing a musical, cinematographic
+            or audio-visual work in respect of which the applicant claims to hold intellectual-property rights, with a view to blocking
+            the transfer of files the sharing of which infringes copyright. 
+[Signatures]
+* Language of the case: French.
+      
+Top  
+ 

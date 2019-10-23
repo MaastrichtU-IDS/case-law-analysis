@@ -1,0 +1,353 @@
+
+Case C-262/Deutsche Telekom AG
+v
+Bundesrepublik Deutschland
+(Reference for a preliminary ruling from the Bundesverwaltungsgericht)
+(Telecommunications sector – Universal service and users’ rights – Definition of ‘obligations’ which are to be provisionally maintained – First paragraph of Article of Directive 2002/21/EC (Framework Directive) and Article 16(1)(a) of Directive 2002/22/EC
+         (Universal Service Directive) – Tariffs for the supply of voice telephony services – Requirement for administrative authorisation)
+      
+Opinion of Advocate General Ruiz-Jarabo Colomer delivered on June Judgment of the Court (Second Chamber), November Summary of the Judgment
+Approximation of laws – Telecommunications sector – Electronic communications networks and services – Regulatory framework
+            – Directive 2002/– Universal service and users’ rights – Directive 2002/(European Parliament and Council Directives 2002/21, Art. 27, first para., and 2002/22, Art. 16(1)(a))
+The first paragraph of Article of Directive 2002/on a common regulatory framework for electronic communications networks
+         and services and Article 16(1)(a) of Directive 2002/on universal service and users’ rights relating to electronic communications
+         networks and services must be interpreted as meaning that a statutory requirement for the approval of tariffs for the supply
+         of retail voice telephony services provided by undertakings with a dominant position in that market, enacted by national law
+         and preceding the regulatory framework resulting from those directives, together with administrative measures confirming that
+         requirement, must be temporarily maintained.
+      
+Those provisions are designed to achieve the same purpose, namely to ensure continuity, irrespective of the nature and basis
+         of the obligations imposed on operators, between the former and new regulatory frameworks.
+      
+In that regard, the fact that it is for the national regulatory authority to decide when to bring the temporary situation
+         to an end, as a result of carrying out the market analysis referred to in Article of Directive 2002/21, does not alter
+         that interpretation, as that authority does no more than implement the obligations imposed by the legislation in force, which
+         stems from the new regulatory framework. It is that latter framework which determines the obligations which will be amended,
+         maintained or withdrawn.
+      
+(see paras 22, 36, 43, operative part)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+November (*)
+      
+(Telecommunications sector – Universal service and users’ rights – Definition of ‘obligations’ which are to be provisionally maintained – First paragraph of Article of Directive 2002/21/EC (Framework Directive) and Article 16(1)(a) of Directive 2002/22/EC
+         (Universal Service Directive) – Tariffs for the supply of voice telephony services – Requirement for administrative authorisation)
+      
+In Case C‑262/06,
+REFERENCE for a preliminary ruling under Article EC from the Bundesverwaltungsgericht (Germany), made by decision of May 2006, received at the Court on June 2006, in the proceedings
+      
+Deutsche Telekom AG
+v
+Bundesrepublik Deutschland, represented by the Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen,
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of the Chamber, L. Bay Larsen, J. Makarczyk, P. Kūris (Rapporteur) and J.-C. Bonichot,
+         Judges,
+      
+Advocate General: D. Ruiz-Jarabo Colomer,
+Registrar: B. Fülöp, Administrator,
+having regard to the written procedure and further to the hearing on June 2007,
+after considering the observations submitted on behalf of:
+–       Deutsche Telekom AG, by T. Mayen, U. Karpenstein, and B. Stamm, Rechtsanwälte,
+–       the Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, by Dr Bayer, Mr Meyer-Sebastian, E.
+         Greiwe, M. Dorsch, acting as Agents, and by B. Kuhrmeyer and R. Busch,
+      
+–       the German Government, by M. Lumma and C. Schulze-Bahr, acting as Agents,
+–       the Belgian Government, by A. Hubert, acting as Agent,
+–       the Italian Government, by I.M. Braguglia, acting as Agent, and by M.G. Aiello, avvocato dello Stato,
+–       the Lithuanian Government, by S. Žalimienė, acting as Agent,
+–       the Commission of the European Communities, by G. Braun and M. Shotter, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2007,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of the first paragraph of Article of Directive 2002/21/EC
+         of the European Parliament and of the Council of March on a common regulatory framework for electronic communications
+         networks and services (Framework Directive) (OJ L 108, p. 33; ‘the Framework Directive’) and Article 16(1)(a) of Directive
+         2002/22/EC of the European Parliament and of the Council of March on universal service and users’ rights relating to
+         electronic communications networks and services (Universal Service Directive) (OJ L 108, p. 51; ‘the Universal Service
+         Directive’). 
+      
+The reference was made in appeal proceedings on a point of law (‘Revision’) between the Bundesrepublik Deutschland (Federal
+         Republic of Germany), represented by the Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
+         (Federal Agency for Electricity, Gas, Telecommunications, Post and Rail Networks; ‘the regulatory authority’) and Deutsche
+         Telekom AG (‘Deutsche Telekom’), regarding a decision of June by which the regulatory authority found that the tariffs
+         charged by Deutsche Telekom and the related clauses of its general terms and conditions in respect of certain ‘offer packages’
+         fell within the requirement for authorisation within the meaning of Paragraph 25(1) of the Law on Telecommunications (Telekommunikationsgesetz)
+         of July (BGBl. I, p. 1120; ‘the TKG 1996’). 
+      
+ Legal context 
+ Community legislation
+Article of Directive 98/10/EC of the European Parliament and of the Council of February on the application of open
+         network provision (ONP) to voice telephony and on universal service for telecommunications in a competitive environment (OJ
+         L 101, p. 24) sets out the following tariff principles:
+      
+‘1.      Without prejudice to the specific provisions of Article in relation to affordability or to paragraph 6, national regulatory
+         authorities shall ensure that organisations providing voice telephony services which either have significant market power
+         or have been designated in accordance with Article and have significant market power comply with the provisions of this
+         Article.
+      
+2.      Tariffs for use of the fixed public telephone network and fixed public telephone services shall follow the basic principles
+         of cost orientation set out in Annex II to Directive 90/387/EEC.
+      
+3.      Without prejudice to Article 7(3) of Directive 97/33/EC [of the European Parliament and of the Council of June 1997] on
+         Interconnection [in telecommunications with regard to ensuring universal service and interoperability through application
+         of the principles of Open Network Provision (ONP)] (OJ L 199, p. 32), tariffs for access to and use of the fixed public
+         telephone network shall be independent of the type of application which the users implement, except to the extent that they
+         require different services or facilities.
+      
+4.      Tariffs for facilities additional to the provision of connection to the fixed public telephone network and fixed public telephone
+         services shall, in accordance with Community law, be sufficiently unbundled so that the user is not required to pay for facilities
+         which are not necessary for the service requested.
+      
+5.      Tariff changes shall be implemented only after an appropriate public notice period, set by the national regulatory authority,
+         has been observed.
+      
+6.      Without prejudice to Article in relation to affordability, a Member State may authorise its national regulatory authority
+         not to apply paragraphs 1, 2, 3, or of this Article in a specific geographical area where it is satisfied that there is
+         effective competition in the fixed public telephone services market.’
+      
+According to recital of Directive 2002/19/EC of the European Parliament and of the Council of March on access to,
+         and interconnection of, electronic communications networks and associated facilities (Access Directive) (OJ L 108, p.
+         7; ‘the Access Directive’), in order to ensure continuity of existing agreements and to avoid a legal vacuum, the new regulatory
+         framework for telecommunications must maintain the obligations imposed under the previous legislation until such time as they
+         are reviewed.
+      
+Article 16(1) of the Framework Directive provides that as soon as possible after the adoption of the recommendation or any
+         updating thereof, national regulatory authorities are to carry out an analysis of the relevant markets, taking the utmost
+         account of the guidelines. Member States shall ensure that this analysis is carried out, where appropriate, in collaboration
+         with the national competition authorities.
+      
+The first paragraph of Article of the Framework Directive provides that: 
+‘Member States shall maintain all obligations under national law referred to in Article of the Access Directive and Article
+         of the Universal Service Directive until such time as a determination is made in respect of those obligations by a national
+         regulatory authority in accordance with Article of this Directive.’
+      
+Article of the Access Directive reads as follows:
+‘Review of former obligations for access and interconnection
+1.      Member States shall maintain all obligations on undertakings providing public communications networks and/or services concerning
+         access and interconnection that were in force prior to the date of entry into force of this Directive under Articles 4, 6,
+         7, 8, 11, 12, and of Directive [97/33], Article of Directive [98/10], and Articles and of Directive 92/44/EC [of
+         the Council of June on the application of open network provision to leased lines (OJ L 165, p. 27)], until such
+         time as these obligations have been reviewed and a determination made in accordance with paragraph 3.
+      
+2.      The Commission will indicate relevant markets for the obligations referred to in paragraph in the initial recommendation
+         on relevant product and service markets and the Decision identifying transnational markets to be adopted in accordance with
+         Article of the [Framework] Directive.
+      
+3.      Member States shall ensure that, as soon as possible after the entry into force of this Directive, and periodically thereafter,
+         national regulatory authorities undertake a market analysis, in accordance with Article of the [Framework] Directive to
+         determine whether to maintain, amend or withdraw these obligations. An appropriate period of notice shall be given to parties
+         affected by such amendment or withdrawal of obligations.’ 
+      
+Article of the Universal Service Directive provides:
+‘Review of obligations
+1.      Member States shall maintain all obligations relating to: 
+(a)      retail tariffs for the provision of access to and use of the public telephone network, imposed under Article of Directive
+         [98/10]; 
+      
+(b)      carrier selection or pre-selection, imposed under Directive [97/33] 
+…’
+ National legislation
+Paragraph of the TKG provides, inter alia, that tariffs are to be based on the costs of efficient service provision
+         and are to satisfy the following requirements, that is to say, they are not to contain any surcharges which can be imposed
+         solely as a result of the operator’s dominant position within the meaning of Paragraph of the Law against restraints of
+         competition (Gesetz gegen Wettbewerbsbeschränkungen, in the version published in the BGB1. I, p. 2486) in the relevant
+         telecommunications market, not to contain any discounts which prejudice the competitive opportunities of other undertakings
+         in a telecommunications market and not to create any advantages for individual users in relation to other users of identical
+         or similar telecommunications services in the relevant telecommunications market, unless there is evidence of an objectively
+         justifiable reason therefor.
+      
+Paragraph of the TKG provides:
+‘(1)      As provided for by Paragraphs and to of this Law tariffs and tariff-related clauses of general terms and conditions
+         for the provision of transmission lines and voice telephony within the framework of Licence Classes and within the meaning
+         of Paragraph of this Law shall be subject to approval by the regulatory authority, provided the licensee has a dominant
+         position within the meaning of Paragraph of the Law against restraints of competition in the relevant market.
+      
+(2)      Tariffs and tariff-related clauses of general terms and conditions for telecommunications services other than those referred
+         to in Paragraph 25(1) above provided by companies having a dominant position within the meaning of Paragraph of the Law
+         against restraints of competition in the relevant market shall be subject to the procedure under Paragraph of this Law
+         in accordance with Paragraphs 24, 27(4) and of this Law.
+      
+(3)      Paragraphs 25(1) and (2) above shall apply accordingly to tariffs and tariff-related clauses of general terms and conditions
+         of an undertaking constituting a single undertaking with the licensee within the meaning of Paragraph 25(1) above or an undertaking
+         within the meaning of Paragraph 25(2) above. A single undertaking is created through any linkage of undertakings within the
+         meaning of Paragraphs 36(2) and 37(1) and (2) of the Law against restraints of competition.’
+      
+Article of the Law on telecommunications (Telekommunikationsgesetz) of June (BGBl. I, p. 1190), as amended
+         by the Law of July (BGBl. I, p. 1970; ‘the TKG 2004’), governs tariffs as follows:
+      
+‘(1)      Determinations of dominant positions in the market made by the regulatory authority before this Law came into force, and the
+         resulting obligations, shall remain valid until they are replaced by new decisions in accordance with Part 2. This shall also
+         apply where determinations of dominant positions in the market are only mentioned in the preamble to administrative measures.
+         The first sentence shall apply, by analogy, to the obligations referred to in Paragraphs 36, and 39, second edition, [of
+         the TKG 1996].
+      
+…’
+ The case in the main proceedings and the questions referred
+In 2003, Deutsche Telekom marketed various ‘offer packages’ of telecommunications services which included services that were
+         subject to the requirement to obtain authorisation from the regulatory authority provided for in Paragraph 25(1) of the TKG
+         as well as services which were not.
+      
+A number of complaints led the regulatory authority to open an investigation in December to determine whether those packages
+         were, as a whole, subject to that requirement.
+      
+By a decision of June 2004, the regulatory authority found that the tariffs charged and the clauses of the tariff-related
+         general terms and conditions fell within the requirement for authorisation provided for in Paragraph of the TKG 1996.
+      
+Deutsche Telekom lodged an appeal against that decision together with an application for interim relief before the Verwaltungsgericht
+         Köln (Administrative Court, Cologne).
+      
+By judgment of September 2005, that court granted the appeal brought by Deutsche Telekom, on the ground that the transitional
+         provision contained in Paragraph 150(1) of the TKG covers only obligations which do not require any implementing measures
+         and are enforceable in themselves, which are criteria that Paragraph 25(1) of the TKG does not satisfy.
+      
+In those circumstances, the regulatory authority brought an appeal on a point of law before the Bundesverwaltungsgericht (Federal
+         Administrative Court, Germany) which decided to stay the proceedings and to refer to the Court for a preliminary ruling the
+         following questions:
+      
+‘(1)      Are the first paragraph of Article of the [Framework Directive] and Article 16(1)(a) of the [Universal Service Directive]
+         to be understood as meaning that a statutory requirement provided for under earlier national law for the authorisation of
+         charges for the supply of voice telephony services to end-users by an undertaking with a dominant position in that market,
+         and hence an administrative measure confirming that requirement, should be temporarily maintained?
+      
+ If the answer to the first question is in the negative:
+(2)      Does Community law preclude such extensive continuation?’
+ The questions referred
+By its first question, the national court is essentially asking whether the aim of Article of the Framework Directive and
+         Article 16(1)(a) of the Universal Service Directive is to maintain temporarily in force a statutory requirement for authorisation
+         in respect of certain telephony tariffs charged by an undertaking with a dominant position in the market in question, provided
+         for under earlier national law, and an administrative measure confirming that requirement.
+      
+It is common ground that no decision under Article of the Framework Directive has been adopted by the regulatory authority
+         inasmuch as the analysis of the relevant market for voice telephony services had not been completed at the time of proceedings
+         before the referring court.
+      
+ The interpretation of Article of the Framework Directive and Article of the Universal Service Directive
+As regards a literal interpretation of Article of the Framework Directive, it must be pointed out that ‘all obligations’
+         under Member States’ legislation and referred to in Article of the Access Directive and Article of the Universal Service
+         Directive are to be maintained. Article concerns obligations on undertakings providing public communications networks and/or
+         services concerning access and interconnection that were in force prior to the date of entry into force of the Framework Directive.
+         Article 16(1)(a) of the Universal Service Directive provides for all obligations relating to retail tariffs for the provision
+         of access to and use of the public telephone network to be maintained.
+      
+It follows, as the Advocate General noted in point of his Opinion, that all obligations thus referred to and imposed under
+         Member States’ legislation which preceded the regulatory framework stemming from the Framework Directive, Access Directive,
+         Universal Service Directive and Directive 2002/20/EC of the European Parliament and of the Council of March on the
+         authorisation of electronic communications networks and services (Authorisation Directive) (‘the new regulatory framework’)
+         are to be temporarily maintained, regardless of their nature.
+      
+The fact that it is for the regulatory authority to decide when to bring the temporary situation to an end, as a result of
+         carrying out the market analysis referred to in Article of the Framework Directive, does not alter this interpretation
+         as the authority does no more than implement the obligations imposed by the legislation in force, which stems from the new
+         regulatory framework. Indeed, the amendment, maintenance or withdrawal of the obligations is determined in accordance with
+         this framework. 
+      
+Such an interpretation also accords with the origin and scheme of the new regulatory framework.
+As regards its origin, it is common ground that the Proposal for a Directive of the European Parliament and of the Council,
+         of July 2000, on a common regulatory framework for electronic communications networks and services (COM(2000) final),
+         contained no express transitory provision.
+      
+The Opinion of the Economic and Social Committee, of January 2001, on the ‘Proposal for a Directive of the European Parliament
+         and of the Council on a common regulatory framework for electronic communications networks and services’ (OJ C 123, p. 56),
+         states in paragraph 4.that it must be ‘clearly stated that existing legislation should only be applied until such time as
+         the first analysis of relevant markets is carried out in accordance with the new directive’. 
+      
+That proposal was referred to in Common Position (EC) No 38/of September adopted by the Council with a view to
+         adopting a European Parliament and Council Directive on a common regulatory framework for electronic communications networks
+         and services (Framework Directive) (OJ C 337, p. 34), from which it is apparent that the Council was concerned to ensure
+         legal clarity and to take further account of the diversity of national situations. 
+      
+It clearly follows that the Community legislature did not intend to limit the categories of obligations referred to in the
+         first paragraph of Article of the Framework Directive.
+      
+As regards the scheme of the new regulatory framework, it must be pointed out, first of all, that the obligations imposed
+         on an undertaking with a dominant position on a given market were laid down in the very wording of the former regulatory framework,
+         whereas in the new regulatory framework, it is the national regulatory authorities who have the power to define the relevant
+         market and apply the regulatory instruments to the market definition. Similarly, those authorities carry out the analysis
+         of the market and designate the undertakings having significant power in that market.
+      
+Secondly, Article of Access Directive refers, from among the obligations that were in force prior to the date of entry into
+         force of that directive and which the Member States are to maintain, first, to Article of Directive 97/33, which directly
+         creates obligations on operators, and second, to Articles 6, 7, 8, 11, and of Directive 97/33, Article of Directive
+         98/and Articles and of Directive 92/44, which delegate implementation of the abovementioned provisions to the Member
+         States, to be carried out either by the State authorities or by the national regulatory authorities.
+      
+Thirdly and finally, the Court would point out that according to recital in the preamble to the Universal Service Directive,
+         it is considered necessary to ensure the continued application of the existing provisions relating to the minimum set of leased
+         line services in Community telecommunications legislation, in particular in Council Directive 92/44, until such time as national
+         regulatory authorities determine that such provisions are no longer needed because a sufficiently competitive market has developed
+         in their territory. 
+      
+First of all, the objective of continuity is expressly implemented by Annex VII to the Universal Service Directive, relating
+         to the conditions applicable to the minimum set of leased lines referred to in Article of that directive, and by Article
+         16(1)(c) thereof, which provides for obligations to be maintained relating to leased lines, referred to in Articles 3, 4,
+         and of Directive 92/44, which impose obligations on the Member States, and Articles and of Directive 92/whose
+         regulatory nature is unquestionable.
+      
+Furthermore, Article 16(1)(a) and (b) of the Universal Service Directive provides for the maintenance of obligations relating
+         both to retail tariffs referred to in Article of Directive 98/and to carrier selection or pre-selection referred to
+         in Directive 97/33.
+      
+It follows from the foregoing that the obligations set out above concern both individual acts and regulatory measures applied
+         by an authority whose appointment depends on the constitutional arrangements of each Member State.
+      
+Finally, that interpretation is confirmed by an examination of the purpose of the provisions in question.
+Recital and Article of the Access Directive are concerned with the need to avoid a legal vacuum between the former and
+         new regulatory frameworks. To this end, it is provided that all existing obligations, whatever their basis, are to be maintained.
+      
+Accordingly, by referring expressly to Article of the Access Directive and Article of the Universal Service Directive,
+         Article of the Framework Directive was necessarily meant to achieve the same purpose, namely to ensure continuity, irrespective
+         of the nature and basis of the obligations imposed on operators, between the former and new regulatory frameworks.
+      
+ Paragraph 25(1) of the TKG Paragraph 25(1) of the TKG subjected tariffs for voice telephony services charged by undertakings having a dominant position
+         in the relevant market to end-users to prior approval in accordance with Paragraphs and to of that Law.
+      
+Article 17(1) of Directive 98/10, expressly maintained in force by Article 16(1)(a) of the Universal Service Directive, referred
+         to in Article of the Framework Directive, sets out the role of the national regulatory authorities and the obligation on
+         licensees having a dominant position in the market to comply with the provisions of Article 17. Article 17(2) provides that
+         tariffs for use of the fixed public telephone network and fixed public telephone services are to follow the basic principles
+         of cost orientation.
+      
+According to Paragraph of the TKG 1996, tariffs are to be based on the costs of efficient service provision and are to
+         satisfy the requirements laid down in Paragraph 24(2), which provides, inter alia, that tariffs may not contain any surcharges
+         which can be imposed solely as a result of the operator’s dominant position in the relevant telecommunications market.
+      
+It follows that a provision such as Paragraph of the TKG 1996, containing a general requirement for approval and at the
+         same time referring to the principle of cost orientation laid down in a provision such as Paragraph of that law, may be
+         regarded as implementing Article of Directive 98/10. 
+      
+It follows from the foregoing that an obligation such as that laid down in Paragraph of the TKG constitutes an obligation
+         within the meaning of Article 16(1)(a) of the Universal Service Directive, and must therefore be maintained temporarily.
+      
+It is true, as Deutsche Telekom argues, that the national regulatory authority could thereby delay the application of the
+         new Community rules by refraining from undertaking the relevant market study. In that case, however, it would be for the national
+         authorities and, where appropriate, the competent courts, to draw the appropriate inferences and for the Commission to exercise
+         its powers with a view to ensuring full application of Community law. 
+      
+In view of all the above considerations, the answer to the first question referred to the Court must be that the first paragraph
+         of Article of the Framework Directive and Article 16(1)(a) of the Universal Service Directive must be interpreted as meaning
+         that a statutory requirement for the approval of tariffs for the supply of retail voice telephony services provided by undertakings
+         with a dominant position in that market, such as that provided for in Paragraph of the TKG 1996, enacted by national law
+         and preceding the new regulatory framework, together with administrative measures confirming that requirement, must be temporarily
+         maintained.
+      
+In the light of the answer given to the first question, there is no need to answer the second question.
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+The first paragraph of Article of Directive 2002/21/EC of the European Parliament and of the Council of March on
+            a common regulatory framework for electronic communications networks and services (Framework Directive) and Article 16(1)(a)
+            of Directive 2002/22/EC of the European Parliament and of the Council of March on universal service and users’ rights
+            relating to electronic communications networks and services (Universal Service Directive) must be interpreted as meaning that
+            a statutory requirement for the approval of tariffs for the supply of retail voice telephony services provided by undertakings
+            with a dominant position in that market, such as that provided for in Paragraph of the Law on Telecommunications (Telekommunikationsgesetz)
+            of July 1996, enacted by national law and preceding the regulatory framework resulting from those directives, together
+            with administrative measures confirming that requirement, must be temporarily maintained.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

@@ -1,0 +1,295 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+July (
+*)
+‛Reference for a preliminary ruling — Judicial cooperation in civil matters — Regulations (EC) No 864/and (EC) No 593/— Consumer protection — Directive 93/13/EEC — Data protection — Directive 95/46/EC — Online sales contracts concluded with consumers resident in other Member States — Unfair terms — General terms and conditions containing a choice-of-law term applying the law of the Member State in which the company is established — Determination of the applicable law for assessing the unfairness of terms in those general terms and conditions in an action for an injunction — Determination of the law governing the processing of personal data of consumers)’
+In Case C‑191/15,
+REQUEST for a preliminary ruling under Article TFEU from the Oberster Gerichtshof (Supreme Court, Austria), made by decision of April 2015, received at the Court on April 2015, in the proceedings
+Verein für Konsumenteninformation
+v
+Amazon EU Sàrl,
+THE COURT (Third Chamber),
+composed of L. Bay Larsen (President of the Chamber), D. Švaby, J. Malenovský, M. Safjan (Rapporteur) and M. Vilaras, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: I. Illéssy, Administrator,
+having regard to the written procedure and further to the hearing on March 2016,
+after considering the observations submitted on behalf of:
+—
+Verein für Konsumenteninformation, by S. Langer, Rechtsanwalt,
+—
+Amazon EU Sàrl, by G. Berrisch, Rechtsanwalt,
+—
+the Austrian Government, by G. Eberhard, acting as Agent,
+—
+the German Government, by T. Henze, A. Lippstreu, M. Hellmann, T. Laut and J. Mentgen, acting as Agents,
+—
+the United Kingdom Government, by M. Holt, acting as Agent, and M. Gray, Barrister,
+—
+the European Commission, by M. Wilderspin and J. Vondung, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Regulation (EC) No 864/of the European Parliament and of the Council of July on the law applicable to non-contractual obligations (Rome II) (OJ L 199, p. 40, ‘the Rome II Regulation’), Regulation (EC) No 593/of the European Parliament and of the Council of June on the law applicable to contractual obligations (Rome I) (OJ L 177, p. 6, ‘the Rome I Regulation’), Council Directive 93/13/EEC of April on unfair terms in consumer contracts (OJ L 95, p. 29), and Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31).
+The request has been made in proceedings between Verein für Konsumenteninformation (Association for consumer information, ‘the VKI’) and Amazon EU Sàrl, established in Luxembourg, concerning an action for an injunction brought by the VKI.
+Legal context
+EU law
+The Rome I Regulation
+According to recital of the Rome I Regulation:
+‘The substantive scope and the provisions of this Regulation should be consistent with Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters [OJ L 12, p. 1] and [the Rome II Regulation].’
+Article 1(1) and (3) of the Rome I Regulation provides:
+‘1.   This Regulation shall apply, in situations involving a conflict of laws, to contractual obligations in civil and commercial matters.
+It shall not apply, in particular, to revenue, customs or administrative matters.
+...
+3.   This Regulation shall not apply to evidence and procedure, without prejudice to Article 18.’
+Article of the Rome I Regulation, ‘Applicable law in the absence of choice’, provides:
+‘1.   To the extent that the law applicable to the contract has not been chosen in accordance with Article and without prejudice to Articles to 8, the law governing the contract shall be determined as follows:
+(a)
+a contract for the sale of goods shall be governed by the law of the country where the seller has his habitual residence;
+(b)
+a contract for the provision of services shall be governed by the law of the country where the service provider has his habitual residence;
+(c)
+a contract relating to a right in rem in immovable property or to a tenancy of immovable property shall be governed by the law of the country where the property is situated;
+(d)
+notwithstanding point (c), a tenancy of immovable property concluded for temporary private use for a period of no more than six consecutive months shall be governed by the law of the country where the landlord has his habitual residence, provided that the tenant is a natural person and has his habitual residence in the same country;
+(e)
+a franchise contract shall be governed by the law of the country where the franchisee has his habitual residence;
+(f)
+a distribution contract shall be governed by the law of the country where the distributor has his habitual residence;
+(g)
+a contract for the sale of goods by auction shall be governed by the law of the country where the auction takes place, if such a place can be determined;
+(h)
+a contract concluded within a multilateral system which brings together or facilitates the bringing together of multiple third-party buying and selling interests in financial instruments, as defined by Article 4(1), point (17) of Directive 2004/39/EC [of the European Parliament and of the Council of April on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, p. 1)], in accordance with non-discretionary rules and governed by a single law, shall be governed by that law.
+2.   Where the contract is not covered by paragraph or where the elements of the contract would be covered by more than one of points (a) to (h) of paragraph 1, the contract shall be governed by the law of the country where the party required to effect the characteristic performance of the contract has his habitual residence.
+3.   Where it is clear from all the circumstances of the case that the contract is manifestly more closely connected with a country other than that indicated in paragraphs or 2, the law of that other country shall apply.
+4.   Where the law applicable cannot be determined pursuant to paragraphs or 2, the contract shall be governed by the law of the country with which it is most closely connected.’
+Article of the Rome I Regulation, ‘Consumer contracts’, reads as follows:
+‘1.   Without prejudice to Articles and 7, a contract concluded by a natural person for a purpose which can be regarded as being outside his trade or profession (the consumer) with another person acting in the exercise of his trade or profession (the professional) shall be governed by the law of the country where the consumer has his habitual residence, provided that the professional:
+(a)
+pursues his commercial or professional activities in the country where the consumer has his habitual residence, or
+(b)
+by any means, directs such activities to that country or to several countries including that country,
+and the contract falls within the scope of such activities.
+2.   Notwithstanding paragraph 1, the parties may choose the law applicable to a contract which fulfils the requirements of paragraph 1, in accordance with Article 3. Such a choice may not, however, have the result of depriving the consumer of the protection afforded to him by provisions that cannot be derogated from by agreement by virtue of the law which, in the absence of choice, would have been applicable on the basis of paragraph 1.
+...’
+Article of the regulation, ‘Overriding mandatory provisions’, states:
+‘1.   Overriding mandatory provisions are provisions the respect for which is regarded as crucial by a country for safeguarding its public interests, such as its political, social or economic organisation, to such an extent that they are applicable to any situation falling within their scope, irrespective of the law otherwise applicable to the contract under this Regulation.
+2.   Nothing in this Regulation shall restrict the application of the overriding mandatory provisions of the law of the forum.
+3.   Effect may be given to the overriding mandatory provisions of the law of the country where the obligations arising out of the contract have to be or have been performed, in so far as those overriding mandatory provisions render the performance of the contract unlawful. In considering whether to give effect to those provisions, regard shall be had to their nature and purpose and to the consequences of their application or non-application.’
+In accordance with Article of the regulation, ‘Consent and material validity’:
+1.   The existence and validity of a contract, or of any term of a contract, shall be determined by the law which would govern it under this Regulation if the contract or term were valid.
+2.   Nevertheless, a party, in order to establish that he did not consent, may rely upon the law of the country in which he has his habitual residence if it appears from the circumstances that it would not be reasonable to determine the effect of his conduct in accordance with the law specified in paragraph 1.’
+Article of the regulation, ‘Relationship with other provisions of Community law’, provides:
+‘With the exception of Article 7, this Regulation shall not prejudice the application of provisions of Community law which, in relation to particular matters, lay down conflict-of-law rules relating to contractual obligations.’
+The Rome II Regulation
+According to recitals and of the Rome II Regulation:
+‘(7)
+The substantive scope and the provisions of this Regulation should be consistent with [Regulation No 44/2001] and the instruments dealing with the law applicable to contractual obligations.
+...
+(21)
+The special rule in Article is not an exception to the general rule in Article 4(1) but rather a clarification of it. In matters of unfair competition, the conflict-of-law rule should protect competitors, consumers and the general public and ensure that the market economy functions properly. The connection to the law of the country where competitive relations or the collective interests of consumers are, or are likely to be, affected generally satisfies these objectives.’
+Article 1(1) and (3) of the Rome II Regulation provides:
+‘1.   This Regulation shall apply, in situations involving a conflict of laws, to non-contractual obligations in civil and commercial matters. It shall not apply, in particular, to revenue, customs or administrative matters or to the liability of the State for acts and omissions in the exercise of State authority (acta iure imperii).
+...
+3.   This Regulation shall not apply to evidence and procedure, without prejudice to Articles and 22.’
+In accordance with Article of the Rome II Regulation, ‘General rule’, which is in Chapter II of the regulation, ‘Torts/Delicts’:
+‘1.   Unless otherwise provided for in this Regulation, the law applicable to a non-contractual obligation arising out of a tort/delict shall be the law of the country in which the damage occurs irrespective of the country in which the event giving rise to the damage occurred and irrespective of the country or countries in which the indirect consequences of that event occur.
+2.   However, where the person claimed to be liable and the person sustaining damage both have their habitual residence in the same country at the time when the damage occurs, the law of that country shall apply.
+3.   Where it is clear from all the circumstances of the case that the tort/delict is manifestly more closely connected with a country other than that indicated in paragraphs or 2, the law of that other country shall apply. A manifestly closer connection with another country might be based in particular on a pre-existing relationship between the parties, such as a contract, that is closely connected with the tort/delict in question.’
+Article of the Rome II Regulation, ‘Unfair competition and acts restricting free competition’, which is also in Chapter II of the regulation, reads as follows:
+‘1.   The law applicable to a non-contractual obligation arising out of an act of unfair competition shall be the law of the country where competitive relations or the collective interests of consumers are, or are likely to be, affected.
+2.   Where an act of unfair competition affects exclusively the interests of a specific competitor, Article shall apply.
+(a)
+The law applicable to a non-contractual obligation arising out of a restriction of competition shall be the law of the country where the market is, or is likely to be, affected.
+(b)
+When the market is, or is likely to be, affected in more than one country, the person seeking compensation for damage who sues in the court of the domicile of the defendant, may instead choose to base his or her claim on the law of the court seised, provided that the market in that Member State is amongst those directly and substantially affected by the restriction of competition out of which the non-contractual obligation on which the claim is based arises; where the claimant sues, in accordance with the applicable rules on jurisdiction, more than one defendant in that court, he or she can only choose to base his or her claim on the law of that court if the restriction of competition on which the claim against each of these defendants relies directly and substantially affects also the market in the Member State of that court.
+4.   The law applicable under this Article may not be derogated from by an agreement pursuant to Article 14.’
+Article of the Rome II Regulation, ‘Freedom of choice’, provides:
+‘1.   The parties may agree to submit non-contractual obligations to the law of their choice:
+(a)
+by an agreement entered into after the event giving rise to the damage occurred;
+or
+(b)
+where all the parties are pursuing a commercial activity, also by an agreement freely negotiated before the event giving rise to the damage occurred.
+The choice shall be expressed or demonstrated with reasonable certainty by the circumstances of the case and shall not prejudice the rights of third parties.
+2.   Where all the elements relevant to the situation at the time when the event giving rise to the damage occurs are located in a country other than the country whose law has been chosen, the choice of the parties shall not prejudice the application of provisions of the law of that other country which cannot be derogated from by agreement.
+3.   Where all the elements relevant to the situation at the time when the event giving rise to the damage occurs are located in one or more of the Member States, the parties’ choice of the law applicable other than that of a Member State shall not prejudice the application of provisions of Community law, where appropriate as implemented in the Member State of the forum, which cannot be derogated from by agreement.’
+In accordance with Article of the regulation, ‘Overriding mandatory provisions’:
+‘Nothing in this Regulation shall restrict the application of the provisions of the law of the forum in a situation where they are mandatory irrespective of the law otherwise applicable to the non-contractual obligation.’
+Regulation (EC) No 2006/Article 3, ‘Definitions’, of Regulation (EC) No 2006/of the European Parliament and of the Council of October on cooperation between national authorities responsible for the enforcement of consumer protection laws (the Regulation on consumer protection cooperation) (OJ L 364, p. 1) provides:
+‘For the purposes of this Regulation:
+...
+(b)
+“intra-Community infringement” means any act or omission contrary to the laws that protect consumers’ interests, as defined in (a), that harms, or is likely to harm, the collective interests of consumers residing in a Member State or Member States other than the Member State where the act or omission originated or took place; or where the responsible seller or supplier is established; or where evidence or assets pertaining to the act or omission are to be found;
+...’
+Article of that regulation, ‘Competent authorities’, states:
+‘1.   Each Member State shall designate the competent authorities and a single liaison office responsible for the application of this Regulation.
+2.   Each Member State may, if necessary in order to fulfil its obligations under this Regulation, designate other public authorities. They may also designate bodies having a legitimate interest in the cessation or prohibition of intra-Community infringements in accordance with Article 8(3).
+3.   Each competent authority shall, without prejudice to paragraph 4, have the investigation and enforcement powers necessary for the application of this Regulation and shall exercise them in conformity with national law.
+4.   The competent authorities may exercise the powers referred to in paragraph in conformity with national law either:
+(a)
+directly under their own authority or under the supervision of the judicial authorities; or
+(b)
+by application to courts competent to grant the necessary decision, including, where appropriate, by appeal, if the application to grant the necessary decision is not successful.
+5.   Insofar as competent authorities exercise their powers by application to the courts in accordance with paragraph 4(b), those courts shall be competent to grant the necessary decisions.
+6.   The powers referred to in paragraph shall only be exercised where there is a reasonable suspicion of an intra-Community infringement and shall include, at least, the right:
+(a)
+to have access to any relevant document, in any form, related to the intra-Community infringement;
+(b)
+to require the supply by any person of relevant information related to the intra-Community infringement;
+(c)
+to carry out necessary on-site inspections;
+(d)
+to request in writing that the seller or supplier concerned cease the intra-Community infringement;
+(e)
+to obtain from the seller or supplier responsible for intra-Community infringements an undertaking to cease the intra-Community infringement; and, where appropriate, to publish the resulting undertaking;
+(f)
+to require the cessation or prohibition of any intra-Community infringement and, where appropriate, to publish resulting decisions;
+(g)
+to require the losing defendant to make payments into the public purse or to any beneficiary designated in or under national legislation, in the event of failure to comply with the decision.
+...’
+Directive 2009/22/EC
+Article 2(2) of Directive 2009/22/EC of the European Parliament and of the Council of April on injunctions for the protection of consumers’ interests (OJ L 110, p. 30) provides:
+‘This Directive shall be without prejudice to the rules of private international law with respect to the applicable law, that is, normally, either the law of the Member State where the infringement originated or the law of the Member State where the infringement has its effects.’
+Directive 93/According to the fifth and sixth recitals of Directive 93/13:
+‘Whereas, generally speaking, consumers do not know the rules of law which, in Member States other than their own, govern contracts for the sale of goods or services; whereas this lack of awareness may deter them from direct transactions for the purchase of goods or services in another Member State;
+Whereas, in order to facilitate the establishment of the internal market and to safeguard the citizen in his role as consumer when acquiring goods and services under contracts which are governed by the laws of Member States other than his own, it is essential to remove unfair terms from those contracts.’
+Article of Directive 93/provides:
+‘1.   A contractual term which has not been individually negotiated shall be regarded as unfair if, contrary to the requirement of good faith, it causes a significant imbalance in the parties’ rights and obligations arising under the contract, to the detriment of the consumer.
+...
+3.   The Annex shall contain an indicative and non-exhaustive list of the terms which may be regarded as unfair.’
+Under Article of that directive:
+‘In the case of contracts where all or certain terms offered to the consumer are in writing, these terms must always be drafted in plain, intelligible language. Where there is doubt about the meaning of a term, the interpretation most favourable to the consumer shall prevail. This rule on interpretation shall not apply in the context of the procedures laid down in Article 7(2).’
+Article of the directive states:
+‘1.   Member States shall lay down that unfair terms used in a contract concluded with a consumer by a seller or supplier shall, as provided for under their national law, not be binding on the consumer and that the contract shall continue to bind the parties upon those terms if it is capable of continuing in existence without the unfair terms.
+2.   Member States shall take the necessary measures to ensure that the consumer does not lose the protection granted by this Directive by virtue of the choice of the law of a non-Member country as the law applicable to the contract if the latter has a close connection with the territory of the Member States.’
+Article of the directive reads as follows:
+‘1.   Member States shall ensure that, in the interests of consumers and of competitors, adequate and effective means exist to prevent the continued use of unfair terms in contracts concluded with consumers by sellers or suppliers.
+2.   The means referred to in paragraph shall include provisions whereby persons or organisations, having a legitimate interest under national law in protecting consumers, may take action according to the national law concerned before the courts or before competent administrative bodies for a decision as to whether contractual terms drawn up for general use are unfair, so that they can apply appropriate and effective means to prevent the continued use of such terms.
+...’
+In accordance with Article of the directive:
+‘Member States may adopt or retain the most stringent provisions compatible with the Treaty in the area covered by this Directive, to ensure a maximum degree of protection for the consumer.’
+The annex to Directive 93/lists the terms referred to in Article 3(3) of the directive. Point 1(q) of the annex reads as follows:
+‘Terms which have the object or effect of:
+...
+(q)
+excluding or hindering the consumer’s right to take legal action or exercise any other legal remedy ...’
+Directive 95/Article of Directive 95/46, ‘National law applicable’, provides:
+‘1.   Each Member State shall apply the national provisions it adopts pursuant to this Directive to the processing of personal data where:
+(a)
+the processing is carried out in the context of the activities of an establishment of the controller on the territory of the Member State; when the same controller is established on the territory of several Member States, he must take the necessary measures to ensure that each of these establishments complies with the obligations laid down by the national law applicable;
+(b)
+the controller is not established on the Member State’s territory, but in a place where its national law applies by virtue of international public law;
+(c)
+the controller is not established on Community territory and, for purposes of processing personal data makes use of equipment, automated or otherwise, situated on the territory of the said Member State, unless such equipment is used only for purposes of transit through the territory of the Community.
+2.   In the circumstances referred to in paragraph 1(c), the controller must designate a representative established in the territory of that Member State, without prejudice to legal actions which could be initiated against the controller himself.’
+Austrian law
+Paragraph of the Konsumentenschutzgesetz (Law on consumer protection) of March (BGBl. 140/1979), headed ‘Unlawful contractual terms’, provides in subparagraph that a contractual provision included in general terms and conditions or pre-printed contractual forms is to be ineffective if it is unclear or unintelligible.
+Under Paragraph 13a of that law, Paragraph of the law is to apply for the purposes of consumer protection regardless of the law applicable to the contract, where the contract was entered into in connection with an activity of an operator or his agents pursued in Austria and directed towards the conclusion of contracts of that kind.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Amazon EU is a company established in Luxembourg belonging to an international mail order group which, among other activities, via a website with a domain name with the extension .de, addresses consumers residing in Austria, with whom it concludes electronic sales contracts. The company has no registered office or establishment in Austria.
+Until mid-the general terms and conditions in the contracts concluded with those consumers were worded as follows:
+‘1.
+Terms of the purchaser that differ from these will not be recognised by Amazon.de unless it has expressly agreed in writing to their application.
+...
+6.
+In the case of payment on receipt of invoice and in other cases where there are legitimate grounds for doing so, Amazon.de will check and evaluate the data provided by the purchaser and exchange data with other firms in the Amazon group, economic information agencies and, where appropriate, with Bürgel Wirtschaftsinformationen GmbH & Co. KG, Postfach 66, Hamburg, Germany.
+...
+9.
+In our decisions on use of payment on receipt of invoice we use — in addition to our own data — probability values to assess the risk of default which we obtain from Bürgel Wirtschaftsinformationen GmbH & Co. KG, Gasstraße 18, Hamburg, and informa Solutions GmbH, Rheinstraße 99, Baden-Baden [(Germany)]. ... The firms specified are also used to validate the address data you supply.
+...
+11.
+If the user chooses to provide content on Amazon.de (e.g. customer reviews), he shall grant Amazon.de for the duration of the underlying right an exclusive licence without any limitation with regard to time or place to make further use of the content for any purpose whatsoever both online and offline.
+12.
+Luxembourg law shall apply, excluding [the United Nations Convention on the International Sale of Goods].’
+The VKI, which is an entity qualified to bring actions for injunctions within the meaning of Directive 2009/22, brought an action before the Austrian courts for an injunction to prohibit the use of all the terms in those general terms and conditions and for publication of the judgment to be delivered, as it considered that those terms were all contrary to legal prohibitions or accepted principles of morality.
+The court at first instance allowed all the claims in the action with the exception of the claim relating to clause 8, concerning the payment of an additional charge for payment on receipt of invoice. It presumed that in principle the Rome I Regulation applies and, on the basis of Article 6(2) of that regulation, held that clause on the choice of applicable law was invalid, on the ground that the choice of law should not have the result of depriving consumers of the protection afforded to them by the law of their State of habitual residence. The court concluded therefrom that the validity of the other terms had to be assessed in the light of Austrian law. Finally, in relation to clauses 6, and 11, the court observed that only the data protection issues had to be assessed in the light of the relevant Luxembourg law, since the Rome I Regulation does not exclude the application of Directive 95/46.
+The appellate court, to which both parties to the main proceedings appealed, set aside the judgment of the first-instance court and referred the case back to it for rehearing. It considered that the Rome I Regulation was relevant for the determination of the applicable law, and only made a substantive examination of clause on the choice of applicable law. It held that Article 6(2) of the regulation did not allow the conclusion that that term was unlawful, and that in accordance with Article 10(1) of the regulation that term should instead have been assessed in the light of Luxembourg law. Inviting the first-instance court to carry out that assessment, the appellate court observed that, if that term proved to be valid as a matter of Luxembourg law, the other terms would also have to be assessed according to that law, and a comparison with Austrian law would then have to be made in order to determine which law was more favourable for the purposes of Article 6(2) of the Rome I Regulation.
+The Oberster Gerichtshof (Supreme Court, Austria), to which the VKI appealed, is uncertain as to the law applicable in the main proceedings. In those circumstances it decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Must the law applicable to an action for an injunction within the meaning of [Directive 2009/22] be determined in accordance with Article of [the Rome II Regulation] where the action is directed against the use of unfair contract terms by an undertaking established in a Member State which in the course of electronic commerce concludes contracts with consumers resident in other Member States, in particular in the State of the court seised?
+(2)
+If Question is answered in the affirmative:
+(a)
+Must the country in which the damage occurs (Article 4(1) of the Rome II Regulation) be understood as every State towards which the commercial activities of the defendant undertaking are directed, so that the terms challenged must be assessed according to the law of the State of the court seised if the qualified entity challenges the use of those terms in commerce with consumers resident in that State?
+(b)
+Does a manifestly closer connection (Article 4(3) of the Rome II Regulation) with the law of the State in which the defendant undertaking is established exist where that undertaking’s terms and conditions provide that the law of that State is to apply to contracts concluded by the undertaking?
+(c)
+Does a choice-of-law term of that kind entail on other grounds that the contractual terms challenged must be assessed in accordance with the law of the State in which the defendant undertaking is established?
+(3)
+If Question is answered in the negative:
+How then must the law applicable to the action for an injunction be determined?
+(4)
+Regardless of the answers to the above questions:
+(a)
+Is a term included in general terms and conditions under which a contract concluded in the course of electronic commerce between a consumer and an operator established in another Member State is to be subject to the law of the State in which that operator is established unfair within the meaning of Article 3(1) of [Directive 93/13]?
+(b)
+Is the processing of personal data by an undertaking which in the course of electronic commerce concludes contracts with consumers resident in other Member States, in accordance with Article 4(1)(a) of [Directive 95/46], regardless of the law that would otherwise apply, subject exclusively to the law of the Member State in which is situated the establishment of the undertaking in the context of which the processing takes place, or must the undertaking also comply with the data protection rules of those Member States to which its commercial activities are directed?’
+Consideration of the questions referred
+Questions to By its first three questions, which should be considered together, the referring court essentially seeks to know how the Rome I and Rome II Regulations should be interpreted for the purpose of determining the law or laws applicable to an action for an injunction within the meaning of Directive 2009/brought against the use of allegedly unlawful contractual terms by an undertaking established in one Member State which concludes contracts by way of electronic commerce with consumers resident in other Member States, in particular in the State of the court seised.
+As a preliminary point, it should be observed that, as regards the respective scopes of the Rome I and Rome II Regulations, the concepts of ‘contractual obligation’ and ‘non-contractual obligation’ in those regulations must be interpreted independently by reference primarily to the regulations’ scheme and purpose. Account should also be taken, in accordance with recital of each of those regulations, of the aim that those regulations should be applied consistently with each other and with Regulation No 44/(‘the Brussels I Regulation’), which inter alia draws a distinction in Article between matters relating to contract and matters relating to tort, delict and quasi-delict (see judgment of January in ERGO Insurance and Gjensidige Baltic, C‑359/and C‑475/14, EU:C:2016:40, paragraph 43).
+As regards the concept of ‘non-contractual obligation’ within the meaning of Article of the Rome II Regulation, it must be recalled that the concept of ‘matters relating to tort, delict and quasi-delict’ within the meaning of Article 5(3) of the Brussels I Regulation includes all actions which seek to establish the liability of a defendant and are not related to a ‘contract’ within the meaning of Article 5(1) of the Brussels I Regulation (judgment of January in ERGO Insurance and Gjensidige Baltic, C‑359/and C‑475/14, EU:C:2016:40, paragraph 45).
+In the context of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters (OJ L 304, p. 36, ‘the Brussels Convention’), the Court has held that a preventive action brought by a consumer protection association for the purpose of preventing a trader from using terms considered to be unfair in contracts with private individuals is a matter relating to tort, delict or quasi-delict within the meaning of Article 5(3) of the convention (judgment of October in Henkel, C‑167/00, EU:C:2002:555, paragraph 50), that interpretation also being valid for the Brussels I Regulation (see, to that effect, judgment of March in Brogsitter, C‑548/12, EU:C:2014:148, paragraph 19).
+In the light of the aim of consistent application mentioned in paragraph above, the view that, in matters of consumer protection, non-contractual liability extends also to the undermining of legal stability by the use of unfair terms which it is the task of consumer protection associations to prevent (see, to that effect, judgment of October in Henkel, C‑167/00, EU:C:2002:555, paragraph 42) is fully applicable to the interpretation of the Rome I and Rome II Regulations. It must therefore be considered that an action for an injunction under Directive 2009/relates to a non-contractual obligation arising out of a tort/delict within the meaning of Chapter II of the Rome II Regulation.
+Article 6(1) of the Rome II Regulation, which forms part of Chapter II of the regulation, provides, as a special rule relating to non-contractual obligations arising out of an act of unfair competition, for the application of the law of the country where competitive relations or the collective interests of consumers are, or are likely to be, affected.
+It follows from recital of the Rome II Regulation that Article 6(1) expresses, in the specific field of unfair competition, the lex loci damni principle laid down in Article 4(1) of the regulation.
+As the Advocate General observes in point of his Opinion, unfair competition within the meaning of Article 6(1) of the Rome II Regulation covers the use of unfair terms inserted into general terms and conditions, as this is likely to affect the collective interests of consumers as a group and hence to influence the conditions of competition on the market.
+In the case of an action for an injunction referred to in Directive 2009/22, the country in which the collective interests of consumers are affected within the meaning of Article 6(1) of the Rome II Regulation is the country of residence of the consumers to whom the undertaking directs its activities and whose interests are defended by the relevant consumer protection association by means of that action.
+It should be stated that Article 4(3) of the Rome II Regulation, under which the law of another country applies if it is clear from all the circumstances that the tort/delict is manifestly more closely connected with a country other than that indicated in Article 4(1) of the regulation, cannot lead to a different result.
+As the Advocate General notes in point of his Opinion, the alternative rule in Article 4(3) of the Rome II Regulation is not suited to the matter of unfair competition, since Article 6(1) of the regulation aims to protect collective interests — more extensive than the relations between the parties to the dispute — by providing for a rule specifically suited to that purpose. That aim would not be achieved if it were permissible to block the rule on the basis of personal connections between those parties.
+In any event, the fact that Amazon EU provides in its general terms and conditions that the law of the country in which it is established is to apply to the contracts it concludes cannot legitimately constitute such a manifestly closer connection.
+If it were otherwise, a professional such as Amazon EU would de facto be able, by means of such a term, to choose the law to which a non-contractual obligation is subject, and could thereby evade the conditions set out in that respect in Article 14(1)(a) of the Rome II Regulation.
+Consequently, the law applicable to an action for an injunction within the meaning of Directive 2009/must be determined, without prejudice to Article 1(3) of the Rome II Regulation, in accordance with Article 6(1) of that regulation, where what is alleged is a breach of a law aimed at protecting consumers’ interests with respect to the use of unfair terms in general terms and conditions.
+On the other hand, the law applicable to the examination of the unfairness of terms in consumer contracts which are the subject of an action for an injunction must be determined independently in accordance with the nature of those terms. Thus, where the action for an injunction aims to prevent such terms from being included in consumer contracts in order to create contractual obligations, the law applicable to the assessment of the terms must be determined in accordance with the Rome I Regulation.
+In the present case, the allegedly unfair terms which are the subject of the action for an injunction in the main proceedings are, for the consumers to whom they are addressed, in the nature of contractual obligations within the meaning of Article 1(1) of the Rome I Regulation.
+That conclusion is not affected by the collective nature of the action by means of which the validity of the terms is challenged. The fact that the action does not concern individual contracts actually concluded is inherent in the very nature of such a preventive collective action, in which an abstract review is carried out.
+A distinction must therefore be drawn, for the purposes of determining the applicable law, between the assessment of the terms concerned, on the one hand, and, on the other hand, the action for an injunction to prohibit the use of those terms brought by an association such as the VKI.
+That distinction is necessary to ensure the uniform application of the Rome I and Rome II Regulations. Furthermore, the independent attachment of the terms in question ensures that the applicable law does not vary according to the kind of action chosen.
+If, in a collective action, the contractual terms concerned had to be examined in the light of the law designated as applicable under Article 6(1) of the Rome II Regulation, there would be a risk that the criteria of examination would be different from those used in an individual action brought by a consumer.
+In the examination of terms in an individual action brought by a consumer, the law designated as applicable as the law of the contract may be different from the law designated as applicable to an action for an injunction as the law of the tort or delict. It must be observed in this respect that the level of protection of consumers still varies from one Member State to another, in accordance with Article of Directive 93/13, so that the assessment of a term may vary, other things being equal, according to the applicable law.
+Such a different attachment, as regards the law designated as applicable, of a term depending on the kind of action brought would have the effect in particular of abolishing the consistency of assessment between collective actions and individual actions which the Court has established by requiring the national courts of their own motion to draw, including for the future, all the conclusions provided for in national law that follow from the finding, in an action for an injunction, that a term included in the general terms and conditions of consumer contracts is unfair, in order that such a term should not bind consumers who have concluded a contract containing those general terms and conditions (see judgment of April in Invitel, C‑472/10, EU:C:2012:242, paragraph 43).
+The inconsistency that would result from a term having a different attachment depending on the kind of action brought would jeopardise the objective pursued by Directives 2009/and 93/of efficaciously putting an end to the use of unfair terms.
+It follows from the above that the law applicable to an action for an injunction within the meaning of Directive 2009/must be determined in accordance with Article 6(1) of the Rome II Regulation where what is alleged is a breach of a law aimed at protecting consumers’ interests with respect to the use of unfair terms in general terms and conditions, whereas the law applicable to the assessment of a particular contractual term must always be determined pursuant to the Rome I Regulation, whether this is in an individual action or in a collective action.
+However, it should be stated that, where in an action for an injunction an assessment is being made of whether a particular contractual term is unfair, it follows from Article 6(2) of the Rome I Regulation that the choice of the applicable law is without prejudice to the application of the mandatory provisions laid down by the law of the country of residence of the consumers whose interests are being defended by means of that action. Those provisions may include the provisions transposing Directive 93/13, provided that they ensure a higher level of protection for the consumer, in accordance with Article of that directive.
+The answer to the first three questions is therefore that the Rome I and Rome II Regulations must be interpreted as meaning that, without prejudice to Article 1(3) of each of those regulations, the law applicable to an action for an injunction within the meaning of Directive 2009/directed against the use of allegedly unfair contractual terms by an undertaking established in a Member State which concludes contracts in the course of electronic commerce with consumers resident in other Member States, in particular in the State of the court seised, must be determined in accordance with Article 6(1) of the Rome II Regulation, whereas the law applicable to the assessment of a particular contractual term must always be determined pursuant to the Rome I Regulation, whether that assessment is made in an individual action or in a collective action.
+Question 4(a)
+By Question 4(a) the referring court seeks to know whether a term in the general terms and conditions of a contract concluded in the course of electronic commerce between a seller or supplier and a consumer, under which the contract is to be governed by the law of the Member State in which the seller or supplier is established, is unfair within the meaning of Article 3(1) of Directive 93/13.
+In accordance with that provision, a contractual term which has not been individually negotiated must be regarded as unfair if, contrary to the requirement of good faith, it causes a significant imbalance in the parties’ rights and obligations to the detriment of the consumer.
+Article 3(2) of Directive 93/specifies that a term must always be regarded as not individually negotiated where it has been drafted in advance by the seller or supplier and the consumer has therefore not been able to influence the substance of the term, particularly in the context of a pre-formulated standard contract. As the Advocate General observes in point of his Opinion, general terms and conditions such as those at issue in the main proceedings correspond to that description.
+Under Article 4(1) of Directive 93/13, a contractual term may be declared unfair only after a case-by-case examination of all the relevant circumstances, including the nature of the goods or services which are the subject of the contract.
+It is for the national court to determine whether, having regard to the particular circumstances of the case, a term meets the requirements of good faith, balance and transparency. The Court nonetheless has jurisdiction to elicit from the provisions of Directive 93/the criteria that the national court may or must apply when making such an examination (see, to that effect, judgment of April in Kásler and Káslerné Rábai, C‑26/13, EU:C:2014:282, paragraphs and and the case-law cited).
+In the case of a term such as clause of the general terms and conditions at issue in the main proceedings, concerning the applicable law, it must first be observed that EU legislation in principle allows choice-of-law terms. Article 6(2) of the Rome I Regulation provides that the parties may choose the law applicable to a consumer contract, provided that the protection is ensured which the consumer is afforded by provisions of the law of his country that cannot be derogated from by agreement.
+In those circumstances, as the Advocate General observes in point of his Opinion, a pre-formulated term on the choice of the applicable law designating the law of the Member State in which the seller or supplier is established is unfair only in so far as it displays certain specific characteristics inherent in its wording or context which cause a significant imbalance in the rights and obligations of the parties.
+In particular, the unfairness of such a term may result from a formulation that does not comply with the requirement of being drafted in plain and intelligible language set out in Article of Directive 93/13. That requirement must, having regard to the consumer’s weak position vis-à-vis the seller or supplier with respect in particular to his level of knowledge, be interpreted broadly (see, to that effect, judgment of April in Van Hove, C‑96/14, EU:C:2015:262, paragraph and the case-law cited).
+Furthermore, where the effects of a term are specified by mandatory statutory provisions, it is essential that the seller or supplier informs the consumer of those provisions (see, to that effect, judgment of April in Invitel, C‑472/10, EU:C:2012:242, paragraph 29). That is the case of Article 6(2) of the Rome I Regulation, which provides that the choice of applicable law must not have the result of depriving the consumer of the protection afforded to him by provisions that cannot be derogated from by agreement by virtue of the law which would have been applicable in the absence of choice.
+Having regard to the mandatory nature of the requirement in Article 6(2) of the Rome I Regulation, the court faced with a choice-of-applicable-law term will, where a consumer with his principal residence in Austria is involved, have to apply those Austrian statutory provisions which, under Austrian law, cannot be derogated from by agreement. It will be for the referring court to identify those provisions if need be.
+The answer to Question 4(a) is therefore that Article 3(1) of Directive 93/must be interpreted as meaning that a term in the general terms and conditions of a seller or supplier which has not been individually negotiated, under which the contract concluded with a consumer in the course of electronic commerce is to be governed by the law of the Member State in which the seller or supplier is established, is unfair in so far as it leads the consumer into error by giving him the impression that only the law of that Member State applies to the contract, without informing him that under Article 6(2) of the Rome I Regulation he also enjoys the protection of the mandatory provisions of the law that would be applicable in the absence of that term, this being for the national court to ascertain in the light of all the relevant circumstances.
+Question 4(b)
+By Question 4(b) the referring court seeks essentially to know whether Article 4(1)(a) of Directive 95/must be interpreted as meaning that the treatment of personal data by an undertaking engaged in electronic commerce is governed by the law of the Member State to which that undertaking directs its activities.
+In accordance with Article 4(1)(a) of Directive 95/46, each Member State is to apply the national provisions it adopts pursuant to that directive to the processing of personal data where the processing is carried out in the context of the activities of an establishment of the controller on the territory of the Member State.
+It follows that the processing of data in the context of the activities of an establishment is governed by the law of the Member State in whose territory that establishment is situated.
+As regards, first, the concept of ‘establishment’ for the purposes of Article 4(1)(a) of Directive 95/46, the Court has previously held that it extends to any real and effective activity, even a minimal one, exercised through stable arrangements (judgment of October in Weltimmo, C‑230/14, EU:C:2015:639, paragraph 31).
+As the Advocate General states in point of his Opinion, while the fact that the undertaking responsible for the data processing does not have a branch or subsidiary in a Member State does not preclude it from having an establishment there within the meaning of Article 4(1)(a) of Directive 95/46, such an establishment cannot exist merely because the undertaking’s website is accessible there.
+Rather, as the Court has previously held, both the degree of stability of the arrangements and the effective exercise of activities in the Member State in question must be assessed (see, to that effect, judgment of October in Weltimmo, C‑230/14, EU:C:2015:639, paragraph 29).
+As regards, second, the question whether the processing of personal data concerned is carried out ‘in the context of the activities’ of that establishment within the meaning of Article 4(1)(a) of Directive 95/46, the Court has pointed out that that provision requires the processing of personal data in question to be carried out not ‘by’ the establishment concerned itself but only ‘in the context of the activities’ of the establishment (judgment of October in Weltimmo, C‑230/14, EU:C:2015:639, paragraph 35).
+It is for the national court to determine, in the light of that case-law and taking account of all the relevant circumstances of the case at issue in the main proceedings, whether Amazon EU carries out the data processing in question in the context of the activities of an establishment situated in a Member State other than Luxembourg.
+As the Advocate General observes in point of his Opinion, if the referring court were to conclude that the establishment in the context of which Amazon EU carries out the processing of that data is situated in Germany, it would be for German law to govern the processing.
+In the light of the foregoing, the answer to Question 4(b) is that Article 4(1)(a) of Directive 95/must be interpreted as meaning that the processing of personal data carried out by an undertaking engaged in electronic commerce is governed by the law of the Member State to which that undertaking directs its activities, if it is shown that the undertaking carries out the data processing in question in the context of the activities of an establishment situated in that Member State. It is for the national court to ascertain whether that is the case.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+Regulation (EC) No 593/of the European Parliament and of the Council of June on the law applicable to contractual obligations (Rome I) and Regulation (EC) No 864/of the European Parliament and of the Council of July on the law applicable to non-contractual obligations (Rome II) must be interpreted as meaning that, without prejudice to Article 1(3) of each of those regulations, the law applicable to an action for an injunction within the meaning of Directive 2009/22/EC of the European Parliament and of the Council of April on injunctions for the protection of consumers’ interests directed against the use of allegedly unfair contractual terms by an undertaking established in a Member State which concludes contracts in the course of electronic commerce with consumers resident in other Member States, in particular in the State of the court seised, must be determined in accordance with Article 6(1) of Regulation No 864/2007, whereas the law applicable to the assessment of a particular contractual term must always be determined pursuant to Regulation No 593/2008, whether that assessment is made in an individual action or in a collective action.
+ 
+2.
+Article 3(1) of Council Directive 93/13/EEC of April on unfair terms in consumer contracts must be interpreted as meaning that a term in the general terms and conditions of a seller or supplier which has not been individually negotiated, under which the contract concluded with a consumer in the course of electronic commerce is to be governed by the law of the Member State in which the seller or supplier is established, is unfair in so far as it leads the consumer into error by giving him the impression that only the law of that Member State applies to the contract, without informing him that under Article 6(2) of Regulation No 593/he also enjoys the protection of the mandatory provisions of the law that would be applicable in the absence of that term, this being for the national court to ascertain in the light of all the relevant circumstances.
+ 
+3.
+Article 4(1)(a) of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data must be interpreted as meaning that the processing of personal data carried out by an undertaking engaged in electronic commerce is governed by the law of the Member State to which that undertaking directs its activities, if it is shown that the undertaking carries out the data processing in question in the context of the activities of an establishment situated in that Member State. It is for the national court to ascertain whether that is the case.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

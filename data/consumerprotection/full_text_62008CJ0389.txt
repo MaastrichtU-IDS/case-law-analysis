@@ -1,0 +1,519 @@
+
+Case C-389/Base NV and Others
+v
+Ministerraad
+(Reference for a preliminary ruling from the Grondwettelijk Hof)
+(Electronic communications – Directive 2002/21/EC (‘Framework’ Directive) – Articles 2(g), and – National regulatory authority – National legislature acting as national regulatory authority – Directive 2002/22/EC (‘Universal Service’ Directive) – Networks and services – Article – Costing of universal service obligations – Social component of universal service – Article – Financing of universal service obligations – Determination of whether an ‘unfair burden’ exists)
+Summary of the Judgment
+1.        Approximation of laws – Electronic communications networks and services – Regulatory framework – Universal service and users’
+            rights – Directives 2002/and 2002/– National regulatory authority
+(European Parliament and Council Directives 2002/21, Arts 2(g), and 4, and 2002/22, Art. 2, first para.)
+2.        Approximation of laws – Telecommunications sector – Universal service and users’ rights – Directive 2002/– Universal service
+            obligations, including social obligations – Costing – Unfair burden
+(European Parliament and Council Directive 2002/22, recital 21)
+3.        Approximation of laws – Telecommunications sector – Universal service and users’ rights – Directive 2002/– Universal service
+            obligations, including social obligations – Costing – Unfair burden
+(European Parliament and Council Directive 2002/22, Art. 12(1) and Annex IV)
+4.        Approximation of laws – Telecommunications sector – Universal service and users’ rights – Directive 2002/– Universal service
+            obligations, including social obligations – Costing – Unfair burden
+(European Parliament and Council Directive 2002/22, Art. 13(1))
+1.        Directive 2002/on universal service and users’ rights relating to electronic communications networks and services does
+         not in principle preclude, by itself, the national legislature from acting as national regulatory authority within the meaning
+         of Directive 2002/on a common regulatory framework for electronic communications networks and services provided that, in
+         the exercise of that function, it meets the requirements of competence, independence, impartiality and transparency laid down
+         by those directives and that its decisions in the exercise of that function can be made the object of an effective appeal
+         to a body independent of the parties involved, which it is for the national court to determine.
+      
+(see paras 30-31, 53, operative part 1)
+2.        It is apparent from recital in the preamble to Directive 2002/on universal service and users’ rights relating to electronic
+         communications networks and services that the Community legislature intended to link the mechanisms for the recovery of net
+         costs which an undertaking may incur as a result of the provision of universal service to the existence of an unfair burden
+         on that undertaking. In that context, in concluding that the net cost of universal service does not necessarily represent
+         an unfair burden for all the undertakings concerned, it intended to exclude the possibility that any net costs of universal
+         service provision automatically give rise to a right to compensation. In those circumstances, the unfair burden which must
+         be found to exist by the national regulatory authority before any compensation is paid is a burden which, for each undertaking
+         concerned, is excessive in view of the undertaking’s ability to bear it, account being taken of all the undertaking’s own
+         characteristics, in particular the quality of its equipment, its economic and financial situation and its market share.
+      
+(see para. 42)
+3.        Article of Directive 2002/on universal service and users’ rights relating to electronic communications networks and
+         services does not preclude a national regulatory authority from determining generally and on the basis of the calculation
+         of the net costs of the universal service provider which was previously the sole provider of that service that the provision
+         of universal service may represent an ‘unfair burden’ for those undertakings designated as universal service providers.
+      
+It is not apparent either from Article 12(1) or from Annex IV to Directive 2002/or from any other provision of that directive
+         that the Community legislature itself intended to prescribe the conditions in which those authorities are to consider, as
+         a preliminary matter, whether the provision of universal service may represent an unfair burden.
+      
+(see paras 36, 53, operative part 2)
+4.        Article of Directive 2002/on universal service and users’ rights relating to electronic communications networks and
+         services precludes the national regulatory authority from determining generally and on the basis of the calculation of the
+         net costs of the universal service provider which was previously the sole provider of that service that the undertakings now
+         designated as universal service providers are effectively subject to an unfair burden because of that provision, without having
+         undertaken a specific examination of the situation of each of them.
+      
+If the national regulatory authority finds that one or more undertakings designated as providers of universal service are
+         subject to an unfair burden or if one or more of them requests compensation, it then falls to the Member State to establish
+         the necessary mechanisms to that end, in accordance with Article 13(1)(a) of Directive 2002/22, from which it is also clear
+         that that compensation must coincide with the net costs, as calculated under Article of the directive.
+      
+(see paras 44, 53, operative part 3)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+October (*)
+      
+(Electronic communications – Directive 2002/21/EC (‘Framework’ Directive) – Articles 2(g), and – National regulatory authority – National legislature acting as national regulatory authority – Directive 2002/22/EC (‘Universal Service’ Directive) – Networks and services – Article – Costing of universal service obligations – Social component of universal service – Article – Financing of universal service obligations – Determination of whether an ‘unfair burden’ exists)
+In Case C‑389/08,
+REFERENCE for a preliminary ruling under Article EC from the Grondwettelijk Hof (Belgium), made by decision of September
+         2008, received at the Court on September 2008, in the proceedings
+      
+Base NV and Others
+v
+Ministerraad,
+intervener:
+Belgacom NV,
+THE COURT (Fourth Chamber),
+composed of J.-C. Bonichot (Rapporteur), President of the Chamber, C. Toader, K. Schiemann, P. Kūris and L. Bay Larsen, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on March 2010,
+after considering the observations submitted on behalf of:
+–        Base NV and Others, by D. Arts and T. De Cordier, advocaten,
+–        Belgacom NV, by F. Vandendriessche and H. Viaene, advocaten,
+–        the Belgian Government, by M. Jacobs, acting as Agent, assisted by S. Depré, advocaat,
+–        the European Commission, by H. van Vliet and A. Nijenhuis, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2010,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article of Directive 2002/22/EC of the European
+         Parliament and of the Council of March on universal service and users’ rights relating to electronic communications
+         networks and services (‘Universal Service’ Directive) (OJ L 108, p. 51).
+      
+The reference has been made in the course of the consideration of an action brought by Base NV and Others (‘Base and Others’)
+         for annulment of the third and fourth paragraphs of Article and Articles 200, and of the Law of April laying down various provisions (IV) (loi du avril portant des dispositions diverses (IV)) (Moniteur belge of May 2007, p. 25103; ‘the Law of April 2007’), amending the Law of June on electronic communications (loi
+         du juin relative aux communications électroniques) (Moniteur belge of June 2005, p. 28070; ‘the Law of June 2005’), which lays down, among other things, the conditions according to which
+         the compensation is to be determined for the charges described as ‘unfair’ incurred because of universal service obligations
+         by operators providing public telephone services.
+      
+ Legal context
+ European Union legislation 
+ The Framework Directive
+Recital in the preamble to Directive 2002/21/EC of the European Parliament and of the Council of March on a common
+         regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, p. 33; ‘the
+         Framework Directive’) is in the following terms:
+      
+‘In accordance with the principle of the separation of regulatory and operational functions, Member States should guarantee
+         the independence of the national regulatory authority or authorities with a view to ensuring the impartiality of their decisions.
+         This requirement of independence is without prejudice to the institutional autonomy and constitutional obligations of the
+         Member States or to the principle of neutrality with regard to the rules in Member States governing the system of property
+         ownership laid down in Article [EC]. National regulatory authorities should be in possession of all the necessary resources,
+         in terms of staffing, expertise, and financial means, for the performance of their tasks.’
+      
+Article 2(g) of the Framework Directive defines ‘national regulatory authority’ as ‘the body or bodies charged by a Member
+         State with any of the regulatory tasks assigned in this Directive and the Specific Directives’.
+      
+Article of the Framework Directive, entitled ‘National regulatory authorities’, provides:
+      
+‘1.      Member States shall ensure that each of the tasks assigned to national regulatory authorities in this Directive and the Specific
+         Directives is undertaken by a competent body.
+      
+2.      Member States shall guarantee the independence of national regulatory authorities by ensuring that they are legally distinct
+         from and functionally independent of all organisations providing electronic communications networks, equipment or services.
+         Member States that retain ownership or control of undertakings providing electronic communications networks and/or services
+         shall ensure effective structural separation of the regulatory function from activities associated with ownership or control.
+      
+3.      Member States shall ensure that national regulatory authorities exercise their powers impartially and transparently.
+…’
+Article 4(1) of the Framework Directive is in the following terms:
+      
+‘Member States shall ensure that effective mechanisms exist at national level under which any user or undertaking providing
+         electronic communications networks and/or services who is affected by a decision of a national regulatory authority has the
+         right of appeal against the decision to an appeal body that is independent of the parties involved. This body, which may be
+         a court, shall have the appropriate expertise available to it to enable it to carry out its functions. Member States shall
+         ensure that the merits of the case are duly taken into account and that there is an effective appeal mechanism. Pending the
+         outcome of any such appeal, the decision of the national regulatory authority shall stand, unless the appeal body decides
+         otherwise.’
+      
+ Directive 2002/Recital in the preamble to Directive 2002/states that ‘[e]nsuring universal service (that is to say, the provision of
+         a defined minimum set of services to all end-users at an affordable price) may involve the provision of some services to some
+         end-users at prices that depart from those resulting from normal market conditions. However, compensating undertakings designated
+         to provide such services in such circumstances need not result in any distortion of competition, provided that designated
+         undertakings are compensated for the specific net cost involved and provided that the net cost burden is recovered in a competitively
+         neutral way’.
+      
+Under Article of Directive 2002/22, entitled ‘Availability of universal service’:
+      
+‘1.      Member States shall ensure that the services set out in this Chapter are made available at the quality specified to all end-users
+         in their territory, independently of geographical location, and, in the light of specific national conditions, at an affordable
+         price.
+      
+2.      Member States shall determine the most efficient and appropriate approach for ensuring the implementation of universal service,
+         whilst respecting the principles of objectivity, transparency, non‑discrimination and proportionality. They shall seek to
+         minimise market distortions, in particular the provision of services at prices or subject to other terms and conditions which
+         depart from normal commercial conditions, whilst safeguarding the public interest.’
+      
+Article of Directive 2002/22, entitled ‘Designation of undertakings’, provides that:
+      
+‘1.      Member States may designate one or more undertakings to guarantee the provision of universal service …
+2.      When Member States designate undertakings in part or all of the national territory as having universal service obligations,
+         they shall do so using an efficient, objective, transparent and non-discriminatory designation mechanism, whereby no undertaking
+         is a priori excluded from being designated. Such designation methods shall ensure that universal service is provided in a
+         cost‑effective manner and may be used as a means of determining the net cost of the universal service obligation in accordance
+         with Article 12.’
+      
+Article of Directive 2002/22, entitled ‘Affordability of tariffs’, provides that: 
+      
+‘1.      National regulatory authorities shall monitor the evolution and level of retail tariffs of the services identified in Articles
+         4, 5, and as falling under the universal service obligations and provided by designated undertakings, in particular in
+         relation to national consumer prices and income.
+      
+2.      Member States may, in the light of national conditions, require that designated undertakings provide tariff options or packages
+         to consumers which depart from those provided under normal commercial conditions, in particular to ensure that those on low
+         incomes or with special social needs are not prevented from accessing or using the publicly available telephone service.
+      
+…’
+Article of Directive 2002/22, entitled ‘Costing of universal service obligations’, states in paragraph 1:
+      
+‘Where national regulatory authorities consider that the provision of universal service as set out in Articles to may
+         represent an unfair burden on undertakings designated to provide universal service, they shall calculate the net costs of
+         its provision.
+      
+For that purpose, national regulatory authorities shall:
+(a)      calculate the net cost of the universal service obligation, taking into account any market benefit which accrues to an undertaking
+         designated to provide universal service, in accordance with Annex IV, Part A; or 
+      
+(b)      make use of the net costs of providing universal service identified by a designation mechanism in accordance with Article
+         8(2).’
+      
+Under Article of Directive 2002/22, entitled ‘Financing of universal service obligations’:
+      
+‘1. Where, on the basis of the net cost calculation referred to in Article 12, national regulatory authorities find that an
+         undertaking is subject to an unfair burden, Member States shall, upon request from a designated undertaking, decide:
+      
+(a)      to introduce a mechanism to compensate that undertaking for the determined net costs under transparent conditions from public
+         funds; and/or
+      
+(b)      to share the net cost of universal service obligations between providers of electronic communications networks and services.
+…’
+Part A of Annex IV to Directive 2002/provides the following description of how the net cost of universal service obligations
+         is to be calculated:
+      
+‘…
+National regulatory authorities are to consider all means to ensure appropriate incentives for undertakings (designated or
+         not) to provide universal service obligations cost efficiently. In undertaking a calculation exercise, the net cost of universal
+         service obligations is to be calculated as the difference between the net cost for a designated undertaking of operating with
+         the universal service obligations and operating without the universal service obligations. This applies whether the network
+         in a particular Member State is fully developed or is still undergoing development and expansion. Due attention is to be given
+         to correctly assessing the costs that any designated undertaking would have chosen to avoid had there been no universal service
+         obligation. The net cost calculation should assess the benefits, including intangible benefits, to the universal service operator.
+      
+…’
+ National legislation 
+Article of the Law of June 2005, as amended by the Law of April 2007, is worded as follows:
+      
+‘The social component of universal service shall consist in the provision, by all operators offering consumers a publicly
+         accessible telephone service, of special tariff conditions for certain categories of beneficiary.
+      
+The categories of beneficiary and the tariff conditions referred to in the first paragraph and the procedure for obtaining
+         such tariff conditions are set out in the Annex. 
+      
+The [Belgian Postal Services and Telecommunications] Institute [(‘the Institute’)] shall provide the Minister [responsible
+         in the matter of electronic communications] with an annual report of the relative share of operators in the total number of
+         “social subscribers” in relation to those operators’ market share, determined on the basis of turnover in the public telephony
+         services market. 
+      
+A fund shall be established for the universal service in relation to social tariffs, from which social tariff providers that
+         have submitted an application to the Institute to that effect shall be compensated. The fund shall have legal personality
+         and shall be administered by the Institute.
+      
+The King shall, by a decree debated in the Council of Ministers, the opinion of the Institute having been given, determine
+         the rules for the operation of the system of compensation. 
+      
+In the event that the number of tariff reductions granted by an operator falls below the number of tariff reductions which
+         correspond to its share of the total turnover of the market in public telephony services, the operator shall make good that
+         difference.
+      
+In the event that the number of tariff reductions granted by an operator exceeds the number of tariff reductions which correspond
+         to its share of the total turnover of the market in public telephony services, the operator shall receive compensation to
+         make good that difference.
+      
+The compensation referred to in the preceding paragraphs shall be payable immediately. Actual settlement through the fund
+         shall take place as soon as the fund becomes operational or, at the latest, within the year following entry into force of
+         this Article. 
+      
+The Institute shall calculate, in accordance with the method set out in the Annex, the net cost of social tariffs for all
+         operators which have submitted an application for compensation to the Institute. 
+      
+The Institute may lay down detailed rules for the calculation of the costs and compensation within the parameters set by this
+         Law and the Annex thereto.’
+      
+Article 45a of the Annex to the Law of June 2005, inserted by Article of the Law of April 2007, sets out the method
+         to be used in calculating the net costs of social tariffs. Article 45a provides as follows: 
+      
+‘The net cost of the social tariffs for universal service shall correspond to the difference between the revenue which social
+         tariff providers would earn under normal commercial conditions and the revenue which they receive as a result of the reductions
+         for social tariff beneficiaries provided for in the present Law. 
+      
+Within the first five years following the entry into force of the Law, compensation payments which the incumbent social tariff
+         provider may receive shall be reduced by a percentage determined by the Institute. 
+      
+The percentage referred to in the preceding paragraph shall be determined on the basis of indirect gains. The Institute shall
+         take account in this regard of the calculations which it has already made in determining the net cost of the incumbent social
+         tariff provider.’
+      
+Article of the Law of April provides as follows:
+      
+‘In the [eighth] paragraph of Article of the Law of June … the phrase “[t]he compensation referred to in the preceding
+         paragraphs shall be payable immediately” is to be interpreted as follows:
+      
+In preparing the Law of June … in the light of the requirements laid down in Directive [2002/22], the legislature,
+         acting in its capacity as national regulatory authority, examined the unfair nature of the burden following a request to that
+         effect from the historic universal service operator and after the Institute had determined the net cost of universal service
+         provision. In that context, the legislature came to the view, confirmed moreover by the Raad van State (Council of State),
+         that, in so far as account is taken of any indirect benefit, including any intangible benefits, which may accrue from the
+         provision of universal service, any loss-making situation revealed by the calculation does in fact constitute an unfair burden.’
+      
+ The dispute in the main proceedings and the question referred for a preliminary ruling
+Base and Others are undertakings operating in the telecommunications sector which may provide universal service in respect
+         of telecommunications.
+      
+On November 2007, they brought an action before the Grondwettelijk Hof (Constitutional Court) for annulment of the third
+         and fourth paragraphs of Article and Articles 200, and of the Law of April 2007. They claimed that those provisions,
+         which lay down the rules for determining whether the burden arising from universal service obligations is unfair, in particular
+         for the provision of social tariffs, are contrary to the constitutional principle of non‑discrimination. They submit that
+         those legislative provisions in fact place Belgacom NV, which alone provided the universal service before the entry into force
+         of the Law of June 2005, in a privileged position compared to that of Base and Others, since the legislature decided as
+         a matter of principle that the provision of universal service constituted an ‘unfair burden’ for Belgacom NV, whereas, for
+         them, the existence of such a burden would be established and could be reviewed in the future by the Institute. They also
+         claimed that, for the determination of the net cost of the universal service obligation borne by Belgacom NV, the legislature
+         relied on the accounting data of 2001, whereas, for the applicants, the Institute would rely on current data. 
+      
+Since it considered that the interpretation of Article of Directive 2002/was necessary to adjudicate on the action before
+         it, the Grondwettelijk Hof decided to stay the proceedings and to refer the following question to the Court of Justice for
+         a preliminary ruling:
+      
+‘Can Article of Directive 2002/… be interpreted as allowing the competent legislature of a Member State, acting in the
+         capacity of the national regulatory authority, to determine generally and on the basis of the calculation of the net costs
+         of the universal service provider – previously the sole provider [of that service] – that the provision of universal service
+         may represent an “unfair burden” for those undertakings designated as universal service providers?’ 
+      
+ Consideration of the question referred
+At the outset, it must be stated that the question referred covers two aspects. First, it seeks to ascertain whether Article
+         of Directive 2002/22, in so far as it entrusts to national regulatory authorities the task of determining whether the provision
+         of universal service may represent an unfair burden for the undertakings designated for that purpose, precludes that determination
+         from being made, on the formal level, by the national legislature. Second, it seeks to ascertain whether Article precludes
+         that determination from being made, on the material level, generally for all undertakings by reference to the net costs of
+         the exclusive universal service provider which was previously the historic operator. 
+      
+The Court must examine those two aspects of the question separately.
+      
+ As regards the national legislature acting as national regulatory authority
+Article 2(g) of the Framework Directive defines ‘national regulatory authority’ as the body or bodies charged by a Member
+         State with any of the regulatory tasks assigned in that directive and the Specific Directives. That definition applies, by
+         virtue of the first paragraph of Article of Directive 2002/22, for the purposes of the latter directive, which is one of
+         the Specific Directives referred to in Article 2(g) of the Framework Directive.
+      
+Neither the Framework Directive nor Directive 2002/designates to which of their bodies the Member States must entrust the
+         regulatory tasks assigned to that authority. 
+      
+In that regard, it follows from Article EC that Member States have the obligation, when they transpose a directive, to
+         ensure that it is fully effective, whilst retaining a broad discretion as to the choice of methods (see, in particular, Case
+         C‑216/Commission v Ireland [2006] ECR I‑10787, paragraph 26). 
+      
+It must also be observed that the freedom to choose the ways and means of ensuring that a directive is implemented does not
+         affect the obligation imposed on all Member States to which the directive is addressed to adopt all the measures necessary
+         to ensure that the directive concerned is fully effective in accordance with the objective which it pursues (see, in particular,
+         Case C‑268/Impact [2008] ECR I‑2483, paragraph 40). 
+      
+Although, in those circumstances, the Member States enjoy institutional autonomy as regards the organisation and the structuring
+         of their regulatory authorities within the meaning of Article 2(g) of the Framework Directive, that autonomy may be exercised
+         only in accordance with the objectives and obligations laid down in that directive (Case C‑82/Comisión del Mercado de las Telecomunicaciones [2008] ECR I‑1265, paragraph 24). 
+      
+Thus, a Member State can assign to the national legislature the tasks incumbent on national regulatory authorities under the
+         Framework Directive and Directive 2002/only if the legislative body, in the exercise of those tasks, meets the organisational
+         and operational requirements to which those directives subject those authorities.
+      
+In that regard, Recital in the preamble to the Framework Directive states that, in accordance with the principle of the
+         separation of regulatory and operational functions, Member States should guarantee the independence of the national regulatory
+         authority or authorities with a view to ensuring the impartiality of their decisions and that they should be in possession
+         of all the necessary resources in terms of staffing, expertise and financial means, for the performance of their tasks.
+      
+Thus, under Article of the Framework Directive, Member States must, in particular, ensure that each of the tasks assigned
+         to national regulatory authorities be undertaken by a competent body, guarantee the independence of those authorities by ensuring
+         that they are legally distinct from and functionally independent of all organisations providing electronic communications
+         networks, equipment or services and ensure that they exercise their powers impartially and transparently. In addition, under
+         Article of the Framework Directive, decisions of those authorities must be made subject to an effective right of appeal
+         to a body independent of the parties involved.
+      
+Therefore, Directive 2002/does not in principle preclude, by itself, the national legislature from acting as national regulatory
+         authority within the meaning of the Framework Directive provided that, in the exercise of that function, it meets the requirements
+         of competence, independence, impartiality and transparency laid down by those directives and that its decisions in the exercise
+         of that function can be made the object of an effective appeal to a body independent of the parties involved.
+      
+It is for the Grondwettelijk Hof to determine whether the Belgian legislature, when acting as national regulatory authority
+         in the field of electronic communications services, can be regarded as a national regulatory authority which meets all the
+         requirements laid down by the Framework Directive and Directive 2002/22.
+      
+ As regards the detailed rules for the determination by the national regulatory authority of whether the provision of universal
+            service may represent an unfair burden 
+It should be recalled that Directive 2002/is intended to create a harmonised regulatory framework which secures, in the
+         electronic communications sector, the delivery of universal service, that is to say, of a defined minimum set of services
+         to all end-users at an affordable price. According to Article 1(1) of Directive 2002/22, one of its  objectives is to ensure
+         the availability, throughout the European Community, of good quality, publicly available services through effective competition
+         and choice (Case C-220/Commission v France [2008] ECR I-95, paragraph 28).
+      
+Under Article 3(2) of Directive 2002/22, Member States are to determine the most efficient and appropriate approach for ensuring
+         the implementation of universal service, whilst respecting the principles of objectivity, transparency, non‑discrimination
+         and proportionality and they are to seek to minimise market distortions, whilst safeguarding the public interest (Commission v France, paragraph 29).
+      
+As recital in the preamble to Directive 2002/states, ensuring universal service may involve the provision of some services
+         to some end-users at prices that depart from those resulting from normal market conditions. The Community legislature therefore
+         provided – as is clear from recital in the preamble to the directive – that Member States should, where necessary, establish
+         mechanisms for financing the net cost of universal service obligations in cases where it is demonstrated that the obligations
+         can be provided only at a loss or at a net cost which falls outside normal commercial standards.
+      
+Accordingly, under the first subparagraph of Article 12(1) of Directive 2002/22, where national regulatory authorities consider
+         that the provision of universal service, as set out in Articles to of that directive, may represent an unfair burden
+         on undertakings designated to provide universal service, they must calculate the net costs of its provision.
+      
+It must be stated that, although the second subparagraph of Article 12(1) and Annex IV to Directive 2002/lay down the rules
+         for calculating the net costs of the provision of universal service where the national regulatory authorities have considered
+         that such provision may represent an unfair burden, it is not apparent either from Article 12(1) or from any other provision
+         of the directive that the Community legislature itself intended to prescribe the conditions in which those authorities are
+         to consider, as a preliminary matter, that/whether the provision of universal service may represent an unfair burden.
+      
+Conversely, it is apparent from Article of Directive 2002/that it is only on the basis of the calculation of the net
+         costs of the provision of universal service, as referred to in Article 12, that national regulatory authorities may find that
+         an undertaking designated to provide universal service is in fact subject to an unfair burden and that Member States must
+         then decide, upon request from that undertaking, to introduce a compensation mechanism in respect of  that cost.
+      
+In view of those considerations, although, formally, the national court has limited its question to the interpretation of
+         Article of Directive 2002/22, such a situation does not prevent the Court from providing the national court with all the
+         elements of interpretation of European Union law which may be of assistance in adjudicating on the case before it, whether
+         or not that court has specifically referred to them in its question (see, in particular, Case C‑251/ING. AUER [2007] ECR I‑9689, paragraph and the case-law cited).
+      
+Therefore, having regard to the terms of the debate before the Grondwettelijk Hof in connection with the action before it,
+         the Court must examine whether Article of Directive 2002/precludes detailed rules by which a national legislature such
+         as the Belgian, acting as national regulatory authority, decided that the provision of universal service constituted an unfair
+         burden.
+      
+In that perspective, in accordance with Article 12(1)(a) of and Annex IV to Directive 2002/22, the calculation of the net
+         cost must be made for each of the undertakings designated to provide universal service.
+      
+In addition, since the finding that the provision of universal service represents an unfair burden for one or more of those
+         undertakings is a pre-requisite to the establishment by Member States of compensation mechanisms in respect of the costs borne
+         by that or those undertakings, it is necessary to determine what is to be understood by ‘unfair burden’, as the term is not
+         defined by Directive 2002/22.
+      
+In that regard, it is apparent from recital in the preamble to Directive 2002/that the Community legislature intended
+         to link the mechanisms for the recovery of net costs which an undertaking may incur as a result of the provision of universal
+         service to the existence of an unfair burden on that undertaking. In that context, in concluding that the net cost of universal
+         service does not necessarily represent an unfair burden for all the undertakings concerned, it intended to exclude the possibility
+         that any net costs of universal service provision automatically give rise to a right to compensation. In those circumstances,
+         the unfair burden which must be found to exist by the national regulatory authority before any compensation is paid is a burden
+         which, for each undertaking concerned, is excessive in view of the undertaking’s ability to bear it, account being taken of
+         all the undertaking’s own characteristics, in particular the quality of its equipment, its economic and financial situation
+         and its market share.
+      
+In the absence of any specific provision in this regard in Directive 2002/22, it falls to the national regulatory authority
+         to lay down general and objective criteria which make it possible to determine the thresholds beyond which – taking account
+         of the characteristics mentioned in the preceding paragraph – a burden may be regarded as unfair. However, the fact remains
+         that the authority cannot find that the burden of providing universal service is unfair, for the purpose of Article of
+         the directive, unless it carries out an individual assessment of the situation of each undertaking concerned in the light
+         of those criteria.
+      
+If the national regulatory authority finds that one or more undertakings designated as providers of universal service are
+         subject to an unfair burden or if one or more of them requests compensation, it then falls to the Member State to establish
+         the necessary mechanisms to that end, in accordance with Article 13(1)(a) of Directive 2002/22, from which it is also clear
+         that that compensation must coincide with the net costs, as calculated under Article of the directive.
+      
+It follows from all the foregoing that Member States cannot, without infringing their obligations under Directive 2002/22,
+         make a finding that the provision of universal service in fact constitutes an unfair burden in respect of which compensation
+         is payable unless they have calculated the net cost which such provision represents for each undertaking responsible for it
+         and have assessed whether that cost constitutes an excessive burden for the undertaking concerned. Nor can they adopt a compensation
+         scheme in which the compensation is unrelated to the net cost.
+      
+It is apparent from Article of the Law of June 2005, as interpreted by the Law of April 2007, that, in concluding
+         that the provision of the social component of universal service represents an unfair burden, the Belgian legislature considered
+         that, in so far as account was taken, in the calculation of the net cost of that service, of all the indirect benefits, including
+         intangible benefits, which may be generated by the provision of that service, ‘any loss-making situation revealed by the calculation
+         … constitute[s] an unfair burden’. It is also clear from Article that the legislature decided that, in the event of the
+         number of tariff reductions granted by an operator being higher than the number of tariff reductions which correspond to its
+         share of overall turnover in the market for public telephony services, that operator will receive compensation, the amount
+         of which will be calculated by reference to that difference.
+      
+In reaching that decision, in 2005, on the unfair nature of the burden represented by the provision of social tariffs in respect
+         of the universal service, the Belgian legislature relied on an opinion produced by the Institute in concerning the costs
+         borne by the historic operator – Belgacom NV – and relating to estimates for the year 2003.
+      
+As is clear from the finding at paragraph of this judgment, there was nothing to prevent the national regulatory authority,
+         when the legislation required all telecommunications operators henceforth to offer social tariffs, concluding, on the basis
+         of the abovementioned information, that the cost of providing universal service ‘may’ represent an unfair burden for the purposes
+         of Article of Directive 2002/22.
+      
+However, the methods for determining the unfair burden giving rise to a right to compensation, as provided for by a law such
+         as that in question in the main proceedings, do not appear to comply with the requirements set out in Article of Directive
+         2002/22.
+      
+First, in considering any loss-making situation revealed by the calculation of the net cost to be an ‘unfair burden’, a national
+         regulatory authority such as, in the main proceedings, the Belgian legislature grants an automatic right to compensation to
+         operators whose net costs incurred on account of their universal service obligations none the less do not represent an excessive
+         burden, whilst it is apparent from what has been said at paragraph of this judgment that, although a loss-making situation
+         is a burden, it is not necessarily an unfair burden for every operator.
+      
+Second, the assessment of the unfair nature of the burden associated with the provision of universal service requires a specific
+         examination both of the net cost which provision of that service represents for each operator concerned and of all the characteristics
+         particular to each operator, such as the quality of its equipment, its economic and financial situation and its market share,
+         as is evident from paragraphs and of this judgment. However, it does not appear from any of the documents before the
+         Court, that the national legislature in this case took all those characteristics into account when it concluded that the provision
+         of universal service represented an unfair burden.
+      
+Third, by providing that there is to be automatic compensation for any cost borne because the number of tariff reductions
+         granted by an operator exceeds, as a proportion, its market share, a law such as the Law of June establishes a mechanism
+         which results in compensation that is unrelated to the net cost of universal service provision as it should have been calculated
+         in accordance with the requirements noted in paragraph of the present judgment.
+      
+Having regard to all the foregoing considerations, the answer to the question referred is that:
+      
+–        Directive 2002/does not in principle preclude, by itself, the national legislature from acting as national regulatory authority
+         within the meaning of the Framework Directive provided that, in the exercise of that function, it meets the requirements of
+         competence, independence, impartiality and transparency laid down by those directives and that its decisions in the exercise
+         of that function can be made the object of an effective appeal to a body independent of the parties involved, which it is
+         for the Grondwettelijk Hof to determine;
+      
+–        Article of Directive 2002/does not preclude a national regulatory authority from determining generally and on the basis
+         of the calculation of the net costs of the universal service provider which was previously the sole provider of that service
+         that the provision of universal service may represent an ‘unfair burden’ for those undertakings designated as universal service
+         providers, and
+      
+–        Article of Directive 2002/precludes that authority from deciding in the same way and on the basis of the same calculation
+         that those undertakings are effectively subject to an unfair burden because of that provision, without having undertaken a
+         specific examination of the situation of each of them. 
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+1.      Directive 2002/22/EC of the European Parliament and of the Council of March on universal service and users’ rights
+            relating to electronic communications networks and services (Universal Service Directive) does not in principle preclude,
+            by itself, the national legislature from acting as national regulatory authority within the meaning of Directive 2002/21/EC
+            of the European Parliament and of the Council of March on a common regulatory framework for electronic communications
+            networks and services (Framework Directive) provided that, in the exercise of that function, it meets the requirements of
+            competence, independence, impartiality and transparency laid down by those directives and that its decisions in the exercise
+            of that function can be made the object of an effective appeal to a body independent of the parties involved, which it is
+            for the Grondwettelijk Hof to determine.
+2.      Article of Directive 2002/does not preclude a national regulatory authority from determining generally and on the basis
+            of the calculation of the net costs of the universal service provider which was previously the sole provider of that service
+            that the provision of universal service may represent an ‘unfair burden’ for those undertakings designated as universal service
+            providers.
+3.      Article of Directive 2002/precludes that authority from deciding in the same way and on the basis of the same calculation
+            that those undertakings are effectively subject to an unfair burden because of that provision, without having undertaken a
+            specific examination of the situation of each of them.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  
+ 

@@ -1,0 +1,551 @@
+
+Joined Cases C-317/to C-320/Rosalba Alassini and Others
+v
+Telecom Italia SpA and Others
+(Reference for a preliminary ruling from the Giudice di pace di Ischia)
+(Reference for a preliminary ruling – Principle of effective judicial protection – Electronic communications networks and services – Directive 2002/22/EC – Universal service – Disputes between end‑users and providers – Mandatory to attempt an out-of-court settlement)
+Summary of the Judgment
+1.        Approximation of laws – Electronic communications networks and services – Universal service and users’ rights – Directive
+            2002/– Out-of-court dispute resolution
+(European Parliament and Council Directive 2002/22, Art. 34)
+2.        Community law – Principles – Right to effective judicial protection
+1.        Article of Directive 2002/on Universal Service and users’ rights relating to electronic communications networks and
+         services (Universal Service Directive) must be interpreted as not precluding legislation of a Member State under which the
+         admissibility before the courts of actions relating to electronic communications services between end-users and providers
+         of those services, concerning the rights conferred by that directive, is conditional upon an attempt to settle the dispute
+         out of court.
+      
+Article 34(1) of that directive assigns to Member States the objective of establishing out-of-court procedures for dealing
+         with unresolved disputes involving consumers and relating to issues covered by that directive. Accordingly, the fact that
+         national legislation has not only put in place an out-of-court settlement procedure, but has also made it mandatory to have
+         recourse to that procedure before bringing an action before a judicial body, is not such as to jeopardise the attainment of
+         that objective. On the contrary, such legislation, in so far as it ensures that out-of-court procedures are systematically
+         used for settling disputes, is designed to strengthen the effectiveness of the Universal Service Directive.
+      
+(see paras 45, 67, operative part 1)
+2.        The principles of equivalence and effectiveness and the principle of effective judicial protection do not preclude national
+         legislation which imposes, in respect of actions relating to electronic communications services between end-users and providers
+         of those services, concerning the rights conferred by Directive 2002/on Universal Service and users’ rights relating to
+         electronic communications networks and services (Universal Service Directive), prior implementation of an out-of-court settlement
+         procedure, provided that that procedure does not result in a decision which is binding on the parties, that it does not cause
+         a substantial delay for the purposes of bringing legal proceedings, that it suspends the period for the time-barring of claims
+         and that it does not give rise to costs – or gives rise to very low costs – for the parties, and only if electronic means
+         is not the only means of access to the settlement procedure and interim measures are possible in exceptional cases where the
+         urgency of the situation so requires.
+      
+It is true that, by making the admissibility of legal proceedings concerning electronic communications services conditional
+         upon the implementation of a mandatory attempt at settlement, such legislation introduces an additional step for access to
+         the courts. That condition might prejudice implementation of the principle of effective judicial protection, reaffirmed by
+         Article of the Charter of Fundamental Rights of the European Union.
+      
+However, fundamental rights do not constitute unfettered prerogatives and may be restricted, provided that the restrictions
+         in fact correspond to objectives of general interest pursued by the measure in question and that they do not involve, with
+         regard to the objectives pursued, a disproportionate and intolerable interference which infringes upon the very substance
+         of the rights guaranteed. In that regard, where the aim of the national legislation is the swifter and less expensive settlement
+         of disputes relating to electronic communications and a lightening of the burden on the court system, it thus pursues legitimate
+         objectives in the general interest. Further, the imposition of such an out-of-court settlement procedure is not – in the light
+         of its detailed rules for operation, referred to above – disproportionate in relation to the objectives pursued, provided
+         that, first, no less restrictive alternative to the implementation of a mandatory procedure exists, since the introduction
+         of an out-of-court settlement procedure which is merely optional is not as efficient a means of achieving those objectives
+         and, second, it is not evident that any disadvantages caused by the mandatory nature of the out-of-court settlement procedure
+         are disproportionate to those objectives.
+      
+(see paras 54-59, 61-65, 67, operative part 2)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+March (*)
+      
+(Reference for a preliminary ruling – Principle of effective judicial protection – Electronic communications networks and services – Directive 2002/22/EC – Universal Service – Disputes between end‑users and providers – Mandatory to attempt an out-of-court settlement)
+In Joined Cases C‑317/08, C‑318/08, C‑319/and C‑320/08,
+REFERENCES for a preliminary ruling under Article EC from the Giudice di Pace di Ischia (Italy), made by decisions of
+         April 2008, received at the Court on July 2008, in the proceedings
+      
+Rosalba Alassini 
+v
+Telecom Italia SpA (C-317/08)
+and
+Filomena Califano 
+v
+Wind SpA (C-318/08)
+and
+Lucia Anna Giorgia Iacono 
+v
+Telecom Italia SpA (C-319/08)
+and
+Multiservice Srl 
+v
+Telecom Italia SpA (C-320/08),
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Third Chamber, acting for the President of the Fourth Chamber, R. Silva de Lapuerta
+         (Rapporteur), G. Arestis, J. Malenovský and T. von Danwitz, Judges,
+      
+Advocate General: J. Kokott,
+Registrar: R. Şereş, Administrator,
+having regard to the written procedure and further to the hearing on September 2009,
+after considering the observations submitted on behalf of:
+–        Wind SpA, by D. Cutolo, avvocato,
+–        the Italian Government, by P. Gentili, avvocato dello Stato,
+–        the German Government, by M. Lumma and J. Kemper, acting as Agents,
+–        the Polish Government, by M. Dowgielewicz, acting as Agent,
+–        the Commission of the European Communities, by N. Bambara, A. Nijenhuis, I.V. Rogalski and S. La Pergola, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2009, 
+gives the following
+Judgment
+These references for a preliminary ruling concern the interpretation of the principle of effective judicial protection in
+         relation to national legislation under which an attempt to achieve an out‑of-court settlement is a mandatory condition for
+         the admissibility before the courts of actions in certain disputes between providers and end-users under Directive 2002/22/EC
+         of the European Parliament and of the Council of March on Universal Service and users’ rights relating to electronic
+         communications networks and services (Universal Service Directive) (OJ L 108, p. 51).
+      
+The references were submitted in the context of four disputes brought, on the one hand, by Ms Alassini, Ms Iacono and Multiservice
+         Srl against Telecom Italia SpA and, on the other hand, by Ms Califano against Wind SpA, regarding alleged breaches of the
+         contracts binding the parties to the main proceedings and concerning the provision of telephone services to the applicants
+         in the main proceedings by Telecom Italia SpA or Wind SpA, providers of those services.
+      
+ Legal context
+ The European Convention for the Protection of Human Rights and Fundamental Freedoms
+Paragraph of Article of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed at
+         Rome on November (‘the ECHR’), which is entitled ‘Right to a fair trial’, provides:
+      
+‘In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a
+         fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. …’
+      
+ Law of the European Union (‘EU law’)
+Article of the Charter of Fundamental Rights of the European Union, proclaimed at Nice on December (OJ C 364,
+         p. 1), as adjusted at Strasbourg on December (OJ C 303, p. 1), which is entitled ‘Right to an effective remedy
+         and to a fair trial’, provides:
+      
+‘Everyone whose rights and freedoms guaranteed by the law of the Union are violated has the right to an effective remedy before
+         a tribunal in compliance with the conditions laid down in this Article.
+      
+Everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal previously
+         established by law. Everyone shall have the possibility of being advised, defended and represented.
+      
+Legal aid shall be made available to those who lack sufficient resources in so far as such aid is necessary to ensure effective
+         access to justice.’
+      
+Recital in the preamble to the Universal Service Directive states:
+      
+‘In the context of a competitive environment, the views of interested parties, including users and consumers, should be taken
+         into account by national regulatory authorities when dealing with issues related to end-users’ rights. Effective procedures
+         should be available to deal with disputes between consumers, on the one hand, and undertakings providing publicly available
+         communications services, on the other. Member States should take full account of Commission Recommendation 98/257/EC of March on the principles applicable to the bodies responsible for out-of-court settlement of consumer disputes [(OJ L 115, p. 31)] …’
+      
+Article of the Universal Service Directive states:
+      
+‘1. Within the framework of Directive 2002/21/EC (Framework Directive), this Directive concerns the provision of electronic
+         communications networks and services to end-users. The aim is to ensure the availability throughout the Community of good-quality
+         publicly available services through effective competition and choice and to deal with circumstances in which the needs of
+         end‑users are not satisfactorily met by the market.
+      
+2. This Directive establishes the rights of end-users and the corresponding obligations on undertakings providing publicly
+         available electronic communications networks and services. With regard to ensuring provision of Universal Service within an
+         environment of open and competitive markets, this Directive defines the minimum set of services of specified quality to which
+         all end-users have access, at an affordable price in the light of specific national conditions, without distorting competition.
+         This Directive also sets out obligations with regard to the provision of certain mandatory services such as the retail provision
+         of leased lines.’
+      
+Article of the Universal Service Directive, which is entitled ‘Out-of-court dispute resolution’, provides:
+      
+‘1. Member States shall ensure that transparent, simple and inexpensive out-of-court procedures are available for dealing
+         with unresolved disputes, involving consumers, relating to issues covered by this Directive. Member States shall adopt measures
+         to ensure that such procedures enable disputes to be settled fairly and promptly and may, where warranted, adopt a system
+         of reimbursement and/or compensation. Member States may extend these obligations to cover disputes involving other end-users.
+      
+2. Member States shall ensure that their legislation does not hamper the establishment of complaints offices and the provision
+         of on-line services at the appropriate territorial level to facilitate access to dispute resolution by consumers and end-users.
+      
+3. Where such disputes involve parties in different Member States, Member States shall coordinate their efforts with a view
+         to bringing about a resolution of the dispute. 
+      
+4.       This Article is without prejudice to national court procedures.’
+Article of Directive 1999/44/EC of the European Parliament and of the Council of May on certain aspects of the sale
+         of consumer goods and associated guarantees (OJ L 171, p. 12), which is entitled ‘Scope and definitions’, provides:
+      
+‘1.      The purpose of this Directive is the approximation of the laws, regulations and administrative provisions of the Member States
+         on certain aspects of the sale of consumer goods and associated guarantees in order to ensure a uniform minimum level of consumer
+         protection in the context of the internal market.
+      
+2.      For the purposes of this Directive:
+…
+(b)      consumer goods: shall mean any tangible movable item, with the exception of:
+      
+–        goods sold by way of execution or otherwise by authority of law,
+–        water and gas where they are not put up for sale in a limited volume or set quantity,
+–        electricity;
+…’
+ Recommendations 98/257/EC and 2001/310/EC
+The fifth, sixth and ninth recitals in the preamble to Commission Recommendation 98/state:
+      
+‘Whereas the experience gained by several Member States shows that alternative mechanisms for the out-of-court settlement
+         of consumer disputes – provided certain essential principles are respected – have had good results, both for consumers and
+         firms, by reducing the cost of settling consumer disputes and the duration of the procedure;
+      
+Whereas the adoption of such principles at European level would facilitate the implementation of out-of-court procedures for
+         settling consumer disputes; whereas, in the case of cross-border conflicts, this would enhance mutual confidence between existing
+         out-of-court bodies in the different Member States and strengthen consumer confidence in the existing national procedures;
+         whereas these criteria will make it easier for parties providing out-of-court settlement services established in one Member
+         State to offer their services in other Member States;
+      
+…
+Whereas this recommendation must be limited to procedures which, no matter what they are called, lead to the settling of a
+         dispute through the active intervention of a third party, who proposes or imposes a solution; whereas, therefore, it does
+         not concern procedures that merely involve an attempt to bring the parties together to convince them to find a solution by
+         common consent’.
+      
+Under the title ‘Principle of liberty’, Section VI of Recommendation 98/states:
+      
+‘The decision taken by the body concerned may be binding on the parties only if they were informed of its binding nature in
+         advance and specifically accepted this.
+      
+The consumer’s recourse to the out-of-court procedure may not be the result of a commitment prior to the materialisation of
+         the dispute, where such commitment has the effect of depriving the consumer of his right to bring an action before the courts
+         for the settlement of the dispute’.
+      
+Under the title ‘Scope’, Section I of Commission Recommendation 2001/310/EC of April on the principles for out-of-court
+         bodies involved in the consensual resolution of consumer disputes (OJ L 109, p. 56) provides:
+      
+‘1.      This recommendation applies to third party bodies responsible for out-of-court consumer dispute resolution procedures that,
+         no matter what they are called, attempt to resolve a dispute by bringing the parties together to convince them to find a solution
+         by common consent.
+      
+2.      It does not apply to customer complaint mechanisms operated by a business and concluded directly with the consumer or to such
+         mechanisms carrying out such services operated by or on behalf of a business.’
+      
+ National law
+The Italian Republic transposed the Universal Service Directive into national law by Legislative Decree No of August
+         2003, relating to the Electronic Communications Code (GURI No of September 2003, p. 3). 
+      
+Under Article of the Electronic Communications Code: 
+      
+‘1.      The Authority, for the purposes of Article 1(11), (12) and (13) of Law No of July [establishing the Communications
+         Regulatory Authority and laying down rules relating to the telecommunications and radiotelevision systems (Ordinary Supplement
+         to GURI No of July 1997)] shall adopt transparent, simple and inexpensive out-of-court procedures for examining disputes,
+         involving consumers and end-users, relating to the provisions of this Chapter, to enable disputes to be settled fairly and
+         promptly and may, where warranted, provide for a system of reimbursement or compensation.
+      
+2.      The Authority shall, in agreement with the Standing Conference for relations between the State, the regions and the autonomous
+         provinces of Trento and Bolzano, and under Article 1(13) of Law No of July 1997, encourage the creation at the appropriate
+         territorial level, using current staff resources and the equipment which can be acquired using the ordinary budget credits
+         without subsequent amendment of expenditure, of complaints offices and on-line complaints services, with responsibility for
+         facilitating access to dispute resolution mechanisms by consumers and end-users.
+      
+3.      Where the disputes involve nationals of other Member States, the Authority shall coordinate its efforts with those of the
+         other regulatory authorities concerned to bring about a resolution of the dispute. 
+      
+4.      This Article is without prejudice to the provisions in force concerning the judicial resolution of disputes and, pending the
+         implementation of paragraphs and 2, to the provisions in force concerning out-of-court dispute resolution, at the date of
+         publication of the Code in the Gazzetta ufficiale della Repubblica italiana (Official Journal of the Italian Republic).’
+      
+Pursuant to Law No of July 1997, disputes in the electronic communications field between end-users and operators which
+         arise as a result of non-compliance with the rules on Universal Service and on the rights of end-users fall within the competence
+         of the Communications Regulatory Authority.
+      
+By Decision 173/07/CONS (GURI No of May 2007, p. 19), the Communications Regulatory Authority adopted the procedural
+         rules for the settlement of disputes between telecommunications operators and end-users (‘the dispute settlement rules’).
+         
+      
+Under Article of the dispute settlement rules:
+      
+‘1.      In respect of disputes of the kind referred to in Article 2(1), no court proceedings may be brought until the mandatory attempt
+         to settle the dispute has been undertaken using the services of the Co.Re.Com (Regional Communications Commission) responsible
+         for the geographical area concerned and authorised to conduct a settlement procedure, or using the services of the out-of-court
+         dispute resolution bodies referred to in Article 13.
+      
+2.      If the Co.Re.Com responsible for the geographical area concerned is not authorised in accordance with paragraph to conduct
+         a settlement procedure, the mandatory attempt to settle the dispute must be undertaken using the services of the bodies referred
+         to in Article 13.
+      
+3.      The time-limit for completion of the settlement procedure shall be days as from the date of the request; on expiry of the
+         deadline the parties may bring court proceedings even if the procedure has not been completed.’
+      
+Under Article of the dispute settlement rules:
+      
+‘1. As an alternative to having the settlement procedure conducted by the Co.re.com, the parties concerned may undertake the
+         mandatory attempt to settle the dispute, whether by means of electronic communication or otherwise, using the services of
+         the out-of-court bodies for the resolution of consumer disputes referred to in point (o) of Article of this decision. 
+      
+2. Users may also, for those purposes, bring their case to the bodies established by agreement between the operators and the
+         national associations of consumers’ representatives, provided that those bodies provide their services free of charge and
+         observe the principles of transparency, fairness and effectiveness referred to in Recommendation 2001/310/EC.
+      
+3.      The up-to-date list of the bodies referred to in the preceding paragraphs shall be available on the Authority’s internet site.
+4.      The bodies established in accordance with paragraph shall be registered on the list referred to in paragraph on presentation
+         of a specific application, signed by the parties, together with the agreement between the operator and at least two-thirds
+         of the national associations of consumers’ representatives and a copy of the rules of procedure, after it has been ascertained
+         that the principles referred to in paragraph have been complied with.
+      
+5.      The application must be renewed every two years in accordance with the same procedure. In the absence of an application for
+         renewal, the Authority shall automatically remove the body from the list referred to in paragraph 3.
+      
+6.      On the declaration of any interested person, the authority may decide to remove from the list bodies which it finds have failed
+         to comply with the principles set out in paragraph 2’.
+      
+ The disputes before the referring court and the question referred for a preliminary ruling
+It is apparent from the orders for reference that, in all the actions brought by the applicants in the proceedings before
+         the referring court, the defendants have argued by way of a preliminary objection under Articles and of the dispute settlement
+         rules that the actions are inadmissible because the applicants had not first initiated the mandatory attempt to settle the
+         dispute before the Co.re.com, as provided for under those provisions.
+      
+According to the referring court, although provided for under Italian legislation, the Co.re.com has not yet been set up in
+         the region of Campania, which means that the mandatory settlement procedure must be brought before other bodies, namely those
+         referred to in Article of the dispute settlement rules. However, it has not been verified that those bodies comply with
+         the principles set out in Recommendation 2001/and, in particular, it has not been ascertained whether settlement attempts
+         before those bodies are free of charge or for fees set at an appropriate level, or whether they are well-publicised and easy
+         to use.
+      
+In any event, even if the Co.re.com had been set up in Campania, the referring court takes the view that the mandatory nature
+         of the settlement procedure, as provided for under the legislation at issue, could impede end-users from exercising their
+         rights, in particular because the settlement must be carried out by electronic means. The referring court also points out
+         that there is already provision, under the ordinary court procedure, for attempts at settlement to be undertaken in the course
+         of the first hearing. 
+      
+It was in that context that the Giudice di Pace di Ischia (Magistrates Court, Ischia) (Italy) decided, in each pending case,
+         to stay the proceedings and to refer to the Court the following question for a preliminary ruling:
+      
+‘Do the Community rules referred to above (Article of the [ECHR], [the Universal Service] Directive …, Directive [1999/44],
+         … Recommendation [2001/310] and [Recommendation [98]/257]) have direct effect and must they be interpreted as meaning that
+         disputes “in the area of electronic communications between end-users and operators concerning non-compliance with the rules
+         on Universal Service and on the rights of end-users, as laid down in legislation, decisions of the Regulatory Authority, contractual
+         terms and service charters” (the disputes contemplated by Article of [the regulation annexed to] Decision No 173/07/CONS
+         of the Regulatory Authority) must not be made subject to a mandatory attempt to settle the dispute without which proceedings
+         in that regard may not be brought before the courts, thus taking precedence over the rule laid down in Article 3(1) of [the
+         regulation annexed to] Decision No 173/07/CONS?’
+      
+By order of the President of the Court of September 2008, Cases C‑317/to C-320/were joined for the purposes of the
+         written and oral procedures and of the judgment.
+      
+ The question referred for a preliminary ruling
+ Admissibility
+At the hearing, the Italian Government argued that the question referred for a preliminary ruling is inadmissible. According
+         to that government, since the referring court has not specified which rights under EU law are disputed in the main proceedings,
+         the issue raised is purely hypothetical.
+      
+While it does not submit that the question referred is inadmissible, the Commission also points out the need for a factor
+         connecting the disputes before the referring court with EU law, it being impossible, according to the Commission, to infer
+         such a factor automatically from the orders for reference. 
+      
+In that regard, it should be borne in mind that, in proceedings under Article EC, it is solely for the national court
+         before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine
+         in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver
+         judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern
+         the interpretation of EU law, the Court is in principle bound to give a ruling (see, inter alia, Case C-119/Lucchini [2007] ECR I-6199, paragraph 43; Case C-414/Magoora [2008] ECR I-10921, paragraph 22; and Case C-12/Mono Car Styling [2009] ECR I-0000, paragraph 27).
+      
+Thus, the Court may reject a request for a preliminary ruling submitted by a national court only where it is quite obvious
+         that the interpretation of EU law that is sought is unrelated to the actual facts of the main action or its purpose, where
+         the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a
+         useful answer to the questions submitted to it (see, inter alia, Case C-379/PreussenElektra [2001] ECR I-2099, paragraph 39; Joined Cases C-94/and C-202/Cipolla and Others [2006] ECR I-11421, paragraph 25; Magoora, paragraph 23; and Mono Car Styling, paragraph 28).
+      
+With regard to the present reference for a preliminary ruling, it must be stated that the orders for reference contain a reasoned
+         statement of the factual and legal context of the main proceedings and the reasons why the national court considered that
+         an answer to the question referred in each dispute was necessary to enable it to give judgment. 
+      
+In addition, while admittedly the orders for reference do not set out in detail the disputes in the main proceedings and,
+         more specifically, do not identify the specific rights and obligations which are in dispute, the fact remains that those disputes
+         concern electronic communications services between end-users and providers, and out-of-court procedures for the settlement
+         of those disputes; and, moreover, the national court refers expressly to recital in the preamble to the Universal Service
+         Directive and to Article thereof.
+      
+It must therefore be concluded that the question referred concerns the interpretation of EU law and that such interpretation
+         is necessary for the resolution of the disputes in the main proceedings.
+      
+Consequently, the question referred for a preliminary ruling must be declared admissible.
+      
+ Substance
+It should be observed at the outset that the question refers not only to the Universal Service Directive, to Recommendation
+         98/and to the right to effective legal protection, as laid down in Article of the ECHR, but also to Directive 1999/and Recommendation 2001/310.
+      
+So far as Directive 1999/is concerned, since – pursuant to Article thereof – communication services are not covered by
+         that directive, it must be held that Directive 1999/is not applicable to the cases before the referring court.
+      
+In relation to Recommendation 2001/310, it should be noted that, in accordance with recital in the preamble to the Universal
+         Service Directive, when making available the procedures referred to in that directive for dealing with disputes, Member States
+         should take due account of Recommendation 98/257. 
+      
+However, according to the ninth recital in the preamble to Recommendation 98/257, the scope of that recommendation is limited
+         to procedures which – no matter what they are called – lead to the settling of a dispute through the active intervention of
+         a third party who proposes or imposes a solution, and it does not concern procedures, such as those provided for in Recommendation
+         2001/310, which merely involve an attempt to bring the parties together to convince them to find a solution by common consent.
+      
+It must therefore be held that the procedures referred to by the Universal Service Directive for dealing with disputes must
+         not merely involve an attempt to bring the parties together to convince them to find a solution by common consent, but must
+         lead to the settling of the dispute through the active intervention of a third party who proposes or imposes a solution.
+      
+In the cases before the referring court, the mandatory out-of-court procedure provided for under the national legislation
+         at issue does not merely seek to bring the parties together, but proposes a solution for them through the active intervention
+         of a settlement body. In consequence, it must be held that Recommendation 2001/310, too, is not applicable to the disputes
+         in the main proceedings. 
+      
+Consequently, the question referred must be construed as seeking to ascertain, in essence, whether Article of the Universal
+         Service Directive and the principle of effective judicial protection must be interpreted as precluding legislation of a Member
+         State under which the admissibility before the courts of actions relating to electronic communications services between end-users
+         and providers of those services, concerning the rights conferred by that directive, is conditional upon an attempt to settle
+         the dispute out of court.
+      
+ Article of the Universal Service Directive
+Under Article of the Universal Service Directive, Member States must ensure that transparent, simple and inexpensive out-of-court
+         procedures are available, enabling disputes involving consumers and relating to issues covered by that directive to be settled
+         fairly and promptly. Those procedures are always to be without prejudice to national court procedures.
+      
+As was observed in paragraph of this judgment, when making available those out-of-court procedures, the Member States must
+         take due account of Recommendation 98/257. 
+      
+In that connection, it should be borne in mind that the Court has consistently held that, even if recommendations are not
+         intended to produce binding effects and are not capable of creating rights that individuals can rely on before a national
+         court, they are not without any legal effect. The national courts are bound to take recommendations into consideration in
+         order to decide disputes brought before them, in particular where such recommendations cast light on the interpretation of
+         national measures adopted in order to implement them or where they are designed to supplement binding provisions of EU law
+         (see Case C‑322/Grimaldi [1989] ECR 4407, paragraphs 7, and 18, and Case C‑207/Altair Chimica [2003] ECR I-8875, paragraph 41). 
+      
+However, it must be held that neither the Universal Service Directive nor Recommendation 98/sets out the precise content
+         or the specific nature of the out-of-court procedures which have to be introduced, apart from the criteria referred to in
+         Article of the Universal Service Directive and set out in paragraph of this judgment, and the principles set out in
+         Recommendation 98/257, namely the principles of impartiality and transparency, the adversarial principle and the principles
+         of effectiveness, legality, liberty and representation.
+      
+It must be observed that none of the criteria or principles mentioned above implies a limitation of the powers of the Member
+         States in terms of being able to make out-of-court procedures for the settlement of disputes mandatory. 
+      
+To that effect, it should be noted that, in accordance with Article 34(4) of the Universal Service Directive and the principle
+         of liberty set out in Section VI of Recommendation 98/257, the only requirement imposed in that connection is that the right
+         to bring an action before the courts for the settlement of disputes must be maintained. 
+      
+Consequently, since the Universal Service Directive does not make more detailed provision as regards the precise content of
+         the procedures provided for in Article thereof or the nature of those procedures, it is for the Member States to lay down
+         those rules and to define the nature – which may be mandatory – of those procedures, while ensuring that the directive remains
+         effective. 
+      
+In that connection, it must be stated that Article 34(1) of the Universal Service Directive assigns Member States the objective
+         of establishing out-of-court procedures for dealing with unresolved disputes involving consumers and relating to issues covered
+         by that directive. Accordingly, the fact that national legislation such as that at issue in the main proceedings has not only
+         put in place an out-of-court settlement procedure, but has also made it mandatory to have recourse to that procedure before
+         bringing an action before a judicial body, is not such as to jeopardise the attainment of that objective. On the contrary,
+         such legislation, in so far as it ensures that out-of-court procedures are systematically used for settling disputes, is designed
+         to strengthen the effectiveness of the Universal Service Directive.
+      
+However, in so far as the establishment of a mandatory settlement procedure is a condition for the admissibility of actions
+         before the courts, it is necessary to consider whether it is compatible with the right to effective judicial protection.
+      
+ The principles of equivalence and effectiveness and the principle of effective judicial protection
+First, the Court has consistently held that, in the absence of EU rules governing the matter, it is for the domestic legal
+         system of each Member State to designate the courts and tribunals having jurisdiction and to lay down the detailed procedural
+         rules governing actions for safeguarding rights which individuals derive from EU law, but the Member States are nevertheless
+         responsible for ensuring that those rights are effectively protected in each case (see Case C‑268/Impact [2008] ECR I-2483, paragraphs and 45, and Mono Car Styling, paragraph 48).
+      
+On that basis, as is apparent from well-established case-law, the detailed procedural rules governing actions for safeguarding
+         an individual’s rights under EU law must be no less favourable than those governing similar domestic actions (principle of
+         equivalence) and must not make it in practice impossible or excessively difficult to exercise rights conferred by EU law (principle
+         of effectiveness) (see, to that effect, Impact, paragraph and the case-law cited).
+      
+Those requirements of equivalence and effectiveness embody the general obligation on the Member States to ensure judicial
+         protection of an individual’s rights under EU law. They apply both as regards the designation of the courts and tribunals
+         having jurisdiction to hear and determine actions based on EU law and as regards the definition of detailed procedural rules
+         (see Impact, paragraphs and 48, and Case C-63/Pontin [2009] ECR I-0000, paragraph 44).
+      
+In the cases before the referring court, it is clear that the principle of equivalence has been observed. 
+      
+First, the referring court has not mentioned any evidence to suggest infringement of the principle of equivalence. Secondly,
+         the Italian Government confirmed at the hearing that the national rule at issue applies without distinction, it being immaterial
+         whether the infringement alleged is of EU law or national law on electronic communications.
+      
+As regards the principle of effectiveness, it is admittedly true that making the admissibility of legal proceedings conditional
+         upon the prior implementation of an out-of-court settlement procedure affects the exercise of rights conferred on individuals
+         by the Universal Service Directive. 
+      
+However, various factors show that a mandatory settlement procedure, such as that at issue, is not such as to make it in practice
+         impossible or excessively difficult to exercise the rights which individuals derive from that directive. 
+      
+First, the outcome of the settlement procedure is not binding on the parties concerned and thus does not prejudice their right
+         to bring legal proceedings. 
+      
+Secondly, the settlement procedure does not, in normal circumstances, result in a substantial delay for the purposes of bringing
+         legal proceedings. The time-limit for completion of the settlement procedure is days as from the date of the request and,
+         on expiry of the deadline, the parties may bring legal proceedings even if the procedure has not been completed.
+      
+Thirdly, for the duration of the settlement procedure, the period for the time-barring of claims is suspended.
+      
+Fourthly, there are no fees for the settlement procedure before the Co.re.com. In the case of the settlement procedures before
+         other bodies, there is nothing in the documents before the Court to suggest that they entail significant costs.
+      
+However, the exercise of rights conferred by the Universal Service Directive might be rendered in practice impossible or excessively
+         difficult for certain individuals – in particular, those without access to the Internet – if the settlement procedure could
+         be accessed only by electronic means. It is for the referring court to ascertain whether that is the case, having especial
+         regard to Article 13(1) of the dispute settlement rules. 
+      
+By the same token, it is for the referring court to ascertain whether, in exceptional cases where interim measures are necessary,
+         the settlement procedure allows, or does not preclude, the adoption of such measures.
+      
+In those circumstances, it must be held that the national legislation at issue in the present case complies with the principle
+         of effectiveness in so far as electronic means is not the only means by which the settlement procedure may be accessed and
+         in so far as interim measures are possible in exceptional cases where the urgency of the situation so requires.
+      
+Secondly, it should be borne in mind that the principle of effective judicial protection is a general principle of EU law
+         stemming from the constitutional traditions common to the Member States, which has been enshrined in Articles and of
+         the ECHR and which has also been reaffirmed by Article of the Charter of Fundamental Rights of the European Union (see
+         Mono Car Styling, paragraph and the case-law cited). 
+      
+In that regard, it is common ground in the cases before the referring court that, by making the admissibility of legal proceedings
+         concerning electronic communications services conditional upon the implementation of a mandatory attempt at settlement, the
+         national legislation introduces an additional step for access to the courts. That condition might prejudice implementation
+         of the principle of effective judicial protection.
+      
+Nevertheless, it is settled case-law that fundamental rights do not constitute unfettered prerogatives and may be restricted,
+         provided that the restrictions in fact correspond to objectives of general interest pursued by the measure in question and
+         that they do not involve, with regard to the objectives pursued, a disproportionate and intolerable interference which infringes
+         upon the very substance of the rights guaranteed (see, to that effect, Case C-28/Doktor and Others [2006] ECR I-5431, paragraph and the case-law cited, and the judgment of the ECHR in Fogarty v United Kingdom, no. 37112/97, §33, ECHR 2001-XI (extracts)).
+      
+However, as the Italian Government observed at the hearing, it must first be noted that the aim of the national provisions
+         at issue is the quicker and less expensive settlement of disputes relating to electronic communications and a lightening of
+         the burden on the court system, and they thus pursue legitimate objectives in the general interest.
+      
+Secondly, the imposition of an out-of-court settlement procedure such as that provided for under the national legislation
+         at issue, does not seem – in the light of the detailed rules for the operation of that procedure, referred to in paragraphs
+         to of this judgment – disproportionate in relation to the objectives pursued. In the first place, as the Advocate General
+         stated in point of her Opinion, no less restrictive alternative to the implementation of a mandatory procedure exists,
+         since the introduction of an out-of-court settlement procedure which is merely optional is not as efficient a means of achieving
+         those objectives. In the second place, it is not evident that any disadvantages caused by the mandatory nature of the out-of-court
+         settlement procedure are disproportionate to those objectives.
+      
+In the light of the foregoing, it must be held that the national procedure at issue in the main proceedings also complies
+         with the principle of effective judicial protection, subject to the conditions referred to in paragraphs and of this
+         judgment.
+      
+Consequently, the answer to the question referred for a preliminary ruling is that: 
+      
+–        Article of the Universal Service Directive must be interpreted as not precluding legislation of a Member State under which
+         the admissibility before the courts of actions relating to electronic communications services between end-users and providers
+         of those services, concerning the rights conferred by that directive, is conditional upon an attempt to settle the dispute
+         out of court;
+      
+–        Nor do the principles of equivalence and effectiveness or the principle of effective judicial protection preclude national
+         legislation which imposes, in respect of such disputes, prior implementation of an out-of-court settlement procedure, provided
+         that that procedure does not result in a decision which is binding on the parties, that it does not cause a substantial delay
+         for the purposes of bringing legal proceedings, that it suspends the period for the time-barring of claims and that it does
+         not give rise to costs – or gives rise to very low costs – for the parties, and only if electronic means is not the only means
+         by which the settlement procedure may be accessed and interim measures are possible in exceptional cases where the urgency
+         of the situation so requires.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+Article of Directive 2002/22/EC of the European Parliament and of the Council of March on Universal Service and
+            users’ rights relating to electronic communications networks and services (Universal Service Directive) must be interpreted
+            as not precluding legislation of a Member State under which the admissibility before the courts of actions relating to electronic
+            communications services between end-users and providers of those services, concerning the rights conferred by that directive,
+            is conditional upon an attempt to settle the dispute out of court. 
+Nor do the principles of equivalence and effectiveness or the principle of effective judicial protection preclude national
+            legislation which imposes, in respect of such disputes, prior implementation of an out-of-court settlement procedure, provided
+            that that procedure does not result in a decision which is binding on the parties, that it does not cause a substantial delay
+            for the purposes of bringing legal proceedings, that it suspends the period for the time-barring of claims and that it does
+            not give rise to costs – or gives rise to very low costs – for the parties, and only if electronic means is not the only means
+            by which the settlement procedure may be accessed and interim measures are possible in exceptional cases where the urgency
+            of the situation so requires.
+[Signatures]
+* Language of the case: Italian.
+      
+Top  
+ 
