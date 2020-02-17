@@ -1,0 +1,179 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+January (
+*)
+‛Reference for a preliminary ruling — Directive 2007/64/EC — Payment services in the internal market — Framework contracts — Prior general information — Obligation to provide that information on paper or on another durable medium — Information transmitted by means of the electronic mailbox of an online banking website’
+In Case C‑375/15,
+REQUEST for a preliminary ruling under Article TFEU from the Oberster Gerichtshof (Supreme Court, Austria), made by decision of May 2015, received at the Court on July 2015, in the proceedings
+BAWAG PSK Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse AG
+v
+Verein für Konsumenteninformation,
+THE COURT (Third Chamber),
+composed of L. Bay Larsen, President of the Chamber, M. Vilaras, J. Malenovský, M. Safjan (Rapporteur) and D. Šváby, Judges,
+Advocate General: M. Bobek,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on June 2016,
+after considering the observations submitted on behalf of:
+—
+BAWAG PSK Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse AG, by G. Schett, Rechtsanwalt,
+—
+the Verein für Konsumenteninformation, by S. Langer, Rechtsanwalt,
+—
+the Italian Government, by G. Palmieri, acting as Agent, and L. D’Ascia, avvocato dello Stato,
+—
+the Polish Government, by B. Majczyna, acting as Agent,
+—
+the European Commission, by W. Mölls and H. Tserepa-Lacombe, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2016,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles 36(1) and 41(1) of Directive 2007/64/EC of the European Parliament and of the Council of November on payment services in the internal market, amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC (OJ L 319, p. 1), as amended by Directive 2009/111/EC of the European Parliament and of the Council of September (OJ L 302, p. 97) (‘Directive 2007/64’).
+This request has been made in proceedings between BAWAG PSK Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse AG (‘BAWAG’) and the Verein für Konsumenteninformation (Consumer Information Association; ‘the Association’), concerning a clause included in the contracts that BAWAG enters into with consumers.
+Legal context
+EU law
+Recitals 18, to 24, and of Directive 2007/state:
+‘(18)
+A set of rules should be established in order to ensure transparency of conditions and information requirements for payment services.
+…
+(21)
+This Directive should specify the obligations on payment service providers as regards the provision of information to the payment service users who should receive the same high level of clear information about payment services in order to make well-informed choices and be able to shop around within the EU. In the interest of transparency this Directive should lay down the harmonised requirements needed to ensure that necessary and sufficient information is given to the payment service users with regard to the payment service contract and the payment transactions. In order to promote smooth functioning of the single market in payment services, Member States should be able to adopt only those information provisions laid down in this Directive.
+(22)
+Consumers should be protected against unfair and misleading practices in line with Directive 2005/29/EC of the European Parliament and the Council of May concerning unfair business-to-consumer commercial practices in the Internal Market [and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/of the European Parliament and of the Council (“Unfair Commercial Practices Directive”) (OJ L 149, p. 22)] as well as Directive 2000/31/EC of the European Parliament and the Council of June on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (“Directive on electronic commerce”) [(OJ L 178, p. 1)] and Directive 2002/65/EC of the European Parliament and the Council of September concerning the distance marketing of consumer financial services [and amending Council Directives 90/619/EEC, 97/7/EC and 98/27/EC (OJ L 271, p. 16), as amended by Directive 2005/29. The additional provisions in those Directives continue to be applicable. However, the relationship of the pre-contractual information requirements between this Directive and [Directive 2002/65] should, in particular, be clarified.
+(23)
+The information required should be proportionate to the needs of users and communicated in a standard manner. However, the information requirements for a single payment transaction should be different from those of a framework contract which provides for the series of payment transactions.
+(24)
+In practice, framework contracts and the payment transactions covered by them are far more common and economically important than single payment transactions. If there is a payment account or a specific payment instrument, a framework contract is required. Therefore, the requirements for prior information on framework contracts should be quite comprehensive and information should always be provided on paper or on another durable medium, such as printouts by account printers, floppy disks, CD-ROMs, DVDs and hard drives of personal computers on which electronic mail can be stored, and Internet sites, as long as such sites are accessible for future reference for a period of time adequate for the purposes of information and allow the unchanged reproduction of the information stored. However, it should be possible for the payment service provider and the payment service user to agree in the framework contract on the manner in which subsequent information on executed payment transactions is given, for instance, that in Internet banking all information on the payment account is made available online.
+…
+(27)
+… this Directive should distinguish between two ways in which information is to be given by the payment service provider: either the information should be provided, i.e. actively communicated by the payment service provider at the appropriate time as required by this Directive without further prompting by the payment service user, or the information should be made available to the payment service user, taking into account any request he may have for further information. In the latter case, the payment service user should take some active steps in order to obtain the information, such as requesting it explicitly from the payment service provider, logging into bank account mail box or inserting a bank card into printer for account statements. …
+…
+(46)
+The smooth and efficient functioning of the payment system depends on the user being able to rely on the payment service provider executing the payment transaction correctly and within the agreed time. Usually, the provider is in the position to assess the risks involved in the payment transaction. It is the provider that provides the payments system, makes arrangements to recall misplaced or wrongly allocated funds and decides in most cases on the intermediaries involved in the execution of a payment transaction. …’
+Article of Directive 2007/64, entitled ‘Definitions’, provides:
+‘For the purposes of this Directive, the following definitions shall apply:
+…
+(12)
+“framework contract” means a payment service contract which governs the future execution of individual and successive payment transactions and which may contain the obligation and conditions for setting up a payment account;
+…
+(25)
+“durable medium” means any instrument which enables the payment service user to store information addressed personally to him in a way accessible for future reference for a period of time adequate to the purposes of the information and which allows the unchanged reproduction of the information stored;
+…’
+Under the heading ‘Transparency of conditions and information requirements for payment services’, Title III of that directive includes Chapter 1, entitled ‘General rules’. That chapter includes the provisions of, inter alia, Articles and of that directive.
+Article of that directive, entitled ‘Scope’, provides:
+‘1.   This Title shall apply to single payment transactions, framework contracts and payment transactions covered by them. The parties may agree that it shall not apply in whole or in part when the payment service user is not a consumer.
+2.   Member States may provide that the provisions in this Title shall be applied to micro enterprises in the same way as to consumers.
+…’
+Article of that directive, entitled ‘Other provisions of Community legislation’, provides:
+‘The provisions of this Title are without prejudice to any Community legislation containing additional requirements on prior information.
+However, where Directive [2002/65, as amended by Directive 2005/29] is also applicable, the information requirements set out in Article 3(1) of that Directive, with the exception of points (2)(c) to (g), (3)(a), (d) and (e), and (4)(b) of that paragraph shall be replaced by Articles 36, 37, and of this Directive.’
+Chapter of Title III of Directive 2007/is entitled ‘Single payment transactions’. That chapter includes the provisions of, inter alia, Articles to 37.
+Article of that directive, entitled ‘Scope’, provides:
+‘1.   This Chapter shall apply to single payment transactions not covered by a framework contract.
+2.   When a payment order for a single payment transaction is transmitted by a payment instrument covered by a framework contract, the payment service provider shall not be obliged to provide or make available information which is already given to the payment service user on the basis of a framework contract with another payment service provider or which will be given to him according to that framework contract.’
+Article of that directive, entitled ‘Prior general information’, provides:
+‘1.   Member States shall require that before the payment service user is bound by any single payment service contract or offer, the payment service provider, in an easily accessible manner, makes available to the payment service user the information and conditions specified in Article 37. At the payment service user’s request, the payment service provider shall provide the information and conditions on paper or on another durable medium. The information and conditions shall be given in easily understandable words and in a clear and comprehensible form, in an official language of the Member State where the payment service is offered or in any other language agreed between the parties.
+…
+3.   The obligations under paragraph may also be discharged by supplying a copy of the draft single payment service contract or the draft payment order including the information and conditions specified in Article 37.’
+Article of the same directive, entitled ‘Information and conditions’ lists, in paragraph 1, the information and conditions which must be provided to the payment service user or made available to that user.
+In Title III of Directive 2007/64, Chapter thereof, entitled ‘Framework contracts’, includes, inter alia, Articles to 43.
+Under Article of that directive, entitled ‘Scope’:
+‘This Chapter applies to payment transactions covered by a framework contract.’
+Article of that directive, entitled ‘Prior general information’, is worded as follows:
+‘1.   Member States shall require that, in good time before the payment service user is bound by any framework contract or offer, the payment service provider provide the payment service user on paper or on another durable medium with the information and conditions specified in Article 42. The information and conditions shall be given in easily understandable words and in a clear and comprehensible form, in an official language of the Member State where the payment service is offered or in any other language agreed between the parties.
+2.   If the framework contract has been concluded at the request of the payment service user using a means of distance communication which does not enable the payment service provider to comply with paragraph 1, the payment service provider shall fulfil its obligations under that paragraph immediately after the conclusion of the framework contract.
+3.   The obligations under paragraph may also be discharged by supplying a copy of the draft framework contract including the information and conditions specified in Article 42.’
+Article of the same directive, entitled ‘Information and conditions’, lists the information and conditions which must be provided to the payment service user.
+Article of Directive 2007/64, entitled ‘Accessibility of information and conditions of the framework contract’, provides:
+‘At any time during the contractual relationship the payment service user shall have a right to receive, on request, the contractual terms of the framework contract as well as the information and conditions specified in Article on paper or on another durable medium.’
+Article of that Directive, entitled ‘Changes in conditions of the framework contract’, provides:
+‘1.   Any changes in the framework contract as well as the information and conditions specified in Article 42, shall be proposed by the payment service provider in the same way as provided for in Article 41(1) and no later than two months before their proposed date of application.
+Where applicable in accordance with point (6)(a) of Article 42, the payment service provider shall inform the payment service user that he is to be deemed to have accepted these changes if he does not notify the payment service provider that he does not accept them before the proposed date of their entry into force. In this case, the payment service provider shall also specify that the payment service user has the right to terminate the framework contract immediately and without charge before the date of the proposed application of the changes.
+2.   Changes in the interest or exchange rates may be applied immediately and without notice, provided that such a right is agreed upon in the framework contract and that the changes are based on the reference interest or exchange rates agreed on in accordance with Article … The payment service user shall be informed of any change in the interest rate at the earliest opportunity in the same way as provided for in Article 41(1), unless the parties have agreed on a specific frequency or manner in which the information is to be provided or made available. However, changes in interest or exchange rates which are more favourable to the payment service users, may be applied without notice.
+…’
+Austrian law
+The Bundesgesetz über die Erbringung von Zahlungsdiensten (Zahlungsdienstegesetz — ZaDiG) (Law on payment services) of (BGBl. I, 66/2009; ‘the Law on payment services’) transposes Directive 2007/into Austrian law.
+Paragraph of the Law on payment services is worded as follows:
+‘1.   The payment service provider must in good time, before the payment service user is bound by a contract or a contractual offer
+(1)
+in the case of a framework contract in accordance with Paragraph 28, communicate the information and terms of the contract to the payment service user in paper form or, where the payment service user agrees, on another durable medium …
+…
+2.   The information and contract terms must be drafted clearly and comprehensibly …’
+Under Paragraph 29(1) of that law:
+‘The payment service provider must:
+(1)
+propose amendments to the framework contract to the payment service user at the latest two months before the planned time of their application, in the manner provided for in Paragraph 26(1)(1) and Paragraph 26(2) …
+…’
+The Bundesgesetz, mit dem bestimmte rechtliche Aspekte des elektronischen Geschäfts- und Rechtsverkehrs geregelt werden (E-Commerce-Gesetz — ECG) (Law on e-commerce) of (BGBl. I, 152/2001; ‘the Law on e-commerce’) transposes Directive 2000/into Austrian law.
+Paragraph of the Law on e-commerce provides:
+‘A service provider must make the contract clauses and the standard terms and conditions available to the user so that the user may store or reproduce them. This requirement may not be amended to the detriment of the user.’
+Paragraph of the Law on e-commerce provides:
+‘Electronic messages relating to the contract, other legally significant electronic messages and electronic receipts are deemed to have been communicated if the party for whom they are intended is in a position to consult them under normal conditions. This provision may not be amended to the detriment of the user.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+In accordance with the Austrian legislation, the Association has standing to bring proceedings for the purposes of protecting consumers’ interests.
+BAWAG is a bank operating throughout the whole of Austria. In its relations with consumers, it uses standard terms and conditions governing the consumers’ use of the online banking website e-banking.
+The standard terms and conditions relating to the online banking website e-banking contain a term stating that ‘notices and statements (in particular account information, account statements, credit card statements, notices of changes, etc.) which the bank has to transmit to the customer or make available to him shall, where a customer has agreed to e-banking, be received by him by post or electronically by making them retrievable or transmitting them by means of [BAWAG] e-banking.’
+Access to that site is provided in accordance with a contract which is ancillary to the contract relating to the opening and operation of a bank account and which also forms part of a framework contract.
+It is clear from the order for reference that the messages sent to the electronic mailboxes assigned to the consumers, which are on the online banking website e-banking, remain there without change and are not deleted during a period of time adequate for the purposes of informing those consumers, so that they may be viewed and reproduced unchanged by electronic or printed means. Those messages may be managed by the consumers and, where appropriate, deleted by the consumers.
+The Association applied to the Handelsgericht Wien (Commercial Court, Vienna, Austria) for an injunction ordering BAWAG to cease using the abovementioned term or any other equivalent term in its standard terms and conditions.
+According to the Association, those clauses were contrary to the provisions of the Law on payment services.
+The Handelsgericht Wien (Commercial Court, Vienna) having, by decision of October 2013, granted the Association’s application, BAWAG lodged an appeal against that decision before the Oberlandesgericht Wien (Higher Regional Court, Vienna, Austria).
+By decision of April 2014, the Oberlandesgericht Wien (Higher Regional Court, Vienna) varied in part the decision of the Handelsgericht Wien (Commercial Court, Vienna). BAWAG lodged an appeal on a point of law before the referring court against the decision of the Oberlandesgericht Wien (Higher Regional Court, Vienna).
+Taking the view that the outcome in the main proceedings depended on the interpretation of Directive 2007/64, the Oberster Gerichtshof (Supreme Court, Austria) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article 41(1) in conjunction with Article 36(1) of Directive 2007/to be interpreted as meaning that information (in electronic format) transmitted by the bank to the electronic mailbox of the customer as part of the [online banking website e-banking], so that the customer can retrieve this information by clicking on it after logging into the online banking website e-banking, has been provided on a durable medium?
+(2)
+If the answer to Question is in the negative,
+Is Article 41(1) in conjunction with Article 36(1) of Directive [2007/64] to be interpreted as meaning that in such a case:
+(a)
+the information from the bank is indeed provided on a durable medium, but not notified to the customer, merely made accessible to him, or
+(b)
+all that happens is that the information is made accessible without the use of a durable medium?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether Articles 41(1) and 44(1) of Directive 2007/64, read in conjunction with Article 4(25) of that directive, must be interpreted as meaning that changes to the information and conditions, provided for under Article of that directive, as well as the changes to the framework contract, which are transmitted by the payment service provider to the user of those services through the electronic mailbox of an online banking website, must be considered to have been provided on a durable medium within the meaning of those provisions, or merely to have been made available to that user, as provided for in the first sentence of Article 36(1) of the same directive, in relation to the information and conditions specified in Article thereof.
+As a preliminary point, it should be borne in mind that Article 36(1) of Directive 2007/lays down a duty to provide prior general information to the payment service user in relation to a single payment service contract or offer not covered by the framework contract within the meaning of Article 4(12) of that directive, whereas, in relation to payment transactions covered by the framework contract, such a duty is provided for under Article 41(1) of that directive.
+‘Framework contract’ is defined, for the purposes of Directive 2007/64, in Article 4(12) of that directive, as a payment service contract which governs the future execution of individual and successive payment transactions and may lay down the obligations and conditions connected with the opening of a payment account.
+Under Article 41(1) of that directive, the Member States are to require that, in good time before the payment service user is bound by any framework contract or offer, the payment service provider provide the payment service user on paper or on another durable medium with the information and conditions specified in Article of the same directive.
+Furthermore, it is clear from the first subparagraph of Article 44(1) of Directive 2007/that any changes in the framework contract, as well as the information and conditions specified in Article of that directive, are to be proposed by the payment service provider in the same way as provided for in Article 41(1) of the same directive and no later than two months before their proposed date of application.
+In order to give a useful response to the questions referred, it is necessary to examine two requirements which are laid down by Article 41(1) of Directive 2007/64, namely: the requirement of the use of a durable medium which must contain the information concerned and the requirement that the information must be provided to the payment service user.
+As regards, in the first place, the concept of a ‘durable medium’ in Article 41(1) of Directive 2007/64, that concept is defined in Article 4(25) of that directive as any instrument which enables the payment service user to store information addressed personally to him in a way accessible for future reference for a period of time adequate to the purposes of the information and allows the unchanged reproduction of the information stored.
+Recital of Directive 2007/states that the requirements for prior information on framework contracts should be quite comprehensive and information should always be provided on paper or on another durable medium, such as printouts by account printers, floppy disks, CD-ROMs, DVDs and hard drives of personal computers on which electronic mail can be stored, and internet sites, as long as such sites are accessible for future reference for a period of time adequate for the purposes of information and allow the unchanged reproduction of the information stored.
+Referring, inter alia, to the definition of ‘durable medium’ contained in Article 3(m) of Directive 2008/48/EC of the European Parliament and of the Council of April on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, p. 66, and corrigenda OJ L 207, p. 14; OJ L 199, p. 40; OJ L 234, p. 46; and OJ L 36, p. 15), the Court has held that that medium must enable the consumer, in a similar way to paper form, to be in possession of the relevant information in order to enable him to exercise his rights, where necessary. What is relevant for the consumer is that he should be able to store the information which has been addressed to him personally, to rest assured that its content will not be altered, that the information will be accessible for an adequate period and that it will be possible to reproduce it unchanged (see, to that effect, judgments of July 2012, Content Services, C‑49/11, EU:C:2012:419, paragraphs to 44, and of November 2016, Home Credit Slovakia, C‑42/15, EU:C:2016:842, paragraph 35).
+As the Advocate General pointed out at points to of his Opinion, and as was held in essence by the EFTA Court in its judgment of January 2010, Inconsult Anstalt v Finanzmarktaufsicht (E-4/09, EFTA Court Report 2009-2010, p. 86, paragraphs to 66), it must be held that certain websites have to be classified as ‘durable mediums’ within the meaning of Article 4(25) of Directive 2007/64.
+With regard, in particular, to paragraphs to above, that is the case when a website allows the payment service user to store information addressed personally to that payment user in a way accessible for future reference for a period of time adequate to the purposes of the information and allows the unchanged reproduction of the information stored. Furthermore, for a website to be regarded as being a ‘durable medium’ within the meaning of that provision, any possibility that the payment service provider or another professional to whom the management of that site has been entrusted could change the content unilaterally must be excluded.
+That interpretation corresponds to the aims set out in recitals and of Directive 2007/64, namely: the protection of payment service users and, in particular, consumer protection.
+It is for the referring court to determine whether, in the case in the main proceedings, the conditions specified in paragraph above have been met.
+As regards, in the second place, the question in what situation changes to the information and conditions specified in Article of Directive 2007/and changes to the framework contract may be considered to have been ‘provided’ on a durable medium in accordance with Article 41(1) of that directive, it should be noted that, as stated in recital of that directive, two methods of transmitting information by the payment service user should be distinguished: either the information concerned should be provided, i.e. actively communicated by the payment service provider without further prompting by the payment service user, or the information should be made available to the payment service user, taking into account any request he may have for further information. In the latter case, the payment service user should take some active steps to obtain the information, such as requesting it explicitly from the payment service provider, logging into a bank account online or inserting a bank card into a printer for account statements.
+It follows that, when Directive 2007/states that the information concerned is provided by the payment service provider to the payment service user, it is the provider who must actively communicate that information.
+At the same time, the protection of payment service users and, in particular, consumer protection, being one of the aims of that directive, as noted in paragraph above, it cannot reasonably be expected of payment service users, as the Advocate General noted in points to of his Opinion, that they should regularly consult all electronic communication services that they are signed up to, a fortiori because, under the second subparagraph of Article 44(1) of Directive 2007/64, in the circumstances envisaged therein, those users are deemed to have accepted the changes to the framework contract proposed by those providers.
+However, the information concerned which is transmitted by the payment service provider to the user of those services by means of an online banking website may be considered to have been provided within the meaning of Article 41(1) of Directive 2007/64, if such a transmission is accompanied by active behaviour of the provider aimed at drawing the user’s attention to the existence and availability of that information on that site.
+As the Advocate General noted, in essence, in point of his Opinion, the sending of a letter or email to the address regularly used by the user of those services to communicate with other persons and which the parties agreed to use in the framework contract entered into between the payment service provider and that user could, in particular, constitute such behaviour. The address thus chosen may not, however, be the address assigned to that user on the online banking website managed by the payment service provider or another professional to whom the management of that site has been entrusted, in so far as that site, even if it contains an electronic mailbox, is not used by the same user for the purposes of his usual communication with persons other than that provider.
+It is for the referring court to determine whether, in light of all the circumstances of the case in the main proceedings, the changes to the information and conditions defined in Article of Directive 2007/64, and the changes to the relevant framework contract as well, may be regarded as having been actively communicated by the payment service provider to the user of those services.
+Having regard to all of the foregoing considerations, the answer to the questions referred is that:
+—
+Articles 41(1) and 44(1) of Directive 2007/64, read in conjunction with Article 4(25) of that directive, must be interpreted as meaning that changes to the information and conditions, provided for under Article of that directive, and the changes to the framework contract as well, which are transmitted by the payment service provider to the user of those services through the electronic mailbox of an online internet banking website, may not be considered to have been provided on a durable medium within the meaning of those provisions unless these two conditions are met:
+—
+that that website allows the user to store information addressed to him personally in such a way that he may access it and reproduce it unchanged for an adequate period, without any unilateral alteration of its content by that service provider or by another professional being possible; and
+—
+if the payment service user is obliged to consult that website in order to become aware of that information, the transmission of that information must be accompanied by active behaviour on the part of the provider aimed at drawing the user’s attention to the existence and availability of that information on that website.
+—
+In the event of the payment service user being obliged to consult such a website in order to become aware of the relevant information, that information is merely made available to that user within the meaning of the first sentence of Article 36(1) of Directive 2007/64, when the transmission of that information is not accompanied by such active behaviour on the part of the payment service provider.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Articles 41(1) and 44(1) of Directive 2007/64/EC of the European Parliament and of the Council of November on payment services in the internal market, amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC, as amended by Directive 2009/111/EC of the European Parliament and of the Council of September 2009, read in conjunction with Article 4(25) of that directive, must be interpreted as meaning that changes to the information and conditions, provided for under Article of that directive, and changes to the framework contract as well, which are transmitted by the payment service provider to the user of those services through the electronic mailbox of an online banking website, may not be considered to have been provided on a durable medium within the meaning of those provisions, unless these two conditions are met:
+ 
+—
+that that website allows the user to store information addressed to him personally in such a way that he may access it and reproduce it unchanged for an adequate period, without any unilateral modification of its content by that service provider or by another professional being possible; and
+ 
+—
+if the payment service user is obliged to consult that internet website in order to become aware of that information, the transmission of that information is accompanied by active behaviour on the part of the provider aimed at drawing the user’s attention to the existence and availability of that information on that website.
+ 
+In the event of the payment service user being obliged to consult such a website in order to become aware of the relevant information, that information is merely made available to that user within the meaning of the first sentence of Article 36(1) of Directive 2007/64, as amended by Directive 2009/111, when the transmission of that information is not accompanied by such active behaviour on the part of the payment service provider.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  
+ 

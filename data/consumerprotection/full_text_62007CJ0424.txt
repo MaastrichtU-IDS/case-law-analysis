@@ -1,0 +1,742 @@
+
+Case C-424/European Commission
+v
+Federal Republic of Germany
+(Failure of a Member State to fulfil obligations – Electronic communications – Directive 2002/19/EC – Directive 2002/21/EC – Directive 2002/22/EC – Networks and services – National rules – New markets)
+Summary of the Judgment
+Approximation of laws – Electronic communications networks and services – Regulatory framework – Directives 2002/19, 2002/and 2002/(European Parliament and Council Directives 2002/19, Art. 8(4), 2002/21, Arts to 8(1) and (2), 15(3) and 16, and 2002/22,
+            Art. 17(2))
+A Member State which adopts legal provisions which limit the discretion of the national regulatory authority (NRA) and do
+         not comply with the consultation and consolidation procedures laid down in Articles and of Directive 2002/on a common
+         regulatory framework for electronic communications networks and services, fails to fulfil its obligations under Article 8(4)
+         of Directive 2002/on access to, and interconnection of, electronic communications networks and associated facilities, Articles
+         to 8(1) and (2), 15(3) and of Directive 2002/and Article 17(2) of Directive 2002/on universal service and users’
+         rights relating to electronic communications networks and services.
+      
+In carrying out their regulatory functions, the NRAs have a broad discretion in order to determine the need to regulate an
+         electronic communications market according to each situation on a case-by-case basis. Under Article of Directive 2002/21,
+         in particular subparagraph thereof, the NRAs are required to define the relevant markets in that sector in close collaboration
+         with the Commission. In accordance with Article of that directive, the NRAs then carry out the analysis of the markets
+         thus defined and determine whether those markets are effectively competitive. If that is not the case, the NRA concerned imposes
+         ex ante regulatory obligations on undertakings with significant market power on that market. Those articles relate to the
+         electronic commutations sector in general and do not exclude new markets or any other markets from their scope.
+      
+A national provision which expressly provides that new markets should not be regulated unless certain factors, such as the
+         absence of sustainable competition on the market, show that it is necessary to do so, encroaches on the wide powers conferred
+         on the NRA, preventing it from adopting regulatory measures appropriate to each particular case, and thus is not consistent
+         with Article of Directive 2002/21. The limitation of the NRA’s discretion which results from such a provision also necessarily
+         affects its ability to define the market. The NRA will no longer be led to define the relevant markets in accordance with
+         Article 15(3) of that directive, inasmuch as the markets identified in the annex to the Commission recommendation on relevant
+         production and service markets within the electronic communications sector susceptible to ex ante regulation in accordance
+         with Directive 2002/already fall within the definition of a new market established by the national legislation.
+      
+Similarly, it is clear from Article 8(4) of Directive 2002/and Article 17(2) of Directive 2002/that the obligations
+         imposed under those articles are based on the nature of the problem identified, and are proportionate and justified in the
+         light of the objectives sent out in Article of Directive 2002/21, and that it is for the NRAs to promote the regulatory
+         objectives referred to in that article and, therefore, to balance those objectives when defining and analysing a relevant
+         market susceptible to regulation. A national provision which gives priority to only one of those objectives, such as the objective
+         of promoting effective investment in infrastructure and supporting innovation, in the analysis by the NRA of the need to regulate
+         a new market infringes Article 8(4) of Directive 2002/19, Article 8(1) and (2) of Directive 2002/and Article 17(2) of Directive
+         2002/and limits the NRAs discretion in a manner incompatible with those directives.
+      
+A national provision which imposes conditions more restrictive than those laid down by that directive for analysing relevant
+         markets susceptible to regulation, such as that which provides as a criterion, so that a new market may by way of exception
+         be subject to ex ante regulation, that there be a risk of a long-term impediment to the development of sustainable competition
+         on those markets, is also contrary to Article of Directive 2002/21.
+      
+Lastly, a national provision, which imposes a principle of non-regulation of new markets, limits the NRA’s discretion to subject
+         new markets to definition and to market analysis. That necessarily involves a failure in certain circumstances to follow the
+         procedures laid down in Articles and of Directive 2002/21, to which Articles 15(3) and 16(6) thereof refer with respect
+         to the definition and analysis of the market.
+      
+(see paras 55-56, 61, 64, 66, 78, 82-83, 86, 90-91, 93-94, 98-99, 105-106, 108, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+December (*)
+      
+(Failure of a Member State to fulfil obligations – Electronic communications – Directive 2002/19/EC – Directive 2002/21/EC – Directive 2002/22/EC – Networks and services – National rules – New markets)
+In Case C‑424/07,
+ACTION under Article EC for failure to fulfil obligations, brought on September 2007,
+European Commission, represented by G. Braun and A. Nijenhuis, acting as Agents,
+      
+applicant,
+v
+Federal Republic of Germany, represented by M. Lumma, acting as Agent, and by Professor C. Koenig, and S. Loetz, Rechtsanwalt,
+      
+defendant,
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Third Chamber, acting for the President of the Fourth Chamber, R. Silva de Lapuerta,
+         E. Juhász, G. Arestis (Rapporteur), and T. von Danwitz, Judges,
+      
+Advocate General: M. Poiares Maduro,
+Registrar: K. Sztranc-Sławiczek, Administrator,
+having regard to the written procedure and further to the hearing on February 2009,
+after hearing the Opinion of the Advocate General at the sitting on April 2009,
+gives the following
+Judgment
+By its application, the Commission of the European Communities seeks a declaration that, by adopting Paragraphs 3(12b), and
+         9a of the Law on Telecommunications, of June 2004, (Telekommunikationsgesetz, BGBl. I, p. 1190) (‘the TKG’), introduced
+         by the Law amending the provisions on telecommunications (Gesetz zur Änderung telekommunidationsrechtlicher Vorschriften)
+         of February (BGBl. I, p. 106), the Federal Republic of Germany has failed to fulfil its obligations under Article
+         8(4) of Directive 2002/19/EC of the European Parliament and of the Council of March on access to, and interconnection
+         of, electronic communications networks and associated facilities (Access Directive) (OJ L 108, p. 7), Articles to 8(1)
+         and (2), 15(3) and of Directive 2002/21/EC of the European Parliament and of the Council of March on a common regulatory
+         framework for electronic communications networks and services (Framework Directive) (OJ L 108, p. 33), and Article 17(2)
+         of Directive 2002/22/EC of the European Parliament and of the Council of March on universal service and users' rights
+         relating to electronic communications networks and services (Universal Service Directive) (OJ L 108, p. 51).
+      
+ Legal background
+ Community law
+Article 8(4) of the Access Directive provides:
+      
+‘Obligations imposed in accordance with this Article shall be based on the nature of the problem identified, proportionate
+         and justified in the light of the objectives laid down in Article of [the Framework Directive]. Such obligations shall only
+         be imposed following consultation in accordance with Articles and of that Directive.’
+      
+In accordance with recital in the preamble to the Framework Directive ‘[i]t is essential that ex ante regulatory obligations
+         should only be imposed where there is not effective competition, i.e. in markets where there are one or more undertakings
+         with significant market power, and where national and Community competition law remedies are not sufficient to address the
+         problem. It is necessary therefore for the Commission to draw up guidelines at Community level in accordance with the principles
+         of competition law for national regulatory authorities [“NRAs”] to follow in assessing whether competition is effective in
+         a given market and in assessing significant market power. [NRAs] should analyse whether a given product or service market
+         is effectively competitive in a given geographical area, which could be the whole or a part of the territory of the Member
+         State concerned or neighbouring parts of territories of Member States considered together. An analysis of effective competition
+         should include an analysis as to whether the market is prospectively competitive, and thus whether any lack of effective competition
+         is durable. Those guidelines will also address the issue of newly emerging markets, where de facto the market leader is likely to have a substantial market share but should not be subjected to inappropriate obligations.
+         The Commission should review the guidelines regularly to ensure that they remain appropriate in a rapidly developing market.
+         [NRAs] will need to cooperate with each other where the relevant market is found to be transnational’.
+      
+Recital in the preamble to the Framework Directive states that ‘[i]n accordance with the principle of the separation of
+         regulatory and operational functions, Member States should guarantee the independence of the [NRA or NRAs] with a view to
+         ensuring the impartiality of their decisions. …’ 
+      
+Article 1(1) of the Framework Directive states:
+      
+‘This Directive establishes a harmonised framework for the regulation of electronic communications services, electronic communications
+         networks, associated facilities and associated services. It lays down tasks of [NRAs] and establishes a set of procedures
+         to ensure the harmonised application of the regulatory framework throughout the Community.’
+      
+Article 3(2) and (3) of that directive provides:
+      
+‘2.       Member States shall guarantee the independence of the [NRAs] by ensuring that they are legally distinct from and functionally
+         independent of all organisations providing electronic communications networks, equipment or services. Member States that retain
+         ownership or control of undertakings providing electronic communications networks and/or services shall ensure effective structural
+         separation of the regulatory function from activities associated with ownership or control.
+      
+3.       Member States shall ensure that [NRAs] exercise their powers impartially and transparently.’
+Under Article of the Framework Directive:
+      
+‘Except in cases falling within Articles 7(6), or 21, Member States shall ensure that where the [NRAs] intend to take measures
+         in accordance with this Directive or the Specific Directives which have a significant impact on the relevant market, they
+         give interested parties the opportunity to comment on the draft measure within a reasonable period. The [NRAs] shall publish
+         their national consultation procedures. Member States shall ensure the establishment of a single information point through
+         which all current consultations can be accessed. The results of the consultation procedure shall be made publicly available
+         by the [NRA], except in the case of confidential information in accordance with Community and national law on business confidentiality.’
+      
+Article of the Framework Directive provides:
+      
+‘1.       In carrying out their tasks under this Directive and the Specific Directives, [NRAs] shall take the utmost account of the
+         objectives set out in Article 8, including in so far as they relate to the functioning of the internal market.
+      
+2.       NRAs shall contribute to the development of the internal market by cooperating with each other and with the Commission in
+         a transparent manner to ensure the consistent application, in all Member States, of the provisions of this Directive and the
+         Specific Directives. To this end, they shall, in particular, seek to agree on the types of instruments and remedies best suited
+         to address particular types of situations in the market place.
+      
+3.       In addition to the consultation referred to in Article 6, where a national regulatory authority intends to take a measure
+         which:
+      
+(a)       falls within the scope of Articles or of this Directive, Articles or of Directive 2002/19/EC (Access Directive)
+         or Article of Directive 2002/22/EC (Universal Service Directive), and
+      
+(b)       would affect trade between Member States,
+it shall at the same time make the draft measure accessible to the Commission and the [NRAs] in other Member States, together
+         with the reasoning on which the measure is based, in accordance with Article 5(3), and inform the Commission and other [NRAs]
+         thereof. [NRAs] and the Commission may make comments to the national regulatory authority concerned only within one month
+         or within the period referred to in Article if that period is longer. The one-month period may not be extended.
+      
+4.       Where an intended measure covered by paragraph aims at:
+(a)       defining a relevant market which differs from those defined in the recommendation in accordance with Article 15(1), or
+(b)       deciding whether or not to designate an undertaking as having, either individually or jointly with others, significant market
+         power, under Article 16(3), (4) or (5),
+      
+and would affect trade between Member States and the Commission has indicated to the [NRA] that it considers that the draft
+         measure would create a barrier to the single market or if it has serious doubts as to its compatibility with Community law
+         and in particular the objectives referred to in Article 8, then the draft measure shall not be adopted for a further two months.
+         This period may not be extended. Within this period the Commission may, in accordance with the procedure referred to in Article
+         22(2), take a decision requiring the [NRA] concerned to withdraw the draft measure. This decision shall be accompanied by
+         a detailed and objective analysis of why the Commission considers that the draft measure should not be adopted together with
+         specific proposals for amending the draft measure.
+      
+5.      The [NRA] concerned shall take the utmost account of comments of other [NRAs] and the Commission and may, except in cases
+         covered by paragraph 4, adopt the resulting draft measure and, where it does so, shall communicate it to the Commission.
+      
+…’
+Under the heading ‘Policy objectives and regulatory principles’, Article 8(1) and (2) of the Framework Directive provides:
+      
+‘1.      Member States shall ensure that in carrying out the regulatory tasks specified in this Directive and the Specific Directives,
+         the [NRAs] take all reasonable measures which are aimed at achieving the objectives set out in paragraphs 2, and 4. Such
+         measures shall be proportionate to those objectives.
+      
+Member States shall ensure that in carrying out the regulatory tasks specified in this Directive and the Specific Directives,
+         in particular those designed to ensure effective competition, [NRAs] take the utmost account of the desirability of making
+         regulations technologically neutral.
+      
+…
+2.       The [NRAs] shall promote competition in the provision of electronic communications networks, electronic communications services
+         and associated facilities and services by inter alia:
+      
+(a)       ensuring that users, including disabled users, derive maximum benefit in terms of choice, price, and quality;
+(b)       ensuring that there is no distortion or restriction of competition in the electronic communications sector;
+(c)       encouraging efficient investment in infrastructure, and promoting innovation, and
+(d)      encouraging efficient use and ensuring the effective management of radio frequencies and numbering resources.’
+Article of the Framework Directive concerns the market definition procedure. Paragraph thereof provides:
+      
+‘[NRAs] shall, taking the utmost account of the recommendation and the guidelines, define relevant markets appropriate to
+         national circumstances, in particular relevant geographic markets within their territory, in accordance with the principles
+         of competition law. [NRAs] shall follow the procedures referred to in Articles and before defining the markets that differ
+         from those defined in the recommendation.’
+      
+Article of the Framework Directive which concerns the market analysis procedure provides:
+      
+‘1.       As soon as possible after the adoption of the recommendation or any updating thereof, [NRAs] shall carry out an analysis of
+         the relevant markets, taking the utmost account of the guidelines. Member States shall ensure that this analysis is carried
+         out, where appropriate, in collaboration with the [NRAs].
+      
+2.       Where [an NRA] is required under Articles 16, 17, or of Directive 2002/22/EC (Universal Service Directive), or Articles
+         or of Directive 2002/19/EC (Access Directive) to determine whether to impose, maintain, amend or withdraw obligations
+         on undertakings, it shall determine on the basis of its market analysis referred to in paragraph of this Article whether
+         a relevant market is effectively competitive.
+      
+3.      Where [an NRA] concludes that the market is effectively competitive, it shall not impose or maintain any of the specific regulatory
+         obligations referred to in paragraph of this Article. In cases where sector specific regulatory obligations already exist,
+         it shall withdraw such obligations placed on undertakings in that relevant market. An appropriate period of notice shall be
+         given to parties affected by such a withdrawal of obligations.
+      
+4.       Where [an NRA] determines that a relevant market is not effectively competitive, it shall identify undertakings with significant
+         market power on that market in accordance with Article and the [NRA] shall on such undertakings impose appropriate specific
+         regulatory obligations referred to in paragraph of this Article or maintain or amend such obligations where they already
+         exist.
+      
+5.       In the case of transnational markets identified in the Decision referred to in Article 15(4), the [NRAs] concerned shall jointly
+         conduct the market analysis taking the utmost account of the guidelines and decide on any imposition, maintenance, amendment
+         or withdrawal of regulatory obligations referred to in paragraph of this Article in a concerted fashion.
+      
+6.       Measures taken according to the provisions of paragraphs 3, and of this Article shall be subject to the procedures referred
+         to in Articles and 7.’
+      
+Article 17(2) of the Universal Services Directive provides:
+      
+‘Obligations imposed under paragraph shall be based on the nature of the problem identified and be proportionate and justified
+         in the light of the objectives laid down in Article of [the Framework Directive]. The obligations imposed may include requirements
+         that the identified undertakings do not charge excessive prices, inhibit market entry or restrict competition by setting predatory
+         prices, show undue preference to specific end-users or unreasonably bundle services. [NRAs] may apply to such undertakings
+         appropriate retail price cap measures, measures to control individual tariffs, or measures to orient tariffs towards costs
+         or prices on comparable markets, in order to protect end-user interests whilst promoting effective competition.’
+      
+According to recital in the preamble to the Commission Recommendation of February on relevant product and service
+         markets within the electronic communications sector susceptible to ex ante regulation in accordance with Directive 2002/(OJ L 114, p. 45) (‘the Commission recommendation’), new and emerging markets, in which market power may be found to
+         exist because of ‘first-mover’ advantages, should not in principle be subject to ex ante regulation.
+      
+Paragraph of the Commission recommendation provides:
+      
+‘In defining relevant markets in accordance with Article 15(3) of the [Framework Directive], [NRAs] are recommended to analyse
+         the product and service markets identified in the Annex.’
+      
+According to point of the Commission’s guidelines for market analysis and assessment of significant market power under the
+         Community regulatory framework for electronic communications networks and services (OJ  C 165, p. 6) (‘the guidelines’):
+      
+‘These guidelines set out the principles for use by [NRAs] in the analysis of markets and effective competition under the
+         new regulatory framework for electronic communications networks and services.’
+      
+Paragraph of the guidelines states:
+      
+‘These guidelines are intended to guide NRAs in the exercise of their new responsibilities for defining markets and assessing
+         [significant market power]. …’ 
+      
+In accordance with point of the guidelines:
+      
+‘As far as emerging markets are concerned, recital of the Framework Directive notes that emerging markets, where de facto the market leader is likely to have a substantial market share, should not be subject to inappropriate ex ante regulation.
+         This is because premature imposition of ex ante regulation may unduly influence the competitive conditions taking shape within
+         a new and emerging market. …’
+      
+ National legislation
+According to Paragraph 2(2) of the TKG, entitled ‘Regulation and objectives’:
+      
+‘The objectives of the regulation are as follows:
+1.       protecting the interests of users, particularly consumers, in the telecommunications sector, and telecommunications confidentiality;
+2.       guaranteeing fair competition and promoting sustainable competitive telecommunications markets for telecommunications networks
+         and services together with associated facilities and services in both rural and urban areas;
+      
+3.       encouraging effective investment in infrastructure and supporting innovation;
+4.       promoting the development of the internal market of the European Union;
+5.       guaranteeing the basic provision of telecommunications services at affordable rates throughout the territory (universal service);
+6.       promoting telecommunications services at the level of public institutions;
+7.       guaranteeing an effective use of frequencies free from interference, and taking account of the interests of radiobroadcasts;
+8.       ensuring efficient use of numbering resources,
+9.        protecting the interests of public safety.’
+According to Paragraph 3(12b) of the TKG, entitled ‘Definitions’:
+      
+‘A “new market” is a market for services or products which are significantly different from currently available services or
+         products in terms of their effectiveness, their range, their availability for a large number of users (mass-market capacity),
+         their price or their quality from the point of view of a knowledgeable buyer, and which do not simply replace those products…’
+      
+Under Paragraph 9a of the TKG, entitled ‘New markets’:
+      
+‘1.       Save as provided for in the following paragraph, new markets shall not, in principle, be subject to regulation within the
+         meaning of Part 2.
+      
+2.       Where certain facts suggest that, in the absence of regulation, the development of a sustainable competitive market in the
+         area of services or telecommunications networks would be hindered in the long term, the “Bundesnetzagentur” [German regulatory
+         authority in the telecommunications sector] may, by way of derogation from subparagraph above, submit a new market to regulation
+         within the meaning of Part 2, in accordance with Paragraphs 9, 10, and 12. In order to assess the need for regulation and
+         in imposing specific measure, the “Bundesnetzagentur” shall take into particular account the objective of promoting efficient
+         investment in infrastructure and of supporting innovation.’
+      
+ Pre-litigation procedure
+Following contacts between the Commission and the Federal Republic of Germany regarding the Commission’s reservations as to
+         compatibility of the new provisions of the TKG with the common regulatory framework for electronic communications, the Commission,
+         by letter of February 2007, initiated the present infringement action under Article EC, giving the Federal Republic
+         of Germany formal notice to submit its observations within days. At the request of that Member State that period was extended
+         for a further days.
+      
+By letter of March 2007, the Federal Republic of Germany submitted that the new provisions of the TKG were perfectly compatible
+         with Community law.
+      
+On May 2007, the Commission issued a reasoned opinion calling on that Member State to take the measures necessary to comply
+         with that opinion within one month from the date of its receipt. By letter of June 2007, the Federal Republic of Germany
+         defended its position and, on June 2007, it submitted to the Commission an administrative provision from the Bundesnetzagentur,
+         entitled ‘Principles of interpretation by the Bundesnetzagentur regarding Paragraph 9a of the TKG’.
+      
+In those circumstances, the Commission decided to bring the present proceedings.
+      
+ The action
+ Admissibility
+ Arguments of the parties
+The Federal Republic of Germany takes the view that the present proceedings are inadmissible on the ground that the Commission
+         neither initiated nor conducted the pre-litigation procedure correctly and did not respect its rights of defence.
+      
+First, the Commission decided to initiate the infringement proceedings on December when no national law existed which
+         could have justified such an alleged infringement, since that law was published in the Budesgesetzblatt on February 2007.
+         Second, it is clear from the Commission’s attitude and, in particular, from its press releases, that it was determined to
+         reject the arguments relied on by the Federal Republic of Germany without any examination whatsoever, and to bring proceedings
+         before the Court as soon as possible. Such an attitude prevented that Member State from defending itself effectively during
+         the pre-litigation procedure.
+      
+The Federal Republic of Germany also claims that the action is inadmissible in so far as, in order to establish an infringement
+         of the provisions of the relevant directives, the Commission should have used the procedure laid down in Article of the
+         Framework Directive which aims to consolidate decisions of the NRAs vis-à-vis the Commission. That provision provides for
+         an independent procedure, having the same purpose as infringement proceedings, intended to ensure an application which is
+         compatible and consistent with the common regulatory framework in all the Member States in order to allow the completion of
+         the internal market in networks and communication services. 
+      
+The Commission replies, first of all, that it sent the letter of formal notice to the Federal Republic of Germany after the
+         publication of the contested law in the Bundesgesetzblatt. The Commission also points out that it is not required to wait
+         for all the formalities provided for in national law before deciding to initiate infringement proceedings. 
+      
+Next, the Commission takes the view that it examined the Federal Republic of Germany’s arguments during the pre-litigation
+         procedure, but was unable to concur with them. In any event, that Member State did not mention the issue of admissibility,
+         but challenged the substance of the proceedings. 
+      
+Finally, the Commission submits that the Court has already held that the general power granted to the Commission under Article
+         EC cannot be derogated from by a specific procedure laid down in a directive.
+      
+ Findings of the Court
+First, it must be observed that the new provisions of the TKG were published in the Budesgesetzblatt on February and
+         entered into force on the day after their publication. Although it is true that on December the Commission authorised
+         the commissioner responsible to initiate infringement proceedings against the Federal Republic of Germany, the fact remains
+         that the proceedings were initiated against that Member State only by sending the letter of formal notice, on February
+         2007, after the publication and entry into force of the provisions concerned. Therefore, in any event, the alleged infringements
+         preceded the sending of the letter of formal notice.
+      
+Second, the Federal Republic of Germany submits that it is clear from the Commission’s attitude that it had decided to reject
+         the arguments relied on by that Member State without any examination whatsoever. 
+      
+In that connection, it must be observed, first of all, that it does not appear from the Commission’ press release of February
+         2007, to which the Federal Republic of Germany refers, that the Commission failed to respect the rights of the defence of
+         the Member State concerned. The fact that the Commission announced the initiation of an expedited procedure against that Member
+         State in that press release does not mean that the Commission intended to ignore the arguments that the Member State was going
+         to put forward in the pre-litigation procedure. 
+      
+Finally, it must be held, first, that the Federal Republic of Germany had an opportunity effectively to express its views
+         during the pre-litigation procedure and, second, that the Commission did in fact take into consideration the position defended
+         by that Member State. It must be recalled that, in the letter of formal notice of February 2007, the Federal Republic of
+         Germany was called on to lodge observations within days, which was subsequently extended to month at the request of that
+         Member State. The latter sent its response to the letter of formal notice on March 2007. It is clear from the reasoned
+         opinion, and particularly from paragraph thereof entitled ‘Germany’s arguments and the Commission’s reply’, that the Commission
+         duly took account of the arguments put forward by that Member State in its response to the letter of formal notice. 
+      
+In those circumstances, the complaint alleging an infringement of the rights of defence must be rejected. In so far as it
+         is asserted that the Commission incorrectly analysed the Federal Republic of Germany’s response to the letter of formal notice,
+         it must be recalled that even if that assertion were well founded, it would not constitute a ground of inadmissibility but
+         a factor which the Court must, where appropriate, take into account in the assessment of the substance of the case (Case C-148/Commission v Ireland [2007] ECR I-82, paragraph 39).
+      
+Third, as regards the argument that the Commission should have used the procedure provided for in Article of the Framework
+         Directive in order to establish an infringement of the provisions of the directives concerned, it must be recalled that special
+         procedures in a directive can neither derogate from nor replace the powers of the Commission under Article EC (see, in
+         particular, Case C-359/Commission v Netherlands [1995] ECR I-157, paragraph 13).
+      
+It is clear from the foregoing considerations that the action must be declared admissible.
+      
+ Substance
+In support of its action, the Commission relies essentially on two complaints. The first alleges that the Federal Republic
+         of Germany, in violation of Articles 8(1) and (2), and of the Framework Directive, Article 8(4) of the Access Directive
+         and Article 17(2) of the Universal Service Directive, limited the discretion of the NRAs by defining the concept of ‘new markets’
+         in the new provisions of the TKG, by laying down in them the principle of non-regulation of those markets, by imposing more
+         restrictive conditions in them than those provided for by the common regulatory framework when, exceptionally, those markets
+         may be subject to regulation, and by giving priority to a specific regulatory objective in the analysis of those markets.
+         The second complaint alleges failure to comply with the consultation and consolidation procedures laid down in Articles and of the Framework Directive.
+      
+The Federal Republic of Germany contests the allegation that it has failed to fulfil its obligations. 
+      
+ The complaint alleging the limitation of the discretion of the NRA
+ Arguments of the parties
+The Commission claims that the new rules introduced by Articles 3(12b) and 9a of the TKG limit the discretion of the NRA.
+         Those provisions circumvent the definition and market analysis procedures and those imposing corrective regulatory measures
+         which were put in place by the common regulatory framework on electronic communications.
+      
+By adopting Paragraphs 3(12b) and 9a of the TKG, the German legislature has defined the concept of ‘new markets’, has laid
+         down the principle of non-regulation of those markets, has fixed in advance the restrictive conditions under which the NRA
+         is authorised, by way of exception, to regulate them, and has required it to give priority to a specific regulatory objective.
+         Those provisions of the TKG are contrary to the provisions of the Community regulatory framework which concern the whole range
+         of the NRA’s powers, such as Article of the Access Directive, Articles 8, and of the Framework Directive and Article
+         of the Universal Service Directive.
+      
+The Commission takes the view, first of all, that, by defining the ‘new markets’, Paragraph 3(12b) of the TKG limits the discretion
+         of the German NRA laid down by Article 15(3) of the Framework Directive. Under that provision, the NRAs are to define relevant
+         markets appropriate to national circumstances, in particular relevant geographic markets within their territory, in accordance
+         with the principles of competition law.
+      
+Next, the Commission submits that contrary to the definition and market analysis procedures laid down by the common regulatory
+         framework, Paragraph 9a(1) of the TKG provides that, in principle, the new markets are not subject to ‘regulation’ within
+         the meaning of Part of the TKG. 
+      
+Furthermore, the Commission points out that where Paragraph 9a(2) of the TKG provides that a new market is, by way of exception,
+         to be subject to regulation, the conditions laid down for that purpose are more restrictive than those in Article of the
+         Framework Directive. The latter article only requires the absence of effective competition in the relevant market and not,
+         as Paragraph 9a(2) provides, a long-term impediment to the development of a sustainable competitive market. 
+      
+Finally, in the Commission’s opinion, Paragraph 9a(2) of the TKG infringes Article 8(1) and (2) of the Framework Directive.
+         That provision specifically emphasises a single regulatory objective, namely the promotion of effective investment in infrastructure
+         and support for innovation. However, Article 8(2) of the Framework Directive does not establish a hierarchy for those objectives
+         and Article 8(4) of the Access Directive and Article 17(2) of the Universal Service Directive clearly state that the NRAs
+         are to impose corrective measures which are proportionate and justified in the light of the objectives in Article of the
+         Framework Directive, without giving particular priority to one of the objectives.
+      
+The Federal Republic of Germany takes the view that Paragraphs 3(12b) and 9a of the TKG are compatible with the common regulatory
+         framework for electronic communications networks.  
+      
+That Member State contends that the directives in the regulatory framework are designed to harmonise the laws of the Member
+         States and, therefore, allow them enough flexibility to define the abstract concepts used by those directives and to ensure
+         the effectiveness of the objectives to which they refer. The Commission’s complaints are based on a very broad interpretation
+         of the regulatory framework for telecommunications and on an incorrect assessment of the effects of the provisions of the
+         TKG. 
+      
+The Federal Republic of Germany notes that Paragraphs 3(12b) and 9a of the TKG effect a pre-structuring of the NRA’s discretion,
+         seeking to ensure greater legal certainty, in accordance with the objectives of Article of the Framework Directive. The
+         Commission does not indicate in that regard which provision of the directives in the common regulatory framework for electronic
+         communications points to the existence of such a discretion nor, in any event, which provision of the TKG limits that discretion.
+         The use of the word ‘may’ in Paragraph 9a(2) of the TKG shows that the NRA must use its discretion in examining the need to
+         regulate a new market. The Commission therefore requires a literal transposition of the provisions of those directives, as
+         if it were a regulation, thus tending toward standardisation rather than towards a harmonisation of the laws of the Member
+         States.
+      
+According to the Federal Republic of Germany, it is clear from recital in the preamble to the Framework Directive, point
+         of the guidelines and recital in the preamble to the Commission recommendation that, as a general rule, new markets
+         should not be subject to ex ante regulation. In that connection, Paragraph 9a of the TKG does not have the effect of introducing
+         a new free-standing verification procedure but sets out, with respect to new markets, the provisions relating to the general
+         regulatory procedure for the markets laid down in Paragraphs and of the TKG. Thus, the need to regulate a market is
+         examined in every case, but the adoption of regulatory measures by the NRA is excluded, by virtue of Paragraph 9a(1) of the
+         TKG, where such a need has not been identified.
+      
+As regards the definition of the relevant market, the Federal Republic of Germany states that the common regulatory framework
+         does not preclude rules on definition of the market from the national legislature. It notes that, in any event, Paragraph
+         3(12b) of the TKG does not constitute a definition of market, but sets out abstract criteria which, once the market has been
+         defined, make it possible to determine whether of not it is a new market. Thus, Paragraphs 3(12b) and 9a of the TKG enable
+         the NRA to define, on a case-by-case basis, the relevant market in accordance with the principles of competition law and do
+         not lead to a divergence from the usual procedure for the definition of a market.
+      
+Furthermore, the Federal Republic of Germany submits that the criterion for a sustainable competitive market and the requirement
+         of a long-term impediment in the relevant market, laid down in Paragraph 9a(2) of the TKG, are not more restrictive conditions
+         than those imposed by the directives on the common regulatory framework and do not alter the definition and analysis resulting
+         from Paragraphs and of the TKG. They are conditions recognised in recital in the preamble to the Framework Directive
+         and in the Commission recommendation, which explain the notion of effective competition in the context of new markets. 
+      
+Lastly, that Member State takes the view that the national legislature may, by virtue of the latitude allowed to it, focus
+         on one of the regulatory objectives recognised in the directives in the common regulatory framework for electronic communications.
+         The use of the expression ‘in particular’ in the second sentence of Paragraph 9a(2) of the TKG indicates, further, that the
+         objective which is mentioned therein is not the only one to be taken into consideration.
+      
+ Findings of the Court
+As a preliminary point, it must be observed that, in accordance with Article 1(1) of the Framework Directive, that directive
+         establishes a harmonised framework for the regulation of electronic communications services, electronic communications networks,
+         associated facilities and associated services. It lays down tasks of national regulatory authorities and establishes a set
+         of procedures to ensure the harmonised application of the regulatory framework throughout the Community.
+      
+Pursuant to Article 3(2) and (3) of the Framework Directive and recital in its preamble, in accordance with the principle
+         of the separation of regulatory and operational functions, Member States must guarantee the independence of the national regulatory
+         authority or authorities with a view to ensuring the impartiality and transparency of their decisions. 
+      
+The Framework Directive confers on the NRAs specific tasks for regulating the electronic communications markets. In accordance
+         with Article of the Framework Directive, and in particular paragraph thereof, the NRAs are required, in close collaboration
+         with the Commission, to define the relevant markets in the electronic telecommunications sector. 
+      
+In accordance with Article of the Framework Directive, the NRAs then carry out the analysis of the markets thus defined
+         and determine whether those markets are effectively competitive. If a market is not effectively competitive, the NRA concerned
+         imposes ex ante regulatory obligations on undertakings with significant market power. 
+      
+Article 15(3) of the Framework Directive states that NRAs are to take the utmost account of the Commission recommendation
+         and the guidelines for the purpose of defining the relevant markets. 
+      
+Under Article 16(1) of that directive, they must also take the utmost account of the guidelines when carrying out the analysis
+         of the relevant markets in order to determine whether they are to be subject to ex ante regulation.
+      
+In carrying out their tasks, the NRAs are required, pursuant to Article 7(1) of the Framework Directive, to take the utmost
+         account of Article thereof. In accordance with Article 8(1) of that directive, Member States must ensure that the NRAs take
+         all reasonable measures which are aimed at achieving the objectives set out in Article 8. Furthermore, that provision states
+         that the measures taken by the NRA must be proportionate to those objectives. 
+      
+In the same way, Articles 8(4) of the Access Directive and 17(2) of the Universal Service Directive provide that the NRAs,
+         when they adopt ex ante regulatory obligations on the basis of those directives, must take account of the objectives laid
+         down in Article of the Framework Directive. The ex ante regulatory obligations must be proportionate and justified in the
+         light of those objectives.
+      
+In carrying out those regulatory functions, the NRAs have a broad discretion in order to be able to determine the need to
+         regulate a market according to each situation on a case-by-case basis (see, to that effect, Case C-55/Arcor [2008] ECR I-2931, paragraphs to 156).
+      
+The merits of the present proceedings must be determined in the light of those considerations.
+      
+First, the Court considers it appropriate to examine whether, as the Commission claims, the Federal Republic of Germany has
+         failed to fulfil its obligations under Article of the Framework Directive, by imposing, in Paragraph 9a of the TKG, a principle
+         of non-regulation of new markets.
+      
+In that connection, it must be observed that, under Article of the Framework Directive, the NRAs are to carry out an analysis
+         of the relevant markets in accordance with Article thereof, in order to determine whether those markets must be subject
+         to ex ante regulation. Those articles relate to the electronic communications sector in general and do not exclude new markets
+         or any other markets from their scope.
+      
+Next, it must be recalled that Paragraph 9a(1) of the TKG states that, subject to subparagraph thereof, new markets are
+         not to be subject to regulation within the meaning of Part of the TKG. In accordance with Paragraph 9a(2), where certain
+         facts suggest that, in the absence of regulation, the development of a sustainable competitive market in the area of services
+         or telecommunications networks would be hindered in the long term, the NRA may, by way of derogation from subparagraph 1,
+         submit a new market to regulation within the meaning of  Part of the TKG.
+      
+The wording of Paragraph 9a(1) and (2) of the TKG expressly provides that new markets should not be regulated unless certain
+         factors, such as the absence of sustainable competition on the market, show the need to regulate them. Thus, this general
+         legal provision imposes, first of all in subparagraph 1, a principle of non-regulation of new markets, then provides, in subparagraph
+         thereof, for exceptions to that principle.
+      
+The Federal Republic of Germany contends that the principle of non-regulation of new markets forms part of the common regulatory
+         framework for electronic communications. That Member State relies, in that respect, on recital in the preamble to the Framework
+         Directive, point of the guidelines and recital in the preamble to the Commission recommendation, according to which,
+         as a general rule, new markets should not be subject to ex ante regulation.
+      
+However, such an argument cannot be accepted.
+      
+First of all, recital in the preamble to the Framework Directive states that the guidelines will address the issue of new
+         markets where de facto the market leader is likely to have a substantial market share but should not be subjected to inappropriate obligations.
+         That recital envisages that the regulation of new markets is to take account of the specific characteristics of those markets.
+         Consequently, such a provision cannot be understood as laying down a general principle of non-regulation of those markets.
+      
+Next, according to point of the guidelines, recital in the preamble to the Framework Directive notes that emerging markets,
+         where de facto the market leader is likely to have a substantial market share, should not be subject to inappropriate ex ante regulation.
+         According to that provision of the guidelines, premature imposition of ex ante regulation may unduly influence the competitive
+         conditions taking shape within a new and emerging market.
+      
+Thus, that provision merely repeats the contents of recital in the preamble to the Framework Directive by prohibiting the
+         imposition of inappropriate ex ante obligations. Therefore, the guidelines do not lay down a general rule of non-regulation
+         of new markets either. That finding is also confirmed by the wording of the last two sentences of point of the guidelines,
+         which state that foreclosure of emerging markets by the leading undertaking should be prevented and that NRAs should ensure
+         that they can fully justify any form of early ex ante intervention.
+      
+Finally, recital in the preamble to the Commission recommendation notes that new and emerging markets, in which market
+         power may be found to exist because of ‘first-mover’ advantages, should not in principle be subject to ex ante regulation.
+         Such a provision envisages the non-regulation of new markets where, having regard to first mover advantages, there are undertakings
+         with significant market power. Therefore, that provision calls, where necessary, for the verification by the NRA on a case-by-case
+         basis of the necessary conditions for a finding that a new market does not require regulation.
+      
+It is clear from all the foregoing that, although recital in the preamble to the Framework Directive, point of the guidelines
+         and recital in the preamble to the Commission recommendation propose that, as regards the new markets, the NRAs should
+         proceed cautiously, the fact remains that those provisions do not lay down any general principle of non-regulation with respect
+         to those markets.
+      
+It should be added that, in any event, as it is clear from paragraphs to of this judgment, the Framework Directive confers
+         on the NRA, and not on the national legislature, the task of determining the need for regulation of the markets.
+      
+In that connection, it must be observed that Articles and of the Framework Directive, which are expressly addressed
+         to the NRAs, constitute the legal basis on which the guidelines and the Commission recommendation are founded, and that those
+         two legal instruments serve as a guide for the NRAs when defining and analysing the relevant markets in order to determine
+         whether they must be subject to ex ante regulation.
+      
+According to point of the guidelines, they set out the principles for use by NRAs in the analysis of markets and effective
+         competition under the regulatory framework for electronic communications. Point of the guidelines also states that they
+         are intended to guide NRAs in the exercise of their new responsibilities for defining markets and assessing significant market
+         power. 
+      
+In accordance with point of the Commission recommendation, NRAs are advised to analyse the product and service markets identified
+         in the annex thereto before defining the relevant markets in accordance with Article 15(3) of the Framework Directive.
+      
+Therefore, by laying down a legal provision, according to which, as a general rule, the regulation of new markets by the NRA
+         is excluded, Paragraph 9a of the TKG encroaches on the wide powers conferred on the NRA under the Community regulatory framework,
+         preventing it from adopting regulatory measures appropriate to each particular case. As it is clear from point in the Advocate
+         General’s Opinion, the German legislature cannot alter a decision of the Community legislature and cannot, as a general rule,
+         exempt new markets from regulation.
+      
+It follows that Paragraph 9a(1) of the TKG, by establishing a principle of non-regulation of new markets, is not compatible
+         with Article of the Framework Directive.
+      
+Second, the Commission takes the view that, by defining the concept of ‘new market’ in Paragraph 3(12b) of the TKG, the Federal
+         Republic of Germany has limited the discretion of the NRA and failed to fulfil its obligations under Article 15(3) of the
+         Framework Directive. 
+      
+In that connection, it must be observed that the procedure for defining markets laid down in Article of the Framework Directive
+         is intended to enable NRAs to carry out an analysis of the relevant market in accordance with Article of that directive
+         and, in particular, to verify whether certain undertakings present on the market concerned have significant market power.
+         The definition of the market therefore constitutes the starting point for the competition analysis carried out pursuant to
+         Article of the Framework Directive.
+      
+In that connection, it must be held that the definition of ‘new market’ in Paragraph 3(12b) of the TKG, which refers to ‘a
+         market for services and goods’ does not constitute a definition of a relevant market within the meaning of Article 15(3) of
+         the Framework Directive which might be the subject of a competition analysis under Article of that directive. It follows
+         that Paragraph 3(12b) of the TKG cannot be regarded as limiting the power to define the market, which is the responsibility
+         of the NRA under Article 15(3) of the Framework Directive.
+      
+However, it must be held that the limitation of the German NRA’s discretion as a result of Paragraph 9a(1) of the TKG necessarily
+         affects the NRA’s ability to define the market. In that connection, it must be recalled that the Commission recommendation
+         identifies, in an annex, the markets which must be the subject of an examination under Article 15(3) of the Framework Directive.
+         Having regard to the principle of non-regulation of new markets in Paragraph 9a(1) of the TKG, the NRA will no longer find
+         it necessary to define the relevant markets in accordance with Article 15(3) of the Framework Directive, since the markets
+         identified in the annex to the Commission recommendation fall within the definition in Paragraph 3(12b) of the TKG.
+      
+In those circumstances, Paragraph 9a(1) of the TKG is also incompatible with Article 15(3) of the Framework Directive. 
+      
+Third, the Commission submits that Paragraph 9a(2) of the TKG establishes a hierarchy of the objectives laid down in Article
+         of the Framework Directive, contrary to that provision. 
+      
+According to Paragraph 9a(2) of the TKG, in order to assess the need for regulation and in order to impose measures, the NRA
+         is to take account, in particular, of the objective of promoting effective investment in infrastructure and supporting innovation.
+         The other objectives which are to be taken into consideration by the NRA are listed in Paragraph of the TKG.
+      
+The Federal Republic of Germany claims that the new amendments to the TKG carry out a pre-structuring of the NRA’s intervention
+         on new markets. That Member State takes the view that, having regard to its freedom of action in transposing the common regulatory
+         framework for electronic communications, it may give priority to one of the objectives recognised by the Framework Directive
+         where there is a clear link between that objective and a certain type of market, as is apparent from the reasoning in the
+         Commission recommendation.
+      
+It must be recalled, in that connection, that, under Article 8(2) of the Framework Directive, the NRAs are to promote competition
+         in the provision of electronic communications networks, electronic communications services and associated facilities and services,
+         inter alia, by ensuring that users derive maximum benefit in terms of choice, price, and quality, ensuring that there is no
+         distortion or restriction of competition in the electronic communications sector, encouraging efficient investment in infrastructure,
+         promoting innovation, and encouraging efficient use and ensuring the effective management of radio frequencies and numbering
+         resources.
+      
+In accordance with Article 8(1) of the Framework Directive, the Member States must ensure that in carrying out the regulatory
+         tasks specified in the Framework Directive and the Specific Directives, the NRAs take all reasonable measures which are aimed
+         at achieving the objectives set out in Article 8.
+      
+In addition, it is clear from Article 8(4) of the Access Directive and Article 17(2) of the Universal Service Directive that
+         the obligations imposed under those articles are to be based on the nature of the problem identified, proportionate and justified
+         in the light of the objectives set out in Article of the Framework Directive.
+      
+It is clear from those provisions that the NRAs are required to promote the regulatory objectives referred to in Article of the Framework Directive when carrying out the regulatory tasks specified in the common regulatory framework. Consequently,
+         as noted by the Advocate General, in paragraph of his Opinion, it is also for the NRAs, and not the national legislatures,
+         to balance those objectives when defining and analysing a relevant market which may be susceptible to regulation. 
+      
+In that context, the Court has interpreted Article of the Framework Directive as placing on the Member States the obligation
+         to ensure that the NRAs take all reasonable measures aimed at promoting competition in the provision of electronic communications
+         services, ensuring that there is no distortion or restriction of competition in the electronic communications sector and removing
+         remaining obstacles to the provision of those services at European level (see, Case C-380/Centro Europa [2008] ECR I-349, paragraph 81, and Case C-227/Commission v Poland [2008] ECR I-0000, paragraph 63).
+      
+A national provision such as Paragraph 9a(2) of the TKG, which gives priority to only one of the objectives recognised by
+         the Framework Directive during the analysis by the NRA of the need to regulate a new market, gives a weighting to those objectives,
+         even though such a weighting exercise is a matter for the NRA when carrying out the regulatory tasks assigned to it.
+      
+It follows that Paragraph 9a(2) of the TKG, which gives priority to one particular regulatory objective, infringes Article
+         8(4) of the Access Directive, Article 8(1) and (2) of the Framework Directive and Article 17(2) of the Universal Service Directive
+         and limits the NRA’s discretion in a manner incompatible with those directives.
+      
+Fourth, as regards the Commission’s criticism that Paragraph 9a(2) of the TKG imposes conditions which are more restrictive
+         than those laid down by the Framework Directive for analysing the markets, it must be recalled that that provision states
+         that where certain facts suggest that in the absence of regulation the development of a sustainable competitive market for
+         telecommunications services or networks would be hindered in the long term, the NRA may, by way of derogation from Paragraph
+         9a(1), subject a new market to ‘regulation’ within the meaning of Part of the TKG, in accordance with the provisions of
+         Paragraphs to thereof. 
+      
+Thus, it is clear from Paragraph 9a(2) of the TKG that the NRA is required to analyse the need for regulation of new markets
+         where there is a risk that the development of sustainable competition on that market will be hindered in the long term. 
+      
+It must be recalled that, in accordance with Article of the Framework Directive, the NRAs are required to determine whether
+         the relevant markets are effectively competitive. If a market is not effectively competitive, the NRA concerned is to impose
+         ex ante regulatory obligations on undertakings having significant market power. 
+      
+The criteria laid down by Paragraph 9a(2) of the TKG for a new market, by way of exception, to be subject to ex ante regulation,
+         that is the risk of a long-term impediment to the development of sustainable competition, are more restrictive than those
+         in Article of the Framework Directive, according to which ex ante regulation is justified merely if it is established that
+         the relevant market is not effectively competitive.
+      
+Accordingly, Paragraph 9a(2) of the TKG, by imposing conditions which are more restrictive than those laid down by the Framework
+         Directive for analysing relevant markets susceptible to regulation, infringes Article of the Framework Directive and limits
+         the NRA’s discretion.
+      
+It follows from the foregoing considerations that the complaint alleging limitation of the NRA’s discretion must be upheld.
+      
+ The complaint alleging infringement of the consultation and consolidation procedures provided for under Articles and of
+            the Framework Directive
+ Arguments of the parties
+The Commission submits that, under Paragraph 9a of the TKG, the NRA is require to follow the consultation and consolidation
+         procedures only where it takes the view that ex ante regulation is necessary. Thus, the NRA may define and analyse a ‘market’
+         within the meaning of Article 15(3) of the Framework Directive, and adopt a decision not to regulate it, in accordance with
+         Article of that directive, without following the procedures provided for by the common regulatory framework. 
+      
+However, such a limitation on the consultation procedure is contrary to Articles and of the Framework Directive. The Commission
+         submits that the Federal Republic of Germany, by taking the view that the obligation to follow those procedures exists only
+         where an obligation to impose ex ante regulation is established, conflates the definition of the market and its identification
+         as a market susceptible to regulation.
+      
+The Federal Republic of Germany contends that it has already informed the Commission that, according to the interpretation
+         criteria of the Bundesnetzagentur, the consultation and consolidation procedures for the new markets will be carried out in
+         accordance with the requirements of the directives of the common regulatory framework for electronic communications.
+      
+That Member State also takes the view that Paragraph 9a of the TKG ensures compliance with the consultation and consolidation
+         procedures. First, that provision only applies in the context of the normal procedure for the definition and analysis of the
+         market and, second, subparagraph thereof assumes the existence of a market defined in the context of the market definition
+         procedure in accordance with Paragraph 10(2) of the TKG, which complies with the principles of competition law. In that connection,
+         the Federal Republic of Germany has wholly fulfilled its obligations in respect of consultation and consolidation arising
+         from Articles and of the Framework. The Commission has not established any infringement of those obligations and bases
+         the infringement complained of on mere presumptions. 
+      
+ Findings of the Court
+It must be observed that both Article 15(3) of the Framework Directive and Article 16(6) thereof refer, with respect to the
+         definition and analysis of the market, to the procedures laid down in Articles and of that directive.
+      
+In that connection, it has already been held that the principle of non-regulation of new markets provided for in Paragraph
+         9a(1) of the TKG limits the discretion of the NRA under Articles 15(3) and of the Framework Directive. The limitation of
+         the NRA’s discretion to submit ‘new markets’ to a definition and to a market analysis necessarily involves a failure to comply
+         in certain circumstances with the procedures provided for in Articles and of the Framework Directive. 
+      
+Accordingly, the Commission’s second complaint must also be upheld.
+      
+It follows from all of the foregoing considerations that, by adopting Paragraph 9a of the TKG, the Federal Republic of Germany
+         has failed to fulfil its obligations under Article 8(4) of the Access Directive, Articles to 8(1) and (2), 15(3) and of the Framework Directive and Article 17(2) of the Universal Service Directive.
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party’s pleadings. Since the Commission has applied for costs to be awarded against the Federal
+         Republic of Germany, and the latter has been unsuccessful, the Federal Republic of Germany must be ordered to pay the costs.
+      
+On those grounds, the Court (Fourth Chamber) hereby:
+1.      Declares that, by adopting  Paragraph 9a of the Law on Telecommunications (Telekommunikationsgesetz), of June 2004, the
+            Federal Republic of Germany has failed to fulfil its obligations under Article 8(4) of Directive 2002/19/EC of the European
+            Parliament and of the Council of March on access to, and interconnection of, electronic communications networks and
+            associated facilities (Access Directive), Articles to 8(1) and (2), 15(3) and of Directive 2002/21/EC of the European
+            Parliament and of the Council of March on a common regulatory framework for electronic communications networks and
+            services (Framework Directive), and Article 17(2) of Directive 2002/22/EC of the European Parliament and of the Council of
+            March on universal service and users' rights relating to electronic communications networks and services (Universal
+            Service Directive);
+2.      Orders the Federal Republic of Germany to pay the costs.
+[Signatures]
+* Language of the case: German.
+      
+Top  
+ 

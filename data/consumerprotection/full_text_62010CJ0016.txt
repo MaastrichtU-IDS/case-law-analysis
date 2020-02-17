@@ -1,0 +1,414 @@
+
+Case C-16/The Number (UK) Ltd and Conduit Enterprises Ltd
+v
+Office of Communications and British Telecommunications plc
+(Reference for a preliminary ruling from the Court of Appeal (England and Wales) (Civil Division))
+(Approximation of laws – Telecommunications – Networks and services – Directive 2002/22/EC – Designation of undertakings to provide universal service – Specific obligations imposed on the designated undertaking – Directory enquiry services and directories)
+Summary of the Judgment
+Approximation of laws – Telecommunications sector – Universal service and users’ rights – Directive 2002/(European Parliament and Council Directives 2002/20, Art. 6(2), and 2002/22, Arts 3(2) and 8(1))
+Article 8(1) of Directive 2002/on universal service and users’ rights relating to electronic communications networks and
+         services (Universal Service Directive) permits Member States, when they decide to designate one or more undertakings under
+         that provision to guarantee the provision of universal service, or different elements of universal service, as identified
+         in Articles to and 9(2) of that same directive, to impose on such undertakings only the specific obligations, provided
+         for in the directive, that are associated with the provision of that service, or elements thereof, to end-users by the designated
+         undertakings themselves.
+      
+While, in accordance with Article 3(2) of the Universal Service Directive, it is for the Member States to determine ‘the most
+         efficient and appropriate approach for ensuring the implementation of universal service’, the discretion conferred on Member
+         States by that provision does not permit them to impose on individual undertakings specific obligations other than those falling
+         within the cases contemplated in Article 6(2) of Directive 2002/on the authorisation of electronic communications networks
+         and services. 
+      
+(see paras 38, 40, operative part)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+February (*)
+      
+(Approximation of laws – Telecommunications – Networks and services – Directive 2002/22/EC – Designation of undertakings to provide universal service – Specific obligations imposed on the designated undertaking – Directory enquiry services and directories)
+In Case C‑16/10,
+REFERENCE for a preliminary ruling under Article TFEU from the Court of Appeal (England & Wales) (Civil Division) (United
+         Kingdom), made by decision of December 2009, received at the Court on January 2010, in the proceedings
+      
+The Number (UK) Ltd,
+Conduit Enterprises Ltd
+v
+Office of Communications,
+British Telecommunications plc,
+THE COURT (Third Chamber),
+composed of K. Lenaerts (Rapporteur), President of the Chamber, D. Šváby, E. Juhász, G. Arestis and T. von Danwitz, Judges,
+Advocate General: J. Mazák,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on December 2010,
+after considering the observations submitted on behalf of:
+–        The Number (UK) Limited and Conduit Enterprises Limited, by D. Rose QC, and B. Kennelly, Barrister,
+–        British Telecommunications plc, by R. Thomson QC, J. O’ Flaherty, Barrister, and S. Murray, Solicitor,
+–        the United Kingdom Government, by F. Penlington, acting as Agent, and C. Vajda QC,
+–        the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,
+–        the European Commission, by G. Braun and A. Nijenhuis, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Directive 2002/20/EC of the European Parliament and
+         of the Council of March on the authorisation of electronic communications networks and services (Authorisation Directive)
+         (OJ L 108, p. 21), Directive 2002/21//EC of the European Parliament and of the Council of March on a common regulatory
+         framework for electronic communications networks and services (Framework Directive) (OJ L 108, p. 33) (‘the Framework
+         Directive’) and Directive 2002/22/EC of the European Parliament and of the Council of March on universal service and
+         users’ rights relating to electronic communications networks and services (Universal Service Directive) (OJ L 108, p.
+         51) in the versions applicable when the order for reference was made. 
+      
+The reference was made in proceedings between The Number (UK) Ltd (‘The Number’) and Conduit Enterprises Ltd (‘Conduit Enterprises’),
+         two providers of directory enquiry services and directories in the United Kingdom, and British Telecommunications plc (‘BT’)
+         concerning amounts charged by BT for providing information from a database containing the details of subscribers to the telecommunications
+         service which BT is required to maintain as a universal service provider. 
+      
+ Legal context
+ European Union law
+Recital in the preamble to the Universal Service Directive is worded as follows:
+      
+‘Member States should continue to ensure that the services set out in Chapter II are made available with the quality specified
+         to all end-users in their territory, irrespective of their geographical location, and, in the light of specific national conditions,
+         at an affordable price. ...’ 
+      
+Recital in the preamble to the Universal Service Directive states as follows:
+      
+‘Directory information and a directory enquiry service constitute an essential access tool for publicly available telephone
+         services and form part of the universal service obligation. Users and consumers desire comprehensive directories and a directory
+         enquiry service covering all listed telephone subscribers and their numbers (including fixed and mobile numbers) and want
+         this information to be presented in a non-preferential fashion. …’
+      
+Article 3(2) of the Universal Service Directive provides as follows:
+      
+‘Member States shall determine the most efficient and appropriate approach for ensuring the implementation of universal service,
+         whilst respecting the principles of objectivity, transparency, non‑discrimination and proportionality. They shall seek to
+         minimise market distortions, in particular the provision of services at prices or subject to other terms and conditions which
+         depart from normal commercial conditions, whilst safeguarding the public interest.’ 
+      
+Article 4(1) of the Universal Service Directive is worded as follows:
+      
+‘Member States shall ensure that all reasonable requests for connection at a fixed location to the public telephone network
+         and for access to publicly available telephone services at a fixed location are met by at least one undertaking.’
+      
+Article of the Universal Service Directive, entitled ‘Directory enquiry services and directories’, is worded as follows:
+         
+      
+‘1.      Member States shall ensure that: 
+(a)      at least one comprehensive directory is available to end-users in a form approved by the relevant authority, whether printed
+         or electronic, or both, and is updated on a regular basis, and at least once a year;
+      
+(b)      at least one comprehensive telephone directory enquiry service is available to all end‑users, including users of public pay
+         telephones.
+      
+2.      The directories in paragraph shall comprise, subject to the provisions of Article of Directive 97/66/EC, all subscribers
+         of publicly available telephone services. 
+      
+3.      Member States shall ensure that the undertaking(s) providing the services referred to in paragraph apply the principle of
+         non‑discrimination to the treatment of information that has been provided to them by other undertakings.’
+      
+Article 8(1) of the Universal Service Directive is worded as follows:
+      
+‘Member States may designate one or more undertakings to guarantee the provision of universal service as identified in Articles
+         4, 5, and and, where applicable, Article 9(2) so that the whole of the national territory can be covered. Member States
+         may designate different undertakings or sets of undertakings to provide different elements of universal service and/or to
+         cover different parts of the national territory.’ 
+      
+Article of the Universal Service Directive, entitled ‘Affordability of tariffs’, provides as follows:
+      
+‘1.      National regulatory authorities shall monitor the evolution and level of retail tariffs of the services identified in Articles
+         4, 5, and as falling under the universal service obligations and provided by designated undertakings, in particular in
+         relation to national consumer prices and income. 
+      
+2.      Member States may, in the light of national conditions, require that designated undertakings provide tariff options or packages
+         to consumers which depart from those provided under normal commercial conditions, in particular to ensure that those on low
+         incomes or with special social needs are not prevented from accessing or using the publicly available telephone service.
+      
+…
+4.      Member States may require undertakings with obligations under Articles 4, 5, and to apply common tariffs, including geographical
+         averaging, throughout the territory, in the light of national conditions or to comply with price caps.
+      
+…’
+Article of the Universal Service Directive, entitled ‘Quality of service of designated undertakings’, provides as follows:
+         
+      
+‘1.      National regulatory authorities shall ensure that all designated undertakings with obligations under Articles 4, 5, 6, and
+         9(2) publish adequate and up‑to‑date information concerning their performance in the provision of universal service, based
+         on the quality of service parameters, definitions and measurement methods set out in Annex III. The published information
+         shall also be supplied to the national regulatory authority.
+      
+….
+4.      National regulatory authorities shall be able to set performance targets for those undertakings with universal service obligations
+         at least under Article 4. In so doing, national regulatory authorities shall take account of views of interested parties,
+         in particular as referred to in Article 33. 
+      
+5.      Member States shall ensure that national regulatory authorities are able to monitor compliance with these performance targets
+         by designated undertakings. 
+      
+…’
+Article 25(2) of the Universal Service Directive is worded as follows:
+      
+‘Member States shall ensure that all undertakings which assign telephone numbers to subscribers meet all reasonable requests
+         to make available, for the purposes of the provision of publicly available directory enquiry services and directories, the
+         relevant information in an agreed format on terms which are fair, objective, cost oriented and non‑discriminatory.’ 
+      
+Article of the Framework Directive, entitled ‘Policy objectives and regulatory principles’, provides as follows: 
+      
+‘1.      Member States shall ensure that in carrying out the regulatory tasks specified in this Directive and the Specific Directives,
+         the national regulatory authorities take all reasonable measures which are aimed at achieving the objectives set out in paragraphs
+         2, and 4. Such measures shall be proportionate to those objectives. 
+      
+Member States shall ensure that in carrying out the regulatory tasks specified in this Directive and the Specific Directives,
+         in particular those designed to ensure effective competition, national regulatory authorities take the utmost account of the
+         desirability of making regulations technologically neutral.
+      
+National regulatory authorities may contribute within their competencies to ensuring the implementation of policies aimed
+         at the promotion of cultural and linguistic diversity, as well as media pluralism. 
+      
+2.      The national regulatory authorities shall promote competition in the provision of electronic communications networks, electronic
+         communications services and associated facilities and services by inter alia: 
+      
+(a)      ensuring that users … derive maximum benefit in terms of choice, price, and quality;
+…
+3.      The national regulatory authorities shall contribute to the development of the internal market … 
+4.      The national regulatory authorities shall promote the interests of the citizens of the European Union by inter alia: 
+(a)      ensuring all citizens have access to a universal service specified in the [Universal Service Directive];
+…’
+Article 3(2) of the Authorisation Directive is worded as follows:
+      
+‘The provision of electronic communications networks or the provision of electronic communications services may, without prejudice
+         to the specific obligations referred to in Article 6(2) or rights of use referred to in Article 5, only be subject to a general
+         authorisation. The undertaking concerned may be required to submit a notification but may not be required to obtain an explicit
+         decision or any other administrative act by the national regulatory authority before exercising the rights stemming from the
+         authorisation. Upon notification, when required, an undertaking may begin activity, where necessary subject to the provisions
+         on rights of use in Articles 5, and 7.’ 
+      
+Article 6(2) of the Authorisation Directive provides as follows:
+      
+‘Specific obligations which may be imposed on providers of electronic communications networks and services under Articles
+         5(1), 5(2), and of Directive 2002/19/EC (Access Directive) and Articles 16, 17, and of Directive 2002/22/EC (Universal
+         Service Directive) or on those designated to provide universal service under the said Directive shall be legally separate
+         from the rights and obligations under the general authorisation. In order to achieve transparency for undertakings, the criteria
+         and procedures for imposing such specific obligations on individual undertakings shall be referred to in the general authorisation.’
+         
+      
+ National law
+Universal Service Condition (‘USC 7’), imposed on BT in connection with its designation as universal service provider under
+         the Electronic Communications (Universal Service) Regulations 2003, is worded as follows: 
+      
+‘7.BT shall maintain a database containing directory information for all subscribers who have been allocated telephone numbers
+         by any [network or service] communication provider (“the database”). BT shall ensure that the database is updated on a regular
+         basis. 
+      
+7.BT shall, in accordance with paragraphs 7.and 7.below, and on request, make available:
+(a)      to any [network or service] communications provider subject to paragraph 8.of general condition for the purpose of allowing
+         that [network or service] communications provider to comply with that paragraph, such directories as BT compiles which comply
+         with the requirements of that general condition; 
+      
+(b)      to any person seeking to provide publicly available directory enquiry facilities and/or directories, the contents of the database,
+         in machine readable form. 
+      
+7.BT shall supply the items in sub‑paragraphs (a) and (b) of paragraph 7.above at the reasonable request of the person requesting
+         such items. Without prejudice to the generality of the foregoing, BT may refuse to supply such items if: 
+      
+(a)      the person requesting such items does not undertake to process the data or information contained in them in accordance with
+         any relevant code of practice, and/or 
+      
+(b)      BT has reasonable grounds to believe that the person requesting such items with not comply with relevant data protection legislation.
+7.BT shall supply the items in sub‑paragraphs (a) and (b) of paragraph 7.above on terms which are fair, objective, cost oriented
+         and not unduly discriminatory, and in a format which is agreed between BT and the person requesting the information. Where
+         no such agreement is reached, the Director may determine the format to be applied to the information in accordance with his
+         dispute resolution functions.’ 
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+In the United Kingdom, with the exception of the area around the city of Hull, the universal service provider for telecommunications
+         is BT. 
+      
+The Office of Communications (‘OFCOM’) is the United Kingdom’s national regulatory authority for telecommunications. In 2003,
+         OFCOM replaced Oftel, the Office of Telecommunications. 
+      
+USC 7, which was imposed by Oftel, requires BT to make available to other providers of directory enquiry services and directories
+         which were not designated as providers of universal service, on terms which are fair, objective, cost‑oriented and non‑discriminatory
+         and in an agreed format, its comprehensive telephone subscriber database, known as ‘OSIS’, which it compiles by collecting
+         data from all operators providing fixed telephone services. 
+      
+Thus, instead of imposing a user‑driven universal service obligation, USC imposes a wholesale obligation on BT, which means,
+         in practice, that there are a number of competing providers of directory enquiry services and directories on the United Kingdom
+         market which operate using the OSIS database. 
+      
+In its judgment in Case C‑109/KPN Teleocm [2004] ECR I‑11273, the Court held, inter alia, that the amounts charged by operators offering fixed telephone services for
+         making available ‘relevant information’ on subscribers should not include the internal costs of assembling, compiling and
+         updating the operator’s own subscriber data. The Number and Conduit Enterprises challenged the amounts charged by BT for use
+         of its OSIS database, relying on that judgment in support of their action. 
+      
+OFCOM, before which those disputes were brought in 2005, gave its decisions on March 2008. In those decisions, OFCOM found,
+         inter alia, that USC was incompatible with European Union law as it did not transpose correctly the requirements of Article
+         of the Universal Service Directive. Thus, according to OFCOM, BT was not required to grant access to the OSIS database on
+         regulated terms, except as regards its own subscriber data. It is in fact required to provide those latter data under another
+         obligation, separate from that laid down in USC 7, which is not at issue in the main proceedings, is applicable to all electronic
+         communications undertakings and transposes Article of the Universal Service Directive. 
+      
+By decision of November 2008, the Competition Appeal Tribunal allowed the appeal against the determination of OFCOM. It
+         thus considered that USC correctly implemented the relevant provisions of the Universal Service Directive. 
+      
+BT, supported by OFCOM, appealed against the decision of the Competition Appeal Tribunal before the Court of Appeal. While
+         the Court of Appeal reached the preliminary conclusion that USC was contrary to the Universal Service Directive, it considered
+         it necessary to obtain a preliminary ruling from the Court of Justice before giving judgment, taking the view that ‘a consideration
+         of the principles involved, differences between the authoritative texts and the points taken in argument’ demonstrated ‘that
+         the point cannot be regarded as beyond doubt’. 
+      
+In those circumstances, the Court of Appeal (England and Wales) (Civil Division) decided to stay the proceedings and refer
+         the following questions to the Court for a preliminary ruling: 
+      
+‘1.      Is the power afforded to Member States under Article 8(1) of [the Universal Service Directive], read together with Article
+         of [the Framework Directive], Articles 3(2) and 6(2) of [the Authorisation Directive], and Article 3(2) of the Universal
+         Service Directive and other material provisions of EC law, to designate one or more undertakings to guarantee the provision
+         of universal service, or different elements of universal service, as identified in Articles 4, 5, 6. and 9(2) of the Universal
+         Service Directive, to be interpreted as:
+      
+(a)      permitting the Member State, where it decides to designate an undertaking pursuant to this provision, only to impose specific
+         obligations on that undertaking which require the undertaking itself to provide to end‑users the universal service or element
+         thereof in respect of which it is designated; or
+      
+(b)      permitting the Member State, when it decides to designate an undertaking under this provision, to place the designated undertaking
+         under such specific obligations as the Member State considers to be most efficient, appropriate and proportionate for the
+         purpose of guaranteeing the provision of the universal service or element thereof to end‑users, whether or not those obligations
+         require the designated undertaking itself to provide the universal service or element thereof to end‑users? 
+      
+2.      Do the above provisions, when read also in the light of Article 3(2) of the Universal Service Directive, permit Member States,
+         in circumstances where an undertaking is designated under Article 8(1) of the Universal Service Directive in relation to Article
+         5(1)(b) of that directive (comprehensive telephone directory enquiry service) without being required to supply such a service
+         directly to end‑users, to impose specific obligations on that designated undertaking:
+      
+(a)      to maintain and update a comprehensive database of subscriber information;
+(b)      to make available in machine readable form the contents of a comprehensive database of subscriber information, as updated
+         on a regular basis, to any person seeking to provide publicly available directory enquiry services or directories (whether
+         or not that person intends to provide a comprehensive directory enquiry service to end‑users); and
+      
+(c)      to supply the database on terms which are fair, objective, cost oriented and non‑discriminatory to such a person?’
+ The questions referred
+ Question By its first question, the Court of Appeal asks whether Article 8(1) of the Universal Service Directive permits Member States,
+         when deciding to designate one or more undertakings under that provision to guarantee the provision of universal service or
+         different elements of universal service, as identified in Articles to and 9(2) of that directive, to impose on those undertakings
+         only specific obligations as to the manner in which they are to provide the universal service to end‑users in respect of which
+         they have been designated or whether, on the contrary, Member States are entitled to impose on the designated undertakings
+         such obligations as they consider most appropriate for the purpose of guaranteeing the provision of universal service, irrespective
+         of whether those undertakings provide the service themselves. 
+      
+As a preliminary point, it should be noted that that question is raised in a dispute concerning, inter alia, the compatibility
+         with European Union law of a wholesale obligation under the national universal service arrangements applicable to, inter alia,
+         directory enquiry services and directories, which is imposed on a single operator, namely BT. That obligation requires BT
+         to maintain and make available to other providers of directory enquiry services and directories, in an agreed format and on
+         terms that are fair, objective, cost‑oriented and non‑discriminatory, its OSIS database, which it compiles by gathering data
+         from all operators providing a fixed telephone service. 
+      
+That is the context in which the Court of Appeal seeks to ascertain whether the provisions of the Authorisation Directive,
+         the Framework Directive and the Universal Service Directive, in particular Article 8(1) of the Universal Service Directive,
+         permit Member States to impose such a wholesale obligation on a specific operator in designating that operator under that
+         provision in order to achieve indirectly, by creating a suitable competitive environment, the universal service objective
+         set out in recital of the preamble to the Universal Service Directive and referred to in Article thereof, which consists
+         in making available to all end‑users comprehensive directory enquiry services and directories. 
+      
+In order to ascertain the meaning and scope of Article 8(1) of the Universal Service Directive, it must, first, be viewed
+         against its legislative background (see, by analogy, Case C‑475/Banca popolare di Cremona [2006] ECR I‑9373, paragraph and the case‑law cited). Next, it must be interpreted by having regard to its wording, the
+         overall scheme of the directive and the objectives pursued by the legislator. 
+      
+Article 3(2) of the Authorisation Directive provides that the provision of electronic communications networks or the provision
+         of electronic communications services may, without prejudice to the specific obligations referred to in Article 6(2) of that
+         directive or rights of use for radio frequencies and numbers referred to in Article thereof, only be subject to a general
+         authorisation. The latter rights are not at issue in the case in the main proceedings. 
+      
+Accordingly, Member States are entitled to impose specific obligations on one or more individual undertakings only in so far
+         as such obligations fall within the cases contemplated in Article 6(2) of the Authorisation Directive. That provision refers
+         inter alia to obligations imposed on undertakings designated to provide universal service under the Universal Service Directive.
+         Those obligations include the provision of comprehensive directory enquiry services and directories referred to in Article
+         of that directive. It is Article 8(1) of the Universal Service Directive which provides for the designation of operators
+         responsible for providing universal service or certain elements of universal service. 
+      
+As an exception to the prohibition on imposing specific obligations on operators individually, the obligations which may be
+         imposed under the Universal Service Directive on undertakings designated in accordance with Article 8(1) thereof to provide
+         universal service are to be interpreted strictly. 
+      
+While the wording of the first sentence of Article 8(1) of the Universal Service Directive provides for the designation of
+         an undertaking ‘to guarantee the provision’ of universal service, the second sentence of that provision also states that ‘Member
+         States may designate different undertakings or sets of undertakings to provide different elements of universal service’. It
+         therefore follows from the wording of that provision, taken as a whole, that a Member State can impose on a designated undertaking
+         only the obligations specifically laid down by the provisions of the Universal Service Directive relating to the provision
+         by that undertaking itself to end‑users of one of the specific elements of universal service identified in Articles to and 9(2) of the directive. 
+      
+It should be added that the fact that the undertaking itself is to provide universal service to users does not mean that it
+         is not possible for that undertaking to subcontract the provision of the service to a third party, providing that it remains
+         responsible to the competent authorities of the Member State for the manner in which the service is provided. 
+      
+Moreover, that interpretation is supported by considerations relating to the general scheme of the Universal Service Directive
+         and its objectives. The clear implication of the provisions of Articles and of that directive, which relate to the tariffs
+         applied and monitoring by the national regulatory authorities of the performance of designated undertakings in the provision
+         of universal service, respectively, is that it is necessarily those undertakings which are to provide that service themselves.
+         
+      
+With regard, first, to Article of the Universal Service Directive, it is apparent from recital in the preamble to that
+         directive that one of its main objectives is to ensure that of a minimum set of electronic communications services is provided
+         to end‑users at an affordable price. To that end, Article of the Universal Service Directive, in particular Article 9(1),
+         (2) and (4), introduces a mechanism for the monitoring and regulation by the competent national authorities of the structure
+         and level of tariffs applied by the undertaking designated to provide elements of universal service. 
+      
+On the other hand, Article of the Universal Service Directive does not provide for any mechanism for regulating prices charged
+         by undertakings other than the designated undertaking. Accordingly, even if such undertakings could have access, at tariffs
+         set by the national regulator, to a comprehensive database of all telephone subscribers, such as BT’s OSIS database, as a
+         result of a specific national obligation such as USC 7, they would not be required to provide at an affordable price the element
+         of universal service referred to in Article of that directive consisting in making comprehensive directory enquiry services
+         and directories available to all end‑users. That being the case, an obligation such as that laid down by the national legislation
+         at issue in the main proceedings does not, as such, guarantee that the element of universal service in question is made available
+         to all end‑users at an affordable price. 
+      
+Second, according to Article of the Universal Service Directive, it is for the national regulatory authorities to monitor
+         the provision of universal service by the designated undertakings and to ensure, where necessary, compliance with certain
+         specific requirements relating to quality of service. That provision therefore starts from the premiss that the designated
+         undertakings have at their disposal operational data on the provision of universal service and are in a position to directly
+         influence the manner in which that service is provided, which presupposes that they provide the service themselves. 
+      
+It is true that, in accordance with Article 3(2) of the Universal Service Directive, it is for the Member States to determine
+         ‘the most efficient and appropriate approach for ensuring the implementation of universal service’. However, the discretion
+         conferred on Member States by that provision does not permit them to impose on individual undertakings specific obligations
+         other than those falling within the cases contemplated in Article 6(2) of the Authorisation Directive. Thus, Article 3(2)
+         of the Universal Service Directive cannot be interpreted in such a manner as to widen the scope of the designation permitted
+         under Article 8(1) of that directive, so as to enable a Member State to impose on an undertaking thus designated obligations
+         other than those provided for in that directive. 
+      
+Lastly, as to any relevance Article 25(2) of the Universal Service Directive may have in that context, it need merely be observed
+         that that provision simply requires Member States to ensure that ‘all undertakings which assign telephone numbers to subscribers’
+         meet all reasonable requests to make available data on their own subscribers for the purposes of the provision of directory
+         enquiry services and directories. Thus, that provision, which imposes an obligation generally applicable to all operators,
+         has no effect on the scope of the specific obligations which a Member State is entitled to impose on one or more individual
+         undertakings which it designates to provide universal service in accordance with Article 8(1) of the Universal Service Directive.
+         
+      
+In the light of the foregoing considerations, the answer to the first question referred is that Article 8(1) of the Universal
+         Service Directive permits Member States, where they decide to designate one or more undertakings under that provision to guarantee
+         the provision of universal service, or different elements of universal service, as identified in Articles to and 9(2)
+         of that same directive, to impose on such undertakings only the specific obligations, provided for in the directive, which
+         are associated with the provision of that service, or elements thereof, to end‑users by the designated undertakings themselves.
+         
+      
+ Question Having regard to the answer given to the first question, there is no need to reply to the second question referred. The second
+         question is based on the assumption that a Member State has lawfully imposed a specific obligation on an undertaking designated
+         under Article 8(1) of the Universal Service Directive without that undertaking’s being required to provide that service directly
+         to end‑users and essentially asks whether such an obligation may encompass requirements to maintain a database and make it
+         available to other operators at wholesale level. It is apparent from the answer given to the first question that no such obligation
+         may be imposed under that provision. 
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable. 
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+Article 8(1) of Directive 2002/22/EC of the European Parliament and of the Council of March on universal service and
+            users’ rights relating to electronic communications networks and services (Universal Service Directive) permits Member States,
+            where they decide to designate one or more undertakings under that provision to guarantee the provision of universal service,
+            or different elements of universal service, as identified in Articles to and 9(2) of that same directive, to impose on
+            such undertakings only the specific obligations, provided for in the directive, which are associated with the provision of
+            that service, or elements thereof, to end‑users by the designated undertakings themselves.
+[Signatures]
+* Language of the case: English.
+      
+Top  
+ 
